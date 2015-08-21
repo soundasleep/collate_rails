@@ -49,3 +49,9 @@ Now you can update your views as necessary:
   / p_ is an equivalent to pluralize()
   =t("%{words} in the dictionary", words: p_(Dictionary.count, "word"))
 ```
+
+## TODO
+
+1. How to filter this data set to only get the strings used in your application
+1. How to add your own custom translations
+
