@@ -1,0 +1,17 @@
+msgid "English"
+msgstr "Igilisi"
+
+msgid "French"
+msgstr "Falani"
+
+msgid "Speak"
+msgstr "tautala"
+
+msgid "Voice"
+msgstr "leo"
+
+msgid "Voice chat"
+msgstr "leo talatalanoa"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/sm.po by load_po_file"

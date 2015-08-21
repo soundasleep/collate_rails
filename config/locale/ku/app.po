@@ -1,0 +1,2720 @@
+msgid "#10 Envelope"
+msgstr "Zarfa #10"
+
+msgid "#11 Envelope"
+msgstr "Zarfa #11"
+
+msgid "#12 Envelope"
+msgstr "Zarfa #12"
+
+msgid "#14 Envelope"
+msgstr "Zarfa #14"
+
+msgid "#9 Envelope"
+msgstr "Zarfa #9"
+
+msgid "(None)"
+msgstr "(Ne yek jî)"
+
+msgid "10 minutes"
+msgstr "xulek"
+
+msgid "10x11"
+msgstr "10x11"
+
+msgid "10x13"
+msgstr "10x13"
+
+msgid "10x14"
+msgstr "10x14"
+
+msgid "10x15"
+msgstr "10x15"
+
+msgid "11x12"
+msgstr "11x12"
+
+msgid "11x15"
+msgstr "11x15"
+
+msgid "12x19"
+msgstr "12x19"
+
+msgid "2 hours"
+msgstr "demjimêr"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "5x7"
+msgstr "5x7"
+
+msgid "6 hours"
+msgstr "demjimêr"
+
+msgid "6x9 Envelope"
+msgstr "Zarfa 6x9"
+
+msgid "7x9 Envelope"
+msgstr "Zarfa 7x9"
+
+msgid "9x11 Envelope"
+msgstr "Zarfa 9x11"
+
+msgid "A file named \"%{string}\" already exists.  Do you want to replace it?"
+msgstr "Pelek bi navê \"%{string}\" ji berê ve heye. Tu dixwazî ser wî binivîsî?"
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A0x2"
+msgstr "A0x2"
+
+msgid "A0x3"
+msgstr "A0x3"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A1x3"
+msgstr "A1x3"
+
+msgid "A1x4"
+msgstr "A1x4"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A2x3"
+msgstr "A2x3"
+
+msgid "A2x4"
+msgstr "A2x4"
+
+msgid "A2x5"
+msgstr "A2x5"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A3 Extra"
+msgstr "A3 Extra"
+
+msgid "A3x3"
+msgstr "A3x3"
+
+msgid "A3x4"
+msgstr "A3x4"
+
+msgid "A3x5"
+msgstr "A3x5"
+
+msgid "A3x6"
+msgstr "A3x6"
+
+msgid "A3x7"
+msgstr "A3x7"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A4 Extra"
+msgstr "A4 Extra"
+
+msgid "A4 Tab"
+msgstr "A4 Tab"
+
+msgid "A4x3"
+msgstr "A4x3"
+
+msgid "A4x4"
+msgstr "A4x4"
+
+msgid "A4x5"
+msgstr "A4x5"
+
+msgid "A4x6"
+msgstr "A4x6"
+
+msgid "A4x7"
+msgstr "A4x7"
+
+msgid "A4x8"
+msgstr "A4x8"
+
+msgid "A4x9"
+msgstr "A4x9"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A5 Extra"
+msgstr "A5 Extra"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "A_t:"
+msgstr "_Li:"
+
+msgid "Accel Group"
+msgstr "Kom"
+
+msgid "Action"
+msgstr "Çalakî"
+
+msgid "Active"
+msgstr "Çalak"
+
+msgid "Add Cover Page"
+msgstr "Rûpelê xuya lê zêde bike"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "Belgedanka heyî li beyanameyê zêde bike"
+
+msgid "Add the folder '%{string}' to the bookmarks"
+msgstr "Belgedankekê  '%{string}' li beyanameyê zêde bike"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "Beyanameya hilbijartî li peldankê zêde bike"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "Belgedanka hilbijartî li beyanameyê zêde bike"
+
+msgid "Adjusts the volume"
+msgstr "Dengî eyar dike"
+
+msgid "Advanced"
+msgstr "Pêşketî"
+
+msgid "After"
+msgstr "Piştî"
+
+msgid "Align set"
+msgstr "Hîzakirin"
+
+msgid "Alignment"
+msgstr "Hîzakirin"
+
+msgid "All Margins"
+msgstr "Kelek"
+
+msgid "All sheets"
+msgstr "Hemû kaxiz"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Amharic (EZ+)"
+msgstr "Habeşî (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "Asta rengê şîn di reng de."
+
+msgid "Amount of green light in the color."
+msgstr "Asta rengê kesk di reng de."
+
+msgid "Amount of red light in the color."
+msgstr "Asta rengê sor."
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr "Etîketa anonîm hate dîtin û etîket nikarin werin afirandin."
+
+msgid "Any Printer"
+msgstr "Çaperê çawalêhato"
+
+msgid "Application"
+msgstr "Sepan"
+
+msgid "Arch A"
+msgstr "Arch A"
+
+msgid "Arch B"
+msgstr "Arch B"
+
+msgid "Arch C"
+msgstr "Arch C"
+
+msgid "Arch D"
+msgstr "Arch D"
+
+msgid "Arch E"
+msgstr "Arch E"
+
+msgid "Arrow Placement"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Arrow Size"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Arrow scaling"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Arrow spacing"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Artwork by"
+msgstr "Huner"
+
+msgid "Attach Widget"
+msgstr "Widget"
+
+msgid "Attributes"
+msgstr "Taybetî"
+
+msgid "Authentication"
+msgstr "Erêkirin"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "Ji bo standina taybetmendiyen peywirekê erêkirin pêwist e"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "Ji bo standina taybetmendiyen çaperekê erêkirin pêwist e"
+
+msgid "Authentication is required to get attributes of job '%{string}'"
+msgstr "Ji bo standina taybetmendiyen peywira '%{string}' erêkirin pêwist e"
+
+msgid "Authentication is required to print document '%{string}'"
+msgstr "Ji bo çapkirina belgeya '%{string}' erêkirin pêwist e"
+
+msgid "Authentication is required to print this document"
+msgstr "Ji bo çapkirina vê belgeyê erêkirin pêwist e"
+
+msgid "Authors"
+msgstr "Nîvîskar"
+
+msgid "Auto Select"
+msgstr "Hilbijartina bixweber"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B6/C4"
+msgstr "B6/C4"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "Background color"
+msgstr "Rengê zemînê"
+
+msgid "Be_fore:"
+msgstr "_Berê:"
+
+msgid "Before"
+msgstr "Berê"
+
+msgid "Begin"
+msgstr "Destpêk"
+
+msgid "Best _Fit"
+msgstr "_Bila tê de hilê"
+
+msgid "Billing Info"
+msgstr "Agahiyên fatorê:"
+
+msgid "Bookmark '%{string}' cannot be removed"
+msgstr "Bijareya '%{string}' nayê rakirin"
+
+msgid "Bottom to top"
+msgstr "Jêr ber bi jor"
+
+msgid "Bottom to top, left to right"
+msgstr "Jêr ber bi jor, çep ber bi rast"
+
+msgid "Bottom to top, right to left"
+msgstr "Jêr ber bi jor, rast ber bi çep"
+
+msgid "Bourne Again Shell"
+msgstr "Qalika Bourne Again"
+
+msgid "Bourne Shell"
+msgstr "Qalika Bourne"
+
+msgid "Brightness of the color."
+msgstr "Biriqandina rengî."
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C6/C5"
+msgstr "C6/C5"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C7/C6"
+msgstr "C7/C6"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CLASS"
+msgstr "POL"
+
+msgid "COLORS"
+msgstr "RENG"
+
+msgid "C_ollate"
+msgstr "B_irêzkirin"
+
+msgid "C_onnect"
+msgstr "_Girêdan"
+
+msgid "C_redits"
+msgstr "_Spas"
+
+msgid "C_urrent Page"
+msgstr "Rûpela _Heyî"
+
+msgid "Cache file created successfully.\n"
+msgstr "Pelê pêşbîr bi rengekî serkeftî hate afirandin.\n"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "Nikare peldank biguhêre ji ber ne herîmiye"
+
+msgid "Cannot kill process with PID %{number}. Operation is not implemented."
+msgstr "Pêvajoya bi PID %{number} nayê kuştin. Operasiyon nayê bikaranîn."
+
+msgid "Capacity"
+msgstr "Kapasîte:"
+
+msgid "Caps Lock and Num Lock are on"
+msgstr "Caps lock û Num lock vekirî ne"
+
+msgid "Caps Lock is on"
+msgstr "Caps lock vekirî ye"
+
+msgid "Cedilla"
+msgstr "Cedilla"
+
+msgid "Charge"
+msgstr "Tije"
+
+msgid "Charge accuracy"
+msgstr "Rabirdûya Tijebûnê"
+
+msgid "Charged"
+msgstr "Tije"
+
+msgid "Charging"
+msgstr "Tije Dibe"
+
+msgid "Choukei 2 Envelope"
+msgstr "Zarfa Choukei 2"
+
+msgid "Choukei 3 Envelope"
+msgstr "Zarfa Choukei 3"
+
+msgid "Choukei 4 Envelope"
+msgstr "Zarfa Choukei 4"
+
+msgid "Classified"
+msgstr "Taybet"
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "Piştî ku te dilopdank tikand, tu dikarî rengekî ku li ser dîmendera te ye bitikîne û reng hilbijêre."
+
+msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr "Malika rengan bitikîne da tu bikî rengê bikaranîne. ji bo guhertina vê malikê bişkoja rastê ya mişk bitikîne û \"reng li vir tomar bike\" hilbijêre"
+
+msgid "Co_nnect"
+msgstr "_Girêdan"
+
+msgid "Color"
+msgstr "Reng"
+
+msgid "Color Selection"
+msgstr "Hilbijartina rengan"
+
+msgid "Color Wheel"
+msgstr "Dolabê rengan"
+
+msgid "Color _name:"
+msgstr "Navê _reng:"
+
+msgid "Columns"
+msgstr "Sitûn"
+
+msgid "Command Line"
+msgstr "Rêzika Fermanê"
+
+msgid "Completing..."
+msgstr "Tê tewawkirin..."
+
+msgid "Confidential"
+msgstr "Veşartî"
+
+msgid "Connect _anonymously"
+msgstr "_bênav girê bide"
+
+msgid "Connect as u_ser:"
+msgstr "Wekî bikar_hêner girê bide:"
+
+msgid "Content area spacing"
+msgstr "Navber"
+
+msgid "Convert to PS level 1"
+msgstr "Veguherîne li PS asta 1"
+
+msgid "Convert to PS level 2"
+msgstr "Veguherîne li PS asta 2"
+
+msgid "Copie_s:"
+msgstr "Kopî:"
+
+msgid "Copies"
+msgstr "Kopî"
+
+msgid "Copy URL"
+msgstr "URL kopî bike"
+
+msgid "Copy _Link Address"
+msgstr "Navnîşana _lînkê ji ber bigire"
+
+msgid "Copy _Location"
+msgstr "_Cih kopî bike"
+
+msgid "Could not add a bookmark"
+msgstr "Nikare beyanameyekê lê zêde bike"
+
+msgid "Could not clear list"
+msgstr "Lîste nehate paqijkirin"
+
+msgid "Could not read the contents of the folder"
+msgstr "Nikarî naveroka peldankê bixwîne"
+
+msgid "Could not remove bookmark"
+msgstr "Nikare beyanameyekê jê bibe"
+
+msgid "Could not remove item"
+msgstr "Rakirina hêmanê biserneket"
+
+msgid "Could not rename %{string} back to %{string}: %{string}.\n"
+msgstr "Nikare %{string} ji nû nav lê bike, vegere  %{string}: %{string}.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
+msgstr "Nikare ji nû nav li pelê %{string} bike ji bo %{string}: %{string}, wê gavê %{string} jê dibe\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}\n"
+msgstr "Nikare ji nû nav li pelê %{string} bike ji bo %{string}: %{string}\n"
+
+msgid "Could not retrieve information about the file"
+msgstr "Nikare agahiyên li ser pelî bibîne"
+
+msgid "Could not select file"
+msgstr "Nikare pel hilbijêre"
+
+msgid "Could not send the search request"
+msgstr "Şandina lêpirsîna lêgerînê biserneket"
+
+msgid "Could not show link"
+msgstr "Nekarî lînkê nîşan bide"
+
+msgid "Could not start the search process"
+msgstr "Despêkirina lêgerînê biserneket"
+
+msgid "Create Fo_lder"
+msgstr "_Peldankê biafirîne"
+
+msgid "Create in _folder:"
+msgstr "Di peldankê de _biafirîne:"
+
+msgid "Created by"
+msgstr "Afirandêr"
+
+msgid "Cu_t"
+msgstr "_Jêkirin"
+
+msgid "Cursor position"
+msgstr "Cih"
+
+msgid "Custom size"
+msgstr "Mezinahiya taybet"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "Suryalî (bi tîpîn zimaneke din hatine neqişandin)"
+
+msgid "DISPLAY"
+msgstr "DÎMEN"
+
+msgid "DL Envelope"
+msgstr "Zarfa DL"
+
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgid "Day"
+msgstr "Roj"
+
+msgid "Decrease Indent"
+msgstr "Çalikê kêmtir bike"
+
+msgid "Decreases the volume"
+msgstr "Dengî kêmtir dike"
+
+msgid "Delete"
+msgstr "Jêbirin"
+
+msgid "Description"
+msgstr "Rave"
+
+msgid "Desktop"
+msgstr "Sermasê"
+
+msgid "Details Height"
+msgstr "Bilindahî"
+
+msgid "Device History"
+msgstr "Rabirdûya Tijebûnê"
+
+msgid "Device Information"
+msgstr "Agahiyên Cîhaz"
+
+msgid "Device name"
+msgstr "Navê dosiyê"
+
+msgid "Device type"
+msgstr "Rûpel"
+
+msgid "Dialog"
+msgstr "Diyalog"
+
+msgid "Disabled"
+msgstr "Neçalak"
+
+msgid "Discharge profile"
+msgstr "Vala Dibe"
+
+msgid "Discharging"
+msgstr "Vala Dibe"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Wintab APIyê bikar bîne [pêşravekî]"
+
+msgid "Documented by"
+msgstr "Belgekirin"
+
+msgid "Domain:"
+msgstr "Domain:"
+
+msgid "Don't batch GDI requests"
+msgstr "Koma GDI ne pêwiste"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "Kontrol neke bê ka index.theme heye yan jî tuneye"
+
+msgid "Don't include image data in the cache"
+msgstr "Di pêşbîrê de daneya wêne tuneye"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "Wintab API ji bo li hevhatinê nede bikaranîn"
+
+msgid "Down"
+msgstr "Berjêr"
+
+msgid "Down Path"
+msgstr "Rêça Berjêr"
+
+msgid "Empty"
+msgstr "Vala"
+
+msgid "End"
+msgstr "Dawî"
+
+msgid "Error"
+msgstr "Çewtî"
+
+msgid "Error creating print preview"
+msgstr "Di afirandina pêşdîtina çapkirinê de çewtî"
+
+msgid "Error from StartDoc"
+msgstr "Ji StartDocê çewtî"
+
+msgid "Error launching preview"
+msgstr "Çewtî di dema destpêkirinê"
+
+msgid "European edp"
+msgstr "edp ya ewropî"
+
+msgid "Even sheets"
+msgstr "Kaxizên cot"
+
+msgid "Executive"
+msgstr "Executive"
+
+msgid "Expand timeout"
+msgstr "Dîmena Firehkirinê"
+
+msgid "Expanded"
+msgstr "Firehbûyî"
+
+msgid "Expander Size"
+msgstr "Dîmena Firehkirinê"
+
+msgid "Export filename"
+msgstr "Navê dosiyê"
+
+msgid "FLAGS"
+msgstr "Al"
+
+msgid "Failed to load icon"
+msgstr "Barkirina îkonê biserneket"
+
+msgid "Failed to load image '%{string}': reason not known, probably a corrupt image file"
+msgstr "Wêneyê '%{string}' nehate barkirin: sedem nayê zanîn, dibe pelê wêne xerabe be"
+
+msgid "Failed to open file %{string} : %{string}\n"
+msgstr "Vekirina pelê %{string} biserneket: %{string}\n"
+
+msgid "Failed to rewrite header\n"
+msgstr "Ji nû nivisîna sernivîsê biserneket\n"
+
+msgid "Failed to write cache file: %{string}\n"
+msgstr "Nivisîna pelê pêşbîrê biserneket: %{string}\n"
+
+msgid "Failed to write folder index\n"
+msgstr "Nivisîna pêrista peldankê biserneket\n"
+
+msgid "Failed to write hash table\n"
+msgstr "Çewtî di nivisandina hash tabloyê de\n"
+
+msgid "Failed to write header\n"
+msgstr "Di sernivîsê de têkçûn\n"
+
+msgid "FanFold European"
+msgstr "FanFold ya ewropî"
+
+msgid "FanFold German Legal"
+msgstr "FanFold Legal a alman"
+
+msgid "FanFold US"
+msgstr "FanFold ya DYA"
+
+msgid "File"
+msgstr "Pel"
+
+msgid "File System"
+msgstr "Pergala Pelan"
+
+msgid "File System Root"
+msgstr "Koka Pergala Pelan"
+
+msgid "File not found: %{string}\n"
+msgstr "Pel nehat dîtin: %{string}\n"
+
+msgid "Filename"
+msgstr "Navê dosiyê"
+
+msgid "Files"
+msgstr "Pel"
+
+msgid "Fill"
+msgstr "Tijî bike"
+
+msgid "Filter"
+msgstr "Fîltre"
+
+msgid "Find and _Replace"
+msgstr "Lêgerîn û _guherandin"
+
+msgid "Finished"
+msgstr "Bi dawî bû"
+
+msgid "Finished with error"
+msgstr "Qediya lê çewtiyek derket"
+
+msgid "Finishing"
+msgstr "Bidawîkirin"
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Folio sp"
+msgstr "Folio sp"
+
+msgid "Font"
+msgstr "Cureyê nivîsê"
+
+msgid "Font Selection"
+msgstr "Hilbijartina Curetîpan"
+
+msgid "Font name"
+msgstr "Navê cureyê nivîsê"
+
+msgid "Font size"
+msgstr "Mezinahiya cureyê nivîsê"
+
+msgid "For portable documents"
+msgstr "Ji bo belgeyên tevgerdar"
+
+msgid "Forget password _immediately"
+msgstr "Şîfre heman _ji bîr bike"
+
+msgid "Full Volume"
+msgstr "Tam Deng"
+
+msgid "GDK debugging flags to set"
+msgstr "Nîşenekên neqandina çewtiyên GTK+ yên wê werine tayînkirin"
+
+msgid "GDK debugging flags to unset"
+msgstr "Nîşenekên neqandina çewtiyên GTK+ yên wê werine rakirin"
+
+msgid "GIcon"
+msgstr "Dawêr"
+
+msgid "GTK+ Options"
+msgstr "Vebijarkên GTK+"
+
+msgid "GTK+ debugging flags to set"
+msgstr "Nîşenekên neqandina çewtiyên GTK+ yên wê werine tayînkirin"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "Nîşenekên neqandina çewtiyên GTK+ yên wê werine rakirin"
+
+msgid "General"
+msgstr "Giştî"
+
+msgid "Generating data"
+msgstr "Danê tê afirandin"
+
+msgid "Getting printer information failed"
+msgstr "Standina agahiya çaperê bi ser neket"
+
+msgid "Getting printer information..."
+msgstr "Agahiya çaperê tê standin..."
+
+msgid "GhostScript pre-filtering"
+msgstr "Pêşparzûnkirina GhostScript"
+
+msgid "Government Legal"
+msgstr "Government Legal"
+
+msgid "Government Letter"
+msgstr "Government Letter"
+
+msgid "Group"
+msgstr "Kom"
+
+msgid "Group Name"
+msgstr "Kom"
+
+msgid "Header Spacing"
+msgstr "Navber"
+
+msgid "Height"
+msgstr "Bilindahî"
+
+msgid "Hide if empty"
+msgstr "Heke vala be veşêre"
+
+msgid "High"
+msgstr "Bilind"
+
+msgid "History"
+msgstr "Rabirdûya Tijebûnê"
+
+msgid "Home"
+msgstr "Mal"
+
+msgid "Homepage"
+msgstr "Malper"
+
+msgid "Hyper"
+msgstr "Hîper"
+
+msgid "IM module"
+msgstr "Mod"
+
+msgid "IPA"
+msgstr "IPA"
+
+msgid "Icon"
+msgstr "Dawêr"
+
+msgid "Icon '%{string}' not present in theme"
+msgstr "îkon %{string}' ne têde ye"
+
+msgid "Icon Prelight"
+msgstr "Bilindahî"
+
+msgid "Icon name"
+msgstr "Navê îkonê"
+
+msgid "Icon spacing"
+msgstr "Navber"
+
+msgid "Icons"
+msgstr "Dawêr"
+
+msgid "Image"
+msgstr "Wêne"
+
+msgid "Image Quality"
+msgstr "Kalîteya Dîmen"
+
+msgid "Image position"
+msgstr "Cih"
+
+msgid "Image spacing"
+msgstr "Navber"
+
+msgid "Incomplete hostname; end it with '/'"
+msgstr "Navê mêvandarê ne temam e; bila dawiya wî '/' be"
+
+msgid "Increase Indent"
+msgstr "Çalikê mezintir bike"
+
+msgid "Increases the volume"
+msgstr "Denkî zêdetir dike"
+
+msgid "Indent"
+msgstr "Mesafe"
+
+msgid "Index 3x5"
+msgstr "Index 3x5"
+
+msgid "Index 4x6 (postcard)"
+msgstr "Index 4x6 (kartpostal)"
+
+msgid "Index 4x6 ext"
+msgstr "Index 4x6 ext"
+
+msgid "Index 5x8"
+msgstr "Index 5x8"
+
+msgid "Information"
+msgstr "Agahî"
+
+msgid "Initial state"
+msgstr "Rewşa destpêkê"
+
+msgid "Input _Methods"
+msgstr "Riyên_Têketinê"
+
+msgid "Insert"
+msgstr "Texistin"
+
+msgid "Intensity of the color."
+msgstr "Siftiya rengî."
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Inuktitut(bi tîpên zimanekî din hatine neqişandin)"
+
+msgid "Invalid"
+msgstr "Nederbasdar"
+
+msgid "Invalid URI"
+msgstr "URI nederbasdar e"
+
+msgid "Invalid argument to CreateDC"
+msgstr "Di CreateDC de parametre nederbas"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "Di çapkirina DlgEx de parametre çewte"
+
+msgid "Invalid file name"
+msgstr "Navê pelî ne derbasbare"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "Ji bo PrintDlgEx xebatkera nederbasdar"
+
+msgid "Invalid path"
+msgstr "Rêç nederbasdar e"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "Di çapkirina PrintDlgEx de nîşanker çewte"
+
+msgid "Invalid root element: '%{string}'"
+msgstr "Navê pelê nederbasdar: `%{string}'"
+
+msgid "Invalid type function on line %{number}: '%{string}'"
+msgstr "Fonksiyona nivîsandina nederbasdar di rêzika %{number} de: '%{string}'"
+
+msgid "Invisible"
+msgstr "Nexuya"
+
+msgid "Invisible character set"
+msgstr "Nexuya"
+
+msgid "Invite Envelope"
+msgstr "Zarfa Invite"
+
+msgid "Invoice"
+msgstr "Fatura"
+
+msgid "Italian Envelope"
+msgstr "Zarfa îtalî"
+
+msgid "Item Orientation"
+msgstr "Hêl"
+
+msgid "JB0"
+msgstr "JB0"
+
+msgid "JB1"
+msgstr "JB1"
+
+msgid "JB10"
+msgstr "JB10"
+
+msgid "JB2"
+msgstr "JB2"
+
+msgid "JB3"
+msgstr "JB3"
+
+msgid "JB4"
+msgstr "JB4"
+
+msgid "JB5"
+msgstr "JB5"
+
+msgid "JB6"
+msgstr "JB6"
+
+msgid "JB7"
+msgstr "JB7"
+
+msgid "JB8"
+msgstr "JB8"
+
+msgid "JB9"
+msgstr "JB9"
+
+msgid "Job"
+msgstr "Kar"
+
+msgid "Job Details"
+msgstr "Kîtekîtên Kar"
+
+msgid "Job Name"
+msgstr "Nav"
+
+msgid "Job Priority"
+msgstr "Girîngiya peywirê"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE ji çepê ber bi rastê de"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM nîşankirina ji çepê ya ber bi rastê ve"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO ji çepê-ya- ber bi rastê de_guhnedan"
+
+msgid "Label"
+msgstr "Nav"
+
+msgid "Label fill"
+msgstr "Nav"
+
+msgid "Landscape"
+msgstr "Serpahnayê"
+
+msgid "Language"
+msgstr "Ziman"
+
+msgid "Laptop batteries"
+msgstr "Pîlê Kompîtura Destan"
+
+msgid "Laptop battery"
+msgstr "Pîlê Kompîtura Destan"
+
+msgid "Layout"
+msgstr "Bicihkirin"
+
+msgid "Lead acid"
+msgstr "Asîta Risasê"
+
+msgid "Left"
+msgstr "Çep"
+
+msgid "Left Margin"
+msgstr "Keleka eÇp"
+
+msgid "Left gravity"
+msgstr "Keleka eÇp"
+
+msgid "Left to right"
+msgstr "Çep ber bi rast"
+
+msgid "Left to right, bottom to top"
+msgstr "Çep ber bi rast, jêr ber bi jor"
+
+msgid "Left to right, top to bottom"
+msgstr "Çep ber bi rast, jor ber bi jêr"
+
+msgid "License"
+msgstr "Lîsans"
+
+msgid "Lithium Ion"
+msgstr "Iyona lîtyûm"
+
+msgid "Lithium Iron Phosphate"
+msgstr "Iyona lîtyûm"
+
+msgid "Lithium Polymer"
+msgstr "Iyona lîtyûm"
+
+msgid "Load additional GTK+ modules"
+msgstr "Modulên GTK+ yên pêvek bar bike"
+
+msgid "Location"
+msgstr "Çalakî"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Long Edge (Standard)"
+msgstr "Keleka dirêj (standard)"
+
+msgid "Low"
+msgstr "Nizim"
+
+msgid "MODULES"
+msgstr "MODUL"
+
+msgid "Make all warnings fatal"
+msgstr "Hemû hişyariyan xedar bike"
+
+msgid "Manage Custom Sizes"
+msgstr "Gerînendeya mezinahiyên taybet bike"
+
+msgid "Manage Custom Sizes..."
+msgstr "Mezinahiyên Taybet Bi Rê Ve Bibe..."
+
+msgid "Margin"
+msgstr "Kelek"
+
+msgid "Margin on Left"
+msgstr "Kelek"
+
+msgid "Margin on Top"
+msgstr "Kelek"
+
+msgid "Margins from Printer..."
+msgstr "Sînorên Çaperê..."
+
+msgid "Maximum age of recently used files, in days"
+msgstr "Hejmara stûnan"
+
+msgid "Medium"
+msgstr "Orte"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Miscellaneous"
+msgstr "Curbecur"
+
+msgid "Mode"
+msgstr "Mod"
+
+msgid "Model"
+msgstr "Model:"
+
+msgid "Modified"
+msgstr "Hatiye guherandin"
+
+msgid "Monarch Envelope"
+msgstr "Monarch Envelope"
+
+msgid "Monitor"
+msgstr "Meh"
+
+msgid "Month"
+msgstr "Meh"
+
+msgid "Multipress"
+msgstr "Multipress"
+
+msgid "Muted"
+msgstr "Bêdeng"
+
+msgid "NAME"
+msgstr "NAV"
+
+msgid "Name"
+msgstr "Nav"
+
+msgid "Need user intervention"
+msgstr "Pêwistî bi destwerdana bikarhêner heye"
+
+msgid "New accelerator..."
+msgstr "Lezkera nû..."
+
+msgid "No item for URI '%{string}' found"
+msgstr "Ti hêman ji bo URI '%{string}' nehate xuyakirin"
+
+msgid "No items found"
+msgstr "Hêman nehatine dîtin"
+
+msgid "No match"
+msgstr "Lihevhatin tune"
+
+msgid "No pre-filtering"
+msgstr "Pêşparzûnkirin tune"
+
+msgid "No printer found"
+msgstr "Çaper nehatine dîtin"
+
+msgid "No recently used resource found with URI `%{string}'"
+msgstr "Ti çavkaniya bikarhênerên dawî ên URI `%{string}' nehate dîtin"
+
+msgid "No registered application with name '%{string}' for item with URI '%{string}' found"
+msgstr "Sepana qeydbuyî bi navê '%{string}' ji bo hêmana bi URI '%{string}' nehate dîtin"
+
+msgid "No theme index file.\n"
+msgstr "Pelê endeksa dirbê tune.\n"
+
+msgid "None"
+msgstr "Ne yek jî"
+
+msgid "Not a valid icon cache: %{string}\n"
+msgstr "Pêşbîra îkonan a nederbasdar: %{string}\n"
+
+msgid "Not a valid page setup file"
+msgstr "Pelê sazkirina rûpelê yê nederbasdar"
+
+msgid "Not available"
+msgstr "Ne amade ye"
+
+msgid "Not enough free memory"
+msgstr "Têra xwe bîra vala tuneye"
+
+msgid "Num Lock is on"
+msgstr "Num lock vekirî ye"
+
+msgid "Num_Lock"
+msgstr "Num _lock"
+
+msgid "Number of Pages"
+msgstr "Hejmara stûnan"
+
+msgid "Number of Pages To Print"
+msgstr "Hejmara stûnan"
+
+msgid "Number of axes in the device"
+msgstr "Hejmara stûnan"
+
+msgid "Number of columns"
+msgstr "Hejmara stûnan"
+
+msgid "Number of recently used files"
+msgstr "Hejmara stûnan"
+
+msgid "Number of steps"
+msgstr "Hejmara stûnan"
+
+msgid "Numeric"
+msgstr "Hijmarî"
+
+msgid "OFF"
+msgstr "○"
+
+msgid "ON"
+msgstr "❙"
+
+msgid "Observe power management"
+msgstr "Mîhengkirina rêvebiriya hêzê"
+
+msgid "Odd sheets"
+msgstr "Kaxizên fer"
+
+msgid "On _hold"
+msgstr "Li _bendê ye"
+
+msgid "One Sided"
+msgstr "Yek alî"
+
+msgid "Only local files may be selected"
+msgstr "Tenê pelên herêmî werin hilbijartin"
+
+msgid "Op_acity:"
+msgstr "_Tarîkirin:"
+
+msgid "Open '%{string}'"
+msgstr "'%{string}' Veke"
+
+msgid "Opening %{number} Item"
+msgstr "%{number} hêman tê vekirin"
+
+msgid "Opening %{number} Items"
+msgstr "%{number} hêman tên vekirin"
+
+msgid "Or_ientation:"
+msgstr "_Alî:"
+
+msgid "Orientation"
+msgstr "Hêl"
+
+msgid "Other..."
+msgstr "Yên din..."
+
+msgid "Out of paper"
+msgstr "Li derveyî rûpel"
+
+msgid "Output Tray"
+msgstr "Tepsiya derketanê"
+
+msgid "Output a C header file"
+msgstr "Derana pelekî C header"
+
+msgid "Output t_ray:"
+msgstr "Tepsiya _derketanê:"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr "Wê li ser pêşbîreke heyî were nivîsîn, ew rojane be jî"
+
+msgid "PDA"
+msgstr "Kompîtura Kefa Destan  (PDA)"
+
+msgid "PDAs"
+msgstr "Kompîtura Kefa Destan  (PDA)"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PDF _Pop directional formatting"
+msgstr "Dirûvkirina alî ya PDF_POP"
+
+msgid "P_ause"
+msgstr "_Rawestandin"
+
+msgid "Pag_es:"
+msgstr "_Rûpel:"
+
+msgid "Page"
+msgstr "Rûpel"
+
+msgid "Page Ordering"
+msgstr "Rêza rûpelan"
+
+msgid "Page Set_up"
+msgstr "_Mîhengên Rûpelê"
+
+msgid "Page Setup"
+msgstr "Mîhengên Rûpelê"
+
+msgid "Page or_dering:"
+msgstr "Rêza rûpelan:"
+
+msgid "Page type"
+msgstr "Rûpel"
+
+msgid "Page_Down"
+msgstr "Rûpel ber_jêr"
+
+msgid "Page_Up"
+msgstr "Rûpel berj_or"
+
+msgid "Pages"
+msgstr "Rûpel"
+
+msgid "Pages Per Sheet"
+msgstr "Serê Kaxiz Rûpelek"
+
+msgid "Pages per Sheet"
+msgstr "Serê kaxiz rûpel"
+
+msgid "Pages per _sheet:"
+msgstr "Rûpelê her ka_xizekê:"
+
+msgid "Pages per _side:"
+msgstr "Di her ka_xizekê rûpel:"
+
+msgid "Paper"
+msgstr "Kaxiz"
+
+msgid "Paper Margins"
+msgstr "Valehiyên rûpel"
+
+msgid "Paper Size"
+msgstr "Mezinahiya kaxizê"
+
+msgid "Paper Source"
+msgstr "Çavkaniya rûpel"
+
+msgid "Paper Type"
+msgstr "Cureyê rûpel"
+
+msgid "Paper _source:"
+msgstr "Çavkaniya _rûpelan:"
+
+msgid "Paper _type:"
+msgstr "_Cureyê rûpel:"
+
+msgid "Parent"
+msgstr "Fîltre"
+
+msgid "Password:"
+msgstr "Şîfre:"
+
+msgid "Path does not exist"
+msgstr "Ev rêç tuneye"
+
+msgid "Pause"
+msgstr "Rawestandin"
+
+msgid "Paused"
+msgstr "Hatiye rawestandin"
+
+msgid "Paused Printer"
+msgstr "Fîltre"
+
+msgid "Paused; Rejecting Jobs"
+msgstr "Sekinî ; Peywiran napejirîne"
+
+msgid "Personal Envelope"
+msgstr "Zarfa Personal"
+
+msgid "Pick a Color"
+msgstr "Rengeke hilbijêre"
+
+msgid "Pick a Font"
+msgstr "Curetîpekê Hilbijêre"
+
+msgid "Places"
+msgstr "Cih"
+
+msgid "Portrait"
+msgstr "Portre"
+
+msgid "Position"
+msgstr "Cih"
+
+msgid "Position on the color wheel."
+msgstr "Cihê li ser dolaba rengan."
+
+msgid "Postfix Envelope"
+msgstr "Zarfa Postfix"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Power"
+msgstr "Asta Pîl Kêm e"
+
+msgid "Pre_vious"
+msgstr "Ya _berê"
+
+msgid "Preparing"
+msgstr "Tê amadekirin"
+
+msgid "Preparing to print"
+msgstr "Ji bo çapkirinê tê amadekirin"
+
+msgid "Preview text"
+msgstr "Pêşdîtina nivîsê"
+
+msgid "Pri_ority:"
+msgstr "Pê_şikî:"
+
+msgid "Primary icon name"
+msgstr "Navê îkonê"
+
+msgid "Primary icon sensitive"
+msgstr "Ji tîpên biçûk/MEZIN re bihîstyar"
+
+msgid "Primary icon tooltip markup"
+msgstr "Navê îkonê"
+
+msgid "Primary icon tooltip text"
+msgstr "Ji tîpên biçûk/MEZIN re bihîstyar"
+
+msgid "Primary storage type"
+msgstr "Rûpel"
+
+msgid "Print"
+msgstr "Çap"
+
+msgid "Print Document"
+msgstr "Belgeyê çap bike"
+
+msgid "Print Pre_view"
+msgstr "_Pêşdîtina çapê"
+
+msgid "Print at"
+msgstr "Çap bike li"
+
+msgid "Print at time"
+msgstr "Di demê de çap bike"
+
+msgid "Print to File"
+msgstr "Li ser pelê (file) çap bike"
+
+msgid "Print to LPR"
+msgstr "Li ser LPR çap bike"
+
+msgid "Print to Test Printer"
+msgstr "Bi çapera test çap bike"
+
+msgid "Printer"
+msgstr "Fîltre"
+
+msgid "Printer '%{string}' has no toner left."
+msgstr "Di çapera '%{string}' de boyax êdî nema."
+
+msgid "Printer '%{string}' is currently offline."
+msgstr "Çapera '%{string}' niha ne girêdayî ye."
+
+msgid "Printer '%{string}' is low on paper."
+msgstr "Di çapera '%{string}' de kaxiz hindik e."
+
+msgid "Printer '%{string}' is low on toner."
+msgstr "Di çapera '%{string}' de boyax hindik e."
+
+msgid "Printer '%{string}' is out of paper."
+msgstr "Di çapera '%{string}' de kaxiz êdî nema."
+
+msgid "Printer Default"
+msgstr "Standarda Çapgerê"
+
+msgid "Printer offline"
+msgstr "Çaper ne girêdayî ye"
+
+msgid "Printing"
+msgstr "Tê çapkirin"
+
+msgid "Processor"
+msgstr "Lawaz"
+
+msgid "Program class as used by the window manager"
+msgstr "Dabeşkirina bernameyê weke ku ji alî gerînendeyê paceyan ve tê bikaranîn"
+
+msgid "Program name"
+msgstr "Navê bernameyê"
+
+msgid "Program name as used by the window manager"
+msgstr "Navê bernameyê wekî ku ji alî gerînendeyê paceyan ve tê bikaranîn"
+
+msgid "Program version"
+msgstr "Guhertoya bernameyê"
+
+msgid "Progress Border"
+msgstr "Guhertoya bernameyê"
+
+msgid "Progress Fraction"
+msgstr "Guhertoya bernameyê"
+
+msgid "Quarto"
+msgstr "Quarto"
+
+msgid "Question"
+msgstr "Pirs"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE ji rastê ber bi çepê de_"
+
+msgid "RLM _Right-to-left mark"
+msgstr "Nîşankirina ji rastê ber bi çepê ya RLM"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO zordayîna ji çepê_ya ber bi rastê"
+
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+msgid "Range"
+msgstr "Beş"
+
+msgid "Received invalid color data\n"
+msgstr "Daneya rengan ne tekûze\n"
+
+msgid "Recently Used"
+msgstr "Teze Bikaranî"
+
+msgid "Rejecting Jobs"
+msgstr "Peywiran napejirîne"
+
+msgid "Related Action"
+msgstr "Çalakî"
+
+msgid "Remember _forever"
+msgstr "Daîmî bi _bîr bîne"
+
+msgid "Remember password until you _logout"
+msgstr "Heta _derketinê şîfreyê bi bîr bîne"
+
+msgid "Remove"
+msgstr "Rake"
+
+msgid "Remove the bookmark '%{string}'"
+msgstr "Bijareya '%{string}' rake"
+
+msgid "Remove the selected bookmark"
+msgstr "Beyanameya hilbijartî jê bibe"
+
+msgid "Rename..."
+msgstr "Nav biguherîne..."
+
+msgid "Resize"
+msgstr "Mezinahîyê biguherîne"
+
+msgid "Resolution"
+msgstr "Rêjeşane"
+
+msgid "Reverse landscape"
+msgstr "Serpahnaya berevajî"
+
+msgid "Reverse portrait"
+msgstr "Portreya berevajî"
+
+msgid "Right"
+msgstr "Rast"
+
+msgid "Right Margin"
+msgstr "Keleka Rast"
+
+msgid "Right margin"
+msgstr "Kêleka rastî"
+
+msgid "Right to left"
+msgstr "Rast ber bi çep"
+
+msgid "Right to left, bottom to top"
+msgstr "Rast ber bi çep, jêr ber bi jor"
+
+msgid "Right to left, top to bottom"
+msgstr "Rast ber bi çep, jor ber bi jêr"
+
+msgid "Rows"
+msgstr "Rêz"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Save _As"
+msgstr "Tomar bike _wekî"
+
+msgid "Save in _folder:"
+msgstr "Di _peldankê de tomar bike:"
+
+msgid "Sc_ale:"
+msgstr "Pî_van:"
+
+msgid "Screen"
+msgstr "Monîtor"
+
+msgid "Scroll arrow spacing"
+msgstr "Navber"
+
+msgid "Se_lection"
+msgstr "_Hilbijartin"
+
+msgid "Search"
+msgstr "Lêgerîn"
+
+msgid "Search:"
+msgstr "Lêgerîn:"
+
+msgid "Secret"
+msgstr "Veşartî"
+
+msgid "Select A File"
+msgstr "Pelekî Hilbijêre"
+
+msgid "Select _All"
+msgstr "Hemûyî _hilbijêre"
+
+msgid "Select a folder"
+msgstr "Peldankekê hilbijêre"
+
+msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
+msgstr "Ji giloverîka ku derve ye rengekî hilbijêrin. Tu dikarî ji sêgoşeya ku li hundir e tarîbûn û vekirîbûna reng hilbijêre."
+
+msgid "Select which type of documents are shown"
+msgstr "Hilbijêre kîjan cureyê pelan were nîşandan"
+
+msgid "Select which types of files are shown"
+msgstr "Hilbijêre kîjan cureyê pelan hatiye nîşandan"
+
+msgid "Sending data"
+msgstr "Dane tê şandin"
+
+msgid "Serial number"
+msgstr "Nimroya Serî:"
+
+msgid "Serialized data is malformed"
+msgstr "Daneya vegerandî xirabûye"
+
+msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr "Xirakirina Daneya vegerandî. Beşa destpêkê ne eve GTKTEXTBUFFERCONTENTS-0001"
+
+msgid "Shadow type"
+msgstr "Cureyê sihê"
+
+msgid "Short Edge (Flip)"
+msgstr "Keleka kin (flip)"
+
+msgid "Shortcut %{string} already exists"
+msgstr "Kurterê %{string} jixwe heye"
+
+msgid "Shortcut %{string} does not exist"
+msgstr "Kurterê %{string} tuneye"
+
+msgid "Show Details"
+msgstr "Diyalog"
+
+msgid "Show Dialog"
+msgstr "Diyalog"
+
+msgid "Show Expanders"
+msgstr "Firehbûyî"
+
+msgid "Show GTK+ Options"
+msgstr "Vebijarkên GTK+ Nîşan Bide"
+
+msgid "Show Hidden"
+msgstr "Yên veşartî nîşan bide"
+
+msgid "Show Icons"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Show Private"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Show _Hidden Files"
+msgstr "Pelên veşartî _nîşan bide"
+
+msgid "Show _Private Resources"
+msgstr "Çavkaniyên-berê nîşan bide"
+
+msgid "Show _Size Column"
+msgstr "Sitûna _mezinahiyê nîşan bide"
+
+msgid "Show extra debugging information"
+msgstr "Agahiyên lêgerîna xeletiyan ya kitekit nîşan bide"
+
+msgid "Show size"
+msgstr "Mezinahî nîşan bide"
+
+msgid "Si_ze:"
+msgstr "_Mezinahî:"
+
+msgid "Simple"
+msgstr "Hesan"
+
+msgid "Size"
+msgstr "Mezinahî"
+
+msgid "Size of the expander arrow"
+msgstr "Dîmena tîra firehkirinê"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "Mezinahiya paletê ya di moda 8 bîtan de"
+
+msgid "Small Photo"
+msgstr "Small Photo"
+
+msgid "Sole completion"
+msgstr "\t"
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "Hin mîhengên ku di paceyê de ne li hev nakin"
+
+msgid "Sort Type"
+msgstr "Cureyê sihê"
+
+msgid "Space"
+msgstr "Navber"
+
+msgid "Spacing"
+msgstr "Navber"
+
+msgid "Specify one or more page ranges,\n e.g. 1-3,7,11"
+msgstr "Yek an zêdetir beş diyar bike,\n wekî 1-3,7,11"
+
+msgid "Specify the time of print,\n e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgstr "Dema çapkirin diyar bike, \nmînak 15:30, 2:35, 14:15:20, 11:46:30, 4"
+
+msgid "Standard"
+msgstr "Standart"
+
+msgid "Startup ID"
+msgstr "Kom"
+
+msgid "State"
+msgstr "Rewş:"
+
+msgid "Status"
+msgstr "Rewş"
+
+msgid "Strikethrough"
+msgstr "Navînxêzkirî"
+
+msgid "Style"
+msgstr "Teşe"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Super A"
+msgstr "Super A"
+
+msgid "Super B"
+msgstr "Super B"
+
+msgid "Switch"
+msgstr "Şalter"
+
+msgid "Switches between on and off states"
+msgstr "Nava rewşên vekirî û girtî tê û dice"
+
+msgid "System"
+msgstr "Pergal"
+
+msgid "System (%{string})"
+msgstr "Pergal (%{string})"
+
+msgid "T_wo-sided:"
+msgstr "Du_alî:"
+
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgid "Tabs"
+msgstr "Hilfirandin"
+
+msgid "Tag \"%{string}\" already defined"
+msgstr "Etîketa \"%{string}\" berê hatiye danasîn"
+
+msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
+msgstr "Etîketa \"%{string}\" di tamponê de nayê xuyakirin û etîket nikare were afirandin."
+
+msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
+msgstr "Etîketa \"%{string}\" xwedî destûreke ne derbasbare \"%{string}\""
+
+msgid "Tag \"%{string}\" has not been defined."
+msgstr "Etîketa \"%{string}\" ne hatiye danasîn."
+
+msgid "Technology"
+msgstr "Teknolojî:"
+
+msgid "Text"
+msgstr "Nivîs"
+
+msgid "Thai-Lao"
+msgstr "Tay-Lao"
+
+msgid "The OK button of the dialog."
+msgstr "Guhertoya bernameyê"
+
+msgid "The cancel button of the dialog."
+msgstr "Guhertoya bernameyê"
+
+msgid "The color you've chosen."
+msgstr "Rengê ku te hilbijart."
+
+msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "Tu dikarî rengê ku te niha hilbijartiye di malikên rengan de tomar bikî ji bo di pêşerojê de tu bikaribî bikar bînî."
+
+msgid "The contents of the buffer"
+msgstr "Guhertoya bernameyê"
+
+msgid "The contents of the tooltip for this tray icon"
+msgstr "Guhertoya bernameyê"
+
+msgid "The contents of the tooltip on the primary icon"
+msgstr "Guhertoya bernameyê"
+
+msgid "The contents of the tooltip on the secondary icon"
+msgstr "Guhertoya bernameyê"
+
+msgid "The cover is open on printer '%{string}'."
+msgstr "Devê çapera '%{string}' vekirî ye."
+
+msgid "The current fraction of the task that's been completed"
+msgstr "Guhertoya bernameyê"
+
+msgid "The door is open on printer '%{string}'."
+msgstr "Dêriya çapera '%{string}' vekirî ye."
+
+msgid "The file already exists in \"%{string}\".  Replacing it will overwrite its contents."
+msgstr "Ev pel ji berê ve di \"%{string}\" de heye. Heke tu biguhêrî dê di ser naveroka pelê berê de were nivisandin."
+
+msgid "The folder contents could not be displayed"
+msgstr "Naveroka peldankê nehate nîşandan"
+
+msgid "The folder could not be created"
+msgstr "Reng nehatiye avakirin"
+
+msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
+msgstr "Peldank pêk nehat, bi vî navî jixwe peldankek heye. Ji bo peldankê yan navekî din bikar bîne an jî berê berê navê pelê biguherîne."
+
+msgid "The generated cache was invalid.\n"
+msgstr "Pêşbîra afirandî nederbasdar bû.\n"
+
+msgid "The help button of the dialog."
+msgstr "Guhertoya bernameyê"
+
+msgid "The human-readable title of this item group"
+msgstr "Guhertoya bernameyê"
+
+msgid "The icon size"
+msgstr "Mezinahiya cureyê nivîsê"
+
+msgid "The license of the program"
+msgstr "Lîsansa bernameyê"
+
+msgid "The license type of the program"
+msgstr "Guhertoya bernameyê"
+
+msgid "The location of the printer"
+msgstr "Guhertoya bernameyê"
+
+msgid "The maximum width of the cell, in characters"
+msgstr "Guhertoya bernameyê"
+
+msgid "The minimum vertical height of the progress bar"
+msgstr "Guhertoya bernameyê"
+
+msgid "The minimum vertical width of the progress bar"
+msgstr "Guhertoya bernameyê"
+
+msgid "The orientation of the orientable"
+msgstr "Guhertoya bernameyê"
+
+msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
+msgstr "Rengê ku berê hatiye hilbijartin bi danberhevkirina rengê ku te niha hilbijartiye. tu dikarî vî rengî bibî malikên rengan an jî wekî rengê bikaranînê hilbijêrî."
+
+msgid "The program was not able to create a connection to the indexer daemon.  Please make sure it is running."
+msgstr "Bername nikarî bi daemona fihrîstkirina re girê bide.  Ji kerema xwe re xebitandina wî kontrol bike."
+
+msgid "The status of the print operation"
+msgstr "Guhertoya bernameyê"
+
+msgid "The text for the child label"
+msgstr "Guhertoya bernameyê"
+
+msgid "The title of the assistant page"
+msgstr "Guhertoya bernameyê"
+
+msgid "The title of this tray icon"
+msgstr "Guhertoya bernameyê"
+
+msgid "The transient parent of the dialog"
+msgstr "Guhertoya bernameyê"
+
+msgid "The type of the assistant page"
+msgstr "Guhertoya bernameyê"
+
+msgid "The value of the scale"
+msgstr "Guhertoya bernameyê"
+
+msgid "The version of the program"
+msgstr "Guhertoya bernameyê"
+
+msgid "There is a problem on printer '%{string}'."
+msgstr "Di çapera '%{string}' de pirsgirêk heye."
+
+msgid "This function is not implemented for widgets of class '%{string}'"
+msgstr "Ev kar ji bo perçekên di pola '%{string}' de ne nehatiye sepandin"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "Tigrigna-Erîteriya  (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "Tîgrîgna-Etiyopî (EZ+)"
+
+msgid "Time of print"
+msgstr "Dema çapkirinê"
+
+msgid "Title"
+msgstr "Sernivîs"
+
+msgid "Toolbar Icon Size"
+msgstr "Mezinahiya cureyê nivîsê"
+
+msgid "Tooltip Column"
+msgstr "Dîmena Firehkirinê"
+
+msgid "Tooltip Text"
+msgstr "Dîmena Firehkirinê"
+
+msgid "Tooltip timeout"
+msgstr "Dîmena Firehkirinê"
+
+msgid "Top Command"
+msgstr "Fermana top"
+
+msgid "Top Secret"
+msgstr "Gelekî Veşartî"
+
+msgid "Top to bottom"
+msgstr "Jor ber bi jêr"
+
+msgid "Top to bottom, left to right"
+msgstr "Jor ber bi jêr, çep ber bi rast"
+
+msgid "Top to bottom, right to left"
+msgstr "Jor ber bi jêr, rast ber bi çep"
+
+msgid "Translated by"
+msgstr "Wergêr"
+
+msgid "Translation Domain"
+msgstr "Spasiya wêrgeran"
+
+msgid "Translator credits"
+msgstr "Spasiya wêrgeran"
+
+msgid "Transparency of the color."
+msgstr "Zelaliya rengî."
+
+msgid "Turn off verbose output"
+msgstr "Derana kîtekît bigire"
+
+msgid "Turns volume down or up"
+msgstr "Dengî kêm an zêde dike"
+
+msgid "Two Sided"
+msgstr "Du alî"
+
+msgid "Type a file name"
+msgstr "Navê pelekî binivîse"
+
+msgid "Type name of new folder"
+msgstr "Navê celebê peldanka nû"
+
+msgid "UPS"
+msgstr "Çavkaniya Hêzê Ya Bênavber (UPS)"
+
+msgid "UPSs"
+msgstr "Çavkaniya Hêzê Ya Bênavber (UPS)"
+
+msgid "US Legal"
+msgstr "US Legal"
+
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+msgid "US Letter Plus"
+msgstr "US Letter Plus"
+
+msgid "Unable to end process"
+msgstr "Nikarî dawiya pêvajoyê bîne"
+
+msgid "Unable to find an item with URI '%{string}'"
+msgstr "Hêmaneke ku bi URIya '%{string}' têkildar e nehate dîtin"
+
+msgid "Unable to locate image file in pixmap_path: \"%{string}\""
+msgstr "Pelê wêneyê di pixmap_path de nehat dîtin: \"%{string}\""
+
+msgid "Unable to locate theme engine in module_path: \"%{string}\","
+msgstr "Cîhaza têmayan di hundirê module_path \"%{string}\" de nehate dîtin,"
+
+msgid "Unclassified"
+msgstr "Ji rêzê"
+
+msgid "Underline"
+msgstr "Binxêz"
+
+msgid "Unhandled tag: '%{string}'"
+msgstr "Etîket nefehmkirî: '%{string}'"
+
+msgid "Unknown"
+msgstr "Cîhaza Nenas"
+
+msgid "Unknown Application (PID %{number})"
+msgstr "Sepana nenas (PID %{number})"
+
+msgid "Unknown item"
+msgstr "Hêmana nenas"
+
+msgid "Unknown technology"
+msgstr "Mawe nayê zanîn"
+
+msgid "Unspecified error"
+msgstr "Çewtiyeke nenas"
+
+msgid "Untitled filter"
+msgstr "Parzûna bênav"
+
+msgid "Unvisited Link Color"
+msgstr "Rengê Girêdanê"
+
+msgid "Up"
+msgstr "Berjor"
+
+msgid "Up Path"
+msgstr "Rêça Berjor"
+
+msgid "Urgent"
+msgstr "Bilez"
+
+msgid "Username:"
+msgstr "Navê bikarhêner:"
+
+msgid "Validate existing icon cache"
+msgstr "Pêşbîra îkonan a heyî kontrol bike"
+
+msgid "Value"
+msgstr "Nirx"
+
+msgid "Vendor"
+msgstr "Fîrma:"
+
+msgid "Vietnamese (VIQR)"
+msgstr "(VIQR) a Vetnamî"
+
+msgid "Visible"
+msgstr "Tê dîtin"
+
+msgid "Visited"
+msgstr "Tê dîtin"
+
+msgid "Visited Link Color"
+msgstr "Rengê Girêdanê"
+
+msgid "Voltage"
+msgstr "Rabirdûya Tijebûnê"
+
+msgid "Volume"
+msgstr "Deng"
+
+msgid "Volume Down"
+msgstr "Kêmtir Deng"
+
+msgid "Volume Up"
+msgstr "Zêdetir Deng"
+
+msgid "Waiting"
+msgstr "Li bendê"
+
+msgid "Warning"
+msgstr "Şiyarî"
+
+msgid "Warning color"
+msgstr "Rengê zemînê"
+
+msgid "Whether to expand the child's tab"
+msgstr "Guhertoya bernameyê"
+
+msgid "Wide Format"
+msgstr "Teşeya fireh"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Width"
+msgstr "Firehî"
+
+msgid "X Input Method"
+msgstr "Metoda Ketana X"
+
+msgid "X display to use"
+msgstr "Dîmendêra X ya ku dê were bikaranîn"
+
+msgid "X spacing"
+msgstr "Navber"
+
+msgid "Y spacing"
+msgstr "Navber"
+
+msgid "Year"
+msgstr "Sal"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
+msgstr "Tu dikarî wek şêweyê HTML reng derbasbikî, an jî bi hesanî dikarî navê reng binvîsî wekî mînak 'sor'."
+
+msgid "You may only select folders.  The item that you selected is not a folder; try using a different item."
+msgstr "Dikarî tenê peldankan hilbijêrî.  Hêmana ku te hilbijart ne peldank e; hêmaneke din biceribîne."
+
+msgid "Z Shell"
+msgstr "Qalika Z"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ di firehiya sifirê de_ bi gîrêdan"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ di firehiya sifirê de_ bê girêdan"
+
+msgid "ZWS _Zero width space"
+msgstr "Qada firehbûna sifirê_ya ZWS"
+
+msgid "Zoom _In"
+msgstr "Nê_zîk bîne"
+
+msgid "Zoom _Out"
+msgstr "_Dûr bibe"
+
+msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
+msgstr "\"%{string}\" nikare were veguhertin ji bo nirxa cureyê \"%{string}\" yê nirxdariya \"%{string}\" ye"
+
+msgid "\"%{string}\" is not a valid attribute name"
+msgstr "\"%{string}\" ne navekî derbasbare ji bo pêşbîrê"
+
+msgid "\"%{string}\" is not a valid attribute type"
+msgstr "\"%{string}\" ne cureyeke derbasbar ê pêşbîrê ye"
+
+msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
+msgstr "\"%{string}\" Ne nirxeke derbasbare ji bo \"%{string}\""
+
+msgid "_About"
+msgstr "_Der barê"
+
+msgid "_Add"
+msgstr "_Lêzêdekirin"
+
+msgid "_Add to Bookmarks"
+msgstr "_Li beyanameyê zêde bike"
+
+msgid "_After:"
+msgstr "_Piştî:"
+
+msgid "_All Pages"
+msgstr "_Hemû Rûpel"
+
+msgid "_Apply"
+msgstr "Bise_pîne"
+
+msgid "_Ascending"
+msgstr "_Ber bi jor"
+
+msgid "_Back"
+msgstr "_Pêşve"
+
+msgid "_Billing info:"
+msgstr "_Agahiyên fatorê:"
+
+msgid "_Blue:"
+msgstr "_Şîn:"
+
+msgid "_Bold"
+msgstr "_Qalind"
+
+msgid "_Bottom"
+msgstr "_Jêr"
+
+msgid "_Bottom:"
+msgstr "_jêr:"
+
+msgid "_Browse for other folders"
+msgstr "_Li peldankên din binere"
+
+msgid "_CD-ROM"
+msgstr "_CD-ROM"
+
+msgid "_Cancel"
+msgstr "_Betal"
+
+msgid "_Center"
+msgstr "_Navîn"
+
+msgid "_Clear"
+msgstr "_Pakijkirin"
+
+msgid "_Clear List"
+msgstr "Lîsteyê _Paqij Bike"
+
+msgid "_Close"
+msgstr "_Girtin"
+
+msgid "_Color"
+msgstr "_Reng"
+
+msgid "_Convert"
+msgstr "_Veguherandin"
+
+msgid "_Copy"
+msgstr "_Kopîkirin"
+
+msgid "_Delete"
+msgstr "_Jêbirin"
+
+msgid "_Descending"
+msgstr "_Ber bi jêr"
+
+msgid "_Discard"
+msgstr "_Avêtin"
+
+msgid "_Disconnect"
+msgstr "Girêdanê _qutkirin"
+
+msgid "_Domain:"
+msgstr "_Domain:"
+
+msgid "_Down"
+msgstr "_Berjêr"
+
+msgid "_Edit"
+msgstr "_Sererastkirin"
+
+msgid "_End Process"
+msgstr "_Dawiya pêvajoyê bîne"
+
+msgid "_Execute"
+msgstr "_Xebitandin"
+
+msgid "_Family:"
+msgstr "_Malbat:"
+
+msgid "_File"
+msgstr "_Pel"
+
+msgid "_Fill"
+msgstr "_Tijîkirin"
+
+msgid "_Find"
+msgstr "_Lêgerîn"
+
+msgid "_First"
+msgstr "_Ser"
+
+msgid "_Floppy"
+msgstr "_Dîsket"
+
+msgid "_Font"
+msgstr "_Curenivîs"
+
+msgid "_Format for:"
+msgstr "_Wê were teşekirin:"
+
+msgid "_Forward"
+msgstr "_Pêş"
+
+msgid "_Fullscreen"
+msgstr "_Dîmender tijî"
+
+msgid "_Green:"
+msgstr "_Kesk:"
+
+msgid "_Hard Disk"
+msgstr "_Dîska sabît"
+
+msgid "_Height:"
+msgstr "_Bilindahî:"
+
+msgid "_Help"
+msgstr "_Alîkarî"
+
+msgid "_Home"
+msgstr "_Mal"
+
+msgid "_Hue:"
+msgstr "_Reng:"
+
+msgid "_Index"
+msgstr "_Pêrist"
+
+msgid "_Information"
+msgstr "_Agahî"
+
+msgid "_Insert Unicode Control Character"
+msgstr "_Şifreya kontrola sembolê derbas bike"
+
+msgid "_Italic"
+msgstr "_Paldayî"
+
+msgid "_Jump to"
+msgstr "_Qevastin li"
+
+msgid "_Last"
+msgstr "_Dawî"
+
+msgid "_Leave Fullscreen"
+msgstr "_Ji dîmendera tije derkeve"
+
+msgid "_Left"
+msgstr "_Çep"
+
+msgid "_Left:"
+msgstr "_Çep:"
+
+msgid "_License"
+msgstr "_Lîsans"
+
+msgid "_Location:"
+msgstr "_Cih:"
+
+msgid "_Name:"
+msgstr "_Nav:"
+
+msgid "_Network"
+msgstr "_Tor"
+
+msgid "_New"
+msgstr "_Nû"
+
+msgid "_Next"
+msgstr "_Ya dû"
+
+msgid "_No"
+msgstr "_Na"
+
+msgid "_Normal Size"
+msgstr "_Mezinahiya asayî"
+
+msgid "_Now"
+msgstr "_Niha"
+
+msgid "_OK"
+msgstr "_Temam"
+
+msgid "_Only print:"
+msgstr "_tenê bide çapê:"
+
+msgid "_Open"
+msgstr "_Vekirin"
+
+msgid "_Open Link"
+msgstr "Lînkê _veke"
+
+msgid "_Orientation:"
+msgstr "_Alî:"
+
+msgid "_Output format"
+msgstr "_Şêweyê derketanê"
+
+msgid "_Palette:"
+msgstr "_Palet:"
+
+msgid "_Paper size:"
+msgstr "_Mezinahiya rûpelê:"
+
+msgid "_Password:"
+msgstr "Şî_fre:"
+
+msgid "_Paste"
+msgstr "_Pêvekirin"
+
+msgid "_Places"
+msgstr "_Cih"
+
+msgid "_Play"
+msgstr "_Lêdan"
+
+msgid "_Preferences"
+msgstr "_Vebijêrk"
+
+msgid "_Preview:"
+msgstr "_Pêşdîtin:"
+
+msgid "_Print"
+msgstr "_Çap"
+
+msgid "_Properties"
+msgstr "_Taybetmendî"
+
+msgid "_Quit"
+msgstr "_Derketin"
+
+msgid "_Record"
+msgstr "_Tomarkirin"
+
+msgid "_Red:"
+msgstr "_Sor:"
+
+msgid "_Redo"
+msgstr "_Dîsa kirin"
+
+msgid "_Refresh"
+msgstr "_Tezekirin"
+
+msgid "_Remove"
+msgstr "_Rakirin"
+
+msgid "_Remove From List"
+msgstr "_Ji Lîsteyê _Ji Bibe"
+
+msgid "_Replace"
+msgstr "_Guhestin"
+
+msgid "_Reverse"
+msgstr "_Berevajî bike"
+
+msgid "_Revert"
+msgstr "_Bizivirîne paş"
+
+msgid "_Right"
+msgstr "_Rast"
+
+msgid "_Right:"
+msgstr "_Rast:"
+
+msgid "_Saturation:"
+msgstr "_Têrkirin:"
+
+msgid "_Save"
+msgstr "_Tomarkirin"
+
+msgid "_Save color here"
+msgstr "Reng li vir _tomar bike"
+
+msgid "_Save in folder:"
+msgstr "Di _peldankê de tomar bike:"
+
+msgid "_Spell Check"
+msgstr "_Kontrola rastnivîsînê"
+
+msgid "_Stop"
+msgstr "_Bisekine"
+
+msgid "_Strikethrough"
+msgstr "_Xêzkirin"
+
+msgid "_Style:"
+msgstr "_Teşe:"
+
+msgid "_Top"
+msgstr "_Jor"
+
+msgid "_Top:"
+msgstr "_Jor:"
+
+msgid "_Undelete"
+msgstr "_Xelaskirin"
+
+msgid "_Underline"
+msgstr "_Binxêz"
+
+msgid "_Undo"
+msgstr "_Vegerîn"
+
+msgid "_Up"
+msgstr "_Berjor"
+
+msgid "_Username:"
+msgstr "_Navê bikarhêner:"
+
+msgid "_Value:"
+msgstr "_Nirx:"
+
+msgid "_Width:"
+msgstr "_Firehî:"
+
+msgid "_Yes"
+msgstr "_Erê"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/ku.po by load_po_file"
+
+msgid "a2 Envelope"
+msgstr "Zarfa a2"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abçdêfghîjşû ABÇDÊFGHÎJKŞÛ"
+
+msgid "asme_f"
+msgstr "asme_f"
+
+msgid "b-plus"
+msgstr "b-plus"
+
+msgid "c"
+msgstr "c"
+
+msgid "c5 Envelope"
+msgstr "Zarfa c5"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "d"
+msgstr "d"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "different idatas found for symlinked '%{string}' and '%{string}'\n"
+msgstr "Gelek idata ji bo symlinka '%{string}' û '%{string}' hatin dîtin\n"
+
+msgid "e"
+msgstr "e"
+
+msgid "edp"
+msgstr "edp"
+
+msgid "ellipsize"
+msgstr "Mezinahîyê biguherîne"
+
+msgid "f"
+msgstr "f"
+
+msgid "hagaki (postcard)"
+msgstr "hagaki (kartpostal)"
+
+msgid "inch"
+msgstr "înç"
+
+msgid "jis exec"
+msgstr "jis exec"
+
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+msgid "kahu Envelope"
+msgstr "Zarfa kahu"
+
+msgid "kaku2 Envelope"
+msgstr "Zarfa kahu2"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "oufuku (reply postcard)"
+msgstr "oufuku (kartpostala bersivê)"
+
+msgid "pa-kai"
+msgstr "pa-kai"
+
+msgid "paused"
+msgstr "hatiye rawestandin"
+
+msgid "prc 16k"
+msgstr "prc 16k"
+
+msgid "prc 32k"
+msgstr "prc 32k"
+
+msgid "prc1 Envelope"
+msgstr "Zarfa prc1"
+
+msgid "prc10 Envelope"
+msgstr "Zarfa prc10"
+
+msgid "prc2 Envelope"
+msgstr "Zarfa prc2"
+
+msgid "prc3 Envelope"
+msgstr "Zarfa prc3"
+
+msgid "prc4 Envelope"
+msgstr "Zarfa prc4"
+
+msgid "prc5 Envelope"
+msgstr "Zarfa prc5"
+
+msgid "prc6 Envelope"
+msgstr "Zarfa prc6"
+
+msgid "prc7 Envelope"
+msgstr "Zarfa prc7"
+
+msgid "prc8 Envelope"
+msgstr "Zarfa prc8"
+
+msgid "prc9 Envelope"
+msgstr "Zarfa prc9"
+
+msgid "printer offline"
+msgstr "çaper ne girêdayî ye"
+
+msgid "processing job"
+msgstr "peywir tê pêkanîn"
+
+msgid "ready to print"
+msgstr "ji bo çapkirinê amade"
+
+msgid "unknown"
+msgstr "nenas"
+
+msgid "you4 Envelope"
+msgstr "Zarfa you4"

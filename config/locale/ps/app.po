@@ -1,0 +1,2672 @@
+msgid "(None)"
+msgstr "(هېڅ)"
+
+msgid "10x11"
+msgstr "۱۰x۱۱"
+
+msgid "2000"
+msgstr "۲۰۰۰"
+
+msgid "A name for the action group."
+msgstr "د چار ډلې لپاره يو نوم"
+
+msgid "A tooltip for this action."
+msgstr "دې چار لپاره يوه توک نکته"
+
+msgid "A0"
+msgstr "A۰"
+
+msgid "A0x2"
+msgstr "A۰x۲"
+
+msgid "A0x3"
+msgstr "A۰x۳"
+
+msgid "A1"
+msgstr "A۱"
+
+msgid "A10"
+msgstr "A۱۰"
+
+msgid "A1x3"
+msgstr "A۱x۳"
+
+msgid "A1x4"
+msgstr "A۱x۴"
+
+msgid "A2"
+msgstr "A۲"
+
+msgid "A2x3"
+msgstr "A۲x۳"
+
+msgid "A2x4"
+msgstr "A۲x4"
+
+msgid "A2x5"
+msgstr "A۲x۵"
+
+msgid "A3"
+msgstr "A۳"
+
+msgid "A_t:"
+msgstr ":پ_ه"
+
+msgid "Above child"
+msgstr "د ماشوم دپاسه"
+
+msgid "Accept focus"
+msgstr "منځواله منل"
+
+msgid "Accepts PDF"
+msgstr "مني PDF"
+
+msgid "Accepts PostScript"
+msgstr "مني PostScript"
+
+msgid "Accepts tab"
+msgstr "ټوپ مني"
+
+msgid "Action"
+msgstr "چار"
+
+msgid "Action Group"
+msgstr "چار ډله"
+
+msgid "Active"
+msgstr "چارند"
+
+msgid "Active item"
+msgstr "چارنده توکی"
+
+msgid "Add Cover Page"
+msgstr "پوښ مخ زياتول"
+
+msgid "Add tearoffs to menus"
+msgstr "غورنۍ ته زياتول tearoffs"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "اوسنۍ پوښۍ ليکنښو ته زياتول"
+
+msgid "Add the folder '%{string}' to the bookmarks"
+msgstr "پوښۍ ليکنښو ته زياتول '%{string}'"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "ټاکل شوې پوښۍ ليکنښو ته زياتول"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "ټاکل شوې پوښۍ ليکنښو ته زياتول"
+
+msgid "Adjustment"
+msgstr "سماو"
+
+msgid "Adjusts the volume"
+msgstr "غږ برابروي"
+
+msgid "Advanced"
+msgstr "ژور"
+
+msgid "After"
+msgstr "وروسته"
+
+msgid "Alignment"
+msgstr "پرليکتيا"
+
+msgid "All Margins"
+msgstr "لمن"
+
+msgid "All sheets"
+msgstr "ټولې پاڼې"
+
+msgid "Allow Rules"
+msgstr "دوی پرېښل"
+
+msgid "Alt"
+msgstr "الټ"
+
+msgid "Angle"
+msgstr "ګوټ"
+
+msgid "Animation"
+msgstr "سېلن"
+
+msgid "Animation duration"
+msgstr "سېلن"
+
+msgid "Any Printer"
+msgstr "چاپګر"
+
+msgid "Appears as list"
+msgstr "لکه د لړ ښکاري"
+
+msgid "Application"
+msgstr "کاريال"
+
+msgid "Arrow Placement"
+msgstr "د غشي ځايونه"
+
+msgid "Arrow Size"
+msgstr "غشي کچ"
+
+msgid "Arrow shadow"
+msgstr "د غشي سوری"
+
+msgid "Arrow spacing"
+msgstr "د غشي تشونه"
+
+msgid "Artists"
+msgstr "هنرمندان"
+
+msgid "Artwork by"
+msgstr "کلاکاران"
+
+msgid "Attributes"
+msgstr "ځانتياوې"
+
+msgid "Authentication"
+msgstr "کاريال"
+
+msgid "Authors"
+msgstr "ليکوالان"
+
+msgid "Auto Select"
+msgstr "خپله ټاکل"
+
+msgid "Background color"
+msgstr "شاليد رنګ"
+
+msgid "Background color as a GdkColor"
+msgstr "GdkColor شاليد رنګ لکه يو"
+
+msgid "Background color as a string"
+msgstr "شاليد رنګ لکه يو مزی"
+
+msgid "Background color name"
+msgstr "د شاليد رنګ نوم"
+
+msgid "Be_fore:"
+msgstr ":مخ_کې"
+
+msgid "Before"
+msgstr "مخکې"
+
+msgid "Best _Fit"
+msgstr "ښه برابرول_"
+
+msgid "Border width"
+msgstr "بريد پلنوالی"
+
+msgid "Bottom Attach"
+msgstr "کوز نښلن"
+
+msgid "Bottom attachment"
+msgstr "کوز نښلن"
+
+msgid "Button spacing"
+msgstr "تڼۍ تشونه"
+
+msgid "CLASS"
+msgstr "پوړ"
+
+msgid "COLORS"
+msgstr "رنګونه"
+
+msgid "C_onnect"
+msgstr "ن_ښلېدل"
+
+msgid "C_redits"
+msgstr "ب_اورونه"
+
+msgid "C_urrent Page"
+msgstr "ا_وسنی مخ"
+
+msgid "Can default"
+msgstr "تلواله کېدی"
+
+msgid "Can focus"
+msgstr "منځواله کېدی"
+
+msgid "Cancel Button"
+msgstr "بندولو تڼۍ"
+
+msgid "Cell background color"
+msgstr "د خونې شاليد رنګ"
+
+msgid "Cell background color name"
+msgstr "خونې شاليد رنګ نوم"
+
+msgid "Child"
+msgstr "ماشوم"
+
+msgid "Clickable"
+msgstr "کېکاږل کېدونکی"
+
+msgid "Co_nnect"
+msgstr "نښ_لېدل"
+
+msgid "Color"
+msgstr "رنګ"
+
+msgid "Color Selection"
+msgstr "رنګ ټاکنه"
+
+msgid "Color _name:"
+msgstr ":د رنګ _نوم"
+
+msgid "Color of the selection box"
+msgstr "د ټاکنې د بکس رنګ"
+
+msgid "Color of unvisited links"
+msgstr "د ناکتلو پېوندونو رنګ"
+
+msgid "Color of visited links"
+msgstr "د کتل شويو پېوندونو رنګ"
+
+msgid "Color to use for even rows"
+msgstr "د جوتو کيلونو لپاره کارېدونکی رنګ"
+
+msgid "Color to use for odd rows"
+msgstr "د تاکو کيلونو لپاره کارېدونکی رنګ"
+
+msgid "Column Spacing"
+msgstr "ستن تشونه"
+
+msgid "Column is user-resizable"
+msgstr "ستن کارن-بياکچېدونکی دی"
+
+msgid "Column spacing"
+msgstr "ستن تشونه"
+
+msgid "Columns"
+msgstr "ستنې"
+
+msgid "Command Line"
+msgstr "بولۍ ليکه"
+
+msgid "Command to run when displaying a print preview"
+msgstr "هغه بولۍ چې وځغلول شي کله چې د چاپ مخليد ښودل کيږي"
+
+msgid "Comments about the program"
+msgstr "د کړنلار په اړه څرګندونې"
+
+msgid "Comments string"
+msgstr "څرګندون مزی"
+
+msgid "Completing..."
+msgstr "...بشپړيږي"
+
+msgid "Composite child"
+msgstr "مرکبه زوی"
+
+msgid "Connect _anonymously"
+msgstr "بېنومه نښلېدل_"
+
+msgid "Connect as u_ser:"
+msgstr ":لکه ک_ارن نښلېدل"
+
+msgid "Copie_s:"
+msgstr ":لمېس_ې"
+
+msgid "Copies"
+msgstr "لمېسې"
+
+msgid "Copy URL"
+msgstr "لمېستل URL"
+
+msgid "Copy _Location"
+msgstr "ځای لمېسل_"
+
+msgid "Copyright information for the program"
+msgstr "د کړنلار لپاره د چاپرښتو خبرتياوې"
+
+msgid "Copyright string"
+msgstr "چاپرښتې مزی"
+
+msgid "Could not add a bookmark"
+msgstr "ليکنښه نه شي زياتولی"
+
+msgid "Could not clear list"
+msgstr "لړ نه شي پاکولی"
+
+msgid "Could not read the contents of the folder"
+msgstr "د دوتنې په اړه خبرتياوې نه شي راوستلی"
+
+msgid "Could not remove bookmark"
+msgstr "ليکنښه نه شي ړنګولی"
+
+msgid "Could not remove item"
+msgstr "توکی نه شي ړنګولی"
+
+msgid "Could not retrieve information about the file"
+msgstr "د دوتنې په اړه خبرتياوې نه شي راوستلی"
+
+msgid "Could not select file"
+msgstr "دوتنه نه شي ټاکلی"
+
+msgid "Could not send the search request"
+msgstr "د پلټون غوښتنه نه شي لېږلی"
+
+msgid "Could not show link"
+msgstr "لړ نه شي پاکولی"
+
+msgid "Could not start the search process"
+msgstr "د پلټون بهير نه شي پېلولی"
+
+msgid "Create Fo_lder"
+msgstr "پو_ښۍ جوړول"
+
+msgid "Create in _folder:"
+msgstr ":په _پوښۍ کې جوړول"
+
+msgid "Credits"
+msgstr "باورونه"
+
+msgid "Ctrl"
+msgstr "مهار"
+
+msgid "Cu_t"
+msgstr "سکڼ_ل"
+
+msgid "Current Alpha"
+msgstr "اوسنی الفا"
+
+msgid "Current Color"
+msgstr "اوسنی رنګ"
+
+msgid "Current Page"
+msgstr "اوسنی مخ"
+
+msgid "Current fixed width of the column"
+msgstr "د ستن اوسنی"
+
+msgid "Current width of the column"
+msgstr "د ستن اوسنی پلنوالی"
+
+msgid "Cursor"
+msgstr "ځری پړک"
+
+msgid "Cursor Blink"
+msgstr "ځری پړک"
+
+msgid "Cursor Blink Time"
+msgstr "د ځري د پړک مهال"
+
+msgid "Cursor Visible"
+msgstr "ځری ښکارېدونکی"
+
+msgid "Cursor color"
+msgstr "ځرى رنګ"
+
+msgid "Cursor position"
+msgstr "د ځري ځای"
+
+msgid "Cursor theme name"
+msgstr "ځري کوندې نوم"
+
+msgid "Cursor theme size"
+msgstr "ځري کوندې کچ"
+
+msgid "Custom palette"
+msgstr "دوديز رنګدبلی"
+
+msgid "Custom size"
+msgstr "دوديز کچ"
+
+msgid "Custom tab label"
+msgstr "دوديز ټوپ نښکه"
+
+msgid "Custom tabs for this text"
+msgstr "د دې ليکنې لپاره دوديز ټوپونه"
+
+msgid "DISPLAY"
+msgstr "ښوون"
+
+msgid "Day"
+msgstr "ورځ"
+
+msgid "Decrease Indent"
+msgstr "سرتشه لږول"
+
+msgid "Decreases the volume"
+msgstr "غږ ټيټوي"
+
+msgid "Default Display"
+msgstr "تلواله ښودنه"
+
+msgid "Default Height"
+msgstr "تلواله لوړوالی"
+
+msgid "Default Page Setup"
+msgstr "تلواله مخ امسته"
+
+msgid "Default Width"
+msgstr "تلواله پلنوالی"
+
+msgid "Default command to run when displaying a print preview"
+msgstr "هغه تلواله بولۍ چې وځغلول شي کله چې د چاپ مخليد ښودل کيږي"
+
+msgid "Deletable"
+msgstr "ړنګيدونکی"
+
+msgid "Delete"
+msgstr "ړنګول"
+
+msgid "Desktop"
+msgstr "سرپاڼه"
+
+msgid "Destroy with Parent"
+msgstr "پلرين سره ړنګول"
+
+msgid "Detail"
+msgstr "سپړاوی"
+
+msgid "Device Display"
+msgstr "تلواله ښودنه"
+
+msgid "Device manager"
+msgstr "اوسنی سمبالګر"
+
+msgid "Device name"
+msgstr "وړوکي نوم"
+
+msgid "Device type"
+msgstr "مخ ډول"
+
+msgid "Dialog"
+msgstr "کړکۍ"
+
+msgid "Digits"
+msgstr "ګڼيالونه"
+
+msgid "Disabled"
+msgstr "ناتوانېدلی"
+
+msgid "Display"
+msgstr "تلواله ښودنه"
+
+msgid "Display for the device manager"
+msgstr "خونه ښودل"
+
+msgid "Display the cell"
+msgstr "خونه ښودل"
+
+msgid "Documented by"
+msgstr "لاسوندونکي"
+
+msgid "Documenters"
+msgstr "لاسوندوونکي"
+
+msgid "Domain:"
+msgstr ":شپول_"
+
+msgid "Double Arrows"
+msgstr "دوه غشي"
+
+msgid "Double Click Distance"
+msgstr "د دوه کېکاږلو لرېوالی"
+
+msgid "Double Click Time"
+msgstr "د دوه کېکاږلو مهال"
+
+msgid "Down"
+msgstr "ښکته"
+
+msgid "Editable"
+msgstr "سمونوړ"
+
+msgid "Editing"
+msgstr "سمونه"
+
+msgid "Editing Canceled"
+msgstr "بند شوی"
+
+msgid "Embed Page Setup"
+msgstr "مخ امسته"
+
+msgid "Embedded"
+msgstr "راتاو"
+
+msgid "Empty"
+msgstr "تش"
+
+msgid "Enable Animations"
+msgstr "سېلن وړول"
+
+msgid "Enable Grid Lines"
+msgstr "کرښې وړول"
+
+msgid "Enable Popup"
+msgstr "بړبوکيزه وړول"
+
+msgid "Enable Search"
+msgstr "پلټون وړول"
+
+msgid "Enable Tree Lines"
+msgstr "ونه کرښې وړول"
+
+msgid "English"
+msgstr "انګلیسي"
+
+msgid "Error"
+msgstr "تېروتنه"
+
+msgid "Error color"
+msgstr "ځرى رنګ"
+
+msgid "Error creating print preview"
+msgstr "د چاپ مخليد په جوړولو کې ستونزه"
+
+msgid "Error launching preview"
+msgstr "د مخليد په راوستلو کې ستونزه"
+
+msgid "Escape"
+msgstr "پرېښل"
+
+msgid "Even Row Color"
+msgstr "جوت کيل رنګ"
+
+msgid "Even sheets"
+msgstr "جوتې پاڼې"
+
+msgid "Event base"
+msgstr "پېښه"
+
+msgid "Events"
+msgstr "پېښه"
+
+msgid "Export filename"
+msgstr "دوتنه نوم بهرول"
+
+msgid "Extension events"
+msgstr "شاتاړې پېښې"
+
+msgid "FALSE if this represents a real hardware printer"
+msgstr "ناسم که چېرې سم هډوتری چاپګر وي"
+
+msgid "FLAGS"
+msgstr "جنډې"
+
+msgid "Failed to load icon"
+msgstr "د انځورن په لېښلو کې پاتې راغی"
+
+msgid "Failed to open file %{string} : %{string}\n"
+msgstr "%{string} : دوتنه پرانيستلو کې پاتې راغی %{string}\n"
+
+msgid "File"
+msgstr "دوتنه"
+
+msgid "File System"
+msgstr "دوتنه غونډال"
+
+msgid "File System Root"
+msgstr "د دوتنه غونډال ولۍ"
+
+msgid "File not found: %{string}\n"
+msgstr "%{string} :دوتنه ونه موندل شوه\n"
+
+msgid "Filename"
+msgstr "دوتنه نوم"
+
+msgid "Files"
+msgstr "دوتنې"
+
+msgid "Fill"
+msgstr "ډکول"
+
+msgid "Fill Level"
+msgstr "ډکون کچ"
+
+msgid "Filter"
+msgstr "چاڼ"
+
+msgid "Find and _Replace"
+msgstr "لټول او _ځاېناستول"
+
+msgid "Finished"
+msgstr "بشپړ شو"
+
+msgid "Finishing"
+msgstr "بشپړيږي"
+
+msgid "Finnish"
+msgstr "فینلنډي"
+
+msgid "Fixed Width"
+msgstr "ټاکلی پلنوالی"
+
+msgid "Font"
+msgstr "ليکبڼه"
+
+msgid "Font Name"
+msgstr "د ليکبڼې نوم"
+
+msgid "Font Selection"
+msgstr "د ليکبڼې ټاکنه"
+
+msgid "Font family"
+msgstr "د ليکبڼې کورنۍ"
+
+msgid "Font options"
+msgstr "ليکبڼې غوراوي"
+
+msgid "Font points"
+msgstr "د ليکبڼې ټکي"
+
+msgid "Font resolution"
+msgstr "ليکبڼې ژورليد"
+
+msgid "Font scale"
+msgstr "ليکبڼې مېچ"
+
+msgid "Font size"
+msgstr "د ليکبڼې کچه"
+
+msgid "Font size in points"
+msgstr "د ليکبڼې کچه په ټکو کښې"
+
+msgid "Font stretch"
+msgstr "د ليکبڼې غځون"
+
+msgid "Font style"
+msgstr "د ليکبڼې ډول"
+
+msgid "Font weight"
+msgstr "د ليکبڼې وزن"
+
+msgid "Foreground color"
+msgstr "پاسليد رنګ"
+
+msgid "Foreground color as a GdkColor"
+msgstr "GdkColor پاسليد رنګ لکه يو"
+
+msgid "Foreground color as a string"
+msgstr "پاسليد رنګ لکه يو مزی"
+
+msgid "Foreground color for symbolic icons"
+msgstr "پاسليد رنګ لکه يو مزی"
+
+msgid "Foreground color name"
+msgstr "پاسليد رنګ نوم"
+
+msgid "French"
+msgstr "فرانسوي"
+
+msgid "Full Volume"
+msgstr "ټول غږ"
+
+msgid "GTK+ Options"
+msgstr "غوراوي GTK+"
+
+msgid "General"
+msgstr "ټولګړي"
+
+msgid "German"
+msgstr "الماني"
+
+msgid "Grid line pattern"
+msgstr "سيخ کرښه بېلګه"
+
+msgid "Grid line width"
+msgstr "د کرښو پلنوالی"
+
+msgid "Group"
+msgstr "ډله"
+
+msgid "Group Name"
+msgstr "ډله پېژند"
+
+msgid "Group name for tab drag and drop"
+msgstr "د چار ډلې لپاره يو نوم"
+
+msgid "Has Frame"
+msgstr "چوکاټ لري"
+
+msgid "Has Selection"
+msgstr "ټاکنه لري"
+
+msgid "Has default"
+msgstr "تلواله لري"
+
+msgid "Has focus"
+msgstr "منځواله لري"
+
+msgid "Has palette"
+msgstr "رنګدبلی لري"
+
+msgid "Has selection"
+msgstr "ټاکنه لري"
+
+msgid "Has tooltip"
+msgstr "توک نکته لري"
+
+msgid "Header Relief"
+msgstr "سرۍ انځور"
+
+msgid "Header Spacing"
+msgstr "سرۍ انځور"
+
+msgid "Header image"
+msgstr "سرۍ انځور"
+
+msgid "Height"
+msgstr "لوړوالی"
+
+msgid "Help Button"
+msgstr "مرسته تڼۍ"
+
+msgid "Hide if empty"
+msgstr "که تش وي، پټ يې کړه"
+
+msgid "High"
+msgstr "لوړ"
+
+msgid "Hindi"
+msgstr "هندي"
+
+msgid "Home"
+msgstr "کور"
+
+msgid "Horizontal Adjustment"
+msgstr "پروت سماو"
+
+msgid "Horizontal Alignment"
+msgstr "پرته پرليکتيا"
+
+msgid "Horizontal Scroll Arrow Length"
+msgstr "د پرتو رغښت غشو اوږدوالی"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "د پرتې رغښتپټې تګلار"
+
+msgid "Horizontal Separator Width"
+msgstr "د پروت بېلوونکي پلنوالی"
+
+msgid "Horizontal options"
+msgstr "پراته غوراوي"
+
+msgid "Horizontal separation"
+msgstr "پراته غوراوي"
+
+msgid "How to align the lines"
+msgstr "ليکې څنګه پرليکه کړو"
+
+msgid "IM Status style"
+msgstr "انکړ ډول IM"
+
+msgid "IM module"
+msgstr "بېلګه IM"
+
+msgid "Icon"
+msgstr "انځورن"
+
+msgid "Icon Name"
+msgstr "انځورن نوم"
+
+msgid "Icon Sizes"
+msgstr "انځورن کچې"
+
+msgid "Icon Theme Name"
+msgstr "انځورن کوندې نوم"
+
+msgid "Icon for this window"
+msgstr "دې کړکۍ لپاره انځورن"
+
+msgid "Icon name"
+msgstr "د انځورن نوم"
+
+msgid "Icon set"
+msgstr "انځورن ډله"
+
+msgid "Icon set to display"
+msgstr "انځورن ډله چې ښکاره شي"
+
+msgid "Icon size"
+msgstr "انځورن کچ"
+
+msgid "Icon spacing"
+msgstr "انځورن تشونه"
+
+msgid "Icons"
+msgstr "انځورنونه"
+
+msgid "If TRUE, a heading is displayed"
+msgstr "که چېرې سم وي، يو سريز ښودل کيږي"
+
+msgid "If TRUE, day names are displayed"
+msgstr "که جېرې سم وي، د ورځو نومونه ښودل کيږي"
+
+msgid "If TRUE, details are shown"
+msgstr "که چېرې سم وي، خبرتياوې ښکاري"
+
+msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
+msgstr "که چېرې سم وي، کړکۍ به بېلګه وي (که دا کړکۍ (دپاسه وي نورې کړکۍ به کارېدونکي نه وي"
+
+msgid "If TRUE, users can resize the window"
+msgstr "که چېرې سم وي، کارنان کړکۍ بياکچولی شي"
+
+msgid "If the toggle button should be pressed in"
+msgstr "که چېرې يو رنګدبلی بايد وکارول شي"
+
+msgid "If this window should be destroyed when the parent is destroyed"
+msgstr "که چېرې دا کړکۍ بايد وړنګيږي کله چې پلرينه يې وړنګيږي"
+
+msgid "Ignore hidden"
+msgstr "پټ پرېښودل"
+
+msgid "Image"
+msgstr "انځور"
+
+msgid "Image Quality"
+msgstr "د انځور څرنګوالی"
+
+msgid "Image position"
+msgstr "انڅور ځای"
+
+msgid "Image/label border"
+msgstr "انځور/نښکه بريد"
+
+msgid "Increase Indent"
+msgstr "سرتشه زياتول"
+
+msgid "Increases the volume"
+msgstr "غږ لوړوي"
+
+msgid "Indent"
+msgstr "سرتشه"
+
+msgid "Information"
+msgstr "خبرتياوې"
+
+msgid "Inner border"
+msgstr "بريد انځورول"
+
+msgid "Input _Methods"
+msgstr "ننوت لېلې_"
+
+msgid "Insert"
+msgstr "ورننويستل"
+
+msgid "Intensity of the color."
+msgstr ".د رنګ روڼوالی"
+
+msgid "Interior Focus"
+msgstr "کورنۍ منځواله"
+
+msgid "Invalid"
+msgstr "URI ناسم"
+
+msgid "Invalid URI"
+msgstr "URI ناسم"
+
+msgid "Invalid file name"
+msgstr "ناسم دوتنه نوم"
+
+msgid "Invalid path"
+msgstr "ناسم ځای"
+
+msgid "Invisible"
+msgstr "نه ښکارېدونکی"
+
+msgid "Is Active"
+msgstr "چارند دی"
+
+msgid "Is Virtual"
+msgstr "اوڅاريز دی"
+
+msgid "Is focus"
+msgstr "منځواله دی"
+
+msgid "Is important"
+msgstr "اړين دی"
+
+msgid "Italian"
+msgstr "ایټالوي"
+
+msgid "Item Orientation"
+msgstr "لورموندنه"
+
+msgid "Job"
+msgstr "دنده"
+
+msgid "Job Count"
+msgstr "دنده شمېر"
+
+msgid "Job Details"
+msgstr "د دندې خبرتياوې"
+
+msgid "Job Name"
+msgstr "دندې نوم"
+
+msgid "Key Theme Name"
+msgstr "د کيلۍ ويينې نوم"
+
+msgid "Label"
+msgstr "نښکه"
+
+msgid "Label fill"
+msgstr "ټوپ ډکون"
+
+msgid "Landscape"
+msgstr "پسوریز"
+
+msgid "Language"
+msgstr "ژبه"
+
+msgid "Latin"
+msgstr "لاتیني"
+
+msgid "Layout"
+msgstr "هډوانه"
+
+msgid "Left"
+msgstr "کيڼ"
+
+msgid "Left Attach"
+msgstr "کيڼ نښلن"
+
+msgid "Left Margin"
+msgstr "کيڼه لمن"
+
+msgid "Left attachment"
+msgstr "کيڼ نښلن"
+
+msgid "Left margin"
+msgstr "کيڼه مورګه"
+
+msgid "License"
+msgstr "منښتليک"
+
+msgid "License Type"
+msgstr "استوزې ډول"
+
+msgid "Line wrap"
+msgstr "ليکې نغاړل"
+
+msgid "Line wrap mode"
+msgstr "ليکې نغاړلو اکر"
+
+msgid "List of authors of the program"
+msgstr "د کړنلار د ليکوالانو لړ"
+
+msgid "List of icon names"
+msgstr "د انځورن نومونو لړ"
+
+msgid "List of people documenting the program"
+msgstr "د کړنلار د لاسوندوونکو لړ"
+
+msgid "Local only"
+msgstr "يوازې سيميز"
+
+msgid "Location"
+msgstr "ځای"
+
+msgid "Logo"
+msgstr "نښان"
+
+msgid "Logo Icon Name"
+msgstr "نښان انځورن نوم"
+
+msgid "Low"
+msgstr "ټيټ"
+
+msgid "Lower"
+msgstr "کوز"
+
+msgid "MODULES"
+msgstr "رغبېلګې"
+
+msgid "Macedonian"
+msgstr "مقدوني"
+
+msgid "Make all warnings fatal"
+msgstr "ټولې خبرتياوې وژونکې کول"
+
+msgid "Margin"
+msgstr "لمن"
+
+msgid "Margin on Left"
+msgstr "لمن"
+
+msgid "Margin on Top"
+msgstr "لمن"
+
+msgid "Mark name"
+msgstr "نښې نوم"
+
+msgid "Markup"
+msgstr "نښيال"
+
+msgid "Markup column"
+msgstr "نښيال ستن"
+
+msgid "Max Size"
+msgstr "ټولوجګه کچ"
+
+msgid "Maximum Value"
+msgstr "ټولوجګه ارزښت"
+
+msgid "Medium"
+msgstr "منځنی"
+
+msgid "Menu"
+msgstr "غورنۍ"
+
+msgid "Menu label"
+msgstr "غورنۍ نښکه"
+
+msgid "Message Buttons"
+msgstr "استوزې تڼۍ"
+
+msgid "Message Type"
+msgstr "استوزې ډول"
+
+msgid "Message area"
+msgstr "استوزې ډول"
+
+msgid "Minimum Value"
+msgstr "ټولولږه ارزښت"
+
+msgid "Minimum Width"
+msgstr "ټولولږه پلنوالی"
+
+msgid "Minimum horizontal bar width"
+msgstr "د پروت بېلوونکي پلنوالی"
+
+msgid "Minimum vertical bar width"
+msgstr "ټولولږه پلنوالی"
+
+msgid "Modal"
+msgstr "بېلګه"
+
+msgid "Modified"
+msgstr "بدل شوی"
+
+msgid "Monitor"
+msgstr "ليداڼی"
+
+msgid "Month"
+msgstr "مياشت"
+
+msgid "Muted"
+msgstr "تم شوی"
+
+msgid "NAME"
+msgstr "نوم"
+
+msgid "Name"
+msgstr "نوم"
+
+msgid "Name of default font to use"
+msgstr "د تلوالې ليکبڼې نوم چې وکارول شي"
+
+msgid "Name of icon theme to use"
+msgstr "د انځورن ويينې نوم چې وکارول شي"
+
+msgid "Name of the printer"
+msgstr "د چاپګر نوم"
+
+msgid "Name of the themed icon for this window"
+msgstr "دې کړکۍ لپاره د وييني انځورن نوم"
+
+msgid "No items found"
+msgstr "توکي ونه موندل شول"
+
+msgid "No match"
+msgstr "هېڅ ساری"
+
+msgid "No printer found"
+msgstr "چاپګر ونه موندل شو"
+
+msgid "No show all"
+msgstr "نه ټول ښودل"
+
+msgid "None"
+msgstr "هېڅ"
+
+msgid "Not available"
+msgstr "نه شته"
+
+msgid "Number of Pages"
+msgstr "د مخونو شمېر"
+
+msgid "Number of Pages To Print"
+msgstr "د مخونو شمېر"
+
+msgid "Number of axes in the device"
+msgstr ".لاسوند کښې د مخونو شمېر"
+
+msgid "Number of columns"
+msgstr "د ستنو شمېر"
+
+msgid "Number of jobs queued in the printer"
+msgstr "چاپګر کښې د ليکه شويو دندو شمېر"
+
+msgid "Number of steps"
+msgstr "د مخونو شمېر"
+
+msgid "Odd Row Color"
+msgstr "تاک کيل رنګ"
+
+msgid "Odd sheets"
+msgstr "تاکې پاڼې"
+
+msgid "Open '%{string}'"
+msgstr "پرانيستل '%{string}'"
+
+msgid "Or_ientation:"
+msgstr ":لورموندنه_"
+
+msgid "Orientation"
+msgstr "لورموندنه"
+
+msgid "Other..."
+msgstr "...نور"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "P_ause"
+msgstr "ځ_نډول"
+
+msgid "Pag_es:"
+msgstr ":مخو_نه"
+
+msgid "Page"
+msgstr "مخ"
+
+msgid "Page Set_up"
+msgstr "مخ امس_ته"
+
+msgid "Page Setup"
+msgstr "مخ امسته"
+
+msgid "Page Size"
+msgstr "د مخ کچ"
+
+msgid "Page title"
+msgstr "مخ سرليک"
+
+msgid "Page type"
+msgstr "مخ ډول"
+
+msgid "Pages"
+msgstr ":مخو_نه"
+
+msgid "Paper"
+msgstr "پاڼه"
+
+msgid "Paper Margins"
+msgstr "د پاڼې کچ"
+
+msgid "Paper Size"
+msgstr "د پاڼې کچ"
+
+msgid "Paper _source:"
+msgstr ":د پاڼو _سرچينه"
+
+msgid "Paper _type:"
+msgstr ":د پاڼې _ډول"
+
+msgid "Parent"
+msgstr "پلرين"
+
+msgid "Parent widget"
+msgstr "پلرينه وړوکی"
+
+msgid "Password:"
+msgstr ":تېرنويې_"
+
+msgid "Path does not exist"
+msgstr "يونلور شتون نه لري"
+
+msgid "Pattern"
+msgstr "بېلګه"
+
+msgid "Pause"
+msgstr "ځنډول"
+
+msgid "Paused"
+msgstr "ځنډېدلی"
+
+msgid "Paused Printer"
+msgstr "ځنډول شوی چاپګر"
+
+msgid "Pick a Color"
+msgstr "يو رنګ وټاکﺉ"
+
+msgid "Pick a Font"
+msgstr "ليکبڼه اوچتول"
+
+msgid "Pixbuf column"
+msgstr "ستن Pixbuf"
+
+msgid "Pixel size"
+msgstr "پېکسل کچ"
+
+msgid "Pixel size to use for named icon"
+msgstr "پېکسل کچ چې نومول شوي انځورن لپاره وکاروو"
+
+msgid "Pixels above lines"
+msgstr "د ليکو دپاسه پېکسلې"
+
+msgid "Pixels below lines"
+msgstr "د ليکو لاندې پېکسلې"
+
+msgid "Places"
+msgstr "ځايونه"
+
+msgid "Polish"
+msgstr "پولنډي"
+
+msgid "Portrait"
+msgstr "تيک"
+
+msgid "Position"
+msgstr "ځای"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Pre_vious"
+msgstr "مخ_کنی"
+
+msgid "Preparing"
+msgstr "چمتو کيږي"
+
+msgid "Preparing to print"
+msgstr "د چاپولو لپاره چمتو کيږي"
+
+msgid "Preview text"
+msgstr "ليکنې مخليد"
+
+msgid "Primary icon name"
+msgstr "د انځورن لومړی نوم"
+
+msgid "Print"
+msgstr "چاپول"
+
+msgid "Print Document"
+msgstr "لاسوند چاپول"
+
+msgid "Print Pre_view"
+msgstr "چاپ مخ_کوت"
+
+msgid "Print Settings"
+msgstr "چاپ امستنې"
+
+msgid "Print at"
+msgstr "چاپول پر"
+
+msgid "Print at time"
+msgstr "چاپول پر مهال"
+
+msgid "Print to File"
+msgstr "دوتنه کې چاپول"
+
+msgid "Printer"
+msgstr "چاپګر"
+
+msgid "Printer settings"
+msgstr "چاپګر امستنې"
+
+msgid "Printer to print the job to"
+msgstr "هغه چاپګر چې دنده پرې چاپ کړو"
+
+msgid "Printing"
+msgstr "چاپيږي"
+
+msgid "Program class as used by the window manager"
+msgstr "د کړنلارې پاړکی لکه څنګه چې يې کړکۍ سمبالګر کاروي"
+
+msgid "Program name"
+msgstr "د کړنلار نوم"
+
+msgid "Program name as used by the window manager"
+msgstr "د کړنلارې نوم لکه څنګه چې يې کړکۍ سمبالګر کاروي"
+
+msgid "Program version"
+msgstr "د کړنلار نسخه"
+
+msgid "Progress Border"
+msgstr "پرمختګ بريد"
+
+msgid "Pulse of the spinner"
+msgstr "د چاپګر نوم"
+
+msgid "Question"
+msgstr "پوښتنه"
+
+msgid "R_ewind"
+msgstr "له سرول_"
+
+msgid "Range"
+msgstr "سيمه"
+
+msgid "Reads the current value, or sets a new value"
+msgstr "اوسنی ارزښت لولي، يا نوی ارزښت ټاکي"
+
+msgid "Received invalid color data\n"
+msgstr "ناسم رنګ اومتوک لاس ته راغی\n"
+
+msgid "Receives default"
+msgstr "تلواله نيسي"
+
+msgid "Recent Manager"
+msgstr "اوسنی سمبالګر"
+
+msgid "Recently Used"
+msgstr "اوسن کارول شوي"
+
+msgid "Related Action"
+msgstr "چار"
+
+msgid "Remember _forever"
+msgstr "تل _ياد ساتل"
+
+msgid "Remember password until you _logout"
+msgstr "تېرنويې تر وتون ياد ساتل_"
+
+msgid "Remove"
+msgstr "ړنګول"
+
+msgid "Remove the bookmark '%{string}'"
+msgstr "ليکنښه ړنګول '%{string}'"
+
+msgid "Remove the selected bookmark"
+msgstr "ټاکل شوې ليکنښه ړنګول"
+
+msgid "Rename..."
+msgstr "...بيانومول"
+
+msgid "Resizable"
+msgstr "بياکچېدونکی"
+
+msgid "Resize"
+msgstr "بياکچول"
+
+msgid "Resize mode"
+msgstr "بياکچونې اکر"
+
+msgid "Resize mode of the column"
+msgstr "د ستن بياکچ اکر"
+
+msgid "Resolution"
+msgstr "ژورکوت"
+
+msgid "Reverse landscape"
+msgstr "سرچپه پسوریز"
+
+msgid "Reverse portrait"
+msgstr "سرچپه تیک"
+
+msgid "Right"
+msgstr "ښي"
+
+msgid "Right Attach"
+msgstr "ښي نښلن"
+
+msgid "Right Margin"
+msgstr "ښي لمن"
+
+msgid "Right attachment"
+msgstr "ښي نښلن"
+
+msgid "Right margin"
+msgstr "ښي مورګه"
+
+msgid "Right to left"
+msgstr "ښی نه کيڼ"
+
+msgid "Row Spacing"
+msgstr "کيل تشونه"
+
+msgid "Row spacing"
+msgstr "کيل تشونه"
+
+msgid "Rows"
+msgstr "کيلونه"
+
+msgid "Russian"
+msgstr "روسي"
+
+msgid "SCREEN"
+msgstr "پرده"
+
+msgid "Sans 12"
+msgstr "Sans ۱۲"
+
+msgid "Save _As"
+msgstr "ساتل _پر"
+
+msgid "Save in _folder:"
+msgstr ":په _پوښۍ کې ساتل"
+
+msgid "Sc_ale:"
+msgstr ":مې_چل"
+
+msgid "Screen"
+msgstr "پرده"
+
+msgid "Scrollable"
+msgstr "رغښتل کېدونکی"
+
+msgid "Scrollbar spacing"
+msgstr "د رغښتپټې تشونه"
+
+msgid "Se_lection"
+msgstr ":ټاکنه_"
+
+msgid "Search"
+msgstr "پلټون"
+
+msgid "Search:"
+msgstr "پلټون"
+
+msgid "Secondary Text"
+msgstr "دوهمه ليکنه"
+
+msgid "Secondary cursor color"
+msgstr "دويم ځری رنګ"
+
+msgid "Select A File"
+msgstr "يوه دوتنه وټاکﺉ"
+
+msgid "Select Multiple"
+msgstr "ګڼ ټاکل"
+
+msgid "Select _All"
+msgstr "ټول ټاکل_"
+
+msgid "Select a folder"
+msgstr "يوه دوتنه وټاکﺉ"
+
+msgid "Select which types of files are shown"
+msgstr "وټاکﺉ چې کوم ډول دوتنې ښکاري"
+
+msgid "Selected Printer"
+msgstr "ټاکل شوی چاپګر"
+
+msgid "Selection Box Alpha"
+msgstr "ټاکنې بکس الفا"
+
+msgid "Selection Box Color"
+msgstr "ټاکنې بکس رنګ"
+
+msgid "Selection mode"
+msgstr "ټاکنې اکر"
+
+msgid "Separator Height"
+msgstr "د بېلوونکي اوږدوالی"
+
+msgid "Separator Width"
+msgstr "د بېلوونکي پلنوالی"
+
+msgid "Settings"
+msgstr "امستنې"
+
+msgid "Shadow Type"
+msgstr "د سيوري ډول"
+
+msgid "Shadow type"
+msgstr "سيوري ډول"
+
+msgid "Shift"
+msgstr "شفټ"
+
+msgid "Short label"
+msgstr "لنډه نښکه"
+
+msgid "Show Arrow"
+msgstr "غشی ښودل"
+
+msgid "Show Border"
+msgstr "بريد ښودل"
+
+msgid "Show Day Names"
+msgstr "د ورځو نومونه ښودل"
+
+msgid "Show Details"
+msgstr "خبرتياوې ښودل"
+
+msgid "Show Dialog"
+msgstr "کړکۍ ښودل"
+
+msgid "Show Fill Level"
+msgstr "د ډکېدو کچ ښودل"
+
+msgid "Show GTK+ Options"
+msgstr "غوراوي ښودل GTK+ د"
+
+msgid "Show Heading"
+msgstr "سريز ښودل"
+
+msgid "Show Hidden"
+msgstr "پټ شوي ښودل"
+
+msgid "Show Icons"
+msgstr "انځورنونه ښودل"
+
+msgid "Show Not Found"
+msgstr "ونه موندل شو ښودل"
+
+msgid "Show Numbers"
+msgstr "شمېرې ښودل"
+
+msgid "Show Private"
+msgstr "ځاني ښودل"
+
+msgid "Show Tabs"
+msgstr "ټوپونه ښودل"
+
+msgid "Show Tooltips"
+msgstr "توک نکتې ښودل"
+
+msgid "Show _Hidden Files"
+msgstr "پټې دوتنې ښودل_"
+
+msgid "Show menu images"
+msgstr "غورنۍ انځورونه ښودل"
+
+msgid "Show size"
+msgstr "کچ ښودل"
+
+msgid "Show style"
+msgstr "ډول ښودل"
+
+msgid "Show text"
+msgstr "ليکنه ښودل"
+
+msgid "Shrink"
+msgstr "غونجول"
+
+msgid "Si_ze:"
+msgstr ":ک_چ"
+
+msgid "Simple"
+msgstr "ساده"
+
+msgid "Size"
+msgstr "کچ"
+
+msgid "Size of icons in this tool palette"
+msgstr "په دې توکپټه کښې د انځورنو کچ"
+
+msgid "Size of icons in this toolbar"
+msgstr "په دې توکپټه کښې د انځورنو کچ"
+
+msgid "Sizing"
+msgstr "کچونه"
+
+msgid "Skip taskbar"
+msgstr "دندپټه پرېښودل"
+
+msgid "Slider Width"
+msgstr "د سلالۍ پټې پلنوالی"
+
+msgid "Sort Type"
+msgstr "اڼن ډول"
+
+msgid "Source option"
+msgstr "سرچينه غوراوي"
+
+msgid "Space"
+msgstr "تشه"
+
+msgid "Space style"
+msgstr "تشه ډول"
+
+msgid "Space which is inserted between cells"
+msgstr "هغه تشه چې د کيلونو ترمنځ ننويستل کيږي"
+
+msgid "Startup ID"
+msgstr "پېلنګ پېژند"
+
+msgid "State Message"
+msgstr "انکړ استوزه"
+
+msgid "Status"
+msgstr "انکړ"
+
+msgid "Status String"
+msgstr "انکړ مزی"
+
+msgid "Storage type"
+msgstr "زېرمولو ډول"
+
+msgid "String giving the current state of the printer"
+msgstr "هغه مزی چې د چاپګر اوسنی انکړ ښيي"
+
+msgid "Style"
+msgstr "ډول"
+
+msgid "Style of items in the tool palette"
+msgstr "په دې توکپټه کښې د انځورنو کچ"
+
+msgid "Submenu"
+msgstr "څېرمه غورنۍ"
+
+msgid "Success color"
+msgstr "ځرى رنګ"
+
+msgid "Support Selection"
+msgstr "رنګ ټاکنه"
+
+msgid "Swedish"
+msgstr "سویډنی"
+
+msgid "System"
+msgstr "غونډال"
+
+msgid "TRUE if a progress dialog is shown while printing."
+msgstr ".سم که چېرې کوم پرمختګ کړکۍ د چاپولو پر مهال ښودل کيږي"
+
+msgid "TRUE if this printer can accept PDF"
+msgstr "منلی شي PDF سم که چېرې دا چاپګر"
+
+msgid "TRUE if this printer can accept PostScript"
+msgstr "منلی شي PostScript سم که چېرې دا چاپګر"
+
+msgid "Tab"
+msgstr "ټوپ"
+
+msgid "Tab Position"
+msgstr "ټوپ ځای"
+
+msgid "Tab expand"
+msgstr "ټوپ غځونه"
+
+msgid "Tab fill"
+msgstr "ټوپ ډکون"
+
+msgid "Tab label"
+msgstr "ټوپ نښکه"
+
+msgid "Tab reorderable"
+msgstr "ټوپ بيا اڼل کېدونکی"
+
+msgid "Tabs"
+msgstr "ټوپونه"
+
+msgid "Tearoff Title"
+msgstr "سرليک Tearoff"
+
+msgid "Text"
+msgstr "ليکنه"
+
+msgid "Text Column"
+msgstr "د ليکنې ستن"
+
+msgid "Text direction"
+msgstr "د ليکنې لور"
+
+msgid "Text direction, e.g. right-to-left or left-to-right"
+msgstr "د ليکنې لور، لکه ښي-نه-کيڼ يا کيڼ-نه-ښي"
+
+msgid "Text to show in the item."
+msgstr ".په توکي کښې د ښودلو لپاره ليکنه"
+
+msgid "Text y alignment"
+msgstr "د ليکنې y پرليکتيا"
+
+msgid "The GtkPrinter which is selected"
+msgstr "چې ټاکل شوی Gtkهغه چاپګر"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "د دوه پرله پسې ستنو ترمنځ د تشې کچ"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "د دوه پرله پسې کيلونو ترمنځ د تشې کچ"
+
+msgid "The buttons shown in the message dialog"
+msgstr "هغه تڼۍ چې په استوزې کړکۍ کښې ښودل کيږي"
+
+msgid "The contents of the buffer"
+msgstr "د نښکې ليکنه"
+
+msgid "The contents of the tooltip for this widget"
+msgstr "د دې وړوکي د توک نکتې منځپانګه"
+
+msgid "The current color"
+msgstr "اوسنی رنګ"
+
+msgid "The currently selected menu item"
+msgstr "اوسنی ټاکل شوی غورنۍ توکی"
+
+msgid "The default display for GDK"
+msgstr "لپاره تلواله ښوون GDK د"
+
+msgid "The default font options for the screen"
+msgstr "د پردې لپاره د ليکبڼې تلواله غوراوي"
+
+msgid "The default height of the window, used when initially showing the window"
+msgstr "د کړکۍ تلواله اوږدوالی، لمړيو کښې د کړکۍ ښودلو لپاره کاريږي"
+
+msgid "The default width of the window, used when initially showing the window"
+msgstr "د کړکۍ تلواله پلنوالی، لمړيو کښې د کړکۍ ښودلو لپاره کاريږي"
+
+msgid "The file chooser dialog to use."
+msgstr ".هغه دوتنه ټاکونکې کړکۍ چې وکارول شي"
+
+msgid "The fill level."
+msgstr "د ډکون کچ"
+
+msgid "The fixed height"
+msgstr "ټاکل شوی لوړوالی"
+
+msgid "The fixed width"
+msgstr "ټاکل شوی پلنوالی"
+
+msgid "The folder contents could not be displayed"
+msgstr "د پوښۍ منځپانګې نه شي ښودلی"
+
+msgid "The folder could not be created"
+msgstr "پوښۍ جوړېدلی شي"
+
+msgid "The height of separators if \"wide-separators\" is TRUE"
+msgstr "سم وي \"wide-separators\" د بېلوونکو اوږدوالی که چېرې"
+
+msgid "The help button of the dialog."
+msgstr "د کړکۍ د مرستې تڼۍ."
+
+msgid "The human-readable title of this item group"
+msgstr "د انځورن کچه"
+
+msgid "The icon name to use for the printer"
+msgstr "انځورن نوم چې د چاپګر لپاره وکاروو"
+
+msgid "The icon size"
+msgstr "د انځورن کچ"
+
+msgid "The image"
+msgstr "انځور"
+
+msgid "The index of the current page"
+msgstr "د اوسنۍ پاڼې لړيال"
+
+msgid "The initial position of the window"
+msgstr "د کړکۍ لمړنی ځای"
+
+msgid "The item which is currently active"
+msgstr "هغه توکی چې اوس چارنده دی"
+
+msgid "The length of horizontal scroll arrows"
+msgstr "د پرتو رغښت غشو اوږدوالی"
+
+msgid "The length of vertical scroll arrows"
+msgstr "د نېغو رغښت غشو اوږدوالی"
+
+msgid "The license of the program"
+msgstr "د کاريال منښتليک"
+
+msgid "The license type of the program"
+msgstr "د کړنلار نسخه"
+
+msgid "The location of the printer"
+msgstr "د چاپګر ځای"
+
+msgid "The maximum value of the adjustment"
+msgstr "د سماو ټولوجګه ارزښت"
+
+msgid "The minimum value of the adjustment"
+msgstr "د سماو ټولولږه ارزښت"
+
+msgid "The name of the icon from the icon theme"
+msgstr "د انځورن کوندې څخه د انځورن نوم"
+
+msgid "The name of the widget"
+msgstr "د وړوکي نوم"
+
+msgid "The number of columns in the table"
+msgstr "په لښتيال کښې د ستنو شمېر"
+
+msgid "The number of pages in the document."
+msgstr ".لاسوند کښې د مخونو شمېر"
+
+msgid "The number of pages that will be printed."
+msgstr ".لاسوند کښې د مخونو شمېر"
+
+msgid "The number of rows in the table"
+msgstr "په لښتيال کښې د کيلونو شمېر"
+
+msgid "The parent window"
+msgstr "پلرينه کړکۍ"
+
+msgid "The secondary text of the message dialog"
+msgstr "د استوزې کړکۍ دوهمه ليکنه"
+
+msgid "The selected color"
+msgstr "ټاکل شوی رنګ"
+
+msgid "The selected month (as a number between 0 and 11)"
+msgstr "(ټاکل شوې مياشت (لکه شمېره د ۰ او ۱۱ ترمنځ"
+
+msgid "The selected year"
+msgstr "ټاکل شوی کال"
+
+msgid "The selection mode"
+msgstr "د ټاکلو اکر"
+
+msgid "The size of icons in default toolbars."
+msgstr "په تلواله توکپټو کښې د انځورنو کچ"
+
+msgid "The size of the icon"
+msgstr "د انځورن کچه"
+
+msgid "The status of the print operation"
+msgstr "د چاپ چار انکړ"
+
+msgid "The text of the label"
+msgstr "د نښکې ليکنه"
+
+msgid "The title of the color selection dialog"
+msgstr "د رنګ ټاکنې کړکۍ سرليک"
+
+msgid "The title of the file chooser dialog."
+msgstr ".د دوتنه ټاکونکې کړکۍ سرليک"
+
+msgid "The title of the window"
+msgstr "د کړکۍ سرليک"
+
+msgid "The title of this tray icon"
+msgstr "د انځورن کچه"
+
+msgid "The type of message"
+msgstr "د استوزې ډول"
+
+msgid "The type of the window"
+msgstr "د کړکۍ ډول"
+
+msgid "The value"
+msgstr "ارزښت"
+
+msgid "The value of the adjustment"
+msgstr "د سماو ارزښت"
+
+msgid "The version of the program"
+msgstr "د کړنلار نسخه"
+
+msgid "The width of separators if wide-separators is TRUE"
+msgstr "سم وي wide-separators د بېلوونکو اوږدوالی که چېرې"
+
+msgid "The width used for each item"
+msgstr "هر توکي لپاره کارېدونکی پلنوالی"
+
+msgid "The x-align"
+msgstr "پرليکتيا x"
+
+msgid "The y-align"
+msgstr "پرليکتيا y"
+
+msgid "Theme Name"
+msgstr "کوندې نوم"
+
+msgid "Title"
+msgstr "سرليک"
+
+msgid "Title of the print job"
+msgstr "د چاپ دندې سرليک"
+
+msgid "Title to appear in column header"
+msgstr "هغه سرليک چې په ستن سرۍ کې ښکاريږي"
+
+msgid "Toolbar Icon Size"
+msgstr "توکپټې انځورن کچ"
+
+msgid "Toolbar Style"
+msgstr "توکپټې ډول"
+
+msgid "Toolbar style"
+msgstr "توکپټې ډول"
+
+msgid "Tooltip"
+msgstr "توک نکته"
+
+msgid "Tooltip Column"
+msgstr "توک نکته ستن"
+
+msgid "Tooltip Text"
+msgstr "د توک نکتې ليکنه"
+
+msgid "Tooltip markup"
+msgstr "توک نکته نښيال"
+
+msgid "Top Attach"
+msgstr "پاس نښلن"
+
+msgid "Top Command"
+msgstr "بولۍ ليکه"
+
+msgid "Top attachment"
+msgstr "پاس نښلن"
+
+msgid "Track Print Status"
+msgstr "چاپ انکړ پلنيول"
+
+msgid "Track visited links"
+msgstr "د کتل شويو پېوندونو رنګ"
+
+msgid "Translated by"
+msgstr "ژباړنان"
+
+msgid "Translation Domain"
+msgstr "ژباړې شپول"
+
+msgid "Transparency of the color."
+msgstr ".د رنګ روڼوالی"
+
+msgid "Tree line pattern"
+msgstr "ونه کرښه بېلګه"
+
+msgid "Tree line width"
+msgstr "ونه کرښې پلنوالی"
+
+msgid "Turns volume down or up"
+msgstr "غږ لوړوي يا ټيټوي"
+
+msgid "Type a file name"
+msgstr "يو دوتنه نوم وليکﺉ"
+
+msgid "Type name of new folder"
+msgstr "د نوې پوښۍ نوم وليکﺉ"
+
+msgid "Underline"
+msgstr "لاندکرښه"
+
+msgid "Unit"
+msgstr "يوون"
+
+msgid "Unknown"
+msgstr "ناپېژندلی"
+
+msgid "Unknown item"
+msgstr "ناپېژندلی توکی"
+
+msgid "Unspecified error"
+msgstr "ناپېژندل شوې تېروتنه"
+
+msgid "Untitled filter"
+msgstr "بې سرليکه چاڼ"
+
+msgid "Unvisited Link Color"
+msgstr "ناکتلي پېوندونو رنګ"
+
+msgid "Up"
+msgstr "بره"
+
+msgid "Update Policy"
+msgstr "تګلار اوسمهالول"
+
+msgid "Update policy"
+msgstr "تګلار اوسمهالول"
+
+msgid "Upper"
+msgstr "بره"
+
+msgid "Use Markup"
+msgstr "نښيال کارول"
+
+msgid "Use Markup in secondary"
+msgstr "په دوهم کښې نښيال کارول"
+
+msgid "Use alpha"
+msgstr "الفا کارول"
+
+msgid "Use font in label"
+msgstr "په نښکه کښې ليکبڼه کارول"
+
+msgid "Use full page"
+msgstr "ټول مخ کارول"
+
+msgid "Use size in label"
+msgstr "په نښکه کښې کچ کارول"
+
+msgid "Use underline"
+msgstr "لاندکرښه کارول"
+
+msgid "Username:"
+msgstr ":کارننوم_"
+
+msgid "Value"
+msgstr "ارزښت"
+
+msgid "Value Position"
+msgstr "د ارزښت ځای"
+
+msgid "Value spacing"
+msgstr "ارزښت تشونه"
+
+msgid "Vertical Adjustment"
+msgstr "نېغ سماو"
+
+msgid "Vertical Alignment"
+msgstr "نېغه پرليکتيا"
+
+msgid "Vertical Scroll Arrow Length"
+msgstr "نېغو رغښت غشو اوږدوالی"
+
+msgid "Vertical Scrollbar Policy"
+msgstr "د نېغې رغښتپټې تګلار"
+
+msgid "Vertical Separator Width"
+msgstr "د نېغ بېلوونکي پلنوالی"
+
+msgid "Vertical options"
+msgstr "نېغ غوراوي"
+
+msgid "Vertical separation"
+msgstr "نېغ غوراوي"
+
+msgid "Visible"
+msgstr "ښکارېدونکی"
+
+msgid "Visible Window"
+msgstr "ښکارېدونکې کړکۍ"
+
+msgid "Visited"
+msgstr "کتل شوی"
+
+msgid "Visited Link Color"
+msgstr "کتلي پېوندونو رنګ"
+
+msgid "Volume"
+msgstr "غږ"
+
+msgid "Volume Down"
+msgstr "غږ ټيټول"
+
+msgid "Volume Up"
+msgstr "غږ لوړول"
+
+msgid "Warning"
+msgstr "خبرتيا"
+
+msgid "Warning color"
+msgstr "شاليد رنګ"
+
+msgid "Website URL"
+msgstr "URL ګورتپاڼې"
+
+msgid "Website label"
+msgstr "ګورتپاڼې نښکه"
+
+msgid "When the horizontal scrollbar is displayed"
+msgstr "کله چې پرته رغښتپټه وښودل شي"
+
+msgid "When the vertical scrollbar is displayed"
+msgstr "کله چې نېغه رغښتپټه وښودل شي"
+
+msgid "Whether a palette should be used"
+msgstr "که چېرې يو رنګدبلی بايد وکارول شي"
+
+msgid "Whether grid lines should be drawn in the tree view"
+msgstr "که چېرې بايد کرښې په ونه ليد کښې وانځورول شي"
+
+msgid "Whether gtk_widget_show_all() should not affect this widget"
+msgstr "بايد په دې وړوکي اغېزه ونه کړي gtk_widget_show_all() که چېرې"
+
+msgid "Whether tabs should be shown"
+msgstr "که چېرې يو رنګدبلی بايد وکارول شي"
+
+msgid "Whether the application has a selection"
+msgstr "که چېرې دا وړوکی بايد يو توک نکته ولري"
+
+msgid "Whether the application prefers to have a dark theme."
+msgstr "که چېرې دا وړوکی بايد يو توک نکته ولري"
+
+msgid "Whether the border should be shown"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the child's tab should fill the allocated area"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the device has a cursor"
+msgstr "که چېرې وړوکی بايد ننوتۍ منځواله ولري"
+
+msgid "Whether the group has been collapsed and items are hidden"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the header can be clicked"
+msgstr "که چېرې سرۍ کېکاږل کېدی شي"
+
+msgid "Whether the invisible character has been set"
+msgstr "که چېرې دا وړوکی بايد يو توک نکته ولري"
+
+msgid "Whether the item group should be the only expanded at a given time"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the item group should receive extra space when the palette grows"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the item should fill the available space"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the item should receive extra space when the group grows"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the item should start a new row"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the items should be displayed with a number"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the label widget should fill all available horizontal space"
+msgstr "که چېرې توکي د يوې شمېرې سره وښودل شي"
+
+msgid "Whether the plug is embedded"
+msgstr ".که چېرې دا ليکنه پټه وي"
+
+msgid "Whether the progress is shown as text."
+msgstr ".که چېرې پرمختګ لکه ليکنه وښودل شي"
+
+msgid "Whether the spinner is active"
+msgstr "که چېرې دا وړوکی بايد يو توک نکته ولري"
+
+msgid "Whether the status icon is embedded"
+msgstr ".که چېرې دا ليکنه پټه وي"
+
+msgid "Whether the status icon is visible"
+msgstr "که چېرې دا وړوکی بايد يو توک نکته ولري"
+
+msgid "Whether the toggle action should be active"
+msgstr "که چېرې يو رنګدبلی بايد وکارول شي"
+
+msgid "Whether the widget can accept the input focus"
+msgstr "که چېرې وړوکی بايد ننوتۍ منځواله ومنلی شي"
+
+msgid "Whether the widget can be the default widget"
+msgstr "که چېرې وړوکی تلواله وړوکی کېدی شي"
+
+msgid "Whether the widget has the input focus"
+msgstr "که چېرې وړوکی بايد ننوتۍ منځواله ولري"
+
+msgid "Whether the widget is double buffered"
+msgstr "که چېرې بايد وړوکی تلواله وړوکی وي"
+
+msgid "Whether the widget is part of a composite widget"
+msgstr "که چېرې بايد وړوکی د يو مرکبه وړوکي برخه وي"
+
+msgid "Whether the widget is the default widget"
+msgstr "که چېرې بايد وړوکی تلواله وړوکی وي"
+
+msgid "Whether the window frame should have a close button"
+msgstr "بايد د کړکۍ چوکاټ يوه بندول تڼۍ ولري که نه"
+
+msgid "Whether this text is hidden."
+msgstr ".که چېرې دا ليکنه پټه وي"
+
+msgid "Whether this widget has a tooltip"
+msgstr "که چېرې دا وړوکی بايد يو توک نکته ولري"
+
+msgid "Whether to display the column"
+msgstr "که چېرې بايد ستن وښودل شي"
+
+msgid "Whether to expand the child's tab"
+msgstr "که چېرې بايد ستن وښودل شي"
+
+msgid "Whether to give the color an alpha value"
+msgstr "يو الفا چېنل لري pixbuf که چېرې"
+
+msgid "Whether tree lines should be drawn in the tree view"
+msgstr "که چېرې بايد ونه کرښې په ونه ليد کښې وانځورول شي"
+
+msgid "Whether visited links should be tracked"
+msgstr "که چېرې يو رنګدبلی بايد وکارول شي"
+
+msgid "Wide Separators"
+msgstr "پلن بېلوونکي"
+
+msgid "Widget name"
+msgstr "وړوکي نوم"
+
+msgid "Width"
+msgstr "پلنوالی"
+
+msgid "Width for each item"
+msgstr "هر توکي لپاره پلنوالی"
+
+msgid "Width of the left margin in pixels"
+msgstr "د کيڼې مورګې پلنوالی په پېکسلو"
+
+msgid "Width of the right margin in pixels"
+msgstr "د ښي مورګې پلنوالی په پېکسلو"
+
+msgid "Window"
+msgstr "کړکۍ"
+
+msgid "Window Placement"
+msgstr "کړکۍ ځايونه"
+
+msgid "Window Position"
+msgstr "د کړکۍ ځای"
+
+msgid "Window Title"
+msgstr "کړکۍ سرليک"
+
+msgid "Window Type"
+msgstr "کړکۍ ډول"
+
+msgid "Window dragging"
+msgstr "د کړکۍ ځای"
+
+msgid "Wrap"
+msgstr "نغاړل"
+
+msgid "Wrap Mode"
+msgstr "نغاړلو اکر"
+
+msgid "Wrap license"
+msgstr "منښتليک نغاړل"
+
+msgid "Written by"
+msgstr "ليکوالان"
+
+msgid "X align"
+msgstr "پرليکون X"
+
+msgid "X alignment of the child"
+msgstr "پرليکتيا X د کشر"
+
+msgid "X display to use"
+msgstr "ښوون X د کارولو لپاره"
+
+msgid "X pad"
+msgstr "نالۍ X"
+
+msgid "X position"
+msgstr "څاي X"
+
+msgid "X screen to use"
+msgstr "پرده X د کارولو لپاره"
+
+msgid "X spacing"
+msgstr "تشونهX"
+
+msgid "Y align"
+msgstr "پرليکون Y"
+
+msgid "Y alignment of the child"
+msgstr "پرليکتيا Y د کشر"
+
+msgid "Y pad"
+msgstr "نالۍ Y"
+
+msgid "Y position"
+msgstr "څاي Y"
+
+msgid "Y spacing"
+msgstr "کيل تشونه"
+
+msgid "Year"
+msgstr "کال"
+
+msgid "Your description here"
+msgstr "ستاسو سپړاوي دلته"
+
+msgid "Zoom _In"
+msgstr "لوډېرول_"
+
+msgid "Zoom _Out"
+msgstr "لو_لږول"
+
+msgid "_About"
+msgstr "په اړه_"
+
+msgid "_Add"
+msgstr "ډېرول_"
+
+msgid "_Add to Bookmarks"
+msgstr "ليکنښو ته زياتول_"
+
+msgid "_After:"
+msgstr ":وروسته_"
+
+msgid "_All Pages"
+msgstr "ټول مخونه_"
+
+msgid "_Apply"
+msgstr "کارول_"
+
+msgid "_Ascending"
+msgstr "له پېله_"
+
+msgid "_Back"
+msgstr "وروسته_"
+
+msgid "_Blue:"
+msgstr ":نيل_"
+
+msgid "_Bold"
+msgstr "ډبل_"
+
+msgid "_Bottom"
+msgstr "لاندې_"
+
+msgid "_Bottom:"
+msgstr ":لاندې_"
+
+msgid "_Browse for other folders"
+msgstr "نورې پوښۍ لټول_"
+
+msgid "_CD-ROM"
+msgstr "_CD-Rom"
+
+msgid "_Cancel"
+msgstr "بندول_"
+
+msgid "_Center"
+msgstr "منځول_"
+
+msgid "_Clear"
+msgstr "پاکول_"
+
+msgid "_Clear List"
+msgstr "لړ پاکول_"
+
+msgid "_Close"
+msgstr "بندول_"
+
+msgid "_Color"
+msgstr "رنګ_"
+
+msgid "_Convert"
+msgstr "اړول_"
+
+msgid "_Copy"
+msgstr "لمېسل_"
+
+msgid "_Delete"
+msgstr "ړنګول_"
+
+msgid "_Descending"
+msgstr "له پايه_"
+
+msgid "_Discard"
+msgstr "بندول_"
+
+msgid "_Disconnect"
+msgstr "نانښلېدل_"
+
+msgid "_Domain:"
+msgstr ":شپول_"
+
+msgid "_Down"
+msgstr "ښکته"
+
+msgid "_Edit"
+msgstr "سمون_"
+
+msgid "_Execute"
+msgstr "چلول_"
+
+msgid "_Family:"
+msgstr ":کورنۍ_"
+
+msgid "_File"
+msgstr "دوتنې_"
+
+msgid "_Fill"
+msgstr "ډکول_"
+
+msgid "_Find"
+msgstr "لټول_"
+
+msgid "_First"
+msgstr "لومړی_"
+
+msgid "_Font"
+msgstr "ليکبڼه_"
+
+msgid "_Forward"
+msgstr "مخکې_"
+
+msgid "_Fullscreen"
+msgstr "ټوله پرده_"
+
+msgid "_Green:"
+msgstr ":شين_"
+
+msgid "_Hard Disk"
+msgstr "کلک ټیکلی_"
+
+msgid "_Height:"
+msgstr ":اوږدوالی_"
+
+msgid "_Help"
+msgstr "مرسته_"
+
+msgid "_Home"
+msgstr "کور_"
+
+msgid "_Index"
+msgstr "لړيال_"
+
+msgid "_Information"
+msgstr "خبرتياوې_"
+
+msgid "_Italic"
+msgstr "کوږ_"
+
+msgid "_Jump to"
+msgstr "ته ټوپ وهل_"
+
+msgid "_Last"
+msgstr "وروستی_"
+
+msgid "_Leave Fullscreen"
+msgstr "ټوله پرده پرېښودل_"
+
+msgid "_Left"
+msgstr "کيڼ_"
+
+msgid "_Left:"
+msgstr ":کيڼ_"
+
+msgid "_License"
+msgstr "منښتليک_"
+
+msgid "_Location:"
+msgstr ":ځای_"
+
+msgid "_Name:"
+msgstr ":نوم_"
+
+msgid "_Network"
+msgstr "ځال_"
+
+msgid "_New"
+msgstr "نوی_"
+
+msgid "_Next"
+msgstr "راتلونکی_"
+
+msgid "_No"
+msgstr "نه_"
+
+msgid "_Normal Size"
+msgstr "لېوی کچ_"
+
+msgid "_Now"
+msgstr "اوس_"
+
+msgid "_OK"
+msgstr "هوکې_"
+
+msgid "_Only print:"
+msgstr ":چاپول يوازې_"
+
+msgid "_Open"
+msgstr "پرانيستل_"
+
+msgid "_Open Link"
+msgstr "پرانيستل_"
+
+msgid "_Orientation:"
+msgstr ":لورموندنه_"
+
+msgid "_Output format"
+msgstr "وتۍ بڼه_"
+
+msgid "_Palette:"
+msgstr ":رنګدبلی_"
+
+msgid "_Paper size:"
+msgstr ":د پاڼې کچ_"
+
+msgid "_Password:"
+msgstr ":تېرنويې_"
+
+msgid "_Paste"
+msgstr "سرېښل_"
+
+msgid "_Places"
+msgstr "ځايونه_"
+
+msgid "_Play"
+msgstr "غږول_"
+
+msgid "_Preferences"
+msgstr "غوراوي_"
+
+msgid "_Preview:"
+msgstr ":مخليد_"
+
+msgid "_Print"
+msgstr "چاپول_"
+
+msgid "_Properties"
+msgstr "ځانتياوې_"
+
+msgid "_Quit"
+msgstr "بندول_"
+
+msgid "_Record"
+msgstr "ساتل_"
+
+msgid "_Red:"
+msgstr ":سور_"
+
+msgid "_Redo"
+msgstr "بياکړ_"
+
+msgid "_Refresh"
+msgstr "تاندول_"
+
+msgid "_Remove"
+msgstr "ړنګول_"
+
+msgid "_Remove From List"
+msgstr "له لړه ړنګول_"
+
+msgid "_Replace"
+msgstr "ځاېناستول_"
+
+msgid "_Revert"
+msgstr "بېرته_"
+
+msgid "_Right"
+msgstr "ښي_"
+
+msgid "_Right:"
+msgstr ":ښي_"
+
+msgid "_Save"
+msgstr "ساتل_"
+
+msgid "_Save color here"
+msgstr "رنګ دلته ساتل_"
+
+msgid "_Save in folder:"
+msgstr ":په پوښۍ کې ساتل_"
+
+msgid "_Spell Check"
+msgstr "ليکدود کتل_"
+
+msgid "_Stop"
+msgstr "تمول_"
+
+msgid "_Style:"
+msgstr ":ډول_"
+
+msgid "_Top"
+msgstr "بره_"
+
+msgid "_Top:"
+msgstr ":بره_"
+
+msgid "_Undelete"
+msgstr "ناړنګول_"
+
+msgid "_Underline"
+msgstr "لاندکرښه_"
+
+msgid "_Undo"
+msgstr "ناکړ_"
+
+msgid "_Up"
+msgstr "بره_"
+
+msgid "_Username:"
+msgstr ":کارننوم_"
+
+msgid "_Value:"
+msgstr ":ارزښت_"
+
+msgid "_Width:"
+msgstr ":پلنوالی_"
+
+msgid "_Yes"
+msgstr "هو_"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/ps.po by load_po_file"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:5"
+
+msgid "default:LTR"
+msgstr "default:RTL"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "ellipsize"
+msgstr "بياکچول"
+
+msgid "height"
+msgstr "لوړوالی"
+
+msgid "inch"
+msgstr "اېنچ"
+
+msgid "mm"
+msgstr "م م"
+
+msgid "mode"
+msgstr "اکر"
+
+msgid "paused"
+msgstr "ځنډېدلی"
+
+msgid "printer offline"
+msgstr "چاپګر ونه موندل شو"
+
+msgid "ready to print"
+msgstr "د چاپولو لپاره چمتو کيږي"
+
+msgid "unknown"
+msgstr "(ناپېژندلی)"
+
+msgid "visible"
+msgstr "ښکارنده"
+
+msgid "width"
+msgstr "پلنوالی"
+
+msgid "xalign"
+msgstr "پرليکتياx"
+
+msgid "yalign"
+msgstr "پرليکتياy"

@@ -1,0 +1,596 @@
+msgid "%{argument}/offline"
+msgstr "%{argument}/тармакта эмес"
+
+msgid "&Address"
+msgstr "&Дарек"
+
+msgid "&Cancel"
+msgstr "&Жокко чыгаруу"
+
+msgid "&Console"
+msgstr "&Консоль"
+
+msgid "&Delete"
+msgstr "Ө&чүрүү"
+
+msgid "&File"
+msgstr "&Файл"
+
+msgid "&Help"
+msgstr "&Жардам"
+
+msgid "&Information"
+msgstr "Маалымат"
+
+msgid "&Network"
+msgstr "&Тармак"
+
+msgid "&OK"
+msgstr "&Жарайт"
+
+msgid "&Open"
+msgstr "&Ачуу"
+
+msgid "&Port:"
+msgstr "&Порт:"
+
+msgid "&Transactions"
+msgstr "&Транзакциялар"
+
+msgid "&Verify message..."
+msgstr "Билдирүүнү &текшерүү..."
+
+msgid "&Window"
+msgstr "&Терезе"
+
+msgid "(no label)"
+msgstr "(аты жок)"
+
+msgid "A logo for the about box. If this is not set, it defaults to gtk_window_get_default_icon_list()"
+msgstr "\"Программа жөнүндө\" терезесиндеги графикалык сүрөт (лого). Бул аныкталбаса, система gtk_window_get_default_icon_list() функциясынын алат"
+
+msgid "A name for the action group."
+msgstr "Аракеттер тобунун аталышы"
+
+msgid "A shorter label that may be used on toolbar buttons."
+msgstr "Программаны аспаптар тактасында колдонулуп калышы мүмкүн болгон кыскача аты"
+
+msgid "A tooltip for this action."
+msgstr "Бул аракеттин кыскача жардам маалыматы (tooltip)"
+
+msgid "A unique name for the action."
+msgstr "Аракеттин уникалдык аты."
+
+msgid "Action Group"
+msgstr "Аракеттер тобу"
+
+msgid "Active window"
+msgstr "Активдүү терезе"
+
+msgid "Address"
+msgstr "Дарек"
+
+msgid "After"
+msgstr "Кийин"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Always show image"
+msgstr "Сүрөтүн дайыма көрсөтүү"
+
+msgid "Artists"
+msgstr "Мультимедиа авторлору"
+
+msgid "Authors"
+msgstr "Авторлор"
+
+msgid "Before"
+msgstr "Чейин"
+
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+msgid "C_redits"
+msgstr "_Алкыштар"
+
+msgid "Cancel Button"
+msgstr "\"Айынуу\" баскычы"
+
+msgid "Clear &All"
+msgstr "&Бардыгын тазалоо"
+
+msgid "Clear console"
+msgstr "Консолду тазалоо"
+
+msgid "Color Selection"
+msgstr "Боёк тандоо"
+
+msgid "Column spacing"
+msgstr "Мамы аралыгы"
+
+msgid "Columns"
+msgstr "Мамы"
+
+msgid "Command Line"
+msgstr "Командалык сап"
+
+msgid "Comments about the program"
+msgstr "Программа жөнүндө комментарий"
+
+msgid "Comments string"
+msgstr "Комментарийлер"
+
+msgid "Content type"
+msgstr "Контенттин түрү"
+
+msgid "Convert to PS level 1"
+msgstr "1-деңгээлдеги PS форматына которуу"
+
+msgid "Convert to PS level 2"
+msgstr "2-деңгээлдеги PS форматына которуу"
+
+msgid "Copyright information for the program"
+msgstr "Программа үчүн копирайт маалыматы"
+
+msgid "Copyright string"
+msgstr "Копирайт сабы"
+
+msgid "Create a new address"
+msgstr "Жаң даректи жасоо"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cu_t"
+msgstr "К_есүү"
+
+msgid "Current Color"
+msgstr "Учурдагы боёк"
+
+msgid "Cursor"
+msgstr "Курсор"
+
+msgid "Cursor type"
+msgstr "Курсор түрү"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Desktop"
+msgstr "Иштик стол"
+
+msgid "Device ID"
+msgstr "Жабдуунун IDси"
+
+msgid "Device identifier"
+msgstr "Жабдуунун идентификатору"
+
+msgid "Device name"
+msgstr "Жабдуунун аты"
+
+msgid "Device type"
+msgstr "Жабдуунун түрү"
+
+msgid "Display"
+msgstr "Дисплей"
+
+msgid "Display of this cursor"
+msgstr "Бул курсорду көрсөтүү"
+
+msgid "Documenters"
+msgstr "Документтегендер"
+
+msgid "Error"
+msgstr "Ката"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File System"
+msgstr "Файлдык система"
+
+msgid "Files"
+msgstr "Файлдар"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font name"
+msgstr "Фонттун аты"
+
+msgid "Font options"
+msgstr "Фонт параметрлери"
+
+msgid "GFile"
+msgstr "GFile"
+
+msgid "General"
+msgstr "Жалпы"
+
+msgid "Help Button"
+msgstr "\"Жардам\" баскычы"
+
+msgid "High"
+msgstr "Жогору"
+
+msgid "Horizontal Alignment"
+msgstr "Горизонталдык түзөтүү"
+
+msgid "Horizontal alignment"
+msgstr "Горизонталдык тегиздөө"
+
+msgid "Horizontal scale"
+msgstr "Горизонталдык масштабы"
+
+msgid "Hyper"
+msgstr "Hyper"
+
+msgid "Information"
+msgstr "Маалымат"
+
+msgid "Input source"
+msgstr "Киргизүү булагы"
+
+msgid "Job Priority"
+msgstr "Тапшырманын приоритети"
+
+msgid "Label"
+msgstr "Белги"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "License Type"
+msgstr "Лицензиялоо жолу"
+
+msgid "List of authors of the program"
+msgstr "Программанын авторлорунун тизмеси"
+
+msgid "List of people documenting the program"
+msgstr "Программанын документин даярдаган кишилердин тизмеси"
+
+msgid "List of people who have contributed artwork to the program"
+msgstr "Программанын мультимедиа материалдарын даярдаган кишилердин тизмеси"
+
+msgid "Logo"
+msgstr "Лого"
+
+msgid "Low"
+msgstr "Төмөн"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "Maximum Value"
+msgstr "Максималдык маани"
+
+msgid "Medium"
+msgstr "Орточо"
+
+msgid "Message"
+msgstr "Билдирүү"
+
+msgid "Message:"
+msgstr "Билдирүү:"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Minimum Value"
+msgstr "Минималдык мааниси"
+
+msgid "Name"
+msgstr "Аты"
+
+msgid "OK Button"
+msgstr "\"OK\" баскычы"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Page Increment"
+msgstr "Барактын кадамы"
+
+msgid "Page Size"
+msgstr "Барактын өлчөмү"
+
+msgid "Paste address from clipboard"
+msgstr "Даректи алмашуу буферинен коюу"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Preview text"
+msgstr "Тексттин көрүнүшү"
+
+msgid "Print to File"
+msgstr "Файлга басуу"
+
+msgid "Printer Profile"
+msgstr "Принтердин профайлы"
+
+msgid "Program name"
+msgstr "Программанын аты"
+
+msgid "Program version"
+msgstr "Программанын версиясы"
+
+msgid "Related Action"
+msgstr "Байланышкан  аракеттер"
+
+msgid "Remove"
+msgstr "Өчүрүү"
+
+msgid "Rename..."
+msgstr "Атын өзгөртүү..."
+
+msgid "Row spacing"
+msgstr "Сап аралыгы"
+
+msgid "Rows"
+msgstr "Сап"
+
+msgid "S&end"
+msgstr "&Жөнөтүү"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Search"
+msgstr "Издөө"
+
+msgid "Search:"
+msgstr "Издөө:"
+
+msgid "Select _All"
+msgstr "_Баарын тандоо"
+
+msgid "Shadow type"
+msgstr "Көлөкө түрү"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short label"
+msgstr "Кыска белгиси"
+
+msgid "Show a menubar"
+msgstr "Меню сабын көрсөтүү"
+
+msgid "Show all apps"
+msgstr "Бардык тиркемелерди көрсөтүү"
+
+msgid "Show other apps"
+msgstr "Башка программаларды көрсөтүү"
+
+msgid "Size"
+msgstr "Өлчөм"
+
+msgid "Source type for the device"
+msgstr "Бул жабдуунун киргизүү булагы"
+
+msgid "Standard"
+msgstr "Стандарттык"
+
+msgid "Standard cursor type"
+msgstr "Стандарттык курсор түрү"
+
+msgid "Step Increment"
+msgstr "Чоңойтуу кадамы"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "The OK button of the dialog."
+msgstr "Диалогдун \"OK\" баскычы."
+
+msgid "The URL for the link to the website of the program"
+msgstr "Программанын веб-сайты менен баланышуучу URL"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "Удаа кеткен мамылардын ортосундагы аралык"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "Удаа кеткен саптардын ортосундагы аралык"
+
+msgid "The cancel button of the dialog."
+msgstr "Диалогдун \"Айынуу\" баскычы."
+
+msgid "The current color"
+msgstr "Учурдагы түс"
+
+msgid "The help button of the dialog."
+msgstr "Диалогдун \"Жардам\" баскычы"
+
+msgid "The label for the link to the website of the program"
+msgstr "Программанын веб-сайтынын дарегини белгиси"
+
+msgid "The label used for menu items and buttons that activate this action."
+msgstr "Бул аракетти аткарууда менюда жана баскычтарда колдонулуучу белги"
+
+msgid "The license type of the program"
+msgstr "Программанын лицензиялоо жолу"
+
+msgid "The maximum value of the adjustment"
+msgstr "Тууралоо үчүн максималдык маани"
+
+msgid "The minimum value of the adjustment"
+msgstr "Тууралоо үчүн минималдык маани"
+
+msgid "The name of the program. If this is not set, it defaults to g_get_application_name()"
+msgstr "Программанын аты. Эгер бул аныкталбаса, система g_get_application_name() функциясынын алат"
+
+msgid "The number of columns in the table"
+msgstr "Жадыбалдагы мамылардын саны"
+
+msgid "The number of rows in the table"
+msgstr "Жыдыбалдагы саптардын саны"
+
+msgid "The page increment of the adjustment"
+msgstr "Тууралоо үчүн барак кадамы"
+
+msgid "The page size of the adjustment"
+msgstr "Тууралоо үчүн барактын өлчөмү"
+
+msgid "The step increment of the adjustment"
+msgstr "Тууралоо үчүн чоңойтуу кадамы"
+
+msgid "The text to display in order to demonstrate the selected font"
+msgstr "Көрсөтүлгүн текст аркылуу тандалгын фонттун сын-сыпатын көрүү"
+
+msgid "The value of the adjustment"
+msgstr "Тууралоо үчүн маани"
+
+msgid "The version of the program"
+msgstr "Программанын учурдагы версиясы"
+
+msgid "Tooltip"
+msgstr "Кыскача маалымат"
+
+msgid "Translator credits"
+msgstr "Котормочулар"
+
+msgid "Up to date"
+msgstr "Жаңыланган"
+
+msgid "Urgent"
+msgstr "Шашылыш"
+
+msgid "Value"
+msgstr "Мааниси"
+
+msgid "Vertical Alignment"
+msgstr "Вертикалдык түзөтүү"
+
+msgid "Vertical alignment"
+msgstr "Вертикалдык тегиздөө"
+
+msgid "Vertical scale"
+msgstr "Вертикалдык масштабы"
+
+msgid "Wallet"
+msgstr "Капчык"
+
+msgid "Warning"
+msgstr "Эскертүү"
+
+msgid "Website URL"
+msgstr "Веб-сайтынын дареги"
+
+msgid "Website label"
+msgstr "Веб-сайттын белгиси"
+
+msgid "Widget"
+msgstr "Виджет"
+
+msgid "_Add"
+msgstr "_Кошуу"
+
+msgid "_Cancel"
+msgstr "_Айнуу"
+
+msgid "_Clear"
+msgstr "_Тазалоо"
+
+msgid "_Close"
+msgstr "_Жабуу"
+
+msgid "_Color"
+msgstr "_Түс"
+
+msgid "_Copy"
+msgstr "_Копиялоо"
+
+msgid "_Delete"
+msgstr "_Өчүрүү"
+
+msgid "_Domain"
+msgstr "_Домен:"
+
+msgid "_Edit"
+msgstr "_Оңдоо"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Find"
+msgstr "_Табуу"
+
+msgid "_Font"
+msgstr "_Шрифт"
+
+msgid "_Fullscreen"
+msgstr "_Толук экран"
+
+msgid "_Help"
+msgstr "_Жардам"
+
+msgid "_License"
+msgstr "_Лицензия"
+
+msgid "_Name:"
+msgstr "_Ат:"
+
+msgid "_Network"
+msgstr "_Тармак"
+
+msgid "_New"
+msgstr "_Жаңы"
+
+msgid "_No"
+msgstr "_Жок"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "_Open"
+msgstr "_Ачуу"
+
+msgid "_Password"
+msgstr "_Сырсөз:"
+
+msgid "_Paste"
+msgstr "К_оюу"
+
+msgid "_Preferences"
+msgstr "_Параметрлер"
+
+msgid "_Properties"
+msgstr "_Өзгөчөлүктөр"
+
+msgid "_Quit"
+msgstr "_Чыгуу"
+
+msgid "_Refresh"
+msgstr "_Жаңыртуу"
+
+msgid "_Remove"
+msgstr "_Өчүрүү"
+
+msgid "_Save"
+msgstr "_Сактоо"
+
+msgid "_Username"
+msgstr "_Колдонуучу аты:"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/gnome_gtk/workspace/po-properties/ky.po by load_po_file"
+
+msgid "action name"
+msgstr "аракеттин аты"
+
+msgid "default"
+msgstr "жарыяланбаган"
+
+msgid "none"
+msgstr "жок"
+
+msgid "ready to print"
+msgstr "басууга даяр"
+
+msgid "unknown"
+msgstr "белгисиз"
+
+msgid "version"
+msgstr "версия"

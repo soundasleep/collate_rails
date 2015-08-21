@@ -1,0 +1,4979 @@
+msgid "#10 Envelope"
+msgstr "#10 конверті"
+
+msgid "#11 Envelope"
+msgstr "#11 конверті"
+
+msgid "#12 Envelope"
+msgstr "#12 конверті"
+
+msgid "#14 Envelope"
+msgstr "#14 конверті"
+
+msgid "#9 Envelope"
+msgstr "#9 конверті"
+
+msgid "%{argument} and %{argument2}"
+msgstr "%{argument} немесе %{argument2}"
+
+msgid "%{argument} behind"
+msgstr "%{argument} қалмады"
+
+msgid "%{string} already exists in the bookmarks list"
+msgstr "%{string} бетбелгілер тізімінде бар болып тұр"
+
+msgid "%{string} and %{string} installed"
+msgstr "%{string} және %{string} орнатылды"
+
+msgid "%{string} does not exist in the bookmarks list"
+msgstr "%{string} бетбелгілер тізімінде жоқ болып тұр"
+
+msgid "%{string} file format"
+msgstr "%{string} файл пішімі"
+
+msgid "%{string} is not available."
+msgstr "%{string} қолжетерсіз."
+
+msgid "%{string} is now installed"
+msgstr "%{string} енді орнатылған"
+
+msgid "%{string} is provided by “%{string}”."
+msgstr "%{string} дестесін “%{string}” ұсынады."
+
+msgid "%{string} is requesting additional file format support."
+msgstr "%{string} қосымша файл пішімдерін қолдауды талап етеді."
+
+msgid "%{string} is requesting additional fonts."
+msgstr "%{string} қосымша қаріптерді талап етеді."
+
+msgid "%{string} is requesting additional multimedia codecs."
+msgstr "%{string} қосымша мультимедиа кодектерін талап етеді."
+
+msgid "%{string} is requesting additional packages."
+msgstr "%{string} қосымша дестелерді талап етеді."
+
+msgid "%{string} is requesting additional printer drivers."
+msgstr "%{string} қосымша принтер драйверлерін талап етеді."
+
+msgid "%{string} not found"
+msgstr "%{string} табылмады"
+
+msgid "%{string} will be removed, and you will have to install it to use it again."
+msgstr "%{string} өшіріледі, және оны қолданғыңыз келсе, сізге оны қайтадан орнату керек болады."
+
+msgid "%{string}: error launching application: %{string}\n"
+msgstr "%{string}: қолданбаны жөнелту қатесі: %{string}\n"
+
+msgid "%{string}: missing application name"
+msgstr "%{string}:  қолданба аты жоқ"
+
+msgid "&Address"
+msgstr "Адрес"
+
+msgid "&Backup Wallet..."
+msgstr "Әмиянды жасыру"
+
+msgid "&Change Passphrase..."
+msgstr "Құпия сөзді өзгерту"
+
+msgid "&Delete"
+msgstr "Жою"
+
+msgid "&Export"
+msgstr "Экспорт"
+
+msgid "&File"
+msgstr "Файл"
+
+msgid "&Help"
+msgstr "Көмек"
+
+msgid "&New"
+msgstr "Жаңа"
+
+msgid "&Options..."
+msgstr "Параметрлері"
+
+msgid "&Receive"
+msgstr "Алу"
+
+msgid "&Send"
+msgstr "Жіберу"
+
+msgid "&Transactions"
+msgstr "&Транзакциялар"
+
+msgid "(None)"
+msgstr "(Ешнәрсе)"
+
+msgid "(This could take a while)"
+msgstr "(Бұл біраз уақытты алуы мүмкін)"
+
+msgid "(no label)"
+msgstr "(таңбасыз)"
+
+msgid ","
+msgstr ","
+
+msgid "10×11"
+msgstr "10×11"
+
+msgid "10×13"
+msgstr "10×13"
+
+msgid "10×14"
+msgstr "10×14"
+
+msgid "10×15"
+msgstr "10×15"
+
+msgid "11×12"
+msgstr "11×12"
+
+msgid "11×15"
+msgstr "11×15"
+
+msgid "12×19"
+msgstr "12×19"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "2D Graphics"
+msgstr "2D графикасы"
+
+msgid "3.2 core GL profile is not available on EGL implementation"
+msgstr "3.2 негізгі GL профилі EGL іске асыру нұсқасында қолжетерсіз"
+
+msgid "3D Graphics"
+msgstr "3D графикасы"
+
+msgid "5×7"
+msgstr "5×7"
+
+msgid "6×9 Envelope"
+msgstr "6×9 конверті"
+
+msgid "7×9 Envelope"
+msgstr "7×9 конверті"
+
+msgid "8×10 Envelope"
+msgstr "8×10 конверті"
+
+msgid "9×11 Envelope"
+msgstr "9×11 конверті"
+
+msgid "9×12 Envelope"
+msgstr "9×12 конверті"
+
+msgid ";"
+msgstr ";"
+
+msgid "A"
+msgstr "A"
+
+msgid "A file named “%{string}” already exists.  Do you want to replace it?"
+msgstr "“%{string}” файлы бар болып тұр. Оны алмастыруды қалайсыз ба?"
+
+msgid "A nice way to manage the software on your system."
+msgstr "Жүйеңізде БҚ-ны басқарудың ыңғайлы жолы."
+
+msgid "A previous update was unfinished."
+msgstr "Алдыңғы жаңарту аяқталмаған."
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A0×2"
+msgstr "A0×2"
+
+msgid "A0×3"
+msgstr "A0×3"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A1×3"
+msgstr "A1×3"
+
+msgid "A1×4"
+msgstr "A1×4"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A2×3"
+msgstr "A2×3"
+
+msgid "A2×4"
+msgstr "A2×4"
+
+msgid "A2×5"
+msgstr "A2×5"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A3 Extra"
+msgstr "A3 Extra"
+
+msgid "A3×3"
+msgstr "A3×3"
+
+msgid "A3×4"
+msgstr "A3×4"
+
+msgid "A3×5"
+msgstr "A3×5"
+
+msgid "A3×6"
+msgstr "A3×6"
+
+msgid "A3×7"
+msgstr "A3×7"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A4 Extra"
+msgstr "A4 Extra"
+
+msgid "A4 Tab"
+msgstr "A4 Tab"
+
+msgid "A4×3"
+msgstr "A4×3"
+
+msgid "A4×4"
+msgstr "A4×4"
+
+msgid "A4×5"
+msgstr "A4×5"
+
+msgid "A4×6"
+msgstr "A4×6"
+
+msgid "A4×7"
+msgstr "A4×7"
+
+msgid "A4×8"
+msgstr "A4×8"
+
+msgid "A4×9"
+msgstr "A4×9"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A5 Extra"
+msgstr "A5 Extra"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "APPLICATION [URI…] — launch an APPLICATION with URI."
+msgstr "ҚОЛДАНБА [URI…] - ҚОЛДАНБАны URI-мен жөнелту."
+
+msgid "A_t:"
+msgstr "Қа_шан:"
+
+msgid "About"
+msgstr "Осы туралы"
+
+msgid "About Software"
+msgstr "Осы туралы"
+
+msgid "Accessibility"
+msgstr "Қол жетерлілік"
+
+msgid "Action"
+msgstr "Әрекет"
+
+msgid "Actions"
+msgstr "Әрекеттер"
+
+msgid "Activate"
+msgstr "Белсендіру"
+
+msgid "Activates the cell"
+msgstr "Ұяшықты белсендіреді"
+
+msgid "Activates the color"
+msgstr "Түс белсендіреді"
+
+msgid "Activates the entry"
+msgstr "Элементті белсендіреді"
+
+msgid "Activates the expander"
+msgstr "Кеңейткішті белсендіреді"
+
+msgid "Active"
+msgstr "Белсенді"
+
+msgid "Active window"
+msgstr "Белсенді терезе"
+
+msgid "Add Cover Page"
+msgstr "Титулдық бетті қосу"
+
+msgid "Add a class"
+msgstr "Класты қосу"
+
+msgid "Add to Application Folder"
+msgstr "Қолданбалар бумасына қосу"
+
+msgid "Add, remove or update software on this computer"
+msgstr "Бұл компьютерде БҚ-ны қосу, өшіру не жаңарту"
+
+msgid "Add-ons"
+msgstr "Қосымшалар"
+
+msgid "Added"
+msgstr "Қосылған"
+
+msgid "Adding this software source will give you access to additional software and upgrades."
+msgstr "Бұл БҚ көзін қосу сізге қосымша БҚ және жаңартуларға қол жеткізеді."
+
+msgid "Additional Fonts Required"
+msgstr "Қосымша қаріптер керек"
+
+msgid "Additional MIME Types Required"
+msgstr "Қосымша MIME түрлері керек"
+
+msgid "Additional Multimedia Codecs Required"
+msgstr "Қосымша мультимедиа кодектері керек"
+
+msgid "Additional Packages Required"
+msgstr "Қосымша дестелер керек"
+
+msgid "Additional Printer Drivers Required"
+msgstr "Қосымша принтер драйверлері керек"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Adjusts the volume"
+msgstr "Дыбысты баптау"
+
+msgid "Advanced"
+msgstr "Кеңейтілген"
+
+msgid "Adventure"
+msgstr "Саяхат"
+
+msgid "After"
+msgstr "Кейін"
+
+msgid "After Fee:"
+msgstr "Комиссия алу кейін:"
+
+msgid "Align"
+msgstr "Туралау"
+
+msgid "Alignment"
+msgstr "Туралау"
+
+msgid "All Files"
+msgstr "Барлық файлдар"
+
+msgid "All sheets"
+msgstr "Барлық парақтар"
+
+msgid "Allocated size"
+msgstr "Бөленген орны"
+
+msgid "Alpha"
+msgstr "Мөлдір"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Aluminum 1"
+msgstr "Алюминий 1"
+
+msgid "Aluminum 2"
+msgstr "Алюминий 2"
+
+msgid "Always"
+msgstr "Әрқашан"
+
+msgid "Amharic (EZ+)"
+msgstr "Амхарлық (EZ+)"
+
+msgid "Amount"
+msgstr "Саны"
+
+msgid "Amount of blue light in the color."
+msgstr "Түстегі көк мәннің шамасы."
+
+msgid "Amount of green light in the color."
+msgstr "Түстегі жасыл мәннің шамасы."
+
+msgid "Amount of red light in the color."
+msgstr "Түстегі қызыл мәннің шамасы."
+
+msgid "Amount:"
+msgstr "Саны"
+
+msgid "An application"
+msgstr "Қолданба"
+
+msgid "An important OS update failed to be installed."
+msgstr "Маңызды БҚ жаңартуларын орнату сәтсіз аяқталды."
+
+msgid "An important OS update has been installed."
+msgstr "Маңызды БҚ жаңартулары орнатылды."
+
+msgid "An offline update was requested but no packages required updating."
+msgstr "Желіден тыс жаңарту сұралған, бірақ, бірде-бір десте жаңартуды талап етпейді."
+
+msgid "An update failed to install correctly."
+msgstr "Жаңарту дұрыс орнатыла алмады."
+
+msgid "An update was not signed in the correct way."
+msgstr "Жаңартуға дұрыс қолтаңба қойылған жоқ."
+
+msgid "Angle"
+msgstr "Бұрыш"
+
+msgid "Animation"
+msgstr "Анимация"
+
+msgid "Animations"
+msgstr "Анимациялар"
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr "Анонимды тег табылды, тегтерді жасау мүмкін емес."
+
+msgid "Any Printer"
+msgstr "Кез-келген принтер"
+
+msgid "Application"
+msgstr "Қолданба"
+
+msgid "Application manager for GNOME"
+msgstr "GNOME үшін қолданбалар басқарушысы"
+
+msgid "Application menu"
+msgstr "Қолданба мәзірі"
+
+msgid "Arcade"
+msgstr "Аркадалар"
+
+msgid "Arch A"
+msgstr "Arch A"
+
+msgid "Arch B"
+msgstr "Arch B"
+
+msgid "Arch C"
+msgstr "Arch C"
+
+msgid "Arch D"
+msgstr "Arch D"
+
+msgid "Arch E"
+msgstr "Arch E"
+
+msgid "Archiving"
+msgstr "Архивтеу"
+
+msgid "Are you sure you want to remove %{string}?"
+msgstr "%{string} өшіруді шынымен қалайсыз ба?"
+
+msgid "Area"
+msgstr "Аумақ"
+
+msgid "Art"
+msgstr "Өнер"
+
+msgid "Artificial Intelligence"
+msgstr "Жасанды интеллект"
+
+msgid "Artistic License 2.0"
+msgstr "Artistic License 2.0"
+
+msgid "Artwork by"
+msgstr "Бейнелеуі"
+
+msgid "Astronomy"
+msgstr "Астрономия"
+
+msgid "Attribute"
+msgstr "Атрибут"
+
+msgid "Attribute mapping"
+msgstr "Атрибуттарды сәйкестеу"
+
+msgid "Attributes"
+msgstr "Атрибуттар"
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "AudioLowerVolume"
+msgstr "AudioLowerVolume"
+
+msgid "AudioMedia"
+msgstr "AudioMedia"
+
+msgid "AudioMicMute"
+msgstr "AudioMicMute"
+
+msgid "AudioMute"
+msgstr "AudioMute"
+
+msgid "AudioNext"
+msgstr "AudioNext"
+
+msgid "AudioPause"
+msgstr "AudioPause"
+
+msgid "AudioPlay"
+msgstr "AudioPlay"
+
+msgid "AudioPrev"
+msgstr "AudioPrev"
+
+msgid "AudioRaiseVolume"
+msgstr "AudioRaiseVolume"
+
+msgid "AudioRecord"
+msgstr "AudioRecord"
+
+msgid "AudioRewind"
+msgstr "AudioRewind"
+
+msgid "AudioStop"
+msgstr "AudioStop"
+
+msgid "Authentication"
+msgstr "Аутентификация"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "Тапсырманың атрибуттарын алу үшін аутентификация керек"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "Принтердің атрибуттарын алу үшін аутентификация керек"
+
+msgid "Authentication is required to get attributes of job “%{string}”"
+msgstr "“%{string}” тапсырмасының атрибуттарын алу үшін аутентификация керек"
+
+msgid "Authentication is required to print document “%{string}”"
+msgstr "“%{string}” құжатын басып шығару үшін аутентификация керек"
+
+msgid "Authentication is required to print this document"
+msgstr "Бұл құжатты басып шығару үшін аутентификация керек"
+
+msgid "Authors"
+msgstr "Авторлар"
+
+msgid "Auto Select"
+msgstr "Авто таңдау"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B6/C4"
+msgstr "B6/C4"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "BSD 2-Clause License"
+msgstr "BSD 2-пунктты лицензиясы"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "BackSpace"
+msgstr "BackSpace"
+
+msgid "Backend does not support window scaling"
+msgstr "Қозғалтқыш терезелерді масштабтауды қолдамайды"
+
+msgid "Background color"
+msgstr "Фон түсі"
+
+msgid "Backslash"
+msgstr "Backslash"
+
+msgid "Battery"
+msgstr "Battery"
+
+msgid "Be_fore:"
+msgstr "Де_йін:"
+
+msgid "Before"
+msgstr "Дейін"
+
+msgid "Begin"
+msgstr "Begin"
+
+msgid "Best _Fit"
+msgstr "Жақ_сырақ сыю"
+
+msgid "Billing Info"
+msgstr "Орналасуы"
+
+msgid "Binding:"
+msgstr "Байланыс:"
+
+msgid "Biology"
+msgstr "Биология"
+
+msgid "Bitcoin"
+msgstr "Биткоин"
+
+msgid "Black"
+msgstr "Қара"
+
+msgid "Blocking on issue"
+msgstr "Қате салдарынан тоқтатылған"
+
+msgid "Blocks"
+msgstr "Блоктар"
+
+msgid "Board"
+msgstr "Тақталы"
+
+msgid "Bookmarks"
+msgstr "Бетбелгілер"
+
+msgid "Both"
+msgstr "Екеуі де"
+
+msgid "Bottom to top"
+msgstr "Астынан үстіге"
+
+msgid "Bottom to top, left to right"
+msgstr "Астынан үстіге, солдан оңға"
+
+msgid "Bottom to top, right to left"
+msgstr "Астынан үстіге, оңнан солға"
+
+msgid "Bourne Again Shell"
+msgstr "Bourne Again қошамы"
+
+msgid "Bourne Shell"
+msgstr "Bourne қоршамы"
+
+msgid "Brightness of the color."
+msgstr "Түс жарықтылығы."
+
+msgid "Broadway"
+msgstr "Broadway"
+
+msgid "Browse Network"
+msgstr "Желіні шолу"
+
+msgid "Browse the contents of the network"
+msgstr "Желі құрамасын шолу"
+
+msgid "Bubble"
+msgstr "Жоғарылайтын"
+
+msgid "Buildable ID"
+msgstr "Идентификатор"
+
+msgid "Building"
+msgstr "Жинау"
+
+msgid "Butter"
+msgstr "Сарғылт"
+
+msgid "C&lose"
+msgstr "Жабу"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C6/C5"
+msgstr "C6/C5"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C7/C6"
+msgstr "C7/C6"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CLASS"
+msgstr "КЛАСС"
+
+msgid "COLORS"
+msgstr "ТҮСТЕР"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "C_ollate"
+msgstr "Ж_инау"
+
+msgid "C_onnect"
+msgstr "Ба_йланысты орнату"
+
+msgid "C_redits"
+msgstr "Ж_асағандар"
+
+msgid "C_urrent Page"
+msgstr "Ағ_ымдағы бет"
+
+msgid "Cache file created successfully.\n"
+msgstr "Кэш файлы сәтті жасалды.\n"
+
+msgid "Calculating…"
+msgstr "Есептеу…"
+
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgid "Calendar"
+msgstr "Күнтізбе"
+
+msgid "Cancel"
+msgstr "Бас тарту"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "Бумаға ауысу мүмкін емес, өйткені ол жергілікті емес"
+
+msgid "Cannot create a file under %{string} as it is not a folder"
+msgstr "%{string} ішінде файлды жасау мүмкін емес, өйткені ол бума емес"
+
+msgid "Cannot create file as the filename is too long"
+msgstr "Файл аты тым ұзын болған соң, файлды жасау мүмкін емес"
+
+msgid "Cannot kill process with PID %{number}. Operation is not implemented."
+msgstr "PID %{number} бар үрдісті өлтіру мүмкін емес. Әрекет іске асырылмаған."
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock іске қосулы тұр"
+
+msgid "Capture"
+msgstr "Төмендейтін"
+
+msgid "Card"
+msgstr "Карта ойындары"
+
+msgid "Categories"
+msgstr "Санаттар"
+
+msgid "Category"
+msgstr "Санат"
+
+msgid "Cedilla"
+msgstr "Седиль"
+
+msgid "Centered"
+msgstr "Ортасына қарай"
+
+msgid "Chameleon"
+msgstr "Хамелеон"
+
+msgid "Change passphrase"
+msgstr "Құпия сөзді өзгерту"
+
+msgid "Changes are applied instantly and globally, for the whole application."
+msgstr "Өзгерістер лезде және глобалды түрде, қолданба толығымен үшін іске асырылады."
+
+msgid "Changes are applied instantly, only for this selected widget."
+msgstr "Өзгерістер лезде түрде, тек таңдалған виджет үшін іске асырылады."
+
+msgid "Charges may apply"
+msgstr "Ақша алынуы мүмкін"
+
+msgid "Chart"
+msgstr "Диаграммалар"
+
+msgid "Chat"
+msgstr "Чат"
+
+msgid "Check Anyway"
+msgstr "Сонда да тексеру"
+
+msgid "Check for updates"
+msgstr "Жаңартуларға тексеру"
+
+msgid "Checking for updates when using mobile broadband could cause you to incur charges"
+msgstr "Сымсыз кеңжолақты желісін пайдалану кезінде жаңартуларға тексеру қосымша шығындарға әкеп соғуы мүмкін"
+
+msgid "Checking for updates while using mobile broadband could cause you to incur charges."
+msgstr "Сымсыз кеңжолақты желісін пайдалану кезінде жаңартуларға тексеру қосымша шығындарға әкеп соғуы мүмкін."
+
+msgid "Checking for updates…"
+msgstr "Жаңартуларға тексеру…"
+
+msgid "Chemistry"
+msgstr "Химия"
+
+msgid "Child Properties"
+msgstr "Ұрпақ қасиеттері"
+
+msgid "Child Visible"
+msgstr "Ұрпақ көрінеді"
+
+msgid "Chocolate"
+msgstr "Шоколад"
+
+msgid "Choukei 2 Envelope"
+msgstr "Choukei 2 конверті"
+
+msgid "Choukei 3 Envelope"
+msgstr "Choukei 3 конверті"
+
+msgid "Choukei 4 Envelope"
+msgstr "Choukei 4 конверті"
+
+msgid "Choukei 40 Envelope"
+msgstr "Choukei 40 конверті"
+
+msgid "Class name"
+msgstr "Класс аты"
+
+msgid "Classified"
+msgstr "Классификацияланған"
+
+msgid "Clear log"
+msgstr "Журналды тазарту"
+
+msgid "Click"
+msgstr "Шерту"
+
+msgid "Click on items to select them"
+msgstr "Бірнәрсені таңдау үшін оның үстіне шертіңіз"
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "Түс алушыны шертіп, экранның кез-келген аймағының түсін таңдау үшін жай ғана ол түске шертіңіз."
+
+msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select “Save color here.”"
+msgstr "Ағымдағы түс ретінде орнату үшін палитраның осы мүшесін шертіңіз. Осы мүшені өзгерту үшін, түс таңдаушыны осында тартып әкеліңіз, не оң жақпен шертіп, \"Түсті осында сақтау\"-ды таңдаңыз."
+
+msgid "Clicks the button"
+msgstr "Батырманы шертеді"
+
+msgid "Clicks the menuitem"
+msgstr "Мәзір элементін шертеді"
+
+msgid "Clock"
+msgstr "Сағат"
+
+msgid "Close"
+msgstr "Жабу"
+
+msgid "Co_nnect"
+msgstr "Ба_йланыс орнату"
+
+msgid "Codecs"
+msgstr "Кодектер"
+
+msgid "Codecs page"
+msgstr "Кодектер беті"
+
+msgid "Collect Statistics"
+msgstr "Статистиканы жинау"
+
+msgid "Color"
+msgstr "Түс"
+
+msgid "Color Name"
+msgstr "Түс аты"
+
+msgid "Color Plane"
+msgstr "Түстер кеңістігі"
+
+msgid "Color Profile Title"
+msgstr "Түс профилінің атауы"
+
+msgid "Color Selection"
+msgstr "Түсті таңдау"
+
+msgid "Color Wheel"
+msgstr "Түстер шеңбері"
+
+msgid "Color _name:"
+msgstr "Тү_с аты:"
+
+msgid "Color as RGBA"
+msgstr "Түс RGBA ретінде"
+
+msgid "Color management unavailable"
+msgstr "Түстерді басқару қолжетерсіз"
+
+msgid "Color to use for even rows"
+msgstr "Жұп жолдар үшін қолданылатын түс"
+
+msgid "Color to use for odd rows"
+msgstr "Тақ жолдар үшін қолданылатын түс"
+
+msgid "Column spacing"
+msgstr "Бағандар аралығы"
+
+msgid "Column:"
+msgstr "Баған:"
+
+msgid "Columns"
+msgstr "Бағандар"
+
+msgid "Comma separated file (*.csv)"
+msgstr "Үтірмен бөлінген файл (*.csv)"
+
+msgid "Command Line"
+msgstr "Командалық жол"
+
+msgid "Comments about the program"
+msgstr "Бағдарлама туралы пікірлер"
+
+msgid "Composited"
+msgstr "Композитті"
+
+msgid "Compression"
+msgstr "Сығу"
+
+msgid "Computer"
+msgstr "Компьютер"
+
+msgid "Computer Science"
+msgstr "Информатика"
+
+msgid "Confidential"
+msgstr "Конфиденциалды"
+
+msgid "Confirmations"
+msgstr "Растау саны"
+
+msgid "Confirmed"
+msgstr "Растық"
+
+msgid "Connect As"
+msgstr "Қалайша байланыс орнату"
+
+msgid "Connect to Server"
+msgstr "Серверге байланысты орнату"
+
+msgid "Connect to a network server address"
+msgstr "Желілік сервер адресіне байланысу"
+
+msgid "Connected"
+msgstr "Байланысқан"
+
+msgid "Construction"
+msgstr "Құрылыс"
+
+msgid "Contact Management"
+msgstr "Контакттарды басқару"
+
+msgid "Content type"
+msgstr "Құрама түрі"
+
+msgid "Context"
+msgstr "Контекст"
+
+msgid "Convert to PS level 1"
+msgstr "PS 1 деңгейіне айналдыру"
+
+msgid "Convert to PS level 2"
+msgstr "PS 2 деңгейіне айналдыру"
+
+msgid "Copie_s:"
+msgstr "Кө_шірмелер саны:"
+
+msgid "Copies"
+msgstr "Көшірмелер"
+
+msgid "Copy URL"
+msgstr "URL көшіру"
+
+msgid "Copy _Link Address"
+msgstr "Сілтеме адр_есін көшіру"
+
+msgid "Copy _Location"
+msgstr "_Сілтеме адресін көшіру"
+
+msgid "Copy the currently selected address to the system clipboard"
+msgstr "Таңдаған адресті тізімнен жою"
+
+msgid "Core GL is not available on EGL implementation"
+msgstr "Негізгі GL профилі EGL іске асыру нұсқасында қолжетерсіз"
+
+msgid "Could not clear list"
+msgstr "Тізімді тазарту мүмкін емес"
+
+msgid "Could not create cache"
+msgstr "Кэшті жасау мүмкін емес"
+
+msgid "Could not read the contents of the folder"
+msgstr "Бума құрамасын оқу мүмкін емес"
+
+msgid "Could not remove item"
+msgstr "Элементті өшіру мүмкін емес"
+
+msgid "Could not rename %{string} back to %{string}: %{string}.\n"
+msgstr "%{string} атын қайта %{string} етіп орнату мүмкін емес: %{string}.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
+msgstr "%{string} үшін жаңа %{string} атын орнату мүмкін емес: %{string}, кейін %{string} өшіріледі.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}\n"
+msgstr "%{string} атын жаңа %{string} атына ауыстыру мүмкін емес: %{string}\n"
+
+msgid "Could not select file"
+msgstr "Файлды таңдау мүмкін емес"
+
+msgid "Could not send the search request"
+msgstr "Іздеу сұранымын жіберу мүмкін емес"
+
+msgid "Could not show link"
+msgstr "Сілтемені көрсету мүмкін емес"
+
+msgid "Could not start the search process"
+msgstr "Іздеу үрдісін бастау мүмкін емес"
+
+msgid "Count"
+msgstr "Санағыш"
+
+msgid "Create Folder"
+msgstr "Буманы жасау"
+
+msgid "Create a custom color"
+msgstr "Таңдауыңызша түсті жасау"
+
+msgid "Create a new address"
+msgstr "Жаңа адрес енгізу"
+
+msgid "Created by"
+msgstr "Жасаған"
+
+msgid "Creates a widget in which the contents of the cell can be edited"
+msgstr "Ұяшық құрамасын өңдеуге болатын виджетті жасайды"
+
+msgid "Creating AppInfo from id not supported on non unix operating systems"
+msgstr "AppInfo-ны id-дан жасау unix-тектес емес операциялық жүйелерде жасауға қолдау жоқ"
+
+msgid "Credits"
+msgstr "Жасағандар"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cu_t"
+msgstr "Қ_иып алу"
+
+msgid "Cumulative"
+msgstr "Жинақы"
+
+msgid "Cumulative 1"
+msgstr "Жинақы 1"
+
+msgid "Cumulative 2"
+msgstr "Жинақы 2"
+
+msgid "Current fixed width of the column"
+msgstr "Бағанның ағымдағы бекітілген ені"
+
+msgid "Cursor"
+msgstr "Курсор"
+
+msgid "Cursor Position"
+msgstr "Курсор орны"
+
+msgid "Cursor Size"
+msgstr "Курсор өлшемі"
+
+msgid "Cursor Theme"
+msgstr "Курсор темасы"
+
+msgid "Cursor type"
+msgstr "Курсор түрі"
+
+msgid "Custom"
+msgstr "Таңдауыңызша"
+
+msgid "Custom License"
+msgstr "Басқа лицензия"
+
+msgid "Custom color"
+msgstr "Таңдауыңызша түс"
+
+msgid "Custom size"
+msgstr "Таңдауыңызша өлшем"
+
+msgid "Customize"
+msgstr "Баптау"
+
+msgid "Customizes the color"
+msgstr "Түсті баптайды"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "Кирил жазуы (транслитерация)"
+
+msgid "DISPLAY"
+msgstr "ДИСПЛЕЙ"
+
+msgid "DL Envelope"
+msgstr "DL конверті"
+
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgid "Dark Aluminum 1"
+msgstr "Күңгірт алюминий 1"
+
+msgid "Dark Aluminum 2"
+msgstr "Күңгірт алюминий 2"
+
+msgid "Dark Butter"
+msgstr "Күңгірт сарғылт"
+
+msgid "Dark Chameleon"
+msgstr "Күңгірт хамелеон"
+
+msgid "Dark Chocolate"
+msgstr "Күңгірт шоколад"
+
+msgid "Dark Gray"
+msgstr "Қүңгірт сұр"
+
+msgid "Dark Orange"
+msgstr "Күңгірт қызғылт сары"
+
+msgid "Dark Plum"
+msgstr "Күңгірт алхоры"
+
+msgid "Dark Scarlet Red"
+msgstr "Күңгірт алқызыл"
+
+msgid "Dark Sky Blue"
+msgstr "Күңгірт көгілдір"
+
+msgid "Dark Variant"
+msgstr "Қараңғы нұсқасы"
+
+msgid "Darker Gray"
+msgstr "Қүңгірттеу сұр"
+
+msgid "Data"
+msgstr "Деректер"
+
+msgid "Data Visualization"
+msgstr "Деректерді бейнелеу"
+
+msgid "Database"
+msgstr "Дерекқор"
+
+msgid "Databases"
+msgstr "Дерекқорлар"
+
+msgid "Date"
+msgstr "Күні"
+
+msgid "Day"
+msgstr "Күн"
+
+msgid "Debuggers"
+msgstr "Жөндеушілер"
+
+msgid "Decrease Indent"
+msgstr "Шегінуді кішірейту"
+
+msgid "Decreases the volume"
+msgstr "Дыбысты азайтады"
+
+msgid "Decrypt wallet"
+msgstr "Әмиянізді шифрлап тастау"
+
+msgid "Default"
+msgstr "Үнсіз келісім бойынша"
+
+msgid "Default Application"
+msgstr "Үнсіз келісім бойынша қолданба"
+
+msgid "Default Widget"
+msgstr "Үнсіз келісім виджеті"
+
+msgid "Defined At"
+msgstr "Анықталған жері"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Desktop"
+msgstr "Жұмыс үстелі"
+
+msgid "Detailed errors from the package manager follow:"
+msgstr "Дестелер басқарушысы ұсынған толығырақ ақпараты бар қателер:"
+
+msgid "Details"
+msgstr "Ақпараты"
+
+msgid "Details page"
+msgstr "Көбірек ақпарат парағы"
+
+msgid "Developer"
+msgstr "Өндіруші"
+
+msgid "Development Tools"
+msgstr "Өндіру саймандары"
+
+msgid "Device Display"
+msgstr "Құрылғы дисплейі"
+
+msgid "Device ID"
+msgstr "Device ID"
+
+msgid "Device manager"
+msgstr "Құрылғылар менеджері"
+
+msgid "Device name"
+msgstr "Құрылғы аты"
+
+msgid "Device type"
+msgstr "Құрылғы түрі:"
+
+msgid "Devices"
+msgstr "Құрылғылар"
+
+msgid "Dialog"
+msgstr "Сұхбат"
+
+msgid "Dialog is locked.\nClick to make changes"
+msgstr "Сұхбат блокталған.\nӨзгерістер жасау үшін шертіңіз"
+
+msgid "Dialog is unlocked.\nClick to prevent further changes"
+msgstr "Сұхбат блокталмаған.\nКейінгі өзгерістерді болдырмау үшін шертіңіз"
+
+msgid "Dialup"
+msgstr "Коммутация"
+
+msgid "Dictionary"
+msgstr "Сөздік"
+
+msgid "Disable this custom CSS"
+msgstr "Бұл пайдаланушы CSS сөндіру"
+
+msgid "Disabled"
+msgstr "Сөндірулі"
+
+msgid "Disc Burning"
+msgstr "Дисктерді жазу"
+
+msgid "Dismiss"
+msgstr "Елемеу"
+
+msgid "Dismisses the slider"
+msgstr "Айналдырғышты елемеу"
+
+msgid "Display"
+msgstr "Дисплей"
+
+msgid "Display of this cursor"
+msgstr "Бұл курсордың дисплейі"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Wintab API [бастапқы] қолданбау"
+
+msgid "Do you want to use GTK+ Inspector?"
+msgstr "GTK+ Inspector қолданғыңыз келе ме?"
+
+msgid "Documented by"
+msgstr "Құжаттаманы жазған"
+
+msgid "Documenters"
+msgstr "Құжаттаманы жазған"
+
+msgid "Domain:"
+msgstr "Домен:"
+
+msgid "Don't Warn Again"
+msgstr "Келесіде ескертпеу"
+
+msgid "Don't batch GDI requests"
+msgstr "GDI сұранымдарын топтамау"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "index.theme файлының бар-жоғын тексермеу"
+
+msgid "Don't include image data in the cache"
+msgstr "Кэш ішіне сурет файлдарын қоспау"
+
+msgid "Don't show this message again"
+msgstr "Бұл хабарламаны келесіде көрсетпеу"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "Tablet қолдауы үшін Wintab API қолданбау"
+
+msgid "Dormant"
+msgstr "Көптен бері қолжетерсіз"
+
+msgid "Down"
+msgstr "Төмен"
+
+msgid "Down Path"
+msgstr "Ағашпен төмен"
+
+msgid "Downloading new updates…"
+msgstr "Жаңа жаңартуларды жүктеп алу…"
+
+msgid "Duplicate object ID '%{string}' on line %{number} (previously on line %{number})"
+msgstr "Объект ID '%{string}' қайталануы, жол нөмірі %{number} (алдыңғысы %{number})"
+
+msgid "Dust:"
+msgstr "Шаң"
+
+msgid "E&xit"
+msgstr "Шығу"
+
+msgid "Economy"
+msgstr "Экономика"
+
+msgid "Edit"
+msgstr "Түзету"
+
+msgid "Edit Widget"
+msgstr "Виджетті түзету"
+
+msgid "Editable"
+msgstr "Түзетуге болады"
+
+msgid "Editing"
+msgstr "Түзету"
+
+msgid "Editor's Picks"
+msgstr "Түзеткіштер таңдауы"
+
+msgid "Education"
+msgstr "Білім алу"
+
+msgid "Electricity"
+msgstr "Электр"
+
+msgid "Electronics"
+msgstr "Электроника"
+
+msgid "Email"
+msgstr "Эл. пошта"
+
+msgid "Embed GhostScript fonts only"
+msgstr "Тек GhostScript қаріптерін ілестіру"
+
+msgid "Embedded"
+msgstr "Енгізілген"
+
+msgid "Empty"
+msgstr "Бос"
+
+msgid "Emulator"
+msgstr "Эмулятор"
+
+msgid "Emulators"
+msgstr "Эмуляторлар"
+
+msgid "Enable Third-Party Software Source?"
+msgstr "Үшінші жақты БҚ іске қосу керек пе?"
+
+msgid "Enable and Install"
+msgstr "Іске қосу және орнату"
+
+msgid "Enable statistics with GOBJECT_DEBUG=instance-count"
+msgstr "Статистиканы GOBJECT_DEBUG=instance-count арқылы іске қосыңыз"
+
+msgid "Enabled"
+msgstr "Іске қосулы"
+
+msgid "Encrypt wallet"
+msgstr "Әмиянді шифрлау"
+
+msgid "End"
+msgstr "End"
+
+msgid "Engineering"
+msgstr "Инжиниринг"
+
+msgid "Enter GApplication service mode"
+msgstr "GApplication қызметтік режиміне өту"
+
+msgid "Enter Location"
+msgstr "Орналасуды енгізіңіз"
+
+msgid "Enter passphrase"
+msgstr "Құпия сөзді енгізу"
+
+msgid "Error"
+msgstr "қате"
+
+msgid "Error creating print preview"
+msgstr "Баспаға шығарудың алдын-ала қарауды жасау қатесі"
+
+msgid "Error from StartDoc"
+msgstr "StartDoc-тан қате"
+
+msgid "Error launching preview"
+msgstr "Алдын-ала қарауды жөнелту қатесі"
+
+msgid "Error parsing commandline options: %{string}\n"
+msgstr "Командалық жол опцияларын талдау қатесі: %{string}\n"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "European edp"
+msgstr "Еуропалық edp"
+
+msgid "Even Row Color"
+msgstr "Жұп жолдың түсі"
+
+msgid "Even sheets"
+msgstr "Жұп парақтар"
+
+msgid "Events"
+msgstr "Оқиғалар"
+
+msgid "Executive"
+msgstr "Executive"
+
+msgid "Expand"
+msgstr "Жазық қылу"
+
+msgid "Expand or contract"
+msgstr "Кеңейту не жинау"
+
+msgid "Expanded"
+msgstr "Сиретілген"
+
+msgid "Expands or contracts the row in the tree view containing this cell"
+msgstr "Бұл ұяшық орналасқан ағаш тектес көрінісінде жолды кеңейтеді не жинайды"
+
+msgid "FILENAME"
+msgstr "ФАЙЛ_АТЫ"
+
+msgid "FLAGS"
+msgstr "ЖАЛАУШАЛАР"
+
+msgid "Failed To Update"
+msgstr "Жаңарту сәтсіз аяқталды"
+
+msgid "Failed to find any search results"
+msgstr "Іздеу нәтижелері табылмады"
+
+msgid "Failed to load icon"
+msgstr "Таңбашаны жүктеу сәтсіз"
+
+msgid "Failed to load image"
+msgstr "Бейнені жүктеу сәтсіз аяқталды"
+
+msgid "Failed to open file %{string} : %{string}\n"
+msgstr "Файлды ашу қатемен аяқталды %{string} : %{string}\n"
+
+msgid "Failed to rewrite header\n"
+msgstr "Тақырыптаманы қайта жазу сәтсіз\n"
+
+msgid "Failed to start GNOME Software"
+msgstr "GNOME Software іске қосу сәтсіз аяқталды"
+
+msgid "Failed to write cache file: %{string}\n"
+msgstr "Кэш файлын жазу сәтсіз: %{string}\n"
+
+msgid "Failed to write folder index\n"
+msgstr "Бума индексін жазу сәтсіз\n"
+
+msgid "Failed to write hash table\n"
+msgstr "Хэш кестесін жазу сәтсіз\n"
+
+msgid "Failed to write header\n"
+msgstr "Тақырыптамасын жазу сәтсіз\n"
+
+msgid "Fan-Fold European"
+msgstr "Fan-Fold European"
+
+msgid "Fan-Fold German Legal"
+msgstr "Fan-Fold German Legal"
+
+msgid "Fan-Fold US"
+msgstr "Fan-Fold US"
+
+msgid "Featured"
+msgstr "Ұсынылатын"
+
+msgid "Featured Application"
+msgstr "Ұсынылатын қолданбалар"
+
+msgid "Fee:"
+msgstr "Комиссия:"
+
+msgid "Feed"
+msgstr "Таспа"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File Manager"
+msgstr "Файлдар басқарушысы"
+
+msgid "File System"
+msgstr "Файлдық жүйе"
+
+msgid "File System Root"
+msgstr "Файлдық жүйенің түбірі"
+
+msgid "File Tools"
+msgstr "Файлдық саймандар"
+
+msgid "File Transfer"
+msgstr "Файлдармен алмасу"
+
+msgid "File not found: %{string}\n"
+msgstr "Файл табылмады: %{string}\n"
+
+msgid "Filename"
+msgstr "Файл аты"
+
+msgid "Files"
+msgstr "Файлдар"
+
+msgid "Fill"
+msgstr "Толтыру"
+
+msgid "Filter"
+msgstr "Сүзгі"
+
+msgid "Finance"
+msgstr "Қаржы"
+
+msgid "Find and _Replace"
+msgstr "Табу м_ен алмастыру"
+
+msgid "Find in Software"
+msgstr "БҚ ішінен табу"
+
+msgid "Finished"
+msgstr "Аяқталған"
+
+msgid "Finished with error"
+msgstr "Қатемен аяқталды"
+
+msgid "Finishing"
+msgstr "Аяқтау"
+
+msgid "Five Stars"
+msgstr "Бес жұлдыз"
+
+msgid "Five days ago"
+msgstr "Бес күн бұрын"
+
+msgid "Fixed Size"
+msgstr "Бекітілген өлшемі"
+
+msgid "Fixed Width"
+msgstr "Бекітілген ені"
+
+msgid "Flow Chart"
+msgstr "Блок-сұлбалар"
+
+msgid "Focus Widget"
+msgstr "Виджетке фокусты орнату"
+
+msgid "Folder Name"
+msgstr "Бума атауы"
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Folio sp"
+msgstr "Folio sp"
+
+msgid "Font"
+msgstr "Қаріп"
+
+msgid "Font Family"
+msgstr "Қаріптер отбасы"
+
+msgid "Font Name"
+msgstr "Қаріп аты"
+
+msgid "Font Selection"
+msgstr "Қаріпті таңдау"
+
+msgid "Font family"
+msgstr "Қаріптер отбасы"
+
+msgid "Font name"
+msgstr "Қаріп аты"
+
+msgid "Font options"
+msgstr "Қаріп опциялары"
+
+msgid "Font resolution"
+msgstr "Қаріп кеңейтілуі"
+
+msgid "Font size"
+msgstr "Қаріп өлшемі"
+
+msgid "Fonts"
+msgstr "Қаріптер"
+
+msgid "For portable documents"
+msgstr "Тасымалы құжаттар үшін"
+
+msgid "Forget association"
+msgstr "Сәйкестілікті ұмыту"
+
+msgid "Forget password _immediately"
+msgstr "Парольді _көп ұзамай ұмыту"
+
+msgid "Forward"
+msgstr "Forward"
+
+msgid "Four Stars"
+msgstr "Төрт жұлдыз"
+
+msgid "Four days ago"
+msgstr "Төрт күн бұрын"
+
+msgid "Frame count"
+msgstr "Кадрлар саны"
+
+msgid "Frame rate"
+msgstr "Кадрлар жиілігі"
+
+msgid "Full Volume"
+msgstr "Толық дыбысы"
+
+msgid "GDK Backend"
+msgstr "GDK қозғалтқышы"
+
+msgid "GDK debugging flags to set"
+msgstr "GDK жөндеу жалаушалары орнатылған"
+
+msgid "GDK debugging flags to unset"
+msgstr "GDK жөндеу жалаушалары орнатылмаған"
+
+msgid "GFile"
+msgstr "GFile"
+
+msgid "GIcon"
+msgstr "GIcon"
+
+msgid "GL Rendering"
+msgstr "GL рендеринг"
+
+msgid "GL Vendor"
+msgstr "GL өндірушісі"
+
+msgid "GL Version"
+msgstr "GL нұсқасы"
+
+msgid "GL rendering is disabled"
+msgstr "GL рендерингі сөндірілген"
+
+msgid "GL support disabled via GDK_DEBUG"
+msgstr "GL қолдауы GDK_DEBUG арқылы сөндірілген"
+
+msgid "GNOME Software"
+msgstr "GNOME БҚ"
+
+msgid "GNU General Public License, version 2 only"
+msgstr "GNU General Public License, тек 2 нұсқасы"
+
+msgid "GNU General Public License, version 2 or later"
+msgstr "GNU General Public License, нұсқасы 2 не одан кейін шыққан"
+
+msgid "GNU General Public License, version 3 only"
+msgstr "GNU General Public License, тек 3 нұсқасы"
+
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU General Public License, нұсқасы 3 не одан кейін шыққан"
+
+msgid "GNU Lesser General Public License, version 2.1 only"
+msgstr "GNU Lesser General Public License, тек 2.1 нұсқасы"
+
+msgid "GNU Lesser General Public License, version 2.1 or later"
+msgstr "GNU Lesser General Public License, нұсқасы 2.1 не одан кейін шыққан"
+
+msgid "GNU Lesser General Public License, version 3 only"
+msgstr "GNU Lesser General Public License, тек 3 нұсқасы"
+
+msgid "GNU Lesser General Public License, version 3 or later"
+msgstr "GNU Lesser General Public License, нұсқасы 3 не одан кейін шыққан"
+
+msgid "GTK+ Inspector is an interactive debugger that lets you explore and modify the internals of any GTK+ application. Using it may cause the application to break or crash."
+msgstr "GTK+ инспекторы - бұл интерактивті жөндеуші, оның көмегімен кез-келген GTK+ қолданбасының ішкі құрылысын шолып, түзете аласыз. Оны қолдану нәтижесінде қолданба сынуы, немесе құлап түсуі  де мүмкін."
+
+msgid "GTK+ Options"
+msgstr "GTK+ опциялары"
+
+msgid "GTK+ Theme"
+msgstr "GTK+ темасы"
+
+msgid "GTK+ Version"
+msgstr "GTK+ нұсқасы"
+
+msgid "GTK+ debugging flags to set"
+msgstr "GTK+ жөндеу жалаушалары орнатылған"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "GTK+ жөндеу жалаушалары орнатылмаған"
+
+msgid "GUI Designers"
+msgstr "Интерфейстер дизайны"
+
+msgid "Games"
+msgstr "Ойындар"
+
+msgid "General"
+msgstr "Жалпы"
+
+msgid "Generating data"
+msgstr "Мәліметті жасау"
+
+msgid "Geography"
+msgstr "География"
+
+msgid "Geology"
+msgstr "Геология"
+
+msgid "Geoscience"
+msgstr "Жер қойнауы ғылымдары"
+
+msgid "Gestures"
+msgstr "Ымдар"
+
+msgid "Getting printer information failed"
+msgstr "Принтер ақпаратын алу сәтсіз"
+
+msgid "Getting printer information…"
+msgstr "Принтер ақпаратын алу…"
+
+msgid "GhostScript pre-filtering"
+msgstr "GhostScript алдын-ала сүзгілеу"
+
+msgid "Go back"
+msgstr "Артқа"
+
+msgid "Go online to check for updates"
+msgstr "Жаңартуларға тексеру үшін желіге байланысыңыз"
+
+msgid "Government Legal"
+msgstr "Government Legal"
+
+msgid "Government Letter"
+msgstr "Government Letter"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Grid line width"
+msgstr "Тор сызықтың ені"
+
+msgid "Group"
+msgstr "Топтау"
+
+msgid "Group Name"
+msgstr "Топ аты"
+
+msgid "H"
+msgstr "Р"
+
+msgid "Ham Radio"
+msgstr "Әуесқойлық радио"
+
+msgid "Has palette"
+msgstr "Палитрасы бар"
+
+msgid "Heading"
+msgstr "Тақырыптама"
+
+msgid "Height"
+msgstr "Биіктігі"
+
+msgid "Hibernate"
+msgstr "Hibernate"
+
+msgid "Hide Others"
+msgstr "Басқаларын жасыру"
+
+msgid "Hierarchy"
+msgstr "Иерархиясы"
+
+msgid "High"
+msgstr "Жоғары"
+
+msgid "History"
+msgstr "Тарих"
+
+msgid "Hold the job until it is explicitly released"
+msgstr "Қосымша команда берілгенге дейін тапсырманы күттіру"
+
+msgid "Home"
+msgstr "Үй бумасы"
+
+msgid "Homogeneous"
+msgstr "Біркелкі"
+
+msgid "Horizontal"
+msgstr "Горизонталды"
+
+msgid "Hue"
+msgstr "Реңі"
+
+msgid "Humanities"
+msgstr "Гуманитарлық ғылымдар"
+
+msgid "Hyper"
+msgstr "Hyper"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IDE"
+msgstr "IDE"
+
+msgid "IPA"
+msgstr "МФА (IPA)"
+
+msgid "IRC Clients"
+msgstr "IRC клиенттері"
+
+msgid "Icon"
+msgstr "Таңбаша"
+
+msgid "Icon Name"
+msgstr "Таңбаша аты"
+
+msgid "Icon Size"
+msgstr "Таңбаша өлшемі"
+
+msgid "Icon Theme"
+msgstr "Таңбашалар темасы"
+
+msgid "Icon name"
+msgstr "Таңбаша аты"
+
+msgid "Icons"
+msgstr "Таңбашалар"
+
+msgid "Ignore hidden"
+msgstr "Жасырынды елемеу"
+
+msgid "Image"
+msgstr "Сурет"
+
+msgid "Image Processing"
+msgstr "Суреттерді өңдеу"
+
+msgid "Image Quality"
+msgstr "Сурет сапасы"
+
+msgid "Important OS and application updates are ready to be installed"
+msgstr "Маңызды ОЖ және қолданба жаңартулары орнатылуға дайын"
+
+msgid "Include image data in the cache"
+msgstr "Кэш ішіне сурет деректерін қосу"
+
+msgid "Includes performance, stability and security improvements."
+msgstr "Өнімділік, тұрақтылық және қауіпсіздік жақсартуларын әкеледі."
+
+msgid "Increase Indent"
+msgstr "Шегінуді үлкейту"
+
+msgid "Increases the volume"
+msgstr "Дыбысты көтереді"
+
+msgid "Index 3×5"
+msgstr "Index 3×5"
+
+msgid "Index 4×6 (postcard)"
+msgstr "Index 4×6 (ашық хат)"
+
+msgid "Index 4×6 ext"
+msgstr "Index 4×6 ext"
+
+msgid "Index 5×8"
+msgstr "Index 5×8"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Information about %{string}, as well as options for how to get a codec that can play this format can be found on the website."
+msgstr "%{string} туралы ақпаратты және бұл пішімді ойната алатын кодекті орнату жолы жөнінде вебсайттан білуге болады."
+
+msgid "Information about %{string}, as well as options for how to get a codec that can play this format might be found %{string}."
+msgstr "%{string} туралы ақпаратты және бұл пішімді ойната алатын кодекті орнату жолы жөнінде %{string} білуге болады."
+
+msgid "Information about %{string}, as well as options for how to get a driver that supports this printer might be found %{string}."
+msgstr "%{string} туралы ақпаратты және бұл принтерді қолдайтын драйверді орнату жолы жөнінде %{string} білуге болады."
+
+msgid "Information about %{string}, as well as options for how to get additional Plasma resources might be found %{string}."
+msgstr "%{string} туралы ақпаратты және қосымша Plasma ресурстарын орнату жолы жөнінде %{string} білуге болады."
+
+msgid "Information about %{string}, as well as options for how to get additional fonts might be found %{string}."
+msgstr "%{string} туралы ақпаратты және қосымша қаріптерді орнату жолы жөнінде %{string} білуге болады."
+
+msgid "Information about %{string}, as well as options for how to get an application that can support this format might be found %{string}."
+msgstr "%{string} туралы ақпаратты және бұл пішімді қолдай алатын қолданбаны орнату жолы жөнінде %{string} білуге болады."
+
+msgid "Information about %{string}, as well as options for how to get missing applications might be found %{string}."
+msgstr "%{string} туралы ақпаратты және жетіспейтін қолданбаларды орнату жолы жөнінде %{string} білуге болады."
+
+msgid "Initial state"
+msgstr "Бастапқы күйі"
+
+msgid "Input Sources"
+msgstr "Кіріс қайнар көздері"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Install"
+msgstr "Орнату"
+
+msgid "Install Third-Party Software?"
+msgstr "Үшінші жақты БҚ орнату керек пе?"
+
+msgid "Install selected software on the system"
+msgstr "Таңдалған БҚ-ны жүйеге орнату"
+
+msgid "Installation of %{string} failed."
+msgstr "%{string} орнату сәтсіз аяқталды."
+
+msgid "Installed"
+msgstr "Орнатылған"
+
+msgid "Installed Updates"
+msgstr "Орнатылған жаңартулар"
+
+msgid "Installed from this Source"
+msgstr "Бұл қайнар көзінен орнатылған"
+
+msgid "Installed page"
+msgstr "Орнатылған парағы"
+
+msgid "Installing"
+msgstr "Орнатылуда"
+
+msgid "Install…"
+msgstr "Орнату…"
+
+msgid "Instant Messaging"
+msgstr "Лезде хабарласу"
+
+msgid "Intensity of the color."
+msgstr "Түс мөлдірлілігі."
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Internet Only Application"
+msgstr "Тек интернет болғанда істейтін қолданбалар"
+
+msgid "Internet access is required to check for updates."
+msgstr "Жаңартуларға тексеру үшін Интернетпен байланыс керек."
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Инуктикут (транслитерация)"
+
+msgid "Invalid"
+msgstr "Қате"
+
+msgid "Invalid URI"
+msgstr "URI қате"
+
+msgid "Invalid argument to CreateDC"
+msgstr "CreateDC үшін қате аргумент"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "PrintDlgEx үшін қате аргумент"
+
+msgid "Invalid file name"
+msgstr "Файл аты қате"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "PrintDlgEx үшін қате дескриптор"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "PrintDlgEx үшін қате сілтегіш"
+
+msgid "Invalid size %{string}\n"
+msgstr "Қате өлшемі %{string}\n"
+
+msgid "Invalid type function on line %{number}: '%{string}'"
+msgstr "%{number} жолындағы функцияның қате түрі: '%{string}'"
+
+msgid "Inverted"
+msgstr "Терістелген"
+
+msgid "Invite Envelope"
+msgstr "Шақыру конверті"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "Is Toplevel"
+msgstr "Ең жоғарыда"
+
+msgid "It may be illegal to install or use %{string} in some countries."
+msgstr "%{string} кейбір елдерде орнату немесе қолдану заңсыз болуы мүмкін."
+
+msgid "It may be illegal to install or use this codec in some countries."
+msgstr "Бұл кодекті кейбір елдерде орнату немесе қолдану заңсыз болуы мүмкін."
+
+msgid "Italian Envelope"
+msgstr "Италия конверті"
+
+msgid "JB0"
+msgstr "JB0"
+
+msgid "JB1"
+msgstr "JB1"
+
+msgid "JB10"
+msgstr "JB10"
+
+msgid "JB2"
+msgstr "JB2"
+
+msgid "JB3"
+msgstr "JB3"
+
+msgid "JB4"
+msgstr "JB4"
+
+msgid "JB5"
+msgstr "JB5"
+
+msgid "JB6"
+msgstr "JB6"
+
+msgid "JB7"
+msgstr "JB7"
+
+msgid "JB8"
+msgstr "JB8"
+
+msgid "JB9"
+msgstr "JB9"
+
+msgid "Job"
+msgstr "Тапсырма"
+
+msgid "Job Details"
+msgstr "Тапсырма ақпараты"
+
+msgid "Job Priority"
+msgstr "Тапсырма приоритеті"
+
+msgid "Justification"
+msgstr "Туралауы"
+
+msgid "KP_Begin"
+msgstr "KP_Begin"
+
+msgid "KP_Delete"
+msgstr "KP_Delete"
+
+msgid "KP_Down"
+msgstr "KP_Down"
+
+msgid "KP_End"
+msgstr "KP_End"
+
+msgid "KP_Enter"
+msgstr "KP_Enter"
+
+msgid "KP_Home"
+msgstr "KP_Home"
+
+msgid "KP_Insert"
+msgstr "KP_Insert"
+
+msgid "KP_Left"
+msgstr "KP_Left"
+
+msgid "KP_Next"
+msgstr "KP_Next"
+
+msgid "KP_Page_Down"
+msgstr "KP_Page_Down"
+
+msgid "KP_Page_Up"
+msgstr "KP_Page_Up"
+
+msgid "KP_Prior"
+msgstr "KP_Prior"
+
+msgid "KP_Right"
+msgstr "KP_Right"
+
+msgid "KP_Space"
+msgstr "KP_Space"
+
+msgid "KP_Tab"
+msgstr "KP_Tab"
+
+msgid "KP_Up"
+msgstr "KP_Up"
+
+msgid "KbdBrightnessDown"
+msgstr "KbdBrightnessDown"
+
+msgid "KbdBrightnessUp"
+msgstr "KbdBrightnessUp"
+
+msgid "Kids"
+msgstr "Балалар үшін"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE Солдан оңға _кірістіру"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM Белгі _солдан оңға"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO Солдан оңға үстінен ж_абу"
+
+msgid "Label"
+msgstr "таңба"
+
+msgid "Landscape"
+msgstr "Жатық"
+
+msgid "Language"
+msgstr "Тіл"
+
+msgid "Language Packs"
+msgstr "Тілдік дестелер"
+
+msgid "Languages"
+msgstr "Тілдер"
+
+msgid "Large Photo"
+msgstr "Үлкен фото"
+
+msgid "Last Checked"
+msgstr "Соңғы тексерілген"
+
+msgid "Launch"
+msgstr "Жөнелту"
+
+msgid "Launch specified application by its desktop file info\noptionally passing list of URIs as arguments."
+msgstr "Көрсетілген қолданбаны оның  desktop файлы ақпаратымен\nжөнелту, қосымша түрде аргументтер ретінде URI тізімін беру."
+
+msgid "Launch1"
+msgstr "Launch1"
+
+msgid "Layout"
+msgstr "Жайма"
+
+msgid "Layout style"
+msgstr "Жайма стилі"
+
+msgid "Left"
+msgstr "Сол жақ"
+
+msgid "Left to right"
+msgstr "Солдан оңға"
+
+msgid "Left to right, bottom to top"
+msgstr "Солдан оңға, астынан үстіге"
+
+msgid "Left to right, top to bottom"
+msgstr "Солдан оңға, үстінен астыға"
+
+msgid "Left-to-Right"
+msgstr "Солдан оңға"
+
+msgid "License"
+msgstr "Лицензиясы"
+
+msgid "License Type"
+msgstr "Лицензия түрі"
+
+msgid "Light Aluminum 1"
+msgstr "Ашық алюминий 1"
+
+msgid "Light Aluminum 2"
+msgstr "Ашық алюминий 2"
+
+msgid "Light Butter"
+msgstr "Ашық сарғылт"
+
+msgid "Light Chameleon"
+msgstr "Ашық хамелеон"
+
+msgid "Light Chocolate"
+msgstr "Ашық шоколад"
+
+msgid "Light Gray"
+msgstr "Ашық сұр"
+
+msgid "Light Orange"
+msgstr "Ашық қызғылт сары"
+
+msgid "Light Plum"
+msgstr "Ашық алхоры"
+
+msgid "Light Scarlet Red"
+msgstr "Ашық алқызыл"
+
+msgid "Light Sky Blue"
+msgstr "Ашық көгілдір"
+
+msgid "Lighter Gray"
+msgstr "Ашықтау сұр"
+
+msgid "Line wrap"
+msgstr "Жолды тасымалдау"
+
+msgid "List of authors of the program"
+msgstr "Бағдарлама авторларының тізімі"
+
+msgid "Literature"
+msgstr "Әдебиет"
+
+msgid "Load additional GTK+ modules"
+msgstr "Қосымша GTK+ модульдерін жүктеу"
+
+msgid "Location"
+msgstr "Орналасуы"
+
+msgid "Lock"
+msgstr "Блоктау"
+
+msgid "Logic"
+msgstr "Логикалық"
+
+msgid "Logo"
+msgstr "Логотип"
+
+msgid "Long Edge (Standard)"
+msgstr "Ұзын жағымен (Стандарт)"
+
+msgid "Looking for new updates…"
+msgstr "Жаңа жаңартуларды іздеу…"
+
+msgid "Low"
+msgstr "Төмен"
+
+msgid "MIDI"
+msgstr "MIDI"
+
+msgid "MODE"
+msgstr "РЕЖИМІ"
+
+msgid "MODULES"
+msgstr "МОДУЛЬДЕР"
+
+msgid "Mac OS X Quartz"
+msgstr "Mac OS X Quartz"
+
+msgid "Magnifier"
+msgstr "Үлкейткіш"
+
+msgid "Make all warnings fatal"
+msgstr "Барлық ескертулерді қатаң деп белгілеу"
+
+msgid "Manage Custom Sizes"
+msgstr "Таңдауыңызша өлшемдерді басқару"
+
+msgid "Manage Custom Sizes…"
+msgstr "Таңдауыңызша өлшемдерді басқару…"
+
+msgid "Manually enter a location"
+msgstr "Орналасуды қолмен енгізу"
+
+msgid "Mapped"
+msgstr "Байланыстырылған"
+
+msgid "Maps"
+msgstr "Карталар"
+
+msgid "Margins from Printer…"
+msgstr "Принтерден беттің шет өрістері…"
+
+msgid "Markup column"
+msgstr "Белгі бағаны"
+
+msgid "Math"
+msgstr "Математика"
+
+msgid "Maximize"
+msgstr "Жазық қылу"
+
+msgid "Maximum Width"
+msgstr "Максималды ені"
+
+msgid "Maximum allowed width of the column"
+msgstr "Бағанның рұқсат етілген максималды ені"
+
+msgid "Medical"
+msgstr "Медицина"
+
+msgid "Medium"
+msgstr "Орташа"
+
+msgid "Medium Gray"
+msgstr "Орташа сұр"
+
+msgid "Medium Photo"
+msgstr "Орташа фото"
+
+msgid "Menu"
+msgstr "Мәзір"
+
+msgid "Menubar"
+msgstr "Мәзір жолағы"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Minimize"
+msgstr "Қайыру"
+
+msgid "Minimum Height"
+msgstr "Минималды биіктігі"
+
+msgid "Minimum allowed width of the column"
+msgstr "Бағанның рұқсат етілген минималды ені"
+
+msgid "Miscellaneous"
+msgstr "Әр түрлі"
+
+msgid "Mixer"
+msgstr "Миксер"
+
+msgid "Mnemonic Label"
+msgstr "Мнемоникалық белгі"
+
+msgid "Mode"
+msgstr "Режимі"
+
+msgid "Model"
+msgstr "Модель"
+
+msgid "Model:"
+msgstr "Модель:"
+
+msgid "Modified"
+msgstr "Өзгертілген"
+
+msgid "MonBrightnessDown"
+msgstr "MonBrightnessDown"
+
+msgid "MonBrightnessUp"
+msgstr "MonBrightnessUp"
+
+msgid "Monarch Envelope"
+msgstr "Патша конверті"
+
+msgid "Monitor"
+msgstr "Бақылау"
+
+msgid "Monospace"
+msgstr "Тең енді"
+
+msgid "Month"
+msgstr "Ай"
+
+msgid "Mount and open “%{string}”"
+msgstr "“%{string}” тіркеу және ашу"
+
+msgid "Multi_key"
+msgstr "Multi_key"
+
+msgid "Multipress"
+msgstr "Мультипресс"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Muted"
+msgstr "Дыбысы сөндірілген"
+
+msgid "NAME"
+msgstr "АТЫ"
+
+msgid "Name"
+msgstr "Аты"
+
+msgid "Name:"
+msgstr "Аты:"
+
+msgid "Need user intervention"
+msgstr "Пайдаланушының қатысуы керек"
+
+msgid "Network"
+msgstr "Желі"
+
+msgid "Network Settings"
+msgstr "Желі баптаулары"
+
+msgid "Network access was required but not available."
+msgstr "Желілік байланыс керек, бірақ, қолжетерсіз."
+
+msgid "Never"
+msgstr "Ешқашан"
+
+msgid "New accelerator…"
+msgstr "Жаңа үдеткіш…"
+
+msgid "New bookmark"
+msgstr "Жаңа бетбелгі"
+
+msgid "New class"
+msgstr "Жаңа класс"
+
+msgid "New passphrase"
+msgstr "Жаңа құпия сөзі"
+
+msgid "News"
+msgstr "Жаңалықтар"
+
+msgid "No AppStream data found"
+msgstr "AppStream деректері табылмады"
+
+msgid "No Application Data Found"
+msgstr "Қолданба деректері табылмады"
+
+msgid "No Application Found"
+msgstr "Қолданбалар табылмады"
+
+msgid "No GL implementation is available"
+msgstr "Бірде-бір GL іске асыру нұсқасы қолжетерсіз"
+
+msgid "No Network"
+msgstr "Желі жоқ"
+
+msgid "No Plasma resources are available for %{string} support."
+msgstr "%{string} қолдауы үшін бірде-бір Plasma ресурсы жоқ."
+
+msgid "No Software Source Included"
+msgstr "Ешбір қайнар көзі қоса берілмеді"
+
+msgid "No addon codecs are available for the %{string} format."
+msgstr "%{string} пішімі үшін бірде-бір аддон кодектері жоқ."
+
+msgid "No addon fonts are available for %{string} support."
+msgstr "%{string} қолдауы үшін бірде-бір қаріп жоқ."
+
+msgid "No applications are available for %{string} support."
+msgstr "%{string} қолдауы үшін бірде-бір қолданба жоқ."
+
+msgid "No applications are available that provide the file %{string}."
+msgstr "%{string} файлын ұсынатын бірде-бір қолданба жоқ."
+
+msgid "No applications found for “%{string}”"
+msgstr "“%{string}” үшін қолданбалар табылмады"
+
+msgid "No applications found for “%{string}” files"
+msgstr "“%{string}” файлдары үшін қолданбалар табылмады."
+
+msgid "No applications found for “%{string}”."
+msgstr "“%{string}” үшін қолданбалар табылмады."
+
+msgid "No applications found."
+msgstr "Қолданбалар табылмады."
+
+msgid "No available configurations for the given RGBA pixel format"
+msgstr "Берілген RGBA пиксельдер пішімі үшін қолжетерлік баптаулар жоқ"
+
+msgid "No available configurations for the given pixel format"
+msgstr "Берілген пиксельдер пішімі үшін қолжетерлік баптаулар жоқ"
+
+msgid "No fonts matched your search. You can revise your search and try again."
+msgstr "Сұранымға сай қаріптер табылмады. Сұранымды өзгертіп, қайталап көріңіз."
+
+msgid "No item for URI '%{string}' found"
+msgstr "URI '%{string}' үшін нәрсе табылмады"
+
+msgid "No items found"
+msgstr "Ешнәрсе табылмады"
+
+msgid "No pre-filtering"
+msgstr "Алдын-ала сүзгілеу жоқ"
+
+msgid "No printer drivers are available for %{string}."
+msgstr "%{string} үшін принтер драйверлері жоқ."
+
+msgid "No printer found"
+msgstr "Принтер табылмады"
+
+msgid "No profile available"
+msgstr "Бірде-бір профиль қолжетерсіз"
+
+msgid "No recently used resource found with URI '%{string}'"
+msgstr "URI '%{string}' бар соңғы қолданылған ресурс жоқ"
+
+msgid "No registered application with name '%{string}' for item with URI '%{string}' found"
+msgstr "URI '%{string}' үшін аты '%{string}' болатын ешбір тіркелген қолданба табылмады"
+
+msgid "No software installed"
+msgstr "Орнатылған БҚ жоқ"
+
+msgid "No software installed from this source"
+msgstr "Бұл қайнар көзінен ешбір БҚ орнатылмаған"
+
+msgid "No sources found."
+msgstr "Қайнар көздері табылмады."
+
+msgid "No space was left on the drive."
+msgstr "Дискте орын қалмады."
+
+msgid "No theme index file.\n"
+msgstr "Теманың индекс файлы табылмады.\n"
+
+msgid "No update description available."
+msgstr "Жаңартудың сипаттамасы жоқ."
+
+msgid "None"
+msgstr "Ешнәрсе"
+
+msgid "Not Now"
+msgstr "Қазір емес"
+
+msgid "Not a valid icon cache: %{string}\n"
+msgstr "Дұрыс таңбашалар кэші емес: %{string}\n"
+
+msgid "Not a valid page setup file"
+msgstr "Баспағы шығару баптаулары бар қате файл"
+
+msgid "Not available"
+msgstr "Қол жетерлік емес"
+
+msgid "Not enough free memory"
+msgstr "Бос жады жеткіліксіз"
+
+msgid "Not settable at runtime.\nUse GDK_GL=always or GDK_GL=disable instead"
+msgstr "Орындалу кезінде орнату мүмкін емес.\nОрнына GDK_GL=always не GDK_GL=disable қолданыңыз"
+
+msgid "Num_Lock"
+msgstr "Num_Lock"
+
+msgid "Number of Pages"
+msgstr "Парақтар саны"
+
+msgid "Number of lines"
+msgstr "Жолдар саны"
+
+msgid "Numerical Analysis"
+msgstr "Сандық анализ"
+
+msgid "OCR"
+msgstr "Мәтінді тану"
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "OS Updates"
+msgstr "ОЖ жаңартулары"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Object Hierarchy"
+msgstr "Объекттер иерархиясы"
+
+msgid "Objects"
+msgstr "Объекттер"
+
+msgid "Odd Row Color"
+msgstr "Тақ жолдың түсі"
+
+msgid "Odd sheets"
+msgstr "Тақ парақтар"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Offline"
+msgstr "Желіде емес"
+
+msgid "Oficio"
+msgstr "Oficio"
+
+msgid "On _hold"
+msgstr "Кү_ту"
+
+msgid "One Sided"
+msgstr "Бір жақты"
+
+msgid "One Star"
+msgstr "Бір жұлдыз"
+
+msgid "One week ago"
+msgstr "Бір апта бұрын"
+
+msgid "Online"
+msgstr "Желіде"
+
+msgid "Only use software sources that you trust."
+msgstr "Тек сенімді БҚ қайнар көздерін қолданыңыз."
+
+msgid "Op_acity:"
+msgstr "Мө_лдірсіздігі:"
+
+msgid "Open '%{string}'"
+msgstr "'%{string}' ашу"
+
+msgid "Open a local package file"
+msgstr "Жергілікті десте файлын ашу"
+
+msgid "Open in New _Tab"
+msgstr "Жаңа бе_тте ашу"
+
+msgid "Open in New _Window"
+msgstr "Жаңа т_ерезеде ашу"
+
+msgid "Open the contents of the file system"
+msgstr "Файлдық жүйенің құрамасын ашу"
+
+msgid "Open the contents of your desktop in a folder"
+msgstr "Жұмыс үстеліңіздің құрамасын бумада ашу"
+
+msgid "Open the trash"
+msgstr "Қоқыс шелегін ашу"
+
+msgid "Open your personal folder"
+msgstr "Жеке бумаңызды ашу"
+
+msgid "OpenGL context creation failed"
+msgstr "OpenGL контекстін жасау сәтсіз"
+
+msgid "Opening %{number} Item"
+msgstr "%{number} нәрсе ашылуда"
+
+msgid "Opening “%{string}” files."
+msgstr "“%{string}” файлдарын ашу."
+
+msgid "Opening “%{string}”."
+msgstr "“%{string}” ашу."
+
+msgid "Or_ientation:"
+msgstr "_Бағдары:"
+
+msgid "Orange"
+msgstr "Қызғылт сары"
+
+msgid "Orientation"
+msgstr "Бағдары"
+
+msgid "Other"
+msgstr "Басқа"
+
+msgid "Other Applications"
+msgstr "Басқа қолданбалар"
+
+msgid "Other application…"
+msgstr "Басқа қолданба…"
+
+msgid "Other…"
+msgstr "Басқа…"
+
+msgid "Out of paper"
+msgstr "Қағаз бітті"
+
+msgid "Output Tray"
+msgstr "Шығыс сөресі"
+
+msgid "Output a C header file"
+msgstr "C тақырыптама файлын шығару"
+
+msgid "Output t_ray:"
+msgstr "Шығ_ыс сөресі:"
+
+msgid "Output to this directory instead of cwd"
+msgstr "Ағымдағы бума орнына осы бумаға шығару"
+
+msgid "Overview page"
+msgstr "Шолу парағы"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr "Бар кэшті үстінен жазу, ескірмесе де"
+
+msgid "P2P"
+msgstr "P2P"
+
+msgid "PDA"
+msgstr "ҚДК"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF Ті_гінен орналастыру"
+
+msgid "P_ause"
+msgstr "А_ялдату"
+
+msgid "Pag_es:"
+msgstr "Бет_тер:"
+
+msgid "Page"
+msgstr "Парақ"
+
+msgid "Page Ordering"
+msgstr "Беттер реті"
+
+msgid "Page Set_up"
+msgstr "Бет ба_птаулары"
+
+msgid "Page Setup"
+msgstr "Парақ баптаулары"
+
+msgid "Page Size"
+msgstr "Бет өлшемі"
+
+msgid "Page complete"
+msgstr "Бет дайын"
+
+msgid "Page or_dering:"
+msgstr "Бетт_ер реті:"
+
+msgid "Page title"
+msgstr "Бет атауы"
+
+msgid "Page type"
+msgstr "Бет түрі"
+
+msgid "Page_Down"
+msgstr "Page_Down"
+
+msgid "Page_Up"
+msgstr "Page_Up"
+
+msgid "Pages"
+msgstr "Беттер"
+
+msgid "Pages Per Sheet"
+msgstr "Бір парақтағы бет саны"
+
+msgid "Pages per Sheet"
+msgstr "Бір парақтағы бет саны"
+
+msgid "Pages per _sheet:"
+msgstr "Бір п_арақтағы бет саны:"
+
+msgid "Pages per _side:"
+msgstr "Бір жақ_тағы беттер:"
+
+msgid "Paper"
+msgstr "Қағаз"
+
+msgid "Paper Margins"
+msgstr "Қағаздың шет өрістері"
+
+msgid "Paper Size"
+msgstr "Қағаз өлшемі"
+
+msgid "Paper Source"
+msgstr "Қағаз көзі"
+
+msgid "Paper Type"
+msgstr "Қағаз түрі"
+
+msgid "Paper _source:"
+msgstr "Қ_ағаз көзі:"
+
+msgid "Paper _type:"
+msgstr "Қаға_з түрі:"
+
+msgid "Parallel Computing"
+msgstr "Параллельді есептеу"
+
+msgid "Parameter Type"
+msgstr "Параметр түрі"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Path"
+msgstr "Жолы"
+
+msgid "Pattern"
+msgstr "Шаблон"
+
+msgid "Pause"
+msgstr "Аялдату"
+
+msgid "Paused"
+msgstr "Аялдатылған"
+
+msgid "Paused; Rejecting Jobs"
+msgstr "Аялдатылған; Тапсырмаларды тайдыру"
+
+msgid "Pending"
+msgstr "Кезекте"
+
+msgid "Personal Envelope"
+msgstr "Жеке конверт"
+
+msgid "Photo L"
+msgstr "Photo L"
+
+msgid "Photography"
+msgstr "Фотография"
+
+msgid "Physics"
+msgstr "Физика"
+
+msgid "Pick a Color"
+msgstr "Түсті таңдаңыз"
+
+msgid "Pick a Font"
+msgstr "Қаріпті таңдаңыз"
+
+msgid "Pixbuf column"
+msgstr "Pixbuf бағаны"
+
+msgid "Players"
+msgstr "Ойнатқыштар"
+
+msgid "Plum"
+msgstr "Алхоры"
+
+msgid "Pops up the slider"
+msgstr "Айналдырғышты көрсетеді"
+
+msgid "Popup"
+msgstr "Көрсету"
+
+msgid "Portrait"
+msgstr "Тік"
+
+msgid "Position"
+msgstr "Орны"
+
+msgid "Position on the color wheel."
+msgstr "Түс шеңберіндегі орны."
+
+msgid "Postfix Envelope"
+msgstr "Postfix конверті"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Pre_view"
+msgstr "А_лдын-ала қарау"
+
+msgid "Pre_vious"
+msgstr "Алд_ыңғысы"
+
+msgid "Prefer local file sources to AppStream"
+msgstr "AppStream орнына жергілікті файлдағы қайнар көздерін қалау"
+
+msgid "Preferences"
+msgstr "Баптаулар"
+
+msgid "Prefix"
+msgstr "Префикс"
+
+msgid "Preparing"
+msgstr "Дайындау"
+
+msgid "Preparing to print"
+msgstr "Баспаға шығаруды дайындау"
+
+msgid "Presentation"
+msgstr "Презентация"
+
+msgid "Press"
+msgstr "Басу"
+
+msgid "Presses the combobox"
+msgstr "Тізімі бар өрісті басады"
+
+msgid "Preview text"
+msgstr "Алдын-ала қарау мәтіні"
+
+msgid "Pri_ority:"
+msgstr "Пр_иоритет:"
+
+msgid "Print"
+msgstr "Баспаға шығару"
+
+msgid "Print Document"
+msgstr "Құжатты баспаға шығару"
+
+msgid "Print Pre_view"
+msgstr "Баспа а_лдында қарау"
+
+msgid "Print at"
+msgstr "Уақыты"
+
+msgid "Print at time"
+msgstr "Баспаны бастау уақыты"
+
+msgid "Print to File"
+msgstr "Файлға баспаға шығару"
+
+msgid "Print to LPR"
+msgstr "LPR-ге басып шығару"
+
+msgid "Print to Test Printer"
+msgstr "Сынау принтеріне баспаға шығару"
+
+msgid "Printer"
+msgstr "Принтер"
+
+msgid "Printer Default"
+msgstr "Принтердің негізгісі"
+
+msgid "Printer Profile"
+msgstr "Принтер профилі"
+
+msgid "Printer offline"
+msgstr "Принтер қосылмаған"
+
+msgid "Printer “%{string}” has no toner left."
+msgstr "“%{string}” принтерінде тонер біткен."
+
+msgid "Printer “%{string}” is currently offline."
+msgstr "“%{string}” принтері қазір қосылмаған."
+
+msgid "Printer “%{string}” is low on at least one marker supply."
+msgstr "“%{string}” принтерінде кем дегенде бір тонер бітіп жатыр."
+
+msgid "Printer “%{string}” is low on developer."
+msgstr "“%{string}” принтерінің айқындауышы аз."
+
+msgid "Printer “%{string}” is low on paper."
+msgstr "“%{string}” принтерінде қағаз аз."
+
+msgid "Printer “%{string}” is low on toner."
+msgstr "“%{string}” принтерінде тонер аз."
+
+msgid "Printer “%{string}” is out of at least one marker supply."
+msgstr "“%{string}” принтерінде кем дегенде бір тонер бітті."
+
+msgid "Printer “%{string}” is out of developer."
+msgstr "“%{string}” принтерінің айқындауышы біткен."
+
+msgid "Printer “%{string}” is out of paper."
+msgstr "“%{string}” принтерінде қағаз жоқ."
+
+msgid "Printing"
+msgstr "Баспаға шығару"
+
+msgid "Priority"
+msgstr "Басымдық"
+
+msgid "Priority:"
+msgstr "Басымдық"
+
+msgid "Profiling"
+msgstr "Профильдеу"
+
+msgid "Program class as used by the window manager"
+msgstr "Терезелер басқарушы қолданатындай бағдарлама класы"
+
+msgid "Program name as used by the window manager"
+msgstr "Терезелер басқарушы қолданатындай бағдарлама аты"
+
+msgid "Project Management"
+msgstr "Жобаларды басқару"
+
+msgid "Properties"
+msgstr "Қасиеттері"
+
+msgid "Property"
+msgstr "Қасиет"
+
+msgid "Provides visual indication of progress"
+msgstr "Үрдістің графикалық көрсеткішін ұсынады"
+
+msgid "Publishing"
+msgstr "Жариялау"
+
+msgid "Quarto"
+msgstr "Quarto"
+
+msgid "Question"
+msgstr "Сұрақ"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RA3"
+msgstr "RA3"
+
+msgid "RA4"
+msgstr "RA4"
+
+msgid "RGBA Color"
+msgstr "RGBA түсі"
+
+msgid "RGBA visual"
+msgstr "RGBA визуалды"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE Оңнан солға кіріс_тіру"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM Белгі _оңнан солға"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO Оңнан солға үстінен жа_бу"
+
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+msgid "R_ewind"
+msgstr "Ар_тқа"
+
+msgid "Range"
+msgstr "Диапазон"
+
+msgid "Raster Graphics"
+msgstr "Растрлық графика"
+
+msgid "Realized"
+msgstr "Іске асырылған"
+
+msgid "Recent"
+msgstr "Жуырдағы"
+
+msgid "Recent files"
+msgstr "Жуырда қолданылған файлдар"
+
+msgid "Recommended Applications"
+msgstr "Ұсынылатын қолданбалар"
+
+msgid "Recommended Audio Applications"
+msgstr "Ұсынылатын аудио қолданбалары"
+
+msgid "Recommended Games"
+msgstr "Ұсынылатын ойындар"
+
+msgid "Recommended Graphics Applications"
+msgstr "Ұсынылатын графикалық қолданбалары"
+
+msgid "Recommended Office Applications"
+msgstr "Ұсынылатын кеңселік қолданбалары"
+
+msgid "Recorders"
+msgstr "Жазу қолданбалары"
+
+msgid "Recording"
+msgstr "Жазу"
+
+msgid "Reference count"
+msgstr "Сілтемелер саны"
+
+msgid "Registered U_ser"
+msgstr "Тірке_лген пайдаланушы"
+
+msgid "Rejecting Jobs"
+msgstr "Тапсырмаларды тайдыру"
+
+msgid "Related Action"
+msgstr "Сәйкес әрекет"
+
+msgid "Related Applications"
+msgstr "Туыс қолданбалар"
+
+msgid "Remember _forever"
+msgstr "Әрқаша_нға есте сақтау"
+
+msgid "Remember password until you _logout"
+msgstr "Парольді жүйеден шыққаныңызға д_ейін есте сақтау"
+
+msgid "Remote Access"
+msgstr "Қашықтан қатынау"
+
+msgid "Removal of %{string} failed."
+msgstr "%{string} өшіру сәтсіз аяқталды."
+
+msgid "Remove"
+msgstr "Өшіру"
+
+msgid "Remove Source"
+msgstr "Қайнар көзін өшіру"
+
+msgid "Removed"
+msgstr "Өшірілген"
+
+msgid "Removing"
+msgstr "Өшірілуде"
+
+msgid "Removing a source will also remove any software you have installed from it."
+msgstr "Қайнар көзін өшіру нәтижесінде одан орнатылған барлық БҚ-ның өшірілуіне де әкеп соғады."
+
+msgid "Removing…"
+msgstr "Өшірілуде…"
+
+msgid "Rename…"
+msgstr "Атын ауыстыру…"
+
+msgid "Rendering Mode"
+msgstr "Рендерлеу режимі"
+
+msgid "Repeat new passphrase"
+msgstr "Жаңа құпия сөзді қайта енгізу"
+
+msgid "Resizable"
+msgstr "Өлшемі өзгертілетін"
+
+msgid "Resize"
+msgstr "Өлшемін өзгерту"
+
+msgid "Resolution"
+msgstr "Ажыратылымдығы"
+
+msgid "Resources"
+msgstr "Ресурстар"
+
+msgid "Restart & _Install"
+msgstr "Қайта қосу және _орнату"
+
+msgid "Restore"
+msgstr "Қалпына келтіру"
+
+msgid "Restore defaults for this widget"
+msgstr "Бұл виджет үшін бастапқыны қалпына келтіру"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Reverse landscape"
+msgstr "Теріс жатық"
+
+msgid "Reverse portrait"
+msgstr "Теріс тік"
+
+msgid "Review"
+msgstr "Қарап шығу"
+
+msgid "Revision Control"
+msgstr "Нұсқаларды басқару"
+
+msgid "Right"
+msgstr "Оң жақ"
+
+msgid "Right to left"
+msgstr "Оңнан солға"
+
+msgid "Right to left, bottom to top"
+msgstr "Оңнан солға, астынан үстіге"
+
+msgid "Right to left, top to bottom"
+msgstr "Оңнан солға, үстінен астыға"
+
+msgid "Right-to-Left"
+msgstr "Оңнан солға"
+
+msgid "Robotics"
+msgstr "Робототехника"
+
+msgid "Role Playing"
+msgstr "Рольмен ойнау"
+
+msgid "Row spacing"
+msgstr "Жолдар аралығы"
+
+msgid "Rows"
+msgstr "Жолдар"
+
+msgid "S"
+msgstr "Қ"
+
+msgid "SEARCH"
+msgstr "ІЗДЕУ"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SRA3"
+msgstr "SRA3"
+
+msgid "SRA4"
+msgstr "SRA4"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "S_aturation:"
+msgstr "Қ_аңықтылығы:"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Saturation"
+msgstr "Қаңықтылығы"
+
+msgid "Save _As"
+msgstr "Қала_йша сақтау"
+
+msgid "Save the current CSS"
+msgstr "Ағымдағы CSS сақтау"
+
+msgid "Saving CSS failed"
+msgstr "CSS сақтау сәтсіз"
+
+msgid "Sc_ale:"
+msgstr "Мас_штаб:"
+
+msgid "Scanning"
+msgstr "Сканерлеу"
+
+msgid "Scarlet Red"
+msgstr "Алқызыл"
+
+msgid "Science"
+msgstr "Ғылым"
+
+msgid "Screen"
+msgstr "Экран"
+
+msgid "ScreenSaver"
+msgstr "ScreenSaver"
+
+msgid "Screenshot"
+msgstr "Скриншот"
+
+msgid "Screenshot not available"
+msgstr "Скриншот қолжетерсіз"
+
+msgid "Screenshot not found"
+msgstr "Скриншот табылмады"
+
+msgid "Screenshot not valid"
+msgstr "Скриншот жарамсыз"
+
+msgid "Screenshot size not found"
+msgstr "Скриншот өлшемі табылмады"
+
+msgid "Scroll_Lock"
+msgstr "Scroll_Lock"
+
+msgid "Se_lection"
+msgstr "Таң_далғанды"
+
+msgid "Search"
+msgstr "Іздеу"
+
+msgid "Search font name"
+msgstr "Қаріп атынан іздеу"
+
+msgid "Search for applications"
+msgstr "Қолданбаларды іздеу"
+
+msgid "Search mode"
+msgstr "Іздеу режимі"
+
+msgid "Search page"
+msgstr "Іздеу парағы"
+
+msgid "Secondary"
+msgstr "Екіншілік"
+
+msgid "Secret"
+msgstr "Құпия сөз"
+
+msgid "Security"
+msgstr "Қауіпсіздік"
+
+msgid "Select"
+msgstr "Таңдау"
+
+msgid "Select All"
+msgstr "Барлығын таңдау"
+
+msgid "Select Application"
+msgstr "Қолданбаны таңдау"
+
+msgid "Select Font"
+msgstr "Қаріпті таңдау"
+
+msgid "Select None"
+msgstr "Ештеңе таңдамау"
+
+msgid "Select _All"
+msgstr "Б_арлығын таңдау"
+
+msgid "Select a Color"
+msgstr "Түсті тандаңыз"
+
+msgid "Select a File"
+msgstr "Файлды таңдаңыз"
+
+msgid "Select a filename"
+msgstr "Файл атын таңдаңыз"
+
+msgid "Select an Object"
+msgstr "Объектті таңдаңыз"
+
+msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
+msgstr "Өіңізге керек түсті сыртқы шеңберден таңдаңыз. Ол түстің күңгірттігін не ашықтығын ішіндегі үшбұрыштан көрсетіңіз."
+
+msgid "Select which type of documents are shown"
+msgstr "Көрсетілетін құжаттар түрлерін таңдаңыз"
+
+msgid "Select which types of files are shown"
+msgstr "Файлдардың қай түрлері көрсетілетінін таңдаңыз"
+
+msgid "Selected add-ons will be installed with the application."
+msgstr "Таңдалған кеңейтулер қолданбамен бірге орнатылады."
+
+msgid "Selection Bound"
+msgstr "Таңдау шекаралары"
+
+msgid "Selection mode"
+msgstr "Таңдау режимі"
+
+msgid "Selector"
+msgstr "Таңдауыш"
+
+msgid "Selects the color"
+msgstr "Түсті тандайды"
+
+msgid "Self"
+msgstr "Өздік"
+
+msgid "Self 1"
+msgstr "Өздік 1"
+
+msgid "Self 2"
+msgstr "Өздік 2"
+
+msgid "Sending data"
+msgstr "Ақпарат жіберілуде"
+
+msgid "Sequencers"
+msgstr "Секвенсор"
+
+msgid "Serialized data is malformed"
+msgstr "Сериализацияланған мәліметтер қате жасалған."
+
+msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr "Сериализацияланған мәліметтер қате жасалған. Бірінші секциясы GTKTEXTBUFFERCONTENTS-0001 емес болып тұр"
+
+msgid "Services"
+msgstr "Қызметтер"
+
+msgid "Setting is hardcoded by GTK_TEST_TOUCHSCREEN"
+msgstr "Баптау GTK_TEST_TOUCHSCREEN арқылы қатаң берілген"
+
+msgid "Setting up updates…"
+msgstr "Жаңартуларды баптау…"
+
+msgid "Setting:"
+msgstr "Баптау:"
+
+msgid "Settings"
+msgstr "Баптаулар"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Shooter"
+msgstr "Ату"
+
+msgid "Short Edge (Flip)"
+msgstr "Қысқа жағымен (Бұру)"
+
+msgid "Show All"
+msgstr "Барлығын көрсету"
+
+msgid "Show Baselines"
+msgstr "Базалық сызықтарды көрсету"
+
+msgid "Show Details"
+msgstr "Деректерді көрсету"
+
+msgid "Show GTK+ Options"
+msgstr "GTK+ опцияларын көрсету"
+
+msgid "Show Graphic Updates"
+msgstr "Графика жаңартуын көрсету"
+
+msgid "Show Icons"
+msgstr "Таңбашаларды көрсету"
+
+msgid "Show Pixel Cache"
+msgstr "Пиксельдер кэшін көрсету"
+
+msgid "Show _Hidden Files"
+msgstr "Жас_ырын файлдарды көрсету"
+
+msgid "Show _Private Resources"
+msgstr "Ж_еке ресурстарды көрсету"
+
+msgid "Show _Size Column"
+msgstr "Ө_лшем бағанын көрсету"
+
+msgid "Show a menubar"
+msgstr "Мәзір жолағын көрсету"
+
+msgid "Show all Objects"
+msgstr "Барлық объекттерді көрсету"
+
+msgid "Show all Resources"
+msgstr "Барлық ресурстарды көрсету"
+
+msgid "Show all apps"
+msgstr "Барлық қолданбаларды көрсету"
+
+msgid "Show application details"
+msgstr "Қолданба ақпаратын көрсету"
+
+msgid "Show data"
+msgstr "Деректерді көрсету"
+
+msgid "Show default item"
+msgstr "Үнсіз келісім нәрсесін көрсету"
+
+msgid "Show profiling information for the service"
+msgstr "Қызмет үшін профильдеу ақпаратын көрсету"
+
+msgid "Show size"
+msgstr "Өлшемін көрсету"
+
+msgid "Show verbose debugging information"
+msgstr "Кеңейтілген жөндеу ақпаратын көрсету"
+
+msgid "Shrink"
+msgstr "Кішірейту"
+
+msgid "Si_ze:"
+msgstr "Өл_шемі:"
+
+msgid "Signals"
+msgstr "Сигналдар"
+
+msgid "Similar"
+msgstr "Ұқсас"
+
+msgid "Simple"
+msgstr "Қарапайым"
+
+msgid "Simulate touchscreen"
+msgstr "Тачскринді эмуляциялау"
+
+msgid "Simulation"
+msgstr "Симуляторлар"
+
+msgid "Six days ago"
+msgstr "Алты күн бұрын"
+
+msgid "Size"
+msgstr "Өлшемі"
+
+msgid "Size Groups"
+msgstr "Өлшемдер топтары"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "8 биттік режиміндегі палитра өлшемі"
+
+msgid "Size:"
+msgstr "Өлшемі:"
+
+msgid "Sky Blue"
+msgstr "Көгілдір"
+
+msgid "Sleep"
+msgstr "Sleep"
+
+msgid "Small Photo"
+msgstr "Кішкене фото"
+
+msgid "Software"
+msgstr "Бағд. қамтама"
+
+msgid "Software GL"
+msgstr "БҚ-лық GL"
+
+msgid "Software Install"
+msgstr "БҚ орнату"
+
+msgid "Software Source Identified"
+msgstr "Қайнар көзі анықталды"
+
+msgid "Software Source Included"
+msgstr "Қайнар көзі қоса берілді"
+
+msgid "Software Sources"
+msgstr "БҚ қайнар көздері"
+
+msgid "Software Surfaces"
+msgstr "БҚ"
+
+msgid "Software Update Installed"
+msgstr "БҚ жаңартулары орнатылды"
+
+msgid "Software Updates Available"
+msgstr "БҚ жаңартулары қолжетерлік"
+
+msgid "Software Updates Failed"
+msgstr "БҚ жаңартулары сәтсіз"
+
+msgid "Software allows you to find and install new applications and system extensions and remove existing installed applications."
+msgstr "Software қолданбасы сізге жаңа қолданбалар мен жүйелік кеңейтулерді тауып, орнатуды және орнатылған қолданбаларды өшіруді мүмкін қылады."
+
+msgid "Software is up to date"
+msgstr "БҚ ескірмеді"
+
+msgid "Software lets you install all the software you need, all from one place. See our recommendations, browse the categories, or search for the applications you want."
+msgstr "Software қолданбасы өзіңізге керек барлық БҚ-ны бір жерден орнатуға мүмкін қылады. Біздің ұсыныстарымызды қарап, санаттарды шолыңыз, немесе керек қолданбаны іздеп көріңіз."
+
+msgid "Software sources give you access to additional software."
+msgstr "БҚ қайнар көздері сізге қосымша БҚ-ға жол ашады."
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "Сұхбаттағы кейбір баптаулар өзара ерегіседі"
+
+msgid "Sorry, this did not work"
+msgstr "Кешіріңіз, бұл жасамады"
+
+msgid "Sort _Folders before Files"
+msgstr "Бу_маларды файлдардың алдында сұрыптау"
+
+msgid "Source"
+msgstr "Қайнар көзі"
+
+msgid "Source Details"
+msgstr "Қайнар көзі ақпараты"
+
+msgid "Source:"
+msgstr "Қайнар көзі:"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "Spacing"
+msgstr "Аралықтар"
+
+msgid "Specify one or more page ranges,\n e.g. 1–3, 7, 11"
+msgstr "Бір не бірнеше бет аралықтарын көрсетіңіз,\n мыс. 1–3, 7, 11"
+
+msgid "Specify the time of print,\n e.g. 15∶30, 2∶35 pm, 14∶15∶20, 11∶46∶30 am, 4 pm"
+msgstr "Басып шығару уақытын көрсетіңіз,\n мысалы, 15∶30, 14∶15∶20"
+
+msgid "Spinner"
+msgstr "Айналғыш"
+
+msgid "Spirituality"
+msgstr "Руханият"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Spreadsheet"
+msgstr "Эл. кестелер"
+
+msgid "Standard"
+msgstr "Қалыпты"
+
+msgid "Standard cursor type"
+msgstr "Қалыпты курсор түрі"
+
+msgid "Start up mode: either ‘updates’, ‘updated’, ‘installed’ or ‘overview’"
+msgstr "Іске қосылу режимі келесіден біреу: ‘updates’, ‘updated’, ‘installed’ не ‘overview’"
+
+msgid "State"
+msgstr "Күйі"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Status"
+msgstr "Күйі"
+
+msgid "Step Increment"
+msgstr "Қадам өлшемі"
+
+msgid "Strategy"
+msgstr "Стратегиялық"
+
+msgid "Strikethrough"
+msgstr "Сызып тастау"
+
+msgid "Style"
+msgstr "Стилі"
+
+msgid "Style Classes"
+msgstr "Стильдер кластары"
+
+msgid "Style Properties"
+msgstr "Стиль қасиеттері"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Super A"
+msgstr "Super A"
+
+msgid "Super B"
+msgstr "Super B"
+
+msgid "Suspend"
+msgstr "Suspend"
+
+msgid "Sys_Req"
+msgstr "Sys_Req"
+
+msgid "System"
+msgstr "Жүйелік"
+
+msgid "System (%{string})"
+msgstr "Жүйе (%{string})"
+
+msgid "System Applications"
+msgstr "Жүйелік қолданбалар"
+
+msgid "System policy prevents changes.\nContact your system administrator"
+msgstr "Жүйелік саясат өзгерістерге тыйым салады.\nЖүйелік әкімшіге хабарласыңыз"
+
+msgid "TV"
+msgstr "TV"
+
+msgid "T_wo-sided:"
+msgstr "Е_кі жақты:"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgid "Tabs"
+msgstr "Беттер"
+
+msgid "Tag \"%{string}\" already defined"
+msgstr "\"%{string}\" тегі анықталып тұр"
+
+msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
+msgstr "\"%{string}\" тегі буферде жоқ, тегтерді жасау мүмкін емес."
+
+msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
+msgstr "\"%{string}\" тегтің \"%{string}\" приоритеті қате"
+
+msgid "Tag \"%{string}\" has not been defined."
+msgstr "\"%{string}\" тегі анықталмаған."
+
+msgid "Target"
+msgstr "Мақсат"
+
+msgid "Telephony"
+msgstr "Телефония"
+
+msgid "Telephony Tools"
+msgstr "Телефония"
+
+msgid "Terminal Emulator"
+msgstr "Терминал эмуляторы"
+
+msgid "Terminal Pager"
+msgstr "Терминалды пейджер"
+
+msgid "Text"
+msgstr "Мәтін"
+
+msgid "Text Column"
+msgstr "Мәтін бағаны"
+
+msgid "Text Direction"
+msgstr "Мәтін бағыты"
+
+msgid "Text Editor"
+msgstr "Мәтін түзетушісі"
+
+msgid "Text column"
+msgstr "Мәтін бағаны"
+
+msgid "Text on the progress bar"
+msgstr "Прогресс жолағының мәтіні"
+
+msgid "Thai-Lao"
+msgstr "Тай-Лаос"
+
+msgid "The GLX_ARB_create_context_profile extension needed to create core profiles is not available"
+msgstr "Негізгі профильдерді жасау үшін керек GLX_ARB_create_context_profile кеңейтуі қолжетерсіз"
+
+msgid "The GMenuModel for the menubar"
+msgstr "Мәзір жолағы үшін GMenuModel"
+
+msgid "The MIT License (MIT)"
+msgstr "MIT лицензиясы (MIT)"
+
+msgid "The URL for the link to the website of the program"
+msgstr "Бағдарлама веб сайтына сілтемесі үшін URL-ы"
+
+msgid "The WGL_ARB_create_context extension needed to create core profiles is not available"
+msgstr "Негізгі профильдерді жасау үшін керек WGL_ARB_create_context кеңейтуі қолжетерсіз"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "Екі қатар баған арасындағы орын"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "Екі қатар жол арасындағы орын"
+
+msgid "The color you’ve chosen."
+msgstr "Сіз таңдаған түс."
+
+msgid "The color you’ve chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "Сіз таңдаған түс. Оны сақтау үшін палитраға тартып апарсаңыз болады."
+
+msgid "The cover is open on printer “%{string}”."
+msgstr "“%{string}” принтерінің қорабы ашық."
+
+msgid "The door is open on printer “%{string}”."
+msgstr "“%{string}” принтерінің есігі ашық."
+
+msgid "The file already exists in “%{string}”.  Replacing it will overwrite its contents."
+msgstr "Файл “%{string}” ішінде бар болып тұр.  Оны алмастыру нәтижесінде құрамасы үстінен жазылады."
+
+msgid "The fixed height"
+msgstr "Бекiтiлген биiктiгі"
+
+msgid "The folder contents could not be displayed"
+msgstr "Бума құрамасын көрсету мүмкін емес"
+
+msgid "The folder could not be created"
+msgstr "Буманы жасау мүмкін емес"
+
+msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
+msgstr "Буманы жасау мүмкін емес, өйткені аттас файл бар болып тұр. Бума үшін басқа атын таңдаңыз, немесе файл атын ауыстырыңыз."
+
+msgid "The generated cache was invalid.\n"
+msgstr "Жасалған кэш қате.\n"
+
+msgid "The icon size"
+msgstr "Таңбаша өлшемі"
+
+msgid "The item that you selected is not a folder try using a different item."
+msgstr "Сіз таңдаған нәрсе бума емес; басқа нәрсені таңдап көріңіз."
+
+msgid "The label for the link to the website of the program"
+msgstr "Бағдарлама веб сайтына сілтемесі үшін белгісі"
+
+msgid "The license of the program"
+msgstr "Бағдарлама лицензиясы"
+
+msgid "The license type of the program"
+msgstr "Бағдарлама лицензиясы"
+
+msgid "The most probable reason is that a temporary file could not be created."
+msgstr "Ең мүмкін болған себебі - уақытша файлды жасай алмауы."
+
+msgid "The name of the widget"
+msgstr "Виджет атауы"
+
+msgid "The offline update failed in an unexpected way."
+msgstr "Желіден тыс жаңарту күтпеген түрде сәтсіз аяқталды."
+
+msgid "The previously-selected color, for comparison to the color you’re selecting now."
+msgstr "Алдында таңдалған түс, қазіргі таңдаумен салыстыру үшін көрсетілген."
+
+msgid "The previously-selected color, for comparison to the color you’re selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
+msgstr "Алдында таңдалған түс, қазіргі таңдаумен салыстыру үшін көрсетілген. Осы түсті палитраға тартып апаруға, не оны ағымдағы түс қылу үшін осы түстер ауыстырғыштың екінші жағына тартып апарыңыз."
+
+msgid "The program was not able to create a connection to the indexer daemon. Please make sure it is running."
+msgstr "Бағдарлама индекстеу қызметімен байланысты орната алмады. Оның іске қосулы тұрғанын тексеріңіз."
+
+msgid "The text to show at the top of the dialog"
+msgstr "Сұхбаттың жоғары жағында көрсетілетін мәтін"
+
+msgid "The update could not be completed."
+msgstr "Жаңартуды аяқтау мүмкін емес."
+
+msgid "The update was cancelled."
+msgstr "Жаңартудан бас тартылды."
+
+msgid "The value"
+msgstr "Мәні"
+
+msgid "The version of the program"
+msgstr "Бағдарлама нұсқасы"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Theme is hardcoded by GTK_THEME"
+msgstr "Тема GTK_THEME арқылы қатаң берілген"
+
+msgid "There is a problem on printer “%{string}”."
+msgstr "“%{string}” принтерімен мәселелер бар."
+
+msgid "This application can only be used when there is an active internet connection."
+msgstr "Бұл қолданбаны тек Интернетпен белсенді байланыс болған кезде ғана қолдануға болады."
+
+msgid "This application does not include a software source. It will not be updated with new versions."
+msgstr "Бұл қолданбада БҚ көзі жоқ. Ол жаңа нұсқаларға жаңартылмайтын болады."
+
+msgid "This application includes a software source which provides updates, as well as access to other software."
+msgstr "Бұл қолданбада жаңартуларды және басқа да БҚ-қа қатынауды ұсынатын БҚ көзі бар."
+
+msgid "This operation needs your wallet passphrase to decrypt the wallet."
+msgstr "Бұл операциясы бойынша сіздің әмиянізді шифрлап тастау үшін әмиянның құпия сөзі керек"
+
+msgid "This operation needs your wallet passphrase to unlock the wallet."
+msgstr "Бұл операциясы бойынша сіздің әмиянізді қоршаудан шығару үшін әмиянның құпия сөзі керек"
+
+msgid "This software is already provided by your distribution and should not be replaced."
+msgstr "Бұл БҚ сіздің дистрибутивіңізбен ұсынылып тұр, оны алмастырмау керек."
+
+msgid "This software source must be enabled to continue installation."
+msgstr "Орнатуды жалғастыру үшін бұл БҚ көзі іске қосылған болуы тиіс."
+
+msgid "Three Stars"
+msgstr "Үш жұлдыз"
+
+msgid "Three days ago"
+msgstr "Үш күн бұрын"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "Тигринья-Эритрея (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "Тигринья-Эфиопия (EZ+)"
+
+msgid "Time of print"
+msgstr "Басып шығару уақыты"
+
+msgid "Title"
+msgstr "Атауы"
+
+msgid "Toggle"
+msgstr "Ауыстыру"
+
+msgid "Toggles the cell"
+msgstr "Ұяшықты ауыстыру"
+
+msgid "Toggles the switch"
+msgstr "Ауыстырғыш күйін ауыстыру"
+
+msgid "Toolbar Style"
+msgstr "Панельдер стилі"
+
+msgid "Toolbar style"
+msgstr "Панельдер стилі"
+
+msgid "Tooltip"
+msgstr "Қалқымалы кеңес"
+
+msgid "Top Command"
+msgstr "Top командасы"
+
+msgid "Top Secret"
+msgstr "Қатаң құпия"
+
+msgid "Top to bottom"
+msgstr "Үстінен астыға"
+
+msgid "Top to bottom, left to right"
+msgstr "Үстінен астыға, солдан оңға"
+
+msgid "Top to bottom, right to left"
+msgstr "Үстінен астыға, оңнан солға"
+
+msgid "TouchpadToggle"
+msgstr "TouchpadToggle"
+
+msgid "Trace signal emissions on this object"
+msgstr "Бұл объект сигналдарын бақылау"
+
+msgid "Transaction amount too small"
+msgstr "Транзакция өте кішкентай"
+
+msgid "Transaction too large"
+msgstr "Транзакция өте үлкен"
+
+msgid "Translated by"
+msgstr "Аударған"
+
+msgid "Translation"
+msgstr "Аудармалар"
+
+msgid "Transparency of the color."
+msgstr "Түс мөлдірлілігі."
+
+msgid "Trash"
+msgstr "Қоқыс шелегі"
+
+msgid "Tree line width"
+msgstr "Ағаш көрінісіндегі сызық ені"
+
+msgid "Try using a shorter name."
+msgstr "Қысқалау атын қолданып көріңіз."
+
+msgid "Tuners"
+msgstr "Тюнер"
+
+msgid "Turn off verbose output"
+msgstr "Кеңейтілген шығысты сөндіру"
+
+msgid "Turns volume up or down"
+msgstr "Дыбысын көтеру не түсіру"
+
+msgid "Two Sided"
+msgstr "Екі жақты"
+
+msgid "Two Stars"
+msgstr "Екі жұлдыз"
+
+msgid "Two days ago"
+msgstr "Екі күн бұрын"
+
+msgid "Two weeks ago"
+msgstr "Екі апта бұрын"
+
+msgid "Type"
+msgstr "Түрі"
+
+msgid "Type name of new folder"
+msgstr "Жаңа буманың атын енгізіңіз"
+
+msgid "Type:"
+msgstr "Түрі:"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "US Legal"
+msgstr "US Legal"
+
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+msgid "US Letter Plus"
+msgstr "US Letter Plus"
+
+msgid "Unable to Find Requested Software"
+msgstr "Сұралған БҚ табу мүмкін емес"
+
+msgid "Unable to access “%{string}”"
+msgstr "“%{string}” қатынау мүмкін емес"
+
+msgid "Unable to create a GL context"
+msgstr "GL контекстін жасау сәтсіз"
+
+msgid "Unable to eject “%{string}”"
+msgstr "\"%{string}\" шығару мүмкін емес"
+
+msgid "Unable to end process"
+msgstr "Үрдісті аяқтау мүмкін емес"
+
+msgid "Unable to find an item with URI '%{string}'"
+msgstr "URI '%{string}' бар нәрсе табылмады"
+
+msgid "Unable to poll “%{string}” for media changes"
+msgstr "“%{string}” тасушы өзгерістеріне бақылау мүмкін емес"
+
+msgid "Unable to start “%{string}”"
+msgstr "“%{string}” іске қосу мүмкін емес"
+
+msgid "Unable to stop “%{string}”"
+msgstr "\"%{string}\" тоқтату мүмкін емес"
+
+msgid "Unable to unmount “%{string}”"
+msgstr "“%{string}” тіркеуден босату мүмкін емес"
+
+msgid "Unavailable"
+msgstr "Қолжетерсіз"
+
+msgid "Unclassified"
+msgstr "Классификацияланбаған"
+
+msgid "Underline"
+msgstr "Асты сызылған"
+
+msgid "Underline set"
+msgstr "Асты сызылған"
+
+msgid "Unfortunately, the %{string} you were searching for could not be found. Please see %{string} for more information."
+msgstr "Өкінішке орай, сіз іздеген %{string} табу мүмкін емес. Көбірек білу үшін, %{string} қараңыз."
+
+msgid "Unknown"
+msgstr "Белгісіз"
+
+msgid "Unknown Application (PID %{number})"
+msgstr "Белгісіз қолданба (PID %{number})"
+
+msgid "Unknown item"
+msgstr "Белгісіз элемент"
+
+msgid "Unlock"
+msgstr "Босату"
+
+msgid "Unlock wallet"
+msgstr "Әмиянізді қоршаудан шығару"
+
+msgid "Unnamed section"
+msgstr "Атаусыз санат"
+
+msgid "Unspecified error"
+msgstr "Көрсетілмеген қате"
+
+msgid "Unspecified profile"
+msgstr "Көрсетілмеген профиль"
+
+msgid "Untitled filter"
+msgstr "Атаусыз фильтр"
+
+msgid "Up"
+msgstr "Жоғары"
+
+msgid "Up Path"
+msgstr "Ағашпен жоғары"
+
+msgid "Up to date"
+msgstr "Жаңартылған"
+
+msgid "Updated"
+msgstr "Жаңартылған"
+
+msgid "Updates"
+msgstr "Жаңартулар"
+
+msgid "Updates page"
+msgstr "Жаңартулар парағы"
+
+msgid "Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;"
+msgstr "Жаңарту;Қайнар көздер;Репозиторийлер;Баптаулар;Орнату;Өшіру;Бағдарлама;БҚ;Қолданба;Дүкен;"
+
+msgid "Urgent"
+msgstr "Жедел"
+
+msgid "Use underline"
+msgstr "Астын сызуды қолдану"
+
+msgid "Username:"
+msgstr "Пайдаланушы аты:"
+
+msgid "Utilities"
+msgstr "Утилиталар"
+
+msgid "V"
+msgstr "М"
+
+msgid "Validate existing icon cache"
+msgstr "Бар болып тұрған таңбашалар кэшін тексеру"
+
+msgid "Value"
+msgstr "Мәні"
+
+msgid "Value of the progress bar"
+msgstr "Прогресс жолағының мәні"
+
+msgid "Vector Graphics"
+msgstr "Векторлық графика"
+
+msgid "Version"
+msgstr "Нұсқасы"
+
+msgid "Vertical"
+msgstr "Вертикалды"
+
+msgid "Vertical options"
+msgstr "Вертикалды опциялар"
+
+msgid "Vertical separation"
+msgstr "Вертикалды аралық"
+
+msgid "Very Dark Gray"
+msgstr "Өте күңгірт сұр"
+
+msgid "Very Light Gray"
+msgstr "Өте ашық сұр"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Video Conference"
+msgstr "Видео конференциялары"
+
+msgid "Vietnamese (VIQR)"
+msgstr "Вьетнам (VIQR)"
+
+msgid "View"
+msgstr "Қарау"
+
+msgid "Viewer"
+msgstr "Көрсетуші"
+
+msgid "Visibility"
+msgstr "Көрінуі"
+
+msgid "Visible"
+msgstr "Көрінетін"
+
+msgid "Visit website"
+msgstr "Веб сайтын шолу"
+
+msgid "Visual"
+msgstr "Визуалды"
+
+msgid "Volume"
+msgstr "Даусы"
+
+msgid "Volume Down"
+msgstr "Дыбысты азайту"
+
+msgid "Volume Up"
+msgstr "Дыбысты көтеру"
+
+msgid "WLAN"
+msgstr "WLAN"
+
+msgid "Waiting"
+msgstr "Күту"
+
+msgid "WakeUp"
+msgstr "WakeUp"
+
+msgid "Wallet"
+msgstr "Әмиян"
+
+msgid "Warning"
+msgstr "Ескерту"
+
+msgid "Web Browser"
+msgstr "Веб браузері"
+
+msgid "Web Development"
+msgstr "Веб үшін өндіру"
+
+msgid "WebCam"
+msgstr "WebCam"
+
+msgid "Website"
+msgstr "Веб сайты"
+
+msgid "Welcome"
+msgstr "Қош келдіңіз"
+
+msgid "Welcome to Software"
+msgstr "Software қолданбасына қош келдіңіз"
+
+msgid "When needed"
+msgstr "Керек болған кезде"
+
+msgid "White"
+msgstr "Ақ"
+
+msgid "Wide Format"
+msgstr "Кең пішімді"
+
+msgid "Wide Photo"
+msgstr "Кең фото"
+
+msgid "Widget"
+msgstr "Виджет"
+
+msgid "Width"
+msgstr "Ені"
+
+msgid "Width, in pixels, of the tree view grid lines"
+msgstr "Ағаш көрінісіндегі тор сызықтардың ені, пиксельмен"
+
+msgid "Width, in pixels, of the tree view lines"
+msgstr "Ағаш көрінісіндегі сызықтардың ені, пиксельмен"
+
+msgid "Window"
+msgstr "Терезе"
+
+msgid "Window Type"
+msgstr "Терезе түрі"
+
+msgid "Window scaling"
+msgstr "Терезені масштабтау"
+
+msgid "Windows IME"
+msgstr "Windows IME"
+
+msgid "Word Processor"
+msgstr "Мәтіндік процессор"
+
+msgid "Wrap license"
+msgstr "Лицензиясы тасымалдау"
+
+msgid "X Input Method"
+msgstr "X енгізу тәсілі"
+
+msgid "X display"
+msgstr "X экраны"
+
+msgid "X display to use"
+msgstr "Қолданылатын X дисплейі"
+
+msgid "XSettings"
+msgstr "XSettings"
+
+msgid "Xft DPI"
+msgstr "Xft DPI"
+
+msgid "Xft RGBA"
+msgstr "Xft RGBA"
+
+msgid "Year"
+msgstr "Жыл"
+
+msgid "Yes"
+msgstr "Иә"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as “orange” in this entry."
+msgstr "Сіз осында HTML-дей он алтылық түрде түс мәнін не жай ғана түс атын енгізе аласыз, мысалға, \"orange\"."
+
+msgid "You can temporarily disable this custom CSS by clicking on the “Pause” button above."
+msgstr "Бұл таңдауыңызша CSS-ті сіз жоғарыдағы “Аялдату” батырмасын басу арқылы уақытша сөндіре аласыз."
+
+msgid "You can type here any CSS rule recognized by GTK+."
+msgstr "Сіз осында GTK+ танитын кез-келген CSS тере аласыз."
+
+msgid "You may only select folders"
+msgstr "Тек бумаларды таңдауға болады"
+
+msgid "You need to choose a valid filename."
+msgstr "Сізге дұрыс файл атын көрсету керек."
+
+msgid "Z Shell"
+msgstr "Z қоршамы"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ Нөлдік бі_рігуші"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ Нөлдік аж_ыратушы"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS _Нөлдік бос аралық"
+
+msgid "Zoom _In"
+msgstr "Үлке_йту"
+
+msgid "Zoom _Out"
+msgstr "Кі_шірейту"
+
+msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
+msgstr "\"%{string}\" қазір \"%{string}\" түріндегі мәнге, \"%{string}\" атрибуты үшін, түрлендіру мүмкін емес"
+
+msgid "\"%{string}\" is not a valid attribute name"
+msgstr "\"%{string}\" - атрибуттың дұрыс аты емес"
+
+msgid "\"%{string}\" is not a valid attribute type"
+msgstr "\"%{string}\" - атрибуттың дұрыс түрі емес"
+
+msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
+msgstr "\"%{string}\" - \"%{string}\" атрибуты үшін дұрыс мән емес"
+
+msgid "_About"
+msgstr "Осы т_уралы"
+
+msgid "_Add"
+msgstr "Қо_су"
+
+msgid "_Add Bookmark"
+msgstr "Б_етбелгілерге қосу"
+
+msgid "_Add to Bookmarks"
+msgstr "Б_етбелгілерге қосу"
+
+msgid "_Add to Folder…"
+msgstr "_Бумаға қосу…"
+
+msgid "_After:"
+msgstr "К_ейін:"
+
+msgid "_All"
+msgstr "Б_арлығы"
+
+msgid "_All Pages"
+msgstr "Барл_ық беттер"
+
+msgid "_Anonymous"
+msgstr "Анон_имды"
+
+msgid "_Apply"
+msgstr "Іске _асыру"
+
+msgid "_Ascending"
+msgstr "Өс_у ретімен"
+
+msgid "_Back"
+msgstr "Ар_тқа"
+
+msgid "_Billing info:"
+msgstr "_Орналасуы:"
+
+msgid "_Blue:"
+msgstr "_Көк:"
+
+msgid "_Bold"
+msgstr "_Жуан"
+
+msgid "_Bottom"
+msgstr "Төмен_ге"
+
+msgid "_Bottom:"
+msgstr "Тө_мен:"
+
+msgid "_CD-ROM"
+msgstr "CD-Rom ди_скі"
+
+msgid "_Cancel"
+msgstr "Ба_с тарту"
+
+msgid "_Center"
+msgstr "Ор_тасы"
+
+msgid "_Check Anyway"
+msgstr "_Сонда да тексеру"
+
+msgid "_Clear"
+msgstr "Та_зарту"
+
+msgid "_Clear List"
+msgstr "Тізі_мді тазарту"
+
+msgid "_Close"
+msgstr "_Жабу"
+
+msgid "_Color"
+msgstr "Тү_с"
+
+msgid "_Connect Drive"
+msgstr "Дискті і_ске қосу"
+
+msgid "_Convert"
+msgstr "_Айналдыру"
+
+msgid "_Copy"
+msgstr "_Көшіру"
+
+msgid "_Copy Location"
+msgstr "_Орналасуын көшіру"
+
+msgid "_Customize"
+msgstr "_Баптау"
+
+msgid "_Delete"
+msgstr "Ө_шіру"
+
+msgid "_Descending"
+msgstr "Ке_му ретімен"
+
+msgid "_Detect Media"
+msgstr "Тасушыны анық_тау"
+
+msgid "_Discard"
+msgstr "_Елемеу"
+
+msgid "_Disconnect"
+msgstr "Б_айланысты үзу"
+
+msgid "_Disconnect Drive"
+msgstr "Дискті а_жырату"
+
+msgid "_Domain"
+msgstr "До_мен"
+
+msgid "_Down"
+msgstr "Тө_мен"
+
+msgid "_Edit"
+msgstr "Тү_зету"
+
+msgid "_Eject"
+msgstr "Ш_ығару"
+
+msgid "_End Process"
+msgstr "Үрдіс_ті аяқтау"
+
+msgid "_Execute"
+msgstr "Ор_ындау"
+
+msgid "_Family:"
+msgstr "_Отбасы:"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Fill"
+msgstr "Т_олтыру"
+
+msgid "_Find"
+msgstr "_Табу"
+
+msgid "_Find New Applications"
+msgstr "Жаңа қолданбаларды _табу"
+
+msgid "_Finish"
+msgstr "А_яқтау"
+
+msgid "_First"
+msgstr "_Бірінші"
+
+msgid "_Floppy"
+msgstr "Floppy д_искі"
+
+msgid "_Font"
+msgstr "Қа_ріп"
+
+msgid "_Format for:"
+msgstr "Ү_шін пішімдеу:"
+
+msgid "_Forward"
+msgstr "А_лға"
+
+msgid "_Fullscreen"
+msgstr "Т_олық экранға"
+
+msgid "_Green:"
+msgstr "Ж_асыл:"
+
+msgid "_Hard Disk"
+msgstr "Қ_атты диск"
+
+msgid "_Height:"
+msgstr "_Биіктігі:"
+
+msgid "_Help"
+msgstr "Кө_мек"
+
+msgid "_History"
+msgstr "_Тарихы"
+
+msgid "_Home"
+msgstr "Ү_й бумасы"
+
+msgid "_Hue:"
+msgstr "Р_еңі:"
+
+msgid "_Index"
+msgstr "_Мазмұны"
+
+msgid "_Information"
+msgstr "Ақ_параты"
+
+msgid "_Install"
+msgstr "Ор_нату"
+
+msgid "_Installed"
+msgstr "Орнат_ылған"
+
+msgid "_Installing"
+msgstr "Ор_натылуда"
+
+msgid "_Install…"
+msgstr "Ор_нату…"
+
+msgid "_Italic"
+msgstr "Кө_лбеу"
+
+msgid "_Jump to"
+msgstr "Ө_ту"
+
+msgid "_Last"
+msgstr "_Соңғы"
+
+msgid "_Launch"
+msgstr "Жөне_лту"
+
+msgid "_Leave Fullscreen"
+msgstr "Толық _экраннан шығу"
+
+msgid "_Left"
+msgstr "_Сол"
+
+msgid "_Left:"
+msgstr "Со_л жақ:"
+
+msgid "_Let’s Go Shopping"
+msgstr "_Шолуға өту"
+
+msgid "_License"
+msgstr "Л_ицензиясы"
+
+msgid "_Lock Drive"
+msgstr "Дискті б_локтау"
+
+msgid "_Mount"
+msgstr "Тір_кеу"
+
+msgid "_Move to Folder…"
+msgstr "_Бумаға жылжыту…"
+
+msgid "_Name:"
+msgstr "_Аты:"
+
+msgid "_Network"
+msgstr "Ж_елі"
+
+msgid "_Network Settings"
+msgstr "_Желі баптаулары"
+
+msgid "_New"
+msgstr "Ж_аңа"
+
+msgid "_Next"
+msgstr "_Келесі"
+
+msgid "_No"
+msgstr "Ж_оқ"
+
+msgid "_Normal Size"
+msgstr "Қалы_пты өлшемі"
+
+msgid "_Now"
+msgstr "Қ_азір"
+
+msgid "_OK"
+msgstr "О_К"
+
+msgid "_Only print:"
+msgstr "Т_ек шығару:"
+
+msgid "_Open"
+msgstr "_Ашу"
+
+msgid "_Open Link"
+msgstr "Сі_лтемені ашу"
+
+msgid "_Open With File Manager"
+msgstr "Файлдар басқарушысы көмегімен а_шу"
+
+msgid "_Orientation:"
+msgstr "Бағдар_ы:"
+
+msgid "_Output format"
+msgstr "Шығыс _пішімі"
+
+msgid "_Palette:"
+msgstr "_Палитра:"
+
+msgid "_Paper size:"
+msgstr "Қағаз өл_шемі:"
+
+msgid "_Password"
+msgstr "_Пароль"
+
+msgid "_Paste"
+msgstr "Кірі_стіру"
+
+msgid "_Play"
+msgstr "Ой_нату"
+
+msgid "_Power On"
+msgstr "І_ске қосу"
+
+msgid "_Preferences"
+msgstr "_Баптаулар"
+
+msgid "_Preview:"
+msgstr "А_лдын-ала қарау:"
+
+msgid "_Print"
+msgstr "Бас_паға шығару"
+
+msgid "_Properties"
+msgstr "Қас_иеттері"
+
+msgid "_Quit"
+msgstr "_Шығу"
+
+msgid "_Record"
+msgstr "Ж_азу"
+
+msgid "_Red:"
+msgstr "Қ_ызыл:"
+
+msgid "_Redo"
+msgstr "Қа_йталау"
+
+msgid "_Refresh"
+msgstr "Жаңар_ту"
+
+msgid "_Remember password"
+msgstr "Парольді ес_те сақтау"
+
+msgid "_Remove"
+msgstr "Ө_шіру"
+
+msgid "_Remove From List"
+msgstr "Ті_зімнен өшіру"
+
+msgid "_Remove from Folder"
+msgstr "Бумадан ө_шіру"
+
+msgid "_Removing"
+msgstr "Ө_шірілуде"
+
+msgid "_Replace"
+msgstr "А_лмастыру"
+
+msgid "_Reverse"
+msgstr "К_ері"
+
+msgid "_Revert"
+msgstr "Қай_тару"
+
+msgid "_Right"
+msgstr "_Оң"
+
+msgid "_Right:"
+msgstr "Оң ж_ақ:"
+
+msgid "_Safely Remove Drive"
+msgstr "Дискті қауіп_сіз шығару"
+
+msgid "_Save"
+msgstr "_Сақтау"
+
+msgid "_Save color here"
+msgstr "_Түсті осында сақтау"
+
+msgid "_Select"
+msgstr "_Таңдау"
+
+msgid "_Software Sources"
+msgstr "_БҚ қайнар көздері"
+
+msgid "_Spell Check"
+msgstr "Е_млені тексеру"
+
+msgid "_Start"
+msgstr "Ба_стау"
+
+msgid "_Start Multi-disk Device"
+msgstr "Көпдискті құрылғыны іске қ_осу"
+
+msgid "_Stop"
+msgstr "Т_оқтату"
+
+msgid "_Stop Multi-disk Device"
+msgstr "Көпдискті құрылғыны т_оқтату"
+
+msgid "_Strikethrough"
+msgstr "С_ызылған"
+
+msgid "_Style:"
+msgstr "_Стилі:"
+
+msgid "_Top"
+msgstr "Жоғар_ыға"
+
+msgid "_Top:"
+msgstr "Жоғар_ы:"
+
+msgid "_Undelete"
+msgstr "Ө_шірілгенді қалпына келтіру"
+
+msgid "_Underline"
+msgstr "Асты сы_зылған"
+
+msgid "_Undo"
+msgstr "Бол_дырмау"
+
+msgid "_Unlock Drive"
+msgstr "Құрылғыны бл_октаудан босату"
+
+msgid "_Unmount"
+msgstr "Тіркеуден бос_ату"
+
+msgid "_Up"
+msgstr "Жоғ_ары"
+
+msgid "_Updates"
+msgstr "Жаңар_тулар"
+
+msgid "_Username"
+msgstr "_Пайдаланушы аты"
+
+msgid "_Value:"
+msgstr "Мә_ні:"
+
+msgid "_View All Applications"
+msgstr "Барлық қолданбаларды қ_арау"
+
+msgid "_Visit File"
+msgstr "Бұл файлға _бару"
+
+msgid "_Website"
+msgstr "_Веб сайты"
+
+msgid "_Width:"
+msgstr "_Ені:"
+
+msgid "_Yes"
+msgstr "_Иә"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/bitcoin/workspace/src/qt/locale/bitcoin_kk_KZ.ts by load_ts_file"
+
+msgid "a2 Envelope"
+msgstr "a2 конверті"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abcdefghijk ABCDEFGHIJK"
+
+msgid "action name"
+msgstr "әрекет аты"
+
+msgid "and"
+msgstr "және"
+
+msgid "asme_f"
+msgstr "asme_f"
+
+msgid "b-plus"
+msgstr "b-plus"
+
+msgid "bidirectional"
+msgstr "қос бағытты"
+
+msgid "bidirectional, inverted"
+msgstr "қос бағытты, терістелген"
+
+msgid "c"
+msgstr "c"
+
+msgid "c5 Envelope"
+msgstr "c5 конверті"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "d"
+msgstr "d"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "e"
+msgstr "e"
+
+msgid "edp"
+msgstr "edp"
+
+msgid "f"
+msgstr "f"
+
+msgid "hagaki (postcard)"
+msgstr "hagaki (ашық хат)"
+
+msgid "height"
+msgstr "биiктiгi"
+
+msgid "inch"
+msgstr "дюйм"
+
+msgid "inverted"
+msgstr "терістелген"
+
+msgid "jis exec"
+msgstr "jis exec"
+
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+msgid "kahu Envelope"
+msgstr "kahu конверті"
+
+msgid "kaku2 Envelope"
+msgstr "kaku2 конверті"
+
+msgid "kaku3 Envelope"
+msgstr "kaku3 конверті"
+
+msgid "kaku4 Envelope"
+msgstr "kaku4 конверті"
+
+msgid "kaku5 Envelope"
+msgstr "kaku5 конверті"
+
+msgid "kaku7 Envelope"
+msgstr "kaku7 конверті"
+
+msgid "kaku8 Envelope"
+msgstr "kaku8 конверті"
+
+msgid "mm"
+msgstr "мм"
+
+msgid "mode"
+msgstr "режимі"
+
+msgid "no"
+msgstr "жоқ"
+
+msgid "on the website"
+msgstr "вебсайттан"
+
+msgid "or"
+msgstr "немесе"
+
+msgid "oufuku (reply postcard)"
+msgstr "oufuku (жауап ашық хаты)"
+
+msgid "output"
+msgstr "шығыс"
+
+msgid "pa-kai"
+msgstr "pa-kai"
+
+msgid "paused"
+msgstr "аялдатылған"
+
+msgid "prc 16k"
+msgstr "prc 16k"
+
+msgid "prc 32k"
+msgstr "prc 32k"
+
+msgid "prc1 Envelope"
+msgstr "prc1 конверті"
+
+msgid "prc10 Envelope"
+msgstr "prc10 конверті"
+
+msgid "prc2 Envelope"
+msgstr "prc2 конверті"
+
+msgid "prc3 Envelope"
+msgstr "prc3 конверті"
+
+msgid "prc4 Envelope"
+msgstr "prc4 конверті"
+
+msgid "prc5 Envelope"
+msgstr "prc5 конверті"
+
+msgid "prc6 Envelope"
+msgstr "prc6 конверті"
+
+msgid "prc7 Envelope"
+msgstr "prc7 конверті"
+
+msgid "prc8 Envelope"
+msgstr "prc8 конверті"
+
+msgid "prc9 Envelope"
+msgstr "prc9 конверті"
+
+msgid "printer offline"
+msgstr "принтер қосылмаған"
+
+msgid "processing job"
+msgstr "тапсырманы өңдеу"
+
+msgid "ready to print"
+msgstr "басып шығаруға дайын"
+
+msgid "resize"
+msgstr "өлшемін өзгерту"
+
+msgid "this website"
+msgstr "бұл вебсайт"
+
+msgid "unknown"
+msgstr "белгісіз"
+
+msgid "visible"
+msgstr "көрінетін"
+
+msgid "width"
+msgstr "ені"
+
+msgid "you4 Envelope"
+msgstr "you4 конверті"
+
+msgid "you6 Envelope"
+msgstr "you6 конверті"

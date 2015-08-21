@@ -1,0 +1,5441 @@
+msgid "(None)"
+msgstr "(Nanye)"
+
+msgid "A GdkPixbuf to display"
+msgstr "I-GdkPixbuf emayibonakaliswe"
+
+msgid "A GtkPackType indicating whether the child is packed with reference to the start or end of the parent"
+msgstr "I-GtkPackType ebonisa ukuba inkqubo engumntwana ipakishwe ngokunxulumene nesiqalo okanye isiphelo senkqubo engunozala na"
+
+msgid "A boolean that determines whether the menu grabs the keyboard focus"
+msgstr "I-boolean ebonisa ukuba imenyu isusiwe na"
+
+msgid "A boolean that indicates whether the menu is torn-off"
+msgstr "I-boolean ebonisa ukuba imenyu isusiwe na"
+
+msgid "A boolean that indicates whether the menu reserves space for toggles and icons"
+msgstr "I-boolean ebonisa ukuba imenyu isusiwe na"
+
+msgid "A column in the data source model to get the strings from"
+msgstr "Ikholam kwimodeli engumthombo wedata apho uluhlu lwamagama lufumaneka khona"
+
+msgid "A list of style attributes to apply to the text of the label"
+msgstr "Uluhlu lwesimbo seempawu emazisetyenziswe kumbhalo welebhile"
+
+msgid "A list of style attributes to apply to the text of the renderer"
+msgstr "Uluhlu lwesimbo seempawu ezimelwe ukufakwa kumbhalo womnikezeli"
+
+msgid "A logo for the about box. If this is not set, it defaults to gtk_window_get_default_icon_list()"
+msgstr "Ilogo yebhokisi yokumalunga. Ukuba ngaba ayimiselwanga, iya kwimo emiliselweyo gtk_window_get_default_icon_list()"
+
+msgid "A name for the action group."
+msgstr "Igama leqela lezenzo."
+
+msgid "A named icon to use as the logo for the about box."
+msgstr "Umfanekiso ongumqondiso onegama osetyenziswa njengelogo kwibhokisi yokumalunga."
+
+msgid "A palette of named colors for use in themes"
+msgstr "Igama lomfanekiso ongumqondiso elikwisihloko somfanekiso ongumqondiso"
+
+msgid "A shorter label that may be used on toolbar buttons."
+msgstr "Ilebhile emfutshanana enokusetyenziswa kumaqhosha e-toolbar."
+
+msgid "A string with _ characters in positions correspond to characters in the text to underline"
+msgstr "Uluhlu lwamagama oluneempawu _ kwiindawo ezihambelana neempawu kumbhalo emawukrwelele umgca ngaphantsi"
+
+msgid "A title that may be displayed by the window manager when the popup is torn-off"
+msgstr "Isihloko esinokuboniswa ngumlawuli wefestile xa isusiwe imenyu"
+
+msgid "A title that may be displayed by the window manager when this menu is torn-off"
+msgstr "Isihloko esinokuboniswa ngumlawuli wefestile xa isusiwe imenyu"
+
+msgid "A tooltip for this action."
+msgstr "Inkcazelo yesixhobo yesi senzo."
+
+msgid "A unique name for the action."
+msgstr "Igama elohlukileyo lesenzo."
+
+msgid "A widget to display in place of the usual expander label"
+msgstr "Isixhobo emasibonakaliswe endaweni yelebhile eqhelekileyo yesandiso"
+
+msgid "A widget to display in place of the usual frame label"
+msgstr "Isixhobo emasibonakaliswe endaweni yelebhile eqhelekileyo ye-frame"
+
+msgid "A widget to display in place of the usual label"
+msgstr "Isixhobo emasibonakaliswe endaweni yelebhile eqhelekileyo ye-frame"
+
+msgid "Above child"
+msgstr "Inkqubo engumntwana engentla"
+
+msgid "Accel Group"
+msgstr "Iqela Lezenzo"
+
+msgid "Accelerator Closure"
+msgstr "Isivalo Sesinqumlisi"
+
+msgid "Accelerator Mode"
+msgstr "Isixhobo Esisisinqumlisi"
+
+msgid "Accelerator Widget"
+msgstr "Isixhobo Esisisinqumlisi"
+
+msgid "Accelerator key"
+msgstr "Isixhobo Esisisinqumlisi"
+
+msgid "Accelerator keycode"
+msgstr "Isixhobo Esisisinqumlisi"
+
+msgid "Accelerator modifiers"
+msgstr "Isixhobo Esisisinqumlisi"
+
+msgid "Accept focus"
+msgstr "Iyalwamkela ugxininiso"
+
+msgid "Accepting Jobs"
+msgstr "Iyalwamkela ugxininiso"
+
+msgid "Accepts PDF"
+msgstr "Iyabamkela oo-tab"
+
+msgid "Accepts PostScript"
+msgstr "Iyabamkela oo-tab"
+
+msgid "Accepts tab"
+msgstr "Iyabamkela oo-tab"
+
+msgid "Action"
+msgstr "Isenzo"
+
+msgid "Action Group"
+msgstr "Iqela Lezenzo"
+
+msgid "Action area border"
+msgstr "Indawo engumda wesenzo"
+
+msgid "Activatable"
+msgstr "Unokuyenza isebenze"
+
+msgid "Activates default"
+msgstr "Yenza ukuba imo emiselweyo isebenze"
+
+msgid "Active"
+msgstr "Oyisebenzisa ngoku"
+
+msgid "Active item"
+msgstr "Into esebenza ngoku"
+
+msgid "Add tearoffs to menus"
+msgstr "Fakela okususwayo kwiimenyu"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "Yongeza esi siqulathi sefayili osenzayo kwi-bookmarks"
+
+msgid "Add the folder '%{string}' to the bookmarks"
+msgstr "Yongeza isiqulathi sefayili '%{string}' kwi-bookmarks"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "Yongeza isiqulathi seefayili esikhethileyo kwi-Bookmarks"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "Yongeza iziqulathi zeefayili ezikhethiweyo kwii-bookmarks"
+
+msgid "Adjustment"
+msgstr "Uhlenga-hlengiso"
+
+msgid "Align set"
+msgstr "Ulungelelaniso"
+
+msgid "Alignment"
+msgstr "Ulungelelaniso"
+
+msgid "All Margins"
+msgstr "Umda wephepha"
+
+msgid "Allow Async"
+msgstr "Vumela Imithetho"
+
+msgid "Allow Rules"
+msgstr "Vumela Imithetho"
+
+msgid "Allow drawing of alternating color rows"
+msgstr "Vumela ukuzotywa kwemigca enemibala etshiselanayo"
+
+msgid "Allow folder creation"
+msgstr "Bonisa imisebenzi yeefayili"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Alternative button order"
+msgstr "Enye indlela yeqhosha"
+
+msgid "Alternative sort indicator direction"
+msgstr "Enye indlela yeqhosha"
+
+msgid "Amharic (EZ+)"
+msgstr "I-Amharic (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "Ubungakanani bokukhanya okubhlowu kuloo mbala."
+
+msgid "Amount of border space between the menubar shadow and the menu items"
+msgstr "Ubungakanani besithuba somda esiphakathi kwesithunzi somgca wemenyu kunye nezo zinto zikhethwa kwimenyu"
+
+msgid "Amount of border space between the toolbar shadow and the buttons"
+msgstr "Ubungakanani besithuba somda esiphakathi kwesithunzi se-toolbar kunye namaqhosha"
+
+msgid "Amount of green light in the color."
+msgstr "Ubungakanani bokukhanya okuluhlaza kuloo mbala."
+
+msgid "Amount of red light in the color."
+msgstr "Ubungakanani bombala obomvu kuloo mbala."
+
+msgid "Amount to increase child's size on either side"
+msgstr "Ubungakangani bokwandisa inkqubo engumntwana kumacala omabini"
+
+msgid "Amount to increase child's size on the top and bottom"
+msgstr "Ubungakanani ekumelwe bandiswe ngako ubukhulu benkqubo engumntwana emantla nasemazantsi"
+
+msgid "Amount to indent the paragraph, in pixels"
+msgstr "Ubungakanani boqaliso nganeno komhlathi, ngokwee-pixels"
+
+msgid "An XML string describing the merged UI"
+msgstr "Uluhlu lwamagama lwe-XML elichaza i-UI ehlangeneyo"
+
+msgid "Angle"
+msgstr "I-engile"
+
+msgid "Angle at which the label is rotated"
+msgstr "I-engile ejikeleziswe ngayo ilebhile"
+
+msgid "Animation"
+msgstr "Upopayi"
+
+msgid "Animation duration"
+msgstr "Upopayi"
+
+msgid "Any Printer"
+msgstr "_Shicilela"
+
+msgid "Appearance of the frame border"
+msgstr "Imbonakalo yomda we-frame"
+
+msgid "Appearance of the shadow surrounding the arrow"
+msgstr "Imbonakalo yesithunzi esijikeleze isalathisi"
+
+msgid "Appearance of the shadow that surrounds the container"
+msgstr "Imbonakalo yesithunzi esijikeleze isikhongozeli"
+
+msgid "Appears as list"
+msgstr "Ivela njengoluhlu"
+
+msgid "Application"
+msgstr "_Indawo:"
+
+msgid "Application paintable"
+msgstr "Inkqubo enokupeyinteka"
+
+msgid "Application prefers a dark theme"
+msgstr "Inkqubo enokupeyinteka"
+
+msgid "Application supplied widget for custom previews."
+msgstr "Isixhobo esinekeziweyo senkqubo yekhompyutha esisetyenziselwa ukuqale ubone kwimo eziqhelekileyo."
+
+msgid "Application supplied widget for extra options."
+msgstr "Isixhobo esinekeziweyo senkqubo yekhompyutha sezinto ekunokukhethwa kuzo ezithe xhaxhe."
+
+msgid "Arrow Placement"
+msgstr "Ushenxiso Ngokwendawo Lwesalathisi u-X"
+
+msgid "Arrow Scaling"
+msgstr "Ukufaka Izithuba Phakathi Kwemigca"
+
+msgid "Arrow Size"
+msgstr "Icala lesalathisi"
+
+msgid "Arrow X Displacement"
+msgstr "Ushenxiso Ngokwendawo Lwesalathisi u-X"
+
+msgid "Arrow Y Displacement"
+msgstr "Ushenxiso Ngokwendawo Lwesalathisi u-Y"
+
+msgid "Arrow direction"
+msgstr "Icala lesalathisi"
+
+msgid "Arrow scaling"
+msgstr "Ukufaka Izithuba Phakathi Kwemigca"
+
+msgid "Arrow shadow"
+msgstr "Isithunzi sesalathisi"
+
+msgid "Arrow spacing"
+msgstr "Ukufaka Izithuba Phakathi Kwemigca"
+
+msgid "Artists"
+msgstr "Abazobi"
+
+msgid "Artwork by"
+msgstr "Umsebenzi wobugcisa ngu"
+
+msgid "Aspect ratio if obey_child is FALSE"
+msgstr "Umba wolwalamano ukuba ngaba inkqubo engumntwana_ethobelayo FALSE"
+
+msgid "Aspect ratio with which to draw insertion cursor"
+msgstr "Umba wolalwamano ezotywa ngawo ikhesa yokufakela"
+
+msgid "Attach Widget"
+msgstr "Esinye isixhobo"
+
+msgid "Attributes"
+msgstr "Iimpawu"
+
+msgid "Authentication"
+msgstr "_Indawo:"
+
+msgid "Authors"
+msgstr "Abaqulunqi"
+
+msgid "Auto Mnemonics"
+msgstr "Upopayi"
+
+msgid "Auto Select"
+msgstr "Ukukhetha ifonti"
+
+msgid "BackSpace"
+msgstr "_Yinike elinye igama"
+
+msgid "Backend for the printer"
+msgstr "i-GdkScreen yomnikezeli"
+
+msgid "Background color"
+msgstr "Umbala wokuvela ngasemva"
+
+msgid "Background color as a (possibly unallocated) GdkColor"
+msgstr "Umbala wokuvela ngasemva njenge-GdkColor (usenokunganikwa)"
+
+msgid "Background color as a GdkColor"
+msgstr "Umbala wokuvela ngasemva njenge-GdkColor"
+
+msgid "Background color as a string"
+msgstr "Umbala wokuvela ngasemva woluhlu lwamagama"
+
+msgid "Background color name"
+msgstr "Igama lombala wokuvela ngasemva"
+
+msgid "Background full height"
+msgstr "Umphakamo opheleleyo wokuvela ngasemva"
+
+msgid "Background full height set"
+msgstr "Ukumisela umphakamo opheleleyo wokuvela ngasemva"
+
+msgid "Background set"
+msgstr "Ukumisela okuvela ngasemva"
+
+msgid "Backward stepper"
+msgstr "I-stepper sangasemva"
+
+msgid "Best _Fit"
+msgstr "Ilingana_kakuhle"
+
+msgid "Border around the progress bar"
+msgstr "Umbhalo okwisikhombisi senkqubela"
+
+msgid "Border relief"
+msgstr "Umda obonakala ngokucacileyo"
+
+msgid "Border width"
+msgstr "Ububanzi bomda"
+
+msgid "Bottom Attach"
+msgstr "Qhoboshela Ngezantsi"
+
+msgid "Bottom Padding"
+msgstr "Ukongeza Iinkcukacha Emazantsi"
+
+msgid "Bottom attachment"
+msgstr "Isiqhoboshelo esisemazantsi"
+
+msgid "Brightness of the color."
+msgstr "Ukuqaqamba kombala."
+
+msgid "Buffer"
+msgstr "Isigcini sethutyana"
+
+msgid "Button relief"
+msgstr "Umda weqhosha"
+
+msgid "Button spacing"
+msgstr "Ukunika amaqhosha izithuba"
+
+msgid "CLASS"
+msgstr "UDIDI"
+
+msgid "COLORS"
+msgstr "IMIBALA"
+
+msgid "C_ollate"
+msgstr "D_ala"
+
+msgid "C_onnect"
+msgstr "_Guqula"
+
+msgid "C_redits"
+msgstr "ii-C_redits"
+
+msgid "C_urrent Page"
+msgstr "D_ala"
+
+msgid "Can be used to add a new child to the container"
+msgstr "Inokusetyenziselwa ukongeza inkqubo engumntwana entsha kwisikhongozelo"
+
+msgid "Can change accelerators"
+msgstr "Unako ukutshintsha izinqumlisi"
+
+msgid "Can default"
+msgstr "Inokumiliselwa"
+
+msgid "Can focus"
+msgstr "Inokugxila"
+
+msgid "Cancel Button"
+msgstr "Amaqhosha Omyalezo"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "Awunakuguqukela kwisiqulathi seefayili kuba asinakufikeleleka ngqo"
+
+msgid "Caps Lock is on"
+msgstr "Vula _Indawo"
+
+msgid "Cedilla"
+msgstr "I-Cedilla"
+
+msgid "Cell background color"
+msgstr "Umbala wokuvela ngasemva kwi-cell"
+
+msgid "Cell background color as a GdkColor"
+msgstr "Umbala wokuvela ngasemva kwi-cell njenge-GdkColor"
+
+msgid "Cell background color as a string"
+msgstr "Umbala wokuvela ngasemva kwi-cell njengoluhlu lwamagama"
+
+msgid "Cell background color name"
+msgstr "Igama lombala wokuvela ngasemva kwi-cell"
+
+msgid "Cell background set"
+msgstr "Ukumisela okuvela ngasemva kwi-cell"
+
+msgid "CellView model"
+msgstr "Imodeli Ye-TreeView"
+
+msgid "Child"
+msgstr "Inkqubo engumntwana"
+
+msgid "Child X Displacement"
+msgstr "Ukushenxiswa Kwendawo Kwenkqubo Engumntwana u-X"
+
+msgid "Child Y Displacement"
+msgstr "Ukushenxiswa kwendawo yenkqubo engumntwana u-Y"
+
+msgid "Child internal height padding"
+msgstr "Isongezo seenkcukacha sangaphakathi ngomphakamo kwinkqubo engumntwana"
+
+msgid "Child internal width padding"
+msgstr "Isongezo seenkcukacha sangaphakathi ngobubanzi kwinkqubo engumntwana"
+
+msgid "Child widget to appear next to the button text"
+msgstr "Isixhobo senkqubo engumntwana emasivele ecaleni kweqhosha lombhalo"
+
+msgid "Child widget to appear next to the menu text"
+msgstr "Isixhobo senkqubo engumntwana emasibonakale ecaleni kombhalo wemenyu"
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "Cofa isehlisi-liso, ze ucofe umbala nokuba kuphi na kwiskrini sakho ukukhetha loo mbala."
+
+msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr "Cofa le ngqokelela yezixhobo wenze umbala onawo ngoku. Ukuguqula le ngeniso, tsala umbala apha okanye yicofe ekunene ze ukhethe u \"Wugcine apha umbala.\""
+
+msgid "Clickable"
+msgstr "Iyacofeka"
+
+msgid "Climb Rate"
+msgstr "Isantya Sokwenyuka"
+
+msgid "Climb rate"
+msgstr "Isantya Sokwenyuka"
+
+msgid "Co_nnect"
+msgstr "_Guqula"
+
+msgid "Color"
+msgstr "_Umbala"
+
+msgid "Color Hash"
+msgstr "Umbala wesithuba"
+
+msgid "Color Selection"
+msgstr "Ukukhetha I-hover"
+
+msgid "Color Wheel"
+msgstr "Ivili lemibala"
+
+msgid "Color _name:"
+msgstr "Igama _lombala:"
+
+msgid "Color of the selection box"
+msgstr "Umbala webhokisi yokukhetha"
+
+msgid "Color of unvisited links"
+msgstr "Umbala wezinxulumanisi ezisuka kwezinye"
+
+msgid "Color of visited links"
+msgstr "Umbala wezinxulumanisi ezisuka kwezinye"
+
+msgid "Color scheme"
+msgstr "Umbala wesithuba"
+
+msgid "Color to use for even rows"
+msgstr "Umbala omawusetyenziswe kwimigca engoonombini"
+
+msgid "Color to use for odd rows"
+msgstr "Umbala omawusetyenziswe kwimigca emnqakathi"
+
+msgid "Color with which to draw error-indication underlines"
+msgstr "Umbala wokuzoba imigca yokukrwela ngaphantsi"
+
+msgid "Color with which to draw insertion cursor"
+msgstr "Umbala ekungazotywa ngawo ikhesa yokufakela"
+
+msgid "Color with which to draw the secondary insertion cursor when editing mixed right-to-left and left-to-right text"
+msgstr "Umbala ekungazotywa ngawo ikhesa yokufakela ekudidi lwesibini xa kuhlelwa umbhalo oyingxubevange yokunene-ukuya-ekhohlo nekhohlo-ukuya ekunene"
+
+msgid "Column Spacing"
+msgstr "Ukufaka Izithuba Phakathi Kweekholam"
+
+msgid "Column gets share of extra width allocated to the widget"
+msgstr "Ikholam ifumana isuntswana lobubanzi obuthe xhaxhe obabelwe isixhobo"
+
+msgid "Column headers respond to click events"
+msgstr "Okubhalwe emantla ephepha kwiikholam kuyaluva ucofeko"
+
+msgid "Column is user-resizable"
+msgstr "Umsebenzisi unokubutshintsha lula ubungakanani bekholam"
+
+msgid "Column spacing"
+msgstr "Ukufaka izithuba kwiikholam"
+
+msgid "Column span column"
+msgstr "Umgama ophakathi kwekholam nekholam"
+
+msgid "Columns"
+msgstr "Iikholam"
+
+msgid "ComboBox model"
+msgstr "Imodeli yebhokisi enoludwe onokukhetha kulo"
+
+msgid "Comments about the program"
+msgstr "Izimvo malunga nenkqubo"
+
+msgid "Comments string"
+msgstr "Uluhlu lwamagama olungezimvo"
+
+msgid "Completion Model"
+msgstr "Imodeli Yokugqibezela"
+
+msgid "Composite child"
+msgstr "Inkqubo engumntwana edityanisiweyo"
+
+msgid "Content Padding"
+msgstr "Ukongeza Iinkcukacha Emazantsi"
+
+msgid "Content area border"
+msgstr "Indawo engumda wokuqulathiweyo"
+
+msgid "Content area spacing"
+msgstr "Ukongeza Iinkcukacha Emazantsi"
+
+msgid "Copy URL"
+msgstr "_Kopa"
+
+msgid "Copy _Location"
+msgstr "Vula _Indawo"
+
+msgid "Copy target list"
+msgstr "Uluhlu lwamagama olungamalungelo ombhali"
+
+msgid "Copyright information for the program"
+msgstr "Ulwazi ngenkqubo olungamalungelo ombhali"
+
+msgid "Copyright string"
+msgstr "Uluhlu lwamagama olungamalungelo ombhali"
+
+msgid "Could not add a bookmark"
+msgstr "Asinakuyongeza le bookmark"
+
+msgid "Could not clear list"
+msgstr "Ayikwazanga ukukhetha into"
+
+msgid "Could not remove bookmark"
+msgstr "Asinako ukuyisusa le-bookmark"
+
+msgid "Could not remove item"
+msgstr "Ayikwazanga ukukhetha into"
+
+msgid "Could not retrieve information about the file"
+msgstr "Alufumaneki ulwazi ngale fayili"
+
+msgid "Could not select file"
+msgstr "Ayikwazanga ukukhetha into"
+
+msgid "Could not send the search request"
+msgstr "Ayikwazanga ukugcina okuseleyo"
+
+msgid "Could not show link"
+msgstr "Ayikwazanga ukukhetha into"
+
+msgid "Could not start the search process"
+msgstr "Ayikwazanga ukugcina okuseleyo"
+
+msgid "Create Fo_lder"
+msgstr "Dala isiqulathi_seefayili"
+
+msgid "Create in _folder:"
+msgstr "Dalela kwi _siqulathi seefayili:"
+
+msgid "Create the same proxies as a radio action"
+msgstr "Yakha ii-proxies ezifanayo nesenzo sikanomathotholo"
+
+msgid "Credits"
+msgstr "ii-Credits"
+
+msgid "Credits to the translators. This string should be marked as translatable"
+msgstr "Amanqaku abaguquli. Uluhlu lwamagama kufuneka luboniswe njengelunokuguqulwa"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cu_t"
+msgstr "Si_ka"
+
+msgid "Current Alpha"
+msgstr "I-Alpha Yangoku"
+
+msgid "Current Color"
+msgstr "Umbala Wangoku"
+
+msgid "Current Page"
+msgstr "I-Alpha Yangoku"
+
+msgid "Current fixed width of the column"
+msgstr "Ububanzi obusisigxina bekholam belo xesha"
+
+msgid "Current text of the buffer"
+msgstr "Umbhalo welebhile"
+
+msgid "Current width of the column"
+msgstr "Ububanzi bangoku bekholam"
+
+msgid "Cursor"
+msgstr "Udanyazo Lwekhesa"
+
+msgid "Cursor Blink"
+msgstr "Udanyazo Lwekhesa"
+
+msgid "Cursor Blink Time"
+msgstr "Ixesha Lokudanyaza Kwekhesa"
+
+msgid "Cursor Blink Timeout"
+msgstr "Ixesha Lokudanyaza Kwekhesa"
+
+msgid "Cursor Position"
+msgstr "Indawo Yekhesa"
+
+msgid "Cursor Visible"
+msgstr "Ikhesha Ebonakalayo"
+
+msgid "Cursor color"
+msgstr "Umbala wekhesa"
+
+msgid "Cursor line aspect ratio"
+msgstr "Umba wolalwamano lomgca wekhesa"
+
+msgid "Cursor position"
+msgstr "Indawo Yekhesa"
+
+msgid "Cursor theme name"
+msgstr "Igama Lomxholo Womfanekiso Ongumqondiso"
+
+msgid "Cursor theme size"
+msgstr "Ikhesha Ebonakalayo"
+
+msgid "Custom palette"
+msgstr "Ingqokelela yezixhobo ozenzelayo"
+
+msgid "Custom tab label"
+msgstr "Ingqokelela yezixhobo ozenzelayo"
+
+msgid "Custom tabs for this text"
+msgstr "Oo-tab abaqhelekileyo balo mbhalo"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "I-Cyrillic (Ebhalwe ngoonobumba bolunye uhlobo)"
+
+msgid "DISPLAY"
+msgstr "BONISA KWISKRINI"
+
+msgid "Dash pattern used to draw the focus indicator"
+msgstr "Ipateni eqhawu-qhawukayo esetyenziswa ukuzoba isibonisi esigxilayo"
+
+msgid "Dash pattern used to draw the tree view grid lines"
+msgstr "Ipateni eqhawu-qhawukayo esetyenziswa ukuzoba isibonisi esigxilayo"
+
+msgid "Dash pattern used to draw the tree view lines"
+msgstr "Ipateni eqhawu-qhawukayo esetyenziswa ukuzoba isibonisi esigxilayo"
+
+msgid "Day"
+msgstr "Usuku"
+
+msgid "Decorated"
+msgstr "Ehonjisiweyo"
+
+msgid "Decrease Indent"
+msgstr "Cutha Ukuqalisa nganeno"
+
+msgid "Default Display"
+msgstr "Okumiselweyo Okubonakala Kwiskrini"
+
+msgid "Default Height"
+msgstr "Umphakamo Omiselweyo"
+
+msgid "Default IM module"
+msgstr "Ububanzi Obumiselweyo"
+
+msgid "Default Outside Spacing"
+msgstr "Ukunika Izithuba Kwangaphandle Okumiliselweyo"
+
+msgid "Default Page Setup"
+msgstr "Umphakamo Omiselweyo"
+
+msgid "Default Spacing"
+msgstr "Ukunika Izithuba Okumiliselweyo"
+
+msgid "Default Width"
+msgstr "Ububanzi Obumiselweyo"
+
+msgid "Default file chooser backend"
+msgstr "Icala elingemva lesikhethi esimiliselweyo sefayili"
+
+msgid "Default print backend"
+msgstr "Icala elingemva lesikhethi esimiliselweyo sefayili"
+
+msgid "Delay before drop down menus appear"
+msgstr "Libazisa ngaphambi iimenyu ezinoluhlu olwehlayo zivele"
+
+msgid "Delay before hiding a submenu"
+msgstr "Libazisa ngaphambi kokufihla imenyu engaphakathi kwenye"
+
+msgid "Delay before submenus appear"
+msgstr "Libazisa ngaphambi kokuba zivele iimenyu ezingaphakathi kwezinye"
+
+msgid "Delay before the submenus of a menu bar appear"
+msgstr "Libazisa ngaphambi kokuba iimenyu ezingaphakathi kwezinye zomgca wemenyu zivele"
+
+msgid "Deletable"
+msgstr "Iyakhetheka"
+
+msgid "Delete"
+msgstr "_Cima"
+
+msgid "Desktop"
+msgstr "I-Desktop"
+
+msgid "Destroy with Parent"
+msgstr "Tshabalalisa kunye Nenkqubo Engunozala"
+
+msgid "Detail"
+msgstr "Inkcazelo"
+
+msgid "Details Height"
+msgstr "Umphakamo Omiselweyo"
+
+msgid "Details Width"
+msgstr "Ububanzi Obumiselweyo"
+
+msgid "Details width in characters"
+msgstr "Obona Bubanzi Bukhulu Ngokweempawu"
+
+msgid "Determines how the shadowed box around the viewport is drawn"
+msgstr "Imisela indlela yokuzoba ibhokisi enesithunzi ijikeleze imbonakalo ye-port"
+
+msgid "Device Display"
+msgstr "Okumiselweyo Okubonakala Kwiskrini"
+
+msgid "Device name"
+msgstr "Igama lesixhobo"
+
+msgid "Device type"
+msgstr "Udidi lwegophe"
+
+msgid "Dialog"
+msgstr "Unxibelelwano"
+
+msgid "Digits"
+msgstr "Imivo"
+
+msgid "Disabled"
+msgstr "Ukwenza ingasebenzi"
+
+msgid "Displace focus"
+msgstr "Shenxisa indawo yoxinzelelo"
+
+msgid "Display"
+msgstr "Okumiselweyo Okubonakala Kwiskrini"
+
+msgid "Display a second backward arrow button on the opposite end of the scrollbar"
+msgstr "Bonisa iqhosha lesalathisi esijonge ngasemva esikudidi lwesibinikwelinye icala lomgca wokwehlisa usenyusa"
+
+msgid "Display a second backward arrow button on the opposite end of the tab area"
+msgstr "Bonisa iqhosha lesibini lesalathisi esijonge ngasemva kwelinye icala elisekugqibeleni lendawo ka-tab"
+
+msgid "Display a second forward arrow button on the opposite end of the scrollbar"
+msgstr "Bonisa iqhosha lesalathisi esijonge ngaphambili esikudidi lwesibinikwelinye icala lomgca wokwehlisa usenyusa"
+
+msgid "Display a second forward arrow button on the opposite end of the tab area"
+msgstr "Bonisa iqhosha lesibini lesalathisi esijonge ngaphambili kwelinye icala elisekugqibeleni lendawo ka-tab"
+
+msgid "Display for the device manager"
+msgstr "Bonisa i-cell"
+
+msgid "Display the cell"
+msgstr "Bonisa i-cell"
+
+msgid "Display the cell sensitive"
+msgstr "Bonisa i-cell njengenovakalelo"
+
+msgid "Display the standard backward arrow button"
+msgstr "Bonisa iqhosha eliqhelekileyo lesalathisi esijonge ngasemva"
+
+msgid "Display the standard forward arrow button"
+msgstr "Bonisa iqhosha eliqhelekileyo lesalathisi esijonge ngaphambili"
+
+msgid "Display which the device belongs to"
+msgstr "Bonisa i-cell njengenovakalelo"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Musa ukusebenzisa i-Wintab API [emiselweyo]"
+
+msgid "Documented by"
+msgstr "Ibhalwe ngu"
+
+msgid "Documenters"
+msgstr "Ababhali"
+
+msgid "Domain:"
+msgstr "_Indawo:"
+
+msgid "Don't batch GDI requests"
+msgstr "Musa ukubeka izicelo ze-GDI ngokwamaqela"
+
+msgid "Don't change slider size, just lock it to the minimum length"
+msgstr "Ungabutshintsi ubungakanani beslayida, butshixe bube bobona bude bufutshane"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "Musa ukusebenzisa i-Wintab API ukuxhasa isiba lokuzoba umfanekiso"
+
+msgid "Double Arrows"
+msgstr "Bonisa Isalathisi"
+
+msgid "Double Buffered"
+msgstr "Isigcini sethutyana"
+
+msgid "Double Click Distance"
+msgstr "Cofa Umgama Kabini"
+
+msgid "Double Click Time"
+msgstr "Cofa Ixesha Kabini"
+
+msgid "Down"
+msgstr "_Phantsi"
+
+msgid "Drag threshold"
+msgstr "Rhuqa umda"
+
+msgid "Draw"
+msgstr "Zoba"
+
+msgid "Draw Indicator"
+msgstr "Zoba Isibonisi"
+
+msgid "Draw Value"
+msgstr "Zoba Ixabiso"
+
+msgid "Draw as radio menu item"
+msgstr "Zoba njengokukhethwa kwimenyu kanomathotholo"
+
+msgid "Draw the toggle button as a radio button"
+msgstr "Zoba iqhosha le-toggle njengeqhosha likanomathotholo"
+
+msgid "Editability set"
+msgstr "Ukumisela ukuhleleka"
+
+msgid "Editable"
+msgstr "Iyahleleka"
+
+msgid "Editable mode of the CellRenderer"
+msgstr "Inkqubo enokuhleleka ye-CellRenderer"
+
+msgid "Editing"
+msgstr "Ukwenza ubungakanani"
+
+msgid "Editing Canceled"
+msgstr "Ukwenza ubungakanani"
+
+msgid "Ellipsize"
+msgstr "Ubungakanani bobumbhoxo"
+
+msgid "Ellipsize set"
+msgstr "Ukumisela ubungakanani bobumbhoxo"
+
+msgid "Embed Page Setup"
+msgstr "Ubungakanani Bephepha"
+
+msgid "Empty"
+msgstr "Ayinanto"
+
+msgid "Enable Accelerators"
+msgstr "Unako ukutshintsha izinqumlisi"
+
+msgid "Enable Animations"
+msgstr "Upopayi"
+
+msgid "Enable Event Sounds"
+msgstr "Upopayi"
+
+msgid "Enable Grid Lines"
+msgstr "Ukwenza amaqhosha ezalathisi asebenze"
+
+msgid "Enable Mnemonics"
+msgstr "Upopayi"
+
+msgid "Enable Popup"
+msgstr "Yenza Okuvelayo Kusebenze"
+
+msgid "Enable Search"
+msgstr "Yenza uKhangela asebenze"
+
+msgid "Enable Tooltips"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Enable Tree Lines"
+msgstr "Ukwenza amaqhosha ezalathisi asebenze"
+
+msgid "Error"
+msgstr "Impazamo"
+
+msgid "Error color"
+msgstr "Umbala wekhesa"
+
+msgid "Error underline color"
+msgstr "Impazamo kumbala wokukrwela ngaphantsi"
+
+msgid "Even Row Color"
+msgstr "Umbala Wemigca Engoonombini"
+
+msgid "Event base"
+msgstr "Izehlo"
+
+msgid "Events"
+msgstr "Izehlo"
+
+msgid "Executive"
+msgstr "_Phumeza"
+
+msgid "Expand"
+msgstr "Yandisa"
+
+msgid "Expand timeout"
+msgstr "Ubungakanani Besandisi"
+
+msgid "Expanded"
+msgstr "Yandisiwe"
+
+msgid "Expander Column"
+msgstr "Ikholam Yokwandisa"
+
+msgid "Expander Size"
+msgstr "Ubungakanani Besandisi"
+
+msgid "Export filename"
+msgstr "Igama lefayili"
+
+msgid "Extension events"
+msgstr "Izehlo ezongeziweyo"
+
+msgid "Extra space at the left and right edges of the menu"
+msgstr "Isithuba esithe xhaxhe esisemantla nasemazantsi kwemenyu"
+
+msgid "Extra space at the top and bottom of the menu"
+msgstr "Isithuba esithe xhaxhe esisemantla nasemazantsi kwemenyu"
+
+msgid "Extra space to add for GTK_CAN_DEFAULT buttons"
+msgstr "Isithuba esithe xhaxhe sokufakela amaqhosha CAN_DEFAULT"
+
+msgid "Extra space to add for GTK_CAN_DEFAULT buttons that is always drawn outside the border"
+msgstr "Isithuba esithe xhaxhe sokufakela amaqhosha CAN_DEFAULT esisoloko sizotywa ngaphandle komda"
+
+msgid "Extra space to put between the child and its left and right neighbors, in pixels"
+msgstr "Isithuba esithe xhaxhe emasifakwe phakathi kwenkqubo engumntwana kunye nabamelwane bayo abasekhohlo nabasekunene, ngokwee-pixels"
+
+msgid "Extra space to put between the child and its neighbors, in pixels"
+msgstr "Isithuba esithe xhaxhe esifakwa phakathi kwenkqubo engumntwana kunye nabamelwane bayo, ngokwee-pixels"
+
+msgid "Extra space to put between the child and its upper and lower neighbors, in pixels"
+msgstr "Isithuba esithe xhaxhe emasifakwe phakathi kwenkqubo engumntwana kunye nabamelwane bayo abaphezulu nabasezantsi, ngokwee-pixels"
+
+msgid "Extra widget"
+msgstr "Esinye isixhobo"
+
+msgid "FALSE displays the \"invisible char\" instead of the actual text (password mode)"
+msgstr "FALSE ubonakalisa \"invisible char\" endaweni yenkqu yombhalo (inkqubo ye-password)"
+
+msgid "FALSE removes outside bevel from entry"
+msgstr "FALSE ususa umphetho ongaphandle kwesingeniso"
+
+msgid "FLAGS"
+msgstr "Ii-FLAGS"
+
+msgid "Failed to load icon"
+msgstr "Ayiphumelelanga ukufaka umfanekiso we-TIFF"
+
+msgid "Failed to load image '%{string}': reason not known, probably a corrupt image file"
+msgstr "Ukufaka umfanekiso akuphumelelanga '%{string}': isizathu asaziwa, mhlawumbi yifayili yomfanekiso eyonakeleyo"
+
+msgid "Failed to rewrite header\n"
+msgstr "Ayiphumelelanga ukuvula umfanekiso we-TIFF"
+
+msgid "Failed to write folder index\n"
+msgstr "Ayiphumelelanga ukufunda kwifayili yexeshana"
+
+msgid "Failed to write hash table\n"
+msgstr "Ayiphumelelanga ukuvula umfanekiso we-TIFF"
+
+msgid "Failed to write header\n"
+msgstr "Ayiphumelelanga ukuvula umfanekiso we-TIFF"
+
+msgid "Fallback Icon Theme Name"
+msgstr "Igama Lomxholo Womfanekiso Ongumqondiso"
+
+msgid "File"
+msgstr "iiFayili"
+
+msgid "File System"
+msgstr "Isixokelelwano seefayili"
+
+msgid "File System Root"
+msgstr "Isixokelelwano seefayili"
+
+msgid "Filename"
+msgstr "Igama lefayili"
+
+msgid "Filename to load and display"
+msgstr "Igama lefayili emayifakwe ize ibonakaliswe eskrinini"
+
+msgid "Files"
+msgstr "iiFayili"
+
+msgid "Fill"
+msgstr "Zalisa"
+
+msgid "Filter"
+msgstr "Isihluzi"
+
+msgid "Find and _Replace"
+msgstr "Fumana ze _Ubeke enye endaweni yayo"
+
+msgid "Finished"
+msgstr "_Fumana"
+
+msgid "Fixed Height Mode"
+msgstr "Imo Yomphakamo Esisigxina"
+
+msgid "Fixed Width"
+msgstr "Ububanzi Obusisigxina"
+
+msgid "Fixed slider size"
+msgstr "Ubude obusisigxina beslayida"
+
+msgid "Focus in Toplevel"
+msgstr "Gxininisa kwiNqanaba Elingentla"
+
+msgid "Focus line dash pattern"
+msgstr "Ipateni yomgca oqhawu-qhawukayo yogxilo"
+
+msgid "Focus linewidth"
+msgstr "Gxila kububanzi bomgca"
+
+msgid "Focus on click"
+msgstr "Gxila ekucofeni"
+
+msgid "Focus on map"
+msgstr "Gxininisa emephini"
+
+msgid "Focus padding"
+msgstr "Isongezo seenkcukacha esigxininisiweyo"
+
+msgid "Folio"
+msgstr "_Umbala"
+
+msgid "Font"
+msgstr "Ifonti"
+
+msgid "Font Name"
+msgstr "Igama Lefonti"
+
+msgid "Font Selection"
+msgstr "Ukukhetha ifonti"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "Inkcazelo yefonti njenge-struct i-PangoFontDescription"
+
+msgid "Font description as a string, e.g. \"Sans Italic 12\""
+msgstr "Inkcazelo yefonti njengoluhlu lwamagama, umz. \"Sans Italic 12\""
+
+msgid "Font family"
+msgstr "Usapho lwefonti"
+
+msgid "Font family set"
+msgstr "Ukumisela usapho lwefonti"
+
+msgid "Font name"
+msgstr "Igama lefonti"
+
+msgid "Font options"
+msgstr "Iipoyinti zefonti"
+
+msgid "Font points"
+msgstr "Iipoyinti zefonti"
+
+msgid "Font resolution"
+msgstr "Iipoyinti zefonti"
+
+msgid "Font scale"
+msgstr "Umlinganiselo wefonti"
+
+msgid "Font scale set"
+msgstr "Ukumisela umlinganiselo wefonti"
+
+msgid "Font scaling factor"
+msgstr "Ifekta yolinganiso lwefonti"
+
+msgid "Font size"
+msgstr "Ubungakanani befonti"
+
+msgid "Font size as a scale factor relative to the default font size. This properly adapts to theme changes etc. so is recommended. Pango predefines some scales such as PANGO_SCALE_X_LARGE"
+msgstr "Ubungakanani befonti ngokwefekta yomlinganiso ngokunxulumene nobungakanani befonti obumiselweyo. Le nto izitshintsha ngokukuko ukuze imelane neenguquko zezihloko njalo njalo, ngoko ke iyakhuthazwa. I-Pango ichaza kwangaphambili eminye imilinganiselo efana ne PANGO_SCALE_X_LARGE"
+
+msgid "Font size in Pango units"
+msgstr "Ubungakanani befonti ngokwemilinganiselo ye-Pango"
+
+msgid "Font size in points"
+msgstr "Ubungakanani befonti ngokweepoyinti"
+
+msgid "Font size set"
+msgstr "Ukumisela ubungakanani befonti"
+
+msgid "Font stretch"
+msgstr "Ukunaba kwefonti"
+
+msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
+msgstr "Unwebeko lwefonti njengonwebeko lwe-Pango, umz. PANGO_STRETCH_CONDENSED"
+
+msgid "Font stretch set"
+msgstr "Ukumisela ukunwebeka kwefonti"
+
+msgid "Font style"
+msgstr "Isimbo sefonti"
+
+msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
+msgstr "Isimbo sefonti njengesimbo se-Pango, umz. PANGO_STYLE_ITALIC"
+
+msgid "Font style set"
+msgstr "Ukumisela isimbo sefonti"
+
+msgid "Font variant"
+msgstr "Uguquko lwefonti"
+
+msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
+msgstr "Uguquko lwefonti njengoguquko lwe-Pango, umz. PANGO_VARIANT_SMALL_CAPS"
+
+msgid "Font variant set"
+msgstr "Ukumisela uguquko lwefonti"
+
+msgid "Font weight"
+msgstr "Ubunzima befonti"
+
+msgid "Font weight as an integer, see predefined values in PangoWeight; for example, PANGO_WEIGHT_BOLD"
+msgstr "Ubunzima befonti njengenani elipheleleyo, bona amaxabiso asele echaziwe kubunzima be-Pango; umzekelo, PANGO_WEIGHT_BOLD"
+
+msgid "Font weight set"
+msgstr "Ukumisela ubunzima befonti"
+
+msgid "Force aspect ratio to match that of the frame's child"
+msgstr "Nyanzelisa ukuba umba wolwalamano ungqamane ne-frame yenkqubo engumntwana"
+
+msgid "Foreground color"
+msgstr "Umbala wokuvela ngaphambili"
+
+msgid "Foreground color as a (possibly unallocated) GdkColor"
+msgstr "Umbala wokuvela ngaphambili njenge-GdkColor (usenokunganikwa)"
+
+msgid "Foreground color as a GdkColor"
+msgstr "Umbala wokuvela ngaphambili njenge-GdkColor"
+
+msgid "Foreground color as a string"
+msgstr "Umbala wokuvela ngaphambili njengoluhlu lwamagama"
+
+msgid "Foreground color for symbolic icons"
+msgstr "Umbala wokuvela ngaphambili njengoluhlu lwamagama"
+
+msgid "Foreground color name"
+msgstr "Igama lombala wokuvela ngaphambili"
+
+msgid "Foreground set"
+msgstr "Ukumisela okuvela ngaphambili"
+
+msgid "Forward stepper"
+msgstr "I-stepper sangaphambili"
+
+msgid "Fraction"
+msgstr "Iqhezu"
+
+msgid "Frame shadow"
+msgstr "Isithunzi se-frame"
+
+msgid "GDK debugging flags to set"
+msgstr "I-GTK+ ukusetha izilungisi-ziphene kwinkqubo"
+
+msgid "GDK debugging flags to unset"
+msgstr "I-GTK+ ukumisela izilungisi-ziphene kwinkqubo"
+
+msgid "GIcon"
+msgstr "Umfanekiso ongumqondiso"
+
+msgid "GIcon for primary icon"
+msgstr "Umfanekiso ongumqondiso wale festile"
+
+msgid "GTK Modules"
+msgstr "Iimodyuli Ze-GTK"
+
+msgid "GTK+ Options"
+msgstr "I-GTK+ekunokukhethwa kuko"
+
+msgid "GTK+ debugging flags to set"
+msgstr "I-GTK+ ukusetha izilungisi-ziphene kwinkqubo"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "I-GTK+ ukumisela izilungisi-ziphene kwinkqubo"
+
+msgid "GdkPixbufAnimation to display"
+msgstr "I-GdkPixbufAnimation emayibonakaliswe"
+
+msgid "Gravity"
+msgstr "Umbizane womhlaba"
+
+msgid "Grid line pattern"
+msgstr "Ipateni yomgca oqhawu-qhawukayo yogxilo"
+
+msgid "Grid line width"
+msgstr "Gxila kububanzi bomgca"
+
+msgid "Group"
+msgstr "Iqela"
+
+msgid "Group Name"
+msgstr "Iqela"
+
+msgid "Group name for tab drag and drop"
+msgstr "Igama leqela lezenzo."
+
+msgid "Handle Size"
+msgstr "Ubungakanani Besikhombisi"
+
+msgid "Handle position"
+msgstr "Indawo yesikhombisi"
+
+msgid "Has Entry"
+msgstr "Inesingeniso"
+
+msgid "Has Frame"
+msgstr "Ine-Frame"
+
+msgid "Has Opacity Control"
+msgstr "Inolawulo Lobumfiliba"
+
+msgid "Has Resize Grip"
+msgstr "Linesibambi Sokutshintsha Ubungakanani"
+
+msgid "Has Selection"
+msgstr "Ukukhetha I-hover"
+
+msgid "Has default"
+msgstr "Inokumiliselweyo"
+
+msgid "Has focus"
+msgstr "Inogxilo"
+
+msgid "Has palette"
+msgstr "Inengqokelela yezixhobo"
+
+msgid "Has selection"
+msgstr "Ukukhetha I-hover"
+
+msgid "Has tooltip"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Header Padding"
+msgstr "Ukongeza Iinkcukacha Ngasekhohlo"
+
+msgid "Header Relief"
+msgstr "Okubhalwe Emantla Ephepha Kuyacofeka"
+
+msgid "Header Spacing"
+msgstr "Ukongeza Iinkcukacha Ngasekhohlo"
+
+msgid "Header image"
+msgstr "Okubhalwe Emantla Ephepha Kuyacofeka"
+
+msgid "Headers Clickable"
+msgstr "Okubhalwe Emantla Ephepha Kuyacofeka"
+
+msgid "Headers Visible"
+msgstr "Okubhalwe Emantla Ephepha Kuyacofeka"
+
+msgid "Height"
+msgstr "Umphakamo"
+
+msgid "Height request"
+msgstr "Isicelo somphakamo"
+
+msgid "Help Button"
+msgstr "Amaqhosha Omyalezo"
+
+msgid "Hide if empty"
+msgstr "Yifihle xa ingenanto"
+
+msgid "Hint to help the desktop environment understand what kind of window this is and how to treat it."
+msgstr "Icebiso elithi lincede ubume be-desktop ukuze buqonde ukuba hlobo luni na lwefestile nokuba kufanele isetyenziswe njani na."
+
+msgid "Home"
+msgstr "Ekhaya"
+
+msgid "Homogeneous"
+msgstr "Ehlobo lunye"
+
+msgid "Horizontal Adjustment"
+msgstr "Uhlenga-hlengiso Oluthe Tyaba"
+
+msgid "Horizontal Adjustment for the widget"
+msgstr "Uhlenga-hlengiso Oluthe Tyaba lwesixhobo"
+
+msgid "Horizontal Alignment"
+msgstr "Ulungelelaniso Oluthe Tyaba"
+
+msgid "Horizontal Offset"
+msgstr "Ulinganiso Oluthe Tyaba"
+
+msgid "Horizontal Padding"
+msgstr "Isongezo seenkcukacha ngokuthe tyaba"
+
+msgid "Horizontal Scroll Arrow Length"
+msgstr "Umgaqo-nkqubo Womgca Wokwehlisa Usenyusa Othe Tyaba"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "Umgaqo-nkqubo Womgca Wokwehlisa Usenyusa Othe Tyaba"
+
+msgid "Horizontal Separator Width"
+msgstr "Ububanzi Besahluli Ngokuthe Tyaba"
+
+msgid "Horizontal adjustment"
+msgstr "Uhlenga-hlengiso oluthe tyaba"
+
+msgid "Horizontal alignment"
+msgstr "Ulungelelaniso oluthe tyaba"
+
+msgid "Horizontal alignment for child"
+msgstr "Ulungelelaniso oluthe tyaba lwenkqubo engumntwana"
+
+msgid "Horizontal options"
+msgstr "Okunokukhethwa kuko okuthe tyaba"
+
+msgid "Horizontal padding"
+msgstr "Isongezo seenkcukacha ngokuthe tyaba"
+
+msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
+msgstr "Indawo ethe tyaba yenkqubo engumntwana kwisithuba esikhoyo. 0.0 ulungelelaniswe emantla, 1.0 ulungelelaniswe emazantsi"
+
+msgid "Horizontal scale"
+msgstr "Umlinganiselo ngokuthe tyaba"
+
+msgid "Horizontal separation"
+msgstr "Okunokukhethwa kuko okuthe tyaba"
+
+msgid "Horizontal space between cells.  Must be an even number"
+msgstr "Isithuba esithe tyaba phakathi kwee-cell. Mayibe linani elingunombini"
+
+msgid "Hover Expand"
+msgstr "Ukwandiswa Kwe-Hover"
+
+msgid "Hover Selection"
+msgstr "Ukukhetha I-hover"
+
+msgid "How far in the x direction to move the arrow when the button is depressed"
+msgstr "Isalathiso simele sihanjiswe indawo engakanani ukuya kwicala lika-x xa iqhosha licofiwe"
+
+msgid "How far in the x direction to move the child when the button is depressed"
+msgstr "Inkqubo engumntwana ifanele ihanjiswe kangakanani ukuya kwicala lika-x xa iqhosha licinezelwe"
+
+msgid "How far in the y direction to move the arrow when the button is depressed"
+msgstr "Isalathiso simele sihanjiswe indawo engakanani ukuya kwicala lika-y xa iqhosha licofiwe"
+
+msgid "How far in the y direction to move the child when the button is depressed"
+msgstr "Inkqubo engumntwana ifanele ihanjiswe kangakanani ukuya kwicala lika-y xa iqhosha licinezelwe"
+
+msgid "How the range should be updated on the screen"
+msgstr "Indlela emaluhlaziywe ngayo uluhlu eskrinini"
+
+msgid "How the text and icon of each item are positioned relative to each other"
+msgstr "Indlela omiswe ngayo umbhalo kunye nomfanekiso ongumqondiso wento nganye ekhethwayo ngokunxulumene nenye"
+
+msgid "How to align the lines"
+msgstr "Izotywa njani i-toolbar"
+
+msgid "How to break the string into multiple lines, if the cell renderer does not have enough room to display the entire string"
+msgstr "Indawo ekhethekayo yokwenza ubungakanani bobumbhoxo boluhlu lwamagama, ukuba i-cell yonikezelo ayinaso isithuba esaneleyo sokubonisa uluhlu lwamagama onke, ukuba inako phofu"
+
+msgid "How to draw the input method preedit string"
+msgstr "Izotywa njani indlela yokungenisa yoluhlu lwamagama ahlelwa kwangaphambili"
+
+msgid "How to draw the input method statusbar"
+msgstr "Izotywa njani indlela yokungenisa yomgca obonakalisa ubume bokuqhubekayo"
+
+msgid "How to draw the toolbar"
+msgstr "Izotywa njani i-toolbar"
+
+msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
+msgstr "Indlela ekufuneka amiswe ngayo amaqhosha ngaphakathi ebhokisini. Iindlela ezikhoyo yemiselweyo, ethe tyaba, enamacala, qala no-phela"
+
+msgid "IM Preedit style"
+msgstr "Isimbo se-IM Sohlelo-ngaphambili"
+
+msgid "IM Status style"
+msgstr "Isimbo Sobume be-IM"
+
+msgid "IM module"
+msgstr "Ububanzi Obumiselweyo"
+
+msgid "IPA"
+msgstr "I-IPA"
+
+msgid "Icon"
+msgstr "Umfanekiso ongumqondiso"
+
+msgid "Icon '%{string}' not present in theme"
+msgstr "Umqondiso '%{string}' awukho emxholweni"
+
+msgid "Icon Name"
+msgstr "Igama Lomfanekiso Ongumqondiso"
+
+msgid "Icon Prelight"
+msgstr "Umphakamo"
+
+msgid "Icon Sizes"
+msgstr "Ubungakanani Bemifanekiso Engumqondiso"
+
+msgid "Icon Theme Name"
+msgstr "Igama Lomxholo Womfanekiso Ongumqondiso"
+
+msgid "Icon View Model"
+msgstr "Imodeli Yomfanekiso Ongumqondiso Wokubonakalayo"
+
+msgid "Icon for this window"
+msgstr "Umfanekiso ongumqondiso wale festile"
+
+msgid "Icon name"
+msgstr "Igama Lomfanekiso Ongumqondiso"
+
+msgid "Icon set"
+msgstr "Ukumisela umfanekiso ongumqondiso"
+
+msgid "Icon set to display"
+msgstr "Ukumisela umfanekiso ongumqondiso emawubonakaliswe"
+
+msgid "Icon size"
+msgstr "Ubungakanani bomfanekiso ongumqondiso"
+
+msgid "Icon size set"
+msgstr "Ukumisela ubungakanani befonti"
+
+msgid "Icon spacing"
+msgstr "Ukufaka izithuba kwimigca"
+
+msgid "Icon widget"
+msgstr "Umfanekiso ongumqondiso osisixhobo"
+
+msgid "Icon widget to display in the item"
+msgstr "Umfanekiso ongumqondiso osisixhobo oboniswe entweni"
+
+msgid "Icons"
+msgstr "Umfanekiso ongumqondiso"
+
+msgid "If FALSE, don't allow to enter strings other than the chosen ones"
+msgstr "Ukuba FALSE, ungavumeli ukufakwa kwamagama angamanye ngaphandle kwalawo akhethiweyo"
+
+msgid "If TRUE, a heading is displayed"
+msgstr "Ukuba TRUE, isihloko siyavela"
+
+msgid "If TRUE, day names are displayed"
+msgstr "Ukuba TRUE, amagama eentsuku ayavela"
+
+msgid "If TRUE, details are shown"
+msgstr "Ukuba TRUE, amagama eentsuku ayavela"
+
+msgid "If TRUE, pressing the right mouse button on the notebook pops up a menu that you can use to go to a page"
+msgstr "Ukuba TRUE, ukucofa iqhosha lasekunene le-mouse kwikhompyutha ephathekayo kwenza kuvele imenyu onokuyisebenzisa ukuya ephepheni"
+
+msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
+msgstr "Ukuba TRUE, izalathiso zokwehlisa usenyusa ziyongezwa ukuba oo-tab abanokungena baninzi"
+
+msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
+msgstr "Ukuba TRUE, inkqubo engumntwana ivela kwiqela elikudidi lwesibini leenkqubo ezingabantwana, ilungele uku, umz. amaqhosha oncedo"
+
+msgid "If TRUE, the child can be made smaller than its requisition"
+msgstr "Ukuba TRUE, inkqubo engumntwana inokwenziwa ibe ncinci kunokuba iceliwe"
+
+msgid "If TRUE, the child expands and shrinks along with the paned widget"
+msgstr "Ukuba TRUE, inkqubo engumntwana iyanda ize iphinde inciphe njengoko sisenza isixhobo"
+
+msgid "If TRUE, the selected month cannot be changed"
+msgstr "Ukuba TRUE, inyanga ekhethiweyo ayinakutshintshwa"
+
+msgid "If TRUE, the table cells are all the same width/height"
+msgstr "Ukuba TRUE kuthetha ukuba zonke ii-cells zetafile zinobubanzi/ubude obufanayo"
+
+msgid "If TRUE, the widget will receive the default action when it is focused"
+msgstr "Ukuba TRUE, isixhobo siya kufumana isenzo esimiselweyo xa sigxilile"
+
+msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
+msgstr "Ukuba TRUE, ifestile inenkqubo (ezinye iifestile azisebenziseki ngelixa le ivuliwe)"
+
+msgid "If TRUE, users can resize the window"
+msgstr "Ukuba TRUE, abasebenzisi bangabutshintsha ubungakanani befestile"
+
+msgid "If TRUE, week numbers are displayed"
+msgstr "Ukuba TRUE, amanani eeveki ayavela"
+
+msgid "If an arrow should be shown if the toolbar doesn't fit"
+msgstr "Ukuba ngaba isalathisi kufuneka sibonakaliswe ukuba ngaba i-toolbar ayoneli"
+
+msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr "Ukuba ngaba isithuba esikhoyo esithe tyaba sikhulu kuneso sifunekayo kwinkqubo engumntwana, singakanani isithuba ekumele sisetyenziswe kwinkqubo engumntwana. 0.0 utsho ukuba akho sithuba, 1.0 utsho ukuba isithuba sonke"
+
+msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr "Ukuba ngaba isithuba esikhoyo esime nkqo sikhulu kuneso sifunekayo kwinkqubo engumntwana, singakanani isithuba ekumele sisetyenziswe kwinkqubo engumntwana. 0.0 utsho ukuba akho sithuba, 1.0 utsho ukuba isithuba sonke"
+
+msgid "If set, an underline in the label property indicates that the next character should be used for the mnemonic accelerator key in the overflow menu"
+msgstr "Ukuba imiselwe, ukrwelelo lomgca ngaphantsi kwento yelebhile lubonisa ukuba uphawu olulandelayo lumele lusetyenziswe njengeqhosha elisisikhumbuzi sesinqumlisi kwimentu ephuphumayo"
+
+msgid "If set, an underline in the text indicates the next character should be used for the mnemonic accelerator key"
+msgstr "Ukuba ngaba lumiselwe, ukukrwelwa komgca ngaphantsi kombhalo kubonisa ukuba uphawu olulandelayo kumele lusetyenziswe njengeqhosha elisisinqumlisi sokukhumbuza"
+
+msgid "If set, the label is used to pick a stock item instead of being displayed"
+msgstr "Ukuba ngaba imiselwe, ilebhile isetyenziselwa ukukhetha okuqulathwe kwi-stock endaweni yokubonakaliswa"
+
+msgid "If set, wrap lines if the text becomes too wide"
+msgstr "Ukuba kumiselwe, imigca enoqhubekeko-magama iba banzi kakhulu"
+
+msgid "If the insertion cursor is shown"
+msgstr "Ukuba ngaba ikhesa yokufakela iyabonakala"
+
+msgid "If the toggle button is in an \"in between\" state"
+msgstr "Ukuba ngaba iqhosha le-toggle likwimo \"in between\""
+
+msgid "If the toggle button should be pressed in"
+msgstr "Ukuba ngaba iqhosha le-toggle limele licofwe na okanye hayi"
+
+msgid "If the toggle part of the button is displayed"
+msgstr "Ukuba inxalenye yeqhosha le-toggle libonisiwe"
+
+msgid "If this window should be destroyed when the parent is destroyed"
+msgstr "Ukuba ngaba le festile ifanele itshatyalaliswe xa inkqubo engunozala itshabalele"
+
+msgid "Image"
+msgstr "Umfanekiso"
+
+msgid "Image position"
+msgstr "Indawo yesikhombisi"
+
+msgid "Image spacing"
+msgstr "Ukufaka izithuba kumaxabiso"
+
+msgid "Image widget"
+msgstr "Umfanekiso wesixhobo"
+
+msgid "Image/label border"
+msgstr "Umfanekiso/umda welebhile"
+
+msgid "Inconsistent"
+msgstr "Iyatshintsha-tshintsa"
+
+msgid "Inconsistent state"
+msgstr "Imo etshintsha-tshintshayo"
+
+msgid "Increase Indent"
+msgstr "Andisa Ukuqalisa nganeno"
+
+msgid "Indent"
+msgstr "Qalisa nganeno"
+
+msgid "Indent Expanders"
+msgstr "Qalisa Izandiso Nganeno"
+
+msgid "Indent set"
+msgstr "Ukumisela ukuqalisa nganeno"
+
+msgid "Index 3x5"
+msgstr "_Isalathiso"
+
+msgid "Index 4x6 ext"
+msgstr "_Isalathiso"
+
+msgid "Index 5x8"
+msgstr "_Isalathiso"
+
+msgid "Indicator Size"
+msgstr "Ubungakanani Besibonisi"
+
+msgid "Indicator Spacing"
+msgstr "Ukufaka Izithuba Phakathi Kwezibonisi"
+
+msgid "Indicator size"
+msgstr "Ubungakanani Besibonisi"
+
+msgid "Information"
+msgstr "Ulwazi"
+
+msgid "Inline completion"
+msgstr "Ugqibezelo olungaphakathi kumgca"
+
+msgid "Inline selection"
+msgstr "Ugqibezelo olungaphakathi kumgca"
+
+msgid "Inner Border"
+msgstr "Umda Ka-Tab"
+
+msgid "Inner border"
+msgstr "Umda Ka-Tab"
+
+msgid "Inner border space"
+msgstr "Umda Ka-Tab"
+
+msgid "Input _Methods"
+msgstr "Iindlela _zolwazi olungenisiweyo"
+
+msgid "Input mode for the device"
+msgstr "Imodeli yembonakalo ebumthi"
+
+msgid "Intensity of the color."
+msgstr "Ukucaca kombala."
+
+msgid "Interior Focus"
+msgstr "Ukugxila ngaphakathi"
+
+msgid "Internal padding"
+msgstr "Isongezo seenkcukacha esingaphakathi"
+
+msgid "Inuktitut (Transliterated)"
+msgstr "I-Inuktitut (Ebhalwe ngoonobumba bolunye uhlobo)"
+
+msgid "Invalid"
+msgstr "i-UTF-8 engasebenziyo"
+
+msgid "Invalid URI"
+msgstr "i-UTF-8 engasebenziyo"
+
+msgid "Invalid argument to CreateDC"
+msgstr "I-header engavunywanga kumfanekiso ongumqondiso"
+
+msgid "Invalid file name"
+msgstr "Igama lefayili alisebenzi"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "I-header engavunywanga kumfanekiso ongumqondiso"
+
+msgid "Invalid path"
+msgstr "i-UTF-8 engasebenziyo"
+
+msgid "Invert direction slider moves to increase range value"
+msgstr "Uguqulo lwecala leslayida luyashukuma ukwandisa ixabiso loluhlu"
+
+msgid "Invert the direction in which the progress bar grows"
+msgstr "Imbonakalo kunye necala lokukhula lwesikhombisi senkqubela"
+
+msgid "Inverted"
+msgstr "Eguquliweyo"
+
+msgid "Invisible"
+msgstr "Ayibonakali"
+
+msgid "Invisible character"
+msgstr "Uphawu olungabonakaliyo"
+
+msgid "Invisible character set"
+msgstr "Uphawu olungabonakaliyo"
+
+msgid "Invisible set"
+msgstr "Ukumisela ngendlela engabonakalisyo"
+
+msgid "Is Active"
+msgstr "Iyasebenza Ngoku"
+
+msgid "Is Expanded"
+msgstr "Yandisiwe"
+
+msgid "Is Expander"
+msgstr "Sisandisi"
+
+msgid "Is Showing"
+msgstr "Bonisa Isihloko"
+
+msgid "Is Virtual"
+msgstr "Ibalulekile"
+
+msgid "Is focus"
+msgstr "Igxilile"
+
+msgid "Is important"
+msgstr "Ibalulekile"
+
+msgid "Item Orientation"
+msgstr "Imbonakalo"
+
+msgid "Item Padding"
+msgstr "Ukongeza Iinkcukacha Emazantsi"
+
+msgid "Job Name"
+msgstr "Igama Lomfanekiso Ongumqondiso"
+
+msgid "Justification"
+msgstr "Ulungelelwaniso"
+
+msgid "Justification set"
+msgstr "Ukumisela ulungelelaniso"
+
+msgid "KP_Delete"
+msgstr "_Cima"
+
+msgid "KP_Down"
+msgstr "_Phantsi"
+
+msgid "KP_Enter"
+msgstr "_Shicilela"
+
+msgid "KP_Home"
+msgstr "_Ekhaya"
+
+msgid "KP_Left"
+msgstr "_Ekhohlo"
+
+msgid "KP_Right"
+msgstr "_Isahlukanisi-mibala:"
+
+msgid "KP_Space"
+msgstr "_Yinike elinye igama"
+
+msgid "KP_Up"
+msgstr "_Phezulu"
+
+msgid "Key Theme Name"
+msgstr "Igama Lesihloko Seqhosha"
+
+msgid "Keybinding to activate the menu bar"
+msgstr "Iqhosha elibophelelayo lokwenza umgca wemenyu usebenze"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "I-LRE esuka ekhohlo-iye-ekunene _ezinzileyo"
+
+msgid "LRM _Left-to-right mark"
+msgstr "Uphawu lwe-LRM olusuka ek_hohlo-luye-ekunene"
+
+msgid "LRO Left-to-right _override"
+msgstr "I-LRO esuka ekhohlo-iye-ekunene inga _nanzwanga"
+
+msgid "Label"
+msgstr "Ilebhile"
+
+msgid "Label fill"
+msgstr "Ukuzalisa u-tab"
+
+msgid "Label widget"
+msgstr "Ilebhile esisixhobo"
+
+msgid "Label xalign"
+msgstr "Lebhila ulungelelaniso luka-x"
+
+msgid "Label yalign"
+msgstr "Lebhila ulungelelaniso luka-y"
+
+msgid "Language"
+msgstr "Ulwimi"
+
+msgid "Language set"
+msgstr "Ukumisela ulwimi"
+
+msgid "Largest possible value for the \"position\" property"
+msgstr "Elona xabiso likhulu \"position\" yento"
+
+msgid "Layout style"
+msgstr "Isimbo sobume"
+
+msgid "Left"
+msgstr "_Ekhohlo"
+
+msgid "Left Attach"
+msgstr "Qhoboshela Ngasekhohlo"
+
+msgid "Left Margin"
+msgstr "Umda Wephepha Osekhohlo"
+
+msgid "Left Padding"
+msgstr "Ukongeza Iinkcukacha Ngasekhohlo"
+
+msgid "Left attachment"
+msgstr "Isiqhoboshelo esisekhohlo"
+
+msgid "Left gravity"
+msgstr "Umbizane womhlaba"
+
+msgid "Left margin"
+msgstr "Umda wephepha osekhohlo"
+
+msgid "Left margin set"
+msgstr "Ukumisela umda wephepha osekhohlo"
+
+msgid "Left to right"
+msgstr "Uphawu lwe-LRM olusuka ek_hohlo-luye-ekunene"
+
+msgid "Left, right, or center justification"
+msgstr "Ulungelelaniso lwangasekhohlo, ekunene okanye phakathi"
+
+msgid "Length of scale's slider"
+msgstr "Ubude bomlinganiso weslayida"
+
+msgid "Length of step buttons at ends"
+msgstr "Ubude bamaqhosha amanyathelo emacaleni"
+
+msgid "Length of the cursor blink cycle, in milliseconds"
+msgstr "Ubude bomjikelo wodanyazo lwekhesa, ngokweemilisekondi"
+
+msgid "License"
+msgstr "Iphepha-mvume"
+
+msgid "License Type"
+msgstr "Isimbo Somyalezo"
+
+msgid "Line wrap"
+msgstr "Uqhubekeko-magama emgceni"
+
+msgid "Line wrap mode"
+msgstr "Uqhubekeko-magama emgceni"
+
+msgid "List of authors of the program"
+msgstr "Uluhlu lwabaqulunqi benkqubo"
+
+msgid "List of currently active GTK modules"
+msgstr "Uluhlu lweemodyuli ze-GTK ezisebenzayo ngoku"
+
+msgid "List of icon names"
+msgstr "Igama Lelogo Yomfanekiso Ongumqondiso"
+
+msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
+msgstr "Uluhlu lobungakanani bemifanekiso engumqondiso (gtk-menu=16,16;gtk-button=20,20..."
+
+msgid "List of people documenting the program"
+msgstr "Uluhlu lwabantu ababhala inkqubo"
+
+msgid "List of people who have contributed artwork to the program"
+msgstr "Uluhlu lwabantu abamizobo yabo isetyenzisiweyo enkqubeni"
+
+msgid "List of the GtkPrintBackend backends to use by default"
+msgstr "Igama lecala elingemva le-GtkFileChooser elinokusetyenziswa njengelimiliselweyo"
+
+msgid "Load additional GTK+ modules"
+msgstr "Faka i-GTK+ eyongeziweyo iimodyuli"
+
+msgid "Local Only"
+msgstr "Ifikeleleka Ngqo Kuphela"
+
+msgid "Local only"
+msgstr "Ifikeleleka Ngqo Kuphela"
+
+msgid "Location"
+msgstr "Isenzo"
+
+msgid "Logo"
+msgstr "Ilogo"
+
+msgid "Logo Icon Name"
+msgstr "Igama Lelogo Yomfanekiso Ongumqondiso"
+
+msgid "Lower"
+msgstr "Esezantsi"
+
+msgid "Lower limit of ruler"
+msgstr "Umda osezantsi werula"
+
+msgid "MODULES"
+msgstr "II-MODYULI"
+
+msgid "Make X calls synchronous"
+msgstr "Yenza ii-X calls zenzeke ngaxeshanye"
+
+msgid "Make all warnings fatal"
+msgstr "Bulala zonke izilumkiso"
+
+msgid "Make the expanders indented"
+msgstr "Yenza ukuba izandisi ziqale nganeno"
+
+msgid "Margin"
+msgstr "Umda wephepha"
+
+msgid "Margin on Left"
+msgstr "Umda wephepha"
+
+msgid "Margin on Top"
+msgstr "Umda wephepha"
+
+msgid "Mark name"
+msgstr "Igama lesalathisi"
+
+msgid "Marked up text to render"
+msgstr "Umbhalo wonikezelo ophawuliweyo"
+
+msgid "Markup"
+msgstr "Ukuphawula"
+
+msgid "Markup column"
+msgstr "Ikholam yokuphawula"
+
+msgid "Max Size"
+msgstr "Obona bungakanani bukhulu"
+
+msgid "Maximal Position"
+msgstr "Eyona Ndawo Inkulu"
+
+msgid "Maximum Value"
+msgstr "Elona Xabiso Liphezulu"
+
+msgid "Maximum Width"
+msgstr "Obona Bubanzi Bukhulu"
+
+msgid "Maximum Width In Characters"
+msgstr "Obona Bubanzi Bukhulu Ngokweempawu"
+
+msgid "Maximum age of recently used files, in days"
+msgstr "Inani leekholam"
+
+msgid "Maximum allowed width of the column"
+msgstr "Obona bubanzi bukhulu buvumelekileyo bekholam"
+
+msgid "Maximum child expand"
+msgstr "Obona bubanzi busezantsi benkqubo engumntwana"
+
+msgid "Maximum distance allowed between two clicks for them to be considered a double click (in pixels)"
+msgstr "Owona mgama mkhulu uvunyelweyo phakathi kokucofa kabini ukuze ubonakale njengokucofa kabini okukhawulezileyo (ngokwee-pixels)"
+
+msgid "Maximum length"
+msgstr "Obona bude"
+
+msgid "Maximum number of characters for this entry. Zero if no maximum"
+msgstr "Elona nani liphezulu leempawu kwesi singeniso. Iqanda ukuba ayilonani eliphezulu"
+
+msgid "Maximum size of the ruler"
+msgstr "Obona bungakanani bukhulu berula"
+
+msgid "Maximum time allowed between two clicks for them to be considered a double click (in milliseconds)"
+msgstr "Elona xesha lininzi livunyelweyo phakathi kokucofa kabini ukuze kubonakale njengokucofa kabini okukhawulezileyo (ngokweemilisekondi)"
+
+msgid "Menu"
+msgstr "Imenyu"
+
+msgid "Menu bar accelerator"
+msgstr "Isinqumlisi somgca wemenyu"
+
+msgid "Menu label"
+msgstr "Ilebhile yemenyu"
+
+msgid "Merged UI definition"
+msgstr "Inkcazelo ye-UI ehlangeneyo"
+
+msgid "Message Buttons"
+msgstr "Amaqhosha Omyalezo"
+
+msgid "Message Type"
+msgstr "Isimbo Somyalezo"
+
+msgid "Message area"
+msgstr "Isimbo Somyalezo"
+
+msgid "Metric"
+msgstr "Yamanani"
+
+msgid "Minimal Position"
+msgstr "Eyona Ndawo Incinci"
+
+msgid "Minimum Key Length"
+msgstr "Obona Bude Bufutshane Beqhosha"
+
+msgid "Minimum Slider Length"
+msgstr "Obona Bude Bufutshane Beslayida"
+
+msgid "Minimum Value"
+msgstr "Elona Xabiso Liphantsi"
+
+msgid "Minimum Width"
+msgstr "Obona Bubanzi Buncinci"
+
+msgid "Minimum allowed width of the column"
+msgstr "Obona bubanzi buncinci buvumelekileyo bekholam"
+
+msgid "Minimum child height"
+msgstr "Owona mphakamo usezantsi wenkqubo engumntwana"
+
+msgid "Minimum child width"
+msgstr "Obona bubanzi busezantsi benkqubo engumntwana"
+
+msgid "Minimum height of buttons inside the box"
+msgstr "Owona mphakamo usezantsi wamaqhosha angaphakathi ebhokisini"
+
+msgid "Minimum horizontal bar height"
+msgstr "Ulungelelaniso oluthe tyaba"
+
+msgid "Minimum horizontal bar width"
+msgstr "Ububanzi Besahluli Ngokuthe Tyaba"
+
+msgid "Minimum horizontal height of the progress bar"
+msgstr "Ixabiso lesikhombisi senkqubela"
+
+msgid "Minimum length of scrollbar slider"
+msgstr "Obona bude bufutshane beslayida somda wekwehlisa usenyusa"
+
+msgid "Minimum length of the search key in order to look up matches"
+msgstr "Obona bude bufutshane beqhosha u-search ukuze ukhangele ezingqamanayo"
+
+msgid "Minimum time the pointer must stay over a menu item before the submenu appear"
+msgstr "Elona xesha lincinci ekumele isalathiso silihlale ngaphezu kokukhethwa kwimenyu ngaphambi kokuba imenyu engaphakathi kwenye ivele"
+
+msgid "Minimum vertical bar height"
+msgstr "Owona mphakamo usezantsi wenkqubo engumntwana"
+
+msgid "Minimum vertical bar width"
+msgstr "Ububanzi Besahluli Ngokuthe Nkqo"
+
+msgid "Minimum width of buttons inside the box"
+msgstr "Obona bubanzi busezantsi bamaqhosha angaphakathi ebhokisini"
+
+msgid "Mnemonic key"
+msgstr "Iqhosha lokukhumbula"
+
+msgid "Mnemonic widget"
+msgstr "Isixhobo sokukhumbula"
+
+msgid "Mnemonics Visible"
+msgstr "Iqhosha lokukhumbula"
+
+msgid "Modal"
+msgstr "Indlela eyenziwa ngayo"
+
+msgid "Mode"
+msgstr "Inkqubo"
+
+msgid "Model"
+msgstr "Imodeli"
+
+msgid "Model column to search through during interactive search"
+msgstr "Ikholam eyimodeli ekukhethwa kuyo xa kukhangelwa kwikhodi"
+
+msgid "Model column used to retrieve the icon pixbuf from"
+msgstr "Imodeli yekholam esetyenziswa ukuphinda ufumane umfanekiso ongumqondiso we-pixbuf kwi"
+
+msgid "Model column used to retrieve the text from"
+msgstr "Imodeli yekholam esetyenziswa ukuphinda ufumane umbhalo kwi"
+
+msgid "Model column used to retrieve the text if using Pango markup"
+msgstr "Imodeli yekholam esetyenziswa ukuphinda ufumane umbhalo ukuba ngaba usebenzisa uphawulo lwe-Pango"
+
+msgid "Modified"
+msgstr "Elungisiweyo"
+
+msgid "Monitor"
+msgstr "Inyanga"
+
+msgid "Month"
+msgstr "Inyanga"
+
+msgid "NAME"
+msgstr "IGAMA"
+
+msgid "Name"
+msgstr "Igama"
+
+msgid "Name of a icon theme to fall back to"
+msgstr "Igama lomxholo womfanekiso ongumqondiso emalisetyenziswe"
+
+msgid "Name of default font to use"
+msgstr "Igama lefonti emiselweyo emayisetyenziswe"
+
+msgid "Name of icon theme to use"
+msgstr "Igama lomxholo womfanekiso ongumqondiso emalisetyenziswe"
+
+msgid "Name of key theme RC file to load"
+msgstr "Igama lomxholo weqhosha lefayili ye-RC emayifakwe"
+
+msgid "Name of the GtkFileChooser backend to use by default"
+msgstr "Igama lecala elingemva le-GtkFileChooser elinokusetyenziswa njengelimiliselweyo"
+
+msgid "Name of the cursor theme to use, or NULL to use the default theme"
+msgstr "Igama lomxholo womfanekiso ongumqondiso emalisetyenziswe"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr "Igama losapho lwefonti, umz. Sans, Helvetica, Times, Monospace"
+
+msgid "Name of the printer"
+msgstr "Igama lomxholo womfanekiso ongumqondiso emalisetyenziswe"
+
+msgid "Name of the themed icon for this window"
+msgstr "Igama lomfanekiso ongumqondiso onesihloko wale festile"
+
+msgid "Name of theme RC file to load"
+msgstr "Igama lomxholo wefayili ye-RC emayifakwe"
+
+msgid "Name used to refer to the text tag. NULL for anonymous tags"
+msgstr "Igama elisetyenziswa xa kuchazwa isiphawuli sombhalo. Iziphawuli ezingenagama zisebenzisa u-NULL"
+
+msgid "No Month Change"
+msgstr "Akukho Lutshintsho Lwanyanga"
+
+msgid "No items found"
+msgstr "I-XPM header ayifunyanwa"
+
+msgid "No pre-filtering"
+msgstr "I-XPM header ayifunyanwa"
+
+msgid "No printer found"
+msgstr "I-XPM header ayifunyanwa"
+
+msgid "No show all"
+msgstr "Ayibonakalisi konke"
+
+msgid "None"
+msgstr "(Nanye)"
+
+msgid "Not enough free memory"
+msgstr "Akukho vimba wolwazi owaneleyo ukuba kungafakwa umfanekiso ongumqondiso"
+
+msgid "Num Lock is on"
+msgstr "Vula _Indawo"
+
+msgid "Number of Pages"
+msgstr "Inani Leziqhagamshelanisi"
+
+msgid "Number of Pages To Print"
+msgstr "Inani Leziqhagamshelanisi"
+
+msgid "Number of axes in the device"
+msgstr "Inani lemigca yetafile"
+
+msgid "Number of characters to leave space for in the entry"
+msgstr "Inani leempawu emalishiyelwe isithuba kwisingeniso"
+
+msgid "Number of columns"
+msgstr "Inani leekholam"
+
+msgid "Number of columns to display"
+msgstr "Inani leekhom emazibonakale eskrinini"
+
+msgid "Number of jobs queued in the printer"
+msgstr "Inani lemigca yetafile"
+
+msgid "Number of pixels around the content pages."
+msgstr "Isimbo somphetho othambekileyo ngokujikeleze iziqulatho"
+
+msgid "Number of pixels around the header."
+msgstr "Isimbo somphetho othambekileyo ongaphandle komgca wemenyu"
+
+msgid "Number of pixels between the scrollbars and the scrolled window"
+msgstr "Inani lee-pixels eziphakathi kwemigca yokuhlisa usenyusa kunye nefestile enokwehliswa kwenyuswa kuyo"
+
+msgid "Number of pixels of the entry scrolled off the screen to the left"
+msgstr "Inani lee-pixels zesingeniso ezehliswe zisenyuswa kwiskrini zase zaya ngasekhohlo"
+
+msgid "Number of pixels the cursor can move before dragging"
+msgstr "Inani lee-pixela elinokuhanjiswa yikhesa ngaphambi kokurhuqwa"
+
+msgid "Number of recently used files"
+msgstr "Inani leekholam"
+
+msgid "Number of steps"
+msgstr "Inani Leziqhagamshelanisi"
+
+msgid "Numeric"
+msgstr "Yamanani"
+
+msgid "Obey child"
+msgstr "Inkqubo engumntwana ethobelayo"
+
+msgid "Odd Row Color"
+msgstr "Umbala wemigca emnqakathi"
+
+msgid "Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr "Ukulinganisa umbhalo ngasentla komgca osisiseko (ngezantsi komgca osisiseko ukuba unyuko lukwimo ephikisayo)"
+
+msgid "Offset of text above the baseline (below the baseline if rise is negative) in Pango units"
+msgstr "Ulinganiso ngokwee-pixels lombhalo ngasentla komgca osisiseko (ngezantsi komgca osisiseko ukuba unyuko lukwimo elandulayo)"
+
+msgid "On _hold"
+msgstr "_Bhala ngqindilili"
+
+msgid "Op_acity:"
+msgstr "_Uluzizi:"
+
+msgid "Opacity of the selection box"
+msgstr "Ubumfiliba bebhokisi yokukhetha"
+
+msgid "Options specifying the horizontal behaviour of the child"
+msgstr "Okunokukhethwa kuko okuchaza ukuziphatha okuthe tyaba kwenkqubo engumntwana"
+
+msgid "Options specifying the vertical behaviour of the child"
+msgstr "Okunokukhethwa kuko okuchaza ukuziphatha okuthe nkqo kwenkqubo engumntwana"
+
+msgid "Or_ientation:"
+msgstr "_Ukuzala:"
+
+msgid "Orientation"
+msgstr "Imbonakalo"
+
+msgid "Other..."
+msgstr "Enye..."
+
+msgid "Override for height request of the widget, or -1 if natural request should be used"
+msgstr "Engasinanziyo isicelo somphakamo wesixhobo, okanye -1 ukuba kumele kusetyenziswe isicelo esiqhelekileyo"
+
+msgid "Override for width request of the widget, or -1 if natural request should be used"
+msgstr "Engasinanziyo isicelo sobubanzi besixhobo, okanye -1 ukuba kumele kusetyenziswe isicelo esiqhelekileyo"
+
+msgid "Overwrite mode"
+msgstr "Imo yokubhala phezu kokubhaliweyo"
+
+msgid "PDF _Pop directional formatting"
+msgstr "I-PDF _Pop yokwenza ubume bolawulo"
+
+msgid "P_ause"
+msgstr "_Ncamathisela"
+
+msgid "Pack direction"
+msgstr "Icala lombhalo"
+
+msgid "Pack type"
+msgstr "Uhlobo lokupakisha"
+
+msgid "Padding"
+msgstr "Isongezo seenkcukacha"
+
+msgid "Padding that should be put around icons in the tray"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Page"
+msgstr "Iphepha"
+
+msgid "Page Increment"
+msgstr "Ukwandiswa Kwephepha"
+
+msgid "Page Ordering"
+msgstr "Isilumkiso"
+
+msgid "Page Setup"
+msgstr "Ubungakanani Bephepha"
+
+msgid "Page Size"
+msgstr "Ubungakanani Bephepha"
+
+msgid "Page complete"
+msgstr "Ukwandiswa Kwephepha"
+
+msgid "Page or_dering:"
+msgstr "_Iimpawu"
+
+msgid "Page title"
+msgstr "Ubungakanani Bephepha"
+
+msgid "Page type"
+msgstr "Uhlobo lokupakisha"
+
+msgid "Page_Down"
+msgstr "_Phantsi"
+
+msgid "Pages"
+msgstr "_Yinike elinye igama"
+
+msgid "Pages Per Sheet"
+msgstr "Umfanekiso awunabude"
+
+msgid "Pages per Sheet"
+msgstr "Umfanekiso awunabude"
+
+msgid "Pages per _side:"
+msgstr "_Iimpawu"
+
+msgid "Palette to use in the color selector"
+msgstr "Ingqokelela yezixhobo esetyenziswa kwisikhethi-mbala"
+
+msgid "Paper Size"
+msgstr "_Iimpawu"
+
+msgid "Paper _source:"
+msgstr "_Iimpawu"
+
+msgid "Paper _type:"
+msgstr "_Iimpawu"
+
+msgid "Paragraph background color"
+msgstr "Umbala wokuvela ngasemva kwi-cell"
+
+msgid "Paragraph background color as a (possibly unallocated) GdkColor"
+msgstr "Umbala wokuvela ngasemva njenge-GdkColor (usenokunganikwa)"
+
+msgid "Paragraph background color as a string"
+msgstr "Umbala wokuvela ngasemva woluhlu lwamagama"
+
+msgid "Paragraph background color name"
+msgstr "Igama lombala wokuvela ngasemva kwi-cell"
+
+msgid "Paragraph background set"
+msgstr "Ukumisela okuvela ngasemva kwi-cell"
+
+msgid "Parent"
+msgstr "Isixhobo esingunozala"
+
+msgid "Parent widget"
+msgstr "Isixhobo esingunozala"
+
+msgid "Password:"
+msgstr "Uxinzelelo"
+
+msgid "Path does not exist"
+msgstr "Isinqumlisi %{string} asikho"
+
+msgid "Pattern"
+msgstr "Ipateni"
+
+msgid "Pause"
+msgstr "_Ncamathisela"
+
+msgid "Paused"
+msgstr "_Ncamathisela"
+
+msgid "Paused Printer"
+msgstr "Isihluzi"
+
+msgid "Pick a Color"
+msgstr "Khetha umbala"
+
+msgid "Pick a Font"
+msgstr "Khetha iFonti"
+
+msgid "Pixbuf"
+msgstr "I-Pixbuf"
+
+msgid "Pixbuf Expander Closed"
+msgstr "Isivalo seSandisi se-Pixbuf"
+
+msgid "Pixbuf Expander Open"
+msgstr "Isivulo seSandisi se-Pixbuf"
+
+msgid "Pixbuf Object"
+msgstr "Into Ye-Pixbuf"
+
+msgid "Pixbuf column"
+msgstr "Ikholam ye-pixbuf"
+
+msgid "Pixbuf for closed expander"
+msgstr "I-pixbuf yesandisi esivaliweyo"
+
+msgid "Pixbuf for open expander"
+msgstr "I-pixbuf yesandisi esivuliweyo"
+
+msgid "Pixel size"
+msgstr "Ubungakanani be-pixel"
+
+msgid "Pixel size to use for named icon"
+msgstr "Ubungakanani be-pixel omabusetyenziswe kumfanekiso ongumqondiso onegama"
+
+msgid "Pixels Above Lines"
+msgstr "Ii-pixels Ezisemantla Kwemigca"
+
+msgid "Pixels Below Lines"
+msgstr "Ii-pixelsa Ezisemazantsi Kwemigca"
+
+msgid "Pixels Inside Wrap"
+msgstr "Ii-pixels Ezingaphakathi Kuqhubekeko-magama"
+
+msgid "Pixels above lines"
+msgstr "Ii-pixels ezingentla kwemigca"
+
+msgid "Pixels above lines set"
+msgstr "Ukumisela ii-pixels ngasentla kwemigca"
+
+msgid "Pixels below lines"
+msgstr "Ii-pixels ngezantsi kwemigca"
+
+msgid "Pixels below lines set"
+msgstr "Ukumisela ii-pixels emazantsi emigca"
+
+msgid "Pixels inside wrap"
+msgstr "Ii-pixels ezingaphakathi kuqhubeko-magama"
+
+msgid "Pixels inside wrap set"
+msgstr "Ukumisela ii-pixels ezingaphakathi kuqhubekeko-magama"
+
+msgid "Pixels of blank space above paragraphs"
+msgstr "Ii-pixels zesithuba esingenanto emantla kwemihlathi"
+
+msgid "Pixels of blank space below paragraphs"
+msgstr "Ii-pixels zesithuba esingenanto emazantsi kwemihlathi"
+
+msgid "Pixels of blank space between wrapped lines in a paragraph"
+msgstr "Ii-pixels zesithuba esingenanto phakathi kwemigca enoqhubeko-magama kwimihlathi"
+
+msgid "Pixels of extra space on the right side"
+msgstr "Ii-pixels zesithuba esingenanto emantla kwemihlathi"
+
+msgid "Pixels of extra space on the top side"
+msgstr "Ii-pixels zesithuba esingenanto emantla kwemihlathi"
+
+msgid "Place scrollbars within the scrolled window's bevel"
+msgstr "Inani lee-pixels eziphakathi kwemigca yokuhlisa usenyusa kunye nefestile enokwehliswa kwenyuswa kuyo"
+
+msgid "Popup completion"
+msgstr "Ugqibezelo oluvelayo"
+
+msgid "Popup set width"
+msgstr "Gxila kububanzi bomgca"
+
+msgid "Popup shown"
+msgstr "Gxila kububanzi bomgca"
+
+msgid "Portrait"
+msgstr "_Shicilela"
+
+msgid "Position"
+msgstr "Indawo"
+
+msgid "Position Set"
+msgstr "Ukumisela Indawo"
+
+msgid "Position of mark on the ruler"
+msgstr "Indawo yophawu kwirula"
+
+msgid "Position of paned separator in pixels (0 means all the way to the left/top)"
+msgstr "Indawo yesahluli ngokwee-pixels (0 uthetha ukuba konke ukuya ekhohlo/emantla)"
+
+msgid "Position of the handle relative to the child widget"
+msgstr "Indawo yesikhombisi ngokunxulumene nesixhobo senkqubo engumntwana"
+
+msgid "Position of the item within this group"
+msgstr "Indawo yophawu kwirula"
+
+msgid "Position on the color wheel."
+msgstr "Indawo omi kuyo kwivili lemibala."
+
+msgid "Postscript"
+msgstr "_Shicilela"
+
+msgid "Pre_vious"
+msgstr "Enga_phambili"
+
+msgid "Preparing"
+msgstr "Isilumkiso"
+
+msgid "Preparing to print"
+msgstr "Isilumkiso"
+
+msgid "Preview Widget Active"
+msgstr "Isixhobo Sokuqala Ujonge Siyasebenza"
+
+msgid "Preview text"
+msgstr "Umbhalo oqale wajongwa ngaphambi koshicilelo"
+
+msgid "Preview widget"
+msgstr "Isixhobo sokuqale ujonge"
+
+msgid "Primary icon name"
+msgstr "Igama Lelogo Yomfanekiso Ongumqondiso"
+
+msgid "Primary icon sensitive"
+msgstr "Bonisa i-cell njengenovakalelo"
+
+msgid "Primary icon tooltip markup"
+msgstr "Igama Lelogo Yomfanekiso Ongumqondiso"
+
+msgid "Primary icon tooltip text"
+msgstr "Bonisa i-cell njengenovakalelo"
+
+msgid "Primary pixbuf"
+msgstr "I-Pixbuf"
+
+msgid "Primary pixbuf for the entry"
+msgstr "I-pixbuf yesandisi esivuliweyo"
+
+msgid "Primary storage type"
+msgstr "Isimbo sovimba"
+
+msgid "Print"
+msgstr "_Shicilela"
+
+msgid "Print Pre_view"
+msgstr "Khangela_Phambi kokushicilela"
+
+msgid "Print at"
+msgstr "_Shicilela"
+
+msgid "Print at time"
+msgstr "_Shicilela"
+
+msgid "Print to File"
+msgstr "_Shicilela"
+
+msgid "Print to Test Printer"
+msgstr "_Shicilela"
+
+msgid "Printer"
+msgstr "Isihluzi"
+
+msgid "Printer Default"
+msgstr "Misela"
+
+msgid "Printing"
+msgstr "_Shicilela"
+
+msgid "Program class as used by the window manager"
+msgstr "Udidi lwenkqubo njengoko isetyenziswa ngumphathi wefestile"
+
+msgid "Program name"
+msgstr "Igama lenkqubo"
+
+msgid "Program name as used by the window manager"
+msgstr "Igama lenkqubo njengoko lisetyenziswa ngumphathi wefestile"
+
+msgid "Program version"
+msgstr "Uhlobo lwenkqubo"
+
+msgid "Progress Border"
+msgstr "Umda Ongumsantsa"
+
+msgid "Progress Fraction"
+msgstr "Iqhezu"
+
+msgid "Progress Pulse Step"
+msgstr "Inyathelo Lokubetha"
+
+msgid "Pulse"
+msgstr "Inyathelo Lokubetha"
+
+msgid "Pulse Step"
+msgstr "Inyathelo Lokubetha"
+
+msgid "Pulse of the spinner"
+msgstr "Igama lomxholo womfanekiso ongumqondiso emalisetyenziswe"
+
+msgid "Question"
+msgstr "Umbuzo"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "I-RLE esuka ekunene-iye-ekhohlo e_zinzileyo"
+
+msgid "RLM _Right-to-left mark"
+msgstr "Uphawu lwe-RLM olusuka ek_unene-luye-ekhohlo"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "I-RLO esuka ekunene-iye-ekhohlo inga n_anzwanga"
+
+msgid "R_ewind"
+msgstr "Buyisela_emva"
+
+msgid "Radio state"
+msgstr "Imo kanomathotholo"
+
+msgid "Ratio"
+msgstr "Ulwalamano"
+
+msgid "Reads the current value, or sets a new value"
+msgstr "Ifunda ixabiso langoku, okanye imilisele ixabiso elitsha"
+
+msgid "Received invalid color data\n"
+msgstr "Ifumene umbala we-data ongavumelekanga\n"
+
+msgid "Receives default"
+msgstr "Iyakuvumela ukumiselwa"
+
+msgid "Related Action"
+msgstr "Isenzo"
+
+msgid "Relief of the group header button"
+msgstr "Bonisa amaqhosha okubhalwe emantla ephepha kwikholam"
+
+msgid "Remove"
+msgstr "_Susa"
+
+msgid "Remove the bookmark '%{string}'"
+msgstr "Susa i-bookmark '%{string}'"
+
+msgid "Remove the selected bookmark"
+msgstr "Susa i-bookmark ekhethiweyo"
+
+msgid "Rename..."
+msgstr "_Yinike elinye igama"
+
+msgid "Render detail to pass to the theme engine"
+msgstr "Inkcazelo ngonikezelo edluliselwa kwinjini yesihloko"
+
+msgid "Reorderable"
+msgstr "Inokuphindwa i-odolwe"
+
+msgid "Resizable"
+msgstr "Buyatshintsheka ubungakanani"
+
+msgid "Resize"
+msgstr "Tshintsha ubungakanani"
+
+msgid "Resize mode"
+msgstr "Inkqubo yokutshintsha ubungakanani"
+
+msgid "Resize mode of the column"
+msgstr "Tshintsha ubukhulu benkqubo yekholam"
+
+msgid "Resolution"
+msgstr "Umbuzo"
+
+msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"
+msgstr "Ubungakanani be-Xft, ngokwee-1024 * dots/inch. -1 ukusebenzisa ixabiso elimiliselweyo"
+
+msgid "Right"
+msgstr "_Isahlukanisi-mibala:"
+
+msgid "Right Attach"
+msgstr "Qoboshela Ngasekunene"
+
+msgid "Right Margin"
+msgstr "Umda Wephepha Osekunene"
+
+msgid "Right Padding"
+msgstr "Ukongeza Iinkcukacha Ekunene"
+
+msgid "Right attachment"
+msgstr "Isiqhoboshelo esisekunene"
+
+msgid "Right margin"
+msgstr "Umda wephepha osekunene"
+
+msgid "Right margin set"
+msgstr "Ukumisela umda wephepha ongasekunene"
+
+msgid "Right to left"
+msgstr "_Shicilela"
+
+msgid "Rise"
+msgstr "Unyuko"
+
+msgid "Rise set"
+msgstr "Ukumisela unyuko"
+
+msgid "Row Spacing"
+msgstr "Ukufaka Izithuba Phakathi Kwemigca"
+
+msgid "Row has children"
+msgstr "Umgca uneenkqubo ezingabantwana"
+
+msgid "Row is an expander row, and is expanded"
+msgstr "Umgca ngumgca osisandisi, futhi wandisiwe"
+
+msgid "Row spacing"
+msgstr "Ukufaka izithuba kwimigca"
+
+msgid "Row span column"
+msgstr "Umgama ophakathi komgca nekholam"
+
+msgid "Rows"
+msgstr "Imigca"
+
+msgid "Rules Hint"
+msgstr "Icebiso Ngemithetho"
+
+msgid "SCREEN"
+msgstr "ISKRINI"
+
+msgid "Sans 12"
+msgstr "I-Sans 12"
+
+msgid "Save _As"
+msgstr "Gcina N_jenge"
+
+msgid "Save in _folder:"
+msgstr "Gcina kwi _siqulathi seefayili:"
+
+msgid "Sc_ale:"
+msgstr "_Ixabiso:"
+
+msgid "Screen"
+msgstr "Iskrini"
+
+msgid "Scroll arrow spacing"
+msgstr "Ukufaka izithuba kumgca wokuhlisa usenyusa"
+
+msgid "Scroll offset"
+msgstr "Ukulinganisa ukwehlisa usenyusa"
+
+msgid "Scrollable"
+msgstr "Unako ukuyehlisa uyonyusa"
+
+msgid "Scrollbar spacing"
+msgstr "Ukufaka izithuba kumgca wokuhlisa usenyusa"
+
+msgid "Scrollbars within bevel"
+msgstr "Ukufaka izithuba kumgca wokuhlisa usenyusa"
+
+msgid "Scrolled Window Placement"
+msgstr "Ukubekwa Kwefestile Ngokwendawo"
+
+msgid "Se_lection"
+msgstr "_Ukhetho:"
+
+msgid "Search Column"
+msgstr "Ikholam Yokukhetha"
+
+msgid "Secondary"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary GIcon"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary Text"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary backward stepper"
+msgstr "I-stepper sangasemva esikudidi lwesibini"
+
+msgid "Secondary cursor color"
+msgstr "Umbala wekhesa okudidi lwesibini"
+
+msgid "Secondary forward stepper"
+msgstr "I-stepper sangaphambili esikudidi lwesibini"
+
+msgid "Secondary icon activatable"
+msgstr "Umbala wekhesa okudidi lwesibini"
+
+msgid "Secondary icon name"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary icon sensitive"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary icon tooltip markup"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary icon tooltip text"
+msgstr "Umbala wekhesa okudidi lwesibini"
+
+msgid "Secondary pixbuf"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary pixbuf for the entry"
+msgstr "I-stepper sangaphambili esikudidi lwesibini"
+
+msgid "Secondary stock ID"
+msgstr "Udidi lwesibini"
+
+msgid "Secondary storage type"
+msgstr "I-stepper sangaphambili esikudidi lwesibini"
+
+msgid "Secret"
+msgstr "Iskrini"
+
+msgid "Select A File"
+msgstr "Khetha Ifayili"
+
+msgid "Select Multiple"
+msgstr "Khetha Isiphindo"
+
+msgid "Select _All"
+msgstr "Khetha _Yonke"
+
+msgid "Select a folder"
+msgstr "Khetha Ifayili"
+
+msgid "Select on focus"
+msgstr "Khetha kugxininixo"
+
+msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
+msgstr "Khetha umbala owufunayo ngaphandle komjikelezo. Khetha ukuba luzizi okanye ukuqaqamba kombala ngokusebenzisa unxantathu ophakathi."
+
+msgid "Select which type of documents are shown"
+msgstr "Khetha iindidi zeefayili ezibonisiweyo"
+
+msgid "Select which types of files are shown"
+msgstr "Khetha iindidi zeefayili ezibonisiweyo"
+
+msgid "Selectable"
+msgstr "Iyakhetheka"
+
+msgid "Selected Printer"
+msgstr "Unyaka okhethiweyo"
+
+msgid "Selection Bound"
+msgstr "Ukhetho Olunomda"
+
+msgid "Selection Box Alpha"
+msgstr "I-Alpha Yebhokisi Yokukhetha"
+
+msgid "Selection Box Color"
+msgstr "Umbala Webhokisi Yokukhetha"
+
+msgid "Selection mode"
+msgstr "Imo yokukhetha"
+
+msgid "Sensitive"
+msgstr "Inovakalelo"
+
+msgid "Separator Height"
+msgstr "Umphakamo Omiselweyo"
+
+msgid "Separator Width"
+msgstr "Ububanzi Besahluli Ngokuthe Nkqo"
+
+msgid "Set a hint to the theme engine to draw rows in alternating colors"
+msgstr "Milisela icebiso kwinjini yomxholo ukuzoba izalathisi ngemibala etshintshiselanayo"
+
+msgid "Set the column for the expander column"
+msgstr "Ukumisela ikholam njengekholam eyandisekayo"
+
+msgid "Shadow Type"
+msgstr "Uhlobo Lwesithunzi"
+
+msgid "Shadow type"
+msgstr "Isimbo sesithunzi"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short label"
+msgstr "Ilebhile emfutshane"
+
+msgid "Shortcut %{string} already exists"
+msgstr "Isinqumlisi %{string} asikho"
+
+msgid "Shortcut %{string} does not exist"
+msgstr "Isinqumlisi %{string} asikho"
+
+msgid "Show Arrow"
+msgstr "Bonisa Isalathisi"
+
+msgid "Show Border"
+msgstr "Bonisa Umda"
+
+msgid "Show Day Names"
+msgstr "Bonisa Amagama Eentsuku"
+
+msgid "Show Details"
+msgstr "Unxibelelwano"
+
+msgid "Show Dialog"
+msgstr "Unxibelelwano"
+
+msgid "Show Expanders"
+msgstr "Sisandisi"
+
+msgid "Show GTK+ Options"
+msgstr "Bonisa i- GTK+ ekunokukhethwa kuko"
+
+msgid "Show Heading"
+msgstr "Bonisa Isihloko"
+
+msgid "Show Hidden"
+msgstr "Bonisa Okufihlakeleyo"
+
+msgid "Show Icons"
+msgstr "Umfanekiso Ongumqondiso We-Stock"
+
+msgid "Show Numbers"
+msgstr "Bonisa Amanani Eeveki"
+
+msgid "Show Private"
+msgstr "Bonisa umbhalo"
+
+msgid "Show Tabs"
+msgstr "Bonisa Oo-Tab"
+
+msgid "Show Tooltips"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Show Week Numbers"
+msgstr "Bonisa Amanani Eeveki"
+
+msgid "Show _Hidden Files"
+msgstr "Bonisa _iiFayili eziFihliweyo"
+
+msgid "Show button images"
+msgstr "Bonisa imifanekiso yamaqhosha"
+
+msgid "Show menu images"
+msgstr "Bonisa imifanekiso yemenyu"
+
+msgid "Show size"
+msgstr "Bonisa ubungakanani"
+
+msgid "Show style"
+msgstr "Bonisa isimbo"
+
+msgid "Show text"
+msgstr "Bonisa umbhalo"
+
+msgid "Show the column header buttons"
+msgstr "Bonisa amaqhosha okubhalwe emantla ephepha kwikholam"
+
+msgid "Shrink"
+msgstr "Nciphisa"
+
+msgid "Si_ze:"
+msgstr "Ubu_ngakanani:"
+
+msgid "Side of the handlebox that's lined up with the docking point to dock the handlebox"
+msgstr "Icala lebhokisi yesikhombisi eliqukunjelwe ngechokoza lokunqumla ukuze linqumle ibhokisi yesikhombisi"
+
+msgid "Sidebar image"
+msgstr "Ixabiso"
+
+msgid "Simple"
+msgstr "Ubungakanani"
+
+msgid "Single Line Mode"
+msgstr "Imo Yomgca Omnye"
+
+msgid "Single Paragraph Mode"
+msgstr "Inkqubo Yomhlathi Omnye"
+
+msgid "Size"
+msgstr "Ubungakanani"
+
+msgid "Size of check or radio indicator"
+msgstr "Ubungakanani be-check okanye isibonisi sikanomathotholo"
+
+msgid "Size of icons in this tool palette"
+msgstr "Ubungakanani bemifanekiso eyimiqondiso kwii-toolbars ezimiselweyo"
+
+msgid "Size of icons in this toolbar"
+msgstr "Ubungakanani bemifanekiso eyimiqondiso kwii-toolbars ezimiselweyo"
+
+msgid "Size of spacers"
+msgstr "Ubungakanani beziniki-zithuba"
+
+msgid "Size of tab curvature"
+msgstr "Ubungakanani beziniki-zithuba"
+
+msgid "Size of tab overlap area"
+msgstr "Ubungakanani besalathisi sesandisi"
+
+msgid "Size of the expander arrow"
+msgstr "Ubungakanani besalathisi sesandisi"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "Ubungakanani bengqokelela yezixhobo nge-8 bit mode"
+
+msgid "Size to use for cursors, or 0 to use the default size"
+msgstr "Umbala omawusetyenziswe kwimigca emnqakathi"
+
+msgid "Sizing"
+msgstr "Ukwenza ubungakanani"
+
+msgid "Skip pager"
+msgstr "I-pager yokutsiba"
+
+msgid "Skip taskbar"
+msgstr "Tsiba i-taskbar"
+
+msgid "Slider Length"
+msgstr "Ubude Beslayida"
+
+msgid "Slider Width"
+msgstr "Ububanzi Beslayida"
+
+msgid "Smallest possible value for the \"position\" property"
+msgstr "Elona xabiso lincinci \"position\" yento"
+
+msgid "Snap edge"
+msgstr "Isiphelo sesnephu"
+
+msgid "Snap edge set"
+msgstr "Ukumisela isiphelo sesnephu"
+
+msgid "Snap to Ticks"
+msgstr "Isnephu Kudanyazo"
+
+msgid "Sole completion"
+msgstr "Khetha Umbala"
+
+msgid "Sort Type"
+msgstr "Uhlobo Lwesithunzi"
+
+msgid "Sort column ID"
+msgstr "Ikholam yombhalo"
+
+msgid "Sort direction the sort indicator should indicate"
+msgstr "Icala lohlelo ekumele isibonisi sohlelo sibonise lona"
+
+msgid "Sort indicator"
+msgstr "Isibonisi sokuhlela"
+
+msgid "Sort order"
+msgstr "Indlela yokuhlela"
+
+msgid "Sound Theme Name"
+msgstr "Igama Lomxholo Womfanekiso Ongumqondiso"
+
+msgid "Source option"
+msgstr "Ugqibezelo oluvelayo"
+
+msgid "Source type for the device"
+msgstr "Imodeli yembonakalo ebumthi"
+
+msgid "Space"
+msgstr "_Yinike elinye igama"
+
+msgid "Space between day headers and main area"
+msgstr "Ufakelo lwezithuba ngaphandle kwesalathisi sesandisi"
+
+msgid "Space between value text and the slider/trough area"
+msgstr "Isithuba phakathi kwexabiso lombhalo kunye neslayida/indawo engumsantsa"
+
+msgid "Space between week headers and main area"
+msgstr "Isithuba phakathi kwexabiso lombhalo kunye neslayida/indawo engumsantsa"
+
+msgid "Space style"
+msgstr "Isimbo sesithuba"
+
+msgid "Space to put between the label and the child"
+msgstr "Isithuba emasifakwe phakathi kwelebhile kunye nenkqubo engumntwana"
+
+msgid "Space which is inserted at the edges of the icon view"
+msgstr "Isithuba esifakwe kwiintlangothi sembonakalo yomfanekiso ongumqondiso wento ekhethwayo"
+
+msgid "Space which is inserted between cells"
+msgstr "Isithuba esifakwa phakathi kwee-cell"
+
+msgid "Space which is inserted between cells of an item"
+msgstr "Isithuba esifakwe phakathi kwee-cell zezinto ezikhethwayo"
+
+msgid "Space which is inserted between grid columns"
+msgstr "Isithuba esifakwe phakathi kweekholam zegridi"
+
+msgid "Space which is inserted between grid rows"
+msgstr "Isithuba esifakwe phakathi kwemigca yegridi"
+
+msgid "Spacer size"
+msgstr "Ubungakanani besiniki-sithuba"
+
+msgid "Spacing"
+msgstr "Ukunika izithuba"
+
+msgid "Spacing around check or radio indicator"
+msgstr "Ukufaka izithuba ngaphandle kwe-check okanye isibonisi sikanomathotholo"
+
+msgid "Spacing around expander arrow"
+msgstr "Ufakelo lwezithuba ngaphandle kwesalathisi sesandisi"
+
+msgid "Spacing between buttons"
+msgstr "Ukufaka izithuba phakathi kwamaqhosha"
+
+msgid "Spacing between elements of the area"
+msgstr "Isithuba phakathi kwexabiso lombhalo kunye neslayida/indawo engumsantsa"
+
+msgid "Spacing between elements of the main dialog area"
+msgstr "Isithuba phakathi kwexabiso lombhalo kunye neslayida/indawo engumsantsa"
+
+msgid "Spacing between expander arrow and caption"
+msgstr "Ufakelo lwezithuba ngaphandle kwesalathisi sesandisi"
+
+msgid "Spacing between step buttons and thumb"
+msgstr "Ukufaka izithuba phakathi kwamaqhosha enyathelo kunye nobhontshi"
+
+msgid "Spacing between thumb/steppers and outer trough bevel"
+msgstr "Ukufaka izithuba phakathi koobhontsi/ii-steppers kunye nomsantsa womphetho othambekileyo ongaphandle"
+
+msgid "Spacing in pixels between the icon and label"
+msgstr "Ukufaka izithuba phakathi kwamaqhosha enyathelo kunye nobhontshi"
+
+msgid "Spacing in pixels between the image and label"
+msgstr "Isithuba emasifakwe phakathi kwelebhile kunye nenkqubo engumntwana"
+
+msgid "Specify how resize events are handled"
+msgstr "Bonisa ukuba izehlo zokutshintsha ubungakanani ziphathwa njani"
+
+msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
+msgstr "Ikhawuleziza imbonakalo ye-GtkTreeView ngokuqikelela ukuba yonke imigca inomphakamo ofanayo"
+
+msgid "Split Cursor"
+msgstr "Ikhesa Yokwahlula"
+
+msgid "Startup ID"
+msgstr "Iqela"
+
+msgid "Step Increment"
+msgstr "Ulwandiso Lenyathelo"
+
+msgid "Stepper Size"
+msgstr "Ubungakanani be-Stepper"
+
+msgid "Stepper Spacing"
+msgstr "Ukufaka Izithuba Kwi-Stepper"
+
+msgid "Stock ID"
+msgstr "I-Stock ID"
+
+msgid "Stock ID for a stock image to display"
+msgstr "I-Stock ID somfanekiso we-stock emasibonakaliswe"
+
+msgid "Stock Icon"
+msgstr "Umfanekiso Ongumqondiso We-Stock"
+
+msgid "Stock Id"
+msgstr "I-Stock Id"
+
+msgid "Storage type"
+msgstr "Isimbo sovimba"
+
+msgid "Strikethrough"
+msgstr "Ukucima ngokukrwela umgca"
+
+msgid "Strikethrough set"
+msgstr "Ukumisela ukucima ngokukrwela umgca"
+
+msgid "Style"
+msgstr "Isimbo"
+
+msgid "Style of bevel around the contents"
+msgstr "Isimbo somphetho othambekileyo ngokujikeleze iziqulatho"
+
+msgid "Style of bevel around the menubar"
+msgstr "Isimbo somphetho othambekileyo ongaphandle komgca wemenyu"
+
+msgid "Style of bevel around the spin button"
+msgstr "Isimbo somphetho othambekileyo ojikeleze iqhosha elijikelezayo"
+
+msgid "Style of bevel around the statusbar text"
+msgstr "Isimbo somphetho othambekileyo ojikeleze umbhalo womgca obonakalisa ubume bokuqhubekayo"
+
+msgid "Style of bevel around the toolbar"
+msgstr "Isimbo somphetho othambekileyo ngaphandle kwe-toolbar"
+
+msgid "Style of items in the tool palette"
+msgstr "Isimbo somphetho othambekileyo ngaphandle kwe-toolbar"
+
+msgid "Style of underline for this text"
+msgstr "Isimbo sokukrwela ngaphantsi salo mbhalo"
+
+msgid "Success color"
+msgstr "Umbala wekhesa"
+
+msgid "Support Selection"
+msgstr "Ukukhetha I-hover"
+
+msgid "Symbolic size to use for stock icon, icon set or named icon"
+msgstr "Ubungakanani obungumfuziselo emabusetyenziswe kumfanekiso ongumqondiso we-stock, kumiselo lomfanekiso ongumqondiso okanye umfanekiso ongumqondiso onegama"
+
+msgid "Sys_Req"
+msgstr "Isixokelelwano seefayili"
+
+msgid "System"
+msgstr "Isixokelelwano seefayili"
+
+msgid "TRUE if the Position property should be used"
+msgstr "TRUE ukuba into Yendawo kumele isetyenziswe"
+
+msgid "TRUE if the window should be brought to the user's attention."
+msgstr "TRUE ukuba ifestile akufanele ukuba ibe kwi-pager."
+
+msgid "TRUE if the window should not be in the pager."
+msgstr "TRUE ukuba ifestile akufanele ukuba ibe kwi-pager."
+
+msgid "TRUE if the window should not be in the task bar."
+msgstr "TRUE ukuba ifestile ayimele ukuba kwi-taskbar."
+
+msgid "TRUE if the window should receive the input focus when mapped."
+msgstr "TRUE ukuba ifestile imele ifumane ugxininiso olungenayo xa izotyiwe."
+
+msgid "TRUE if the window should receive the input focus."
+msgstr "TRUE ukuba ifestile imele ifumane ugxininixo olungenayo."
+
+msgid "TRUE if this printer is paused"
+msgstr "TRUE ukuba into Yendawo kumele isetyenziswe"
+
+msgid "Tab Position"
+msgstr "Indawo Ka-Tab"
+
+msgid "Tab detachable"
+msgstr "Ilebhile ka-tab"
+
+msgid "Tab expand"
+msgstr "Ukwandisa u-tab"
+
+msgid "Tab fill"
+msgstr "Ukuzalisa u-tab"
+
+msgid "Tab label"
+msgstr "Ilebhile ka-tab"
+
+msgid "Tab overlap"
+msgstr "Umda Ka-Tab"
+
+msgid "Tab pack type"
+msgstr "Uhlobo lokupakisha luka-tab"
+
+msgid "Tab reorderable"
+msgstr "Inokuphindwa i-odolwe"
+
+msgid "Tabs"
+msgstr "Oo-tab"
+
+msgid "Tabs set"
+msgstr "Ukumisela oo-tab"
+
+msgid "Tag Table"
+msgstr "Itafile yesalathisi"
+
+msgid "Tag name"
+msgstr "Igama lesalathisi"
+
+msgid "Take Focus"
+msgstr "Inogxilo"
+
+msgid "Tearoff State"
+msgstr "Imo Yokususwa"
+
+msgid "Tearoff Title"
+msgstr "Isihloko Sokususwayo"
+
+msgid "Terminal Pager"
+msgstr "Khangela_Phambi kokushicilela"
+
+msgid "Text"
+msgstr "Umbhalo"
+
+msgid "Text Buffer"
+msgstr "Isigcini sethutyana"
+
+msgid "Text Column"
+msgstr "Ikholam Yombhalo"
+
+msgid "Text Tag Table"
+msgstr "Itafile Yesiphawuli Sombhalo"
+
+msgid "Text column"
+msgstr "Ikholam yombhalo"
+
+msgid "Text direction"
+msgstr "Icala lombhalo"
+
+msgid "Text direction, e.g. right-to-left or left-to-right"
+msgstr "Icala lombhalo, umz. ekunene-ukuya-ekhohlo okanye ekhohlo-ukuya-ekunene"
+
+msgid "Text length"
+msgstr "Ulungelelaniso luka-x lombhalo"
+
+msgid "Text of the expander's label"
+msgstr "Umbhalo welebhile yesandisi"
+
+msgid "Text of the frame's label"
+msgstr "Umbhalo welebhile ye-frame"
+
+msgid "Text of the label widget inside the button, if the button contains a label widget"
+msgstr "Umbhalo welebhile yesixhobo ongaphakathi eqhosheni, ukuba ngaba iqhosha linayo ilebhile yesixhobo"
+
+msgid "Text on the progress bar"
+msgstr "Umbhalo okwisikhombisi senkqubela"
+
+msgid "Text to be displayed in the progress bar"
+msgstr "Umbhalo omawubonakaliswe kwisikhombisi senkqubela"
+
+msgid "Text to render"
+msgstr "Umbhalo wonikezelo"
+
+msgid "Text to show in the item."
+msgstr "Umbhalo omawuvele kwinto ekhethwayo."
+
+msgid "Text x alignment"
+msgstr "Ulungelelaniso luka-x lombhalo"
+
+msgid "Text y alignment"
+msgstr "Ulungelelaniso luka-y lombhalo"
+
+msgid "The Accel Group to use for stock accelerator keys"
+msgstr "Isivalo kumele sihlale sijongiwe ukuze kubonwe iinguquko kwisinqumlisi"
+
+msgid "The GIcon being displayed"
+msgstr "Ukumisela umfanekiso ongumqondiso emawubonakaliswe"
+
+msgid "The GtkActionGroup this GtkAction is associated with, or NULL (for internal use)."
+msgstr "I-GtkActionGroup le GtkAction enxulunyaniswa nayo, okanye NULL (kusebenziso lwangaphakathi)."
+
+msgid "The GtkAdjustment for the horizontal position"
+msgstr "I-GtkAdjustment ngokwendawo ethe tyaba"
+
+msgid "The GtkAdjustment for the vertical position"
+msgstr "I-GtkAdjustment ngokwendawo ethe nkqo"
+
+msgid "The GtkAdjustment that contains the current value of this range object"
+msgstr "I-GtkAdjustment equlethe ixabiso langoku lwento eseluhlwini"
+
+msgid "The GtkAdjustment that contains the current value of this scale button object"
+msgstr "I-GtkAdjustment equlethe ixabiso langoku lwento eseluhlwini"
+
+msgid "The GtkAdjustment that determines the values of the horizontal position for this viewport"
+msgstr "I-GtkAdjustment emisela amaxabiso endawo ethe tyaba yale mbonakalo ye-port"
+
+msgid "The GtkAdjustment that determines the values of the vertical position for this viewport"
+msgstr "I-GtkAdjustment emisela amaxabiso endawo ethe nkqo yale mbonakalo ye-port"
+
+msgid "The GtkIconSize value that specifies the size of the rendered icon"
+msgstr "Ixabiso le-GtkIconSize elichaza ubungakanani bomfanekiso ongumqondiso onikezelwayo"
+
+msgid "The GtkIconSize value that specifies the size of the rendered spinner"
+msgstr "Ixabiso le-GtkIconSize elichaza ubungakanani bomfanekiso ongumqondiso onikezelwayo"
+
+msgid "The GtkPrinter which is selected"
+msgstr "Into esebenzayo ngelo xesha"
+
+msgid "The OK button of the dialog."
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The URI bound to this button"
+msgstr "Imo ye-toggle yeqhosha"
+
+msgid "The URL for the link to the website of the program"
+msgstr "Idilesi eyi-URL yesinxulumanisi se-website yenkqubo"
+
+msgid "The accel group holding accelerators for the menu"
+msgstr "Isinqumlisi seqhosha lokukhumbula sale lebhile"
+
+msgid "The acceleration rate when you hold down a button"
+msgstr "Isantya esinyukayo xa ucinezele iqhosha"
+
+msgid "The adjustment that holds the value of the spin button"
+msgstr "Uhlenga-hlengiso olubamba ixabiso leqhosha elijikelezayo"
+
+msgid "The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that"
+msgstr "Ulungelelaniso lwemigca kumbhalo welebhile ngokunxulumana kwayo. Le nto AYInagalelo kulungelelaniso lwelebhile phakathi kwindawo eyabelwe yona. Bona i-GtkMisc::xalign yayo"
+
+msgid "The amount of space between children"
+msgstr "Ubungakanani bezithuba phakathi kweenkqubo ezingabantwana"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "Ubungakanani besithuba phakathi kweekholam ezimbini ezilandelelanayo"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "Ubungakanani besithuba phakathi kwemigca emibini elandelelanayo"
+
+msgid "The amount of space to add on the left and right of the widget, in pixels"
+msgstr "Ubungakanani besithuba emasongezwe ekhohlo nasekunene kwesixhobo, ngokwee-pixels"
+
+msgid "The amount of space to add on the top and bottom of the widget, in pixels"
+msgstr "Ubungakanani besithuba emasongezwe emantla nasemazantsi esixhobo, ngokwee-pixels"
+
+msgid "The border relief style"
+msgstr "Isimbo somda obonakala ngokucacileyo"
+
+msgid "The buffer which is displayed"
+msgstr "Isigcini sethutyana esibonakalisiweyo"
+
+msgid "The buttons shown in the message dialog"
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The cancel button of the dialog."
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The character to use when masking entry contents (in \"password mode\")"
+msgstr "Uphawu olusetyenziswayo xa kugqutyuthelwa iziqulatho zezingeniso (\"password mode\")"
+
+msgid "The child pack direction of the menubar"
+msgstr "Imbonakalo ye-toolbar"
+
+msgid "The closure to be monitored for accelerator changes"
+msgstr "Isivalo kumele sihlale sijongiwe ukuze kubonwe iinguquko kwisinqumlisi"
+
+msgid "The color selection embedded in the dialog."
+msgstr "Isihloko sombala webhokisi yokukhetha"
+
+msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "Umbala owukhethileyo. Ungawutsala lo mbala uwuse kwingeniso yengqokelela yesixhobo ukuyigcinela ukuba uyisebenzise kwixa elizayo."
+
+msgid "The column in the model containing the tooltip texts for the items"
+msgstr "Ikholam yemodeli equlethe uluhlu lwamagama."
+
+msgid "The column in the model containing the tooltip texts for the rows"
+msgstr "Ikholam yemodeli equlethe uluhlu lwamagama."
+
+msgid "The column number to attach the left side of the child to"
+msgstr "Inani lekholam emakuqhotyoshelwe kulo icala lasekhohlo lenkqubo engumntwana"
+
+msgid "The column number to attach the right side of a child widget to"
+msgstr "Inani lekholam emakuqotyoshelwe kuyo icala lasekunene lesixhobo senkqubo engumntwana"
+
+msgid "The column number to attach the right side of the child to"
+msgstr "Inani lekholam emakuqhotyoshelwe kulo icala lasekunene lenkqubo engumntwana"
+
+msgid "The column of the model containing the strings."
+msgstr "Ikholam yemodeli equlethe uluhlu lwamagama."
+
+msgid "The contents of the buffer"
+msgstr "Isiqulatho sesingeniso"
+
+msgid "The contents of the entry"
+msgstr "Isiqulatho sesingeniso"
+
+msgid "The contents of the tooltip for this tray icon"
+msgstr "Isiqulatho sesingeniso"
+
+msgid "The contents of the tooltip for this widget"
+msgstr "Isiqulatho sesingeniso"
+
+msgid "The contents of the tooltip on the primary icon"
+msgstr "Isiqulatho sesingeniso"
+
+msgid "The contents of the tooltip on the secondary icon"
+msgstr "Isiqulatho sesingeniso"
+
+msgid "The current color"
+msgstr "Umbala wangoku"
+
+msgid "The current filter for selecting which files are displayed"
+msgstr "Isihluzi sangoku sokukhetha iifayili ezibonakalisiweyo"
+
+msgid "The current filter for selecting which resources are displayed"
+msgstr "Isihluzi sangoku sokukhetha iifayili ezibonakalisiweyo"
+
+msgid "The current fraction of the task that's been completed"
+msgstr "Iqhezu lomsebezni wonke osele ugqityiwe"
+
+msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "Ixabiso langoku lobumfiliba (0 icace ngokuthe gca kwelinye icala, 65535 iluzizi kakhulu)"
+
+msgid "The current page in the document"
+msgstr "Ubungakanani bephepha bohlenga-hlengiso"
+
+msgid "The current position of the insertion cursor in chars"
+msgstr "Indawo yangoku yekhesa yokufakela ngokweempawu"
+
+msgid "The current value"
+msgstr "Umbala wangoku"
+
+msgid "The currently selected menu item"
+msgstr "Igama lefayili ekhethiweyo ngoku"
+
+msgid "The default display for GDK"
+msgstr "Okumiselweyo okubonakala kwiskrini se-GDK"
+
+msgid "The default font options for the screen"
+msgstr "Igama lefonti emiselweyo emayisetyenziswe"
+
+msgid "The default height of the window, used when initially showing the window"
+msgstr "Umphakamo omiselweyo wefestile, usetyenziswa xa ubonisa ifestile okokuqala"
+
+msgid "The default width of the window, used when initially showing the window"
+msgstr "Ububanzi obumiselweyo befestile, busetyenziswa xa ubonisa ifestile okokuqala"
+
+msgid "The desired maximum width of the label, in characters"
+msgstr "Obona bubanzi bukhulu bufunekayo belebhile, ngokweempawu"
+
+msgid "The desired width of the button widget, in characters."
+msgstr "Ububanzi obufunekayo beqhosha lesixhobo, ngokweempawu."
+
+msgid "The desired width of the label, in characters"
+msgstr "Ububanzi obufunekayo belebhile, ngokweempawu"
+
+msgid "The direction the arrow should point"
+msgstr "Icala ekumele isalathisi sikhombe kulo"
+
+msgid "The directions in which the size group affects the requested sizes of its component widgets"
+msgstr "Amacala eqela lobungakanani elithi libe negalelo kuwo kubungakanani obuceliweyo bezixhobo eziyinxalenye yawo"
+
+msgid "The dropdown menu"
+msgstr "Imenyu enoluhlu olwehlayo"
+
+msgid "The event mask that decides what kind of GdkEvents this widget gets"
+msgstr "Isigqubuthelo sesehlo esikhetha uhlobo lwe-GdkEvents olufunyanwa sesi sixhobo"
+
+msgid "The file chooser dialog to use."
+msgstr "Unxibelelwano lokukhetha ifayili emayisetyenziswe."
+
+msgid "The fixed height"
+msgstr "Umphakamo osisigxina"
+
+msgid "The fixed width"
+msgstr "Ububanzi obusisigxina"
+
+msgid "The folder contents could not be displayed"
+msgstr "Okuqulethwe sisiqulathi seefayili akuvelanga"
+
+msgid "The folder could not be created"
+msgstr "Esi siqulathi sefayili asinakwenzeka"
+
+msgid "The fraction of total entry width to move the progress bouncing block for each call to gtk_entry_progress_pulse()"
+msgstr "Iqhezu lenkqubela yonke yokuhambisa ibloko exhumayo xa ibetha"
+
+msgid "The fraction of total progress to move the bouncing block when pulsed"
+msgstr "Iqhezu lenkqubela yonke yokuhambisa ibloko exhumayo xa ibetha"
+
+msgid "The fraction of total work that has been completed"
+msgstr "Iqhezu lomsebezni wonke osele ugqityiwe"
+
+msgid "The height of the layout"
+msgstr "Umphakamo wobume"
+
+msgid "The help button of the dialog."
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The horizontal alignment of the label"
+msgstr "Ulungelelwaniso oluthe tyaba lwelebhile"
+
+msgid "The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
+msgstr "Ulungelelaniso oluthe tyaba, ukusuka ku-0 (ekhohlo) ukuya ku-1 (ekunene). Iyaguquka kubume bee-RTL."
+
+msgid "The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
+msgstr "Ulungelelaniso oluthe tyaba, ukusuka ku-0 (ekhohlo) ukuya ku-1 (ekunene). Iyaguquka kubume bee-RTL."
+
+msgid "The human-readable title of this item group"
+msgstr "Uhlobo lwefestile"
+
+msgid "The icon name to use for the printer"
+msgstr "Ububanzi obusetyenzisiweyo kwinto nganye ekhethwayo"
+
+msgid "The icon size"
+msgstr "Ubungakanani bomfanekiso ongumqondiso we-toolbar"
+
+msgid "The image"
+msgstr "Ixabiso"
+
+msgid "The inconsistent state of the button"
+msgstr "Imo etshintsha-tshintshayo yeqhosha"
+
+msgid "The index of the child in the parent"
+msgstr "Isalathiso senkqubo engumntwana kuleyo ingunozala"
+
+msgid "The index of the current page"
+msgstr "Isalathiso sephepha okulo"
+
+msgid "The initial position of the window"
+msgstr "Indawo yokuqala yefestile"
+
+msgid "The item which is currently active"
+msgstr "Into esebenzayo ngelo xesha"
+
+msgid "The keyval of the accelerator"
+msgstr "Ixabiso lohlenga-hlengiso"
+
+msgid "The label for the link to the website of the program. If this is not set, it defaults to the URL"
+msgstr "Ilebhile yesinxulumanisi se-website yenkqubo. Ukuba ngaba ayimiselwanga, iya kwi-URL"
+
+msgid "The label used for menu items and buttons that activate this action."
+msgstr "Ilebhile esetyenziswa kwiziqulatho zemenyu kunye namaqhosha awenza sisebenze isenzo."
+
+msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If not set, an appropriate default will be used."
+msgstr "Ulwimi okulo lo mbhalo, ngengekhodi ye-ISO. I-Pango inokusebenzisa oku njengecebiso xa inekezela umbhalo. Ukuba ayimiselwanga, umiliselo olufanelekileyo luya kusetyenziswa."
+
+msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If you don't understand this parameter, you probably don't need it"
+msgstr "Ulwimi okulo lo mbhalo, njengekhowudi i-ISO. I-Pango inokukusebenzisa oku njengecebiso xa inikeza umbhalo. Ukuba ngaba awuluqondi olu jika-jiko, inokuba alubalulekanga kuwe"
+
+msgid "The length of horizontal scroll arrows"
+msgstr "Xa umgca wokwehlisa usenyusa othe tyaba ubonakalisiwe"
+
+msgid "The length of vertical scroll arrows"
+msgstr "Xa umgca wokwehlisa usenyusa othe nkqo ubonakalisiwe"
+
+msgid "The license of the program"
+msgstr "Iphepha-mvume yale nkqubo"
+
+msgid "The license type of the program"
+msgstr "Uhlobo lwenkqubo"
+
+msgid "The location of the printer"
+msgstr "Imbonakalo ye-toolbar"
+
+msgid "The mask that decides what kind of extension events this widget gets"
+msgstr "Isigqubuthelo esikhetha uhlobo lwesandiso sezehlo olufunyanwa sesi sixhobo"
+
+msgid "The maximum number of items to be displayed"
+msgstr "Inani leendawo zedesimali emalibonakaliswe"
+
+msgid "The maximum value of the adjustment"
+msgstr "Elona xabiso liphezulu lohlenga-hlengiso"
+
+msgid "The maximum width of the cell, in characters"
+msgstr "Obona bubanzi bukhulu bufunekayo belebhile, ngokweempawu"
+
+msgid "The metric used for the ruler"
+msgstr "Ububanzi obusetyenzisiweyo kwinto nganye ekhethwayo"
+
+msgid "The minimum desired width of the menu item in characters"
+msgstr "Ububanzi obufunekayo belebhile, ngokweempawu"
+
+msgid "The minimum horizontal width of the progress bar"
+msgstr "Ulungelelwaniso oluthe tyaba lwelebhile"
+
+msgid "The minimum size of the arrow in the combo box"
+msgstr "Imodeli yebhokisi enoludwe onokukhetha kulo"
+
+msgid "The minimum value of the adjustment"
+msgstr "Elona xabiso liphantsi lohlenga-hlengiso"
+
+msgid "The minimum vertical height of the progress bar"
+msgstr "Ixabiso lesikhombisi senkqubela"
+
+msgid "The minimum vertical width of the progress bar"
+msgstr "Umbhalo okwisikhombisi senkqubela"
+
+msgid "The mnemonic accelerator key for this label"
+msgstr "Isinqumlisi seqhosha lokukhumbula sale lebhile"
+
+msgid "The model containing the possible values for the combo box"
+msgstr "Imodeli enamaxabiso anokungena kwibhokisi enoludwe onokukhetha kulo"
+
+msgid "The model for cell view"
+msgstr "Imodeli yembonakalo yomfanekiso ongumqondiso"
+
+msgid "The model for the TreeModelSort to sort"
+msgstr "Imodeli ye-TreeModelSort yokuhlela"
+
+msgid "The model for the combo box"
+msgstr "Imodeli yebhokisi enoludwe onokukhetha kulo"
+
+msgid "The model for the icon view"
+msgstr "Imodeli yembonakalo yomfanekiso ongumqondiso"
+
+msgid "The model for the tree view"
+msgstr "Imodeli yembonakalo ebumthi"
+
+msgid "The model to find matches in"
+msgstr "Imodeli yokufumana ezingqamanayo"
+
+msgid "The name of the icon from the icon theme"
+msgstr "Igama lomfanekiso ongumqondiso elikwisihloko somfanekiso ongumqondiso"
+
+msgid "The name of the program. If this is not set, it defaults to g_get_application_name()"
+msgstr "Igama lenkqubo. Ukuba ngaba ayimiliselwanga, iya kwimo emiliselweyo g_get_application_name()"
+
+msgid "The name of the selected font"
+msgstr "Igama lefonti ekhethiweyo"
+
+msgid "The name of the themed icon displayed on the item"
+msgstr "Umfanekiso ongumqondiso we-stock oboniswe entweni"
+
+msgid "The name of the widget"
+msgstr "Igama lesixhobo"
+
+msgid "The number of columns in the table"
+msgstr "Inani leekholam zetafile"
+
+msgid "The number of decimal places that are displayed in the value"
+msgstr "Inani leendawo sedesimali eziboniswe kwixabiso"
+
+msgid "The number of decimal places to display"
+msgstr "Inani leendawo zedesimali emalibonakaliswe"
+
+msgid "The number of pages in the document."
+msgstr "Inani lemigca yetafile"
+
+msgid "The number of pages that will be printed."
+msgstr "Inani lemigca yetafile"
+
+msgid "The number of rows in the table"
+msgstr "Inani lemigca yetafile"
+
+msgid "The opacity of the window, from 0 to 1"
+msgstr "Uhlobo lwefestile"
+
+msgid "The orientation of the orientable"
+msgstr "Imbonakalo ye-toolbar"
+
+msgid "The orientation of the tray"
+msgstr "Imbonakalo ye-toolbar"
+
+msgid "The pack direction of the menubar"
+msgstr "Imbonakalo ye-toolbar"
+
+msgid "The padding to insert at the bottom of the widget."
+msgstr "Ulongezo lweenkcukacha emalufakwe emazantsi esixhobo."
+
+msgid "The padding to insert at the left of the widget."
+msgstr "Ulongezo lweenkcukacha emalufakwe ngasekhohlo kwesixhobo."
+
+msgid "The padding to insert at the right of the widget."
+msgstr "Ulongezo lweenkcukacha emalufakwe ngasekunene kwesixhobo."
+
+msgid "The padding to insert at the top of the widget."
+msgstr "Ulongezo lweenkcukacha emalufakwe emantla esixhobo."
+
+msgid "The page increment of the adjustment"
+msgstr "Ulwandiso lwephepha lohlenga-hlengiso"
+
+msgid "The page size of the adjustment"
+msgstr "Ubungakanani bephepha bohlenga-hlengiso"
+
+msgid "The parent widget of this widget. Must be a Container widget"
+msgstr "Isixhobo esingunozala wesi sixhobo. Kumele ibe sisixhobo esiSikhongozeli"
+
+msgid "The parent window"
+msgstr "Uhlobo lwefestile"
+
+msgid "The pixbuf to render"
+msgstr "I-pixbuf yonikezelo"
+
+msgid "The position in which the current value is displayed"
+msgstr "Indawo eliboniswe kuyo ixabiso langoku"
+
+msgid "The position of the image relative to the text"
+msgstr "Indawo yesikhombisi ngokunxulumene nesixhobo senkqubo engumntwana"
+
+msgid "The position of the opposite end of the selection from the cursor in chars"
+msgstr "Indawo yelinye icala lokukhetha ukusuka kwikhesa ngokweempawu"
+
+msgid "The preferred place to ellipsize the string, if the cell renderer does not have enough room to display the entire string"
+msgstr "Indawo ekhethekayo yokwenza ubungakanani bobumbhoxo boluhlu lwamagama, ukuba i-cell yonikezelo ayinaso isithuba esaneleyo sokubonisa uluhlu lwamagama onke, ukuba inako phofu"
+
+msgid "The preferred place to ellipsize the string, if the label does not have enough room to display the entire string"
+msgstr "Indawo ekhethekayo yokwenza ubungakanani bobumbhoxo boluhlu lwamagama, ukuba ilebhile ayinandawo yaneleyo yokubonisa uluhlu lwamagama lonke, ukuba inayo phofu"
+
+msgid "The preferred place to ellipsize the string, if the progress bar does not have enough room to display the entire string, if at all."
+msgstr "Indawo ekhethekayo yokwenza ubungakanani bobumbhoxo boluhlu lwamagama, ukuba isikhombisi senkqubela asinandawo yaneleyo yokubonisa uluhlu lwamagama lonke, ukuba inayo phofu"
+
+msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
+msgstr "Umbala obuwukhethile ngaphambili uthelekiswa nalo uwukhetha ngoku. Ungatsala lo mbala uwuse kwingeniso eyingqokelela yezixhobo, okanye ukhethe lo mbala njengokuba unjalo ngoku ngokuwutsala uwuse kwi-color swatch esecaleni."
+
+msgid "The primary text of the message dialog"
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The primary text of the title includes Pango markup."
+msgstr "Umbhalo welebhile uquka uphawulo lwe-XML. Bona pango_parse_markup()"
+
+msgid "The radio action whose group this action belongs to."
+msgstr "Iqhosha likanomathotholo esi senzo esililungu leqela laso."
+
+msgid "The radio button whose group this widget belongs to."
+msgstr "Iqhosha likanomathotholo esi sixhobo esililungu leqela laso."
+
+msgid "The radio menu item whose group this widget belongs to."
+msgstr "Iqhosha likanomathotholo esi sixhobo esililungu leqela laso."
+
+msgid "The radio tool button whose group this button belongs to."
+msgstr "Iqhosha likanomathotholo esi sixhobo esililungu leqela laso."
+
+msgid "The representation being used for image data"
+msgstr "Umelo olusetyenzisiweyo kwi-data yomfanekiso"
+
+msgid "The representation being used for primary icon"
+msgstr "Umelo olusetyenzisiweyo kwi-data yomfanekiso"
+
+msgid "The representation being used for secondary icon"
+msgstr "Umelo olusetyenzisiweyo kwi-data yomfanekiso"
+
+msgid "The resolution for fonts on the screen"
+msgstr "Indlela emaluhlaziywe ngayo uluhlu eskrinini"
+
+msgid "The row number to attach the bottom of the child to"
+msgstr "Inani lomgca emakuqhotyoshelwe kulo umzantsi wenkqubo engumntwana"
+
+msgid "The row number to attach the top of a child widget to"
+msgstr "Inani lomgca emakuqotyoshelwe kuwo icala lasekunene lesixhobo senkqubo engumntwana"
+
+msgid "The row number to attach the top of the child to"
+msgstr "Inani lomgca emakuqhotyoshelwe kulo umntla wenkqubo engumntwana"
+
+msgid "The screen where this status icon will be displayed"
+msgstr "Iskrini eso le festile iza kuthi ibonakaliswe kuso"
+
+msgid "The screen where this window will be displayed"
+msgstr "Iskrini eso le festile iza kuthi ibonakaliswe kuso"
+
+msgid "The screen where this window will be displayed."
+msgstr "Iskrini eso le festile iza kuthi ibonakaliswe kuso"
+
+msgid "The secondary text of the message dialog"
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The selected color"
+msgstr "Umbala okhethiweyo"
+
+msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
+msgstr "Usuku olukhethiweyo (njengenani eliphakathi kuka-1 nama-31, okanye u-0 xa ufuna ukususa usuku olukhethiweyo)"
+
+msgid "The selected month (as a number between 0 and 11)"
+msgstr "Inyanga ekhethiweyo (njengenani eliphakathi kuka-0 ne-11)"
+
+msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "Ixabiso lobumfiliba elikhethiweyo (0 icace ngokuthe gca kwelinye icala, 65535 iluzizi kakhulu)"
+
+msgid "The selected year"
+msgstr "Unyaka okhethiweyo"
+
+msgid "The selection mode"
+msgstr "Imo yokukhetha"
+
+msgid "The size of icons in default toolbars."
+msgstr "Ubungakanani bemifanekiso eyimiqondiso kwii-toolbars ezimiselweyo"
+
+msgid "The size of the icon"
+msgstr "Uhlobo lwefestile"
+
+msgid "The sorting order of the items displayed"
+msgstr "Ukuba inxalenye yeqhosha le-toggle libonisiwe"
+
+msgid "The status of the print operation"
+msgstr "Imo ye-toggle yeqhosha"
+
+msgid "The step increment of the adjustment"
+msgstr "Ulwandiso lenyathelo lohlenga-hlengiso"
+
+msgid "The stock ID of the stock icon to render"
+msgstr "I-stock ID somfanekiso we-stock ongumqondiso onikezelwayo"
+
+msgid "The stock icon displayed in widgets representing this action."
+msgstr "Umfanekiso ongumqondiso we-stock obonakaliswe kwizixhobo ezimele esi senzo."
+
+msgid "The stock icon displayed on the item"
+msgstr "Umfanekiso ongumqondiso we-stock oboniswe entweni"
+
+msgid "The string displayed in the child's menu entry"
+msgstr "Uluhlu lwamagama oluboniswe kwimenyu yokungenisa yenkqubo engumntwana"
+
+msgid "The string displayed on the child's tab label"
+msgstr "Uluhlu lwamagama oluboniswe kwilebhile ka-tab yenkqubo engumntwana"
+
+msgid "The string that represents this font"
+msgstr "Uluhlu lwamagama luka-X olumele le fonti"
+
+msgid "The style of the widget, which contains information about how it will look (colors etc)"
+msgstr "Isimbo sesixhobo, esiqulethe ulwazi malunga nendlela esiza kusebenza ngayo (imibala njl.njl)"
+
+msgid "The text for the child label"
+msgstr "Umbhalo welebhile"
+
+msgid "The text of the label"
+msgstr "Umbhalo welebhile"
+
+msgid "The text of the label includes XML markup. See pango_parse_markup()"
+msgstr "Umbhalo welebhile uquka uphawulo lwe-XML. Bona pango_parse_markup()"
+
+msgid "The text to display in order to demonstrate the selected font"
+msgstr "Umbhalo omawubonakaliswe ukuze kubonakale ifonti ekhethiweyo"
+
+msgid "The time before hiding a submenu when the pointer is moving towards the submenu"
+msgstr "Ixesha eliphambi kokufihlwa kwemenyu engaphakathi kwenye xa isalathiso sisiya kwicala lemenyu engaphakathi kwenye"
+
+msgid "The title of the assistant page"
+msgstr "Uhlobo lwefestile"
+
+msgid "The title of the color selection dialog"
+msgstr "Isihloko sombala webhokisi yokukhetha"
+
+msgid "The title of the file chooser dialog."
+msgstr "Isihloko sonxibelelwano lokukhetha ifayili."
+
+msgid "The title of the font selection dialog"
+msgstr "Isihloko sebhokisi yokukhetha ifonti"
+
+msgid "The title of the window"
+msgstr "Uhlobo lwefestile"
+
+msgid "The title of this tray icon"
+msgstr "Uhlobo lwefestile"
+
+msgid "The toggle button can be activated"
+msgstr "Iqhosha le-toggle linokwenziwa lisebenze"
+
+msgid "The toggle state of the button"
+msgstr "Imo ye-toggle yeqhosha"
+
+msgid "The transient parent of the dialog"
+msgstr "Amaqhosha abonakala kwibhokisi yomyalezo"
+
+msgid "The type of accelerators"
+msgstr "Isimbo somyalezo"
+
+msgid "The type of message"
+msgstr "Isimbo somyalezo"
+
+msgid "The type of operation that the file selector is performing"
+msgstr "Uhlobo lomsebenzi owenziwa sisikhethi sefayili"
+
+msgid "The type of the assistant page"
+msgstr "Isimbo somyalezo"
+
+msgid "The type of the window"
+msgstr "Uhlobo lwefestile"
+
+msgid "The value"
+msgstr "Ixabiso"
+
+msgid "The value of the adjustment"
+msgstr "Ixabiso lohlenga-hlengiso"
+
+msgid "The value of the scale"
+msgstr "Ixabiso lohlenga-hlengiso"
+
+msgid "The value returned by gtk_radio_action_get_current_value() when this action is the current action of its group."
+msgstr "Ixabiso elibuyiswe yi-gtk_radio_action_get_current_value() xa esi senzo sisisenzo sangoku seli qela."
+
+msgid "The version of the program"
+msgstr "Uhlobo lwenkqubo"
+
+msgid "The vertical alignment of the label"
+msgstr "Ulungelelwaniso oluthe nkqo lwelebhile"
+
+msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
+msgstr "Ulungelelaniso ngokuthe nkqo, ukusuka ku-0 (emantla) ukuya ku-1 (emazantsi)"
+
+msgid "The vertical text alignment, from 0 (top) to 1 (bottom)."
+msgstr "Ulungelelaniso ngokuthe nkqo, ukusuka ku-0 (emantla) ukuya ku-1 (emazantsi)"
+
+msgid "The widget the menu is attached to"
+msgstr "Nokuba ngaba okukhethwa kwimenyu kuvavanyiwe na"
+
+msgid "The widget to be activated when the label's mnemonic key is pressed"
+msgstr "Isixhobo emasenziwe sisebenze xa iqhosha lokukhumbula lelebhile licofiwe"
+
+msgid "The widget to be monitored for accelerator changes"
+msgstr "Isixhobo kumele sihlale sijongiwe ukuze kubonwe iinguquko kwisinqumlisi"
+
+msgid "The width at which the text is wrapped"
+msgstr "I-engile ejikeleziswe ngayo ilebhile"
+
+msgid "The width of the empty border outside the containers children"
+msgstr "Ububanzi bomda ongenanto ongaphandle kwezikhongozelo zeenkqubo ezingabantwana"
+
+msgid "The width of the layout"
+msgstr "Ububanzi bobume"
+
+msgid "The width used for each item"
+msgstr "Ububanzi obusetyenzisiweyo kwinto nganye ekhethwayo"
+
+msgid "The window gravity of the window"
+msgstr "Umbizane ngokwasemhlabeni wefestile"
+
+msgid "The window of the socket the plug is embedded in"
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "The x-align"
+msgstr "Ulungelelaniso luka-x"
+
+msgid "The xpad"
+msgstr "Iphedi u-x"
+
+msgid "The y-align"
+msgstr "Ulungelelaniso luka-y"
+
+msgid "The ypad"
+msgstr "Iphedi u-y"
+
+msgid "Theme Name"
+msgstr "Igama Lomxholo"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "I-Tigrigna-Eritrean (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "I-Tigrigna-Ethiopian (EZ+)"
+
+msgid "Time after which the cursor stops blinking, in seconds"
+msgstr "Ubude bomjikelo wodanyazo lwekhesa, ngokweemilisekondi"
+
+msgid "Timeout after which browse mode is disabled"
+msgstr "Isigcini sethutyana esibonakalisiweyo"
+
+msgid "Title"
+msgstr "Isihloko"
+
+msgid "Title of the print job"
+msgstr "Uhlobo lwefestile"
+
+msgid "Title to appear in column header"
+msgstr "Isihloko esivela kokubhalwe emantla ephepha kwikholam"
+
+msgid "Toggle state"
+msgstr "Imo ye-toggle"
+
+msgid "Toolbar Icon Size"
+msgstr "Ubungakanani bomfanekiso ongumqondiso we-toolbar"
+
+msgid "Toolbar Style"
+msgstr "Isimbo se-Toolbar"
+
+msgid "Toolbar style"
+msgstr "Isimbo se-toolbar"
+
+msgid "Tooltip"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Tooltip Column"
+msgstr "Ikholam Yombhalo"
+
+msgid "Tooltip Text"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Tooltip markup"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Tooltip timeout"
+msgstr "Inkcazelo yesixhobo"
+
+msgid "Top Attach"
+msgstr "Qhoboshela Emantla"
+
+msgid "Top Padding"
+msgstr "Ukongeza Iinkcukacha Emantla"
+
+msgid "Top attachment"
+msgstr "Isiqhoboshelo esisemantla"
+
+msgid "Track visited links"
+msgstr "Umbala wezinxulumanisi ezisuka kwezinye"
+
+msgid "Translated by"
+msgstr "iguqulwe ngu"
+
+msgid "Translation Domain"
+msgstr "Amanqaku abaguquli"
+
+msgid "Translator credits"
+msgstr "Amanqaku abaguquli"
+
+msgid "Transparency of the color."
+msgstr "Ukucaca kombala."
+
+msgid "Tree line pattern"
+msgstr "Ipateni yomgca oqhawu-qhawukayo yogxilo"
+
+msgid "Tree line width"
+msgstr "Ububanzi obusisigxina"
+
+msgid "TreeModel column containing the column span values"
+msgstr "Ikholam i-TreeModel equlathe amaxabiso omgama ophakathi kweekholam"
+
+msgid "TreeModel column containing the row span values"
+msgstr "Ikholam i-TreeModel equlathe amaxabiso omgama ophakathi kwemigca"
+
+msgid "TreeModelSort Model"
+msgstr "Imodeli eyi-TreeModelSort"
+
+msgid "TreeView Model"
+msgstr "Imodeli Ye-TreeView"
+
+msgid "Trough Border"
+msgstr "Umda Ongumsantsa"
+
+msgid "Truncate multiline"
+msgstr "Khetha isiphindo"
+
+msgid "Type a file name"
+msgstr "Igama lefayili alisebenzi"
+
+msgid "Type hint"
+msgstr "Uhlobo lwecebiso"
+
+msgid "Type name of new folder"
+msgstr "Bhala igama lesiqulathi seefayili esitsha"
+
+msgid "Type of bevel around toolbar buttons"
+msgstr "Uhlobo lomphetho othambekileyo ngaphandle kwamaqhosha e-toolbar"
+
+msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
+msgstr "Uhlobo lwe-subpixel yokugudisa; alukho, rgb, bgr, vrgb, vbgr"
+
+msgid "Unable to find an item with URI '%{string}'"
+msgstr "Ayifumaneki le fayili ibandakanyiweyo: \"%{string}\""
+
+msgid "Unable to find include file: \"%{string}\""
+msgstr "Ayifumaneki le fayili ibandakanyiweyo: \"%{string}\""
+
+msgid "Unable to locate image file in pixmap_path: \"%{string}\""
+msgstr "Ayinako ukufumana ifayili enomfanekiso kwi-pixmap_path: \"%{string}\""
+
+msgid "Unable to locate theme engine in module_path: \"%{string}\","
+msgstr "Ayinako ukufumana injini yomxholo okwi-module_path: \"%{string}\","
+
+msgid "Underline"
+msgstr "Krwela ngaphantsi"
+
+msgid "Underline set"
+msgstr "Ukumisela ukukrwela umgca ngaphantsi"
+
+msgid "Unique identifier for the window to be used when restoring a session"
+msgstr "Isahluli esahlukileyo sefestile esisetyenziswa xa kuhlaziywa iseshoni"
+
+msgid "Unique startup identifier for the window used by startup-notification"
+msgstr "Isahluli esahlukileyo sefestile esisetyenziswa xa kuhlaziywa iseshoni"
+
+msgid "Unknown"
+msgstr "Ayaziwa"
+
+msgid "Unknown item"
+msgstr "Ayaziwa"
+
+msgid "Unvisited Link Color"
+msgstr "Umbala Wesinxulumanisi"
+
+msgid "Up"
+msgstr "_Phezulu"
+
+msgid "Update Policy"
+msgstr "Umgaqo-nkqubo Wohlaziyo"
+
+msgid "Update policy"
+msgstr "Umgaqo-nkqubo wohlaziyo"
+
+msgid "Upper"
+msgstr "Ephezulu"
+
+msgid "Upper limit of ruler"
+msgstr "Umda ophezulu werula"
+
+msgid "Use Markup"
+msgstr "Sebenzisa uphawulo"
+
+msgid "Use Preview Label"
+msgstr "Sebenzisa Ilebhile Yokuqala Ujonge"
+
+msgid "Use alpha"
+msgstr "Sebenzisa i-alpha"
+
+msgid "Use font in label"
+msgstr "Sebenzisa ifonti kwilebhile"
+
+msgid "Use full page"
+msgstr "Sebenzisa i-alpha"
+
+msgid "Use markup"
+msgstr "Sebenzisa uphawulo"
+
+msgid "Use size in label"
+msgstr "Sebenzisa ubungakanani kwilebhile"
+
+msgid "Use stock"
+msgstr "Sebenzisa i-stock"
+
+msgid "Use underline"
+msgstr "Sebenzisa ukrwelelo ngaphantsi"
+
+msgid "Username:"
+msgstr "_Yinike elinye igama"
+
+msgid "Value"
+msgstr "Ixabiso"
+
+msgid "Value Position"
+msgstr "Indawo Yexabiso"
+
+msgid "Value of the progress bar"
+msgstr "Ixabiso lesikhombisi senkqubela"
+
+msgid "Value spacing"
+msgstr "Ukufaka izithuba kumaxabiso"
+
+msgid "Vertical Adjustment"
+msgstr "Uhlenga-hlengiso Oluthe Nkqo"
+
+msgid "Vertical Adjustment for the widget"
+msgstr "Uhlenga-hlengiso Oluthe Nkqo lwesixhobo"
+
+msgid "Vertical Alignment"
+msgstr "Ulungelelaniso Oluthe Nkqo"
+
+msgid "Vertical Offset"
+msgstr "Ulinganiso Oluthe Nkqo"
+
+msgid "Vertical Padding"
+msgstr "Isongezo Seenkcukacha Ngokuthe Nkqo"
+
+msgid "Vertical Scroll Arrow Length"
+msgstr "Umgaqo-nkqubo Womgca Wokwehlisa Usenyusa Othe Nkqo"
+
+msgid "Vertical Scrollbar Policy"
+msgstr "Umgaqo-nkqubo Womgca Wokwehlisa Usenyusa Othe Nkqo"
+
+msgid "Vertical Separator Width"
+msgstr "Ububanzi Besahluli Ngokuthe Nkqo"
+
+msgid "Vertical adjustment"
+msgstr "Uhlenga-hlengiso oluthe nkqo"
+
+msgid "Vertical alignment"
+msgstr "Ulungelelaniso oluthe nkqo"
+
+msgid "Vertical alignment for child"
+msgstr "Ulungelelaniso oluthe nkqo lwenkqubo engumntwana"
+
+msgid "Vertical options"
+msgstr "Okunokukhethwa kuko okuthe nkqo"
+
+msgid "Vertical padding"
+msgstr "Isongezo seenkcukacha ngokuthe nkqo"
+
+msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
+msgstr "Indawo ethe nkqo yenkqubo engumntwana kwisithuba esikhoyo. 0.0 ulungelelaniswe emantla, 1.0 ulungelelaniswe emazantsi"
+
+msgid "Vertical scale"
+msgstr "Umlinganiselo ngokume nkqo"
+
+msgid "Vertical separation"
+msgstr "Okunokukhethwa kuko okuthe nkqo"
+
+msgid "Vertical space between cells.  Must be an even number"
+msgstr "Isithuba esithe nkqo esiphakathi kwee-cell. Masibe linani elingunombini"
+
+msgid "Vietnamese (VIQR)"
+msgstr "I-Vietnamese (VIQR)"
+
+msgid "View allows user to search through columns interactively"
+msgstr "Imbonakalo yenza ukuba umsebenzisi akwazi ukukhetha kwiikholam ngokusebenzisanayo"
+
+msgid "View has expanders"
+msgstr "Sisandisi"
+
+msgid "View is reorderable"
+msgstr "Imbonakalo inokuphinda i-odolwe"
+
+msgid "Visibility"
+msgstr "Ukubonakala"
+
+msgid "Visible"
+msgstr "Iyabonakala"
+
+msgid "Visible Window"
+msgstr "Ifestile Ebonakalayo"
+
+msgid "Visible when horizontal"
+msgstr "Ibonakala xa ithe tyaba"
+
+msgid "Visible when overflown"
+msgstr "Ibonakala xa iphuphuma"
+
+msgid "Visible when vertical"
+msgstr "Ibonakala xa ime ngokuthe nkqo"
+
+msgid "Visited"
+msgstr "Iyabonakala"
+
+msgid "Visited Link Color"
+msgstr "Umbala Wesinxulumanisi"
+
+msgid "Volume"
+msgstr "_Ixabiso:"
+
+msgid "Waiting"
+msgstr "Isilumkiso"
+
+msgid "Warning"
+msgstr "Isilumkiso"
+
+msgid "Warning color"
+msgstr "Umbala wokuvela ngasemva"
+
+msgid "Website URL"
+msgstr "I-URL ye-Website"
+
+msgid "Website label"
+msgstr "Ilebhile ye-website"
+
+msgid "What degree of hinting to use; hintnone, hintslight, hintmedium, or hintfull"
+msgstr "Kumele anikwe kangakanani amacebiso; anganikwa, kancinci, phakathi, okanye kakhulu"
+
+msgid "When TRUE, empty menu proxies for this action are hidden."
+msgstr "Ukuba TRUE, ii-proxies zemenyu engenanto zesi senzo ziyafihlakala."
+
+msgid "When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu."
+msgstr "Ukuba TRUE, ii-pxoxies zento yesixhobo zesi senzo zivela kwimenyu ye-toolbar ephuphumayo."
+
+msgid "When the horizontal scrollbar is displayed"
+msgstr "Xa umgca wokwehlisa usenyusa othe tyaba ubonakalisiwe"
+
+msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
+msgstr "Xa imenyu iyimenyu engaphakathi kwenye, yibeke ngokweli nani lee-pixels ngokolinganiso oluthe tyaba"
+
+msgid "When the menu is a submenu, position it this number of pixels offset vertically"
+msgstr "Xa imenyu iyimenyu engaphakathi kwenye, yibeke ngokweli nani lee-pixels ngokolinganiso oluthe nkqo"
+
+msgid "When the vertical scrollbar is displayed"
+msgstr "Xa umgca wokwehlisa usenyusa othe nkqo ubonakalisiwe"
+
+msgid "Where the contents are located with respect to the scrollbars. This property only takes effect if \"window-placement-set\" is TRUE."
+msgstr "Apho zikhoyo iziqulatho ngokunxulumene nemigca yokuhlisa usenyusa"
+
+msgid "Where the contents of scrolled windows are located with respect to the scrollbars, if not overridden by the scrolled window's own placement."
+msgstr "Apho zikhoyo iziqulatho ngokunxulumene nemigca yokuhlisa usenyusa"
+
+msgid "Whether Tab will result in a tab character being entered"
+msgstr "Nokuba ngaba u-Tab uza kwenza ukuba kufakeke uphawu luka-tab na"
+
+msgid "Whether \"window-placement\" should be used to determine the location of the contents with respect to the scrollbars."
+msgstr "Apho zikhoyo iziqulatho ngokunxulumene nemigca yokuhlisa usenyusa"
+
+msgid "Whether a palette should be used"
+msgstr "Nokuba ngaba ingqokelela yezixhobo imele isetyenziswe"
+
+msgid "Whether a spin button should wrap upon reaching its limits"
+msgstr "Nokuba ngaba iqhosha elijikelezayo limele lenze uqhubekeko-magama lakuba lifike kwiqondo eliphezulu"
+
+msgid "Whether activatable icons should prelight when hovered"
+msgstr "Nokuba ngaba oo-tab kumele baboniswe okanye hayi"
+
+msgid "Whether buttons in dialogs should use the alternative button order"
+msgstr "Nokuba ngaba amaqhosha kunxibelelwano amele asebenzise enye indlela yeqhosha"
+
+msgid "Whether default toolbars have text only, text and icons, icons only, etc."
+msgstr "Nokuba ngaba ii-toolbars ezimiselweyo zinombhalo kuphela, umbhalo nemifanekiso eyemiqondiso, imifanekiso eyimiqondiso kuphela, njalo njalo."
+
+msgid "Whether dropdowns should have a tearoff menu item"
+msgstr "Nokuba ngaba uluhlu oluneziqulatho ezehlayo kufanele lube nokukhethwayo okususwayo na"
+
+msgid "Whether dropdowns should look like lists rather than menus"
+msgstr "Nokuba ngaba uluhlu oluneziqulatho ezehlayo lumele lukhangeleke njengezintlu na kunokuba lube njengeemenyu"
+
+msgid "Whether entered text overwrites existing contents"
+msgstr "Nokuba ngaba umbhalo ofakiweyo uyazicima na iziqulatho ebesele zikho"
+
+msgid "Whether erroneous values are automatically changed to a spin button's nearest step increment"
+msgstr "Nokuba ngaba amaxabiso aneempazamo atshintshwa ngokuzenzekelayo abe kunyuko lwenyathelo elikufutshane leqhosha elijikelezayo"
+
+msgid "Whether extra space given to the child should be allocated to the child or used as padding"
+msgstr "Nokuba ngaba isithuba esithe xhaxhe esinikwe inkqubo engumntwana simele sabelwe inkqubo leyo ingumntwana na okanye sisetyenziswe njengesongezo seenkcukacha"
+
+msgid "Whether grid lines should be drawn in the tree view"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether gtk_widget_show_all() should not affect this widget"
+msgstr "Nokuba ngaba i-gtk_widget_show_all() imele ingasiphazamisi na esi sixhobo"
+
+msgid "Whether images should be shown in menus"
+msgstr "Nokuba ngaba imifanekiso ifanele ibonakaliswe na kwiimenyu"
+
+msgid "Whether images should be shown on buttons"
+msgstr "Nokuba ngaba imifanekiso ifanele ibonakaliswe na kwiimenyu"
+
+msgid "Whether labels should have mnemonics"
+msgstr "Nokuba ngaba oo-tab kumele babe nobungakanani obufanayo"
+
+msgid "Whether menu accelerators can be changed by pressing a key over the menu item"
+msgstr "Nokuba ngaba izinqumlisi zemenyu zinokutshintshwa na ngokucofa iqhosha elingaphezu kokukhethwa kwimenyu"
+
+msgid "Whether menu items should have accelerators"
+msgstr "Nokuba ngaba izinto ezisuswayo zemenyu zimelwe zongezwe na kwimenyu"
+
+msgid "Whether mnemonics are currently visible in this window"
+msgstr "Nokuba ngaba inqanaba elingentla yeyona festile isebenza ngoku"
+
+msgid "Whether new text overwrites existing text"
+msgstr "Nokuba ngaba umbhalo ofakiweyo uyazicima na iziqulatho ebesele zikho"
+
+msgid "Whether non-numeric characters should be ignored"
+msgstr "Nokuba ngaba iimpawu ezingengomanani zimele zingananzwa na"
+
+msgid "Whether rows should be expanded/collapsed when the pointer moves over them"
+msgstr "Nokuba ngaba imigca inokwandiswa/ifinyezwe xa isikhombisi sidlula phezu kwayo"
+
+msgid "Whether selected font size is shown in the label"
+msgstr "Nokuba ngaba ubungakanani befonti ekhethiweyo bubonakalisiwe na kwilebhile"
+
+msgid "Whether spacers are vertical lines or just blank"
+msgstr "Nokuba ngaba iziniki-zithuba ziyimigca eme nkqo na okanye azinanto"
+
+msgid "Whether tabs should be shown"
+msgstr "Nokuba ngaba oo-tab kumele baboniswe okanye hayi"
+
+msgid "Whether tearoff menu items should be added to menus"
+msgstr "Nokuba ngaba izinto ezisuswayo zemenyu zimelwe zongezwe na kwimenyu"
+
+msgid "Whether the action group is enabled."
+msgstr "Nokuba ngaba iqela lezenzo lenziwe ukuba lisebenze na."
+
+msgid "Whether the action group is visible."
+msgstr "Nokuba ngaba iqela lezenzo liyabonakala na."
+
+msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
+msgstr "Nokuba ngaba isenzo sibonwa njengesibalulekileyo na. Ukuba TRUE, ii-proxies ze-toolitem zesi senzo zibonisa umbhalo okwinkqubo othi GTK_TOOLBAR_BOTH_HORIZ."
+
+msgid "Whether the action is enabled."
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the action is visible."
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "Whether the application has a selection"
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the application prefers to have a dark theme."
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the application supplied widget for custom previews should be shown."
+msgstr "Nokuba ngaba isixhobo esinekeziweyo senkqubo yekhompyutha esisetyenziselwa ukuqale ubone kwimo eziqhelekileyo kumele siboniswe na."
+
+msgid "Whether the application will paint directly on the widget"
+msgstr "Nokuba ngaba inkqubo iza kupeyinta ngqo kwisixhobo na"
+
+msgid "Whether the background color fills the entire line height or only the height of the tagged characters"
+msgstr "Nokuba ngaba umbala wokuvela ngasemva uzalisa wonke umphakamo womgca okanye umphakamo weempawu ezineziphawuli nje kuphela"
+
+msgid "Whether the border should be shown"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether the buffer has some text currently selected"
+msgstr "I-GdkFont ekhethiweyo ngalo mzuzu"
+
+msgid "Whether the button grabs focus when it is clicked with the mouse"
+msgstr "Nokuba ngaba iqhosha luyalubamba na uxinzelelo xa licofwe nge-mouse"
+
+msgid "Whether the cell renderer is currently in editing mode"
+msgstr "Nokuba ngaba ilebhile ikwimo yomgca omnye na"
+
+msgid "Whether the child should receive extra space when the parent grows"
+msgstr "Nokuba ngaba inkqubo engumntwana imele ifumane isithuba esithe xhaxhe xa inkqubo engunozala ikhula"
+
+msgid "Whether the child's tab should fill the allocated area"
+msgstr "Nokuba ngaba u-tab wenkqubo engumntwana umele ayizalise indawo enikiweyo na okanye hayi"
+
+msgid "Whether the child_displacement_x/_y properties should also affect the focus rectangle"
+msgstr "Nokuba ngaba ushenxiso ngokwendawo_kwenkqubo engumntwana lwezinto zika_x/_y zimele nazo zibe negalelo kuxinzelelo loxande"
+
+msgid "Whether the children should all be the same size"
+msgstr "Nokuba ngaba iinkqubo ezingabantwana zimele zilingane zonke ngobungakanani"
+
+msgid "Whether the color selector should allow setting opacity"
+msgstr "Nokuba ngaba isikhethi-mbala simele sikuvumele na ukumisela ubumfiliba"
+
+msgid "Whether the column can be reordered around the headers"
+msgstr "Nokuba ngaba ikholam inokuphindwa i-odolwe ngokujikeleze okubhalwe emantla ephepha"
+
+msgid "Whether the combo box draws a frame around the child"
+msgstr "Nokuba ngaba ibhokisi enoludwe onokukhetha kulo iyayizoba i-frame ejikeleze inkqubo engumntwana"
+
+msgid "Whether the combo box grabs focus when it is clicked with the mouse"
+msgstr "Nokuba ngaba ibhokisi enoludwe onokukhetha kulo iyalubamba na ugxininiso xa icofwe nge-mouse"
+
+msgid "Whether the combo's dropdown is shown"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether the common prefix should be inserted automatically"
+msgstr "Nokuba ngaba isimaphambili esifanayo kufanele sifakelwe ngokuzenzekelayo na"
+
+msgid "Whether the completions should be shown in a popup window"
+msgstr "Nokuba ngaba izigqibezelo kumele ziboniswe na kwifestile evelayo"
+
+msgid "Whether the current value is displayed as a string next to the slider"
+msgstr "Nokuba ngaba ixabiso langoku libonakalisiwe na njengoluhlu lwamagama asecaleni kweslayida"
+
+msgid "Whether the cursor should blink"
+msgstr "Nokuba ngaba ikhesa imele idanyaze na"
+
+msgid "Whether the device has a cursor"
+msgstr "Nokuba ngaba isixhobo sinalo na ungeniso olugxilileyo"
+
+msgid "Whether the dialog supports selection"
+msgstr "Nokuba ngaba ilebhile izotywe kwifonti ekhethiweyo"
+
+msgid "Whether the dropdown button is sensitive when the model is empty"
+msgstr "Nokuba ngaba iqhosha luyalubamba na uxinzelelo xa licofwe nge-mouse"
+
+msgid "Whether the entry contents can be edited"
+msgstr "Nokuba ngaba iziqulatho zesingeniso zingahlelwa na"
+
+msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
+msgstr "Nokuba ngaba ibhokisi yesenzeko iyabonakala na, ngokuphikisana nokungabonakali kwaye isetyenziselwe kuphela ukubambisa izenzeko."
+
+msgid "Whether the event-trapping window of the eventbox is above the window of the child widget as opposed to below it."
+msgstr "Nokuba ngaba ifestile yokubambisa izenzo yebhokisi yezenzeko ingentla na kwefestile yesixhobo senkqubo engumntwana kunokuba ibe ngezantsi kwayo."
+
+msgid "Whether the expander has been opened to reveal the child widget"
+msgstr "Nokuba ngaba isandiso besivuliwe na ukubonisa isixhobo senkqubo engumntwana"
+
+msgid "Whether the group has been collapsed and items are hidden"
+msgstr "Nokuba ngaba isandiso besivuliwe na ukubonisa isixhobo senkqubo engumntwana"
+
+msgid "Whether the header can be clicked"
+msgstr "Nokuba ngaba okubhalwe emantla ephepha kungacofwa na"
+
+msgid "Whether the hidden files and folders should be displayed"
+msgstr "Nokuba ngaba iifayili neeziqulathi zeefayili ezifihlakeleyo zingabonakaliswa na"
+
+msgid "Whether the icon-size property has been set"
+msgstr "Nokuba ngaba iqela lezenzo lenziwe ukuba lisebenze na."
+
+msgid "Whether the image will always be shown"
+msgstr "Nokuba ngaba isixhobo siyabonakala na"
+
+msgid "Whether the input focus is within this GtkWindow"
+msgstr "Nokuba ngaba ugxilo lofakelo lungaphakathi kwale GtkWindow na"
+
+msgid "Whether the invisible character has been set"
+msgstr "Nokuba ngaba iqela lezenzo lenziwe ukuba lisebenze na."
+
+msgid "Whether the item group should be the only expanded at a given time"
+msgstr "Nokuba ngaba izinto ezisuswayo zemenyu zimelwe zongezwe na kwimenyu"
+
+msgid "Whether the item group should receive extra space when the palette grows"
+msgstr "Nokuba ngaba inkqubo engumntwana imele ifumane isithuba esithe xhaxhe xa inkqubo engunozala ikhula"
+
+msgid "Whether the item should be the same size as other homogeneous items"
+msgstr "Nokuba ngaba into imele ibe nobungakanani obulinganayo nezinye izinto eziluhlobo lunye"
+
+msgid "Whether the item should fill the available space"
+msgstr "Nokuba ngaba iinkqubo ezingabantwana zimele zilingane zonke ngobungakanani"
+
+msgid "Whether the item should receive extra space when the group grows"
+msgstr "Nokuba ngaba into kufuneka ifumane isithuba esithe xhaxhe xa i-toolbar ikhula"
+
+msgid "Whether the item should receive extra space when the toolbar grows"
+msgstr "Nokuba ngaba into kufuneka ifumane isithuba esithe xhaxhe xa i-toolbar ikhula"
+
+msgid "Whether the item should start a new row"
+msgstr "Nokuba ngaba izinto ezisuswayo zemenyu zimelwe zongezwe na kwimenyu"
+
+msgid "Whether the items pointing to unavailable resources should be displayed"
+msgstr "Nokuba ngaba iifayili neeziqulathi zeefayili ezifihlakeleyo zingabonakaliswa na"
+
+msgid "Whether the items should be displayed with a number"
+msgstr "Nokuba ngaba izinto ezisuswayo zemenyu zimelwe zongezwe na kwimenyu"
+
+msgid "Whether the label is drawn in the selected font"
+msgstr "Nokuba ngaba ilebhile izotywe kwifonti ekhethiweyo"
+
+msgid "Whether the label is drawn with the selected font size"
+msgstr "Nokuba ngaba ilebhile izotywe ngobungakanani befonti obukhethiweyo"
+
+msgid "Whether the label is in single line mode"
+msgstr "Nokuba ngaba ilebhile ikwimo yomgca omnye na"
+
+msgid "Whether the label text can be selected with the mouse"
+msgstr "Nokuba ngaba umbhalo welebhile unokukhethwa na nge-mouse"
+
+msgid "Whether the label widget should fill all available horizontal space"
+msgstr "Nokuba ngaba iinkqubo ezingabantwana zimele zilingane zonke ngobungakanani"
+
+msgid "Whether the mark has left gravity"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kusapho lwefonti"
+
+msgid "Whether the menu item is checked"
+msgstr "Nokuba ngaba okukhethwa kwimenyu kuvavanyiwe na"
+
+msgid "Whether the menu item looks like a radio menu item"
+msgstr "Nokuba ngaba okukhethwa kwimenyu kuyafana na nokukhethwa kwimenyu kanomathotholo"
+
+msgid "Whether the plug is embedded"
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "Whether the primary icon is activatable"
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the primary icon is sensitive"
+msgstr "Nokuba ngaba ungqamaniso lokuseluhlwini lunovakalelo na koonobumba"
+
+msgid "Whether the private items should be displayed"
+msgstr "Nokuba ngaba iifayili neeziqulathi zeefayili ezifihlakeleyo zingabonakaliswa na"
+
+msgid "Whether the progress is shown as text."
+msgstr "Nokuba ngaba inkqubela ibonakaliswe njengombhalo"
+
+msgid "Whether the proxies for this action look like radio action proxies"
+msgstr "Nokuba ngaba ii-proxies zesi senzo ziyafana na nee-proxies zesenzo sikanomathotholo"
+
+msgid "Whether the rendered pixbuf should be colorized according to the state"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether the secondary icon is activatable"
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the secondary icon is sensitive"
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the selected file(s) should be limited to local file: URLs"
+msgstr "Nokuba ngaba i/iifayili zimele ziphelele kuphela kwifayili efikeleleka ngqo: ii-URL"
+
+msgid "Whether the selected font style is shown in the label"
+msgstr "Nokuba ngaba isimbo sefonti ekhethiweyo sibonakalisiwe na kwilebhile"
+
+msgid "Whether the selected resource(s) should be limited to local file: URIs"
+msgstr "Nokuba ngaba i/iifayili zimele ziphelele kuphela kwifayili efikeleleka ngqo: ii-URL"
+
+msgid "Whether the selection should follow the pointer"
+msgstr "Nokuba ngaba okukhethiweyo kumele ukulandela isikhombisi na"
+
+msgid "Whether the separator is drawn, or just blank"
+msgstr "Nokuba ngaba isahluli sizotyiwe na, okanye sishiywe singenanto"
+
+msgid "Whether the spin button should update always, or only when the value is legal"
+msgstr "Nokuba ngaba iqhosha elijikelezayo limele ukusoloko lihlaziya na, okanye kuphela xa ixabiso lilelivumelekileyo"
+
+msgid "Whether the spinner is active"
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the spinner is active (ie. shown) in the cell"
+msgstr "Nokuba ngaba isimbo sefonti ekhethiweyo sibonakalisiwe na kwilebhile"
+
+msgid "Whether the status icon is embedded"
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "Whether the status icon is visible"
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "Whether the statusbar has a grip for resizing the toplevel"
+msgstr "Nokuba ngaba umgca obonakalisa ubume bokuqhubekayo unaso na isibambi sokutshintsha ubungakanani benqanaba elingentla"
+
+msgid "Whether the tab is detachable"
+msgstr "Nokuba ngaba isenzo senziwe ukuba sisebenze na."
+
+msgid "Whether the tab is reorderable by user action"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether the text can be modified by the user"
+msgstr "Nokuba ngaba umbhalo ungalungiswa na ngumsebenzisi"
+
+msgid "Whether the toggle action should be active"
+msgstr "Ukuba ngaba iqhosha le-toggle limele licofwe na okanye hayi"
+
+msgid "Whether the toolbar item is considered important. When TRUE, toolbar buttons show text in GTK_TOOLBAR_BOTH_HORIZ mode"
+msgstr "Nokuba ngaba okukhethwayo kwi-toolbar kubonwa kubalulekile na. Xa i-TRUE, amaqhosha e-toolbar abonisa umbhalo ololu hlobo GTK_TOOLBAR_BOTH_HORIZ"
+
+msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
+msgstr "Nokuba ngaba okungakhethwa kwi-toolbar kuyabonakala na xa i-toolbar ime ngendlela ethe tyaba."
+
+msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
+msgstr "Nokuba ngaba okungakhethwa kwi-toolbar kuyabonakala na xa i-toolbar inembonakalo eme nkqo."
+
+msgid "Whether the toplevel is the current active window"
+msgstr "Nokuba ngaba inqanaba elingentla yeyona festile isebenza ngoku"
+
+msgid "Whether the widget can accept the input focus"
+msgstr "Nokuba ngaba isixhobo singalwamkela na ungeniso olugxilileyo"
+
+msgid "Whether the widget can be the default widget"
+msgstr "Nokuba ngaba isixhobo singasiso na isixhobo esimiliselweyo"
+
+msgid "Whether the widget has the input focus"
+msgstr "Nokuba ngaba isixhobo sinalo na ungeniso olugxilileyo"
+
+msgid "Whether the widget is double buffered"
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "Whether the widget is part of a composite widget"
+msgstr "Nokuba ngaba isixhobo siyinxalenye yesixhobo esidityanisiweyo na"
+
+msgid "Whether the widget is the default widget"
+msgstr "Nokuba ngaba isixhobo sisixhobo esimiselweyo na"
+
+msgid "Whether the widget is the focus widget within the toplevel"
+msgstr "Nokuba ngaba isixhobo sisixhobo esigxilileyo ngaphakathi kwinqanaba elingentla"
+
+msgid "Whether the widget is visible"
+msgstr "Nokuba ngaba isixhobo siyabonakala na"
+
+msgid "Whether the widget responds to input"
+msgstr "Nokuba ngaba isixhobo sinovakalelo na kwisingeniso"
+
+msgid "Whether the window frame should have a close button"
+msgstr "Nokuba ngaba ifestile imele ihonjiswe na ngumlawuli wefestile"
+
+msgid "Whether the window should be decorated by the window manager"
+msgstr "Nokuba ngaba ifestile imele ihonjiswe na ngumlawuli wefestile"
+
+msgid "Whether there is a visible cursor following device motion"
+msgstr "Nokuba ngaba iqela lezenzo lenziwe ukuba lisebenze na."
+
+msgid "Whether there should be a tooltip on the item"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether there should be an icon near the item"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether this link has been visited."
+msgstr "Nokuba ngaba isenzo siyabonakala na."
+
+msgid "Whether this tag affects background height"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumphakamo wokuvela ngasemva"
+
+msgid "Whether this tag affects indentation"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kukuqalisa nganeno"
+
+msgid "Whether this tag affects line wrap mode"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kwinkqubo yoqhubekeko-magama emgceni"
+
+msgid "Whether this tag affects paragraph justification"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kulungelelaniso lwemihlathi"
+
+msgid "Whether this tag affects strikethrough"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na ekucimeni ngokukrwela umgca"
+
+msgid "Whether this tag affects tabs"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na koo-tab"
+
+msgid "Whether this tag affects text editability"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kukuhleleka kombhalo"
+
+msgid "Whether this tag affects text visibility"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kukubonakala kombhalo"
+
+msgid "Whether this tag affects the alignment mode"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kwinkqubo yobungakanani bombhoxo"
+
+msgid "Whether this tag affects the background color"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumbala wokuvela ngasemva"
+
+msgid "Whether this tag affects the cell background color"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumbala wokuvela ngasemva kwi-cell"
+
+msgid "Whether this tag affects the ellipsize mode"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kwinkqubo yobungakanani bombhoxo"
+
+msgid "Whether this tag affects the font family"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kusapho lwefonti"
+
+msgid "Whether this tag affects the font size"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kubungakanani befonti"
+
+msgid "Whether this tag affects the font stretch"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kunwebeko lwefonti"
+
+msgid "Whether this tag affects the font style"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kwisimbo sefonti"
+
+msgid "Whether this tag affects the font variant"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kuguquko lwefonti"
+
+msgid "Whether this tag affects the font weight"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kubunzima befonti"
+
+msgid "Whether this tag affects the foreground color"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumbala wokuvela ngaphambili"
+
+msgid "Whether this tag affects the language the text is rendered as"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kulwimi othi umbhalo unikezelwe ngalo"
+
+msgid "Whether this tag affects the left margin"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumda wephepha osekhohlo"
+
+msgid "Whether this tag affects the number of pixels above lines"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kwinani lee-pixels ezisemantla emigca"
+
+msgid "Whether this tag affects the number of pixels between wrapped lines"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kwinani lee-pixels eziphakathi kwemigca enoqhubekeko-magama"
+
+msgid "Whether this tag affects the paragraph background color"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumbala wokuvela ngasemva"
+
+msgid "Whether this tag affects the right margin"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kumda wephepha ongasekunene"
+
+msgid "Whether this tag affects the rise"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kunyuko"
+
+msgid "Whether this tag affects underlining"
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na ekukrwelweni komgca ngaphantsi"
+
+msgid "Whether this tag scales the font size by a factor"
+msgstr "Nokuba ngaba esi siphawuli siyabulinganisa na ubungakanani befonti ngokwefekta"
+
+msgid "Whether this text is hidden."
+msgstr "Nokuba ngaba esi siphawuli sinegalelo na kunyuko"
+
+msgid "Whether this tray icon has a tooltip"
+msgstr "Nokuba ngaba isixhobo sinalo na ungeniso olugxilileyo"
+
+msgid "Whether this widget has a tooltip"
+msgstr "Nokuba ngaba isixhobo sinalo na ungeniso olugxilileyo"
+
+msgid "Whether to activate the default widget (such as the default button in a dialog) when Enter is pressed"
+msgstr "Nokuba ngaba isixhobo esimiselweyo senziwe sisebenze na (njengeqhosha elimiselweyo ebhokisini) xa iqhosha u-Enter licofiwe"
+
+msgid "Whether to allow multiple files to be selected"
+msgstr "Nokuba ngaba iifayili eziphindiweyo zingakhethwa na"
+
+msgid "Whether to allow multiple items to be selected"
+msgstr "Nokuba ngaba iifayili eziphindiweyo zingakhethwa na"
+
+msgid "Whether to antialias Xft fonts; 0=no, 1=yes, -1=default"
+msgstr "Nokuba ngaba zigudiswe na iifonti ze-Xft; 0=hayi, 1=ewe, -1=okumiliselweyo"
+
+msgid "Whether to display a stock label with the name of the previewed file."
+msgstr "Nokuba ngaba ilebhile ye-stock iboniswe negama lefayili eqale yajongwa ngaphambi koshicilelo."
+
+msgid "Whether to display an \"inconsistent\" state"
+msgstr "Nokuba kuboniswe imo \"inconsistent\" na"
+
+msgid "Whether to display the column"
+msgstr "Nokuba ngaba ikholam ivele na"
+
+msgid "Whether to draw the focus indicator inside widgets"
+msgstr "Nokuba ngaba isibonisi esigxilayo sizotywe ngaphakathi kwezixhobo na"
+
+msgid "Whether to enable selection of multiple items by dragging the mouse pointer"
+msgstr "Nokuba ngaba iifayili eziphindiweyo zingakhethwa na"
+
+msgid "Whether to expand the child's tab"
+msgstr "Nokuba ngaba u-tab wenkqubo engumntwana andiswe na okanye hayi"
+
+msgid "Whether to give the color an alpha value"
+msgstr "Nokuba ngaba ixabiso le-alpha ungalinika na umbala okanye hayi"
+
+msgid "Whether to hint Xft fonts; 0=no, 1=yes, -1=default"
+msgstr "Nokuba zinikwe na icebiso iifonti ze-Xft; 0=hayi, 1=ewe, -1=okumiliselweyo"
+
+msgid "Whether to keep all text in a single paragraph"
+msgstr "Nokuba ngaba wonke umbhalo ugcinwe kumhlathi umnye na okanye hayi"
+
+msgid "Whether to play any event sounds at all"
+msgstr "Nokuba kuboniswe imo \"inconsistent\" na"
+
+msgid "Whether to play event sounds as feedback to user input"
+msgstr "Nokuba ngaba isixhobo sinovakalelo na kwisingeniso"
+
+msgid "Whether to select the contents of a selectable label when it is focused"
+msgstr "Nokuba ngaba ukhethe iziqulatho zesingeniso xa sigxininisiwe"
+
+msgid "Whether to select the contents of an entry when it is focused"
+msgstr "Nokuba ngaba ukhethe iziqulatho zesingeniso xa sigxininisiwe"
+
+msgid "Whether to show a sort indicator"
+msgstr "Nokuba ngaba isibonisi sokuhlela siboniswe na"
+
+msgid "Whether to strike through the text"
+msgstr "Nokuba umbhalo uwucime ngokukrwela umgca"
+
+msgid "Whether to truncate multiline pastes to one line."
+msgstr "Nokuba ngaba iifayili eziphindiweyo zingakhethwa na"
+
+msgid "Whether to use the label text to create a stock menu item"
+msgstr "Nokuba ngaba umbhalo welebhile unokukhethwa na nge-mouse"
+
+msgid "Whether to use the related actions appearance properties"
+msgstr "Nokuba ngaba umbhalo welebhile unokukhethwa na nge-mouse"
+
+msgid "Whether to use the value from the snap_edge property or a value derived from handle_position"
+msgstr "Nokuba kusetyenziswe ixabiso le-snap_edge okanye ixabiso elikhutshwe kwi-handle_position"
+
+msgid "Whether to wrap around when keyboard-navigating widgets"
+msgstr "Nokuba ngaba isibonisi esigxilayo sizotywe ngaphakathi kwezixhobo na"
+
+msgid "Whether to wrap lines never, at word boundaries, or at character boundaries"
+msgstr "Nokuba ngaba uqhubeko-magama kwimigca lungaze lwenzeke, lwenzeke kwimida yamagama, okanye kwimida yeempawu"
+
+msgid "Whether to wrap the license text."
+msgstr "Nokuba umbhalo uwucime ngokukrwela umgca"
+
+msgid "Whether tooltips should be shown on widgets"
+msgstr "Nokuba ngaba oo-tab kumele baboniswe okanye hayi"
+
+msgid "Whether tree lines should be drawn in the tree view"
+msgstr "Nokuba ngaba umda kumele uboniswe okanye hayi"
+
+msgid "Whether two cursors should be displayed for mixed left-to-right and right-to-left text"
+msgstr "Nokuba ngaba iikhesa ezimbini zimele ziboniswe kumacala ombhalo axutyiweyo okusuka ekhohlo-ukuya-ekunene nokusuka ekunene-ukuya-ekhohlo"
+
+msgid "Whether visited links should be tracked"
+msgstr "Nokuba ngaba iifayili neeziqulathi zeefayili ezifihlakeleyo zingabonakaliswa na"
+
+msgid "Which IM module should be used"
+msgstr "Nokuba ngaba ingqokelela yezixhobo imele isetyenziswe"
+
+msgid "Which IM module should be used by default"
+msgstr "Nokuba ngaba ingqokelela yezixhobo imele isetyenziswe"
+
+msgid "Which kind of shadow to draw around the combo box"
+msgstr "Ububanzi bomda ojikeleze iilebhile zika-tab"
+
+msgid "Which side of the notebook holds the tabs"
+msgstr "Leliphi icala lekhompyutha ephathekayo elibamba oo-tab"
+
+msgid "Wide Separators"
+msgstr "Sebenzisa isahluli"
+
+msgid "Widget"
+msgstr "Isixhobo"
+
+msgid "Widget name"
+msgstr "Igama lesixhobo"
+
+msgid "Widget to put in column header button instead of column title"
+msgstr "Isixhobo emasifakwe kwiqhosha lekholam yokubhalwe emantla ephepha endaweni yesihloko sekholam"
+
+msgid "Widget to use as the item label"
+msgstr "Isixhobo esisetyenziswa njengelebhile yento"
+
+msgid "Width"
+msgstr "Ububanzi"
+
+msgid "Width In Characters"
+msgstr "Ububanzi Ngokwamanqaku"
+
+msgid "Width for each item"
+msgstr "Ububanzi bento nganye ekhethwayo"
+
+msgid "Width in Characters"
+msgstr "Ububanzi Ngokwamanqaku"
+
+msgid "Width in chars"
+msgstr "Ububanzi ngokweempawu"
+
+msgid "Width of border around the action area"
+msgstr "Ububanzi bomda ojikeleze eyona ndawo yonxibelelwano"
+
+msgid "Width of border around the button area at the bottom of the dialog"
+msgstr "Ububanzi bomda ojikeleze indawo yeqhosha emazantsi ebhokisi"
+
+msgid "Width of border around the content area"
+msgstr "Ububanzi bomda ojikeleze eyona ndawo yonxibelelwano"
+
+msgid "Width of border around the label and image in the message dialog"
+msgstr "Ububanzi bomda ojikeleze ilebhile kunye nomfanekiso kwibhokisi yomyalezo"
+
+msgid "Width of border around the main dialog area"
+msgstr "Ububanzi bomda ojikeleze eyona ndawo yonxibelelwano"
+
+msgid "Width of handle"
+msgstr "Ububanzi besikhombisi"
+
+msgid "Width of scrollbar or scale thumb"
+msgstr "Ububanzi bemigca yokwehlisa usenyusa okanye umlinganiselo kabhontsi"
+
+msgid "Width of the left margin in pixels"
+msgstr "Ububanzi bomda wephepha osekhohlo ngokwee-pixels"
+
+msgid "Width of the right margin in pixels"
+msgstr "Ububanzi bomda wephepha osekunene ngokwee-pixels"
+
+msgid "Width request"
+msgstr "Isicelo sobubanzi"
+
+msgid "Width, in pixels, between focus indicator and the widget 'box'"
+msgstr "Ububanzi, ngokwee-pixel, phakathi kwesibonisi sogxininiso kunye 'nebhokisi' yesixhobo"
+
+msgid "Width, in pixels, of the focus indicator line"
+msgstr "Ububanzi, bomgca osisibonisi ogxilayo, ngokwee-pixels"
+
+msgid "Width, in pixels, of the tree view grid lines"
+msgstr "Ububanzi, bomgca osisibonisi ogxilayo, ngokwee-pixels"
+
+msgid "Width, in pixels, of the tree view lines"
+msgstr "Ububanzi, bomgca osisibonisi ogxilayo, ngokwee-pixels"
+
+msgid "Window"
+msgstr "Uhlobo Lwefestile"
+
+msgid "Window Placement"
+msgstr "Ukubekwa Kwefestile Ngokwendawo"
+
+msgid "Window Placement Set"
+msgstr "Ukubekwa Kwefestile Ngokwendawo"
+
+msgid "Window Position"
+msgstr "Indawo Yefestile"
+
+msgid "Window Role"
+msgstr "Indima Yefestile"
+
+msgid "Window Title"
+msgstr "Isihloko Sefestile"
+
+msgid "Window Type"
+msgstr "Uhlobo Lwefestile"
+
+msgid "Window dragging"
+msgstr "Indawo Yefestile"
+
+msgid "Wrap"
+msgstr "Uqhubekeko-magama"
+
+msgid "Wrap Mode"
+msgstr "Imo Yoqhubeko-magama"
+
+msgid "Wrap license"
+msgstr "Ukumisela imo yoqhubeko-magama"
+
+msgid "Wrap mode"
+msgstr "Imo yoqhubekeko-magama"
+
+msgid "Wrap mode set"
+msgstr "Ukumisela imo yoqhubeko-magama"
+
+msgid "Wrap width"
+msgstr "Ububanzi boqhubekeko-magama"
+
+msgid "Wrap width for laying out the items in a grid"
+msgstr "Ububanzi boqhubekeko-magama xa kwendlalwa ulwazi kwigridi"
+
+msgid "Written by"
+msgstr "Ibhalwe ngu"
+
+msgid "X Alignment of the column header text or widget"
+msgstr "Ulungelelaniso luka-X lombhalo okanye isixhobo esisemantla ephepha kwikholam"
+
+msgid "X Input Method"
+msgstr "Indlela ye-X Yokungenisa"
+
+msgid "X align"
+msgstr "Ulungelelaniso luka-X"
+
+msgid "X alignment of the child"
+msgstr "Ulungelelaniso luka-X lwenkqubo engumntwana"
+
+msgid "X display to use"
+msgstr "i-X display onokuyisebenzisa"
+
+msgid "X pad"
+msgstr "Iphedi ka-X"
+
+msgid "X position"
+msgstr "Indawo ka-X"
+
+msgid "X position of child widget"
+msgstr "Indawo ka-X yenkqubo engumntwana"
+
+msgid "X screen to use"
+msgstr "Iskrini se-X singasetyenziswa"
+
+msgid "X spacing"
+msgstr "Ukunika izithuba"
+
+msgid "XDG sound theme name"
+msgstr "Igama Lomxholo Womfanekiso Ongumqondiso"
+
+msgid "Xft Antialias"
+msgstr "Ugudiso lwe-Xft"
+
+msgid "Xft DPI"
+msgstr "Xft DPI"
+
+msgid "Xft Hint Style"
+msgstr "Isimbo Socebiso se-Xft"
+
+msgid "Xft Hinting"
+msgstr "Ukunika Icebiso nge-Xft"
+
+msgid "Xft RGBA"
+msgstr "Xft RGBA"
+
+msgid "Y align"
+msgstr "Ulungelelaniso luka-Y"
+
+msgid "Y alignment of the child"
+msgstr "Ulungelelaniso luka-Y lwenkqubo engumntwana"
+
+msgid "Y pad"
+msgstr "Ulungelelaniso luka-Y"
+
+msgid "Y position"
+msgstr "Indawo ka-Y"
+
+msgid "Y position of child widget"
+msgstr "Indawo ka-Y yenkqubo engumntwana"
+
+msgid "Y spacing"
+msgstr "Ukunika izithuba"
+
+msgid "Year"
+msgstr "Unyaka"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
+msgstr "Ungafaka i-HTML-style hexadecimal kwixabiso lombala, okanye umbala lowo njengo-'orange'."
+
+msgid "Your description here"
+msgstr "Inkcazelo yefonti njengoluhlu lwamagama"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "i-ZWJ Zero edibanisa _ububanzi"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "I-ZWNJ Zero engadibanisi _bubanzi"
+
+msgid "ZWS _Zero width space"
+msgstr "I-ZWS _indawo ebubanzi obuliqanda"
+
+msgid "Zoom _In"
+msgstr "Nciphisa _Umfanekiso"
+
+msgid "Zoom _Out"
+msgstr "Andisa _Umfanekiso"
+
+msgid "_About"
+msgstr "_Malunga na"
+
+msgid "_Add"
+msgstr "_Yongeza"
+
+msgid "_Add to Bookmarks"
+msgstr "_Yongeza izinqumlisi"
+
+msgid "_Apply"
+msgstr "_Sebenzisa"
+
+msgid "_Ascending"
+msgstr "_Enyukayo"
+
+msgid "_Back"
+msgstr "_Emva"
+
+msgid "_Blue:"
+msgstr "_Bhlowu:"
+
+msgid "_Bold"
+msgstr "_Bhala ngqindilili"
+
+msgid "_Bottom"
+msgstr "_Phantsi"
+
+msgid "_Bottom:"
+msgstr "_Phantsi"
+
+msgid "_Browse for other folders"
+msgstr "_Khangela kwezinye iziqulathi zeefayili"
+
+msgid "_CD-ROM"
+msgstr "i_CD-Rom"
+
+msgid "_Cancel"
+msgstr "_Rhoxisa"
+
+msgid "_Center"
+msgstr "_Guqula"
+
+msgid "_Clear"
+msgstr "_Cima"
+
+msgid "_Clear List"
+msgstr "_Cima"
+
+msgid "_Close"
+msgstr "_Vala"
+
+msgid "_Color"
+msgstr "_Umbala"
+
+msgid "_Convert"
+msgstr "_Guqula"
+
+msgid "_Copy"
+msgstr "_Kopa"
+
+msgid "_Delete"
+msgstr "_Cima"
+
+msgid "_Descending"
+msgstr "_Ehlayo"
+
+msgid "_Discard"
+msgstr "Ukwenza ingasebenzi"
+
+msgid "_Disconnect"
+msgstr "_Guqula"
+
+msgid "_Domain:"
+msgstr "_Indawo:"
+
+msgid "_Down"
+msgstr "_Phantsi"
+
+msgid "_Edit"
+msgstr "_Hlela"
+
+msgid "_Execute"
+msgstr "_Phumeza"
+
+msgid "_Family:"
+msgstr "_Usapho:"
+
+msgid "_File"
+msgstr "_iiFayili"
+
+msgid "_Fill"
+msgstr "_iiFayili"
+
+msgid "_Find"
+msgstr "_Fumana"
+
+msgid "_First"
+msgstr "_Eyokuqala"
+
+msgid "_Floppy"
+msgstr "i_Floppy"
+
+msgid "_Font"
+msgstr "i_Fonti"
+
+msgid "_Forward"
+msgstr "_Thumela"
+
+msgid "_Green:"
+msgstr "_Luhlaza:"
+
+msgid "_Hard Disk"
+msgstr "_Idiski eyakhelwe ngaphakathi"
+
+msgid "_Height:"
+msgstr "_Isahlukanisi-mibala:"
+
+msgid "_Help"
+msgstr "_Uncedo"
+
+msgid "_Home"
+msgstr "_Ekhaya"
+
+msgid "_Hue:"
+msgstr "_Isahlukanisi-mibala:"
+
+msgid "_Index"
+msgstr "_Isalathiso"
+
+msgid "_Information"
+msgstr "Ulwazi"
+
+msgid "_Insert Unicode Control Character"
+msgstr "_Faka i- Unicode Control Character"
+
+msgid "_Italic"
+msgstr "_Bhala ngokukekeleyo"
+
+msgid "_Jump to"
+msgstr "_Tsibela ku"
+
+msgid "_Last"
+msgstr "_Eyokugqibela"
+
+msgid "_Left"
+msgstr "_Ekhohlo"
+
+msgid "_Left:"
+msgstr "_Ekhohlo"
+
+msgid "_License"
+msgstr "_Imvume"
+
+msgid "_Location:"
+msgstr "_Indawo:"
+
+msgid "_Name:"
+msgstr "_Igama:"
+
+msgid "_Network"
+msgstr "_Uthungelwano"
+
+msgid "_New"
+msgstr "_Entsha"
+
+msgid "_Next"
+msgstr "_Entsha"
+
+msgid "_No"
+msgstr "_Hayi"
+
+msgid "_Normal Size"
+msgstr "_Umlinganiso Oqhelekileyo"
+
+msgid "_Now"
+msgstr "_Hayi"
+
+msgid "_OK"
+msgstr "_Kulungile"
+
+msgid "_Only print:"
+msgstr "_Shicilela"
+
+msgid "_Open"
+msgstr "_Vula"
+
+msgid "_Open Link"
+msgstr "Vula indawo"
+
+msgid "_Orientation:"
+msgstr "_Ukuzala:"
+
+msgid "_Palette:"
+msgstr "_Ingqokelela yezixhobo"
+
+msgid "_Paper size:"
+msgstr "_Iimpawu"
+
+msgid "_Password:"
+msgstr "Uxinzelelo"
+
+msgid "_Paste"
+msgstr "_Ncamathisela"
+
+msgid "_Places"
+msgstr "_Yinike elinye igama"
+
+msgid "_Play"
+msgstr "_Yinike elinye igama"
+
+msgid "_Preferences"
+msgstr "_Okukhethayo"
+
+msgid "_Preview:"
+msgstr "_Yikhangele phambi kokuyishicilela:"
+
+msgid "_Print"
+msgstr "_Shicilela"
+
+msgid "_Properties"
+msgstr "_Iimpawu"
+
+msgid "_Quit"
+msgstr "_Phuma"
+
+msgid "_Record"
+msgstr "_Ingxelo"
+
+msgid "_Red:"
+msgstr "_Bomvu:"
+
+msgid "_Redo"
+msgstr "_Yenze kwakhona"
+
+msgid "_Refresh"
+msgstr "_Hlaziya"
+
+msgid "_Remove"
+msgstr "_Susa"
+
+msgid "_Replace"
+msgstr "_Yinike elinye igama"
+
+msgid "_Reverse"
+msgstr "_Buyela kweyangaphambili"
+
+msgid "_Revert"
+msgstr "_Buyela kweyangaphambili"
+
+msgid "_Right"
+msgstr "_Isahlukanisi-mibala:"
+
+msgid "_Right:"
+msgstr "_Isahlukanisi-mibala:"
+
+msgid "_Saturation:"
+msgstr "_Ukuzala:"
+
+msgid "_Save"
+msgstr "_Gcina"
+
+msgid "_Save color here"
+msgstr "_Gcina apha umbala"
+
+msgid "_Save in folder:"
+msgstr "Gcina kwi _siqulathi seefayili:"
+
+msgid "_Spell Check"
+msgstr "_Khangela Upelo"
+
+msgid "_Stop"
+msgstr "_Yima"
+
+msgid "_Strikethrough"
+msgstr "_Hlaba"
+
+msgid "_Style:"
+msgstr "_Isimbo:"
+
+msgid "_Top"
+msgstr "_Phezulu"
+
+msgid "_Top:"
+msgstr "_Phezulu"
+
+msgid "_Undelete"
+msgstr "_Musa ukucima"
+
+msgid "_Underline"
+msgstr "_Krwela umgca ngaphantsi"
+
+msgid "_Undo"
+msgstr "_Susa obukwenzile"
+
+msgid "_Up"
+msgstr "_Phezulu"
+
+msgid "_Username:"
+msgstr "_Yinike elinye igama"
+
+msgid "_Value:"
+msgstr "_Ixabiso:"
+
+msgid "_Yes"
+msgstr "_Ewe"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/gnome_gtk/workspace/po-properties/xh.po by load_po_file"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abcdefghijk ABCDEFGHIJK"
+
+msgid "asme_f"
+msgstr "Igama"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:0"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "ellipsize"
+msgstr "Ubungakanani bobumbhoxo"
+
+msgid "height"
+msgstr "umphakamo"
+
+msgid "mode"
+msgstr "inkqubo"
+
+msgid "paused"
+msgstr "_Ncamathisela"
+
+msgid "printer offline"
+msgstr "I-XPM header ayifunyanwa"
+
+msgid "ready to print"
+msgstr "Isilumkiso"
+
+msgid "unknown"
+msgstr "(engaziwayo)"
+
+msgid "visible"
+msgstr "iyabonakala"
+
+msgid "width"
+msgstr "ububanzi"
+
+msgid "xalign"
+msgstr "ulungelelaniso luka-x"
+
+msgid "xpad"
+msgstr "iphedi u-x"
+
+msgid "yalign"
+msgstr "ulungelelaniso luka-y"
+
+msgid "ypad"
+msgstr "iphedi u-y"

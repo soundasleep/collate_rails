@@ -1,0 +1,50 @@
+msgid "Czech"
+msgstr "Kyɛk kasa"
+
+msgid "Dutch"
+msgstr "Dɛɛkye"
+
+msgid "English"
+msgstr "Borɔfo"
+
+msgid "French"
+msgstr "Frɛnkye"
+
+msgid "German"
+msgstr "Gyaaman"
+
+msgid "Greek"
+msgstr "Greek kasa"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hungarian"
+msgstr "Hangri kasa"
+
+msgid "Italian"
+msgstr "Italy kasa"
+
+msgid "Polish"
+msgstr "Pɔland kasa"
+
+msgid "Portuguese"
+msgstr "Pɔɔtugal kasa"
+
+msgid "Romanian"
+msgstr "Romenia kasa"
+
+msgid "Russian"
+msgstr "Rahyia kasa"
+
+msgid "Spanish"
+msgstr "Spain kasa"
+
+msgid "Swedish"
+msgstr "Sweden kasa"
+
+msgid "Vietnamese"
+msgstr "Viɛtnam kasa"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/ak.po by load_po_file"

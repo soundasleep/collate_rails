@@ -1,0 +1,3182 @@
+msgid "#10 Envelope"
+msgstr "Inveloppe #10"
+
+msgid "#11 Envelope"
+msgstr "Inveloppe #11"
+
+msgid "#12 Envelope"
+msgstr "Inveloppe #12"
+
+msgid "#14 Envelope"
+msgstr "Inveloppe #14"
+
+msgid "#9 Envelope"
+msgstr "Inveloppe #9"
+
+msgid "%{string}: error launching application: %{string}\n"
+msgstr "%{string}: error al lanceamento de application: %{string}\n"
+
+msgid "%{string}: missing application name"
+msgstr "%{string}: nomine de application mancante"
+
+msgid "(None)"
+msgstr "(Necun)"
+
+msgid "10x11"
+msgstr "10x11"
+
+msgid "10x13"
+msgstr "10x13"
+
+msgid "10x14"
+msgstr "10x14"
+
+msgid "10x15"
+msgstr "10x15"
+
+msgid "11x12"
+msgstr "11x12"
+
+msgid "11x15"
+msgstr "11x15"
+
+msgid "12x19"
+msgstr "12x19"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "5x7"
+msgstr "5x7"
+
+msgid "6x9 Envelope"
+msgstr "Inveloppe 6x9"
+
+msgid "7x9 Envelope"
+msgstr "Inveloppe 7x9"
+
+msgid "9x11 Envelope"
+msgstr "Inveloppe 9x11"
+
+msgid "A"
+msgstr "A"
+
+msgid "A file named \"%{string}\" already exists.  Do you want to replace it?"
+msgstr "Un file con le nomine \"%{string}\" jam existe. Reimplaciar lo?"
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A0x2"
+msgstr "A0x2"
+
+msgid "A0x3"
+msgstr "A0x3"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A1x3"
+msgstr "A1x3"
+
+msgid "A1x4"
+msgstr "A1x4"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A2x3"
+msgstr "A2x3"
+
+msgid "A2x4"
+msgstr "A2x4"
+
+msgid "A2x5"
+msgstr "A2x5"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A3 Extra"
+msgstr "A3 Extra"
+
+msgid "A3x3"
+msgstr "A3x3"
+
+msgid "A3x4"
+msgstr "A3x4"
+
+msgid "A3x5"
+msgstr "A3x5"
+
+msgid "A3x6"
+msgstr "A3x6"
+
+msgid "A3x7"
+msgstr "A3x7"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A4 Extra"
+msgstr "A4 Extra"
+
+msgid "A4 Tab"
+msgstr "A4 Tab"
+
+msgid "A4x3"
+msgstr "A4x3"
+
+msgid "A4x4"
+msgstr "A4x4"
+
+msgid "A4x5"
+msgstr "A4x5"
+
+msgid "A4x6"
+msgstr "A4x6"
+
+msgid "A4x7"
+msgstr "A4x7"
+
+msgid "A4x8"
+msgstr "A4x8"
+
+msgid "A4x9"
+msgstr "A4x9"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A5 Extra"
+msgstr "A5 Extra"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "APPLICATION [URI...] - launch an APPLICATION with URI."
+msgstr "APPLICATION [URI…] — lancear un APPLICATION con URI."
+
+msgid "A_t:"
+msgstr "_Al:"
+
+msgid "Accel Group"
+msgstr "Information"
+
+msgid "Accelerator Mode"
+msgstr "Selection:"
+
+msgid "Action"
+msgstr "Information"
+
+msgid "Action Group"
+msgstr "Information"
+
+msgid "Activatable"
+msgstr "(deactive)"
+
+msgid "Active item"
+msgstr "(deactive)"
+
+msgid "Add Cover Page"
+msgstr "Adder un pagina de copertura"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "Adder le dossier actual in le favoritos"
+
+msgid "Add the folder '%{string}' to the bookmarks"
+msgstr "Adder le dossier '%{string}' in le favoritos"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "Adder le dossier seligite in le favoritos"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "Adder le dossiers seligite in le favoritos"
+
+msgid "Adjusts the volume"
+msgstr "Adjustar le volumine"
+
+msgid "Advanced"
+msgstr "Avantiate"
+
+msgid "After"
+msgstr "Depost"
+
+msgid "All sheets"
+msgstr "Tote le folios"
+
+msgid "Allow folder creation"
+msgstr "Crear Directori"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Aluminum 1"
+msgstr "Aluminum 1"
+
+msgid "Aluminum 2"
+msgstr "Aluminum 2"
+
+msgid "Amharic (EZ+)"
+msgstr "Amharic (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "Quantitate de blau in le color."
+
+msgid "Amount of green light in the color."
+msgstr "Quantitate de verde in le color."
+
+msgid "Amount of red light in the color."
+msgstr "Quantitate de rubie in le color."
+
+msgid "Animation"
+msgstr "Information"
+
+msgid "Animation duration"
+msgstr "Information"
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr "Un etiquetta anonyme era trovate e etiquettas non pote ser create."
+
+msgid "Any Printer"
+msgstr "Qualcunque imprimitor"
+
+msgid "Application"
+msgstr "Application"
+
+msgid "Arch A"
+msgstr "Arch A"
+
+msgid "Arch B"
+msgstr "Arch B"
+
+msgid "Arch C"
+msgstr "Arch C"
+
+msgid "Arch D"
+msgstr "Arch D"
+
+msgid "Arch E"
+msgstr "Arch E"
+
+msgid "Arrow Placement"
+msgstr "Fenestra"
+
+msgid "Arrow Scaling"
+msgstr "Crear Directori"
+
+msgid "Arrow Size"
+msgstr "Crear Directori"
+
+msgid "Arrow X Displacement"
+msgstr "Fenestra"
+
+msgid "Arrow Y Displacement"
+msgstr "Fenestra"
+
+msgid "Arrow direction"
+msgstr "Crear Directori"
+
+msgid "Arrow scaling"
+msgstr "Crear Directori"
+
+msgid "Arrow spacing"
+msgstr "Crear Directori"
+
+msgid "Artwork by"
+msgstr "Arte per"
+
+msgid "Authentication"
+msgstr "Authentication"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "Authentication es necesse pro obtener attributos de un carga"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "Authentication es necesse pro obtener attributos de un imprimitor"
+
+msgid "Authentication is required to get attributes of job '%{string}'"
+msgstr "Authentication es necesse pro obtener attributos del carga '%{string}'"
+
+msgid "Authentication is required to print document '%{string}'"
+msgstr "Authentication es necesse pro imprimer le documento '%{string}'"
+
+msgid "Authentication is required to print this document"
+msgstr "Authentication es necesse pro imprimer iste documento"
+
+msgid "Auto Mnemonics"
+msgstr "Information"
+
+msgid "Auto Select"
+msgstr "Selection automatic"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B6/C4"
+msgstr "B6/C4"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "BackSpace"
+msgstr "Rasura"
+
+msgid "Backslash"
+msgstr "Barra oblique inverse"
+
+msgid "Be_fore:"
+msgstr "An_te:"
+
+msgid "Before"
+msgstr "Ante"
+
+msgid "Begin"
+msgstr "Comencio"
+
+msgid "Best _Fit"
+msgstr "Dimension _optime"
+
+msgid "Billing Info"
+msgstr "Information a facturar"
+
+msgid "Black"
+msgstr "Nigre"
+
+msgid "Blocking on issue"
+msgstr "Blocate a causa de un problema"
+
+msgid "Bookmark '%{string}' cannot be removed"
+msgstr "'%{string}' non pote ser removite del favoritos"
+
+msgid "Bottom to top"
+msgstr "De basso a alto"
+
+msgid "Bottom to top, left to right"
+msgstr "De basso a alto, de sinistra a dextera"
+
+msgid "Bottom to top, right to left"
+msgstr "De basso a alto, de dextera a sinistra"
+
+msgid "Bourne Again Shell"
+msgstr "Bourne Again Shell"
+
+msgid "Bourne Shell"
+msgstr "Bourne Shell"
+
+msgid "Brightness of the color."
+msgstr "Brillantia del color."
+
+msgid "Butter"
+msgstr "Butyro"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C6/C5"
+msgstr "C6/C5"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C7/C6"
+msgstr "C7/C6"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CLASS"
+msgstr "CLASSE"
+
+msgid "COLORS"
+msgstr "COLORES"
+
+msgid "C_ollate"
+msgstr "C_olliger insimul"
+
+msgid "C_onnect"
+msgstr "C_onnecter se"
+
+msgid "C_ontinue"
+msgstr "C_ontinuar"
+
+msgid "C_redits"
+msgstr "C_reditos"
+
+msgid "C_urrent Page"
+msgstr "Pagina act_ual"
+
+msgid "Cache file created successfully.\n"
+msgstr "File de cache ha essite create con successo.\n"
+
+msgid "Can default"
+msgstr "default:LTR"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "Impossibile de ir al dossier proque illo non es local"
+
+msgid "Cannot create a file under %{string} as it is not a folder"
+msgstr "Impossibile de crear un file sub %{string}, proque illo non es un dossier"
+
+msgid "Cannot kill process with PID %{number}. Operation is not implemented."
+msgstr "Impossibile de occider le processo con PID %{number}. Le operation non es implementate."
+
+msgid "Caps Lock is on"
+msgstr "FixMaj es activate"
+
+msgid "Cedilla"
+msgstr "Cedilla"
+
+msgid "Chameleon"
+msgstr "Chameleonte"
+
+msgid "Chocolate"
+msgstr "Chocolate"
+
+msgid "Choukei 2 Envelope"
+msgstr "Inveloppe Choukei 2"
+
+msgid "Choukei 3 Envelope"
+msgstr "Inveloppe Choukei 3"
+
+msgid "Choukei 4 Envelope"
+msgstr "Inveloppe Choukei 4"
+
+msgid "Classified"
+msgstr "Classificate"
+
+msgid "Click \"Show other applications\", for more options, or \"Find applications online\" to install a new application"
+msgstr "Clicca sur \"Monstrar altere applicationes\" pro obtener plus de optiones o sur \"Trovar applicationes in linea\" pro installar un nove application"
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "Clicca sur le pipetta, pois clicca sur un color ubique sur le schermo pro seliger ille color."
+
+msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr "Clicca sur iste entrata de paletta pro facer lo le color actual. Pro modificar iste entrata, trahe un monstra de color hic o clicca con le button dextere sur illo e selige \"Salveguardar le color hic\"."
+
+msgid "Co_nnect"
+msgstr "Co_nnecter"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Color Hash"
+msgstr "Clauder"
+
+msgid "Color Name"
+msgstr "Nomine de color"
+
+msgid "Color Plane"
+msgstr "Selector de color"
+
+msgid "Color Selection"
+msgstr "Selection:"
+
+msgid "Color Wheel"
+msgstr "Rota de colores"
+
+msgid "Color _name:"
+msgstr "_Nomine de color:"
+
+msgid "Color management unavailable"
+msgstr "Gestion de color non disponibile"
+
+msgid "Color scheme"
+msgstr "Clauder"
+
+msgid "Command Line"
+msgstr "Linea de commando"
+
+msgid "Confidential"
+msgstr "Confidential"
+
+msgid "Connect As"
+msgstr "Connecter como"
+
+msgid "Content Padding"
+msgstr "Familia:"
+
+msgid "Content area spacing"
+msgstr "Familia:"
+
+msgid "Convert to PS level 1"
+msgstr "Converter a PS de nivello 1"
+
+msgid "Convert to PS level 2"
+msgstr "Converter a PS de nivello 2"
+
+msgid "Copie_s:"
+msgstr "Copia_s:"
+
+msgid "Copies"
+msgstr "Copias"
+
+msgid "Copy URL"
+msgstr "Copiar URL"
+
+msgid "Copy _Link Address"
+msgstr "Copiar le adresse de _ligamine"
+
+msgid "Copy _Location"
+msgstr "_Copiar le implaciamento"
+
+msgid "Could not add a bookmark"
+msgstr "Impossibile de adder in le favoritos"
+
+msgid "Could not clear list"
+msgstr "Impossibile de rader le lista"
+
+msgid "Could not find '%{string}'"
+msgstr "Impossibile de trovar '%{string}'"
+
+msgid "Could not find application"
+msgstr "Impossibile de trovar le application"
+
+msgid "Could not read the contents of the folder"
+msgstr "Impossibile de leger le contento del dossier"
+
+msgid "Could not remove bookmark"
+msgstr "Impossibile de remover del favoritos"
+
+msgid "Could not remove item"
+msgstr "Impossibile de remover le elemento"
+
+msgid "Could not rename %{string} back to %{string}: %{string}.\n"
+msgstr "Impossibile de renominar %{string} de nove a %{string}: %{string}\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
+msgstr "Impossibile de renominar %{string} a %{string}: %{string}, dunque il es removente %{string}.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}\n"
+msgstr "Impossibile de renominar %{string} a %{string}: %{string}\n"
+
+msgid "Could not retrieve information about the file"
+msgstr "Impossibile de obtener le information re le file"
+
+msgid "Could not run application"
+msgstr "Impossibile de exequer le application"
+
+msgid "Could not select file"
+msgstr "Impossibile de seliger le file"
+
+msgid "Could not send the search request"
+msgstr "Impossibile de inviar le requesta de cerca"
+
+msgid "Could not show link"
+msgstr "Impossibile de monstrar le ligamine"
+
+msgid "Could not start the search process"
+msgstr "Impossibile de lancear le processo de cerca"
+
+msgid "Create Fo_lder"
+msgstr "_Crear un dossier"
+
+msgid "Create custom color"
+msgstr "Crear un color proprie"
+
+msgid "Create in _folder:"
+msgstr "Crear in le _dossier:"
+
+msgid "Created by"
+msgstr "Create per"
+
+msgid "Creating AppInfo from id not supported on non unix operating systems"
+msgstr "Le creation de AppInfo del id non se supporta sur systemas operative non unix"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cu_t"
+msgstr "_Taliar"
+
+msgid "Current Color"
+msgstr "Definir Color"
+
+msgid "Current Page"
+msgstr "Definir Color"
+
+msgid "Cursor"
+msgstr "Deactiveate"
+
+msgid "Cursor Blink"
+msgstr "Deactiveate"
+
+msgid "Cursor Blink Time"
+msgstr "Deactiveate"
+
+msgid "Cursor Blink Timeout"
+msgstr "Deactiveate"
+
+msgid "Cursor Position"
+msgstr "Question"
+
+msgid "Cursor Visible"
+msgstr "Deactiveate"
+
+msgid "Cursor position"
+msgstr "Question"
+
+msgid "Cursor theme size"
+msgstr "Deactiveate"
+
+msgid "Custom"
+msgstr "Proprie"
+
+msgid "Custom palette"
+msgstr "Personal Palleta"
+
+msgid "Custom size"
+msgstr "Dimension personalisate"
+
+msgid "Custom tab label"
+msgstr "Personal Palleta"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "Cyrillic (translitterate)"
+
+msgid "DISPLAY"
+msgstr "SCHERMO"
+
+msgid "DL Envelope"
+msgstr "Inveloppe DL"
+
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgid "Dark Aluminum 1"
+msgstr "Aluminium obscur 1"
+
+msgid "Dark Aluminum 2"
+msgstr "Aluminium obscur 2"
+
+msgid "Dark Butter"
+msgstr "Butyro obscur"
+
+msgid "Dark Chameleon"
+msgstr "Chameleonte obscur"
+
+msgid "Dark Chocolate"
+msgstr "Chocolate obscur"
+
+msgid "Dark Gray"
+msgstr "Gris obscur"
+
+msgid "Dark Orange"
+msgstr "Orange obscur"
+
+msgid "Dark Plum"
+msgstr "Pruna obscur"
+
+msgid "Dark Scarlet Red"
+msgstr "Rubie scarlatin obscur"
+
+msgid "Dark Sky Blue"
+msgstr "Azur celeste obscur"
+
+msgid "Darker Gray"
+msgstr "Gris plus obscur"
+
+msgid "Decorated"
+msgstr "Directoris"
+
+msgid "Decrease Indent"
+msgstr "Diminuer le indentation"
+
+msgid "Decreases the volume"
+msgstr "Diminuer le volumine"
+
+msgid "Default Application"
+msgstr "Application predefinite"
+
+msgid "Deletable"
+msgstr "Deler"
+
+msgid "Delete"
+msgstr "Deler"
+
+msgid "Desktop"
+msgstr "Scriptorio"
+
+msgid "Device name"
+msgstr "Renominar"
+
+msgid "Device type"
+msgstr "Crear"
+
+msgid "Dialog is locked.\nClick to make changes"
+msgstr "Le dialogo es blocate.\nClicca pro facer modificationes"
+
+msgid "Dialog is unlocked.\nClick to prevent further changes"
+msgstr "Le dialogo es disblocate.\nClicca pro impedir modificationes ulterior"
+
+msgid "Disabled"
+msgstr "Disactivate"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Usar le API Wintab [predefinition]"
+
+msgid "Documented by"
+msgstr "Documentate per"
+
+msgid "Domain:"
+msgstr "Dominio:"
+
+msgid "Don't batch GDI requests"
+msgstr "Non poner in lotes requestas GDI"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "Non verificar le existentia de file index.theme"
+
+msgid "Don't include image data in the cache"
+msgstr "Non includer le datos de imagine in le cache"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "Non usar le API Wintab pro supportar planchettas"
+
+msgid "Down"
+msgstr "Basso"
+
+msgid "Down Path"
+msgstr "Percurso in basso"
+
+msgid "Duplicate object ID '%{string}' on line %{number} (previously on line %{number})"
+msgstr "ID de objecto '%{string}' duplicate al linea %{number} (previemente al linea %{number})"
+
+msgid "Editable"
+msgstr "(deactive)"
+
+msgid "Embed GhostScript fonts only"
+msgstr "Incorporar solmente characteres GhostScript"
+
+msgid "Embed Page Setup"
+msgstr "Dimension:"
+
+msgid "Empty"
+msgstr "Vacue"
+
+msgid "Enable Accelerators"
+msgstr "Information"
+
+msgid "Enable Animations"
+msgstr "Information"
+
+msgid "Enable Event Sounds"
+msgstr "Information"
+
+msgid "Enable Grid Lines"
+msgstr "Information"
+
+msgid "Enable Mnemonics"
+msgstr "Information"
+
+msgid "Enable Tooltips"
+msgstr "Information"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error creating print preview"
+msgstr "Error al crear le visualisation de impression"
+
+msgid "Error from StartDoc"
+msgstr "Error de StartDoc"
+
+msgid "Error launching preview"
+msgstr "Error al lancear le visualisation"
+
+msgid "Error parsing commandline options: %{string}\n"
+msgstr "Error al analysar le optiones del linea de commandos: %{string}\n"
+
+msgid "Escape"
+msgstr "Esc"
+
+msgid "European edp"
+msgstr "edp europee"
+
+msgid "Even sheets"
+msgstr "Folios par"
+
+msgid "Executive"
+msgstr "Executive"
+
+msgid "Export filename"
+msgstr "Renominar"
+
+msgid "FLAGS"
+msgstr "OPTIONES"
+
+msgid "Failed to load icon"
+msgstr "Falta al cargar le icone"
+
+msgid "Failed to look for applications online"
+msgstr "Falta al cercar le applicationes in linea"
+
+msgid "Failed to open file %{string} : %{string}\n"
+msgstr "Falta al aperir le file %{string}: %{string}\n"
+
+msgid "Failed to rewrite header\n"
+msgstr "Falta al rescriber le testa\n"
+
+msgid "Failed to write cache file: %{string}\n"
+msgstr "Falta al scriber le file de cache: %{string}\n"
+
+msgid "Failed to write folder index\n"
+msgstr "Falta al scriber le indice de dossier\n"
+
+msgid "Failed to write hash table\n"
+msgstr "Falta al scriber le tabula de hachage\n"
+
+msgid "Failed to write header\n"
+msgstr "Falta al scriber le testa\n"
+
+msgid "FanFold European"
+msgstr "FanFold europee"
+
+msgid "FanFold German Legal"
+msgstr "FanFold german legal"
+
+msgid "FanFold US"
+msgstr "FanFold US"
+
+msgid "File"
+msgstr "File"
+
+msgid "File System"
+msgstr "Systema de files"
+
+msgid "File System Root"
+msgstr "Radice del systema de files"
+
+msgid "File not found: %{string}\n"
+msgstr "File non trovate: %{string}\n"
+
+msgid "Filename"
+msgstr "Renominar"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Fill"
+msgstr "Familia:"
+
+msgid "Filter"
+msgstr "Archivos"
+
+msgid "Find and _Replace"
+msgstr "Cercar e _reimplaciar"
+
+msgid "Finished"
+msgstr "Terminate"
+
+msgid "Finished with error"
+msgstr "Terminate con un error"
+
+msgid "Finishing"
+msgstr "Finitura"
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Folio sp"
+msgstr "Folio sp"
+
+msgid "Font"
+msgstr "Typo de characteres"
+
+msgid "Font Family"
+msgstr "Familia de characteres"
+
+msgid "Font Name"
+msgstr "Familia:"
+
+msgid "Font Selection"
+msgstr "Selection de typo de characteres"
+
+msgid "Font family"
+msgstr "Familia:"
+
+msgid "Font name"
+msgstr "Familia:"
+
+msgid "Font options"
+msgstr "Familia:"
+
+msgid "Font scale"
+msgstr "Familia:"
+
+msgid "For portable documents"
+msgstr "Pro documentos portabile"
+
+msgid "Forget association"
+msgstr "Oblidar le association"
+
+msgid "Forget password _immediately"
+msgstr "Oblidar le contrasigno _immediatemente"
+
+msgid "Fraction"
+msgstr "Information"
+
+msgid "Full Volume"
+msgstr "Volumine maxime"
+
+msgid "GDK debugging flags to set"
+msgstr "Activar optiones diagnostic GDK"
+
+msgid "GDK debugging flags to unset"
+msgstr "Disactivar optiones diagnostic GDK"
+
+msgid "GIcon"
+msgstr "Dimension:"
+
+msgid "GTK+ Options"
+msgstr "Optiones GTK+"
+
+msgid "GTK+ debugging flags to set"
+msgstr "Activar optiones diagnostic GTK+"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "Disactivar optiones diagnostic GTK+"
+
+msgid "General"
+msgstr "General"
+
+msgid "Generating data"
+msgstr "Generation de datos"
+
+msgid "Getting printer information failed"
+msgstr "Impossibile de obtener le information re le imprimitor"
+
+msgid "Getting printer information..."
+msgstr "Obtenimento de information re le imprimitor…"
+
+msgid "GhostScript pre-filtering"
+msgstr "Pre-filtration GhostScript"
+
+msgid "Go _Back"
+msgstr "Ir a _detra"
+
+msgid "Government Legal"
+msgstr "Legal governamental"
+
+msgid "Government Letter"
+msgstr "Littera governamental"
+
+msgid "Group Name"
+msgstr "Familia:"
+
+msgid "H"
+msgstr "T"
+
+msgid "Has Frame"
+msgstr "Personal Palleta"
+
+msgid "Has Selection"
+msgstr "Selection:"
+
+msgid "Has default"
+msgstr "default:LTR"
+
+msgid "Has palette"
+msgstr "Personal Palleta"
+
+msgid "Has selection"
+msgstr "Selection:"
+
+msgid "Has tooltip"
+msgstr "Personal Palleta"
+
+msgid "Header Padding"
+msgstr "Question"
+
+msgid "Header Relief"
+msgstr "Hex Valor:"
+
+msgid "Header Spacing"
+msgstr "Question"
+
+msgid "Header image"
+msgstr "Hex Valor:"
+
+msgid "Headers Visible"
+msgstr "Deactiveate"
+
+msgid "High"
+msgstr "Alte"
+
+msgid "Hold the job until it is explicitly released"
+msgstr "Suspender le carga usque illo es explicitemente disbloccate"
+
+msgid "Home"
+msgstr "Initio"
+
+msgid "Homepage"
+msgstr "Pagina initial"
+
+msgid "Horizontal Offset"
+msgstr "Familia:"
+
+msgid "Horizontal Padding"
+msgstr "Familia:"
+
+msgid "Horizontal Scroll Arrow Length"
+msgstr "Familia:"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "Familia:"
+
+msgid "Horizontal alignment for child"
+msgstr "Familia:"
+
+msgid "Horizontal options"
+msgstr "Familia:"
+
+msgid "Horizontal padding"
+msgstr "Familia:"
+
+msgid "Horizontal scale"
+msgstr "Familia:"
+
+msgid "Horizontal separation"
+msgstr "Familia:"
+
+msgid "Hue"
+msgstr "Tinta"
+
+msgid "Hyper"
+msgstr "Hyper"
+
+msgid "IM module"
+msgstr "Modo:"
+
+msgid "IPA"
+msgstr "IPA"
+
+msgid "Icon '%{string}' not present in theme"
+msgstr "Le icone '%{string}' non es presente in le thema"
+
+msgid "Icon Name"
+msgstr "Familia:"
+
+msgid "Icon name"
+msgstr "Familia:"
+
+msgid "Icons"
+msgstr "Dimension:"
+
+msgid "Image Quality"
+msgstr "Qualitate de imagine"
+
+msgid "Image position"
+msgstr "Question"
+
+msgid "Increase Indent"
+msgstr "Augmentar le indentation"
+
+msgid "Increases the volume"
+msgstr "Augmentar le volumine"
+
+msgid "Index 3x5"
+msgstr "Indice 3x5"
+
+msgid "Index 4x6 (postcard)"
+msgstr "Indice 4x6 (carta postal)"
+
+msgid "Index 4x6 ext"
+msgstr "Indice 4x6 ext"
+
+msgid "Index 5x8"
+msgstr "Indice 5x8"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Initial state"
+msgstr "Stato initial"
+
+msgid "Inline selection"
+msgstr "Selection:"
+
+msgid "Input _Methods"
+msgstr "_Methodos de entrata"
+
+msgid "Insert"
+msgstr "Inserer"
+
+msgid "Intensity of the color."
+msgstr "Intensitate del color."
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Inuktitut (translitterate)"
+
+msgid "Invalid"
+msgstr "Non valide"
+
+msgid "Invalid URI"
+msgstr "URI non valide"
+
+msgid "Invalid argument to CreateDC"
+msgstr "Argumento non valide pro CreateDC"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "Argumento non valide pro PrintDlgEx"
+
+msgid "Invalid file name"
+msgstr "Nomine de file non valide"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "Manico non valide pro PrintDlgEx"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "Punctator a PrintDlgEx non valide"
+
+msgid "Invalid root element: '%{string}'"
+msgstr "Elemento radical non valide: '%{string}'"
+
+msgid "Invalid type function on line %{number}: '%{string}'"
+msgstr "Function de typo non valide al linea %{number}: '%{string}'"
+
+msgid "Invite Envelope"
+msgstr "Inveloppe de invitation"
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Is Active"
+msgstr "(deactive)"
+
+msgid "Italian Envelope"
+msgstr "Inveloppe italian"
+
+msgid "Item Padding"
+msgstr "Familia:"
+
+msgid "JB0"
+msgstr "JB0"
+
+msgid "JB1"
+msgstr "JB1"
+
+msgid "JB10"
+msgstr "JB10"
+
+msgid "JB2"
+msgstr "JB2"
+
+msgid "JB3"
+msgstr "JB3"
+
+msgid "JB4"
+msgstr "JB4"
+
+msgid "JB5"
+msgstr "JB5"
+
+msgid "JB6"
+msgstr "JB6"
+
+msgid "JB7"
+msgstr "JB7"
+
+msgid "JB8"
+msgstr "JB8"
+
+msgid "JB9"
+msgstr "JB9"
+
+msgid "Job"
+msgstr "Carga"
+
+msgid "Job Details"
+msgstr "Detalios del carga"
+
+msgid "Job Name"
+msgstr "Familia:"
+
+msgid "Job Priority"
+msgstr "Prioritate de carga"
+
+msgid "KP_Begin"
+msgstr "Comencio (pannello)"
+
+msgid "KP_Delete"
+msgstr "Deler (pannello)"
+
+msgid "KP_Down"
+msgstr "Basso (pannello)"
+
+msgid "KP_End"
+msgstr "Fin (pannello)"
+
+msgid "KP_Enter"
+msgstr "Intro (pannello)"
+
+msgid "KP_Home"
+msgstr "Initio (pannello)"
+
+msgid "KP_Insert"
+msgstr "Inserer (pannello)"
+
+msgid "KP_Left"
+msgstr "Sinistra (pannello)"
+
+msgid "KP_Next"
+msgstr "Sequente (pannello)"
+
+msgid "KP_Page_Down"
+msgstr "PgInfra (pannello)"
+
+msgid "KP_Page_Up"
+msgstr "PgSupra (pannello)"
+
+msgid "KP_Prior"
+msgstr "Prior (pannello)"
+
+msgid "KP_Right"
+msgstr "Dextera (pannello)"
+
+msgid "KP_Space"
+msgstr "Spatio (pannello)"
+
+msgid "KP_Tab"
+msgstr "Tab (pannello)"
+
+msgid "KP_Up"
+msgstr "Alto (pannello)"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE - _Incastramento de sinistra a dextera"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM - Marca de _sinistra a dextera"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO - _Fortiamento de sinistra a dextera"
+
+msgid "Landscape"
+msgstr "Horizontal"
+
+msgid "Launch specified application by its desktop file info\noptionally passing list of URIs as arguments."
+msgstr "Lancear le application indicate per le information de su file .desktop\npassante optionalmente un lista de URL como argumentos."
+
+msgid "Layout"
+msgstr "Arrangiamento"
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Left to right"
+msgstr "De sinistra a dextera"
+
+msgid "Left to right, bottom to top"
+msgstr "De sinistra a dextera, de basso a alto"
+
+msgid "Left to right, top to bottom"
+msgstr "De sinistra a dextera, de alto a basso"
+
+msgid "License"
+msgstr "Licentia"
+
+msgid "License Type"
+msgstr "Fenestra"
+
+msgid "Light Aluminum 1"
+msgstr "Aluminium clar 1"
+
+msgid "Light Aluminum 2"
+msgstr "Aluminium clar 2"
+
+msgid "Light Butter"
+msgstr "Butyro clar"
+
+msgid "Light Chameleon"
+msgstr "Chameleonte clar"
+
+msgid "Light Chocolate"
+msgstr "Chocolate clar"
+
+msgid "Light Gray"
+msgstr "Gris clar"
+
+msgid "Light Orange"
+msgstr "Orange clar"
+
+msgid "Light Plum"
+msgstr "Pruna clar"
+
+msgid "Light Scarlet Red"
+msgstr "Rubie scarlatin clar"
+
+msgid "Light Sky Blue"
+msgstr "Azur celeste clar"
+
+msgid "Lighter Gray"
+msgstr "Gris plus clar"
+
+msgid "List of icon names"
+msgstr "Familia:"
+
+msgid "Load additional GTK+ modules"
+msgstr "Cargar modulos GTK+ additional"
+
+msgid "Location"
+msgstr "Information"
+
+msgid "Lock"
+msgstr "Blocar"
+
+msgid "Logo Icon Name"
+msgstr "Familia:"
+
+msgid "Long Edge (Standard)"
+msgstr "Bordo longe (standard)"
+
+msgid "Low"
+msgstr "Basse"
+
+msgid "MODULES"
+msgstr "MODULOS"
+
+msgid "Make all warnings fatal"
+msgstr "Render tote le advertimentos fatal"
+
+msgid "Manage Custom Sizes"
+msgstr "Gerer dimensiones personalisate"
+
+msgid "Manage Custom Sizes..."
+msgstr "Gerer dimensiones personalisate…"
+
+msgid "Margins from Printer..."
+msgstr "Margines de imprimitor…"
+
+msgid "Maximal Position"
+msgstr "Question"
+
+msgid "Maximum age of recently used files, in days"
+msgstr "Crear Directori"
+
+msgid "Medium"
+msgstr "Medie"
+
+msgid "Medium Gray"
+msgstr "Gris medie"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Minimal Position"
+msgstr "Question"
+
+msgid "Minimum horizontal bar height"
+msgstr "Familia:"
+
+msgid "Minimum horizontal bar width"
+msgstr "Familia:"
+
+msgid "Minimum vertical bar height"
+msgstr "Familia:"
+
+msgid "Miscellaneous"
+msgstr "Miscellanee"
+
+msgid "Mnemonics Visible"
+msgstr "Deactiveate"
+
+msgid "Mode"
+msgstr "Modo:"
+
+msgid "Model"
+msgstr "Modo:"
+
+msgid "Modified"
+msgstr "Modificate"
+
+msgid "Monarch Envelope"
+msgstr "Inveloppe Monarch"
+
+msgid "Multi_key"
+msgstr "Componer"
+
+msgid "Multipress"
+msgstr "Multipress"
+
+msgid "Muted"
+msgstr "Silentiate"
+
+msgid "NAME"
+msgstr "NOMINE"
+
+msgid "Name"
+msgstr "Familia:"
+
+msgid "Need user intervention"
+msgstr "Intervention de usator es necesse"
+
+msgid "New accelerator..."
+msgstr "Nove accelerator…"
+
+msgid "No applications available to open \"%{string}\""
+msgstr "Necun applicationes disponibile pro aperir \"%{string}\""
+
+msgid "No applications available to open \"%{string}\" files"
+msgstr "Necun applicationes disponibile pro aperir files \"%{string}\""
+
+msgid "No fonts matched your search. You can revise your search and try again."
+msgstr "Necun typo de characteres corresponde a iste cerca. Il pote cambiar le cerca e tentar de nove."
+
+msgid "No item for URI '%{string}' found"
+msgstr "Necun elemento trovate pro URI '%{string}'"
+
+msgid "No items found"
+msgstr "Necun elemento trovate"
+
+msgid "No pre-filtering"
+msgstr "Necun pre-filtration"
+
+msgid "No printer found"
+msgstr "Necun imprimitor trovate"
+
+msgid "No profile available"
+msgstr "Necun profilo disponibile"
+
+msgid "No recently used resource found with URI `%{string}'"
+msgstr "Necun ressource utilisate recentemente es trovate con URI `%{string}'"
+
+msgid "No registered application with name '%{string}' for item with URI '%{string}' found"
+msgstr "Necun application registrate con le nomine '%{string}' es trovate pro le elemento con URI '%{string}'"
+
+msgid "No theme index file.\n"
+msgstr "Necun file indice de thema existe.\n"
+
+msgid "None"
+msgstr "Necun"
+
+msgid "Not a valid icon cache: %{string}\n"
+msgstr "Ce non es un cache de icones valide: %{string}\n"
+
+msgid "Not a valid page setup file"
+msgstr "Isto non es un file valide del configuration de pagina"
+
+msgid "Not available"
+msgstr "Non disponibile"
+
+msgid "Not enough free memory"
+msgstr "Memoria insufficiente"
+
+msgid "Num_Lock"
+msgstr "FixNum"
+
+msgid "Number of Pages"
+msgstr "Crear Directori"
+
+msgid "Number of Pages To Print"
+msgstr "Crear Directori"
+
+msgid "Number of axes in the device"
+msgstr "Crear Directori"
+
+msgid "Number of columns"
+msgstr "Crear Directori"
+
+msgid "Number of recently used files"
+msgstr "Crear Directori"
+
+msgid "Number of steps"
+msgstr "Crear Directori"
+
+msgid "OFF"
+msgstr "○"
+
+msgid "ON"
+msgstr "❙"
+
+msgid "Odd sheets"
+msgstr "Folios impare"
+
+msgid "On _hold"
+msgstr "_Bloccar"
+
+msgid "One Sided"
+msgstr "Recto"
+
+msgid "Op_acity:"
+msgstr "Op_acitate:"
+
+msgid "Open '%{string}'"
+msgstr "Aperir '%{string}'"
+
+msgid "Opening %{number} Item"
+msgstr "Apertura de %{number} elemento"
+
+msgid "Opening %{number} Items"
+msgstr "Apertura de %{number} elementos"
+
+msgid "Or_ientation:"
+msgstr "Or_ientation:"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Other Applications"
+msgstr "Altere applicationes"
+
+msgid "Other application..."
+msgstr "Altere applicationes…"
+
+msgid "Other..."
+msgstr "Altere…"
+
+msgid "Out of paper"
+msgstr "Absentia de papiro"
+
+msgid "Output Tray"
+msgstr "Cassetta recipiente"
+
+msgid "Output a C header file"
+msgstr "Generar un file de testa C"
+
+msgid "Output t_ray:"
+msgstr "Casseta _recipiente"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr "Superscriber un cache existente, mesmo si illo es actual"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF - _Cessation del formatage directional"
+
+msgid "P_ause"
+msgstr "_Pausar"
+
+msgid "Pack direction"
+msgstr "Crear Directori"
+
+msgid "Pag_es:"
+msgstr "Pagin_as:"
+
+msgid "Page Ordering"
+msgstr "Ordination de paginas"
+
+msgid "Page Set_up"
+msgstr "Config_uration de pagina"
+
+msgid "Page Setup"
+msgstr "Dimension:"
+
+msgid "Page Size"
+msgstr "Dimension:"
+
+msgid "Page complete"
+msgstr "Dimension:"
+
+msgid "Page or_dering:"
+msgstr "Or_dination de paginas:"
+
+msgid "Page title"
+msgstr "Dimension:"
+
+msgid "Page type"
+msgstr "Crear"
+
+msgid "Page_Down"
+msgstr "PgInfra"
+
+msgid "Page_Up"
+msgstr "PgSupra"
+
+msgid "Pages"
+msgstr "Paginas"
+
+msgid "Pages Per Sheet"
+msgstr "Paginas per folio"
+
+msgid "Pages per Sheet"
+msgstr "Paginas per folio"
+
+msgid "Pages per _sheet:"
+msgstr "Paginas per _folio"
+
+msgid "Pages per _side:"
+msgstr "Paginas per _latere"
+
+msgid "Paper"
+msgstr "Papiro"
+
+msgid "Paper Margins"
+msgstr "Margines de papiro"
+
+msgid "Paper Size"
+msgstr "Dimension de papiro"
+
+msgid "Paper Source"
+msgstr "Fonte de papiro"
+
+msgid "Paper Type"
+msgstr "Typo de papiro"
+
+msgid "Paper _source:"
+msgstr "_Fonte de papiro"
+
+msgid "Paper _type:"
+msgstr "_Typo de papiro"
+
+msgid "Parent"
+msgstr "Personal Palleta"
+
+msgid "Password:"
+msgstr "Contrasigno:"
+
+msgid "Pattern"
+msgstr "Personal Palleta"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Paused"
+msgstr "In pausa"
+
+msgid "Paused ; Rejecting Jobs"
+msgstr "In pausa; Cargas se rejecta"
+
+msgid "Paused Printer"
+msgstr "Archivos"
+
+msgid "Personal Envelope"
+msgstr "Inveloppe personal"
+
+msgid "Pick a Color"
+msgstr "Seliger un color"
+
+msgid "Pick a Font"
+msgstr "Seliger un type de characteres"
+
+msgid "Pixbuf column"
+msgstr "Crear Directori"
+
+msgid "Pixel size"
+msgstr "Dimension:"
+
+msgid "Places"
+msgstr "Locos"
+
+msgid "Please select a folder below"
+msgstr "Selige un dossier in basso"
+
+msgid "Please type a file name"
+msgstr "Introduce un nomine de file"
+
+msgid "Plum"
+msgstr "Pruna"
+
+msgid "Portrait"
+msgstr "Vertical"
+
+msgid "Position"
+msgstr "Question"
+
+msgid "Position on the color wheel."
+msgstr "Position sur le rota de colores."
+
+msgid "Postfix Envelope"
+msgstr "Inveloppe Postfix"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Pre_vious"
+msgstr "Pre_cedente"
+
+msgid "Preparing"
+msgstr "Preparation"
+
+msgid "Preparing to print"
+msgstr "Preparation pro imprimer"
+
+msgid "Preview Widget Active"
+msgstr "Antevista"
+
+msgid "Preview text"
+msgstr "Antevista"
+
+msgid "Preview widget"
+msgstr "Antevista"
+
+msgid "Pri_ority:"
+msgstr "Pri_oritate"
+
+msgid "Primary icon name"
+msgstr "Familia:"
+
+msgid "Primary icon tooltip markup"
+msgstr "Familia:"
+
+msgid "Primary icon tooltip text"
+msgstr "Familia:"
+
+msgid "Primary storage type"
+msgstr "Crear"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Print Document"
+msgstr "Imprimer documento"
+
+msgid "Print Pre_view"
+msgstr "_Visualisar le impression"
+
+msgid "Print at"
+msgstr "Imprimer"
+
+msgid "Print at time"
+msgstr "Imprimer al hora"
+
+msgid "Print to File"
+msgstr "Imprimer a file"
+
+msgid "Print to LPR"
+msgstr "Imprimer a LPR"
+
+msgid "Print to Test Printer"
+msgstr "Imprimer al imprimitor de proba"
+
+msgid "Printer"
+msgstr "Archivos"
+
+msgid "Printer '%{string}' has no toner left."
+msgstr "Le toner del imprimitor '%{string}' es exhaurite."
+
+msgid "Printer '%{string}' is currently offline."
+msgstr "Le imprimitor '%{string}' es actualmente disconnectite."
+
+msgid "Printer '%{string}' is low on at least one marker supply."
+msgstr "Al minus un de cartuchas del imprimitor '%{string}' es quasi exhaurite."
+
+msgid "Printer '%{string}' is low on developer."
+msgstr "Le disveloppator del imprimitor '%{string}' es quasi exhaurite."
+
+msgid "Printer '%{string}' is low on paper."
+msgstr "Papiro in le imprimitor '%{string}' es quasi exhaurite."
+
+msgid "Printer '%{string}' is low on toner."
+msgstr "Le toner del imprimitor '%{string}' es quasi exhaurite."
+
+msgid "Printer '%{string}' is out of at least one marker supply."
+msgstr "Al minus un de cartuchas del imprimitor '%{string}' es exhaurite."
+
+msgid "Printer '%{string}' is out of developer."
+msgstr "Le disveloppator del imprimitor '%{string}' es exhaurite."
+
+msgid "Printer '%{string}' is out of paper."
+msgstr "Papiro in le imprimitor '%{string}' es exhaurite."
+
+msgid "Printer Default"
+msgstr "Secundo le imprimitor"
+
+msgid "Printer Profile"
+msgstr "Profilo de imprimitor"
+
+msgid "Printer offline"
+msgstr "Imprimitor disconnectite"
+
+msgid "Printing"
+msgstr "Impression"
+
+msgid "Program class as used by the window manager"
+msgstr "Classe de programma tal como lo usa le gerente de fenestras"
+
+msgid "Program name as used by the window manager"
+msgstr "Nomine de programma tal como lo usa le gerente de fenestras"
+
+msgid "Progress Border"
+msgstr "Information"
+
+msgid "Progress Fraction"
+msgstr "Information"
+
+msgid "Provides visual indication of progress"
+msgstr "Indication visual de un progresso"
+
+msgid "Quarto"
+msgstr "Quarto"
+
+msgid "Question"
+msgstr "Question"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE - I_ncastramento de dextera a sinistra"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM - Marca de _dextera a sinistra"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO - F_ortiamento de dextera a sinistra"
+
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+msgid "R_ewind"
+msgstr "R_ebobinar"
+
+msgid "Range"
+msgstr "Intervallo"
+
+msgid "Recently Used"
+msgstr "Usate recentemente"
+
+msgid "Recommended Applications"
+msgstr "Application recommendate"
+
+msgid "Registered U_ser"
+msgstr "_Usator registrate"
+
+msgid "Rejecting Jobs"
+msgstr "Cargas se rejecta"
+
+msgid "Related Action"
+msgstr "Information"
+
+msgid "Related Applications"
+msgstr "Applicationes associate"
+
+msgid "Remember _forever"
+msgstr "_Memorar pro semper"
+
+msgid "Remember password until you _logout"
+msgstr "Memorar le contrasigno usque al _fin del session"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Remove the bookmark '%{string}'"
+msgstr "Remover '%{string}' del favoritos"
+
+msgid "Remove the selected bookmark"
+msgstr "Remover le elemento seligite del favoritos"
+
+msgid "Rename..."
+msgstr "Renominar…"
+
+msgid "Resizable"
+msgstr "Deactiveate"
+
+msgid "Resize"
+msgstr "Deactiveate"
+
+msgid "Resolution"
+msgstr "Resolution"
+
+msgid "Return"
+msgstr "Retorno"
+
+msgid "Reverse landscape"
+msgstr "Horizontal invertite"
+
+msgid "Reverse portrait"
+msgstr "Vertical invertite"
+
+msgid "Right"
+msgstr "Dextera"
+
+msgid "Right to left"
+msgstr "De dextera a sinistra"
+
+msgid "Right to left, bottom to top"
+msgstr "De dextera a sinistra, de basso a alto"
+
+msgid "Right to left, top to bottom"
+msgstr "De dextera a sinistra, de alto a basso"
+
+msgid "S"
+msgstr "S"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "S_aturation:"
+msgstr "_Saturation:"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Saturation"
+msgstr "Saturation"
+
+msgid "Save _As"
+msgstr "Sa_lveguardar como"
+
+msgid "Save in _folder:"
+msgstr "Salveguardar in le _dossier:"
+
+msgid "Sc_ale:"
+msgstr "Sc_ala:"
+
+msgid "Scarlet Red"
+msgstr "Rubie scarlatin"
+
+msgid "Screen"
+msgstr "Screen"
+
+msgid "Scroll arrow spacing"
+msgstr "Crear Directori"
+
+msgid "Scroll_Lock"
+msgstr "FixRol"
+
+msgid "Scrolled Window Placement"
+msgstr "Fenestra"
+
+msgid "Se_lection"
+msgstr "Se_lection"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Search font name"
+msgstr "Cercar un nomine de typo de characteres"
+
+msgid "Search:"
+msgstr "Cerca:"
+
+msgid "Secondary icon tooltip text"
+msgstr "Crear"
+
+msgid "Secondary storage type"
+msgstr "Crear"
+
+msgid "Secret"
+msgstr "Secrete"
+
+msgid "Select Multiple"
+msgstr "Deler"
+
+msgid "Select _All"
+msgstr "Seliger _toto"
+
+msgid "Select a Color"
+msgstr "Selectionar un color"
+
+msgid "Select a File"
+msgstr "Seliger un file"
+
+msgid "Select a filename"
+msgstr "Seliger un nomine de file"
+
+msgid "Select an application for \"%{string}\" files"
+msgstr "Seliger un application pro files \"%{string}\""
+
+msgid "Select an application to open \"%{string}\""
+msgstr "Seliger un application pro aperir \"%{string}\""
+
+msgid "Select on focus"
+msgstr "Selection:"
+
+msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
+msgstr "Selige le color desirabile desde le anulo exterior. Selige le luminositate del color usante le triangulo interior."
+
+msgid "Select which type of documents are shown"
+msgstr "Seliger qual typos de documetos se monstra"
+
+msgid "Select which types of files are shown"
+msgstr "Seliger qual typos de files se monstra"
+
+msgid "Selectable"
+msgstr "Deler"
+
+msgid "Selected Printer"
+msgstr "Selection:"
+
+msgid "Selection Bound"
+msgstr "Selection:"
+
+msgid "Selection Box Alpha"
+msgstr "Selection:"
+
+msgid "Selection Box Color"
+msgstr "Selection:"
+
+msgid "Selection mode"
+msgstr "Selection:"
+
+msgid "Sending data"
+msgstr "Invio de datos"
+
+msgid "Serialized data is malformed"
+msgstr "Datos serialisate son mal formate"
+
+msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr "Datos serialisate son mal formate. Le prime section non es GTKTEXTBUFFERCONTENTS-0001"
+
+msgid "Shadow Type"
+msgstr "Fenestra"
+
+msgid "Shift"
+msgstr "Maj"
+
+msgid "Short Edge (Flip)"
+msgstr "Bordo curte (rotate)"
+
+msgid "Shortcut %{string} already exists"
+msgstr "Le combination %{string} jam existe"
+
+msgid "Shortcut %{string} does not exist"
+msgstr "Le combination %{string} non existe"
+
+msgid "Show Details"
+msgstr "Dimension:"
+
+msgid "Show Dialog"
+msgstr "Dimension:"
+
+msgid "Show GTK+ Options"
+msgstr "Monstrar le optiones GTK+"
+
+msgid "Show Hidden"
+msgstr "Dimension:"
+
+msgid "Show Icons"
+msgstr "Dimension:"
+
+msgid "Show Private"
+msgstr "Dimension:"
+
+msgid "Show _Hidden Files"
+msgstr "Monstrar files _celate"
+
+msgid "Show _Private Resources"
+msgstr "Monstrar ressources _private"
+
+msgid "Show _Size Column"
+msgstr "Monstrar _dimension"
+
+msgid "Show other applications"
+msgstr "Monstrar altere applicationes"
+
+msgid "Show size"
+msgstr "Dimension:"
+
+msgid "Show style"
+msgstr "Stilo:"
+
+msgid "Si_ze:"
+msgstr "_Dimension:"
+
+msgid "Sidebar image"
+msgstr "Hex Valor:"
+
+msgid "Simple"
+msgstr "Simple"
+
+msgid "Single Line Mode"
+msgstr "Selection:"
+
+msgid "Size"
+msgstr "Dimension:"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "Dimension del paletta in modo 8 bits"
+
+msgid "Sky Blue"
+msgstr "Azur celeste"
+
+msgid "Small Photo"
+msgstr "Parve photo"
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "Certe parametros in le dialogo son in conflicto"
+
+msgid "Sort Type"
+msgstr "Fenestra"
+
+msgid "Sort column ID"
+msgstr "Crear Directori"
+
+msgid "Source option"
+msgstr "Question"
+
+msgid "Space"
+msgstr "Spatio"
+
+msgid "Specify one or more page ranges,\n e.g. 1-3,7,11"
+msgstr "Specifica un o plus de intervallos de paginas,\nper exemplo, 1-3,7,11"
+
+msgid "Specify the time of print,\n e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgstr "Specifica le hora de impression,\nper exemplo, 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+
+msgid "Spinner"
+msgstr "Indicator rotative"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Step Increment"
+msgstr "Screen"
+
+msgid "Storage type"
+msgstr "Crear"
+
+msgid "Style"
+msgstr "Stilo:"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Super A"
+msgstr "Super A"
+
+msgid "Super B"
+msgstr "Super B"
+
+msgid "Support Selection"
+msgstr "Selection:"
+
+msgid "Switch"
+msgstr "Interruptor"
+
+msgid "Switches between on and off states"
+msgstr "Commutator inter le statos accendite e extinguite"
+
+msgid "Sys_Req"
+msgstr "ReqSys"
+
+msgid "System"
+msgstr "Systema"
+
+msgid "System (%{string})"
+msgstr "Systema (%{string})"
+
+msgid "System policy prevents changes.\nContact your system administrator"
+msgstr "Regulamentos de systema impedi modificationes.\nConsulta le administrator de systema"
+
+msgid "T_wo-sided:"
+msgstr "_Recto verso"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgid "Tag \"%{string}\" already defined"
+msgstr "Le etiquetta \"%{string}\" jam es definite"
+
+msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
+msgstr "Le etiquetta \"%{string}\" non existe in le buffer e etiquettas non pote ser create."
+
+msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
+msgstr "Le etiquetta \"%{string}\" ha le prioritate non valide \"%{string}\""
+
+msgid "Tag \"%{string}\" has not been defined."
+msgstr "Le etiquetta \"%{string}\" non ha essite definite."
+
+msgid "Terminal Pager"
+msgstr "Paginator de terminal"
+
+msgid "Text column"
+msgstr "Crear Directori"
+
+msgid "Text direction"
+msgstr "Crear Directori"
+
+msgid "Text length"
+msgstr "Crear Directori"
+
+msgid "Thai-Lao"
+msgstr "Thai-Lao"
+
+msgid "The color you've chosen."
+msgstr "Le color selectionate."
+
+msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "Le color selectionate. On pote traher iste color sur un entrata de paletta pro guardar lo pro uso in le futuro."
+
+msgid "The cover is open on printer '%{string}'."
+msgstr "Le coperculo del imprimitor '%{string}' es aperte."
+
+msgid "The current value"
+msgstr "Hex Valor:"
+
+msgid "The currently selected menu item"
+msgstr "Hex Valor:"
+
+msgid "The door is open on printer '%{string}'."
+msgstr "Le porta del imprimitor '%{string}' es aperte."
+
+msgid "The file already exists in \"%{string}\".  Replacing it will overwrite its contents."
+msgstr "Le file jam existe in \"%{string}\". Su reimplaciamento causara le substitution de su contento."
+
+msgid "The folder contents could not be displayed"
+msgstr "Le contento de dossier non pote ser monstrate"
+
+msgid "The folder could not be created"
+msgstr "Le dossier non pote ser create"
+
+msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
+msgstr "Le dossier non pote ser create, proque un file con le mesme nomine jam existe. Tenta usar un nomine differente pro le dossier, o renomina le file primarimente."
+
+msgid "The generated cache was invalid.\n"
+msgstr "Le cache generate non esseva valide.\n"
+
+msgid "The icon size"
+msgstr "Dimension:"
+
+msgid "The image"
+msgstr "Hex Valor:"
+
+msgid "The license of the program"
+msgstr "Le licentia del programma"
+
+msgid "The most probable reason is that a temporary file could not be created."
+msgstr "Le ration le plus probabile es que un file temporari non pote ser create."
+
+msgid "The previously-selected color, for comparison to the color you're selecting now."
+msgstr "Le color selectionate previemente, pro comparation con le color que es selectionate ora."
+
+msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
+msgstr "Le color selectionate previemente, pro comparation con le color que es selectionate ora. On pote traher iste color a un entrata de paletta, o seliger iste color como actual per traher lo sur un altere monstra al latere."
+
+msgid "The program was not able to create a connection to the indexer daemon.  Please make sure it is running."
+msgstr "Le programma non poteva establir un connexion al demone de indexation. Verifica que illo es functionante."
+
+msgid "The selection mode"
+msgstr "Selection:"
+
+msgid "The value"
+msgstr "Hex Valor:"
+
+msgid "There is a problem on printer '%{string}'."
+msgstr "Il ha un problema con le imprimitor '%{string}'."
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "Tigrigna-Eritrean (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "Tigrigna-Ethiope (EZ+)"
+
+msgid "Time of print"
+msgstr "Hora de impression"
+
+msgid "Title"
+msgstr "Archivos"
+
+msgid "Toolbar Icon Size"
+msgstr "Dimension:"
+
+msgid "Tooltip Column"
+msgstr "Crear Directori"
+
+msgid "Top Command"
+msgstr "Commando top"
+
+msgid "Top Secret"
+msgstr "Strictemente secrete"
+
+msgid "Top to bottom"
+msgstr "De alto a basso"
+
+msgid "Top to bottom, left to right"
+msgstr "De alto a basso, de sinistra a dextera"
+
+msgid "Top to bottom, right to left"
+msgstr "De alto a basso, de dextera a sinistra"
+
+msgid "Translated by"
+msgstr "Traducite per"
+
+msgid "Transparency of the color."
+msgstr "Transparentia del color."
+
+msgid "Tree line width"
+msgstr "Antevista"
+
+msgid "Truncate multiline"
+msgstr "Deler"
+
+msgid "Turn off verbose output"
+msgstr "Disactivar le output verbose"
+
+msgid "Turns volume down or up"
+msgstr "Augmentar o diminuer le volumine"
+
+msgid "Two Sided"
+msgstr "Recto verso"
+
+msgid "Type a file name"
+msgstr "Introducer un nomine de file"
+
+msgid "Type name of new folder"
+msgstr "Insere le nomine del nove dossier"
+
+msgid "US Legal"
+msgstr "US Legal"
+
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+msgid "US Letter Plus"
+msgstr "US Letter Plus"
+
+msgid "Unable to end process"
+msgstr "Impossibile de terminar le processo"
+
+msgid "Unable to find an item with URI '%{string}'"
+msgstr "Impossibile de trovar un elemento con URI '%{string}'"
+
+msgid "Unavailable"
+msgstr "Non disponibile"
+
+msgid "Unclassified"
+msgstr "Non classificate"
+
+msgid "Unhandled tag: '%{string}'"
+msgstr "Etiquetta non tractate: '%{string}'"
+
+msgid "Unknown"
+msgstr "Incognite"
+
+msgid "Unknown Application (PID %{number})"
+msgstr "Application incognite (PID %{number})"
+
+msgid "Unknown item"
+msgstr "Elemento incognite"
+
+msgid "Unlock"
+msgstr "Disblocar"
+
+msgid "Unspecified error"
+msgstr "Error non specificate"
+
+msgid "Unspecified profile"
+msgstr "Profilo non specificate"
+
+msgid "Untitled filter"
+msgstr "Filtro sin titulo"
+
+msgid "Unvisited Link Color"
+msgstr "Definir Color"
+
+msgid "Up"
+msgstr "Alto"
+
+msgid "Up Path"
+msgstr "Percurso in alto"
+
+msgid "Urgent"
+msgstr "Urgente"
+
+msgid "Use Preview Label"
+msgstr "Antevista"
+
+msgid "Username:"
+msgstr "Conto:"
+
+msgid "V"
+msgstr "V"
+
+msgid "Validate existing icon cache"
+msgstr "Validar le cache de icones existente"
+
+msgid "Value"
+msgstr "Valor:"
+
+msgid "Value Position"
+msgstr "Question"
+
+msgid "Vertical Offset"
+msgstr "Question"
+
+msgid "Vertical Padding"
+msgstr "Question"
+
+msgid "Vertical options"
+msgstr "Question"
+
+msgid "Vertical separation"
+msgstr "Question"
+
+msgid "Very Dark Gray"
+msgstr "Gris multo obscur"
+
+msgid "Very Light Gray"
+msgstr "Gris multo clar"
+
+msgid "Vietnamese (VIQR)"
+msgstr "Vietnamese (VIQR)"
+
+msgid "Visible"
+msgstr "Deactiveate"
+
+msgid "Visible Window"
+msgstr "Deactiveate"
+
+msgid "Visible when overflown"
+msgstr "Deactiveate"
+
+msgid "Visited"
+msgstr "Deactiveate"
+
+msgid "Visited Link Color"
+msgstr "Definir Color"
+
+msgid "Volume"
+msgstr "Volumine"
+
+msgid "Volume Down"
+msgstr "Abassar le volumine"
+
+msgid "Volume Up"
+msgstr "Altiar le volumine"
+
+msgid "Waiting"
+msgstr "Stato de attender"
+
+msgid "Warning"
+msgstr "Advertimento"
+
+msgid "White"
+msgstr "Blanc"
+
+msgid "Wide Format"
+msgstr "Formato large"
+
+msgid "Widget name"
+msgstr "Renominar"
+
+msgid "Window"
+msgstr "Fenestra"
+
+msgid "Window Placement"
+msgstr "Fenestra"
+
+msgid "Window Placement Set"
+msgstr "Fenestra"
+
+msgid "Window Role"
+msgstr "Fenestra"
+
+msgid "Window Title"
+msgstr "Fenestra"
+
+msgid "Window Type"
+msgstr "Fenestra"
+
+msgid "X Input Method"
+msgstr "XIM (X Window)"
+
+msgid "X display to use"
+msgstr "Schermo X a usar"
+
+msgid "X spacing"
+msgstr "Crear Directori"
+
+msgid "XF86AudioLowerVolume"
+msgstr "Abassar volumine"
+
+msgid "XF86AudioMedia"
+msgstr "Media"
+
+msgid "XF86AudioMute"
+msgstr "Silentiar"
+
+msgid "XF86AudioNext"
+msgstr "Sequente"
+
+msgid "XF86AudioPause"
+msgstr "Pausar"
+
+msgid "XF86AudioPlay"
+msgstr "Reproducer"
+
+msgid "XF86AudioPrev"
+msgstr "Precedente"
+
+msgid "XF86AudioRaiseVolume"
+msgstr "Altiar volumine"
+
+msgid "XF86AudioRecord"
+msgstr "Registrar"
+
+msgid "XF86AudioRewind"
+msgstr "Rebobinar"
+
+msgid "XF86AudioStop"
+msgstr "Arrestar"
+
+msgid "XF86Back"
+msgstr "Regreder"
+
+msgid "XF86Battery"
+msgstr "Accumulator"
+
+msgid "XF86Display"
+msgstr "Schermo"
+
+msgid "XF86Forward"
+msgstr "Avantiar"
+
+msgid "XF86Hibernate"
+msgstr "Hinernar"
+
+msgid "XF86Launch1"
+msgstr "Lancear"
+
+msgid "XF86MonBrightnessDown"
+msgstr "Decrescer luminositate"
+
+msgid "XF86MonBrightnessUp"
+msgstr "Accrescer luminositate"
+
+msgid "XF86ScreenSaver"
+msgstr "Economisator"
+
+msgid "XF86Sleep"
+msgstr "Dormir"
+
+msgid "XF86Suspend"
+msgstr "Suspender"
+
+msgid "XF86TouchpadToggle"
+msgstr "Pannello tactile"
+
+msgid "XF86WLAN"
+msgstr "Rete sin filo"
+
+msgid "XF86WakeUp"
+msgstr "Eveliar"
+
+msgid "XF86WebCam"
+msgstr "Camera web"
+
+msgid "Y spacing"
+msgstr "Crear Directori"
+
+msgid "Year"
+msgstr "depurar"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
+msgstr "On pote introducer in iste entrata un valor de color hexadecimal in stilo HTML, o simplemente un nomine de color tal como 'orange'."
+
+msgid "You may only select folders.  The item that you selected is not a folder; try using a different item."
+msgstr "Il pote seliger solmente dossiers. Le elemento seligite non es un dossier; tenta usar un elemento differente."
+
+msgid "You need to choose a valid filename."
+msgstr "Il debe ser seligite un nomine de file valide."
+
+msgid "Z Shell"
+msgstr "Z Shell"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ - _Junctor del zero largor"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ - _Non-junctor del zero largor"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS - Spatio del _zero largor"
+
+msgid "Zoom _In"
+msgstr "_Ampliar"
+
+msgid "Zoom _Out"
+msgstr "_Reducer"
+
+msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
+msgstr "\"%{string}\" non pote ser convertite a un valor de typo \"%{string}\" pro le attributo \"%{string}\""
+
+msgid "\"%{string}\" is not a valid attribute name"
+msgstr "\"%{string}\" non es un nomine de attributo valide"
+
+msgid "\"%{string}\" is not a valid attribute type"
+msgstr "\"%{string}\" non es un typo de attributo valide"
+
+msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
+msgstr "\"%{string}\" non es un valor valide pro le attributo \"%{string}\""
+
+msgid "_About"
+msgstr "A _proposito"
+
+msgid "_Add"
+msgstr "_Adder"
+
+msgid "_Add to Bookmarks"
+msgstr "_Adder in favoritos"
+
+msgid "_After:"
+msgstr "_Depost:"
+
+msgid "_All Pages"
+msgstr "_Tote le paginas"
+
+msgid "_Anonymous"
+msgstr "_Anonymo"
+
+msgid "_Apply"
+msgstr "_Applicar"
+
+msgid "_Ascending"
+msgstr "_Ascendente"
+
+msgid "_Back"
+msgstr "_Retro"
+
+msgid "_Billing info:"
+msgstr "Information de _facturation"
+
+msgid "_Blue:"
+msgstr "_Blau:"
+
+msgid "_Bold"
+msgstr "_Grasse"
+
+msgid "_Bottom"
+msgstr "_Basso"
+
+msgid "_Bottom:"
+msgstr "_Inferior:"
+
+msgid "_CD-ROM"
+msgstr "_CD-ROM"
+
+msgid "_Cancel"
+msgstr "A_nnullar"
+
+msgid "_Center"
+msgstr "_Centrar"
+
+msgid "_Clear"
+msgstr "_Expunger"
+
+msgid "_Clear List"
+msgstr "Rader le _lista"
+
+msgid "_Close"
+msgstr "_Clauder"
+
+msgid "_Color"
+msgstr "_Color"
+
+msgid "_Convert"
+msgstr "_Converter"
+
+msgid "_Copy"
+msgstr "_Copiar"
+
+msgid "_Copy file's location"
+msgstr "Copiar le _implaciamento de file"
+
+msgid "_Customize"
+msgstr "_Personalisar"
+
+msgid "_Delete"
+msgstr "_Deler"
+
+msgid "_Descending"
+msgstr "_Descendente"
+
+msgid "_Discard"
+msgstr "Re_jectar"
+
+msgid "_Disconnect"
+msgstr "_Disconnecter"
+
+msgid "_Domain"
+msgstr "_Dominio"
+
+msgid "_Down"
+msgstr "_Infra"
+
+msgid "_Edit"
+msgstr "_Modificar"
+
+msgid "_End Process"
+msgstr "_Terminar le processo"
+
+msgid "_Execute"
+msgstr "_Exequer"
+
+msgid "_Family:"
+msgstr "_Familia:"
+
+msgid "_File"
+msgstr "_File"
+
+msgid "_Fill"
+msgstr "_Justificar"
+
+msgid "_Find"
+msgstr "_Cercar"
+
+msgid "_Find applications online"
+msgstr "_Trovar applicationes in linea"
+
+msgid "_Finish"
+msgstr "_Terminar"
+
+msgid "_First"
+msgstr "_Prime"
+
+msgid "_Floppy"
+msgstr "_Discetto"
+
+msgid "_Font"
+msgstr "_Typo de characteres"
+
+msgid "_Format for:"
+msgstr "_Formatar pro:"
+
+msgid "_Forward"
+msgstr "A_vantiar"
+
+msgid "_Fullscreen"
+msgstr "_Plenischermo"
+
+msgid "_Green:"
+msgstr "_Verde:"
+
+msgid "_Hard Disk"
+msgstr "_Disco dur"
+
+msgid "_Height:"
+msgstr "_Altor:"
+
+msgid "_Help"
+msgstr "Adj_uta"
+
+msgid "_Home"
+msgstr "_Initio"
+
+msgid "_Hue:"
+msgstr "_Tinta:"
+
+msgid "_Index"
+msgstr "_Indice"
+
+msgid "_Information"
+msgstr "_Information"
+
+msgid "_Insert Unicode Control Character"
+msgstr "_Inserer un character gerente Unicode"
+
+msgid "_Italic"
+msgstr "_Italico"
+
+msgid "_Jump to"
+msgstr "_Vader a"
+
+msgid "_Last"
+msgstr "_Ultime"
+
+msgid "_Leave Fullscreen"
+msgstr "_Quitar le plenischermo"
+
+msgid "_Left"
+msgstr "A _sinistra"
+
+msgid "_Left:"
+msgstr "_Sinistre:"
+
+msgid "_License"
+msgstr "_Licentia"
+
+msgid "_Location:"
+msgstr "_Implaciamento:"
+
+msgid "_Name:"
+msgstr "_Nomine:"
+
+msgid "_Network"
+msgstr "_Rete"
+
+msgid "_New"
+msgstr "_Nove"
+
+msgid "_Next"
+msgstr "_Sequente"
+
+msgid "_No"
+msgstr "_No"
+
+msgid "_Normal Size"
+msgstr "Dimension _normal"
+
+msgid "_Now"
+msgstr "_Ora"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "_Only print:"
+msgstr "Imprimer _solmente:"
+
+msgid "_Open"
+msgstr "_Aperir"
+
+msgid "_Open Link"
+msgstr "_Aperir le ligamine"
+
+msgid "_Orientation:"
+msgstr "_Orientation:"
+
+msgid "_Output format"
+msgstr "Formato de _output"
+
+msgid "_Palette:"
+msgstr "_Paletta:"
+
+msgid "_Paper size:"
+msgstr "Dimension de _papiro"
+
+msgid "_Password"
+msgstr "Contra_signo"
+
+msgid "_Paste"
+msgstr "C_ollar"
+
+msgid "_Places"
+msgstr "_Locos"
+
+msgid "_Play"
+msgstr "_Reproducer"
+
+msgid "_Preferences"
+msgstr "_Preferentias"
+
+msgid "_Preview:"
+msgstr "_Vista preliminari:"
+
+msgid "_Print"
+msgstr "_Imprimer"
+
+msgid "_Properties"
+msgstr "_Proprietates"
+
+msgid "_Quit"
+msgstr "_Quitar"
+
+msgid "_Record"
+msgstr "Re_gistrar"
+
+msgid "_Red:"
+msgstr "_Rubie:"
+
+msgid "_Redo"
+msgstr "_Refacer"
+
+msgid "_Refresh"
+msgstr "_Refrescar"
+
+msgid "_Remove"
+msgstr "_Remover"
+
+msgid "_Remove From List"
+msgstr "_Remover del lista"
+
+msgid "_Replace"
+msgstr "_Reimplaciar"
+
+msgid "_Reverse"
+msgstr "Inve_rter"
+
+msgid "_Revert"
+msgstr "_Restituer"
+
+msgid "_Right"
+msgstr "A _dextera"
+
+msgid "_Right:"
+msgstr "_Dextere:"
+
+msgid "_Save"
+msgstr "_Salveguardar"
+
+msgid "_Save color here"
+msgstr "_Salveguardar le color hic"
+
+msgid "_Select"
+msgstr "_Seliger"
+
+msgid "_Spell Check"
+msgstr "Verificar _orthographia"
+
+msgid "_Stop"
+msgstr "_Arrestar"
+
+msgid "_Strikethrough"
+msgstr "_Cancellar"
+
+msgid "_Style:"
+msgstr "_Stilo:"
+
+msgid "_Top"
+msgstr "_Alto"
+
+msgid "_Top:"
+msgstr "S_uperior:"
+
+msgid "_Undelete"
+msgstr "_Recuperar"
+
+msgid "_Underline"
+msgstr "_Sublinear"
+
+msgid "_Undo"
+msgstr "_Disfacer"
+
+msgid "_Up"
+msgstr "_Supra"
+
+msgid "_Username"
+msgstr "_Conto"
+
+msgid "_Value:"
+msgstr "V_alor:"
+
+msgid "_Visit this file"
+msgstr "_Visitar iste file"
+
+msgid "_Width:"
+msgstr "_Largor:"
+
+msgid "_Yes"
+msgstr "_Si"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/gnome_gtk/workspace/po-properties/ia.po by load_po_file"
+
+msgid "a2 Envelope"
+msgstr "Inveloppe a2"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abcdefghijk ABCDEFGHIJK"
+
+msgid "asme_f"
+msgstr "asme_f"
+
+msgid "b-plus"
+msgstr "b-plus"
+
+msgid "c"
+msgstr "c"
+
+msgid "c5 Envelope"
+msgstr "Inveloppe c5"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "d"
+msgstr "d"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "e"
+msgstr "e"
+
+msgid "edp"
+msgstr "edp"
+
+msgid "ellipsize"
+msgstr "Deactiveate"
+
+msgid "f"
+msgstr "f"
+
+msgid "hagaki (postcard)"
+msgstr "hagaki (carta postal)"
+
+msgid "inch"
+msgstr "uncia"
+
+msgid "jis exec"
+msgstr "jis exec"
+
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+msgid "kahu Envelope"
+msgstr "Inveloppe kahu"
+
+msgid "kaku2 Envelope"
+msgstr "Inveloppe kaku2"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "mode"
+msgstr "Modo:"
+
+msgid "oufuku (reply postcard)"
+msgstr "oufuku (carta postal de responsa)"
+
+msgid "output"
+msgstr "output"
+
+msgid "pa-kai"
+msgstr "pa-kai"
+
+msgid "paused"
+msgstr "suspense"
+
+msgid "prc 16k"
+msgstr "prc 16k"
+
+msgid "prc 32k"
+msgstr "prc 32k"
+
+msgid "prc1 Envelope"
+msgstr "Inveloppe prc1"
+
+msgid "prc10 Envelope"
+msgstr "Inveloppe prc10"
+
+msgid "prc2 Envelope"
+msgstr "Inveloppe prc2"
+
+msgid "prc3 Envelope"
+msgstr "Inveloppe prc3"
+
+msgid "prc4 Envelope"
+msgstr "Inveloppe prc4"
+
+msgid "prc5 Envelope"
+msgstr "Inveloppe prc5"
+
+msgid "prc6 Envelope"
+msgstr "Inveloppe prc6"
+
+msgid "prc7 Envelope"
+msgstr "Inveloppe prc7"
+
+msgid "prc8 Envelope"
+msgstr "Inveloppe prc8"
+
+msgid "prc9 Envelope"
+msgstr "Inveloppe prc9"
+
+msgid "printer offline"
+msgstr "imprimitor disconnectite"
+
+msgid "processing job"
+msgstr "occupate"
+
+msgid "ready to print"
+msgstr "preste a imprimer"
+
+msgid "unknown"
+msgstr "incognite"
+
+msgid "visible"
+msgstr "Deactiveate"
+
+msgid "you4 Envelope"
+msgstr "Inveloppe you4"

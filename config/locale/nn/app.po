@@ -1,0 +1,6686 @@
+msgid "#10 Envelope"
+msgstr "#10 konvolutt"
+
+msgid "#11 Envelope"
+msgstr "#11 konvolutt"
+
+msgid "#12 Envelope"
+msgstr "#12 konvolutt"
+
+msgid "#14 Envelope"
+msgstr "#14 konvolutt"
+
+msgid "#9 Envelope"
+msgstr "#9 konvolutt"
+
+msgid "(None)"
+msgstr "(Ingen)"
+
+msgid "10 minutes"
+msgstr "10 minutt"
+
+msgid "10x11"
+msgstr "10x11"
+
+msgid "10x13"
+msgstr "10x13"
+
+msgid "10x14"
+msgstr "10x14"
+
+msgid "10x15"
+msgstr "10x15"
+
+msgid "11x12"
+msgstr "11x12"
+
+msgid "11x15"
+msgstr "11x15"
+
+msgid "12x19"
+msgstr "12x19"
+
+msgid "2 hours"
+msgstr "2 timar"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "5x7"
+msgstr "5x7"
+
+msgid "6 hours"
+msgstr "2 timar"
+
+msgid "6x9 Envelope"
+msgstr "6x9 konvolutt"
+
+msgid "7x9 Envelope"
+msgstr "7x9 konvolutt"
+
+msgid "9x11 Envelope"
+msgstr "9x11 konvolutt"
+
+msgid "A"
+msgstr "A"
+
+msgid "A GdkPixbuf to display"
+msgstr "Eit GdkPixbuf som skal visast"
+
+msgid "A GtkPackType indicating whether the child is packed with reference to the start or end of the parent"
+msgstr "Ein GtkPackType som viser om barnet er pakka med referanse til starten eller slutten av opphavet"
+
+msgid "A boolean that determines whether the menu grabs the keyboard focus"
+msgstr "Ein tittel som kan visast av vindaugshandsamaren når denne menyen er riven av"
+
+msgid "A boolean that indicates whether the menu is torn-off"
+msgstr "Ein tittel som kan visast av vindaugshandsamaren når denne menyen er riven av"
+
+msgid "A boolean that indicates whether the menu reserves space for toggles and icons"
+msgstr "Ein tittel som kan visast av vindaugshandsamaren når denne menyen er riven av"
+
+msgid "A column in the data source model to get the strings from"
+msgstr "Ei kolonne som strengane skal hentast frå i datakjeldemodellen"
+
+msgid "A file named \"%{string}\" already exists.  Do you want to replace it?"
+msgstr "Ein fil med namn «%{string}» finst allereie. Vil du byta den ut?"
+
+msgid "A list of style attributes to apply to the text of the label"
+msgstr "Ei liste med stilattributtar som teksten i merkelappen skal påførast"
+
+msgid "A list of style attributes to apply to the text of the renderer"
+msgstr "Ei liste over stilattributtar som skal brukast på teksten til teiknaren"
+
+msgid "A name for the action group."
+msgstr "Eit namn på handlingsgruppa."
+
+msgid "A palette of named colors for use in themes"
+msgstr "Namnet på den valte skrifttypen"
+
+msgid "A shorter label that may be used on toolbar buttons."
+msgstr "Ein kortare merkelapp som kan brukast på verktøylinjeknappar"
+
+msgid "A string with _ characters in positions correspond to characters in the text to underline"
+msgstr "Ein streng med «_»-teikn i dei plassane som svarer til teikn i teksten som skal understrekast"
+
+msgid "A title that may be displayed by the window manager when the popup is torn-off"
+msgstr "Ein tittel som kan visast av vindaugshandsamaren når denne menyen er riven av"
+
+msgid "A title that may be displayed by the window manager when this menu is torn-off"
+msgstr "Ein tittel som kan visast av vindaugshandsamaren når denne menyen er riven av"
+
+msgid "A tooltip for this action."
+msgstr "Eit verktøytips for denne handlinga"
+
+msgid "A unique name for the action."
+msgstr "Eit unikt namn på handlinga"
+
+msgid "A widget to display in place of the usual expander label"
+msgstr "Eit skjermelement å visa i staden for den vanlege utvidarmerkelappen"
+
+msgid "A widget to display in place of the usual frame label"
+msgstr "Eit skjermelement å visa i staden for den vanlege rammemerkelappen"
+
+msgid "A widget to display in place of the usual label"
+msgstr "Eit skjermelement å visa i staden for den vanlege rammemerkelappen"
+
+msgid "A0"
+msgstr "A0"
+
+msgid "A0x2"
+msgstr "A0x2"
+
+msgid "A0x3"
+msgstr "A0x3"
+
+msgid "A1"
+msgstr "A1"
+
+msgid "A10"
+msgstr "A10"
+
+msgid "A1x3"
+msgstr "A1x3"
+
+msgid "A1x4"
+msgstr "A1x4"
+
+msgid "A2"
+msgstr "A2"
+
+msgid "A2x3"
+msgstr "A2x3"
+
+msgid "A2x4"
+msgstr "A2x4"
+
+msgid "A2x5"
+msgstr "A2x5"
+
+msgid "A3"
+msgstr "A3"
+
+msgid "A3 Extra"
+msgstr "A3 skiljeark"
+
+msgid "A3x3"
+msgstr "A3x3"
+
+msgid "A3x4"
+msgstr "A3x4"
+
+msgid "A3x5"
+msgstr "A3x5"
+
+msgid "A3x6"
+msgstr "A3x6"
+
+msgid "A3x7"
+msgstr "A3x7"
+
+msgid "A4"
+msgstr "A4"
+
+msgid "A4 Extra"
+msgstr "A4 Extra"
+
+msgid "A4 Tab"
+msgstr "A4 skiljeark"
+
+msgid "A4x3"
+msgstr "A4x3"
+
+msgid "A4x4"
+msgstr "A4x4"
+
+msgid "A4x5"
+msgstr "A4x5"
+
+msgid "A4x6"
+msgstr "A4x6"
+
+msgid "A4x7"
+msgstr "A4x7"
+
+msgid "A4x8"
+msgstr "A4x8"
+
+msgid "A4x9"
+msgstr "A4x9"
+
+msgid "A5"
+msgstr "A5"
+
+msgid "A5 Extra"
+msgstr "A5 Extra"
+
+msgid "A6"
+msgstr "A6"
+
+msgid "A7"
+msgstr "A7"
+
+msgid "A8"
+msgstr "A8"
+
+msgid "A9"
+msgstr "A9"
+
+msgid "AC adapter"
+msgstr "Nettstraumadapter fjerna"
+
+msgid "AC adapters"
+msgstr "AC-adapter fjerna"
+
+msgid "A_t:"
+msgstr "_Tidspunkt:"
+
+msgid "Above child"
+msgstr "Barnet over"
+
+msgid "Accel Group"
+msgstr "Handling"
+
+msgid "Accelerator Closure"
+msgstr "Snøggtastlukking"
+
+msgid "Accelerator Mode"
+msgstr "Snøggtastelement"
+
+msgid "Accelerator Widget"
+msgstr "Snøggtastelement"
+
+msgid "Accelerator key"
+msgstr "Snøggtastelement"
+
+msgid "Accelerator keycode"
+msgstr "Snøggtastelement"
+
+msgid "Accelerator modifiers"
+msgstr "Snøggtastelement"
+
+msgid "Accept focus"
+msgstr "ta imot fokus"
+
+msgid "Accepting Jobs"
+msgstr "ta imot fokus"
+
+msgid "Accepts PDF"
+msgstr "Tek imot tabulator"
+
+msgid "Accepts PostScript"
+msgstr "Tek imot tabulator"
+
+msgid "Accepts tab"
+msgstr "Tek imot tabulator"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Action Group"
+msgstr "Handling"
+
+msgid "Action area border"
+msgstr "Kant rundt handlingsområde"
+
+msgid "Activatable"
+msgstr "Aktiverbar"
+
+msgid "Activates default"
+msgstr "Bruk forvald"
+
+msgid "Active"
+msgstr "I bruk"
+
+msgid "Active item"
+msgstr "Vald oppføring"
+
+msgid "Add Cover Page"
+msgstr "Legg til omslag"
+
+msgid "Add tearoffs to menus"
+msgstr "Legg til avrivingslinjer på menyane"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "Legg til aktiv mappe i bokmerke"
+
+msgid "Add the folder '%{string}' to the bookmarks"
+msgstr "Legg til mappe «%{string}» i bokmerke"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "Legg til vald mappe i bokmerke"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "Legg til valde mapper i bokmerke"
+
+msgid "Adjustment"
+msgstr "Justering"
+
+msgid "Adjusts the volume"
+msgstr "Justerer lydstyrken"
+
+msgid "Advanced"
+msgstr "Avansert"
+
+msgid "After"
+msgstr "Etter"
+
+msgid "Align set"
+msgstr "Justering"
+
+msgid "Alignment"
+msgstr "Justering"
+
+msgid "All Margins"
+msgstr "Venstremarg"
+
+msgid "All sheets"
+msgstr "Alle arka"
+
+msgid "Allow Async"
+msgstr "Tillat reglar"
+
+msgid "Allow Rules"
+msgstr "Tillat reglar"
+
+msgid "Allow drawing of alternating color rows"
+msgstr "Tillat at radene vert teikna med vekslande fargar"
+
+msgid "Allow folder creation"
+msgstr "Vis filhandlingar"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Aluminum 1"
+msgstr "Aluminium 1"
+
+msgid "Aluminum 2"
+msgstr "Aluminium 2"
+
+msgid "Amharic (EZ+)"
+msgstr "Amharisk (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "Kor mykje blått lys det er i fargen."
+
+msgid "Amount of border space between the menubar shadow and the menu items"
+msgstr "Kor mykje kantrom det skal vera mellom skuggen til menylinja og menyoppføringane"
+
+msgid "Amount of border space between the toolbar shadow and the buttons"
+msgstr "Kantområde mellom skuggen til verktøylinja og knappane"
+
+msgid "Amount of green light in the color."
+msgstr "Kor mykje grønt lys det er i fargen."
+
+msgid "Amount of red light in the color."
+msgstr "Kor mykje raudt lys det er i fargen."
+
+msgid "Amount to increase child's size on either side"
+msgstr "Kor mykje storleiken til barnet skal aukast på kvar side"
+
+msgid "Amount to increase child's size on the top and bottom"
+msgstr "Kor mykje storleiken til barnet skal aukast oppe og nede"
+
+msgid "Amount to indent the paragraph, in pixels"
+msgstr "Kor mykje avsnittet skal rykkast inn, i pikslar"
+
+msgid "An XML string describing the merged UI"
+msgstr "Ein XML-streng som skildrar fletta brukargrensesnitt"
+
+msgid "Animation"
+msgstr "Animasjon"
+
+msgid "Animation duration"
+msgstr "Animasjon"
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr "Anonym tagg funne, og taggar kan ikkje opprettast."
+
+msgid "Any Printer"
+msgstr "Alle skrivarar"
+
+msgid "Appearance of the frame border"
+msgstr "Utsjånad på rammekanten"
+
+msgid "Appearance of the shadow surrounding the arrow"
+msgstr "Utsjånaden til skuggen rundt pila"
+
+msgid "Appearance of the shadow that surrounds the container"
+msgstr "Utsjånad på skuggen rundt haldaren"
+
+msgid "Application"
+msgstr "Program"
+
+msgid "Application paintable"
+msgstr "Kan teiknast på"
+
+msgid "Application prefers a dark theme"
+msgstr "Kan teiknast på"
+
+msgid "Application supplied widget for custom previews."
+msgstr "Programmet sin tilpassa førehandsvisar."
+
+msgid "Application supplied widget for extra options."
+msgstr "Programmet sitt element for ekstra brukarval."
+
+msgid "Arch A"
+msgstr "Arch A"
+
+msgid "Arch B"
+msgstr "Arch B"
+
+msgid "Arch C"
+msgstr "Arch C"
+
+msgid "Arch D"
+msgstr "Arch D"
+
+msgid "Arch E"
+msgstr "Arch E"
+
+msgid "Arrow Placement"
+msgstr "X-forskyving av pila"
+
+msgid "Arrow Scaling"
+msgstr "Radmellomrom"
+
+msgid "Arrow Size"
+msgstr "Retning på pil"
+
+msgid "Arrow X Displacement"
+msgstr "X-forskyving av pila"
+
+msgid "Arrow Y Displacement"
+msgstr "Y-forskyving av pila"
+
+msgid "Arrow direction"
+msgstr "Retning på pil"
+
+msgid "Arrow scaling"
+msgstr "Radmellomrom"
+
+msgid "Arrow shadow"
+msgstr "Skuggen til pila"
+
+msgid "Arrow spacing"
+msgstr "Radmellomrom"
+
+msgid "Artwork by"
+msgstr "Grafikk av"
+
+msgid "Aspect ratio with which to draw insertion cursor"
+msgstr "Tilhøvetalet som innsetjingsmarkøren skal teiknast med"
+
+msgid "Attach Widget"
+msgstr "Ekstra skjermelement"
+
+msgid "Attributes"
+msgstr "Attributtar"
+
+msgid "Authentication"
+msgstr "Autentisering"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "Autentisering krevst for å henta attributtar for ein jobb"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "Autentisering krevst for å henta attributtar for ein skrivar"
+
+msgid "Authentication is required to get attributes of job '%{string}'"
+msgstr "Autentisering krevst for å henta attributtar for jobb «%{string}»"
+
+msgid "Authentication is required to print document '%{string}'"
+msgstr "Autentisering krevst for å skriva ut dokument «%{string}»"
+
+msgid "Authentication is required to print this document"
+msgstr "Autentisering krevst for å skriva ut dette dokumentet"
+
+msgid "Auto Mnemonics"
+msgstr "Animasjon"
+
+msgid "Auto Select"
+msgstr "Vel automatisk"
+
+msgid "B0"
+msgstr "B0"
+
+msgid "B1"
+msgstr "B1"
+
+msgid "B10"
+msgstr "B10"
+
+msgid "B2"
+msgstr "B2"
+
+msgid "B3"
+msgstr "B3"
+
+msgid "B4"
+msgstr "B4"
+
+msgid "B5"
+msgstr "B5"
+
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+msgid "B6"
+msgstr "B6"
+
+msgid "B6/C4"
+msgstr "B6/C4"
+
+msgid "B7"
+msgstr "B7"
+
+msgid "B8"
+msgstr "B8"
+
+msgid "B9"
+msgstr "B9"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "BackSpace"
+msgstr "Rettetast"
+
+msgid "Backend for the printer"
+msgstr "Modellen for trevisinga"
+
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+msgid "Background color as a (possibly unallocated) GdkColor"
+msgstr "Bakgrunnsfarge som ein GdkColor (treng ikkje vera allokert)"
+
+msgid "Background color as a GdkColor"
+msgstr "Bakgrunnsfarge, som ein GdkColor"
+
+msgid "Background color as a string"
+msgstr "Bakgrunnsfarge, som ein streng"
+
+msgid "Background color name"
+msgstr "Namn på bakgrunnsfargen"
+
+msgid "Background full height"
+msgstr "Full høgde på bakgrunnsfargen"
+
+msgid "Background full height set"
+msgstr "Full høgde for bakgrunnen er satt"
+
+msgid "Background set"
+msgstr "Bakgrunnen satt"
+
+msgid "Backslash"
+msgstr "Omvendt skråstrek"
+
+msgid "Backward stepper"
+msgstr "Bakoversteg"
+
+msgid "Be_fore:"
+msgstr "_Før:"
+
+msgid "Before"
+msgstr "Før"
+
+msgid "Begin"
+msgstr "Begin"
+
+msgid "Best _Fit"
+msgstr "Beste _tilpassing"
+
+msgid "Billing Info"
+msgstr "Faktureringsinformasjon"
+
+msgid "Black"
+msgstr "Svart"
+
+msgid "Blocking on issue"
+msgstr "Stoppa av problem"
+
+msgid "Bookmark '%{string}' cannot be removed"
+msgstr "Bokmerke «%{string}» kan ikke fjernast"
+
+msgid "Border around the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "Border relief"
+msgstr "Kantrelieff"
+
+msgid "Border width"
+msgstr "Breidde på kant"
+
+msgid "Bottom Attach"
+msgstr "Botnfeste"
+
+msgid "Bottom Padding"
+msgstr "Polstring nedst"
+
+msgid "Bottom attachment"
+msgstr "Botnfeste"
+
+msgid "Bottom to top"
+msgstr "Botn til topp"
+
+msgid "Bottom to top, left to right"
+msgstr "Botn til topp, venstre til høgre"
+
+msgid "Bottom to top, right to left"
+msgstr "Botn til topp, høgre til venstre"
+
+msgid "Bourne Again Shell"
+msgstr "Bourne Again Shell"
+
+msgid "Bourne Shell"
+msgstr "Bourne Shell"
+
+msgid "Brightness of the color."
+msgstr "Kor lys fargen er."
+
+msgid "Buffer"
+msgstr "Buffer"
+
+msgid "Butter"
+msgstr "Smør"
+
+msgid "Button relief"
+msgstr "Knapperelieff"
+
+msgid "Button spacing"
+msgstr "Avstand mellom knappar"
+
+msgid "C0"
+msgstr "C0"
+
+msgid "C1"
+msgstr "C1"
+
+msgid "C10"
+msgstr "C10"
+
+msgid "C2"
+msgstr "C2"
+
+msgid "C3"
+msgstr "C3"
+
+msgid "C4"
+msgstr "C4"
+
+msgid "C5"
+msgstr "C5"
+
+msgid "C6"
+msgstr "C6"
+
+msgid "C6/C5"
+msgstr "C6/C5"
+
+msgid "C7"
+msgstr "C7"
+
+msgid "C7/C6"
+msgstr "C7/C6"
+
+msgid "C8"
+msgstr "C8"
+
+msgid "C9"
+msgstr "C9"
+
+msgid "CLASS"
+msgstr "KLASSE"
+
+msgid "COLORS"
+msgstr "FARGAR"
+
+msgid "C_ollate"
+msgstr "S_lå saman"
+
+msgid "C_onnect"
+msgstr "Ko_pla til"
+
+msgid "C_ontinue"
+msgstr "F_ortsett"
+
+msgid "C_redits"
+msgstr "_Heider og ære"
+
+msgid "C_urrent Page"
+msgstr "_Denne sida"
+
+msgid "Cache file created successfully.\n"
+msgstr "Bufferoppretting vellukka.\n"
+
+msgid "Can be used to add a new child to the container"
+msgstr "Kan brukast til å leggja til eit nytt barn i haldaren"
+
+msgid "Can change accelerators"
+msgstr "Kan endra snøggtastar"
+
+msgid "Can default"
+msgstr "kan vera standard"
+
+msgid "Can focus"
+msgstr "Kan fokusera"
+
+msgid "Cancel Button"
+msgstr "Meldingsknappar"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "Kan ikkje gå til mappa fordi den ikkje er lokal."
+
+msgid "Cannot create a file under %{string} as it is not a folder"
+msgstr "Kan ikkje gå til mappa fordi den ikkje er lokal."
+
+msgid "Cannot kill process with PID %{number}. Operation is not implemented."
+msgstr "Klarte ikkje drepa prosess med pid %{number}. Operasjonen er ikkje implementert."
+
+msgid "Capacity"
+msgstr "Kapasitet"
+
+msgid "Caps Lock is on"
+msgstr "Caps Lock er på"
+
+msgid "Cedilla"
+msgstr "Cedilla"
+
+msgid "Cell background color"
+msgstr "Bakgrunnsfargen til cella"
+
+msgid "Cell background color as a GdkColor"
+msgstr "Bakgrunnsfargen til cella, som ein GdkColor"
+
+msgid "Cell background color as a string"
+msgstr "Bakgrunnsfargen til cella, som ein streng"
+
+msgid "Cell background color name"
+msgstr "Namn på bakgrunnsfargen til cella"
+
+msgid "Cell background set"
+msgstr "Bakgrunnsfargen til cella er satt"
+
+msgid "Cell charge"
+msgstr "Spenning for celle"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Cell phones"
+msgstr "Mobiltelefon"
+
+msgid "CellView model"
+msgstr "TreeView-modell"
+
+msgid "Chameleon"
+msgstr "Kamelon"
+
+msgid "Charge"
+msgstr "Lade"
+
+msgid "Charge accuracy"
+msgstr "Ladegrannsemd"
+
+msgid "Charge profile"
+msgstr "Ladingsprofil"
+
+msgid "Charged"
+msgstr "Lada"
+
+msgid "Charging"
+msgstr "Lading"
+
+msgid "Child"
+msgstr "Barn"
+
+msgid "Child X Displacement"
+msgstr "X-forskyvinga av barnet"
+
+msgid "Child Y Displacement"
+msgstr "Y-forskyvinga av barnet"
+
+msgid "Child internal height padding"
+msgstr "Intern polstring i høgda i barnet"
+
+msgid "Child internal width padding"
+msgstr "Intern polstring i breidda i barnet"
+
+msgid "Child widget to appear next to the button text"
+msgstr "Barne-skjermelement som skal visast attmed menyteksten"
+
+msgid "Child widget to appear next to the menu text"
+msgstr "Barne-skjermelement som skal visast attmed menyteksten"
+
+msgid "Chocolate"
+msgstr "Sjokolade"
+
+msgid "Choukei 2 Envelope"
+msgstr "Choukei 2 konvolutt"
+
+msgid "Choukei 3 Envelope"
+msgstr "Choukei 3 konvolutt"
+
+msgid "Choukei 4 Envelope"
+msgstr "Choukei 4 konvolutt"
+
+msgid "Classified"
+msgstr "Klassifisert"
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "Klikk på dråpeteljaren, og klikk så på ein farge kor som helst på skjermen for å velja den fargen."
+
+msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr "Klikk på denne palettoppføringa for å gjera henne til den noverande fargen. For å endra denne oppføringa kan dra ein fargeprøve hit og velja «Lagra farge her»."
+
+msgid "Clickable"
+msgstr "Klikkbar"
+
+msgid "Climb Rate"
+msgstr "Klatrerate"
+
+msgid "Climb rate"
+msgstr "Klatrerate"
+
+msgid "Co_nnect"
+msgstr "Ko_pla til"
+
+msgid "Color"
+msgstr "Farge"
+
+msgid "Color Hash"
+msgstr "Lukk"
+
+msgid "Color Name"
+msgstr "Fargenamn"
+
+msgid "Color Plane"
+msgstr "Fargeplan"
+
+msgid "Color Selection"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Color Wheel"
+msgstr "Fargehjul"
+
+msgid "Color _name:"
+msgstr "Farge_namn:"
+
+msgid "Color of the selection box"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Color of unvisited links"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Color of visited links"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Color scheme"
+msgstr "Lukk"
+
+msgid "Color to use for even rows"
+msgstr "Fargen som skal brukast på partalsrader"
+
+msgid "Color to use for odd rows"
+msgstr "Fargen som skal brukast på oddetalsrader"
+
+msgid "Color with which to draw error-indication underlines"
+msgstr "Fargen som innsetjingsmarkøren skal teiknast med"
+
+msgid "Color with which to draw insertion cursor"
+msgstr "Fargen som innsetjingsmarkøren skal teiknast med"
+
+msgid "Color with which to draw the secondary insertion cursor when editing mixed right-to-left and left-to-right text"
+msgstr "Fargen som den sekundære innsetjingsmarkøren skal teiknast med under redigering av blanda venstre-til-høgre- og høgre-til-venstre-tekst"
+
+msgid "Column Spacing"
+msgstr "Kolonnemellomrom"
+
+msgid "Column gets share of extra width allocated to the widget"
+msgstr "Kolonna får ein del av den ekstra breidda som er satt av til skjermelementet"
+
+msgid "Column headers respond to click events"
+msgstr "Kolonnehovuda svarer på klikk"
+
+msgid "Column is user-resizable"
+msgstr "Brukaren kan endra storleiken på kolonna"
+
+msgid "Column spacing"
+msgstr "Kolonnemellomrom"
+
+msgid "Columns"
+msgstr "Kolonner"
+
+msgid "ComboBox model"
+msgstr "Kombinasjonsboks-modell"
+
+msgid "Command Line"
+msgstr "Kommandolinje"
+
+msgid "Comments string"
+msgstr "Kolonnemellomrom"
+
+msgid "Completion Model"
+msgstr "Fullføringsmodell"
+
+msgid "Composite child"
+msgstr "Samansatt barn"
+
+msgid "Confidential"
+msgstr "Konfidensielt"
+
+msgid "Connect _anonymously"
+msgstr "Kopla til _anonymt"
+
+msgid "Connect as u_ser:"
+msgstr "Kopla til _som brukar:"
+
+msgid "Content Padding"
+msgstr "Polstring nedst"
+
+msgid "Content area border"
+msgstr "Kant rundt innhaldsområde"
+
+msgid "Content area spacing"
+msgstr "Polstring nedst"
+
+msgid "Convert to PS level 1"
+msgstr "Konverter til PS nivå 1"
+
+msgid "Convert to PS level 2"
+msgstr "Konverter til PS nivå 2"
+
+msgid "Copie_s:"
+msgstr "_Kopiar:"
+
+msgid "Copies"
+msgstr "Kopiar"
+
+msgid "Copy URL"
+msgstr "Kopier URL"
+
+msgid "Copy _Link Address"
+msgstr "Kopier adressa til _lenkja"
+
+msgid "Copy _Location"
+msgstr "Kopier _stad"
+
+msgid "Could not add a bookmark"
+msgstr "Klarte ikkje leggja til bokmerke"
+
+msgid "Could not clear list"
+msgstr "Klarte ikkje tømme lista"
+
+msgid "Could not find '%{string}'"
+msgstr "Fann ikkje «%{string}»"
+
+msgid "Could not find application"
+msgstr "Fann ikkje programmet"
+
+msgid "Could not read the contents of the folder"
+msgstr "Klarte ikkje lesa innhaldet i mappa"
+
+msgid "Could not remove bookmark"
+msgstr "Klarte ikkje fjerna bokmerke"
+
+msgid "Could not remove item"
+msgstr "Klarte ikkje fjerna oppføring"
+
+msgid "Could not rename %{string} back to %{string}: %{string}.\n"
+msgstr "Klarte ikkje endra namn på %{string} tilbake til %{string}: %{string}\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
+msgstr "Klarte ikkje endra namn på %{string} til %{string}: %{string}, fjernar %{string}.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}\n"
+msgstr "Klarte ikkje endra namn på %{string} til %{string}: %{string}\n"
+
+msgid "Could not retrieve information about the file"
+msgstr "Klarte ikkje henta informasjon om fila"
+
+msgid "Could not run application"
+msgstr "Klarte ikkje kjøre programmet"
+
+msgid "Could not select file"
+msgstr "Klarte ikkje velja fil"
+
+msgid "Could not send the search request"
+msgstr "Klarte ikkje senda søkjeførespurnaden"
+
+msgid "Could not show link"
+msgstr "Klarte ikkje visa lista"
+
+msgid "Could not start the search process"
+msgstr "Klarte ikkje starta søkjeprosessen"
+
+msgid "Create Fo_lder"
+msgstr "Opprett _mappe"
+
+msgid "Create custom color"
+msgstr "Opprett sjølvvald farge"
+
+msgid "Create in _folder:"
+msgstr "Lag i _mappe:"
+
+msgid "Created by"
+msgstr "Lagd av"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cu_t"
+msgstr "Klipp u_t"
+
+msgid "Current Alpha"
+msgstr "Noverande alfa"
+
+msgid "Current Color"
+msgstr "Noverande farge"
+
+msgid "Current Page"
+msgstr "Noverande alfa"
+
+msgid "Current fixed width of the column"
+msgstr "Noverande faste breidde på kolonna"
+
+msgid "Current text of the buffer"
+msgstr "Tekst på merkelappen"
+
+msgid "Current width of the column"
+msgstr "Noverande breidde på kolonna"
+
+msgid "Cursor"
+msgstr "Markørblinking"
+
+msgid "Cursor Blink"
+msgstr "Markørblinking"
+
+msgid "Cursor Blink Time"
+msgstr "Markørblinking tid"
+
+msgid "Cursor Blink Timeout"
+msgstr "Markørblinking tid"
+
+msgid "Cursor Position"
+msgstr "Markørplassering"
+
+msgid "Cursor Visible"
+msgstr "Skrivemerke synleg"
+
+msgid "Cursor color"
+msgstr "Markørfarge"
+
+msgid "Cursor line aspect ratio"
+msgstr "Tilhøvetalet for markørlinja"
+
+msgid "Cursor position"
+msgstr "Markørplassering"
+
+msgid "Cursor theme name"
+msgstr "Namn på ikondrakt"
+
+msgid "Cursor theme size"
+msgstr "Skrivemerke synleg"
+
+msgid "Custom"
+msgstr "Sjølvvald"
+
+msgid "Custom palette"
+msgstr "Eigendefinert palett"
+
+msgid "Custom size"
+msgstr "Sjølvvald storleik"
+
+msgid "Custom tab label"
+msgstr "Eigendefinert palett"
+
+msgid "Custom tabs for this text"
+msgstr "Eigendefinerte tabulatorar for denne teksten"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "Kyrillisk (transliterert)"
+
+msgid "DISPLAY"
+msgstr "DISPLAY"
+
+msgid "DL Envelope"
+msgstr "DL konvolutt"
+
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgid "Dark Aluminum 1"
+msgstr "Mørk aluminium 1"
+
+msgid "Dark Aluminum 2"
+msgstr "Mørk aluminium 2"
+
+msgid "Dark Butter"
+msgstr "Mørkt smør"
+
+msgid "Dark Chameleon"
+msgstr "Mørk kamelon"
+
+msgid "Dark Chocolate"
+msgstr "Mørk sjokolade"
+
+msgid "Dark Gray"
+msgstr "Mørk grå"
+
+msgid "Dark Orange"
+msgstr "Mørk oransje"
+
+msgid "Dark Plum"
+msgstr "Mørk plomme"
+
+msgid "Dark Sky Blue"
+msgstr "Mørk himmelblå"
+
+msgid "Dash pattern used to draw the focus indicator"
+msgstr "Prikkemønster som vert brukt til å teikna fokusindikatoren"
+
+msgid "Dash pattern used to draw the tree view grid lines"
+msgstr "Prikkemønster som vert brukt til å teikna fokusindikatoren"
+
+msgid "Dash pattern used to draw the tree view lines"
+msgstr "Prikkemønster som vert brukt til å teikna fokusindikatoren"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Decorated"
+msgstr "Pynta"
+
+msgid "Decrease Indent"
+msgstr "Minsk innrykk"
+
+msgid "Decreases the volume"
+msgstr "Skrur ned lyden"
+
+msgid "Default Application"
+msgstr "Program"
+
+msgid "Default Display"
+msgstr "Standard skjerm"
+
+msgid "Default Height"
+msgstr "Standardhøgde"
+
+msgid "Default IM module"
+msgstr "Standardbreidde"
+
+msgid "Default Outside Spacing"
+msgstr "Standard utvendig mellomrom"
+
+msgid "Default Page Setup"
+msgstr "Standardhøgde"
+
+msgid "Default Spacing"
+msgstr "Standard mellomrom"
+
+msgid "Default Width"
+msgstr "Standardbreidde"
+
+msgid "Default print backend"
+msgstr "Standard mellomrom"
+
+msgid "Delay before drop down menus appear"
+msgstr "Pause før nedtrekksmenyane vert viste"
+
+msgid "Delay before hiding a submenu"
+msgstr "Pause før undermenyar går vekk"
+
+msgid "Delay before submenus appear"
+msgstr "Pause før undermenyar vert viste"
+
+msgid "Delay before the submenus of a menu bar appear"
+msgstr "Pause før undermenyane i ei menylinje vert viste"
+
+msgid "Deletable"
+msgstr "Valgbar"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Desktop"
+msgstr "Skrivebord"
+
+msgid "Destroy with Parent"
+msgstr "Øydelegg saman med forelder"
+
+msgid "Detail"
+msgstr "Detalj"
+
+msgid "Details Height"
+msgstr "Standardhøgde"
+
+msgid "Details Width"
+msgstr "Standardbreidde"
+
+msgid "Details width in characters"
+msgstr "Breidde i teikn"
+
+msgid "Determines how the shadowed box around the viewport is drawn"
+msgstr "Styrer korleis den skuggelagte boksen rundt visingsområdet vert teikna"
+
+msgid "Device Display"
+msgstr "Standard skjerm"
+
+msgid "Device History"
+msgstr "Einingshistorie"
+
+msgid "Device Information"
+msgstr "Einingsinformasjon"
+
+msgid "Device Profile"
+msgstr "Einingsprofil"
+
+msgid "Device name"
+msgstr "Skjermelementnamn"
+
+msgid "Device type"
+msgstr "Kurve type"
+
+msgid "Digits"
+msgstr "Siffer"
+
+msgid "Disabled"
+msgstr "Slått av"
+
+msgid "Discharge accuracy"
+msgstr "Utladingsgrannsemd"
+
+msgid "Discharge profile"
+msgstr "Utladingsprofil"
+
+msgid "Discharging"
+msgstr "Vert lada ut"
+
+msgid "Displace focus"
+msgstr "Er fokus"
+
+msgid "Display"
+msgstr "Standard skjerm"
+
+msgid "Display a second backward arrow button on the opposite end of the scrollbar"
+msgstr "Vis ein sekundær knapp med bakoverpil på motsatt side av rullefeltet"
+
+msgid "Display a second backward arrow button on the opposite end of the tab area"
+msgstr "Vis ein sekundær knapp med bakoverpil på motsatt side av arkfaneområdet"
+
+msgid "Display a second forward arrow button on the opposite end of the scrollbar"
+msgstr "Vis ein sekundær knapp med framoverpil på motsatt side av rullefeltet"
+
+msgid "Display a second forward arrow button on the opposite end of the tab area"
+msgstr "Vis ein sekundær knapp med framoverpil på motsatt side av arkfaneområdet"
+
+msgid "Display for the device manager"
+msgstr "Vis cella"
+
+msgid "Display the cell"
+msgstr "Vis cella"
+
+msgid "Display the cell sensitive"
+msgstr "Vis cella"
+
+msgid "Display the standard backward arrow button"
+msgstr "Vis standard knapp med bakoverpil"
+
+msgid "Display the standard forward arrow button"
+msgstr "Vis standard knapp med framoversteg"
+
+msgid "Display which the device belongs to"
+msgstr "Vis cella"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Ikkje bruk Wintab-API [forvald]"
+
+msgid "Documented by"
+msgstr "Dokumentert av"
+
+msgid "Domain:"
+msgstr "Domene:"
+
+msgid "Don't batch GDI requests"
+msgstr "Ikkje send fleire GDI-førespurnader saman"
+
+msgid "Don't change slider size, just lock it to the minimum length"
+msgstr "Ikkje endra storleiken på rullelista, men bruk minste storleik"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "Ikkje sjekk om index.theme finst"
+
+msgid "Don't include image data in the cache"
+msgstr "Ikkje ta med biletdata i bufferen"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "Ikkje bruk Wintab-APIet for støtte for notatblokk-PC"
+
+msgid "Double Arrows"
+msgstr "Vis pil"
+
+msgid "Double Buffered"
+msgstr "Buffer"
+
+msgid "Double Click Distance"
+msgstr "Avstand ved dobbeltklikk"
+
+msgid "Double Click Time"
+msgstr "Tid for dobbeltklikk"
+
+msgid "Down"
+msgstr "Pil ned"
+
+msgid "Down Path"
+msgstr "Ned stig"
+
+msgid "Drag threshold"
+msgstr "Grense for draing"
+
+msgid "Draw"
+msgstr "Teikna"
+
+msgid "Draw Indicator"
+msgstr "Teikn indikator"
+
+msgid "Draw Value"
+msgstr "Vis verdi"
+
+msgid "Draw as radio menu item"
+msgstr "Teikn som radiomenyoppføring"
+
+msgid "Draw the toggle button as a radio button"
+msgstr "Teikn avkryssingsboksen som ein radioknapp"
+
+msgid "Duplicate object ID '%{string}' on line %{number} (previously on line %{number})"
+msgstr "Duplisert objekt-ID «%{string}» på linje %{number} (tidligare på linje %{number})"
+
+msgid "Editability set"
+msgstr "Er redigerbar satt"
+
+msgid "Editable"
+msgstr "Kan redigerast"
+
+msgid "Editable mode of the CellRenderer"
+msgstr "Redigerbar modus for CellRenderer"
+
+msgid "Editing"
+msgstr "Storleiksendring"
+
+msgid "Editing Canceled"
+msgstr "Storleiksendring"
+
+msgid "Ellipsize set"
+msgstr "Stilt til å hevast"
+
+msgid "Embed GhostScript fonts only"
+msgstr "Bygg kun inn GhostScript-skrifter"
+
+msgid "Embed Page Setup"
+msgstr "Største storleik"
+
+msgid "Empty"
+msgstr "Tom"
+
+msgid "Enable Accelerators"
+msgstr "Kan endra snøggtastar"
+
+msgid "Enable Animations"
+msgstr "Animasjon"
+
+msgid "Enable Event Sounds"
+msgstr "Animasjon"
+
+msgid "Enable Grid Lines"
+msgstr "Bruk piltastar"
+
+msgid "Enable Mnemonics"
+msgstr "Animasjon"
+
+msgid "Enable Popup"
+msgstr "Bruk oppsprett"
+
+msgid "Enable Search"
+msgstr "Tillat søk"
+
+msgid "Enable Tooltips"
+msgstr "Verktøytips"
+
+msgid "Enable Tree Lines"
+msgstr "Bruk piltastar"
+
+msgid "End"
+msgstr "End"
+
+msgid "Error"
+msgstr "Feil"
+
+msgid "Error color"
+msgstr "Markørfarge"
+
+msgid "Error creating print preview"
+msgstr "Feil under start av førehandsvising"
+
+msgid "Error from StartDoc"
+msgstr "Feil frå StartDoc"
+
+msgid "Error launching preview"
+msgstr "Feil under start av førehandsvising"
+
+msgid "Error underline color"
+msgstr "Framgrunnsfarge"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "European edp"
+msgstr "Europeisk EDP"
+
+msgid "Even Row Color"
+msgstr "Farge på partalsrader"
+
+msgid "Even sheets"
+msgstr "Partalsark"
+
+msgid "Event base"
+msgstr "Hendingar"
+
+msgid "Events"
+msgstr "Hendingar"
+
+msgid "Executive"
+msgstr "Executive"
+
+msgid "Expand"
+msgstr "Utvid"
+
+msgid "Expand timeout"
+msgstr "Storleik på utvidar"
+
+msgid "Expanded"
+msgstr "Utvida"
+
+msgid "Expander Column"
+msgstr "Utvidarkolonne"
+
+msgid "Expander Size"
+msgstr "Storleik på utvidar"
+
+msgid "Export filename"
+msgstr "Filnamn"
+
+msgid "Extension events"
+msgstr "Utvidingshendingar"
+
+msgid "Extra space at the left and right edges of the menu"
+msgstr "Kor mykje plass som skal setjast av i toppen og botnen av menyen"
+
+msgid "Extra space at the top and bottom of the menu"
+msgstr "Kor mykje plass som skal setjast av i toppen og botnen av menyen"
+
+msgid "Extra space to add for GTK_CAN_DEFAULT buttons"
+msgstr "Ekstra plass som skal brukast til CAN_DEFAULT-knappar"
+
+msgid "Extra space to add for GTK_CAN_DEFAULT buttons that is always drawn outside the border"
+msgstr "Ekstra mellomrom som skal leggjast til på CAN_DEFAULT-knapparsom alltid vert teikna utanfor kanten"
+
+msgid "Extra space to put between the child and its left and right neighbors, in pixels"
+msgstr "Kor mykje plass, målt i pikslar, som skal setjast mellom barnet og naboane til høgre og venstre"
+
+msgid "Extra space to put between the child and its neighbors, in pixels"
+msgstr "Ekstra mellomrom å setja mellom barnet og naboane, i pikslar"
+
+msgid "Extra space to put between the child and its upper and lower neighbors, in pixels"
+msgstr "Ekstra mellomrom mellom barnet og naboane under og over, i pikslar"
+
+msgid "Extra widget"
+msgstr "Ekstra skjermelement"
+
+msgid "FALSE displays the \"invisible char\" instead of the actual text (password mode)"
+msgstr "Dersom usann, vert «usynleg tekst» vist i staden for den faktiske teksten (passordmodus)"
+
+msgid "FALSE removes outside bevel from entry"
+msgstr "Dersom usann, vert den ytre kanten fjerna frå oppføringa"
+
+msgid "FLAGS"
+msgstr "FLAGG"
+
+msgid "Failed to load icon"
+msgstr "Feil under lasting av ikon"
+
+msgid "Failed to open file %{string} : %{string}\n"
+msgstr "Klarte ikkje opna fila «%{string}»: %{string}\n"
+
+msgid "Failed to rewrite header\n"
+msgstr "Klarte ikkje skriva om hovud\n"
+
+msgid "Failed to write cache file: %{string}\n"
+msgstr "Klarte ikkje skriva bufferfil: %{string}\n"
+
+msgid "Failed to write folder index\n"
+msgstr "Klarte ikkje skriva mappeindeks\n"
+
+msgid "Failed to write hash table\n"
+msgstr "Klarte ikkje skriva hash-tabell\n"
+
+msgid "Failed to write header\n"
+msgstr "Klarte ikkje skriva hovud\n"
+
+msgid "Fallback Icon Theme Name"
+msgstr "Namn på ikondrakt"
+
+msgid "FanFold European"
+msgstr "Europeisk traktorpapir"
+
+msgid "FanFold German Legal"
+msgstr "Traktorpapir, German Legal"
+
+msgid "FanFold US"
+msgstr "Amerikansk traktorpapir"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File System"
+msgstr "Filsystem"
+
+msgid "File System Root"
+msgstr "Filsystemrot"
+
+msgid "File not found: %{string}\n"
+msgstr "Fil ikkje funne: %{string}\n"
+
+msgid "Filename"
+msgstr "Filnamn"
+
+msgid "Filename to load and display"
+msgstr "Namn på fil som skal lastast og visast"
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "Fill"
+msgstr "Fyll"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Find and _Replace"
+msgstr "Finn og e_rstatt"
+
+msgid "Finished"
+msgstr "Fullført"
+
+msgid "Finished with error"
+msgstr "Fullført med feil"
+
+msgid "Finishing"
+msgstr "Avsluttar"
+
+msgid "Fixed Height Mode"
+msgstr "Modus for fast høgde"
+
+msgid "Fixed Width"
+msgstr "Fast breidde"
+
+msgid "Fixed slider size"
+msgstr "Fast storleik på rullelista"
+
+msgid "Focus in Toplevel"
+msgstr "Fokus i toppnivå"
+
+msgid "Focus line dash pattern"
+msgstr "Prikkemønster på fokuslinja"
+
+msgid "Focus linewidth"
+msgstr "Fokuslinjebreidde"
+
+msgid "Focus on click"
+msgstr "Fokuser ved klikk"
+
+msgid "Focus on map"
+msgstr "Fokuser ved klikk"
+
+msgid "Focus padding"
+msgstr "Fokuspolstring"
+
+msgid "Folio"
+msgstr "Folio"
+
+msgid "Folio sp"
+msgstr "Folio sp"
+
+msgid "Font"
+msgstr "Skrifttype"
+
+msgid "Font Family"
+msgstr "Skriftfamilie"
+
+msgid "Font Name"
+msgstr "Skriftnamn"
+
+msgid "Font Selection"
+msgstr "Skrifttypeval"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "Skildring av skrifttypen, som ein PangoFontDescription-struktur"
+
+msgid "Font description as a string, e.g. \"Sans Italic 12\""
+msgstr "Skildring av skrifttypen som ein streng, t.d. «Sans Italic 12»"
+
+msgid "Font family"
+msgstr "Skriftfamilie"
+
+msgid "Font family set"
+msgstr "Skriftfamilie satt"
+
+msgid "Font name"
+msgstr "Skriftnamn"
+
+msgid "Font options"
+msgstr "Skrift punkt"
+
+msgid "Font points"
+msgstr "Skrift punkt"
+
+msgid "Font resolution"
+msgstr "Skrift punkt"
+
+msgid "Font scale"
+msgstr "Skalering på skrifttype"
+
+msgid "Font scale set"
+msgstr "Skriftskalering satt"
+
+msgid "Font scaling factor"
+msgstr "Skaleringsfaktor for skrifttypen"
+
+msgid "Font size"
+msgstr "Skriftstorleik"
+
+msgid "Font size as a scale factor relative to the default font size. This properly adapts to theme changes etc. so is recommended. Pango predefines some scales such as PANGO_SCALE_X_LARGE"
+msgstr "Skriftstorleiken som ein skaleringsfaktor relativt til standardstorleiken. Dette er den tilrådde måten, sidan det tilpassar seg endringar i drakt o.a. Pango omdefinerer somme skaleringar slik som PANGO_SCALE_X_LARGE"
+
+msgid "Font size in Pango units"
+msgstr "Skriftstorleik, i Pango-einingar"
+
+msgid "Font size in points"
+msgstr "Storleiken på skrifta, i punkt"
+
+msgid "Font size set"
+msgstr "Skriftstorleik satt"
+
+msgid "Font stretch"
+msgstr "Strekking av skrifttypen"
+
+msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
+msgstr "Skriftstrekking som ein PangoStretch, t.d. PANGO_STRETCH_CONDENSED"
+
+msgid "Font stretch set"
+msgstr "Skriftstrekk satt"
+
+msgid "Font style"
+msgstr "Skriftstil"
+
+msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
+msgstr "Skriftstil som ein PangoStyle, t.d. PANGO_STYLE_ITALIC"
+
+msgid "Font style set"
+msgstr "Stil på skrifttype"
+
+msgid "Font variant"
+msgstr "Skriftvariant"
+
+msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
+msgstr "Skriftvariant som ein PangoVariant, t.d. PANGO_VARIANT_SMALL_CAPS"
+
+msgid "Font variant set"
+msgstr "Skrifttypevariant satt"
+
+msgid "Font weight"
+msgstr "Skriftvekt"
+
+msgid "Font weight as an integer, see predefined values in PangoWeight; for example, PANGO_WEIGHT_BOLD"
+msgstr "Skriftvekt som eit heiltal. Sjå førehandsdefinerte verdiar i PangoWeight, t.d. PANGO_WEIGHT_BOLD"
+
+msgid "Font weight set"
+msgstr "Skrifttyngd satt"
+
+msgid "For portable documents"
+msgstr "For portable dokument"
+
+msgid "Foreground color"
+msgstr "Framgrunnsfarge"
+
+msgid "Foreground color as a (possibly unallocated) GdkColor"
+msgstr "Framgrunnsfarge som ein GdkColor (treng ikkje vera allokert)"
+
+msgid "Foreground color as a GdkColor"
+msgstr "Framgrunnsfarge, som ein GdkColor"
+
+msgid "Foreground color as a string"
+msgstr "Framgrunnsfarge, som ein streng"
+
+msgid "Foreground color for symbolic icons"
+msgstr "Framgrunnsfarge, som ein streng"
+
+msgid "Foreground color name"
+msgstr "Namn på framgrunnsfarge"
+
+msgid "Foreground set"
+msgstr "Framgrunn satt"
+
+msgid "Forget association"
+msgstr "Gløym passord _no"
+
+msgid "Forget password _immediately"
+msgstr "Gløym passord _no"
+
+msgid "Forward"
+msgstr "Framover"
+
+msgid "Forward stepper"
+msgstr "Framoversteg"
+
+msgid "Fraction"
+msgstr "Brøkdel"
+
+msgid "Frame shadow"
+msgstr "Rammeskugge"
+
+msgid "Full Volume"
+msgstr "Full lydstyrke"
+
+msgid "GDK debugging flags to set"
+msgstr "Feilsøkingsflagg som skal setjes for GTK+"
+
+msgid "GDK debugging flags to unset"
+msgstr "Feilsøkingsflagg som skal fjernes for GTK+"
+
+msgid "GIcon"
+msgstr "Ikon"
+
+msgid "GIcon for primary icon"
+msgstr "Ikonet til dette vindauget"
+
+msgid "GTK+ Options"
+msgstr "Alternativ for GTK+"
+
+msgid "GTK+ debugging flags to set"
+msgstr "Feilsøkingsflagg som skal setjes for GTK+"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "Feilsøkingsflagg som skal fjernes for GTK+"
+
+msgid "GdkPixbufAnimation to display"
+msgstr "GdkPixbufAnimation som skal visast"
+
+msgid "General"
+msgstr "Allment"
+
+msgid "Generating data"
+msgstr "Lagar data"
+
+msgid "Getting printer information failed"
+msgstr "Klarte ikkje henta informasjon om skrivaren"
+
+msgid "Getting printer information..."
+msgstr "Hentar informasjon om skrivar …"
+
+msgid "GhostScript pre-filtering"
+msgstr "Førehandsfiltrering med GhostScript"
+
+msgid "Go _Back"
+msgstr "Gå til_bake"
+
+msgid "Government Legal"
+msgstr "Government Legal"
+
+msgid "Government Letter"
+msgstr "Government Letter"
+
+msgid "Graph type:"
+msgstr "Type graf:"
+
+msgid "Gravity"
+msgstr "Tyngde"
+
+msgid "Grid line pattern"
+msgstr "Prikkemønster på fokuslinja"
+
+msgid "Grid line width"
+msgstr "Fokuslinjebreidde"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Group Name"
+msgstr "Gruppe"
+
+msgid "Group name for tab drag and drop"
+msgstr "Eit namn på handlingsgruppa."
+
+msgid "H"
+msgstr "H"
+
+msgid "Handle Size"
+msgstr "Storleik på handtak"
+
+msgid "Handle position"
+msgstr "Plassering av handtak"
+
+msgid "Has Frame"
+msgstr "Har ramme"
+
+msgid "Has Opacity Control"
+msgstr "Har kontroll for kor ugjennomsiktig fargen er"
+
+msgid "Has Resize Grip"
+msgstr "Har handtak til å endra storleik"
+
+msgid "Has Selection"
+msgstr "Det valde året"
+
+msgid "Has default"
+msgstr "Har standardverdi"
+
+msgid "Has focus"
+msgstr "Har fokus"
+
+msgid "Has palette"
+msgstr "Har palett"
+
+msgid "Has selection"
+msgstr "Det valde året"
+
+msgid "Has tooltip"
+msgstr "Verktøytips"
+
+msgid "Header Padding"
+msgstr "Polstring til venstre"
+
+msgid "Header Relief"
+msgstr "Tabellhovuda kan klikkast"
+
+msgid "Header Spacing"
+msgstr "Polstring til venstre"
+
+msgid "Header image"
+msgstr "Tabellhovuda kan klikkast"
+
+msgid "Headers Clickable"
+msgstr "Tabellhovuda kan klikkast"
+
+msgid "Headers Visible"
+msgstr "Tabellhovuda kan klikkast"
+
+msgid "Height"
+msgstr "Høgde"
+
+msgid "Height request"
+msgstr "Høgdeførespurnad"
+
+msgid "Help Button"
+msgstr "Meldingsknappar"
+
+msgid "Hide if empty"
+msgstr "Gøym dersom tom"
+
+msgid "High"
+msgstr "Høg"
+
+msgid "Hint to help the desktop environment understand what kind of window this is and how to treat it."
+msgstr "Hint som skal hjelpa skrivebordsmiljøet til å skjøna kva slags vindauge dette er, og korleis det skal handsamast"
+
+msgid "History"
+msgstr "Historikk"
+
+msgid "Hold the job until it is explicitly released"
+msgstr "Hald utskriftsjobben til han vert aktivt frigjort"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Homepage"
+msgstr "Heimeside"
+
+msgid "Homogeneous"
+msgstr "Homogen"
+
+msgid "Horizontal Adjustment"
+msgstr "Vassrett justering"
+
+msgid "Horizontal Adjustment for the widget"
+msgstr "Vassrett justering for skjermelementet"
+
+msgid "Horizontal Alignment"
+msgstr "Vassrett justering"
+
+msgid "Horizontal Offset"
+msgstr "Vassrett forskyving"
+
+msgid "Horizontal Padding"
+msgstr "Vassrett polstring"
+
+msgid "Horizontal Scroll Arrow Length"
+msgstr "Åtferda til vassrett rullefelt"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "Åtferda til vassrett rullefelt"
+
+msgid "Horizontal Separator Width"
+msgstr "Breidde på vassrett skilje"
+
+msgid "Horizontal adjustment"
+msgstr "Vassrett justering"
+
+msgid "Horizontal alignment"
+msgstr "Vassrett justering"
+
+msgid "Horizontal alignment for child"
+msgstr "Vassrett justering av barnet"
+
+msgid "Horizontal options"
+msgstr "Vassrette innstillingar"
+
+msgid "Horizontal padding"
+msgstr "Vassrett polstring"
+
+msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
+msgstr "Vassrett justering for barn i det tilgjengelege området. 0,0 er venstrejustert, 1,0 er høgrejustert"
+
+msgid "Horizontal scale"
+msgstr "Vassrett skala"
+
+msgid "Horizontal separation"
+msgstr "Vassrette innstillingar"
+
+msgid "Horizontal space between cells.  Must be an even number"
+msgstr "Vassrett mellomrom mellom celler. Må vera eit partal"
+
+msgid "Hover Expand"
+msgstr "Utvid"
+
+msgid "How far in the x direction to move the arrow when the button is depressed"
+msgstr "Kor langt i X-retningen pila skal flyttast når knappen vert trykt ned"
+
+msgid "How far in the x direction to move the child when the button is depressed"
+msgstr "Kor langt i X-retninga barnet skal flytta seg når knappen vert trykt ned"
+
+msgid "How far in the y direction to move the arrow when the button is depressed"
+msgstr "Kor langt i Y-retningen pila skal flyttast når knappen vert trykt ned"
+
+msgid "How far in the y direction to move the child when the button is depressed"
+msgstr "Kor langt i Y-retninga barnet skal flytta seg når knappen vert trykt ned"
+
+msgid "How the range should be updated on the screen"
+msgstr "Korleis området skal oppdaterast på skjermen"
+
+msgid "How to align the lines"
+msgstr "Korleis teikna opp verktøylinja"
+
+msgid "How to draw the input method preedit string"
+msgstr "Korleis førehandsredigeringsstrengen til ein inndatametode skal skrivast"
+
+msgid "How to draw the input method statusbar"
+msgstr "Korleis statuslinja for inndatametoden skal teiknast"
+
+msgid "How to draw the toolbar"
+msgstr "Korleis teikna opp verktøylinja"
+
+msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
+msgstr "Korleis knappane skal plasserast i boksen. Moglege verdiar er «default», «spread», «edge», «start» og «end»."
+
+msgid "Hue"
+msgstr "Glød"
+
+msgid "Hyper"
+msgstr "Hyper"
+
+msgid "IM Preedit style"
+msgstr "Stil på IM-førehandsredigering"
+
+msgid "IM Status style"
+msgstr "IM-statusstil"
+
+msgid "IM module"
+msgstr "Standardbreidde"
+
+msgid "IPA"
+msgstr "IPA"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Icon '%{string}' not present in theme"
+msgstr "Ikonet «%{string}» er ikkje med i drakta"
+
+msgid "Icon Name"
+msgstr "Skriftnamn"
+
+msgid "Icon Prelight"
+msgstr "Høgde"
+
+msgid "Icon Sizes"
+msgstr "Ikonstorleik"
+
+msgid "Icon Theme Name"
+msgstr "Namn på ikondrakt"
+
+msgid "Icon View Model"
+msgstr "TreeView-modell"
+
+msgid "Icon for this window"
+msgstr "Ikonet til dette vindauget"
+
+msgid "Icon name"
+msgstr "Skriftnamn"
+
+msgid "Icon set"
+msgstr "Ikonsett"
+
+msgid "Icon set to display"
+msgstr "Ikonsett som skal visast"
+
+msgid "Icon size"
+msgstr "Ikonstorleik"
+
+msgid "Icon size set"
+msgstr "Skriftstorleik satt"
+
+msgid "Icon spacing"
+msgstr "Radmellomrom"
+
+msgid "Icon widget"
+msgstr "Ikon-skjermelement"
+
+msgid "Icon widget to display in the item"
+msgstr "Ikon-skjermelement som skal visast på elementet"
+
+msgid "Icons"
+msgstr "Ikon"
+
+msgid "If TRUE, a heading is displayed"
+msgstr "Dersom denne er sann, vert ei overskrift vist"
+
+msgid "If TRUE, day names are displayed"
+msgstr "Dersom denne er sann, vert namna på dagane viste"
+
+msgid "If TRUE, details are shown"
+msgstr "Dersom denne er sann, vert namna på dagane viste"
+
+msgid "If TRUE, pressing the right mouse button on the notebook pops up a menu that you can use to go to a page"
+msgstr "Dersom denne er sann, kan du høgreklikka i notisboka og få fram ein meny du kan bruka til å gå til ei side"
+
+msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
+msgstr "Dersom denne er sann, vil rullepiler verta viste når det er for mange arkfaner til å visa alle på ein gong."
+
+msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
+msgstr "Dersom denne er sann, vil barnet plasserast i ei sekundær gruppe med barn, høveleg til t.d. help-knappar"
+
+msgid "If TRUE, the child can be made smaller than its requisition"
+msgstr "Dersom denne er sann, kan barnet gjerast mindre enn det ber om å vera"
+
+msgid "If TRUE, the selected month cannot be changed"
+msgstr "Dersom denne er sann, kan ikkje den valde månaden endrast"
+
+msgid "If TRUE, the table cells are all the same width/height"
+msgstr "Dersom denne er sann, har alle tabellcellene same breidde og høgde."
+
+msgid "If TRUE, the widget will receive the default action when it is focused"
+msgstr "Om denne er sann, vil skjermelementet få standardhandling når det er fokusert"
+
+msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
+msgstr "Dersom denne er sann, er vindauget modalt (andre vindauge kan ikkje brukast så lenge dette er framme)"
+
+msgid "If TRUE, users can resize the window"
+msgstr "Dersom sann, kan brukarar endra storleik på vindauget"
+
+msgid "If TRUE, week numbers are displayed"
+msgstr "Dersom denne er sann, vert vekenummera viste"
+
+msgid "If an arrow should be shown if the toolbar doesn't fit"
+msgstr "Om ei pil skal visast dersom det ikkje er plass til heile verktøylinja"
+
+msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr "Dersom det tilgjengelege vassrette området er større enn kva barnet krev, kor mykje av det overskytande skal barnet bruka? 0,0 er ingenting, 1,0 er alt"
+
+msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr "Dersom det tilgjengelege loddrette området er større enn kva barnet krev, kor mykje av det overskytande skal barnet bruka? 0,0 er ingenting, 1,0 er alt"
+
+msgid "If set, an underline in the label property indicates that the next character should be used for the mnemonic accelerator key in the overflow menu"
+msgstr "Dersom denne er satt, skal ei understreking i teksten visa at det neste teiknet skal brukast som snøggtast i overflytmenyen"
+
+msgid "If set, an underline in the text indicates the next character should be used for the mnemonic accelerator key"
+msgstr "Dersom denne er satt, skal ei understreking i teksten visa at det neste teiknet skal brukast som snøggtast"
+
+msgid "If set, the label is used to pick a stock item instead of being displayed"
+msgstr "Dersom denne er satt, skal merkelappen brukast til å velja ei standardoppføring i staden for å visast"
+
+msgid "If set, wrap lines if the text becomes too wide"
+msgstr "Dersom denne er satt, skal linjer brekkast dersom dei vert for lange"
+
+msgid "If the insertion cursor is shown"
+msgstr "Om innsetjingsmarkøren vert vist eller ikkje"
+
+msgid "If the toggle button is in an \"in between\" state"
+msgstr "Om knappen er i ein mellomtilstand"
+
+msgid "If the toggle button should be pressed in"
+msgstr "Om knappen skal vera trykt inn eller ikkje"
+
+msgid "If the toggle part of the button is displayed"
+msgstr "Om av/på-delen av knappen skal visast"
+
+msgid "If this window should be destroyed when the parent is destroyed"
+msgstr "Om dette vindauget skal øydeleggast når forelderen blir øydelagd"
+
+msgid "Image"
+msgstr "Bilete"
+
+msgid "Image Quality"
+msgstr "Biletkvalitet"
+
+msgid "Image position"
+msgstr "Plassering av handtak"
+
+msgid "Image spacing"
+msgstr "Mellomrom mellom verdiane"
+
+msgid "Image widget"
+msgstr "Bilete-skjermelement"
+
+msgid "Image/label border"
+msgstr "Kant rundt bilete/merkelapp"
+
+msgid "Inconsistent"
+msgstr "Inkonsistent"
+
+msgid "Inconsistent state"
+msgstr "Ikkje konsistent tilstand"
+
+msgid "Increase Indent"
+msgstr "Auk innrykk"
+
+msgid "Increases the volume"
+msgstr "Skrur opp lyden"
+
+msgid "Indent"
+msgstr "Innrykk"
+
+msgid "Indent Expanders"
+msgstr "Rykk inn utvidarar"
+
+msgid "Indent set"
+msgstr "Innrykk satt"
+
+msgid "Index 3x5"
+msgstr "Kartotekkort 3x5"
+
+msgid "Index 4x6 (postcard)"
+msgstr "Kartotekkort 4x6 (postkort)"
+
+msgid "Index 4x6 ext"
+msgstr "Kartotekkort 4x6 ext"
+
+msgid "Index 5x8"
+msgstr "Kartotekkort 5x8"
+
+msgid "Indicator Size"
+msgstr "Indikatorstorleik"
+
+msgid "Indicator Spacing"
+msgstr "Mellomrom rundt indikator"
+
+msgid "Indicator size"
+msgstr "Indikatorstorleik"
+
+msgid "Information"
+msgstr "Informasjon"
+
+msgid "Initial state"
+msgstr "Utgangsstatus"
+
+msgid "Inline selection"
+msgstr "Det valde året"
+
+msgid "Inner Border"
+msgstr "Arkfanekant"
+
+msgid "Inner border"
+msgstr "Arkfanekant"
+
+msgid "Inner border space"
+msgstr "Arkfanekant"
+
+msgid "Input _Methods"
+msgstr "Skrive_metodar"
+
+msgid "Input mode for the device"
+msgstr "Modellen for trevisinga"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Intensity of the color."
+msgstr "Intensiteten til fargen."
+
+msgid "Interior Focus"
+msgstr "Internt fokus"
+
+msgid "Internal padding"
+msgstr "Intern polstring"
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Inukitut (transliterert)"
+
+msgid "Invalid"
+msgstr "Ugyldig"
+
+msgid "Invalid URI"
+msgstr "Ugyldig URI"
+
+msgid "Invalid argument to CreateDC"
+msgstr "Ugyldig argument til CreateDC"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "Ugyldig argument til PrintDlgEx"
+
+msgid "Invalid file name"
+msgstr "Ugyldig filnamn"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "Ugyldig handtak til PrintDlgEx"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "Ugyldig peikar til PrintDlgEx"
+
+msgid "Invalid root element: '%{string}'"
+msgstr "Ugyldig rotelement: «%{string}»"
+
+msgid "Invalid type function on line %{number}: '%{string}'"
+msgstr "Ugyldig typefunksjon på linje %{number}: «%{string}»"
+
+msgid "Invert direction slider moves to increase range value"
+msgstr "Snu retningen glidaren går for å auka verdien i området"
+
+msgid "Invert the direction in which the progress bar grows"
+msgstr "Peikeretningen og vekstretningen til framdriftsvisaren"
+
+msgid "Inverted"
+msgstr "Omvendt"
+
+msgid "Invisible"
+msgstr "Usynleg"
+
+msgid "Invisible character"
+msgstr "Usynleg teikn"
+
+msgid "Invisible character set"
+msgstr "Usynleg teikn"
+
+msgid "Invisible set"
+msgstr "Usynleg satt"
+
+msgid "Invite Envelope"
+msgstr "Invitasjonskonvolutt"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "Is Active"
+msgstr "Er aktivt"
+
+msgid "Is Expanded"
+msgstr "Er utvida"
+
+msgid "Is Expander"
+msgstr "Er utvidar"
+
+msgid "Is Showing"
+msgstr "Vis overskrift"
+
+msgid "Is Virtual"
+msgstr "Er viktig"
+
+msgid "Is focus"
+msgstr "Er fokus"
+
+msgid "Is important"
+msgstr "Er viktig"
+
+msgid "Italian Envelope"
+msgstr "Italiensk konvolutt"
+
+msgid "Item Orientation"
+msgstr "Retning"
+
+msgid "Item Padding"
+msgstr "Polstring nedst"
+
+msgid "JB0"
+msgstr "JB0"
+
+msgid "JB1"
+msgstr "JB1"
+
+msgid "JB10"
+msgstr "JB10"
+
+msgid "JB2"
+msgstr "JB2"
+
+msgid "JB3"
+msgstr "JB3"
+
+msgid "JB4"
+msgstr "JB4"
+
+msgid "JB5"
+msgstr "JB5"
+
+msgid "JB6"
+msgstr "JB6"
+
+msgid "JB7"
+msgstr "JB7"
+
+msgid "JB8"
+msgstr "JB8"
+
+msgid "JB9"
+msgstr "JB9"
+
+msgid "Job"
+msgstr "Jobb"
+
+msgid "Job Details"
+msgstr "Detaljar for jobb"
+
+msgid "Job Name"
+msgstr "Skriftnamn"
+
+msgid "Job Priority"
+msgstr "Jobbprioritet"
+
+msgid "Justification"
+msgstr "Justering"
+
+msgid "Justification set"
+msgstr "Plassering satt"
+
+msgid "KP_Begin"
+msgstr "KP_Begin"
+
+msgid "KP_Delete"
+msgstr "KP_Delete"
+
+msgid "KP_Down"
+msgstr "KP_Pil ned"
+
+msgid "KP_End"
+msgstr "KP_Begin"
+
+msgid "KP_Enter"
+msgstr "KP_Enter"
+
+msgid "KP_Home"
+msgstr "KP_Home"
+
+msgid "KP_Insert"
+msgstr "KP_Insert"
+
+msgid "KP_Left"
+msgstr "KP_Pil venstre"
+
+msgid "KP_Next"
+msgstr "KP_Next"
+
+msgid "KP_Page_Down"
+msgstr "KP_Page_Down"
+
+msgid "KP_Page_Up"
+msgstr "KP_Page_Up"
+
+msgid "KP_Prior"
+msgstr "KP_Prior"
+
+msgid "KP_Right"
+msgstr "KP_Pil høgre"
+
+msgid "KP_Space"
+msgstr "KP_Mellomrom"
+
+msgid "KP_Tab"
+msgstr "KP_Tab"
+
+msgid "KP_Up"
+msgstr "KP_Pil opp"
+
+msgid "Key Theme Name"
+msgstr "Namn på nøkkeltema"
+
+msgid "Keybinding to activate the menu bar"
+msgstr "Snøggtast som går til menylinja"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "VHI V_enstre-til-høgre-innbygging"
+
+msgid "LRM _Left-to-right mark"
+msgstr "VHM _Venstre-til-høgre-merke"
+
+msgid "LRO Left-to-right _override"
+msgstr "VHO Venstre-til-høgre-_overstyring"
+
+msgid "Label"
+msgstr "Merkelapp"
+
+msgid "Label fill"
+msgstr "Arkfanepolstring"
+
+msgid "Label widget"
+msgstr "Merkelapp-skjermelement"
+
+msgid "Label xalign"
+msgstr "X-justering av merkelappen"
+
+msgid "Label yalign"
+msgstr "Y-justering av merkelappen"
+
+msgid "Landscape"
+msgstr "Landskap"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Language set"
+msgstr "Språk satt"
+
+msgid "Laptop batteries"
+msgstr "Batteri på bærbar datamaskin"
+
+msgid "Laptop battery"
+msgstr "Batteri på bærbar datamaskin"
+
+msgid "Largest possible value for the \"position\" property"
+msgstr "Største moglege verdi til eigenskapen «plassering»"
+
+msgid "Layout"
+msgstr "Utforming"
+
+msgid "Layout style"
+msgstr "Stil på plassering"
+
+msgid "Lead acid"
+msgstr "Lead acid"
+
+msgid "Left"
+msgstr "Pil venstre"
+
+msgid "Left Attach"
+msgstr "Venstre feste"
+
+msgid "Left Margin"
+msgstr "Venstremarg"
+
+msgid "Left Padding"
+msgstr "Polstring til venstre"
+
+msgid "Left attachment"
+msgstr "Venstre feste"
+
+msgid "Left gravity"
+msgstr "Tyngde"
+
+msgid "Left margin"
+msgstr "Venstremarg"
+
+msgid "Left margin set"
+msgstr "Venstre marg satt"
+
+msgid "Left to right"
+msgstr "Venstre til høgre"
+
+msgid "Left to right, bottom to top"
+msgstr "Venstre til høgre, botn til topp"
+
+msgid "Left to right, top to bottom"
+msgstr "Venstre til høgre, topp til botn"
+
+msgid "Left, right, or center justification"
+msgstr "Venstre-, høgre- eller senterjustering"
+
+msgid "Length of scale's slider"
+msgstr "Lengda på glidebrytaren"
+
+msgid "Length of step buttons at ends"
+msgstr "Lengde på stegknappane på endane"
+
+msgid "Length of the cursor blink cycle, in milliseconds"
+msgstr "Kor lenge kvart blink varar, i millisekund"
+
+msgid "License"
+msgstr "Lisens"
+
+msgid "License Type"
+msgstr "Meldingstype"
+
+msgid "Light Aluminum 1"
+msgstr "Lys aluminium 1"
+
+msgid "Light Aluminum 2"
+msgstr "Lys aluminium 2"
+
+msgid "Light Butter"
+msgstr "Lyst smør"
+
+msgid "Light Chameleon"
+msgstr "Lys kamelon"
+
+msgid "Light Chocolate"
+msgstr "Lys sjokolade"
+
+msgid "Light Gray"
+msgstr "Lys grå"
+
+msgid "Light Orange"
+msgstr "Lys oransje"
+
+msgid "Light Plum"
+msgstr "Lys plomme"
+
+msgid "Light Sky Blue"
+msgstr "Lys himmelblå"
+
+msgid "Line wrap"
+msgstr "Linjebrekking"
+
+msgid "Line wrap mode"
+msgstr "Linjebrekking"
+
+msgid "List of authors of the program"
+msgstr "Retning på verktøylinja"
+
+msgid "List of icon names"
+msgstr "Skriftnamn"
+
+msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
+msgstr "Liste over ikonstorleikar (gtk-menu=16,16;gtk-button=20,20..."
+
+msgid "List of the GtkPrintBackend backends to use by default"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Lithium Ion"
+msgstr "Litiumion"
+
+msgid "Lithium Iron Phosphate"
+msgstr "Litiumjernfosfat"
+
+msgid "Lithium Polymer"
+msgstr "Litiumpolymer"
+
+msgid "Load additional GTK+ modules"
+msgstr "Last tilleggsmodular for GTK+"
+
+msgid "Local Only"
+msgstr "Berre lokale"
+
+msgid "Local only"
+msgstr "Berre lokale"
+
+msgid "Location"
+msgstr "Handling"
+
+msgid "Logo Icon Name"
+msgstr "Skriftnamn"
+
+msgid "Long Edge (Standard)"
+msgstr "Lang kant (standard)"
+
+msgid "Low"
+msgstr "Låg"
+
+msgid "Lower"
+msgstr "Nedre"
+
+msgid "Lower limit of ruler"
+msgstr "Nedre verdi på linjal"
+
+msgid "MODULES"
+msgstr "MODULAR"
+
+msgid "Make all warnings fatal"
+msgstr "La alle advarsler vera fatale"
+
+msgid "Make the expanders indented"
+msgstr "Gjer utvidarane innrykka"
+
+msgid "Manage Custom Sizes"
+msgstr "Handter eigendefinerte storleikar"
+
+msgid "Manage Custom Sizes..."
+msgstr "Handter eigendefinerte storleikar …"
+
+msgid "Margin"
+msgstr "Venstremarg"
+
+msgid "Margin on Left"
+msgstr "Venstremarg"
+
+msgid "Margin on Top"
+msgstr "Venstremarg"
+
+msgid "Margins from Printer..."
+msgstr "Margar frå skrivar …"
+
+msgid "Marked up text to render"
+msgstr "Oppmerka tekst som skal teiknast"
+
+msgid "Markup"
+msgstr "Oppmerking"
+
+msgid "Markup column"
+msgstr "Oppmerking"
+
+msgid "Max Size"
+msgstr "Største storleik"
+
+msgid "Maximal Position"
+msgstr "Største plassering"
+
+msgid "Maximum Value"
+msgstr "Største lengde"
+
+msgid "Maximum Width"
+msgstr "Største breidde"
+
+msgid "Maximum Width In Characters"
+msgstr "Breidde i teikn"
+
+msgid "Maximum age of recently used files, in days"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "Maximum allowed width of the column"
+msgstr "Største tillatne breidde på kolonna"
+
+msgid "Maximum child expand"
+msgstr "Minste breidde på barnet"
+
+msgid "Maximum distance allowed between two clicks for them to be considered a double click (in pixels)"
+msgstr "Største avstand (i pikslar) mellom to klikk for at det skal reknast som eit dobbeltklikk"
+
+msgid "Maximum length"
+msgstr "Største lengde"
+
+msgid "Maximum number of characters for this entry. Zero if no maximum"
+msgstr "Øvre grense for tal på teikn for denne oppføringa. Null dersom ikkje noko øvre grense"
+
+msgid "Maximum size of the ruler"
+msgstr "Største storleik på linjalen"
+
+msgid "Maximum time allowed between two clicks for them to be considered a double click (in milliseconds)"
+msgstr "Største tid (i millisekund) mellom to klikk for at det skal reknast som eit dobbeltklikk"
+
+msgid "Medium"
+msgstr "Middels"
+
+msgid "Medium Gray"
+msgstr "Middels grå"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Menu bar accelerator"
+msgstr "Snøggtast for menylinje"
+
+msgid "Menu label"
+msgstr "Menymerkelapp"
+
+msgid "Message Buttons"
+msgstr "Meldingsknappar"
+
+msgid "Message Type"
+msgstr "Meldingstype"
+
+msgid "Message area"
+msgstr "Meldingstype"
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Metric"
+msgstr "Numerisk"
+
+msgid "Minimal Position"
+msgstr "Minste posisjon"
+
+msgid "Minimum Key Length"
+msgstr "Minste nøkkellengde"
+
+msgid "Minimum Slider Length"
+msgstr "Minste lengde på rullelista"
+
+msgid "Minimum Value"
+msgstr "Minste X"
+
+msgid "Minimum Width"
+msgstr "Minste breidde"
+
+msgid "Minimum allowed width of the column"
+msgstr "Minste tillatne breidde på kolonna"
+
+msgid "Minimum child height"
+msgstr "Minste høgde på barnet"
+
+msgid "Minimum child width"
+msgstr "Minste breidde på barnet"
+
+msgid "Minimum height of buttons inside the box"
+msgstr "Minste høgde på knappane inni boksen"
+
+msgid "Minimum horizontal bar height"
+msgstr "Vassrett justering"
+
+msgid "Minimum horizontal bar width"
+msgstr "Breidde på vassrett skilje"
+
+msgid "Minimum horizontal height of the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "Minimum length of scrollbar slider"
+msgstr "Minste lengde på rullelista i rullefeltet"
+
+msgid "Minimum length of the search key in order to look up matches"
+msgstr "Minste lengde på søkenøkkelen før det vert søkt etter treff"
+
+msgid "Minimum time the pointer must stay over a menu item before the submenu appear"
+msgstr "Den minste tida peikaren må vera over ei menyoppføring før undermenyen kjem fram"
+
+msgid "Minimum vertical bar height"
+msgstr "Minste høgde på barnet"
+
+msgid "Minimum vertical bar width"
+msgstr "Breidde på loddrett skilje"
+
+msgid "Minimum width of buttons inside the box"
+msgstr "Minste breidde på knappar inni boksen"
+
+msgid "Miscellaneous"
+msgstr "Forskjellig"
+
+msgid "Mnemonic key"
+msgstr "Snøggtast"
+
+msgid "Mnemonic widget"
+msgstr "Snøggtastelement"
+
+msgid "Mnemonics Visible"
+msgstr "Snøggtast"
+
+msgid "Modal"
+msgstr "Modalt"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Model"
+msgstr "Modell"
+
+msgid "Model column to search through during interactive search"
+msgstr "Modellkolonne som skal søkast gjennom ved søk i koden"
+
+msgid "Modified"
+msgstr "Endra"
+
+msgid "Monarch Envelope"
+msgstr "Monarch konvolutt"
+
+msgid "Monitor"
+msgstr "Månad"
+
+msgid "Month"
+msgstr "Månad"
+
+msgid "Multi_key"
+msgstr "Multi_key"
+
+msgid "Multipress"
+msgstr "Multipress"
+
+msgid "Muted"
+msgstr "Dempa"
+
+msgid "NAME"
+msgstr "NAMN"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Name of a icon theme to fall back to"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Name of default font to use"
+msgstr "Namn på standardskrift"
+
+msgid "Name of icon theme to use"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Name of key theme RC file to load"
+msgstr "Namn på nøkkeltemaet si RC-fil som skal lastast"
+
+msgid "Name of the GtkFileChooser backend to use by default"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Name of the cursor theme to use, or NULL to use the default theme"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr "Namn på skriftfamilien, t.d. Sans, Helvetica, Times, Monospace"
+
+msgid "Name of the printer"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Name of the themed icon for this window"
+msgstr "Ikonet til dette vindauget"
+
+msgid "Name of theme RC file to load"
+msgstr "Namn på RC-fil som skal lastast"
+
+msgid "Need user intervention"
+msgstr "Krev tilsyn av brukar"
+
+msgid "New accelerator..."
+msgstr "Ny snarvegstast …"
+
+msgid "Nickel metal hydride"
+msgstr "Nikkel/metal hybrid"
+
+msgid "No Month Change"
+msgstr "Ikkje endra månad"
+
+msgid "No data"
+msgstr "Inga data"
+
+msgid "No item for URI '%{string}' found"
+msgstr "Inga oppføring funne for URI «%{string}»"
+
+msgid "No items found"
+msgstr "Ingen oppføringar funne"
+
+msgid "No pre-filtering"
+msgstr "Inga førerhandsfiltrering"
+
+msgid "No printer found"
+msgstr "Ingen skrivar funnen"
+
+msgid "No profile available"
+msgstr "Ikkje tilgjengeleg"
+
+msgid "No recently used resource found with URI `%{string}'"
+msgstr "Fann ingen nyleg brukt ressurs med URI «%{string}»"
+
+msgid "No show all"
+msgstr "Ingen «vis alt»"
+
+msgid "No theme index file.\n"
+msgstr "Inga indeksfil for tema.\n"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Not a valid icon cache: %{string}\n"
+msgstr "Ikkje ein gyldig ikonbuffer: %{string}\n"
+
+msgid "Not a valid page setup file"
+msgstr "Ikkje ei gyldig fil for sideoppsett"
+
+msgid "Not available"
+msgstr "Ikkje tilgjengeleg"
+
+msgid "Not enough free memory"
+msgstr "Ikkje nok minne ledig"
+
+msgid "Num_Lock"
+msgstr "Num_Lock"
+
+msgid "Number of Pages"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "Number of Pages To Print"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "Number of axes in the device"
+msgstr "Tal på rader i tabellen"
+
+msgid "Number of characters to leave space for in the entry"
+msgstr "Tal på teikn som det skal setjast av plass til i feltet"
+
+msgid "Number of columns"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "Number of columns to display"
+msgstr "Kor mange desimalplassar som skal visast"
+
+msgid "Number of jobs queued in the printer"
+msgstr "Tal på rader i tabellen"
+
+msgid "Number of pixels around the content pages."
+msgstr "Tal på rader i tabellen"
+
+msgid "Number of pixels around the header."
+msgstr "Stil på kanten rundt menylinja"
+
+msgid "Number of pixels between the scrollbars and the scrolled window"
+msgstr "Tal på pikslar mellom rullefelta og vindauget som vert rulla"
+
+msgid "Number of pixels of the entry scrolled off the screen to the left"
+msgstr "Kor mange pikslar av oppføringa som har rulla av venstre sida av skjermen"
+
+msgid "Number of pixels the cursor can move before dragging"
+msgstr "Kor mange pikslar markøren skal flytta seg før det vert rekna som å dra"
+
+msgid "Number of recently used files"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "Number of steps"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "Numeric"
+msgstr "Numerisk"
+
+msgid "OFF"
+msgstr "AV"
+
+msgid "ON"
+msgstr "PÅ"
+
+msgid "Observe power management"
+msgstr "Overvak straumstyring"
+
+msgid "Odd Row Color"
+msgstr "Farge på oddetalsrader"
+
+msgid "Odd sheets"
+msgstr "Oddetalsark"
+
+msgid "Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr "Kor mykje teksten skal løftast over grunnlinja (negative verdiar er under grunnlinja)"
+
+msgid "Offset of text above the baseline (below the baseline if rise is negative) in Pango units"
+msgstr "Kor mykje over grunnlinja teksten skal stå, i pikslar (teksten kjem under grunnlinja dersom denne er negativ)"
+
+msgid "On _hold"
+msgstr "På _vent"
+
+msgid "One Sided"
+msgstr "Einsidig"
+
+msgid "Op_acity:"
+msgstr "_Ugjennomsyne:"
+
+msgid "Opacity of the selection box"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Open '%{string}'"
+msgstr "Opna «%{string}»"
+
+msgid "Opening %{number} Item"
+msgstr "Opnar %{number} element"
+
+msgid "Opening %{number} Items"
+msgstr "Opnar %{number} elementer"
+
+msgid "Options specifying the horizontal behaviour of the child"
+msgstr "Innstillingar som styrer den vassrette åtferda til barnet"
+
+msgid "Options specifying the vertical behaviour of the child"
+msgstr "Innstillingar som styrer den loddrette åtferda til barnet"
+
+msgid "Or_ientation:"
+msgstr "Or_ientering:"
+
+msgid "Orange"
+msgstr "Oransje"
+
+msgid "Orientation"
+msgstr "Retning"
+
+msgid "Other Applications"
+msgstr "Andre program"
+
+msgid "Other application..."
+msgstr "Anna program …"
+
+msgid "Other..."
+msgstr "Anna …"
+
+msgid "Out of paper"
+msgstr "Tom for papir"
+
+msgid "Output Tray"
+msgstr "Utskuff"
+
+msgid "Output a C header file"
+msgstr "Skriv ut ei C-headerfil"
+
+msgid "Output t_ray:"
+msgstr "U_tskuff:"
+
+msgid "Override for height request of the widget, or -1 if natural request should be used"
+msgstr "Overstyring for førespurnaden om høgde for elementet, eller -1 dersom naturleg førespurnad skal brukast"
+
+msgid "Override for width request of the widget, or -1 if natural request should be used"
+msgstr "Overstyring for førespurnaden om breidde for elementet, eller -1 dersom naturleg førespurnad skal brukast"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr "Overskriv ein eksisterande buffer, sjølv om han er oppdatert"
+
+msgid "Overwrite mode"
+msgstr "Overskrivingsmodus"
+
+msgid "PDA"
+msgstr "PDA"
+
+msgid "PDAs"
+msgstr "PDA"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF _Pop retningsformatering"
+
+msgid "P_ause"
+msgstr "P_ause"
+
+msgid "Pack direction"
+msgstr "Tekstretning"
+
+msgid "Pack type"
+msgstr "Type pakking"
+
+msgid "Padding"
+msgstr "Polstring"
+
+msgid "Padding that should be put around icons in the tray"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Pag_es:"
+msgstr "Sid_er:"
+
+msgid "Page"
+msgstr "Side"
+
+msgid "Page Ordering"
+msgstr "Sidesortering"
+
+msgid "Page Set_up"
+msgstr "Sideoppse_tt"
+
+msgid "Page Setup"
+msgstr "Største storleik"
+
+msgid "Page Size"
+msgstr "Største storleik"
+
+msgid "Page complete"
+msgstr "Største storleik"
+
+msgid "Page or_dering:"
+msgstr "Si_desortering:"
+
+msgid "Page title"
+msgstr "Største storleik"
+
+msgid "Page type"
+msgstr "Type pakking"
+
+msgid "Page_Down"
+msgstr "Page_Down"
+
+msgid "Page_Up"
+msgstr "Page_Up"
+
+msgid "Pages"
+msgstr "Sider"
+
+msgid "Pages Per Sheet"
+msgstr "Sider per ark"
+
+msgid "Pages per Sheet"
+msgstr "Sider per ark"
+
+msgid "Pages per _sheet:"
+msgstr "_Sider per ark:"
+
+msgid "Pages per _side:"
+msgstr "_Sider på arket:"
+
+msgid "Palette to use in the color selector"
+msgstr "Palett som skal brukast i fargeveljaren"
+
+msgid "Paper"
+msgstr "Papir"
+
+msgid "Paper Margins"
+msgstr "Margar for papir"
+
+msgid "Paper Size"
+msgstr "Papirstorleik"
+
+msgid "Paper Source"
+msgstr "Papirkjelde"
+
+msgid "Paper Type"
+msgstr "Papirtype"
+
+msgid "Paper _source:"
+msgstr "Papi_rkjelde:"
+
+msgid "Paper _type:"
+msgstr "Papir_type:"
+
+msgid "Paragraph background color"
+msgstr "Bakgrunnsfargen til cella"
+
+msgid "Paragraph background color as a (possibly unallocated) GdkColor"
+msgstr "Bakgrunnsfarge som ein GdkColor (treng ikkje vera allokert)"
+
+msgid "Paragraph background color as a string"
+msgstr "Bakgrunnsfarge, som ein streng"
+
+msgid "Paragraph background color name"
+msgstr "Namn på bakgrunnsfargen til cella"
+
+msgid "Paragraph background set"
+msgstr "Bakgrunnsfargen til cella er satt"
+
+msgid "Parent"
+msgstr "Forelderelement"
+
+msgid "Parent widget"
+msgstr "Forelderelement"
+
+msgid "Password:"
+msgstr "Passord:"
+
+msgid "Pattern"
+msgstr "Mønster"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Paused"
+msgstr "Pausa"
+
+msgid "Paused Printer"
+msgstr "Filter"
+
+msgid "Paused; Rejecting Jobs"
+msgstr "Pausa, avviser jobbar"
+
+msgid "Percentage"
+msgstr "Prosent"
+
+msgid "Personal Envelope"
+msgstr "Personleg konvolutt"
+
+msgid "Pick a Color"
+msgstr "Vel ein farge"
+
+msgid "Pick a Font"
+msgstr "Vel ein skrifttype"
+
+msgid "Pixbuf"
+msgstr "Pixbuf"
+
+msgid "Pixbuf Expander Closed"
+msgstr "Pixbuf for lukka utvidar"
+
+msgid "Pixbuf Expander Open"
+msgstr "Pixbuf for open utvidar"
+
+msgid "Pixbuf Object"
+msgstr "Pixbuf-objekt"
+
+msgid "Pixbuf column"
+msgstr "Tekstkolonne"
+
+msgid "Pixbuf for closed expander"
+msgstr "Pixbuf for lukka utvidar"
+
+msgid "Pixbuf for open expander"
+msgstr "Pixbuf for open utvidar"
+
+msgid "Pixel size"
+msgstr "Fast storleik på rullelista"
+
+msgid "Pixel size to use for named icon"
+msgstr "Storleik som skal brukast på standardikon eller ikonsett"
+
+msgid "Pixels Above Lines"
+msgstr "Pikslar over linjer"
+
+msgid "Pixels Below Lines"
+msgstr "Pikslar under linjer"
+
+msgid "Pixels Inside Wrap"
+msgstr "Pikslar inni tekstbrot"
+
+msgid "Pixels above lines"
+msgstr "Pikslar over linjer"
+
+msgid "Pixels above lines set"
+msgstr "Pikslar over linjer satt"
+
+msgid "Pixels below lines"
+msgstr "Pikslar under linjer"
+
+msgid "Pixels below lines set"
+msgstr "Pikslar under linjene"
+
+msgid "Pixels inside wrap"
+msgstr "Pikslar inni bryting"
+
+msgid "Pixels inside wrap set"
+msgstr "Pikslar innanfor brytingssettet"
+
+msgid "Pixels of blank space above paragraphs"
+msgstr "Pikslar med tomrom over avsnitt"
+
+msgid "Pixels of blank space below paragraphs"
+msgstr "Pikslar med tomrom under avsnitt"
+
+msgid "Pixels of blank space between wrapped lines in a paragraph"
+msgstr "Pikslar med tomrom mellom brotne linjer i eit avsnitt"
+
+msgid "Pixels of extra space on the right side"
+msgstr "Pikslar med tomrom over avsnitt"
+
+msgid "Pixels of extra space on the top side"
+msgstr "Pikslar med tomrom over avsnitt"
+
+msgid "Place scrollbars within the scrolled window's bevel"
+msgstr "Tal på pikslar mellom rullefelta og vindauget som vert rulla"
+
+msgid "Places"
+msgstr "Stader"
+
+msgid "Please select a folder below"
+msgstr "Vel ei mappe under"
+
+msgid "Please type a file name"
+msgstr "Skriv eit filnamn"
+
+msgid "Plum"
+msgstr "Plomme"
+
+msgid "Popup set width"
+msgstr "Fokuslinjebreidde"
+
+msgid "Popup shown"
+msgstr "Fokuslinjebreidde"
+
+msgid "Portrait"
+msgstr "Portrett"
+
+msgid "Position"
+msgstr "Posisjon"
+
+msgid "Position Set"
+msgstr "Posisjon satt"
+
+msgid "Position of mark on the ruler"
+msgstr "Plassering av merke på linjalen"
+
+msgid "Position of the handle relative to the child widget"
+msgstr "Plassering av handtaket relativt til barneskjermelementet"
+
+msgid "Position of the item within this group"
+msgstr "Plassering av merke på linjalen"
+
+msgid "Position on the color wheel."
+msgstr "Plassering på fargehjulet."
+
+msgid "Postfix Envelope"
+msgstr "Postfix-konvolutt"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Power"
+msgstr "Straum"
+
+msgid "Power Statistics"
+msgstr "Straumstatistikk"
+
+msgid "Pre_vious"
+msgstr "_Førre"
+
+msgid "Predicted time"
+msgstr "Estimert tid"
+
+msgid "Preparing"
+msgstr "Førebur"
+
+msgid "Preparing to print"
+msgstr "Førebur utskrift"
+
+msgid "Preview Widget Active"
+msgstr "Førehandsvisar aktiv"
+
+msgid "Preview text"
+msgstr "Førehandsvisning av tekst"
+
+msgid "Preview widget"
+msgstr "Skjermelement for førehandsvising"
+
+msgid "Pri_ority:"
+msgstr "Pri_oritet:"
+
+msgid "Primary icon name"
+msgstr "Skriftnamn"
+
+msgid "Primary icon sensitive"
+msgstr "Vis cella"
+
+msgid "Primary icon tooltip markup"
+msgstr "Skriftnamn"
+
+msgid "Primary icon tooltip text"
+msgstr "Vis cella"
+
+msgid "Primary pixbuf"
+msgstr "Pixbuf"
+
+msgid "Primary pixbuf for the entry"
+msgstr "Pixbuf for open utvidar"
+
+msgid "Primary storage type"
+msgstr "Lagertype"
+
+msgid "Print"
+msgstr "Skriv ut"
+
+msgid "Print Document"
+msgstr "Skriv ut dokument"
+
+msgid "Print Pre_view"
+msgstr "_Førehandsvising av utskrift"
+
+msgid "Print at"
+msgstr "Tidspunkt å skriva ut"
+
+msgid "Print at time"
+msgstr "Skriv ut klokka"
+
+msgid "Print to File"
+msgstr "Skriv til fil"
+
+msgid "Print to LPR"
+msgstr "Skriv til LPR"
+
+msgid "Print to Test Printer"
+msgstr "Skriv til testskrivar"
+
+msgid "Printer"
+msgstr "Filter"
+
+msgid "Printer '%{string}' has no toner left."
+msgstr "Skrivaren «%{string}» er tom for toner."
+
+msgid "Printer '%{string}' is currently offline."
+msgstr "Skrivaren «%{string}» er fråkopla."
+
+msgid "Printer '%{string}' is low on at least one marker supply."
+msgstr "Det er lite av minst ein farge i skrivaren «%{string}»."
+
+msgid "Printer '%{string}' is low on developer."
+msgstr "Det er lite framkallar i skrivaren «%{string}»."
+
+msgid "Printer '%{string}' is low on paper."
+msgstr "Det er lite papir i skrivaren «%{string}»."
+
+msgid "Printer '%{string}' is low on toner."
+msgstr "Det er lite toner i skrivaren «%{string}»."
+
+msgid "Printer '%{string}' is out of at least one marker supply."
+msgstr "Skrivaren «%{string}» er tom for minst ein farge."
+
+msgid "Printer '%{string}' is out of developer."
+msgstr "Skrivaren «%{string}» er tom for framkallar."
+
+msgid "Printer '%{string}' is out of paper."
+msgstr "Det er tomt for papir i skrivaren «%{string}»."
+
+msgid "Printer Default"
+msgstr "Forval for skrivar"
+
+msgid "Printer Profile"
+msgstr "Skrivar er fråkopla"
+
+msgid "Printer offline"
+msgstr "Skrivar er fråkopla"
+
+msgid "Printing"
+msgstr "Skriv ut"
+
+msgid "Processor"
+msgstr "Prosessor"
+
+msgid "Program class as used by the window manager"
+msgstr "Programklasse som vet brukt av vindaugehandsamaren"
+
+msgid "Program name as used by the window manager"
+msgstr "Programnamn som vert brukt av vindaugehandsamaren"
+
+msgid "Progress Border"
+msgstr "Traukant"
+
+msgid "Progress Fraction"
+msgstr "Brøkdel"
+
+msgid "Progress Pulse Step"
+msgstr "Pulssteg"
+
+msgid "Provides visual indication of progress"
+msgstr "Gjev visuell indikasjon av framdrifta"
+
+msgid "Pulse"
+msgstr "Pulssteg"
+
+msgid "Pulse Step"
+msgstr "Pulssteg"
+
+msgid "Pulse of the spinner"
+msgstr "Namn på ikondrakta som skal brukast"
+
+msgid "Quarto"
+msgstr "Quarto"
+
+msgid "Question"
+msgstr "Spørsmål"
+
+msgid "RA0"
+msgstr "RA0"
+
+msgid "RA1"
+msgstr "RA1"
+
+msgid "RA2"
+msgstr "RA2"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "HVE Høgre-til-venstre-in_nbygging"
+
+msgid "RLM _Right-to-left mark"
+msgstr "HVM _Høgre-til-venstre-merke"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "HVO Høgre-til-venstre-o_verstyring"
+
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+msgid "R_ewind"
+msgstr "Spol tilbak_e"
+
+msgid "Radio state"
+msgstr "Radiotilstand"
+
+msgid "Range"
+msgstr "Område"
+
+msgid "Ratio"
+msgstr "Tilhøve"
+
+msgid "Reads the current value, or sets a new value"
+msgstr "Les den noverande verdien, eller set ein ny verdi"
+
+msgid "Receives default"
+msgstr "Får standard"
+
+msgid "Recently Used"
+msgstr "Sist brukt"
+
+msgid "Recommended Applications"
+msgstr "Program"
+
+msgid "Rejecting Jobs"
+msgstr "Avviser jobbar"
+
+msgid "Related Action"
+msgstr "Handling"
+
+msgid "Related Applications"
+msgstr "Program"
+
+msgid "Relief of the group header button"
+msgstr "Vis knappar for kolonnetopptekst"
+
+msgid "Remember _forever"
+msgstr "Hugs _alltid"
+
+msgid "Remember password until you _logout"
+msgstr "Hugs passordet fram til ut_logging"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Remove the bookmark '%{string}'"
+msgstr "Fjern bokmerke «%{string}»"
+
+msgid "Remove the selected bookmark"
+msgstr "Fjern vald bokmerke"
+
+msgid "Rename..."
+msgstr "Gje nytt namn …"
+
+msgid "Render detail to pass to the theme engine"
+msgstr "Teikningsdetalj som skal sendast til draktmotoren"
+
+msgid "Reorderable"
+msgstr "Kan omorganiserast"
+
+msgid "Resizable"
+msgstr "Kan endra storleik"
+
+msgid "Resize"
+msgstr "Endra storleik"
+
+msgid "Resize mode"
+msgstr "Modus for endring av storleik"
+
+msgid "Resize mode of the column"
+msgstr "Korleis storleiken til kolonna vert endra"
+
+msgid "Resolution"
+msgstr "Oppløysing"
+
+msgid "Return"
+msgstr "Enter"
+
+msgid "Reverse landscape"
+msgstr "Omvendt landskap"
+
+msgid "Reverse portrait"
+msgstr "Omvendt portrett"
+
+msgid "Right"
+msgstr "Pil høgre"
+
+msgid "Right Attach"
+msgstr "Høgre feste"
+
+msgid "Right Margin"
+msgstr "Høgremarg"
+
+msgid "Right Padding"
+msgstr "Polstring til venstre"
+
+msgid "Right attachment"
+msgstr "Høgre feste"
+
+msgid "Right margin"
+msgstr "Høgremarg"
+
+msgid "Right margin set"
+msgstr "Høgre marg satt"
+
+msgid "Right to left"
+msgstr "Høgre til venstre"
+
+msgid "Right to left, bottom to top"
+msgstr "Høgre til venstre, botn til topp"
+
+msgid "Right to left, top to bottom"
+msgstr "Høgre til venstre, topp til botn"
+
+msgid "Rise"
+msgstr "Hev"
+
+msgid "Rise set"
+msgstr "Stilt til å hevast"
+
+msgid "Row Spacing"
+msgstr "Radmellomrom"
+
+msgid "Row has children"
+msgstr "Rada har barn"
+
+msgid "Row is an expander row, and is expanded"
+msgstr "Rada er ei utvidarrad, og er utvida"
+
+msgid "Row spacing"
+msgstr "Radmellomrom"
+
+msgid "Rows"
+msgstr "Rader"
+
+msgid "Rules Hint"
+msgstr "Regelhint"
+
+msgid "S"
+msgstr "S"
+
+msgid "SRA0"
+msgstr "SRA0"
+
+msgid "SRA1"
+msgstr "SRA1"
+
+msgid "SRA2"
+msgstr "SRA2"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "S_aturation:"
+msgstr "_Metning:"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Saturation"
+msgstr "Metning"
+
+msgid "Save _As"
+msgstr "_Lagra som"
+
+msgid "Save in _folder:"
+msgstr "Lagra i _mappe:"
+
+msgid "Sc_ale:"
+msgstr "Sk_aler:"
+
+msgid "Screen"
+msgstr "Skjerm"
+
+msgid "Scroll arrow spacing"
+msgstr "Avstand til rullefelta"
+
+msgid "Scroll offset"
+msgstr "Utrulla"
+
+msgid "Scroll_Lock"
+msgstr "Scroll_Lock"
+
+msgid "Scrollable"
+msgstr "Kan rullast"
+
+msgid "Scrollbar spacing"
+msgstr "Avstand til rullefelta"
+
+msgid "Scrollbars within bevel"
+msgstr "Avstand til rullefelta"
+
+msgid "Scrolled Window Placement"
+msgstr "Plassering av vindauge"
+
+msgid "Se_lection"
+msgstr "_Utval"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Search Column"
+msgstr "Søkekolonne"
+
+msgid "Search:"
+msgstr "Søk:"
+
+msgid "Secondary"
+msgstr "Sekundær"
+
+msgid "Secondary GIcon"
+msgstr "Sekundær"
+
+msgid "Secondary Text"
+msgstr "Sekundær"
+
+msgid "Secondary backward stepper"
+msgstr "Sekundært bakoversteg"
+
+msgid "Secondary cursor color"
+msgstr "Sekundær markørfarge"
+
+msgid "Secondary forward stepper"
+msgstr "Sekundært framoversteg"
+
+msgid "Secondary icon activatable"
+msgstr "Sekundær markørfarge"
+
+msgid "Secondary icon name"
+msgstr "Sekundær"
+
+msgid "Secondary icon sensitive"
+msgstr "Sekundær"
+
+msgid "Secondary icon tooltip markup"
+msgstr "Sekundær"
+
+msgid "Secondary icon tooltip text"
+msgstr "Sekundær markørfarge"
+
+msgid "Secondary pixbuf"
+msgstr "Sekundær"
+
+msgid "Secondary pixbuf for the entry"
+msgstr "Sekundært framoversteg"
+
+msgid "Secondary stock ID"
+msgstr "Sekundær"
+
+msgid "Secondary storage type"
+msgstr "Sekundært framoversteg"
+
+msgid "Secret"
+msgstr "Hemmeleg"
+
+msgid "Select Multiple"
+msgstr "Vel fleire filer"
+
+msgid "Select _All"
+msgstr "Merk _alt"
+
+msgid "Select a Color"
+msgstr "Vel ein farge"
+
+msgid "Select a File"
+msgstr "Vel ei fil"
+
+msgid "Select a folder"
+msgstr "Vel ei mappe"
+
+msgid "Select on focus"
+msgstr "Vel når fokusert"
+
+msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
+msgstr "Vel fargen du vil ha frå den ytre ringen. Vel styrken på denne fargen frå det indre triangelet."
+
+msgid "Select which type of documents are shown"
+msgstr "Vel kva dokumenttypar som skal verta viste"
+
+msgid "Select which types of files are shown"
+msgstr "Vel kva filtypar som skal vert viste"
+
+msgid "Selectable"
+msgstr "Valgbar"
+
+msgid "Selected Printer"
+msgstr "Det valde året"
+
+msgid "Selection Bound"
+msgstr "Utvalsgrense"
+
+msgid "Selection Box Alpha"
+msgstr "Utvalsgrense"
+
+msgid "Selection Box Color"
+msgstr "Utvalsgrense"
+
+msgid "Selection mode"
+msgstr "Utvalsgrense"
+
+msgid "Sending data"
+msgstr "Sender data"
+
+msgid "Sensitive"
+msgstr "Kjenslevart"
+
+msgid "Separator Height"
+msgstr "Standardhøgde"
+
+msgid "Separator Width"
+msgstr "Breidde på loddrett skilje"
+
+msgid "Serial number"
+msgstr "Serienummer"
+
+msgid "Serialized data is malformed"
+msgstr "Serialiserte data har feil utforming"
+
+msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr "Serialiserte data er feilforma. Fyrste del er ikkje GTKTEXTBUFFERCONTENTS-0001"
+
+msgid "Set a hint to the theme engine to draw rows in alternating colors"
+msgstr "Sett eit hint til draktmotoren for å teikna radene i vekslande fargar"
+
+msgid "Set the column for the expander column"
+msgstr "Sett kolonne for utvidarkolonne"
+
+msgid "Shadow Type"
+msgstr "Skuggetype"
+
+msgid "Shadow type"
+msgstr "Skuggetype"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Short Edge (Flip)"
+msgstr "Kort kant (vend)"
+
+msgid "Short label"
+msgstr "Kort merkelapp"
+
+msgid "Shortcut %{string} already exists"
+msgstr "Snarveg %{string} finst allereie"
+
+msgid "Shortcut %{string} does not exist"
+msgstr "Snarveg %{string} finst ikkje"
+
+msgid "Show Arrow"
+msgstr "Vis pil"
+
+msgid "Show Border"
+msgstr "Vis kant"
+
+msgid "Show Day Names"
+msgstr "Vis namn på dagar"
+
+msgid "Show Details"
+msgstr "Vis overskrift"
+
+msgid "Show Dialog"
+msgstr "Vis overskrift"
+
+msgid "Show Expanders"
+msgstr "Er utvidar"
+
+msgid "Show GTK+ Options"
+msgstr "Vis alternativ for GTK+"
+
+msgid "Show Heading"
+msgstr "Vis overskrift"
+
+msgid "Show Hidden"
+msgstr "Vis skjulte"
+
+msgid "Show Icons"
+msgstr "Standard-ikon"
+
+msgid "Show Numbers"
+msgstr "Vis vekenummer"
+
+msgid "Show Private"
+msgstr "Vis tekst"
+
+msgid "Show Tabs"
+msgstr "Vis arkfaner"
+
+msgid "Show Tooltips"
+msgstr "Verktøytips"
+
+msgid "Show Week Numbers"
+msgstr "Vis vekenummer"
+
+msgid "Show _Hidden Files"
+msgstr "Vis sk_julte filer"
+
+msgid "Show _Private Resources"
+msgstr "Vis _private ressursar"
+
+msgid "Show _Size Column"
+msgstr "Vis _storleikskolonne"
+
+msgid "Show data points"
+msgstr "Vis datapunkt"
+
+msgid "Show extra debugging information"
+msgstr "Vis ekstra feilsøkingsinformasjon"
+
+msgid "Show menu images"
+msgstr "Vis vekenummer"
+
+msgid "Show other applications"
+msgstr "Vis alternativ for GTK+"
+
+msgid "Show size"
+msgstr "Vis storleik"
+
+msgid "Show style"
+msgstr "Vis stil"
+
+msgid "Show text"
+msgstr "Vis tekst"
+
+msgid "Show the column header buttons"
+msgstr "Vis knappar for kolonnetopptekst"
+
+msgid "Shrink"
+msgstr "Krymp"
+
+msgid "Si_ze:"
+msgstr "S_torleik:"
+
+msgid "Side of the handlebox that's lined up with the docking point to dock the handlebox"
+msgstr "Sida av handtakboksen som står på linje med tilkoplingspunktet for å festa handtakboksen"
+
+msgid "Sidebar image"
+msgstr "Verdien"
+
+msgid "Simple"
+msgstr "Enkel"
+
+msgid "Single Line Mode"
+msgstr "Ei paragraf-modus"
+
+msgid "Single Paragraph Mode"
+msgstr "Ei paragraf-modus"
+
+msgid "Size"
+msgstr "Storleik"
+
+msgid "Size of check or radio indicator"
+msgstr "Storleik på radio- og avkryssingsindikator"
+
+msgid "Size of icons in this tool palette"
+msgstr "Storleiken på ikona i standardverktøylinjer"
+
+msgid "Size of icons in this toolbar"
+msgstr "Storleiken på ikona i standardverktøylinjer"
+
+msgid "Size of spacers"
+msgstr "Storleik på avstandsstykke"
+
+msgid "Size of tab curvature"
+msgstr "Storleik på avstandsstykke"
+
+msgid "Size of tab overlap area"
+msgstr "Storleiken på utvidarpil"
+
+msgid "Size of the expander arrow"
+msgstr "Storleiken på utvidarpil"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "Storleik på paletten i 8-bits modus"
+
+msgid "Size to use for cursors, or 0 to use the default size"
+msgstr "Fargen som skal brukast på oddetalsrader"
+
+msgid "Sizing"
+msgstr "Storleiksendring"
+
+msgid "Skip pager"
+msgstr "Hopp over vindaugeliste"
+
+msgid "Skip taskbar"
+msgstr "Hopp over oppgåveliste"
+
+msgid "Sky Blue"
+msgstr "Himmelblå"
+
+msgid "Slider Length"
+msgstr "Lengde på glidaren"
+
+msgid "Slider Width"
+msgstr "Breidde på glidebrytaren"
+
+msgid "Small Photo"
+msgstr "Lite bilete"
+
+msgid "Smallest possible value for the \"position\" property"
+msgstr "Minste moglege verdi til eigenskapen «plassering»"
+
+msgid "Snap edge"
+msgstr "Festekant"
+
+msgid "Snap edge set"
+msgstr "Festekant satt"
+
+msgid "Snap to Ticks"
+msgstr "Fest til tikk"
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "Nokon av innstillingane i dialogvindauget er i konflikt"
+
+msgid "Sort Type"
+msgstr "Skuggetype"
+
+msgid "Sort column ID"
+msgstr "Tekstkolonne"
+
+msgid "Sort direction the sort indicator should indicate"
+msgstr "Sorteringsretning som sorteringsindikatoren skal visa"
+
+msgid "Sort indicator"
+msgstr "Sorteringsindikator"
+
+msgid "Sort order"
+msgstr "Sorteringsrekkefølgje"
+
+msgid "Sound Theme Name"
+msgstr "Namn på ikondrakt"
+
+msgid "Source option"
+msgstr "Loddrette innstillingar"
+
+msgid "Source type for the device"
+msgstr "Modellen for trevisinga"
+
+msgid "Space"
+msgstr "Mellomrom"
+
+msgid "Space between day headers and main area"
+msgstr "Plass rundt utvidarpila"
+
+msgid "Space between value text and the slider/trough area"
+msgstr "Mellomrom mellom verditeksten og glidebrytaren/trauet"
+
+msgid "Space between week headers and main area"
+msgstr "Mellomrom mellom verditeksten og glidebrytaren/trauet"
+
+msgid "Space style"
+msgstr "Mellomromstil"
+
+msgid "Space to put between the label and the child"
+msgstr "Ekstra mellomrom å setja mellom barnet og merkelappen"
+
+msgid "Spacer size"
+msgstr "Storleik på avstandsstykke"
+
+msgid "Spacing"
+msgstr "Mellomrom"
+
+msgid "Spacing around check or radio indicator"
+msgstr "Mellomrom rundt avkryssings- eller radioindikator"
+
+msgid "Spacing around expander arrow"
+msgstr "Plass rundt utvidarpila"
+
+msgid "Spacing between buttons"
+msgstr "Avstand mellom knappar"
+
+msgid "Spacing between elements of the area"
+msgstr "Mellomrom mellom verditeksten og glidebrytaren/trauet"
+
+msgid "Spacing between elements of the main dialog area"
+msgstr "Mellomrom mellom verditeksten og glidebrytaren/trauet"
+
+msgid "Spacing between expander arrow and caption"
+msgstr "Plass rundt utvidarpila"
+
+msgid "Spacing in pixels between the icon and label"
+msgstr "Ekstra mellomrom å setja mellom barnet og merkelappen"
+
+msgid "Spacing in pixels between the image and label"
+msgstr "Ekstra mellomrom å setja mellom barnet og merkelappen"
+
+msgid "Specify how resize events are handled"
+msgstr "Spesifiser korleis hendingar for endring av storleik skal handsamast"
+
+msgid "Specify one or more page ranges,\n e.g. 1-3,7,11"
+msgstr "Oppgje eitt eller fleire sidespenn,\n t.d. 1-3,7,11"
+
+msgid "Specify the time of print,\n e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgstr "Oppgje når dokumentet skal skrivast ut,\nt.d. 15.30, 14.35, 14.15.20, 16"
+
+msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
+msgstr "Får GtkTreeView til å gå raskare ved å gå ut ifrå at alle radene har same høgd"
+
+msgid "Spinner"
+msgstr "Spinner"
+
+msgid "Split Cursor"
+msgstr "Delt markør"
+
+msgid "Standard"
+msgstr "Vanleg"
+
+msgid "Startup ID"
+msgstr "Gruppe"
+
+msgid "Statistics"
+msgstr "Statistikk"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Step Increment"
+msgstr "Skjerm"
+
+msgid "Stock ID"
+msgstr "Standard-ID"
+
+msgid "Stock ID for a stock image to display"
+msgstr "Standard-ID på eit standardbilete som skal visast"
+
+msgid "Stock Icon"
+msgstr "Standard-ikon"
+
+msgid "Stock Id"
+msgstr "Standard-ID"
+
+msgid "Storage type"
+msgstr "Lagertype"
+
+msgid "Strikethrough"
+msgstr "Gjennomstreking"
+
+msgid "Strikethrough set"
+msgstr "Gjennomstreking satt"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Style of bevel around the menubar"
+msgstr "Stil på kanten rundt menylinja"
+
+msgid "Style of bevel around the spin button"
+msgstr "Stil på kanten rundt talboksen"
+
+msgid "Style of bevel around the statusbar text"
+msgstr "Stil på kanten rundt statuslinjeteksten"
+
+msgid "Style of bevel around the toolbar"
+msgstr "Stil på kanten rundt verktøylinja"
+
+msgid "Style of items in the tool palette"
+msgstr "Stil på kanten rundt verktøylinja"
+
+msgid "Style of underline for this text"
+msgstr "Stil for understreking av denne teksten"
+
+msgid "Success color"
+msgstr "Markørfarge"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Super A"
+msgstr "Super A"
+
+msgid "Super B"
+msgstr "Super B"
+
+msgid "Support Selection"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Switch"
+msgstr "Brytar"
+
+msgid "Symbolic size to use for stock icon, icon set or named icon"
+msgstr "Storleik som skal brukast på standardikon eller ikonsett"
+
+msgid "Sys_Req"
+msgstr "Sys_Req"
+
+msgid "System"
+msgstr "System"
+
+msgid "System (%{string})"
+msgstr "System (%{string})"
+
+msgid "TRUE if the Position property should be used"
+msgstr "Sann dersom eigenskapen «Position» skal brukast"
+
+msgid "TRUE if the window should be brought to the user's attention."
+msgstr "SANN dersom vinduet ikkje skal vera i vindaugelista."
+
+msgid "TRUE if the window should not be in the pager."
+msgstr "SANN dersom vinduet ikkje skal vera i vindaugelista."
+
+msgid "TRUE if the window should not be in the task bar."
+msgstr "Sann dersom vindauget ikkje skal vera i oppgåvelista"
+
+msgid "TRUE if the window should receive the input focus when mapped."
+msgstr "Sann dersom vinduet skal ta imot inndata-fokus."
+
+msgid "TRUE if the window should receive the input focus."
+msgstr "Sann dersom vinduet skal ta imot inndata-fokus."
+
+msgid "TRUE if this printer is paused"
+msgstr "Sann dersom eigenskapen «Position» skal brukast"
+
+msgid "T_wo-sided:"
+msgstr "T_osidig:"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Tab Position"
+msgstr "Plassering av arkfaner"
+
+msgid "Tab detachable"
+msgstr "Merkelapp på arkfanen"
+
+msgid "Tab expand"
+msgstr "Utvid arkfaner"
+
+msgid "Tab fill"
+msgstr "Arkfanepolstring"
+
+msgid "Tab label"
+msgstr "Merkelapp på arkfanen"
+
+msgid "Tab overlap"
+msgstr "Arkfanekant"
+
+msgid "Tab pack type"
+msgstr "Type arkfanepakking"
+
+msgid "Tab reorderable"
+msgstr "Kan omorganiserast"
+
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgid "Tabs"
+msgstr "Tabulatorar"
+
+msgid "Tabs set"
+msgstr "Arkfaner satt"
+
+msgid "Tag \"%{string}\" already defined"
+msgstr "Tagg «%{string}» er allereie definert"
+
+msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
+msgstr "Tagg «%{string}» finst ikkje i bufferen, og taggar kan ikkje opprettast."
+
+msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
+msgstr "Tagg «%{string}» har ugyldig prioritet «%{string}»"
+
+msgid "Tag \"%{string}\" has not been defined."
+msgstr "Tagg «%{string}» er ikkje definert."
+
+msgid "Take Focus"
+msgstr "Har fokus"
+
+msgid "Tearoff State"
+msgstr "Tittel på avriven meny"
+
+msgid "Tearoff Title"
+msgstr "Tittel på avriven meny"
+
+msgid "Technology"
+msgstr "Teknologi"
+
+msgid "Terminal Pager"
+msgstr "Terminal Pager"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Text Buffer"
+msgstr "Buffer"
+
+msgid "Text Column"
+msgstr "Tekstkolonne"
+
+msgid "Text column"
+msgstr "Tekstkolonne"
+
+msgid "Text direction"
+msgstr "Tekstretning"
+
+msgid "Text direction, e.g. right-to-left or left-to-right"
+msgstr "Retninga teksten går. Frå høgre til venstre, eller frå venstre til høgre."
+
+msgid "Text length"
+msgstr "X-justering av tekst"
+
+msgid "Text of the expander's label"
+msgstr "Tekst på merkelappen til utvidaren"
+
+msgid "Text of the frame's label"
+msgstr "Tekst i merkelappen til ramma"
+
+msgid "Text of the label widget inside the button, if the button contains a label widget"
+msgstr "Tekst på merkelappen inni knappen, dersom knappen inneheld ein merkelapp"
+
+msgid "Text on the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "Text to be displayed in the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "Text to render"
+msgstr "Tekst som skal teiknast"
+
+msgid "Text to show in the item."
+msgstr "Tekst å visa i elementet"
+
+msgid "Text x alignment"
+msgstr "X-justering av tekst"
+
+msgid "Text y alignment"
+msgstr "Y-justering av tekst"
+
+msgid "Thai-Lao"
+msgstr "Thai-Lao"
+
+msgid "The Accel Group to use for stock accelerator keys"
+msgstr "Lukkinga som skal overvakast for snøggtastendringar"
+
+msgid "The GIcon being displayed"
+msgstr "Ikonsett som skal visast"
+
+msgid "The GtkAdjustment for the horizontal position"
+msgstr "GtkAdjustment for den vassrette plasseringa"
+
+msgid "The GtkAdjustment for the vertical position"
+msgstr "GtkAdjustment for den loddrette justeringa"
+
+msgid "The GtkAdjustment that contains the current value of this range object"
+msgstr "GtkAdjustment som inneheld den noverande verdien til dette områdeobjektet"
+
+msgid "The GtkAdjustment that contains the current value of this scale button object"
+msgstr "GtkAdjustment som inneheld den noverande verdien til dette områdeobjektet"
+
+msgid "The GtkAdjustment that determines the values of the horizontal position for this viewport"
+msgstr "GtkAdjustment som styrer verdiane til den vassrette plasseringa til dette visingsområdet"
+
+msgid "The GtkAdjustment that determines the values of the vertical position for this viewport"
+msgstr "GtkAdjustment som styrer verdiane til den loddrette plasseringa til dette visingsområdet"
+
+msgid "The GtkIconSize value that specifies the size of the rendered icon"
+msgstr "Storleiken på oppteikna ikon"
+
+msgid "The GtkIconSize value that specifies the size of the rendered spinner"
+msgstr "Storleiken på oppteikna ikon"
+
+msgid "The GtkPrinter which is selected"
+msgstr "Oppføringa som er valt no"
+
+msgid "The OK button of the dialog."
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The RecentManager object to use"
+msgstr "Filsystemobjekt som skal brukast"
+
+msgid "The URI bound to this button"
+msgstr "Tilstanden til knappen (av/på)"
+
+msgid "The accel group holding accelerators for the menu"
+msgstr "Snøggtasten til denne merkelappen"
+
+msgid "The acceleration rate when you hold down a button"
+msgstr "Aksellerasjonsrate når du held ein knapp nede"
+
+msgid "The adjustment that holds the value of the spin button"
+msgstr "Justeringa som held verdien til ein talboks"
+
+msgid "The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that"
+msgstr "Justeringa av linjene i teksten til merkelappen, relativt til kvarandre. Dette påvirkar IKKJE justeringa av merkelappen innanfor sitt område. Sjå GtkMisc::xalign for det"
+
+msgid "The amount of space between children"
+msgstr "Kor mykje mellomrom det skal vera mellom barna"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "Kor mykje avstand det er mellom to nabokolonner"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "Kor mykje avstand det er mellom to naborader"
+
+msgid "The amount of space to add on the left and right of the widget, in pixels"
+msgstr "Kor mykje plass som skal setjast av på høgre og venstre side av kvart skjermelement, i pikslar"
+
+msgid "The amount of space to add on the top and bottom of the widget, in pixels"
+msgstr "Kor mykje plass som skal setjast av over og under kvart skjermelement, i pikslar"
+
+msgid "The border relief style"
+msgstr "Stilen på kantrelieffet"
+
+msgid "The buffer which is displayed"
+msgstr "Bufferet som vert vist"
+
+msgid "The buttons shown in the message dialog"
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The cancel button of the dialog."
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The character to use when masking entry contents (in \"password mode\")"
+msgstr "Teiknet som skal brukast til å gøyma innhaldet i felt (i passordmodus)"
+
+msgid "The child pack direction of the menubar"
+msgstr "Retning på verktøylinja"
+
+msgid "The closure to be monitored for accelerator changes"
+msgstr "Lukkinga som skal overvakast for snøggtastendringar"
+
+msgid "The color selection embedded in the dialog."
+msgstr "Tittelen på fargeveljardialogen"
+
+msgid "The color you've chosen."
+msgstr "Fargen du har vald."
+
+msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "Fargen du har vald. Du kan dra denne fargen til ei palettoppføring for å lagra han til seinare bruk."
+
+msgid "The column in the model containing the tooltip texts for the items"
+msgstr "Ei kolonne som strengane skal hentast frå i datakjeldemodellen"
+
+msgid "The column in the model containing the tooltip texts for the rows"
+msgstr "Ei kolonne som strengane skal hentast frå i datakjeldemodellen"
+
+msgid "The column number to attach the left side of the child to"
+msgstr "<Kolonnenummeret som venstre side av barnet skal festast i"
+
+msgid "The column number to attach the right side of a child widget to"
+msgstr "Kolonnenummeret som høgre side av eit barne-skjermelement skal festast i"
+
+msgid "The column number to attach the right side of the child to"
+msgstr "Kolonnenummeret som høgre side av barnet skal festast i"
+
+msgid "The column of the model containing the strings."
+msgstr "Ei kolonne som strengane skal hentast frå i datakjeldemodellen"
+
+msgid "The contents of the buffer"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The contents of the entry"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The contents of the tooltip for this tray icon"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The contents of the tooltip for this widget"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The contents of the tooltip on the primary icon"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The contents of the tooltip on the secondary icon"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The cover is open on printer '%{string}'."
+msgstr "Dekselet er ope på skrivaren «%{string}»."
+
+msgid "The current color"
+msgstr "Den noverande fargen"
+
+msgid "The current filter for selecting which files are displayed"
+msgstr "Filteret som avgjer kva for nokre filer som vert viste"
+
+msgid "The current filter for selecting which resources are displayed"
+msgstr "Filteret som avgjer kva for nokre filer som vert viste"
+
+msgid "The current fraction of the task that's been completed"
+msgstr "Kor stor del av arbeidet som er ferdig"
+
+msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "Noverande verdi for kor ugjennomsiktig fargen er (0 er heilt gjennomsiktig, 65535 er heilt ugjennomsiktig)"
+
+msgid "The current page in the document"
+msgstr "Tilstanden til knappen (av/på)"
+
+msgid "The current position of the insertion cursor in chars"
+msgstr "Den noverande plasseringa til innsetjingsmarkøren, i teikn"
+
+msgid "The current value"
+msgstr "Den noverande fargen"
+
+msgid "The currently selected menu item"
+msgstr "Det valde filnamnet"
+
+msgid "The default display for GDK"
+msgstr "Standard skjerm for GDK"
+
+msgid "The default font options for the screen"
+msgstr "Namn på standardskrift"
+
+msgid "The default graph type to show for history"
+msgstr "Standard graftype som skal visast i statistikkvindauget"
+
+msgid "The default graph type to show for stats"
+msgstr "Standard graftype som skal visast i statistikkvindauget"
+
+msgid "The default graph type to show in the history window."
+msgstr "Standard graftype som skal visast i statistikkvindauget."
+
+msgid "The default graph type to show in the stats window."
+msgstr "Standard graftype som skal visast i statistikkvindauget."
+
+msgid "The default height of the window, used when initially showing the window"
+msgstr "Standardhøgda på vindauget, vert brukt når vindauget vert vist fyrste gong"
+
+msgid "The default width of the window, used when initially showing the window"
+msgstr "Standardbreidda på vindauget, vert brukt når vindauget vert vist fyrste gong"
+
+msgid "The direction the arrow should point"
+msgstr "Retninga pila skal peika"
+
+msgid "The directions in which the size group affects the requested sizes of its component widgets"
+msgstr "Retningen som storleikgruppa påvirkar storleiken til komponentane sine i"
+
+msgid "The door is open on printer '%{string}'."
+msgstr "Døra er open på skrivaren «%{string}»."
+
+msgid "The event mask that decides what kind of GdkEvents this widget gets"
+msgstr "Hendingsmaska som avgjer kva slags GdkEvents dette elementet får"
+
+msgid "The file already exists in \"%{string}\".  Replacing it will overwrite its contents."
+msgstr "Fila finst allereie i «%{string}». Viss du byter ut denne vil du overskrive innhaldet."
+
+msgid "The fixed height"
+msgstr "Den faste høgda"
+
+msgid "The fixed width"
+msgstr "Den faste breidda"
+
+msgid "The folder contents could not be displayed"
+msgstr "Mappeinnhaldet kunne ikkje vert vist"
+
+msgid "The folder could not be created"
+msgstr "Mappa kunne ikkje opprettast"
+
+msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
+msgstr "Klarte ikkje oppretta mappa på grunn av at det allereie finst ei fil med det same namnet. Bruk eit anna namn for mappa eller gi eit nytt namn til fila."
+
+msgid "The fraction of total entry width to move the progress bouncing block for each call to gtk_entry_progress_pulse()"
+msgstr "Kor mykje sprettblokka skal flytta seg når ho vert pulsa"
+
+msgid "The fraction of total progress to move the bouncing block when pulsed"
+msgstr "Kor mykje sprettblokka skal flytta seg når ho vert pulsa"
+
+msgid "The fraction of total work that has been completed"
+msgstr "Kor stor del av arbeidet som er ferdig"
+
+msgid "The generated cache was invalid.\n"
+msgstr "Generert buffer var ugyldig.\n"
+
+msgid "The height of the layout"
+msgstr "Høgda på plasseringa"
+
+msgid "The help button of the dialog."
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The horizontal alignment of the label"
+msgstr "Vassrett justering av merkelappen"
+
+msgid "The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
+msgstr "Den vassrette justeringa, frå 0 (venstre) til 1 (høgre)"
+
+msgid "The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
+msgstr "Den vassrette justeringa, frå 0 (venstre) til 1 (høgre)"
+
+msgid "The human-readable title of this item group"
+msgstr "Tittelen på vindauget"
+
+msgid "The icon name to use for the printer"
+msgstr "Modellen for trevisinga"
+
+msgid "The icon size"
+msgstr "Storleik på verktøylinjeikon"
+
+msgid "The image"
+msgstr "Verdien"
+
+msgid "The inconsistent state of the button"
+msgstr "Den ikkje konsistente tilstanden til knappen"
+
+msgid "The index of the child in the parent"
+msgstr "Indeksen til barnet i forelderen"
+
+msgid "The index of the current page"
+msgstr "Indeksen til den noverande sida"
+
+msgid "The initial position of the window"
+msgstr "Startposisjonen til vindauget"
+
+msgid "The item which is currently active"
+msgstr "Oppføringa som er valt no"
+
+msgid "The keyval of the accelerator"
+msgstr "Namnet på skjermelementet"
+
+msgid "The label used for menu items and buttons that activate this action."
+msgstr "Merkelappen som vert brukt på menyval og knappar som utfører denne handlinga"
+
+msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If not set, an appropriate default will be used."
+msgstr "Språket denne teksten er i, som ein ISO-kode. Pango kan bruka dette som eit hint når teksten vert teikna. Dersom du ikkje skjønar denne parameteren, treng du han truleg ikkje"
+
+msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If you don't understand this parameter, you probably don't need it"
+msgstr "Språket denne teksten er i, som ein ISO-kode. Pango kan bruka dette som eit hint når teksten vert teikna. Dersom du ikkje skjønar denne parameteren, treng du han truleg ikkje"
+
+msgid "The length of horizontal scroll arrows"
+msgstr "Når vassrett rullefelt skal visast"
+
+msgid "The length of vertical scroll arrows"
+msgstr "Når loddrett rullefelt skal visast"
+
+msgid "The license of the program"
+msgstr "Programmets lisens"
+
+msgid "The license type of the program"
+msgstr "Retning på verktøylinja"
+
+msgid "The location of the printer"
+msgstr "Retning på verktøylinja"
+
+msgid "The mask that decides what kind of extension events this widget gets"
+msgstr "Maska som avgjer kva slags utvidingar dette elementet får"
+
+msgid "The maximum duration of time displayed on the x-axis of the history graph."
+msgstr "Maksimumstida vist i grafens x-akse."
+
+msgid "The maximum number of items to be displayed"
+msgstr "Kor mange desimalplassar som skal visast"
+
+msgid "The maximum time displayed for history"
+msgstr "Maksimumstida vist i grafen."
+
+msgid "The maximum value of the adjustment"
+msgstr "Namnet på skjermelementet"
+
+msgid "The maximum width of the cell, in characters"
+msgstr "Breidde i teikn"
+
+msgid "The metric used for the ruler"
+msgstr "Modellen for trevisinga"
+
+msgid "The minimum horizontal width of the progress bar"
+msgstr "Vassrett justering av merkelappen"
+
+msgid "The minimum size of the arrow in the combo box"
+msgstr "Modellen for kombinasjonsboksen"
+
+msgid "The minimum value of the adjustment"
+msgstr "Namnet på skjermelementet"
+
+msgid "The minimum vertical height of the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "The minimum vertical width of the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "The mnemonic accelerator key for this label"
+msgstr "Snøggtasten til denne merkelappen"
+
+msgid "The model containing the possible values for the combo box"
+msgstr "Modellen for kombinasjonsboksen"
+
+msgid "The model for cell view"
+msgstr "Modellen for trevisinga"
+
+msgid "The model for the TreeModelSort to sort"
+msgstr "Modellen som TreeModelSort skal sortera"
+
+msgid "The model for the combo box"
+msgstr "Modellen for kombinasjonsboksen"
+
+msgid "The model for the icon view"
+msgstr "Modellen for trevisinga"
+
+msgid "The model for the tree view"
+msgstr "Modellen for trevisinga"
+
+msgid "The model to find matches in"
+msgstr "Modellen som skal søkast gjennom etter høvelege strengar"
+
+msgid "The most probable reason is that a temporary file could not be created."
+msgstr "Det kjem truleg av at det ikkje gjekk å oppretta ei mellombels fil."
+
+msgid "The name of the icon from the icon theme"
+msgstr "Namnet på den valte skrifttypen"
+
+msgid "The name of the selected font"
+msgstr "Namnet på den valte skrifttypen"
+
+msgid "The name of the themed icon displayed on the item"
+msgstr "Standardikonet som vert vist på elementet"
+
+msgid "The name of the widget"
+msgstr "Namnet på skjermelementet"
+
+msgid "The number of columns in the table"
+msgstr "Tal på kolonner i tabellen"
+
+msgid "The number of decimal places that are displayed in the value"
+msgstr "Kor mange desimalplassar som skal visast i verdien"
+
+msgid "The number of decimal places to display"
+msgstr "Kor mange desimalplassar som skal visast"
+
+msgid "The number of pages in the document."
+msgstr "Tal på rader i tabellen"
+
+msgid "The number of pages that will be printed."
+msgstr "Tal på rader i tabellen"
+
+msgid "The number of rows in the table"
+msgstr "Tal på rader i tabellen"
+
+msgid "The opacity of the window, from 0 to 1"
+msgstr "Vindaugetype"
+
+msgid "The orientation of the orientable"
+msgstr "Retning på verktøylinja"
+
+msgid "The orientation of the tray"
+msgstr "Retning på verktøylinja"
+
+msgid "The pack direction of the menubar"
+msgstr "Retning på verktøylinja"
+
+msgid "The padding to insert at the bottom of the widget."
+msgstr "Polstring som skal setjast inn nedst på skjermelementet"
+
+msgid "The padding to insert at the left of the widget."
+msgstr "Polstring som skal setjast inn til venstre for skjermelementet"
+
+msgid "The padding to insert at the right of the widget."
+msgstr "Polstring som skal setjast inn til høgre for skjermelementet"
+
+msgid "The padding to insert at the top of the widget."
+msgstr "Polstring som skal setjast inn øvst på skjermelementet"
+
+msgid "The page increment of the adjustment"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The page size of the adjustment"
+msgstr "Tilstanden til knappen (av/på)"
+
+msgid "The parent widget of this widget. Must be a Container widget"
+msgstr "Forelderelementet til dette skjermelementet. Må vera eit Container-element"
+
+msgid "The parent window"
+msgstr "Vindaugetype"
+
+msgid "The pixbuf to render"
+msgstr "Pixbuf som skal teiknast"
+
+msgid "The position in which the current value is displayed"
+msgstr "Kor verdistrengen skal visast"
+
+msgid "The position of the image relative to the text"
+msgstr "Plassering av handtaket relativt til barneskjermelementet"
+
+msgid "The position of the opposite end of the selection from the cursor in chars"
+msgstr "Posisjonen til den andre enden av utvalet, målt i teikn frå markøren"
+
+msgid "The previously-selected color, for comparison to the color you're selecting now."
+msgstr "Tidlegare vald farge. For samanlikning med fargen du vel no."
+
+msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
+msgstr "Den førre fargen som vart vald, til samanlikning med fargen som er vald no. Du kan dra denne fargen til ei palettoppføring, eller velja denne fargen som noverande ved å dra han til den andre fargeprøven."
+
+msgid "The primary text of the message dialog"
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The primary text of the title includes Pango markup."
+msgstr "Teksten på merkelappen brukar XML-oppmerking. Sjå pango_parse_markup()"
+
+msgid "The program was not able to create a connection to the indexer daemon.  Please make sure it is running."
+msgstr "Programmet kunne ikkje oppretta ei tilkopling til indekseringstenesta. Sjekk at ho køyrer."
+
+msgid "The radio action whose group this action belongs to."
+msgstr "Radioknappen som er med i same gruppe som dette skjermelementet."
+
+msgid "The radio button whose group this widget belongs to."
+msgstr "Radioknappen som er med i same gruppe som dette skjermelementet."
+
+msgid "The radio menu item whose group this widget belongs to."
+msgstr "Radioknappen som er med i same gruppe som dette skjermelementet."
+
+msgid "The radio tool button whose group this button belongs to."
+msgstr "Radioknappen som er med i same gruppe som dette skjermelementet."
+
+msgid "The representation being used for image data"
+msgstr "Representasjonen som vert brukt til biletedata"
+
+msgid "The representation being used for primary icon"
+msgstr "Representasjonen som vert brukt til biletedata"
+
+msgid "The representation being used for secondary icon"
+msgstr "Representasjonen som vert brukt til biletedata"
+
+msgid "The resolution for fonts on the screen"
+msgstr "Korleis området skal oppdaterast på skjermen"
+
+msgid "The row number to attach the bottom of the child to"
+msgstr "Kolonnenummeret som botnen av barnet skal festast i"
+
+msgid "The row number to attach the top of a child widget to"
+msgstr "Kolonnenummeret som toppen av eit barne-skjermelement skal festast i"
+
+msgid "The row number to attach the top of the child to"
+msgstr "Kolonnenummeret som toppen av barnet skal festast i"
+
+msgid "The screen where this status icon will be displayed"
+msgstr "Skjermen kor dette vindauget vert vist"
+
+msgid "The screen where this window will be displayed"
+msgstr "Skjermen kor dette vindauget vert vist"
+
+msgid "The screen where this window will be displayed."
+msgstr "Skjermen kor dette vindauget vert vist"
+
+msgid "The secondary text of the message dialog"
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The selected color"
+msgstr "Den valte fargen"
+
+msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
+msgstr "Den valda dagen (som eit tal mellom 1 og 31, eller 0 for få fjerna det noverande valet)"
+
+msgid "The selected month (as a number between 0 and 11)"
+msgstr "Den valde månaden (som eit tal mellom 0 og 11)"
+
+msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "Noverande verdi for kor ugjennomsiktig fargen er (0 er heilt gjennomsiktig, 65535 er heilt ugjennomsiktig)"
+
+msgid "The selected year"
+msgstr "Det valde året"
+
+msgid "The selection mode"
+msgstr "Det valde året"
+
+msgid "The size of icons in default toolbars."
+msgstr "Storleiken på ikona i standardverktøylinjer"
+
+msgid "The size of the icon"
+msgstr "Tittelen på vindauget"
+
+msgid "The sorting order of the items displayed"
+msgstr "Om av/på-delen av knappen skal visast"
+
+msgid "The status of the print operation"
+msgstr "Tilstanden til knappen (av/på)"
+
+msgid "The step increment of the adjustment"
+msgstr "Innhaldet i oppføringa"
+
+msgid "The stock ID of the stock icon to render"
+msgstr "Standard-ID på standardikonet som skal teiknast"
+
+msgid "The stock icon displayed in widgets representing this action."
+msgstr "Standardikonet som vert vist i skjermelement som representerer denne handlinga"
+
+msgid "The stock icon displayed on the item"
+msgstr "Standardikonet som vert vist på elementet"
+
+msgid "The string displayed in the child's menu entry"
+msgstr "Strengen som vert vist i menyoppføringa til barnet"
+
+msgid "The string displayed on the child's tab label"
+msgstr "Strengen som vert vist på arkfanen til barnet"
+
+msgid "The string that represents this font"
+msgstr "X-strengen som representerer denne skrifta"
+
+msgid "The style of the widget, which contains information about how it will look (colors etc)"
+msgstr "Stilen til elementet. Inneheld informasjon om korleis det ser ut (fargar o.a.)"
+
+msgid "The text for the child label"
+msgstr "Tekst på merkelappen"
+
+msgid "The text of the label"
+msgstr "Tekst på merkelappen"
+
+msgid "The text of the label includes XML markup. See pango_parse_markup()"
+msgstr "Teksten på merkelappen brukar XML-oppmerking. Sjå pango_parse_markup()"
+
+msgid "The text to display in order to demonstrate the selected font"
+msgstr "Teksten som skal brukast til å visa den valte skrifttypen"
+
+msgid "The time before hiding a submenu when the pointer is moving towards the submenu"
+msgstr "Kor lang tid det skal gå før undermenyen vert teken vekk når peikaren går mot undermenyen"
+
+msgid "The title of the assistant page"
+msgstr "Tittelen på vindauget"
+
+msgid "The title of the color selection dialog"
+msgstr "Tittelen på fargeveljardialogen"
+
+msgid "The title of the file chooser dialog."
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "The title of the font selection dialog"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "The title of the window"
+msgstr "Tittelen på vindauget"
+
+msgid "The title of this tray icon"
+msgstr "Tittelen på vindauget"
+
+msgid "The toggle button can be activated"
+msgstr "Avkryssingsboksen kan aktiverast"
+
+msgid "The toggle state of the button"
+msgstr "Tilstanden til knappen (av/på)"
+
+msgid "The transient parent of the dialog"
+msgstr "Knappane som vert viste i meldingsdialogen"
+
+msgid "The type of accelerators"
+msgstr "Typen melding"
+
+msgid "The type of message"
+msgstr "Typen melding"
+
+msgid "The type of operation that the file selector is performing"
+msgstr "Handlinga som filveljaren utfører"
+
+msgid "The type of the assistant page"
+msgstr "Typen melding"
+
+msgid "The type of the window"
+msgstr "Vindaugetype"
+
+msgid "The value"
+msgstr "Verdien"
+
+msgid "The value of the adjustment"
+msgstr "Namnet på skjermelementet"
+
+msgid "The value of the scale"
+msgstr "Namnet på skjermelementet"
+
+msgid "The value returned by gtk_radio_action_get_current_value() when this action is the current action of its group."
+msgstr "Verdien som vert returnert av gtk_radio_action_get_current_value() når denne handlinga er den noverande handlinga til gruppa til funksjonen"
+
+msgid "The version of the program"
+msgstr "Retning på verktøylinja"
+
+msgid "The vertical alignment of the label"
+msgstr "Loddrett justering av merkelappen"
+
+msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
+msgstr "Den loddrette justeringa, frå 0 (øvst) til 1 (nedst)"
+
+msgid "The vertical text alignment, from 0 (top) to 1 (bottom)."
+msgstr "Den loddrette justeringa, frå 0 (øvst) til 1 (nedst)"
+
+msgid "The widget the menu is attached to"
+msgstr "Om menyoppføringa er kryssa av"
+
+msgid "The widget to be activated when the label's mnemonic key is pressed"
+msgstr "Skjermelementet som skal aktiverast når snøggtasten til merkelappen vert trykt"
+
+msgid "The widget to be monitored for accelerator changes"
+msgstr "Skjermelementet som skal overvakast for snøggtastendringar"
+
+msgid "The width at which the text is wrapped"
+msgstr "Kor verdistrengen skal visast"
+
+msgid "The width of the empty border outside the containers children"
+msgstr "Breidda på den tomme kanten utanfor barna til haldaren"
+
+msgid "The width of the layout"
+msgstr "Breidda på plasseringa"
+
+msgid "The window gravity of the window"
+msgstr "Tyngda til vindauget"
+
+msgid "The window of the socket the plug is embedded in"
+msgstr "Om handlinga er synleg"
+
+msgid "The x-align"
+msgstr "X-justeringa"
+
+msgid "The xpad"
+msgstr "X-polstringa"
+
+msgid "The y-align"
+msgstr "Y-justeringa"
+
+msgid "The ypad"
+msgstr "Y-polstringa"
+
+msgid "Theme Name"
+msgstr "Namn på drakt"
+
+msgid "There is a problem on printer '%{string}'."
+msgstr "Det er eit problem med skrivaren «%{string}»."
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "Tigrigna-Eritreisk (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "Tigrigna-Etiopisk (EZ+)"
+
+msgid "Time after which the cursor stops blinking, in seconds"
+msgstr "Kor lenge kvart blink varar, i millisekund"
+
+msgid "Time elapsed"
+msgstr "Utlaupt tid"
+
+msgid "Time of print"
+msgstr "Tid for utskrift"
+
+msgid "Timeout after which browse mode is disabled"
+msgstr "Bufferet som vert vist"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "Title of the print job"
+msgstr "Tittelen på vindauget"
+
+msgid "Title to appear in column header"
+msgstr "Titlen som skal visast i kolonnehovudet"
+
+msgid "Toggle state"
+msgstr "Knapptilstand"
+
+msgid "Toolbar Icon Size"
+msgstr "Storleik på verktøylinjeikon"
+
+msgid "Toolbar Style"
+msgstr "Stil på verktøylinja"
+
+msgid "Toolbar style"
+msgstr "Stil på verktøylinje"
+
+msgid "Tooltip"
+msgstr "Verktøytips"
+
+msgid "Tooltip Column"
+msgstr "Tekstkolonne"
+
+msgid "Tooltip Text"
+msgstr "Verktøytips"
+
+msgid "Tooltip markup"
+msgstr "Verktøytips"
+
+msgid "Tooltip timeout"
+msgstr "Verktøytips"
+
+msgid "Top Attach"
+msgstr "Toppfeste"
+
+msgid "Top Command"
+msgstr "Top-kommando"
+
+msgid "Top Padding"
+msgstr "Polstring øvst"
+
+msgid "Top Secret"
+msgstr "Topphemmeleg"
+
+msgid "Top attachment"
+msgstr "Toppfeste"
+
+msgid "Top to bottom"
+msgstr "Topp til botn"
+
+msgid "Top to bottom, left to right"
+msgstr "Topp til botn, venstre til høgre"
+
+msgid "Top to bottom, right to left"
+msgstr "Topp til botn, høgre til venstre"
+
+msgid "Track visited links"
+msgstr "Tittelen på skrifttypeveljardialogen"
+
+msgid "Translated by"
+msgstr "Omsett av"
+
+msgid "Transparency of the color."
+msgstr "Kor klar den valde fargen er."
+
+msgid "Tree line pattern"
+msgstr "Prikkemønster på fokuslinja"
+
+msgid "Tree line width"
+msgstr "Den faste breidda"
+
+msgid "TreeModelSort Model"
+msgstr "Modell for TreeModelSort"
+
+msgid "TreeView Model"
+msgstr "TreeView-modell"
+
+msgid "Trough Border"
+msgstr "Traukant"
+
+msgid "Truncate multiline"
+msgstr "Vel fleire"
+
+msgid "Turn off verbose output"
+msgstr "Slå av ekstra utdata"
+
+msgid "Turns volume down or up"
+msgstr "Skrur lyden opp og ned"
+
+msgid "Two Sided"
+msgstr "Tosidig"
+
+msgid "Type a file name"
+msgstr "Skriv eit filnamn"
+
+msgid "Type hint"
+msgstr "Type hint"
+
+msgid "Type name of new folder"
+msgstr "Skriv namnet på den nye mappa"
+
+msgid "Type of bevel around toolbar buttons"
+msgstr "Type kant rundt verktøylinjeknappane"
+
+msgid "UPS"
+msgstr "UPS"
+
+msgid "UPSs"
+msgstr "UPS"
+
+msgid "US Legal"
+msgstr "US Legal"
+
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+msgid "US Letter"
+msgstr "US Letter"
+
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+msgid "US Letter Plus"
+msgstr "US Letter Plus"
+
+msgid "Unable to end process"
+msgstr "Klarte ikkje avslutta prosess"
+
+msgid "Unable to find an item with URI '%{string}'"
+msgstr "Klarte ikkje finna ei oppføring med URI «%{string}»"
+
+msgid "Unavailable"
+msgstr "Ikkje tilgjengeleg"
+
+msgid "Unclassified"
+msgstr "Ikkje klassifisert"
+
+msgid "Underline"
+msgstr "Understreking"
+
+msgid "Underline set"
+msgstr "Understreking satt"
+
+msgid "Unhandled tag: '%{string}'"
+msgstr "Uhandtert tag «%{string}»"
+
+msgid "Unique identifier for the window to be used when restoring a session"
+msgstr "Unikt kjenneteikn på vindauget, brukt når ei økt vert gjenoppretta"
+
+msgid "Unique startup identifier for the window used by startup-notification"
+msgstr "Unikt kjenneteikn på vindauget, brukt når ei økt vert gjenoppretta"
+
+msgid "Unknown"
+msgstr "Ukjend"
+
+msgid "Unknown Application (PID %{number})"
+msgstr "Ukjent program (PID %{number})"
+
+msgid "Unknown item"
+msgstr "Ukjend oppføring"
+
+msgid "Unknown technology"
+msgstr "Ukjend teknologi"
+
+msgid "Unspecified error"
+msgstr "Uspesifisert feil"
+
+msgid "Unspecified profile"
+msgstr "Uspesifisert profil"
+
+msgid "Untitled filter"
+msgstr "Filter utan tittel"
+
+msgid "Unvisited Link Color"
+msgstr "Noverande farge"
+
+msgid "Up"
+msgstr "Pil opp"
+
+msgid "Up Path"
+msgstr "Opp stig"
+
+msgid "Update Policy"
+msgstr "Oppdateringsregel"
+
+msgid "Update policy"
+msgstr "Oppdateringsregel"
+
+msgid "Upper"
+msgstr "Øvre"
+
+msgid "Upper limit of ruler"
+msgstr "Øvre verdi på linjal"
+
+msgid "Urgent"
+msgstr "Hastar"
+
+msgid "Use Markup"
+msgstr "Bruk oppmerking"
+
+msgid "Use Preview Label"
+msgstr "Bruk storleik i merkelapp"
+
+msgid "Use alpha"
+msgstr "Bruk alfa"
+
+msgid "Use font in label"
+msgstr "Bruk skrifttype i merkelapp"
+
+msgid "Use full page"
+msgstr "Bruk alfa"
+
+msgid "Use markup"
+msgstr "Bruk oppmerking"
+
+msgid "Use size in label"
+msgstr "Bruk storleik i merkelapp"
+
+msgid "Use stock"
+msgstr "Bruk standard"
+
+msgid "Use underline"
+msgstr "Bruk understreking"
+
+msgid "Username:"
+msgstr "Brukarnamn:"
+
+msgid "V"
+msgstr "V"
+
+msgid "Validate existing icon cache"
+msgstr "Valider eksisterande ikonbuffer"
+
+msgid "Value"
+msgstr "Verdi"
+
+msgid "Value Position"
+msgstr "Plassering av verdi"
+
+msgid "Value of the progress bar"
+msgstr "Tekst som skal visast i framdriftsvisaren"
+
+msgid "Value spacing"
+msgstr "Mellomrom mellom verdiane"
+
+msgid "Vendor"
+msgstr "Leverandør"
+
+msgid "Vertical Adjustment"
+msgstr "Loddrett justering"
+
+msgid "Vertical Adjustment for the widget"
+msgstr "Loddrett justering for skjermelementet"
+
+msgid "Vertical Alignment"
+msgstr "loddrett justering"
+
+msgid "Vertical Offset"
+msgstr "Loddrett forskyving"
+
+msgid "Vertical Padding"
+msgstr "Loddrett polstring"
+
+msgid "Vertical Scroll Arrow Length"
+msgstr "Åtferda til loddrett rullefelt"
+
+msgid "Vertical Scrollbar Policy"
+msgstr "Åtferda til loddrett rullefelt"
+
+msgid "Vertical Separator Width"
+msgstr "Breidde på loddrett skilje"
+
+msgid "Vertical adjustment"
+msgstr "Loddrett justering"
+
+msgid "Vertical alignment"
+msgstr "Loddrett justering"
+
+msgid "Vertical alignment for child"
+msgstr "Loddrett justering av barnet"
+
+msgid "Vertical options"
+msgstr "Loddrette innstillingar"
+
+msgid "Vertical padding"
+msgstr "Loddrett polstring"
+
+msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
+msgstr "Loddrett plassering av barn i det tilgjengelege området. 0,0 er øvst, 1,0 er nedst."
+
+msgid "Vertical scale"
+msgstr "Loddrett skala"
+
+msgid "Vertical separation"
+msgstr "Loddrette innstillingar"
+
+msgid "Vertical space between cells.  Must be an even number"
+msgstr "Loddrett mellomrom mellom celler. Må vera eit partal"
+
+msgid "Vietnamese (VIQR)"
+msgstr "Vietnamesisk (VIQR)"
+
+msgid "View allows user to search through columns interactively"
+msgstr "Visinga let brukaren søka interaktivt i kolonnene"
+
+msgid "View has expanders"
+msgstr "Er utvidar"
+
+msgid "View is reorderable"
+msgstr "Visinga kan omorganiserast"
+
+msgid "Visibility"
+msgstr "Synleg"
+
+msgid "Visible"
+msgstr "Synleg"
+
+msgid "Visible Window"
+msgstr "Synleg vindauge"
+
+msgid "Visible when horizontal"
+msgstr "Synleg når vassrett"
+
+msgid "Visible when overflown"
+msgstr "Synleg når loddrett"
+
+msgid "Visible when vertical"
+msgstr "Synleg når loddrett"
+
+msgid "Visited"
+msgstr "Synleg"
+
+msgid "Visited Link Color"
+msgstr "Noverande farge"
+
+msgid "Voltage"
+msgstr "Spenning"
+
+msgid "Volume"
+msgstr "Lydstyrke"
+
+msgid "Volume Down"
+msgstr "Lyd ned"
+
+msgid "Volume Up"
+msgstr "Lyd opp"
+
+msgid "WLAN"
+msgstr "WLAN"
+
+msgid "Waiting"
+msgstr "Ventar"
+
+msgid "Warning"
+msgstr "Åtvaring"
+
+msgid "Warning color"
+msgstr "Bakgrunnsfarge"
+
+msgid "Website label"
+msgstr "Bruk storleik i merkelapp"
+
+msgid "When the horizontal scrollbar is displayed"
+msgstr "Når vassrett rullefelt skal visast"
+
+msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
+msgstr "Når menyen er ein undermeny, skal han forskyvast vassrett så mange pikslar"
+
+msgid "When the menu is a submenu, position it this number of pixels offset vertically"
+msgstr "Når menyen er ein undermeny, skal han forskyvast loddrett så mange pikslar"
+
+msgid "When the vertical scrollbar is displayed"
+msgstr "Når loddrett rullefelt skal visast"
+
+msgid "Where the contents are located with respect to the scrollbars. This property only takes effect if \"window-placement-set\" is TRUE."
+msgstr "Kor innhaldet skal plasserast med omsyn til rullefelta"
+
+msgid "Where the contents of scrolled windows are located with respect to the scrollbars, if not overridden by the scrolled window's own placement."
+msgstr "Kor innhaldet skal plasserast med omsyn til rullefelta"
+
+msgid "Whether Tab will result in a tab character being entered"
+msgstr "Om eit tabulatorteikn vert vist når Tab vert trykt"
+
+msgid "Whether \"window-placement\" should be used to determine the location of the contents with respect to the scrollbars."
+msgstr "Kor innhaldet skal plasserast med omsyn til rullefelta"
+
+msgid "Whether a palette should be used"
+msgstr "Om ein palett skal brukast"
+
+msgid "Whether a spin button should wrap upon reaching its limits"
+msgstr "Om ein talboks skal gå rundt når han går forbi den største tillatne verdien"
+
+msgid "Whether activatable icons should prelight when hovered"
+msgstr "Om arkfaner skal visast eller ikkje"
+
+msgid "Whether buttons in dialogs should use the alternative button order"
+msgstr "Om arkfaner skal visast eller ikkje"
+
+msgid "Whether default toolbars have text only, text and icons, icons only, etc."
+msgstr "Om verktøylinjene berre har tekst, tekst og ikon, berre ikon, etc."
+
+msgid "Whether dropdowns should have a tearoff menu item"
+msgstr "Om arkfanene skal vera like store"
+
+msgid "Whether dropdowns should look like lists rather than menus"
+msgstr "Om det skal veljast mapper i staden for filer"
+
+msgid "Whether entered text overwrites existing contents"
+msgstr "Om tekst som vert skriven inn skriv over teksten som er der frå før"
+
+msgid "Whether erroneous values are automatically changed to a spin button's nearest step increment"
+msgstr "Om ugyldige verdiar skal rundast av til den næraste gyldige verdtrinn i talboksen"
+
+msgid "Whether extra space given to the child should be allocated to the child or used as padding"
+msgstr "Om ekstra mellomrom som barnet får skal brukast av etterkommaren eller brukast som polstring"
+
+msgid "Whether grid lines should be drawn in the tree view"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether images should be shown in menus"
+msgstr "Om arkfaner skal visast eller ikkje"
+
+msgid "Whether images should be shown on buttons"
+msgstr "Om arkfaner skal visast eller ikkje"
+
+msgid "Whether labels should have mnemonics"
+msgstr "Om arkfanene skal vera like store"
+
+msgid "Whether menu accelerators can be changed by pressing a key over the menu item"
+msgstr "Om menysnøggtastar kan endrast ved å trykka ein tast over menyvalet"
+
+msgid "Whether menu items should have accelerators"
+msgstr "Om menyane skal utstyrast med linjer som gjer det mogleg å riva laus menyane"
+
+msgid "Whether mnemonics are currently visible in this window"
+msgstr "Om toppnivået er det noverande aktive vindauget"
+
+msgid "Whether new text overwrites existing text"
+msgstr "Om tekst som vert skriven inn skriv over teksten som er der frå før"
+
+msgid "Whether non-numeric characters should be ignored"
+msgstr "Om ikkje-numeriske teikn skal oversjåast"
+
+msgid "Whether rows should be expanded/collapsed when the pointer moves over them"
+msgstr "Om vindauget skal pyntast av vindaugshandsamaren"
+
+msgid "Whether selected font size is shown in the label"
+msgstr "Om den valte skriftstorleiken vert vist i merkelappen"
+
+msgid "Whether spacers are vertical lines or just blank"
+msgstr "Om mellomromma er loddrette linjer eller berre blanke"
+
+msgid "Whether tabs should be shown"
+msgstr "Om arkfaner skal visast eller ikkje"
+
+msgid "Whether tearoff menu items should be added to menus"
+msgstr "Om menyane skal utstyrast med linjer som gjer det mogleg å riva laus menyane"
+
+msgid "Whether the action group is enabled."
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the action group is visible."
+msgstr "Om handlinga er synleg"
+
+msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
+msgstr "Om handlinga vert rekna for viktig. Når sann,"
+
+msgid "Whether the action is enabled."
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the action is visible."
+msgstr "Om handlinga er synleg"
+
+msgid "Whether the application has a selection"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the application prefers to have a dark theme."
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the application supplied widget for custom previews should be shown."
+msgstr "Om programmet sin tilpassa førehandsvisar skal visast."
+
+msgid "Whether the application will paint directly on the widget"
+msgstr "Om eit program vil teikna direkte på elementet"
+
+msgid "Whether the background color fills the entire line height or only the height of the tagged characters"
+msgstr "Om bakgrunnsfargen fyller heile linjehøgda eller berre høgda av dei merka teikna"
+
+msgid "Whether the border should be shown"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether the buffer has some text currently selected"
+msgstr "GdkFont som er vald no"
+
+msgid "Whether the button grabs focus when it is clicked with the mouse"
+msgstr "Om knappen tek fokus når han vert klikka med musa"
+
+msgid "Whether the cell renderer is currently in editing mode"
+msgstr "Om teksten på merkelappen vert teikna med den valte skrifttypen"
+
+msgid "Whether the child should receive extra space when the parent grows"
+msgstr "Om barnet skal få meir plass når forelderen veks"
+
+msgid "Whether the child's tab should fill the allocated area"
+msgstr "Om arkfanene til barnet skal bruka heile området som er satt av eller ikkje"
+
+msgid "Whether the children should all be the same size"
+msgstr "Om alle barna skal vera like store"
+
+msgid "Whether the color selector should allow setting opacity"
+msgstr "Om fargeveljaren skal tillata å velja kor ugjennomsiktig fargen er"
+
+msgid "Whether the column can be reordered around the headers"
+msgstr "Om kolonna kan omorganiserast etter titlar"
+
+msgid "Whether the combo box draws a frame around the child"
+msgstr "Om kolonna kan omorganiserast etter titlar"
+
+msgid "Whether the combo box grabs focus when it is clicked with the mouse"
+msgstr "Om knappen tek fokus når han vert klikka med musa"
+
+msgid "Whether the combo's dropdown is shown"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether the common prefix should be inserted automatically"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether the completions should be shown in a popup window"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether the current value is displayed as a string next to the slider"
+msgstr "Om den noverande verdien skal visast som ein streng attmed glidebrytaren"
+
+msgid "Whether the cursor should blink"
+msgstr "Om markøren skal blinka"
+
+msgid "Whether the device has a cursor"
+msgstr "Om skjermelementet har inndatafokus"
+
+msgid "Whether the dialog supports selection"
+msgstr "Om teksten på merkelappen vert teikna med den valte skrifttypen"
+
+msgid "Whether the dropdown button is sensitive when the model is empty"
+msgstr "Om knappen tek fokus når han vert klikka med musa"
+
+msgid "Whether the entry contents can be edited"
+msgstr "Om innhaldet i oppføringa kan redigerast"
+
+msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
+msgstr "Om hendingsboksen er synleg, i motsetning til om han er usynleg og berre brukt til å fanga hendingar"
+
+msgid "Whether the event-trapping window of the eventbox is above the window of the child widget as opposed to below it."
+msgstr "Om det hendingsfangande vindauget til hendingsboksen er over vindauget til barne-skjermelementet, og ikkje under det"
+
+msgid "Whether the expander has been opened to reveal the child widget"
+msgstr "Om utvidaren har vorte opna for å visa fram barne-skjermelementet"
+
+msgid "Whether the group has been collapsed and items are hidden"
+msgstr "Om utvidaren har vorte opna for å visa fram barne-skjermelementet"
+
+msgid "Whether the header can be clicked"
+msgstr "Om hovudet kan klikkast"
+
+msgid "Whether the hidden files and folders should be displayed"
+msgstr "Om skjulte filer og mapper skal visast"
+
+msgid "Whether the icon-size property has been set"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the image will always be shown"
+msgstr "Om skjermelementet er synleg"
+
+msgid "Whether the input focus is within this GtkWindow"
+msgstr "Om inndatafokus er i dette GtkWindow-et"
+
+msgid "Whether the invisible character has been set"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the item group should be the only expanded at a given time"
+msgstr "Om menyane skal utstyrast med linjer som gjer det mogleg å riva laus menyane"
+
+msgid "Whether the item group should receive extra space when the palette grows"
+msgstr "Om barnet skal få meir plass når forelderen veks"
+
+msgid "Whether the item should be the same size as other homogeneous items"
+msgstr "Om oppføringa skal vera like stor som andre einskaplege element"
+
+msgid "Whether the item should fill the available space"
+msgstr "Om alle barna skal vera like store"
+
+msgid "Whether the item should receive extra space when the group grows"
+msgstr "Om oppføringa skal få meir plass når verktøylinja veks"
+
+msgid "Whether the item should receive extra space when the toolbar grows"
+msgstr "Om oppføringa skal få meir plass når verktøylinja veks"
+
+msgid "Whether the item should start a new row"
+msgstr "Om menyane skal utstyrast med linjer som gjer det mogleg å riva laus menyane"
+
+msgid "Whether the items pointing to unavailable resources should be displayed"
+msgstr "Om skjulte filer og mapper skal visast"
+
+msgid "Whether the items should be displayed with a number"
+msgstr "Om menyane skal utstyrast med linjer som gjer det mogleg å riva laus menyane"
+
+msgid "Whether the label is drawn in the selected font"
+msgstr "Om teksten på merkelappen vert teikna med den valte skrifttypen"
+
+msgid "Whether the label is drawn with the selected font size"
+msgstr "Om teksten på merkelappen vert teikna med den valte skriftstorleiken"
+
+msgid "Whether the label is in single line mode"
+msgstr "Om teksten på merkelappen vert teikna med den valte skrifttypen"
+
+msgid "Whether the label text can be selected with the mouse"
+msgstr "Om teksten på merkelappen kan markerast med musa"
+
+msgid "Whether the label widget should fill all available horizontal space"
+msgstr "Om alle barna skal vera like store"
+
+msgid "Whether the mark has left gravity"
+msgstr "Om denne merkinga påvirkar skriftfamilien"
+
+msgid "Whether the menu item is checked"
+msgstr "Om menyoppføringa er kryssa av"
+
+msgid "Whether the menu item looks like a radio menu item"
+msgstr "Om menyoppføringa ser ut som ei radiomenyoppføring"
+
+msgid "Whether the plug is embedded"
+msgstr "Om handlinga er synleg"
+
+msgid "Whether the primary icon is activatable"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the primary icon is sensitive"
+msgstr "Om det vert gjort skilnad på store og små bokstavar når oppføringar vert samanlikna"
+
+msgid "Whether the private items should be displayed"
+msgstr "Om skjulte filer og mapper skal visast"
+
+msgid "Whether the progress is shown as text."
+msgstr "Om framgangen vert vist som tekst"
+
+msgid "Whether the rendered pixbuf should be colorized according to the state"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether the secondary icon is activatable"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the secondary icon is sensitive"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the selected file(s) should be limited to local file: URLs"
+msgstr "Om det berre skal visast lokale filer"
+
+msgid "Whether the selected font style is shown in the label"
+msgstr "Om den valte skriftstilen vert vist i merkelappen"
+
+msgid "Whether the selected resource(s) should be limited to local file: URIs"
+msgstr "Om det berre skal visast lokale filer"
+
+msgid "Whether the selection should follow the pointer"
+msgstr "Om fargeveljaren skal tillata å velja kor ugjennomsiktig fargen er"
+
+msgid "Whether the separator is drawn, or just blank"
+msgstr "Om mellomromma er teikna opp eller berre blanke"
+
+msgid "Whether the spin button should update always, or only when the value is legal"
+msgstr "Om talboksen alltid skal oppdatera, eller berre når verdien er gyldig"
+
+msgid "Whether the spinner is active"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the spinner is active (ie. shown) in the cell"
+msgstr "Om den valte skriftstilen vert vist i merkelappen"
+
+msgid "Whether the status icon is embedded"
+msgstr "Om handlinga er synleg"
+
+msgid "Whether the status icon is visible"
+msgstr "Om handlinga er synleg"
+
+msgid "Whether the tab is detachable"
+msgstr "Om handlinga er tilgjengeleg"
+
+msgid "Whether the tab is reorderable by user action"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether the text can be modified by the user"
+msgstr "Om teksten kan endrast av brukaren"
+
+msgid "Whether the toggle action should be active"
+msgstr "Om knappen skal vera trykt inn eller ikkje"
+
+msgid "Whether the toolbar item is considered important. When TRUE, toolbar buttons show text in GTK_TOOLBAR_BOTH_HORIZ mode"
+msgstr "Om verktøylinjeoppføringa vert rekna som viktig. Når denne er sann, vil verktøylinjeknappane visa tekst i GTK_TOOLBAR_BOTH_HORIZ-modus"
+
+msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
+msgstr "Om verktøylinjeelementet er synleg når verktøylinja er vassrett"
+
+msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
+msgstr "Om verktøylinjeelementet er synleg når verktøylinja er loddrett"
+
+msgid "Whether the toplevel is the current active window"
+msgstr "Om toppnivået er det noverande aktive vindauget"
+
+msgid "Whether the widget can accept the input focus"
+msgstr "Om skjermelementet kan ta inndatafokus"
+
+msgid "Whether the widget can be the default widget"
+msgstr "Om skjermelementet kan vera standardelementet"
+
+msgid "Whether the widget has the input focus"
+msgstr "Om skjermelementet har inndatafokus"
+
+msgid "Whether the widget is double buffered"
+msgstr "Om handlinga er synleg"
+
+msgid "Whether the widget is part of a composite widget"
+msgstr "Om barnet er ein del av eit samansatt skjermelement"
+
+msgid "Whether the widget is the default widget"
+msgstr "Om skjermelementet er standardelementet"
+
+msgid "Whether the widget is the focus widget within the toplevel"
+msgstr "Om skjermelementet er det fokuserte elementet i toppnoden"
+
+msgid "Whether the widget is visible"
+msgstr "Om skjermelementet er synleg"
+
+msgid "Whether the widget responds to input"
+msgstr "Om skjermelementet reagerer på inndata"
+
+msgid "Whether the window frame should have a close button"
+msgstr "Om vindauget skal pyntast av vindaugshandsamaren"
+
+msgid "Whether the window should be decorated by the window manager"
+msgstr "Om vindauget skal pyntast av vindaugshandsamaren"
+
+msgid "Whether there is a visible cursor following device motion"
+msgstr "Om skjermelementet er synleg"
+
+msgid "Whether there should be a tooltip on the item"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether there should be an icon near the item"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether this link has been visited."
+msgstr "Om handlinga er synleg"
+
+msgid "Whether this tag affects background height"
+msgstr "Om denne merkinga påvirkar bakgrunnshøgda"
+
+msgid "Whether this tag affects indentation"
+msgstr "Om denne merkinga påvirkar innrykk"
+
+msgid "Whether this tag affects line wrap mode"
+msgstr "Om denne merkinga påvirkar måten linjer vert brotne på"
+
+msgid "Whether this tag affects paragraph justification"
+msgstr "Om denne merkinga påvirkar plassering av avsnitt"
+
+msgid "Whether this tag affects strikethrough"
+msgstr "Om denne merkinga påvirkar gjennomstrekinga"
+
+msgid "Whether this tag affects tabs"
+msgstr "Om denne merkinga påvirkar arkfaner"
+
+msgid "Whether this tag affects text editability"
+msgstr "Om denne merkinga påverkar om teksten kan redigerast eller ikkje"
+
+msgid "Whether this tag affects text visibility"
+msgstr "Om denne merkinga påvirkar om tekst er synleg eller ikkje"
+
+msgid "Whether this tag affects the alignment mode"
+msgstr "Om denne merkinga påvirkar hevinga"
+
+msgid "Whether this tag affects the background color"
+msgstr "Om denne merkinga påvirkar bakgrunnsfargen"
+
+msgid "Whether this tag affects the cell background color"
+msgstr "Om denne merkinga har noko å seia for bakgrunnsfargen til cella"
+
+msgid "Whether this tag affects the ellipsize mode"
+msgstr "Om denne merkinga påvirkar hevinga"
+
+msgid "Whether this tag affects the font family"
+msgstr "Om denne merkinga påvirkar skriftfamilien"
+
+msgid "Whether this tag affects the font size"
+msgstr "Om denne merkinga påvirkar skriftstorleiken"
+
+msgid "Whether this tag affects the font stretch"
+msgstr "Om denne merkinga påvirkar skriftstrekkinga"
+
+msgid "Whether this tag affects the font style"
+msgstr "Om denne merkinga påvirkar skriftstilen"
+
+msgid "Whether this tag affects the font variant"
+msgstr "Om denne merkinga påvirkar skrifttypevarianten"
+
+msgid "Whether this tag affects the font weight"
+msgstr "Om denne merkinga påvirkar skriftvekta"
+
+msgid "Whether this tag affects the foreground color"
+msgstr "Om denne merkinga påvirkar framgrunnsfargen"
+
+msgid "Whether this tag affects the language the text is rendered as"
+msgstr "Om denne merkinga påvirkar språket teksten skal teiknast i"
+
+msgid "Whether this tag affects the left margin"
+msgstr "Om denne merkinga påvirkar venstremargen"
+
+msgid "Whether this tag affects the number of pixels above lines"
+msgstr "Om denne merkinga påvirkar talet på pikslar over linjene"
+
+msgid "Whether this tag affects the number of pixels between wrapped lines"
+msgstr "Om denne merkinga påvirkar talet på pikslar mellom brotne linjer"
+
+msgid "Whether this tag affects the paragraph background color"
+msgstr "Om denne merkinga påvirkar bakgrunnsfargen"
+
+msgid "Whether this tag affects the right margin"
+msgstr "Om denne merkinga påvirkar høgremargen"
+
+msgid "Whether this tag affects the rise"
+msgstr "Om denne merkinga påvirkar hevinga"
+
+msgid "Whether this tag affects underlining"
+msgstr "Om denne merkinga påvirkar understrekinga"
+
+msgid "Whether this tag scales the font size by a factor"
+msgstr "Om denne merkinga skalerar skriftstorleiken med ein gitt faktor"
+
+msgid "Whether this text is hidden."
+msgstr "Om denne merkinga påvirkar hevinga"
+
+msgid "Whether this tray icon has a tooltip"
+msgstr "Om skjermelementet har inndatafokus"
+
+msgid "Whether this widget has a tooltip"
+msgstr "Om skjermelementet har inndatafokus"
+
+msgid "Whether to activate the default widget (such as the default button in a dialog) when Enter is pressed"
+msgstr "Om det forvalde skjermelementet (t.d. den forvalde knappen i ein dialog) skal brukast når Enter vert trykt"
+
+msgid "Whether to allow multiple files to be selected"
+msgstr "Om det kan veljast fleire filer om gongen"
+
+msgid "Whether to allow multiple items to be selected"
+msgstr "Om det kan veljast fleire filer om gongen"
+
+msgid "Whether to display an \"inconsistent\" state"
+msgstr "Om inkonsistente tilstandar skal visast"
+
+msgid "Whether to display the column"
+msgstr "Om kolonna skal visast"
+
+msgid "Whether to draw the focus indicator inside widgets"
+msgstr "Om fokusindikatoren skal teiknast inni skjermelementa"
+
+msgid "Whether to enable selection of multiple items by dragging the mouse pointer"
+msgstr "Om det kan veljast fleire filer om gongen"
+
+msgid "Whether to expand the child's tab"
+msgstr "Om arkfanene til barnet skal utvidast eller ikkje"
+
+msgid "Whether to give the color an alpha value"
+msgstr "Om fargen skal få ein alfa-verdi"
+
+msgid "Whether to keep all text in a single paragraph"
+msgstr "Om all teksten skal haldast i eitt avsnitt eller ikkje"
+
+msgid "Whether to play any event sounds at all"
+msgstr "Om inkonsistente tilstandar skal visast"
+
+msgid "Whether to play event sounds as feedback to user input"
+msgstr "Om skjermelementet reagerer på inndata"
+
+msgid "Whether to select the contents of a selectable label when it is focused"
+msgstr "Om innhaldet i ei oppføring skal merkast når oppføringa vert fokusert"
+
+msgid "Whether to select the contents of an entry when it is focused"
+msgstr "Om innhaldet i ei oppføring skal merkast når oppføringa vert fokusert"
+
+msgid "Whether to show a sort indicator"
+msgstr "Om ein sorteringsindikator skal visast eller ikkje"
+
+msgid "Whether to strike through the text"
+msgstr "Om teksten skal strekast gjennom"
+
+msgid "Whether to truncate multiline pastes to one line."
+msgstr "Om det kan veljast fleire filer om gongen"
+
+msgid "Whether to use the label text to create a stock menu item"
+msgstr "Om teksten på merkelappen kan markerast med musa"
+
+msgid "Whether to use the related actions appearance properties"
+msgstr "Om teksten på merkelappen kan markerast med musa"
+
+msgid "Whether to use the value from the snap_edge property or a value derived from handle_position"
+msgstr "Om verdien frå snap_edge-eigenskapen eller ein verdi utleidd frå handle_position skal brukast"
+
+msgid "Whether to wrap around when keyboard-navigating widgets"
+msgstr "Om fokusindikatoren skal teiknast inni skjermelementa"
+
+msgid "Whether to wrap lines never, at word boundaries, or at character boundaries"
+msgstr "Om linjer skal brytast aldri, mellom ord, eller mellom teikn."
+
+msgid "Whether to wrap the license text."
+msgstr "Om teksten skal strekast gjennom"
+
+msgid "Whether tooltips should be shown on widgets"
+msgstr "Om arkfaner skal visast eller ikkje"
+
+msgid "Whether tree lines should be drawn in the tree view"
+msgstr "Om kanten skal visast eller ikkje"
+
+msgid "Whether two cursors should be displayed for mixed left-to-right and right-to-left text"
+msgstr "Om det skal visast to markørar i blanda venstre-til-høgre-tekst og høgre-til-venstre-tekst"
+
+msgid "Whether visited links should be tracked"
+msgstr "Om skjulte filer og mapper skal visast"
+
+msgid "Whether we should show the history data points"
+msgstr "Om me skal glatte ut dataen i grafen"
+
+msgid "Whether we should show the history data points in the statistics window."
+msgstr "Om hendingane skal visast i statistikkvindauge."
+
+msgid "Whether we should show the stats data points"
+msgstr "Om me skal glatte ut dataen i grafen"
+
+msgid "Whether we should show the stats data points in the statistics window."
+msgstr "Om hendingane skal visast i statistikkvindauge."
+
+msgid "Whether we should smooth the history data"
+msgstr "Om me skal glatte ut dataen i grafen"
+
+msgid "Whether we should smooth the history data in the graph."
+msgstr "Om me skal glatte ut dataen i grafen."
+
+msgid "Whether we should smooth the stats data"
+msgstr "Om me skal glatte ut dataen i grafen"
+
+msgid "Whether we should smooth the stats data in the graph."
+msgstr "Om me skal glatte ut dataen i grafen."
+
+msgid "Which IM module should be used"
+msgstr "Om ein palett skal brukast"
+
+msgid "Which IM module should be used by default"
+msgstr "Om ein palett skal brukast"
+
+msgid "Which kind of shadow to draw around the combo box"
+msgstr "Breidda på kanten rundt arkfanemerkelappane"
+
+msgid "Which side of the notebook holds the tabs"
+msgstr "Kva for ei side av notisblokka skal arkfanene vera på"
+
+msgid "White"
+msgstr "Kvit"
+
+msgid "Wide Format"
+msgstr "Breitt format"
+
+msgid "Wide Separators"
+msgstr "Har skiljelinje"
+
+msgid "Widget"
+msgstr "Skjermelement"
+
+msgid "Widget name"
+msgstr "Skjermelementnamn"
+
+msgid "Widget to put in column header button instead of column title"
+msgstr "Skjermelement som skal setjast i kolonnehovudknappen i staden for kolonnetittel"
+
+msgid "Widget to use as the item label"
+msgstr "Skjermelement som skal brukast til merkelapp på eit element"
+
+msgid "Width"
+msgstr "Breidde"
+
+msgid "Width In Characters"
+msgstr "Breidde i teikn"
+
+msgid "Width for each item"
+msgstr "Skjermelement som skal brukast til merkelapp på eit element"
+
+msgid "Width in Characters"
+msgstr "Breidde i teikn"
+
+msgid "Width in chars"
+msgstr "Breidde i teikn"
+
+msgid "Width of border around the action area"
+msgstr "Breidde på kanten rundt hovuddialogområdet"
+
+msgid "Width of border around the button area at the bottom of the dialog"
+msgstr "Breidde på kanten rundt knappeområdet i botnen av dialogen"
+
+msgid "Width of border around the content area"
+msgstr "Breidde på kanten rundt hovuddialogområdet"
+
+msgid "Width of border around the label and image in the message dialog"
+msgstr "Breidda på kanten rundt ein merkelapp og eit bilete i meldingsdialogen"
+
+msgid "Width of border around the main dialog area"
+msgstr "Breidde på kanten rundt hovuddialogområdet"
+
+msgid "Width of handle"
+msgstr "Breidde på handtak"
+
+msgid "Width of scrollbar or scale thumb"
+msgstr "Breidde på rullefelt eller skaleringsgrep"
+
+msgid "Width of the left margin in pixels"
+msgstr "Breidda på venstremargen, i pikslar"
+
+msgid "Width of the right margin in pixels"
+msgstr "Breidda på høgremargen, i pikslar"
+
+msgid "Width request"
+msgstr "Førespurnad om breidde"
+
+msgid "Width, in pixels, between focus indicator and the widget 'box'"
+msgstr "Breidda, i pikslar, mellom fokusindikatoren og elementboksen"
+
+msgid "Width, in pixels, of the focus indicator line"
+msgstr "Breidda, i pikslar, på fokusindikatorlinja"
+
+msgid "Width, in pixels, of the tree view grid lines"
+msgstr "Breidda, i pikslar, på fokusindikatorlinja"
+
+msgid "Width, in pixels, of the tree view lines"
+msgstr "Breidda, i pikslar, på fokusindikatorlinja"
+
+msgid "Window"
+msgstr "Vindaugetype"
+
+msgid "Window Placement"
+msgstr "Plassering av vindauge"
+
+msgid "Window Placement Set"
+msgstr "Plassering av vindauge"
+
+msgid "Window Position"
+msgstr "Vindaugeplassering"
+
+msgid "Window Role"
+msgstr "Rolla til vindauget"
+
+msgid "Window Title"
+msgstr "Vindaugetittel"
+
+msgid "Window Type"
+msgstr "Vindaugetype"
+
+msgid "Window dragging"
+msgstr "Vindaugeplassering"
+
+msgid "Wrap"
+msgstr "Gå rundt"
+
+msgid "Wrap Mode"
+msgstr "Tekstbrytingsmåte"
+
+msgid "Wrap license"
+msgstr "Brytingsmåte satt"
+
+msgid "Wrap mode"
+msgstr "Tekstbrytingsmåte"
+
+msgid "Wrap mode set"
+msgstr "Brytingsmåte satt"
+
+msgid "Wrap width"
+msgstr "Brytingsbreidde"
+
+msgid "Wrap width for laying out the items in a grid"
+msgstr "Brytingsbreidde når elementa vert plasserte i eit rutenett"
+
+msgid "X Alignment of the column header text or widget"
+msgstr "X-justering av kolonnehovudteksten eller -skjermelementet"
+
+msgid "X Input Method"
+msgstr "X-skrivemetode"
+
+msgid "X align"
+msgstr "X-justering"
+
+msgid "X alignment of the child"
+msgstr "X-justeringa til barnet"
+
+msgid "X display to use"
+msgstr "X-display som skal brukast"
+
+msgid "X pad"
+msgstr "X-polstring"
+
+msgid "X position"
+msgstr "X-posisjon"
+
+msgid "X position of child widget"
+msgstr "X-posisjonen til barneskjermelementet"
+
+msgid "X spacing"
+msgstr "Mellomrom"
+
+msgid "XDG sound theme name"
+msgstr "Namn på ikondrakt"
+
+msgid "Y align"
+msgstr "Y-justering"
+
+msgid "Y alignment of the child"
+msgstr "Y-justeringa til barnet"
+
+msgid "Y pad"
+msgstr "Y-polstring"
+
+msgid "Y position"
+msgstr "Y-posisjon"
+
+msgid "Y position of child widget"
+msgstr "Y-posisjonen til barneskjermelementet"
+
+msgid "Y spacing"
+msgstr "Mellomrom"
+
+msgid "Year"
+msgstr "År"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
+msgstr "Du kan skriva inn ein heksadesimal fargeverdi i HTML-stil, eller eit fargenamn som t.d. «oransje»."
+
+msgid "Your description here"
+msgstr "Skildring av skrifttypen, som ein streng"
+
+msgid "Z Shell"
+msgstr "Z Shell"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "NBL _Nullbreiddesamanlimar"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "NBUL _Nullbreidde utan samanliming"
+
+msgid "ZWS _Zero width space"
+msgstr "NBS _Nullbreiddeskiljeteikn"
+
+msgid "Zoom _In"
+msgstr "For_størr"
+
+msgid "Zoom _Out"
+msgstr "For_minsk"
+
+msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
+msgstr "«%{string}» kunne ikkje konverterast til ein verdi av type «%{string}» for attributt «%{string}»"
+
+msgid "\"%{string}\" is not a valid attribute name"
+msgstr "«%{string}» er ikkje eit gyldig attributtnamn"
+
+msgid "\"%{string}\" is not a valid attribute type"
+msgstr "«%{string}» er ikkje ein gyldig type attributt"
+
+msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
+msgstr "«%{string}» er ikkje ein gyldig verdi for attributt «%{string}»"
+
+msgid "_About"
+msgstr "_Om"
+
+msgid "_Add"
+msgstr "_Legg til"
+
+msgid "_Add to Bookmarks"
+msgstr "L_egg til i bokmerke"
+
+msgid "_After:"
+msgstr "_Etter:"
+
+msgid "_All Pages"
+msgstr "_Alle sidene"
+
+msgid "_Apply"
+msgstr "_Bruk"
+
+msgid "_Ascending"
+msgstr "_Aukande"
+
+msgid "_Back"
+msgstr "Til_bake"
+
+msgid "_Billing info:"
+msgstr "_Faktureringsinformasjon:"
+
+msgid "_Blue:"
+msgstr "_Blå:"
+
+msgid "_Bold"
+msgstr "_Feit"
+
+msgid "_Bottom"
+msgstr "_Botn"
+
+msgid "_Bottom:"
+msgstr "_Botn:"
+
+msgid "_CD-ROM"
+msgstr "_CD-ROM"
+
+msgid "_Cancel"
+msgstr "A_vbryt"
+
+msgid "_Center"
+msgstr "_Sentrer"
+
+msgid "_Clear"
+msgstr "_Tøm"
+
+msgid "_Clear List"
+msgstr "_Tøm lista"
+
+msgid "_Close"
+msgstr "L_ukk"
+
+msgid "_Color"
+msgstr "_Farge"
+
+msgid "_Convert"
+msgstr "_Konvertér"
+
+msgid "_Copy"
+msgstr "_Kopier"
+
+msgid "_Copy file’s location"
+msgstr "Kopier _stad"
+
+msgid "_Customize"
+msgstr "Sjølvvald storleik"
+
+msgid "_Delete"
+msgstr "_Slett"
+
+msgid "_Descending"
+msgstr "_Minkande"
+
+msgid "_Discard"
+msgstr "_Forkast"
+
+msgid "_Disconnect"
+msgstr "Kopla _frå"
+
+msgid "_Domain:"
+msgstr "_Domene:"
+
+msgid "_Down"
+msgstr "Ne_d"
+
+msgid "_Edit"
+msgstr "R_ediger"
+
+msgid "_End Process"
+msgstr "_Avslutt prosess"
+
+msgid "_Execute"
+msgstr "_Køyr"
+
+msgid "_Family:"
+msgstr "_Familie:"
+
+msgid "_File"
+msgstr "_Fil"
+
+msgid "_Fill"
+msgstr "_Fyll"
+
+msgid "_Find"
+msgstr "_Finn"
+
+msgid "_Finish"
+msgstr "_Fullfør"
+
+msgid "_First"
+msgstr "_Fyrste"
+
+msgid "_Floppy"
+msgstr "_Diskett"
+
+msgid "_Font"
+msgstr "Skri_fttype"
+
+msgid "_Format for:"
+msgstr "_Format for:"
+
+msgid "_Forward"
+msgstr "_Framover"
+
+msgid "_Fullscreen"
+msgstr "_Fullskjerm"
+
+msgid "_Green:"
+msgstr "_Grøn:"
+
+msgid "_Hard Disk"
+msgstr "_Harddisk"
+
+msgid "_Height:"
+msgstr "_Storleik:"
+
+msgid "_Help"
+msgstr "_Hjelp"
+
+msgid "_Home"
+msgstr "_Heim"
+
+msgid "_Hue:"
+msgstr "_Glød:"
+
+msgid "_Index"
+msgstr "_Indeks"
+
+msgid "_Information"
+msgstr "_Informasjon"
+
+msgid "_Insert Unicode Control Character"
+msgstr "Set _inn Unicode-kontrollteikn"
+
+msgid "_Italic"
+msgstr "_Kursiv"
+
+msgid "_Jump to"
+msgstr "_Hopp til"
+
+msgid "_Last"
+msgstr "_Siste"
+
+msgid "_Leave Fullscreen"
+msgstr "For_lat fullskjerm"
+
+msgid "_Left"
+msgstr "_Venstre"
+
+msgid "_Left:"
+msgstr "_Venstre:"
+
+msgid "_License"
+msgstr "_Lisens"
+
+msgid "_Location:"
+msgstr "_Stad:"
+
+msgid "_Name:"
+msgstr "_Namn:"
+
+msgid "_Network"
+msgstr "_Nettverk"
+
+msgid "_New"
+msgstr "_Ny"
+
+msgid "_Next"
+msgstr "_Neste"
+
+msgid "_No"
+msgstr "_Nei"
+
+msgid "_Normal Size"
+msgstr "_Vanleg storleik"
+
+msgid "_Now"
+msgstr "_No"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "_Only print:"
+msgstr "_Berre skriv ut:"
+
+msgid "_Open"
+msgstr "_Opna"
+
+msgid "_Open Link"
+msgstr "_Opna lenkje"
+
+msgid "_Orientation:"
+msgstr "_Retning:"
+
+msgid "_Output format"
+msgstr "F_ormat"
+
+msgid "_Palette:"
+msgstr "_Palett:"
+
+msgid "_Paper size:"
+msgstr "_Papirstorleik:"
+
+msgid "_Password:"
+msgstr "_Passord:"
+
+msgid "_Paste"
+msgstr "_Lim inn"
+
+msgid "_Places"
+msgstr "_Stader"
+
+msgid "_Play"
+msgstr "_Spel"
+
+msgid "_Preferences"
+msgstr "_Innstillingar"
+
+msgid "_Preview:"
+msgstr "_Førehandsvising:"
+
+msgid "_Print"
+msgstr "S_kriv ut"
+
+msgid "_Properties"
+msgstr "_Eigenskapar"
+
+msgid "_Quit"
+msgstr "_Avslutt"
+
+msgid "_Record"
+msgstr "_Ta opp"
+
+msgid "_Red:"
+msgstr "_Raud:"
+
+msgid "_Redo"
+msgstr "Gje_r om"
+
+msgid "_Refresh"
+msgstr "Oppf_risk"
+
+msgid "_Remove"
+msgstr "Fje_rn"
+
+msgid "_Remove From List"
+msgstr "Fje_rn frå lista"
+
+msgid "_Replace"
+msgstr "E_rstatt"
+
+msgid "_Reverse"
+msgstr "_Omvendt"
+
+msgid "_Revert"
+msgstr "_Gå tilbake"
+
+msgid "_Right"
+msgstr "_Høgre"
+
+msgid "_Right:"
+msgstr "Høg_re:"
+
+msgid "_Save"
+msgstr "_Lagra"
+
+msgid "_Save color here"
+msgstr "_Lagra fargen her"
+
+msgid "_Save in folder:"
+msgstr "_Lagra i mappe:"
+
+msgid "_Select"
+msgstr "_Utval"
+
+msgid "_Spell Check"
+msgstr "_Stavekontroll"
+
+msgid "_Stop"
+msgstr "_Stopp"
+
+msgid "_Strikethrough"
+msgstr "_Gjennomstrek"
+
+msgid "_Style:"
+msgstr "_Stil:"
+
+msgid "_Top"
+msgstr "_Topp"
+
+msgid "_Top:"
+msgstr "_Topp:"
+
+msgid "_Undelete"
+msgstr "_Angra slett"
+
+msgid "_Underline"
+msgstr "_Understrek"
+
+msgid "_Undo"
+msgstr "_Angra"
+
+msgid "_Up"
+msgstr "_Opp"
+
+msgid "_Username:"
+msgstr "Br_ukarnamn:"
+
+msgid "_Value:"
+msgstr "_Verdi:"
+
+msgid "_Width:"
+msgstr "_Breidd:"
+
+msgid "_Yes"
+msgstr "_Ja"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/nn.po by load_po_file"
+
+msgid "a2 Envelope"
+msgstr "A2 konvolutt"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abcdefghijkèéæøå ABCDEFGHIJKÈÉÆØÅ"
+
+msgid "asme_f"
+msgstr "Asme_f"
+
+msgid "b-plus"
+msgstr "B-Plus"
+
+msgid "c"
+msgstr "C"
+
+msgid "c5 Envelope"
+msgstr "C5 konvolutt"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "d"
+msgstr "D"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "e"
+msgstr "E"
+
+msgid "edp"
+msgstr "EDP"
+
+msgid "ellipsize"
+msgstr "Stilt til å hevast"
+
+msgid "f"
+msgstr "F"
+
+msgid "hagaki (postcard)"
+msgstr "Hagaki (postkort)"
+
+msgid "height"
+msgstr "høgde"
+
+msgid "inch"
+msgstr "tomme"
+
+msgid "jis exec"
+msgstr "JIS-EXEC"
+
+msgid "juuro-ku-kai"
+msgstr "Juuro-ku-kai"
+
+msgid "kahu Envelope"
+msgstr "Kahu konvolutt"
+
+msgid "kaku2 Envelope"
+msgstr "kaku2 konvolutt"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "mode"
+msgstr "modus"
+
+msgid "oufuku (reply postcard)"
+msgstr "Oufuku (svarpostkort)"
+
+msgid "output"
+msgstr "utfil"
+
+msgid "pa-kai"
+msgstr "Pa-kai"
+
+msgid "paused"
+msgstr "pausa"
+
+msgid "prc 16k"
+msgstr "Prc 16k"
+
+msgid "prc 32k"
+msgstr "Prc 32k"
+
+msgid "prc1 Envelope"
+msgstr "Prc1 konvolutt"
+
+msgid "prc10 Envelope"
+msgstr "Prc10 konvolutt"
+
+msgid "prc2 Envelope"
+msgstr "Prc2 konvolutt"
+
+msgid "prc3 Envelope"
+msgstr "Prc3 konvolutt"
+
+msgid "prc4 Envelope"
+msgstr "Prc4 konvolutt"
+
+msgid "prc5 Envelope"
+msgstr "Prc5 konvolutt"
+
+msgid "prc6 Envelope"
+msgstr "Prc6 konvolutt"
+
+msgid "prc7 Envelope"
+msgstr "Prc7 konvolutt"
+
+msgid "prc8 Envelope"
+msgstr "Prc8 konvolutt"
+
+msgid "prc9 Envelope"
+msgstr "Prc9 konvolutt"
+
+msgid "printer offline"
+msgstr "skrivar er fråkopla"
+
+msgid "processing job"
+msgstr "prosesserer jobb"
+
+msgid "ready to print"
+msgstr "klar til å skriva ut"
+
+msgid "unknown"
+msgstr "(ukjend)"
+
+msgid "visible"
+msgstr "synleg"
+
+msgid "width"
+msgstr "breidde"
+
+msgid "xalign"
+msgstr "xjustering"
+
+msgid "xpad"
+msgstr "xfyll"
+
+msgid "yalign"
+msgstr "yjustering"
+
+msgid "you4 Envelope"
+msgstr "You4 konvolutt"
+
+msgid "ypad"
+msgstr "yfyll"

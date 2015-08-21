@@ -1,0 +1,5 @@
+msgid "Copy"
+msgstr "Nakili"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/sw.po by load_po_file"

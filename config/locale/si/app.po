@@ -1,0 +1,2876 @@
+msgid "#10 Envelope"
+msgstr "#10 ඇවුරුම"
+
+msgid "#11 Envelope"
+msgstr "#11 ඇවුරුම"
+
+msgid "#12 Envelope"
+msgstr "#12 ඇවුරුම"
+
+msgid "#14 Envelope"
+msgstr "#14 ඇවුරුම"
+
+msgid "#9 Envelope"
+msgstr "#9 ඇවුරුම"
+
+msgid "(None)"
+msgstr "(කිසිවක් නැත)"
+
+msgid "10 minutes"
+msgstr "මිනිත්තු"
+
+msgid "2 hours"
+msgstr "පැය"
+
+msgid "6 hours"
+msgstr "පැය"
+
+msgid "6x9 Envelope"
+msgstr "6x9  ඇවුරුම"
+
+msgid "7x9 Envelope"
+msgstr "7x9 ඇවුරුම"
+
+msgid "9x11 Envelope"
+msgstr "9x11 ඇවුරුම"
+
+msgid "A file named \"%{string}\" already exists.  Do you want to replace it?"
+msgstr "\"%{string}\" ගොනු නම දැනට භාවිතයේ ඇත.  ඔබට එය ආදේශ කිරීමට අවශ්‍යද?"
+
+msgid "A logo for the about box. If this is not set, it defaults to gtk_window_get_default_icon_list()"
+msgstr "පිළිබදව කොටුව සඳහා සංකේතය. මෙය සැකසුවේ නැත් නම් එහි ප්‍රකෘතිය gtk_window_get_default_icon_list() වේ"
+
+msgid "A name for the action group."
+msgstr "ක්‍රියා සමුහය සඳහා නම."
+
+msgid "A named icon to use as the logo for the about box."
+msgstr "පිළිබදව කොටුව සඳහා ලාංජනය ලෙස භාවිතායට නාමික අයිකනය"
+
+msgid "A shorter label that may be used on toolbar buttons."
+msgstr "මෙවලම් පුවරුව තුළ භාවිතා වන"
+
+msgid "A tooltip for this action."
+msgstr "මෙම ක්‍රියාව සඳහා මෙවලම් ඉඟිය"
+
+msgid "A unique name for the action."
+msgstr "ක්‍රියාව සඳහා ඒකිය නමක්."
+
+msgid "A_t:"
+msgstr "වෙත (_t):"
+
+msgid "Accel Group"
+msgstr "ක්‍රියාකාරි සමුහය"
+
+msgid "Accelerator Mode"
+msgstr "ත්වරකයේ ආකාරය"
+
+msgid "Accelerator key"
+msgstr "ත්වරක යතුර"
+
+msgid "Accelerator keycode"
+msgstr "ත්වරකයේ යතුරුකේත"
+
+msgid "Accelerator modifiers"
+msgstr "ත්නරකයේ විකරණ"
+
+msgid "Action"
+msgstr "ක්‍රියාව"
+
+msgid "Action Group"
+msgstr "ක්‍රියාකාරි සමුහය"
+
+msgid "Active"
+msgstr "සක්‍රීය"
+
+msgid "Active item"
+msgstr "සක්‍රීය අයිතම"
+
+msgid "Add Cover Page"
+msgstr "කවර පිටුවක් එක් කරන්න"
+
+msgid "Add the current folder to the bookmarks"
+msgstr "දැනට ඇති බහලුම පිටු සළකුණු වලට එක් කරන්න"
+
+msgid "Add the folder '%{string}' to the bookmarks"
+msgstr "%{string} බහලුම පිටු සළකුණු වලට එක් කරන්න"
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "තෝරාගත් බහලුම පිටු සළකුණු වලට එක් කරන්න"
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "තෝරාගත් බහලුම පිටු සළකුණු වලට එක් කරන්න"
+
+msgid "Adjustment"
+msgstr "ගළපන ලද"
+
+msgid "Advanced"
+msgstr "උසස්"
+
+msgid "After"
+msgstr "පසු (_A):"
+
+msgid "Alignment"
+msgstr "පෙළ ගැස්ම"
+
+msgid "All sheets"
+msgstr "සියළුම පිටු"
+
+msgid "Allow folder creation"
+msgstr "ඊතලයේ දිශාව"
+
+msgid "Amharic (EZ+)"
+msgstr "ඇම්හාරික් (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "වර්‍ණය තුළ නිල් එළියේ ප්‍රමාණය."
+
+msgid "Amount of green light in the color."
+msgstr "වර්‍ණය තුළ කොල එළියේ ප්‍රමාණය."
+
+msgid "Amount of red light in the color."
+msgstr "වර්‍ණය තුළ රතු එළියේ ප්‍රමාණය."
+
+msgid "Amount of space used up by arrow"
+msgstr "ඊතලය භාවිතා කරන ඉඩකඩ"
+
+msgid "Amount of space used up by arrow, relative to the menu item's font size"
+msgstr "ඊතලය භාවිතා කරන ඉඩකඩ"
+
+msgid "Amount to increase child's size on either side"
+msgstr "child හි විශාලත්වය එහි දෙපැත්තෙන්ම වැඩි කල යුතු ප්‍රමාණය"
+
+msgid "Amount to increase child's size on the top and bottom"
+msgstr "child හි විශාලත්වය එහි ඉහලින් හා පහලින් වැඩි කල යුතු ප්‍රමාණය"
+
+msgid "Animation"
+msgstr "සජීවිකරණය"
+
+msgid "Animation duration"
+msgstr "සජීවිකරණය"
+
+msgid "Any Printer"
+msgstr "මුද්‍රණ යන්ත්‍රය"
+
+msgid "Appearance of the shadow surrounding the arrow"
+msgstr "ඊතලය වටා ඇති සෙවනැල්ලෙහි පෙනුම"
+
+msgid "Appears as list"
+msgstr "ලැයිස්තුවක් ලෙස දිස්වීම"
+
+msgid "Application"
+msgstr "යෙදුම"
+
+msgid "Arrow Placement"
+msgstr "ඊතලයේ විශාලනය"
+
+msgid "Arrow Scaling"
+msgstr "ඊතලයේ විශාලනය"
+
+msgid "Arrow direction"
+msgstr "ඊතලයේ දිශාව"
+
+msgid "Arrow scaling"
+msgstr "ඊතලයේ විශාලනය"
+
+msgid "Arrow shadow"
+msgstr "ඊතලයේ සෙවනැල්ල"
+
+msgid "Arrow spacing"
+msgstr "ඊතලයේ විශාලනය"
+
+msgid "Artists"
+msgstr "කළාකරුවන්"
+
+msgid "Artwork by"
+msgstr "කලා නිර්මාණය"
+
+msgid "Aspect ratio if obey_child is FALSE"
+msgstr "obey_child FALSE විට දර්ශන අනුපාතය"
+
+msgid "Attributes"
+msgstr "විශේෂණ"
+
+msgid "Authentication"
+msgstr "යෙදුම"
+
+msgid "Authors"
+msgstr "නිර්මාණකරුවන්"
+
+msgid "Auto Select"
+msgstr "ස්වයන්ක්‍රීය තේරීම"
+
+msgid "BackSpace"
+msgstr "ආදේශය (_R)"
+
+msgid "Background color"
+msgstr "පසුබිම් වර්‍ණය"
+
+msgid "Background color as a GdkColor"
+msgstr "පසුබිම් වර්‍ණය GdkColor ලෙස"
+
+msgid "Background color as a string"
+msgstr "පසුබිම් වර්‍ණය වචන ලෙස"
+
+msgid "Background color name"
+msgstr "පසුබිම් වර්‍ණයේ නම"
+
+msgid "Background set"
+msgstr "පසුබිම් එකතුව"
+
+msgid "Be_fore:"
+msgstr "පෙර (_f):"
+
+msgid "Before"
+msgstr "පෙර (_f):"
+
+msgid "Billing Info"
+msgstr "බිලේ තොරතුරු (_B):"
+
+msgid "Border around the progress bar"
+msgstr "වැඩසටහන පිළිබද අදහස්"
+
+msgid "Border between button edges and child."
+msgstr "බොත්තමේ පැති සහ child අතර මායිම"
+
+msgid "Border relief"
+msgstr "මායිම් සහනය"
+
+msgid "Border width"
+msgstr "බොඩරයේ පළල"
+
+msgid "Bottom Padding"
+msgstr "පහළ පිරවුම"
+
+msgid "Brightness of the color."
+msgstr "වර්‍ණයේ දීප්තිමත් බව."
+
+msgid "CLASS"
+msgstr "CLASS"
+
+msgid "COLORS"
+msgstr "COLORS"
+
+msgid "C_ollate"
+msgstr "විශ්ලේෂණය කර බැලීම (_o)"
+
+msgid "C_onnect"
+msgstr "සම්බන්ධ (_o)"
+
+msgid "C_redits"
+msgstr "ස්තුතිය (_r)"
+
+msgid "C_urrent Page"
+msgstr "දැනට ඇති"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "බහලුම වෙනස් කළ නොහැක මන්ද එය ප්‍රාදේශිය බහලුමක් නොවේ"
+
+msgid "Capacity"
+msgstr "ධාරිතාව:"
+
+msgid "Caps Lock is on"
+msgstr "පිහිටීම පිටපත් කරන්න (_L)"
+
+msgid "Cedilla"
+msgstr "සෙඩිල්ලා"
+
+msgid "Cell background color"
+msgstr "කුටිත්තේ පසුබිම් වර්‍ණය"
+
+msgid "Cell background color as a GdkColor"
+msgstr "කුටිත්තේ පසුබිම් වර්‍ණය GdkColor ලෙස"
+
+msgid "Cell background color as a string"
+msgstr "කුටිත්තේ පසුබිම් වර්‍ණය වචනයක් ලෙස"
+
+msgid "Cell background color name"
+msgstr "කුටිත්තේ පසුබිම් වර්‍ණයෙ නම"
+
+msgid "Cell background set"
+msgstr "කුටිත්තේ පසුබිම්"
+
+msgid "Cell charge"
+msgstr "දැනට ඇති ආරෝපනය:"
+
+msgid "Cell phone"
+msgstr "ජංගම දුරකථනය"
+
+msgid "Cell phones"
+msgstr "ජංගම දුරකථනය"
+
+msgid "Charge"
+msgstr "ආරෝපන කාලය:"
+
+msgid "Charge accuracy"
+msgstr "ආරෝපනය වීමේ ශිග්‍රතාවය:"
+
+msgid "Charge profile"
+msgstr "ආරෝපන කාලය:"
+
+msgid "Charged"
+msgstr "ආරෝපන කාලය:"
+
+msgid "Charging"
+msgstr "ආරෝපන කාලය:"
+
+msgid "Child X Displacement"
+msgstr "child හි X-විස්ථාපනය"
+
+msgid "Child Y Displacement"
+msgstr "child හි Y-විස්ථාපනය"
+
+msgid "Child internal height padding"
+msgstr "child හි ඇතුළු උස සඳහා පිරවුම"
+
+msgid "Child internal width padding"
+msgstr "child හි ඇතුළු පළල සඳහා පිරවුම"
+
+msgid "Child widget to appear next to the button text"
+msgstr "බොත්තමේ පදවැල අසලින් දිස්විය යුතු child ආයිත්තම"
+
+msgid "Choukei 2 Envelope"
+msgstr "චොඋකී 2 ඇවුරුම"
+
+msgid "Choukei 3 Envelope"
+msgstr "චොඋකී 3 ඇවුරුම"
+
+msgid "Choukei 4 Envelope"
+msgstr "චොඋකී 4 ඇවුරුම"
+
+msgid "Classified"
+msgstr "වර්ගිකරණය කළ"
+
+msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
+msgstr "අයිඩ්‍රොපය ඔත ක්ලික් කර ඉන්පසු ඔබගේ තිරය මතවු ඕනැම තැනක ඇති ව්‍ර්ණයක් තෝරාගැනීමට එතැන ක්ලික් කරන්න"
+
+msgid "Co_nnect"
+msgstr "සම්බන්ධ (_o)"
+
+msgid "Color"
+msgstr "වර්‍ණ"
+
+msgid "Color Selection"
+msgstr "තෝරා ගැනිමෙ සීමාව"
+
+msgid "Color Wheel"
+msgstr "වර්‍ණ චක්‍රය"
+
+msgid "Color _name:"
+msgstr "වර්‍ණයේ නම (_n):"
+
+msgid "Color of unvisited links"
+msgstr "භාවිතා නොකළ පුරුක් වර්‍ණය"
+
+msgid "Columns"
+msgstr "තීරු"
+
+msgid "ComboBox model"
+msgstr "කොම්බොබොක්ස ආකෘතිය"
+
+msgid "Command Line"
+msgstr "රේඛිය විධාන"
+
+msgid "Comments about the program"
+msgstr "වැඩසටහන පිළිබද අදහස්"
+
+msgid "Comments string"
+msgstr "සටහන් වැකිය"
+
+msgid "Confidential"
+msgstr "රහස්‍යත"
+
+msgid "Content Padding"
+msgstr "අන්තර්ගත පිරවුම"
+
+msgid "Content area spacing"
+msgstr "අන්තර්ගත පිරවුම"
+
+msgid "Copie_s:"
+msgstr "පිටපත් (_s):"
+
+msgid "Copies"
+msgstr "පිටපත්"
+
+msgid "Copy URL"
+msgstr "URL පිටපත් කරන්න"
+
+msgid "Copy _Location"
+msgstr "පිහිටීම පිටපත් කරන්න (_L)"
+
+msgid "Copyright information for the program"
+msgstr "වැඩසටහන පිළිබඳ කතු හිමිකම් වැකිය"
+
+msgid "Copyright string"
+msgstr "කතු හිමිකම"
+
+msgid "Could not add a bookmark"
+msgstr "පිටු සළකුණු එක් කළ නොහැක"
+
+msgid "Could not clear list"
+msgstr "ලැයිස්තුව පැහැදිලි කළ නොහැකි විය"
+
+msgid "Could not read the contents of the folder"
+msgstr "root බහලුම ලබාගත නොහැකි විය"
+
+msgid "Could not remove bookmark"
+msgstr "පිටු සළකුණු ඉවත් කළ නොහැක"
+
+msgid "Could not remove item"
+msgstr "අයිතමය ඉවත් කළ නොහැකි විය"
+
+msgid "Could not rename %{string} back to %{string}: %{string}.\n"
+msgstr "%{string} නම නැවත %{string} ලෙස වෙනස් කළ නොහැක: %{string}.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
+msgstr "%{string} හි නම %{string} ලෙස වෙනස් කළ නොහැක: %{string}, %{string} ඉවත් කරමින්.\n"
+
+msgid "Could not rename %{string} to %{string}: %{string}\n"
+msgstr "%{string} හි නම %{string} ලෙස වෙනස් කළ නොහැක: %{string}\n"
+
+msgid "Could not retrieve information about the file"
+msgstr "ගොනුව පිළිබද තොරතුරු ලබාගත නොහැක"
+
+msgid "Could not select file"
+msgstr "ගොනුව තෝරාගත නොහැක"
+
+msgid "Could not send the search request"
+msgstr "සෙවිමේ ඉල්ලීම යැවිය නොහැකි විය"
+
+msgid "Could not show link"
+msgstr "ලැයිස්තුව පැහැදිලි කළ නොහැකි විය"
+
+msgid "Could not start the search process"
+msgstr "සෙවීමෙ ක්‍රියා වලිය ඇරඹිය නොහැකි විය"
+
+msgid "Create Fo_lder"
+msgstr "බහලුම නිර්මාණය කරන්න (_l):"
+
+msgid "Create in _folder:"
+msgstr "බහලුම තුළ නිර්මාණය කරන්න (_f):"
+
+msgid "Credits"
+msgstr "ස්තුතිය"
+
+msgid "Cu_t"
+msgstr "කපන්න (_t)"
+
+msgid "Current Alpha"
+msgstr "දැනට ඇති ඇල්ෆා"
+
+msgid "Current Color"
+msgstr "දැනට ඇති වර්‍ණය"
+
+msgid "Cursor"
+msgstr "කර්සරයේ වර්‍ණය"
+
+msgid "Cursor Position"
+msgstr "දර්ශකයේ පිහිටීම"
+
+msgid "Cursor color"
+msgstr "කර්සරයේ වර්‍ණය"
+
+msgid "Cursor position"
+msgstr "කර්සරයේ පිහිටුම"
+
+msgid "Custom size"
+msgstr "රිසිකළ ප්‍රමාණය"
+
+msgid "DISPLAY"
+msgstr "DISPLAY"
+
+msgid "DL Envelope"
+msgstr "DL ඇවුරුම"
+
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgid "Day"
+msgstr "දවස"
+
+msgid "Decrease Indent"
+msgstr "ඉඩ අඩු කරන්න"
+
+msgid "Default Display"
+msgstr "ප්‍රකෘති දැක්ම"
+
+msgid "Default Outside Spacing"
+msgstr "පෙරනිමියෙන් ඇති බාහිර ඉඩකඩ"
+
+msgid "Default Spacing"
+msgstr "පෙරනිමි ඉඩකඩ"
+
+msgid "Deletable"
+msgstr "මැකිය හැකි"
+
+msgid "Delete"
+msgstr "මකන්න (_D)"
+
+msgid "Desktop"
+msgstr "මූලික තිරය"
+
+msgid "Detail"
+msgstr "විස්තර"
+
+msgid "Details Height"
+msgstr "උස"
+
+msgid "Details Width"
+msgstr "විස්තර"
+
+msgid "Device Display"
+msgstr "ප්‍රකෘති දැක්ම"
+
+msgid "Device History"
+msgstr "ශක්ති අතීතය (_H)"
+
+msgid "Device Information"
+msgstr "මෙවලම් විස්තර"
+
+msgid "Device name"
+msgstr "ගොනු නම"
+
+msgid "Device type"
+msgstr "වක්‍ර වර්‍ගය"
+
+msgid "Dialog"
+msgstr "සංවාද"
+
+msgid "Digits"
+msgstr "අංකිත"
+
+msgid "Disabled"
+msgstr "අක්‍රීය"
+
+msgid "Displace focus"
+msgstr "විස්ථාපිත අවධානය"
+
+msgid "Display"
+msgstr "ප්‍රකෘති දැක්ම"
+
+msgid "Display for the device manager"
+msgstr "කුටිත්ත දර්ශනය කරන්න"
+
+msgid "Display the cell"
+msgstr "කුටිත්ත දර්ශනය කරන්න"
+
+msgid "Display the cell sensitive"
+msgstr "සංවේදී කුටිත්ත දර්ශනය කරන්න"
+
+msgid "Display which the device belongs to"
+msgstr "සංවේදී කුටිත්ත දර්ශනය කරන්න"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Wintab API භාවිතා කරන්න [ප්‍රකෘතිය]"
+
+msgid "Documented by"
+msgstr "ලේඛනාරූඩ කළේ"
+
+msgid "Documenters"
+msgstr "ලේඛණ"
+
+msgid "Domain:"
+msgstr "පිහිටීම (_L):"
+
+msgid "Don't batch GDI requests"
+msgstr "GDI ඉල්ලීම් ගොනු කරන්න එපා"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "index.theme ඇතුලත්ව තිබීම සඳහා ි පරික්‍ෂා නොකරන්න"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "ටැබ්ලට් සහාය සඳහා Wintab API භාවිතා නොකරන්න"
+
+msgid "Down"
+msgstr "පහළ මාර්‍ගය"
+
+msgid "Down Path"
+msgstr "පහළ මාර්‍ගය"
+
+msgid "Editability set"
+msgstr "සැකසිය හැකි එකතුව"
+
+msgid "Editable"
+msgstr "සැකසිය හැකි"
+
+msgid "Embed Page Setup"
+msgstr "පිටු සැකසුම"
+
+msgid "Embedded"
+msgstr "කාවැද්දු"
+
+msgid "Empty"
+msgstr "හිස්"
+
+msgid "Enable Tooltips"
+msgstr "මෙවලම් ඉඟි"
+
+msgid "Error"
+msgstr "දෝශය"
+
+msgid "Error color"
+msgstr "කර්සරයේ වර්‍ණය"
+
+msgid "Error creating print preview"
+msgstr "පෙර දැක්ම ඇරබුම දෝෂ සහිතයි"
+
+msgid "Error from StartDoc"
+msgstr "StartDoc වෙතින් දෝෂයක්"
+
+msgid "Error launching preview"
+msgstr "පෙර දැක්ම ඇරබුම දෝෂ සහිතයි"
+
+msgid "Escape"
+msgstr "දිගටි හැඩය"
+
+msgid "European edp"
+msgstr "යුරොපීය edp"
+
+msgid "Even sheets"
+msgstr "ඉරට්ටේ පිටු"
+
+msgid "Event base"
+msgstr "සිදුවීම්"
+
+msgid "Events"
+msgstr "සිදුවීම්"
+
+msgid "Executive"
+msgstr "ක්‍රියාත්මක කරන්න (_E)"
+
+msgid "Expand"
+msgstr "ව්‍යප්තිය"
+
+msgid "Extra space to add for GTK_CAN_DEFAULT buttons"
+msgstr "CAN_DEFAULT බොත්තම් සඳහා එක්කල යුතු අමතර ඉඩකඩ"
+
+msgid "Extra space to add for GTK_CAN_DEFAULT buttons that is always drawn outside the border"
+msgstr "සැමවිටම මායිමට පිටතින් ඇඳෙන CAN_DEFAULT බොත්තම් සඳහා එක්කල යුතු අමතර ඉඩක"
+
+msgid "Extra space to put between the child and its neighbors, in pixels"
+msgstr "child හා එහි අසල්වැසියන් අතර තබන අමතර ඉඩකඩ, pixels වලින්"
+
+msgid "FLAGS"
+msgstr "FLAGS"
+
+msgid "Failed to load icon"
+msgstr "සංකේතය පූරණය අසමත් විය"
+
+msgid "Failed to load image '%{string}': reason not known, probably a corrupt image file"
+msgstr "'%{string}'පිළිඹිබුව පූරණය දෝෂසහිතයි: හේතුව නොදන්නා අතර සමහරවිට දූෂිත පිළිඹිබු ගොනුවක් විය හැක"
+
+msgid "Failed to rewrite header\n"
+msgstr "ශීර්ෂකය වෙත ලිවීම අසමත් විය\n"
+
+msgid "Failed to write folder index\n"
+msgstr "බහලුම් පටුන වෙත ලිවීම අසමත් විය\n"
+
+msgid "Failed to write hash table\n"
+msgstr "හැෂ් වගුව වෙත ලිවීම අසමත් විය\n"
+
+msgid "Failed to write header\n"
+msgstr "ශීර්ෂකය වෙත ලිවීම අසමත් විය\n"
+
+msgid "FanFold European"
+msgstr "ෆැන්ෆොල්ඩ් යුරොපීය"
+
+msgid "FanFold German Legal"
+msgstr "ෆැන්ෆොල්ඩ් ජර්මානු ලිගල්"
+
+msgid "FanFold US"
+msgstr "ෆැන්ෆොල්ඩ් US"
+
+msgid "File"
+msgstr "ගොනුව"
+
+msgid "File System"
+msgstr "ගොනු පද්ධතිය"
+
+msgid "File System Root"
+msgstr "ගොනු පද්ධති රූක"
+
+msgid "File not found: %{string}\n"
+msgstr "ගොනුව හමුවුයේ නැත: %{string}\n"
+
+msgid "Filename"
+msgstr "ගොනු නම"
+
+msgid "Files"
+msgstr "ගොනු"
+
+msgid "Fill"
+msgstr "පිරවීම"
+
+msgid "Filter"
+msgstr "පෙරනය"
+
+msgid "Find and _Replace"
+msgstr "සෙවීම සහ ආදේෂය (_R)"
+
+msgid "Finished"
+msgstr "සම්පූර්ණ කරමින්"
+
+msgid "Finished with error"
+msgstr "දෝෂ සහිතව අවසන් කළා"
+
+msgid "Finishing"
+msgstr "සම්පූර්ණ කරමින්"
+
+msgid "Focus on click"
+msgstr "ක්ලික් කල විට අවධානය ලබා දෙන්න"
+
+msgid "Folio"
+msgstr "වර්‍ණ"
+
+msgid "Font"
+msgstr "අක්‍ෂර"
+
+msgid "Font Name"
+msgstr "අක්‍ෂර නම"
+
+msgid "Font Selection"
+msgstr "අක්‍ෂර තේරිම"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "අක්‍ෂර විස්තරය PangoFontDescription ආකෘතියක් ලෙස"
+
+msgid "Font description as a string, e.g. \"Sans Italic 12\""
+msgstr "අක්‍ෂර විස්තරය වාක්‍ය පෙළක් ලෙස, උදා: \"Sans Italic 12\""
+
+msgid "Font family"
+msgstr "අකුරු කුළය"
+
+msgid "Font family set"
+msgstr "අක්‍ෂර කුළ එකතුව"
+
+msgid "Font options"
+msgstr "අක්‍ෂර විකල්ප"
+
+msgid "Font points"
+msgstr "අක්‍ෂර දර්ශක"
+
+msgid "Font resolution"
+msgstr "අක්‍ෂර විභේදනය"
+
+msgid "Font scale"
+msgstr "අක්‍ෂර පරිමාණය"
+
+msgid "Font scaling factor"
+msgstr "අක්‍ෂර පරිමාණ සාධකය"
+
+msgid "Font size"
+msgstr "අක්‍ෂර ප්‍රමාණය"
+
+msgid "Font size in points"
+msgstr "දර්ශක තුළ අක්‍ෂර ප්‍රමාණය"
+
+msgid "Font stretch"
+msgstr "අක්‍ෂර දිගෑදීම"
+
+msgid "Font style"
+msgstr "අකුරු ශෛලිය"
+
+msgid "Font style set"
+msgstr "අක්‍ෂර ශෛලිය එකතුව"
+
+msgid "Font weight"
+msgstr "අක්‍ෂර මහත"
+
+msgid "Force aspect ratio to match that of the frame's child"
+msgstr "දර්ශන අනුපාතය, රාමුවේ child හි දර්ශන අනුපාතයට සම කරන්න"
+
+msgid "Foreground color"
+msgstr "පුර්‍වබිම් වර්‍ණය"
+
+msgid "Foreground color as a GdkColor"
+msgstr "පුර්‍වබිම් වර්‍ණය GdkColor ලෙස"
+
+msgid "Foreground color as a string"
+msgstr "පුර්‍වබිම් වර්‍ණය වචන ලෙස"
+
+msgid "Foreground color for symbolic icons"
+msgstr "පුර්‍වබිම් වර්‍ණය වචන ලෙස"
+
+msgid "Foreground color name"
+msgstr "පුර්‍වබිම් වර්‍ණයේ නම"
+
+msgid "Foreground set"
+msgstr "පුර්‍වබිම් එකතුව"
+
+msgid "Full Volume"
+msgstr "උපරිම හඬ"
+
+msgid "GDK debugging flags to set"
+msgstr "Gdk දෝෂහරණ සංකේතය සැකසීමට"
+
+msgid "GDK debugging flags to unset"
+msgstr "Gdk දෝෂහැරීමේ සංකේතය සකසා නැත"
+
+msgid "GIcon"
+msgstr "අයිකනය"
+
+msgid "GTK+ Options"
+msgstr "GTK+ විකල්ප"
+
+msgid "General"
+msgstr "සාමාන්‍ය"
+
+msgid "Government Legal"
+msgstr "ගවමන්ට් ලිගල්"
+
+msgid "Government Letter"
+msgstr "ගවමන්ට් ලෙටර්"
+
+msgid "Group"
+msgstr "සමුහය"
+
+msgid "Group Name"
+msgstr "සමුහය"
+
+msgid "Group name for tab drag and drop"
+msgstr "ක්‍රියා සමුහය සඳහා නම."
+
+msgid "Has Entry"
+msgstr "ඇතුලත් කිරීමක් ඇත"
+
+msgid "Has Frame"
+msgstr "රාමුවක් ඇත"
+
+msgid "Has Selection"
+msgstr "තෝරා ගැනිමෙ සීමාව"
+
+msgid "Header Padding"
+msgstr "ශීර්ෂක පිරවුම"
+
+msgid "Header Relief"
+msgstr "ශීර්ෂක පිළිඹිබුව"
+
+msgid "Header Spacing"
+msgstr "ශීර්ෂක පිරවුම"
+
+msgid "Header image"
+msgstr "ශීර්ෂක පිළිඹිබුව"
+
+msgid "Header image for the assistant page"
+msgstr "සහායක පිටුවේ පිළිඹිබුව"
+
+msgid "Height"
+msgstr "උස"
+
+msgid "Hide if empty"
+msgstr "හිස් නම් සඟවන්න"
+
+msgid "High"
+msgstr "වැඩි"
+
+msgid "History"
+msgstr "ශක්ති අතීතය (_H)"
+
+msgid "Home"
+msgstr "නිවස (_H)"
+
+msgid "Homogeneous"
+msgstr "සමජාතීය"
+
+msgid "Horizontal Alignment"
+msgstr "තිරස් පෙළ ගැස්ම"
+
+msgid "Horizontal alignment"
+msgstr "තිරස් පෙළ ගැස්ම"
+
+msgid "Horizontal alignment for child"
+msgstr "child සඳහා වූ තිරස් එකෙලිය"
+
+msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
+msgstr "ලැබී ඇති ඉඩකඩ තුල child හි තිරස් පිහිටුම. 0.0 යනු වමෙන් එකෙලි කිරීමයි, 1.0 යනු දකුණින් එකෙලි කිරීමයි."
+
+msgid "Horizontal scale"
+msgstr "තිරස් පරාසය"
+
+msgid "Horizontal separation"
+msgstr "තිරස් පරාසය"
+
+msgid "How far in the x direction to move the child when the button is depressed"
+msgstr "බොත්තම එබූ විට, x-දිශාව ඔස්සේ, child චලනය විය යුතු දුර"
+
+msgid "How far in the y direction to move the child when the button is depressed"
+msgstr "බොත්තම එබූ විට, y-දිශාව ඔස්සේ, child චලනය විය යුතු දුර"
+
+msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
+msgstr "පෙට්ටිය තුල බොත්තම් පිහිටුවිය යුතු ආකාරය. default, spread, edge, start සහ end යන අගයන් යොදාගත හැකියි"
+
+msgid "Hyper"
+msgstr "කඩදාසි"
+
+msgid "IM Status style"
+msgstr "IM තත්වයේ ශෛලිය"
+
+msgid "IM module"
+msgstr "ආකාරය"
+
+msgid "IPA"
+msgstr "IPA"
+
+msgid "Icon"
+msgstr "අයිකනය"
+
+msgid "Icon '%{string}' not present in theme"
+msgstr "'%{string}' තේමාව තුළ අයිකනය පිහිටා නැත"
+
+msgid "Icon Name"
+msgstr "අයිකන නම"
+
+msgid "Icon Prelight"
+msgstr "උස"
+
+msgid "Icon size"
+msgstr "නිරූපකයේ ප්‍රමාණය"
+
+msgid "Icons"
+msgstr "අයිකනය"
+
+msgid "If TRUE, a heading is displayed"
+msgstr "සත්‍ය නම් ශීර්ෂකය දර්ශනවේ"
+
+msgid "If TRUE, day names are displayed"
+msgstr "සත්‍ය නම් දවස් නම් දර්ශනය වේ"
+
+msgid "If TRUE, details are shown"
+msgstr "සත්‍ය නම් දවස් නම් දර්ශනය වේ"
+
+msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
+msgstr "සත්‍ය නම්, child දිස්වන්නේ ද්විතීයික child කාණ්ඩයකයි. උදව් ගෙනදෙන බොත්තම් සඳහා යෝග්‍යයයි."
+
+msgid "If TRUE, the selected month cannot be changed"
+msgstr "සත්‍ය නම් තෝරාගත් මාසය වෙනස් කළ නොහැකි වේ"
+
+msgid "If TRUE, week numbers are displayed"
+msgstr "සත්‍ය නම් සති අංක දර්ශනය වේ"
+
+msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr "ලැබී ඇති තිරස් ඉඩකඩ child සඳහා අවශ්‍ය ප්‍රමාණයට වඩා වැඩිනම්,ඉඩකඩෙන් කෙතරම් ප්‍රමාණයක් child සඳහා යොදාගනීද? 0.0 යනු කිසිවක් නැත, 1.0 යනු සියල්ලමයි."
+
+msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr "ලැබී ඇති සිරස් ඉඩකඩ child සඳහා අවශ්‍ය ප්‍රමාණයට වඩා වැඩිනම්,ඉඩකඩෙන් කෙතරම් ප්‍රමාණයක් child සඳහා යොදාගනීද? 0.0 යනු කිසිවක් නැත, 1.0 යනු සියල්ලමයි."
+
+msgid "Image"
+msgstr "පිළිඹිබු"
+
+msgid "Image Quality"
+msgstr "පිළිඹිබු තත්වය"
+
+msgid "Image position"
+msgstr "පිළිඹිබුවේ පිහිටීම"
+
+msgid "Image spacing"
+msgstr "රූප පරතරය"
+
+msgid "Image widget"
+msgstr "චිත්‍රක ආයිත්තම"
+
+msgid "Image/label border"
+msgstr "පිළිඹිබුව/ලේබලය රාමුව"
+
+msgid "Increase Indent"
+msgstr "ඉඩ වැඩි කරන්න"
+
+msgid "Index 3x5"
+msgstr "පටුන (_I)"
+
+msgid "Index 4x6 (postcard)"
+msgstr "පටුන 4x6 (තැපැල්පත)"
+
+msgid "Index 4x6 ext"
+msgstr "පටුන 4x6 ext"
+
+msgid "Index 5x8"
+msgstr "පටුන (_I)"
+
+msgid "Indicator Size"
+msgstr "දර්ශකයේ ප්‍රමාණය"
+
+msgid "Indicator Spacing"
+msgstr "දර්ශකයේ පරතරය"
+
+msgid "Information"
+msgstr "තොරතුරු"
+
+msgid "Inner Border"
+msgstr "ඇතුළත බොඩරය"
+
+msgid "Inner border"
+msgstr "ඇතුළත බොඩරය"
+
+msgid "Inner border space"
+msgstr "ඇතුළත බොඩරය"
+
+msgid "Input _Methods"
+msgstr "ප්‍රධාන ක්‍රම (_M)"
+
+msgid "Intensity of the color."
+msgstr "වර්‍ණයේ විනිවිද භාවය"
+
+msgid "Invalid"
+msgstr "සාවද්‍ය URI"
+
+msgid "Invalid URI"
+msgstr "සාවද්‍ය URI"
+
+msgid "Invalid file name"
+msgstr "සාවද්‍ය ගොනු නාමයක්"
+
+msgid "Invalid path"
+msgstr "සාවද්‍ය URI"
+
+msgid "Invisible character set"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Invite Envelope"
+msgstr "ආරාදනා ඇවුරුම"
+
+msgid "Is Active"
+msgstr "සක්‍රීයයි"
+
+msgid "Is Expanded"
+msgstr "ව්‍යප්ත විය"
+
+msgid "Is Expander"
+msgstr "ව්‍යප්තකය"
+
+msgid "Is Showing"
+msgstr "ශීර්ෂකය දර්ශනය කරන්න"
+
+msgid "Is important"
+msgstr "වැදගත් වේ"
+
+msgid "Italian Envelope"
+msgstr "ඉතාලි ඇවුරුම"
+
+msgid "Item Orientation"
+msgstr "දිශානතිය"
+
+msgid "Item Padding"
+msgstr "පහළ පිරවුම"
+
+msgid "Job"
+msgstr "කාර්‍යය"
+
+msgid "Job Details"
+msgstr "කාර්‍යය විස්තර"
+
+msgid "Job Priority"
+msgstr "ප්‍රමුකතාවය (_o):"
+
+msgid "Justification"
+msgstr "නිදොස් බව"
+
+msgid "KP_Delete"
+msgstr "මකන්න (_D)"
+
+msgid "KP_Enter"
+msgstr "මුද්‍රණ යන්ත්‍රය"
+
+msgid "KP_Home"
+msgstr "නිවස (_H)"
+
+msgid "KP_Left"
+msgstr "වම (_L):"
+
+msgid "KP_Page_Down"
+msgstr "KP_Page_Down"
+
+msgid "KP_Right"
+msgstr "දකුණ (_R):"
+
+msgid "KP_Space"
+msgstr "ආදේශය (_R)"
+
+msgid "Label"
+msgstr "ලේබලය"
+
+msgid "Label fill"
+msgstr "ලේබලය"
+
+msgid "Landscape"
+msgstr "දිගටි හැඩය"
+
+msgid "Language"
+msgstr "භාෂාව"
+
+msgid "Layout"
+msgstr "පසුබිම"
+
+msgid "Layout style"
+msgstr "පසුබිම් ශෛලිය"
+
+msgid "Left"
+msgstr "වම (_L):"
+
+msgid "Left Padding"
+msgstr "වම් පිරවුම"
+
+msgid "License"
+msgstr "බලපත්‍රය"
+
+msgid "Line wrap"
+msgstr "රේඛාවේ වැස්ම"
+
+msgid "List of authors of the program"
+msgstr "වැඩසටහනේ නිර්මාණකරුවන් ලැයිස්තුව"
+
+msgid "List of icon names"
+msgstr "ලාංජන සංකේතයෙ නම"
+
+msgid "List of people documenting the program"
+msgstr "වැඩසටහන ලේඛණණාරුඩ කළ පිරිස"
+
+msgid "List of people who have contributed artwork to the program"
+msgstr "වැඩසටහනේ කළාත්මක කටයුතු සඳහා දායකත්වය දැක්වු කළ පිරිස"
+
+msgid "Load additional GTK+ modules"
+msgstr "අමතර GTK+ අංග පූරණය කරන්න"
+
+msgid "Local Only"
+msgstr "පෙදෙසි පමණි"
+
+msgid "Location"
+msgstr "පිහිටීම"
+
+msgid "Logo"
+msgstr "ලාංජනය"
+
+msgid "Logo Icon Name"
+msgstr "ලාංජන සංකේතයෙ නම"
+
+msgid "Low"
+msgstr "අවම"
+
+msgid "MODULES"
+msgstr "MODULES"
+
+msgid "Make X calls synchronous"
+msgstr "X ඇමතුම් සමකාලික කරන්න"
+
+msgid "Manage Custom Sizes"
+msgstr "රිසිකළ ප්‍රමාණ කළමනාකරණය"
+
+msgid "Manage Custom Sizes..."
+msgstr "රිසිකළ ප්‍රමාණ කළමනාකරණය..."
+
+msgid "Margins from Printer..."
+msgstr "මුද්‍රණ යන්ත්‍රයෙන් මායිම්..."
+
+msgid "Maximum Value"
+msgstr "උපතිම අගය"
+
+msgid "Medium"
+msgstr "මධ්‍යම"
+
+msgid "Menu"
+msgstr "මෙනුව"
+
+msgid "Minimum Value"
+msgstr "අවම අගය"
+
+msgid "Minimum Width"
+msgstr "අවම පළල"
+
+msgid "Minimum child height"
+msgstr "child හි අවම උස"
+
+msgid "Minimum child width"
+msgstr "child හි අවම පළල"
+
+msgid "Minimum height of buttons inside the box"
+msgstr "කොටුව තුළ බොත්තම් වල අවම උස"
+
+msgid "Minimum horizontal bar height"
+msgstr "තිරස් පෙළ ගැස්ම"
+
+msgid "Minimum horizontal bar width"
+msgstr "child හි අවම පළල"
+
+msgid "Minimum vertical bar height"
+msgstr "child හි අවම උස"
+
+msgid "Minimum vertical bar width"
+msgstr "child හි අවම උස"
+
+msgid "Minimum width of buttons inside the box"
+msgstr "කොටුව තුළ බොත්තම් වල අවම පළල"
+
+msgid "Mode"
+msgstr "ආකාරය"
+
+msgid "Model"
+msgstr "ආකාරය:"
+
+msgid "Modified"
+msgstr "වෙනස් කළ"
+
+msgid "Monarch Envelope"
+msgstr "මොනාර්ච් ඇවුරුම"
+
+msgid "Monitor"
+msgstr "මාසය"
+
+msgid "Month"
+msgstr "මාසය"
+
+msgid "Muted"
+msgstr "නිහඬ"
+
+msgid "NAME"
+msgstr "NAME"
+
+msgid "Name"
+msgstr "නම"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr "අක්‍ෂර කුළ නාමය, උදා: Sans, Helvetica, Times, Monospace"
+
+msgid "Need user intervention"
+msgstr "පරිශීලක මැදිහත් වීම අවශ්‍යවේ"
+
+msgid "New accelerator..."
+msgstr "නව ත්වරකය..."
+
+msgid "No Month Change"
+msgstr "මාසය වෙනස් නොවීය"
+
+msgid "No item for URI '%{string}' found"
+msgstr "'%{string}' URI සඳහා අයිතම කිසිවක් හමුවුයේ නැත"
+
+msgid "No items found"
+msgstr "අයිතම හමුවුයේ නැත"
+
+msgid "No pre-filtering"
+msgstr "අයිතම හමුවුයේ නැත"
+
+msgid "No printer found"
+msgstr "අයිතම හමුවුයේ නැත"
+
+msgid "No recently used resource found with URI `%{string}'"
+msgstr "`%{string}' URI සමඟ මෑතකදි භාවිතා කළ"
+
+msgid "None"
+msgstr "කිසිවක් නැත"
+
+msgid "Not a valid icon cache: %{string}\n"
+msgstr "නිරවද්‍ය සංකේත කැච්යක් නොවේ: %{string}\n"
+
+msgid "Not a valid page setup file"
+msgstr "නිරවද්‍ය පිටු සැකසුම් ගොනුවක් නොවේ"
+
+msgid "Not available"
+msgstr "භාවිතයට නැත"
+
+msgid "Not enough free memory"
+msgstr "ප්‍රමාණවත් නිදහස් මතකයක් නැත"
+
+msgid "Num Lock is on"
+msgstr "පිහිටීම පිටපත් කරන්න (_L)"
+
+msgid "Number of Pages To Print"
+msgstr "නාලිකා ගණන"
+
+msgid "Number of axes in the device"
+msgstr "ශීර්ෂකය වටා පික්සල ප්‍රමාණය"
+
+msgid "Number of pixels around the content pages."
+msgstr "අන්තර්ගත පිටු වටා පික්සල ප්‍රමාණය"
+
+msgid "Number of pixels around the header."
+msgstr "ශීර්ෂකය වටා පික්සල ප්‍රමාණය"
+
+msgid "Number of steps"
+msgstr "නාලිකා ගණන"
+
+msgid "Obey child"
+msgstr "child අනුව යන්න"
+
+msgid "Odd sheets"
+msgstr "ඔත්තේ පිටු"
+
+msgid "One Sided"
+msgstr "තනි පැත්ත"
+
+msgid "Op_acity:"
+msgstr "පාරාන්ධතාව (_a):"
+
+msgid "Open '%{string}'"
+msgstr "'%{string}' විවෘත කරන්න"
+
+msgid "Or_ientation:"
+msgstr "දිශානතිය (_O):"
+
+msgid "Orientation"
+msgstr "දිශානතිය"
+
+msgid "Other..."
+msgstr "වෙනත්..."
+
+msgid "Out of paper"
+msgstr "කොල නැත"
+
+msgid "Output Tray"
+msgstr "ප්‍රථිධාන තැටිය"
+
+msgid "Output a C header file"
+msgstr "C ශීර්ෂක ගොනුවක ප්‍රථිධානය"
+
+msgid "Output t_ray:"
+msgstr "ප්‍රතිධාන තැටිය (_r):"
+
+msgid "PDA"
+msgstr "PDA"
+
+msgid "PDAs"
+msgstr "PDA"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "P_ause"
+msgstr "නවතා ඇත"
+
+msgid "Padding"
+msgstr "පිරවුම"
+
+msgid "Pag_es:"
+msgstr "ස්ථාන"
+
+msgid "Page"
+msgstr "පිටුව"
+
+msgid "Page Increment"
+msgstr "පිටු වර්ධකය"
+
+msgid "Page Ordering"
+msgstr "සූදානම් කරමින්"
+
+msgid "Page Set_up"
+msgstr "පිටු සැකසුම"
+
+msgid "Page Setup"
+msgstr "පිටු සැකසුම"
+
+msgid "Page Size"
+msgstr "පිටු ප්‍රමාණය"
+
+msgid "Page complete"
+msgstr "සම්පූර්ණ පිටුව"
+
+msgid "Page or_dering:"
+msgstr "පැත්තකට පිටු"
+
+msgid "Page title"
+msgstr "පිටු සිරස්තලය"
+
+msgid "Page type"
+msgstr "පිටු වර්‍ගය"
+
+msgid "Page_Up"
+msgstr "පිටු සැකසුම"
+
+msgid "Pages"
+msgstr "ස්ථාන"
+
+msgid "Pages Per Sheet"
+msgstr "එක් කොළයකට පිටු ගණන"
+
+msgid "Pages per Sheet"
+msgstr "එක් කොළයකට පිටු ගණන"
+
+msgid "Pages per _sheet:"
+msgstr "එක් කොළයකට පිටු ගණන (_s):"
+
+msgid "Pages per _side:"
+msgstr "පැත්තකට පිටු"
+
+msgid "Paper"
+msgstr "කඩදාසි"
+
+msgid "Paper Margins"
+msgstr "කොලයේ මායිම"
+
+msgid "Paper Size"
+msgstr "කොලයේ ප්‍රමාණය"
+
+msgid "Paper Source"
+msgstr "කොළ මූලාශය"
+
+msgid "Paper Type"
+msgstr "කොළ වර්‍ගය"
+
+msgid "Paper _source:"
+msgstr "කඩාදාසි මුලාශ්‍රය (_s):"
+
+msgid "Paper _type:"
+msgstr "කඩාදාසි වර්‍ගය (_t):"
+
+msgid "Parent"
+msgstr "හදිසි"
+
+msgid "Password:"
+msgstr "පීඩනය (_P):"
+
+msgid "Path does not exist"
+msgstr "%{string} කෙටි මාර්‍ගය භාවිතයේ නැත"
+
+msgid "Pattern"
+msgstr "රටාව"
+
+msgid "Pause"
+msgstr "නවතා ඇත"
+
+msgid "Paused"
+msgstr "නවතා ඇත"
+
+msgid "Paused Printer"
+msgstr "මුද්‍රණ යන්ත්‍රය"
+
+msgid "Percentage"
+msgstr "ප්‍රතිශතය"
+
+msgid "Personal Envelope"
+msgstr "පෞද්ගලික ඇවුරුම"
+
+msgid "Pick a Color"
+msgstr "වර්‍ණයක් තෝරන්න"
+
+msgid "Pick a Font"
+msgstr "අක්‍ෂර රටාවක් තෝරන්න"
+
+msgid "Pixbuf Expander Closed"
+msgstr "Pixbuf ව්‍යප්තකය වසාදැමුනි"
+
+msgid "Pixbuf Expander Open"
+msgstr "Pixbuf ව්‍යප්තකය විවෘත විය"
+
+msgid "Pixbuf Object"
+msgstr "Pixbuf වස්තුව"
+
+msgid "Pixbuf for closed expander"
+msgstr "ව්‍යප්තකය වසාදැමීම සඳහා Pixbuf"
+
+msgid "Pixbuf for open expander"
+msgstr "ව්‍යප්තකය විවෘත කිරීම සඳහා Pixbuf"
+
+msgid "Places"
+msgstr "ස්ථාන"
+
+msgid "Portrait"
+msgstr "නිරුපණය"
+
+msgid "Position"
+msgstr "පිහිටීම"
+
+msgid "Position on the color wheel."
+msgstr "වර්‍ණ තැටිය මත ස්ථානය"
+
+msgid "Postfix Envelope"
+msgstr "පොස්ට්ෆික්ස් ඇවුරුම"
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Pre_vious"
+msgstr "පෙර (_v)"
+
+msgid "Preparing"
+msgstr "සූදානම් කරමින්"
+
+msgid "Preparing to print"
+msgstr "%{number} සූදානම් කරමින්"
+
+msgid "Pri_ority:"
+msgstr "ප්‍රමුකතාවය (_o):"
+
+msgid "Primary icon name"
+msgstr "ලාංජන සංකේතයෙ නම"
+
+msgid "Primary icon sensitive"
+msgstr "සංවේදී කුටිත්ත දර්ශනය කරන්න"
+
+msgid "Primary icon tooltip markup"
+msgstr "ලාංජන සංකේතයෙ නම"
+
+msgid "Primary icon tooltip text"
+msgstr "සංවේදී කුටිත්ත දර්ශනය කරන්න"
+
+msgid "Primary pixbuf for the entry"
+msgstr "ව්‍යප්තකය විවෘත කිරීම සඳහා Pixbuf"
+
+msgid "Primary storage type"
+msgstr "පිටු වර්‍ගය"
+
+msgid "Print"
+msgstr "මුද්‍රණය"
+
+msgid "Print Document"
+msgstr "ලේඛනය මුද්‍රණය කරන්න"
+
+msgid "Print Pre_view"
+msgstr "මුද්‍රණ පෙර දැක්ම (_v)"
+
+msgid "Print at"
+msgstr "මුද්‍රණය"
+
+msgid "Print at time"
+msgstr "ගොනුවට මුද්‍රණය කරන්න"
+
+msgid "Print to File"
+msgstr "ගොනුවට මුද්‍රණය කරන්න"
+
+msgid "Print to LPR"
+msgstr "LPR වෙත මුද්‍රණය කරන්න"
+
+msgid "Print to Test Printer"
+msgstr "පරීක්‍ෂණ මුද්‍රණ යන්ත්‍රයකට මුද්‍රණය කරන්න"
+
+msgid "Printer"
+msgstr "මුද්‍රණ යන්ත්‍රය"
+
+msgid "Printer '%{string}' is currently offline."
+msgstr "මුද්‍රණ යන්ත්‍රය අක්‍රීයව ඇත"
+
+msgid "Printer Default"
+msgstr "මුද්‍රණ යන්ත්‍රයේ ප්‍රකෘතිය"
+
+msgid "Printer offline"
+msgstr "මුද්‍රණ යන්ත්‍රය අක්‍රීයව ඇත"
+
+msgid "Printing"
+msgstr "%{number} මුද්‍රණය වෙමින්"
+
+msgid "Processor"
+msgstr "දුර්වල"
+
+msgid "Program class as used by the window manager"
+msgstr "කවුළු කළමණාකරු භාවිතා කරන යෙදුම් පන්තිය"
+
+msgid "Program name"
+msgstr "වැඩ සටහන් නම"
+
+msgid "Program name as used by the window manager"
+msgstr "කවුළු කළමණාකරු භාවිතා කරන යෙදුම් නම"
+
+msgid "Program version"
+msgstr "වැඩ සටහන් වෙළුම"
+
+msgid "Progress Border"
+msgstr "වැඩ සටහන් වෙළුම"
+
+msgid "Progress Fraction"
+msgstr "වැඩ සටහන් වෙළුම"
+
+msgid "Question"
+msgstr "ප්‍රශ්නය"
+
+msgid "R_ewind"
+msgstr "ඔතන්න (_e)"
+
+msgid "Range"
+msgstr "පරාසය"
+
+msgid "Ratio"
+msgstr "අනුපාතය"
+
+msgid "Received invalid color data\n"
+msgstr "සාවද්‍ය වර්‍ණ දත්ත ලැබුනි\n"
+
+msgid "Recently Used"
+msgstr "මැතකදි භාවිතා කළ"
+
+msgid "Related Action"
+msgstr "ක්‍රියාව"
+
+msgid "Remove"
+msgstr "ඉවත් කරන්න"
+
+msgid "Remove the bookmark '%{string}'"
+msgstr "%{string} පිටු සළකුණ ඉවත් කරන්න"
+
+msgid "Remove the selected bookmark"
+msgstr "තෝරාගත් පිටු සළකුණ ඉවත් කරන්න"
+
+msgid "Rename..."
+msgstr "නම වෙනස් කරන්න..."
+
+msgid "Resize"
+msgstr "ප්‍රති ප්‍රමාණය"
+
+msgid "Resolution"
+msgstr "ප්‍රශ්නය"
+
+msgid "Reverse landscape"
+msgstr "දිගටි හැඩය"
+
+msgid "Right"
+msgstr "දකුණ (_R):"
+
+msgid "Right Padding"
+msgstr "දකුණු පිරවුම"
+
+msgid "Right to left"
+msgstr "ගොනුවට මුද්‍රණය කරන්න"
+
+msgid "Rows"
+msgstr "පේළි"
+
+msgid "SCREEN"
+msgstr "SCREEN"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Save _As"
+msgstr "සුරකින අයුර (_A)"
+
+msgid "Save in _folder:"
+msgstr "බහලුම තුළ සුරකින්න (_f):"
+
+msgid "Sc_ale:"
+msgstr "මිනුම (_a):"
+
+msgid "Screen"
+msgstr "තිරය"
+
+msgid "Scroll arrow spacing"
+msgstr "ඊතලයේ විශාලනය"
+
+msgid "Se_lection"
+msgstr "තෝරාගැනිම (_S):"
+
+msgid "Search"
+msgstr "සොයන්න"
+
+msgid "Search:"
+msgstr "සොයන්න"
+
+msgid "Secondary"
+msgstr "ද්විතීය"
+
+msgid "Secondary GIcon"
+msgstr "ද්විතීය"
+
+msgid "Secondary cursor color"
+msgstr "ද්විතීය කර්සරයේ වර්‍ණය"
+
+msgid "Secondary icon activatable"
+msgstr "ද්විතීය කර්සරයේ වර්‍ණය"
+
+msgid "Secondary icon name"
+msgstr "ද්විතීය"
+
+msgid "Secondary icon tooltip markup"
+msgstr "ද්විතීය"
+
+msgid "Secondary icon tooltip text"
+msgstr "ද්විතීය කර්සරයේ වර්‍ණය"
+
+msgid "Secondary pixbuf"
+msgstr "ද්විතීය"
+
+msgid "Secondary stock ID"
+msgstr "ද්විතීය"
+
+msgid "Secondary storage type"
+msgstr "ද්විතීය කර්සරයේ වර්‍ණය"
+
+msgid "Secret"
+msgstr "රහසිගත"
+
+msgid "Select A File"
+msgstr "ගොනුවක් තෝරන්න"
+
+msgid "Select _All"
+msgstr "සියල්ල තෝරන්න (_A)"
+
+msgid "Select a folder"
+msgstr "ගොනුවක් තෝරන්න"
+
+msgid "Select which type of documents are shown"
+msgstr "දර්ශනය කළ යුතු ලේඛන වර්‍ගය තෝරන්න"
+
+msgid "Select which types of files are shown"
+msgstr "දර්ශනය කළ යුතු ගොනු වර්‍ගය තෝරන්න"
+
+msgid "Selection Bound"
+msgstr "තෝරා ගැනිමෙ සීමාව"
+
+msgid "Sensitive"
+msgstr "සංවේදී"
+
+msgid "Settings"
+msgstr "සැකසුම්"
+
+msgid "Short label"
+msgstr "කෙටි ලේබලය"
+
+msgid "Shortcut %{string} already exists"
+msgstr "%{string} කෙටි මාර්‍ගය භාවිතයේ ඇත"
+
+msgid "Shortcut %{string} does not exist"
+msgstr "%{string} කෙටි මාර්‍ගය භාවිතයේ නැත"
+
+msgid "Show Day Names"
+msgstr "දවස් නම් පෙන්වන්න"
+
+msgid "Show Details"
+msgstr "ශීර්ෂකය දර්ශනය කරන්න"
+
+msgid "Show GTK+ Options"
+msgstr "GTK+ විකල්ප දර්ශනය කරන්න"
+
+msgid "Show Heading"
+msgstr "ශීර්ෂකය දර්ශනය කරන්න"
+
+msgid "Show Week Numbers"
+msgstr "සති අංක පෙන්වන්න"
+
+msgid "Show _Hidden Files"
+msgstr "සැගවුනු ගොනු පෙනෙවන්න"
+
+msgid "Show _Private Resources"
+msgstr "පෞද්ගලික සම්පත් දර්ශනය කරන්න"
+
+msgid "Show button images"
+msgstr "බොත්තමේ රූප පෙන්වන්න"
+
+msgid "Show style"
+msgstr "ශෛලිය දර්ශනය කරන්න"
+
+msgid "Shrink"
+msgstr "හැකිලෙනවා"
+
+msgid "Si_ze:"
+msgstr "ප්‍රමාණය (_z):"
+
+msgid "Sidebar image"
+msgstr "පැතිපුවරු පිළිඹිබුව"
+
+msgid "Sidebar image for the assistant page"
+msgstr "සහායක පිටුවේ පැතිපුවරු පිළිඹිබුව"
+
+msgid "Simple"
+msgstr "ප්‍රමාණය"
+
+msgid "Single Paragraph Mode"
+msgstr "තනි ඡෙදය ආකාරය"
+
+msgid "Size"
+msgstr "ප්‍රමාණය"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "බිට් 8 ආකාරයේ දී වර්ණාවලියේ ප්‍රමාණය"
+
+msgid "Small Photo"
+msgstr "කුඩා පිංතුරය"
+
+msgid "Sole completion"
+msgstr "වර්‍ණ තේරිම"
+
+msgid "Space"
+msgstr "ආදේශය (_R)"
+
+msgid "Spacing"
+msgstr "ඉඩ තැබීම"
+
+msgid "Spacing in pixels between the image and label"
+msgstr "රූපය සහ ලේබලය අතර පරතරය pixel වලින්"
+
+msgid "Specify one or more page ranges,\n e.g. 1-3,7,11"
+msgstr "පරාස එකක් හෝ කිහිපයක් දක්වන්න,\n e.g. 1-3,7,11"
+
+msgid "Spinner"
+msgstr "කඩදාසි"
+
+msgid "Standard"
+msgstr "සම්මත"
+
+msgid "Statistics"
+msgstr "ග්නෝම් ශක්ති සංඛ්‍යාංක"
+
+msgid "Status"
+msgstr "තත්වය"
+
+msgid "Step Increment"
+msgstr "වර්ධක පියවර"
+
+msgid "Style"
+msgstr "රටාව"
+
+msgid "Style of underline for this text"
+msgstr "මෙම පෙළ සඳහා යටි ඉර ශෛලිය"
+
+msgid "Success color"
+msgstr "කර්සරයේ වර්‍ණය"
+
+msgid "Super"
+msgstr "කඩදාසි"
+
+msgid "Super A"
+msgstr "කඩදාසි"
+
+msgid "Super B"
+msgstr "කඩදාසි"
+
+msgid "Support Selection"
+msgstr "තෝරා ගැනිමෙ සීමාව"
+
+msgid "Sys_Req"
+msgstr "ගොනු පද්ධතිය"
+
+msgid "System"
+msgstr "ගොනු පද්ධතිය"
+
+msgid "System (%{string})"
+msgstr "%{string} (%{string})"
+
+msgid "T_wo-sided:"
+msgstr "දෙපැත්තම (_w):"
+
+msgid "Technology"
+msgstr "තාක්‍ෂණය:"
+
+msgid "Terminal Pager"
+msgstr "මුද්‍රණය කරන පිටු"
+
+msgid "Text"
+msgstr "පෙළ"
+
+msgid "Text Column"
+msgstr "පෙළ තීරුව"
+
+msgid "Text length"
+msgstr "පෙළ තීරුව"
+
+msgid "Text of the label widget inside the button, if the button contains a label widget"
+msgstr "බොත්තම තුල ලෙබල් ඇයිත්තමක් ඇත්නම්, බොත්තම තුල ඇති ලේබල් ආයිත්තමේ පදවැල"
+
+msgid "Text to render"
+msgstr "විදහව සඳහා පෙළ"
+
+msgid "Thai-Lao"
+msgstr "තායි-ලෝ"
+
+msgid "The GIcon being displayed"
+msgstr "සත්‍ය නම් ශීර්ෂකය දර්ශනවේ"
+
+msgid "The OK button of the dialog."
+msgstr "ගළපන ලද  අගය"
+
+msgid "The amount of space between children"
+msgstr "child අතර ඇති අවකාශය"
+
+msgid "The border relief style"
+msgstr "මායිම් සහනයේ ආකාරය"
+
+msgid "The cancel button of the dialog."
+msgstr "ගළපන ලද  අගය"
+
+msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
+msgstr "ඔබ තෝරාගත් වර්‍ණය වර්‍ණාවලි ඇතුලත් කිරීම සඳහා ඔබට ඇද දමා මතු භාවිතය සඳහා සුරකිය හැක"
+
+msgid "The contents of the buffer"
+msgstr "pixbuf හි තීරු ගණන"
+
+msgid "The contents of the tooltip for this tray icon"
+msgstr "මෙම ක්‍රියාව සඳහා මෙවලම් ඉඟිය"
+
+msgid "The contents of the tooltip on the primary icon"
+msgstr "මෙම ක්‍රියාව සඳහා මෙවලම් ඉඟිය"
+
+msgid "The contents of the tooltip on the secondary icon"
+msgstr "මෙම ක්‍රියාව සඳහා මෙවලම් ඉඟිය"
+
+msgid "The current color"
+msgstr "දැනට ඇති වර්‍ණය"
+
+msgid "The current fraction of the task that's been completed"
+msgstr "ගළපන ලද  අගය"
+
+msgid "The default display for GDK"
+msgstr "GDK සඳහා ප්‍රකෘති දැක්ම"
+
+msgid "The default font options for the screen"
+msgstr "තිරය සඳහා ප්‍රකෘති අක්‍ෂර විකල්ප"
+
+msgid "The direction the arrow should point"
+msgstr "ඊතලය දිස්විය යුතු දිශාව"
+
+msgid "The file already exists in \"%{string}\".  Replacing it will overwrite its contents."
+msgstr "\"%{string}\" තුළ ගොනුව දැනට මත් භාවිතය සඳහා ඇත.  ආදේශ කිරීමෙදි එහි අන්තර්ගතය මත ලියවෙනු ඇත."
+
+msgid "The fixed height"
+msgstr "ස්ථිර උස"
+
+msgid "The fixed width"
+msgstr "ස්ථිර පළල"
+
+msgid "The folder contents could not be displayed"
+msgstr "බහලුම තුළ අන්තර්ගතය දර්ශනය කළ නොහැක"
+
+msgid "The folder could not be created"
+msgstr "බහලුම නිර්මාණය කළ නොහැක"
+
+msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
+msgstr "දැනට භාවිතා වන ගොනු නමකින් බහලුම නිර්මාණය කළ නොහැක.  බහලුම සඳහා වෙනත් නමක් භාවිතා කරන්න නැතිනම් පළමුව ගොනුවේ නම වෙනස් කරන්න."
+
+msgid "The hardware keycode of the accelerator"
+msgstr "ත්වරකයේ දෘඩාංග යතුරුකේත"
+
+msgid "The help button of the dialog."
+msgstr "ගළපන ලද  අගය"
+
+msgid "The human-readable title of this item group"
+msgstr "සහායක පිටුවේ සිරස්තලය"
+
+msgid "The icon size"
+msgstr "නිරූපකයේ ප්‍රමාණය"
+
+msgid "The index of the child in the parent"
+msgstr "parent හි child සඳහා වූ අනුක්‍රමික අංකය"
+
+msgid "The index of the current page"
+msgstr "දැන් පවත්නා පිටුවෙහි සුචිය"
+
+msgid "The keyval of the accelerator"
+msgstr "ත්වරකයේ යතුරු අඟය"
+
+msgid "The label for the link to the website of the program. If this is not set, it defaults to the URL"
+msgstr "වැඩසටහනේ වියුණු අඩවි පුරුක සඳහා ලේබලය. සකසා නොමැතිවිට URL එක පෙරනිමිය වේ"
+
+msgid "The label used for menu items and buttons that activate this action."
+msgstr "මෙම ක්‍රියාව සක්‍රීය කරන බොත්තම් සහ මෙනුව සඳහා භවිතා කරන ලේබල."
+
+msgid "The license of the program"
+msgstr "වැඩසටහනේ බලපත්‍රය"
+
+msgid "The license type of the program"
+msgstr "වැඩ සටහනේ වෙළුම"
+
+msgid "The maximum value of the adjustment"
+msgstr "ගළපන ලද උපරිම අගය"
+
+msgid "The maximum width of the cell, in characters"
+msgstr "වැඩ සටහනේ වෙළුම"
+
+msgid "The minimum value of the adjustment"
+msgstr "ගළපන ලද අවම අගය"
+
+msgid "The minimum vertical height of the progress bar"
+msgstr "ගළපන ලද අවම අගය"
+
+msgid "The minimum vertical width of the progress bar"
+msgstr "වැඩ සටහනේ වෙළුම"
+
+msgid "The model for the combo box"
+msgstr "කොම්බොබොක්සය සදගහා ආකෘතිය"
+
+msgid "The modifier mask of the accelerator"
+msgstr "ත්නරකයේ විකරණ වැස්ම"
+
+msgid "The name of the program. If this is not set, it defaults to g_get_application_name()"
+msgstr "වැඩ සටහනේ නම. මෙය සැකසුවේ නැත් නම් එහි ප්‍රකෘතිය g_get_application_name() වේ"
+
+msgid "The number of decimal places to display"
+msgstr "දර්ශනය කළ යුතු දශමස්ථාන ගණන"
+
+msgid "The number of pages that will be printed."
+msgstr "පික්සලයකට සාම්පල ගණන"
+
+msgid "The orientation of the orientable"
+msgstr "ගළපන ලද  අගය"
+
+msgid "The padding to insert at the bottom of the widget."
+msgstr "ආයිත්තමට පහලින් ඇතුල් කරන පිරවුම"
+
+msgid "The padding to insert at the left of the widget."
+msgstr "ආයිත්තමට වමෙන් ඇතුල් කරන පිරවුම"
+
+msgid "The padding to insert at the right of the widget."
+msgstr "ආයිත්තමට දකුණින් ඇතුල් කරන පිරවුම"
+
+msgid "The padding to insert at the top of the widget."
+msgstr "ආයිත්තමට ඉහලින් ඇතුල් කරන පිරවුම"
+
+msgid "The page increment of the adjustment"
+msgstr "ගළපීමෙ පිටු වර්ධකය"
+
+msgid "The page size of the adjustment"
+msgstr "පිටුවේ ගළපන ලද ප්‍රමාණය"
+
+msgid "The pixbuf to render"
+msgstr "විදහව සඳහා pixbuf"
+
+msgid "The position of the image relative to the text"
+msgstr "පදවැලට සාපේක්ෂව රූපයේ පිහිටුම"
+
+msgid "The resolution for fonts on the screen"
+msgstr "තිරය මත අක්‍ෂර සඳහා විභේදනය"
+
+msgid "The selected color"
+msgstr "තෝරාගත් වර්‍ණය"
+
+msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
+msgstr "තෝරාගත් දවස ( 1 ත් 31ත් අතර අංකයක් ලෙස හෝ 0 සිට දැනට තෝරා ඇති දිනය අතර තෝරා නොගත් දවසක්)"
+
+msgid "The selected month (as a number between 0 and 11)"
+msgstr "තෝරාගත් මාසය ( 0 ත් 11 ත් අතර අංකයක් ලෙස)"
+
+msgid "The selected year"
+msgstr "තෝරාගත් වසර"
+
+msgid "The step increment of the adjustment"
+msgstr "ගළපීමෙ වර්ධක පියවර"
+
+msgid "The text for the child label"
+msgstr "parent හි child සඳහා වූ අනුක්‍රමික අංකය"
+
+msgid "The title of the assistant page"
+msgstr "සහායක පිටුවේ සිරස්තලය"
+
+msgid "The title of this tray icon"
+msgstr "සහායක පිටුවේ සිරස්තලය"
+
+msgid "The type of accelerators"
+msgstr "ත්වරක වර්‍ග"
+
+msgid "The type of the assistant page"
+msgstr "සහායක පිටුවේ වර්‍ගය"
+
+msgid "The value of the adjustment"
+msgstr "ගළපන ලද  අගය"
+
+msgid "The value of the scale"
+msgstr "ගළපන ලද  අගය"
+
+msgid "The version of the program"
+msgstr "වැඩ සටහනේ වෙළුම"
+
+msgid "The x-align"
+msgstr "x ඇලය"
+
+msgid "The y-align"
+msgstr "y ඇලය"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "ටිග්‍රිඥා-එරිත්‍රියානු (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "ටිග්‍රිඥා-ඉතියෝපියානු (EZ+)"
+
+msgid "Title"
+msgstr "සිරස්තලය"
+
+msgid "Toolbar Icon Size"
+msgstr "මෙවලම් පුවරු ශෛලිය"
+
+msgid "Toolbar Style"
+msgstr "මෙවලම් පුවරු ශෛලිය"
+
+msgid "Toolbar style"
+msgstr "මෙවලම් පුවරු ශෛලිය"
+
+msgid "Tooltip"
+msgstr "මෙවලම් ඉඟි"
+
+msgid "Tooltip Column"
+msgstr "පෙළ තීරුව"
+
+msgid "Tooltip Text"
+msgstr "මෙවලම් ඉඟි"
+
+msgid "Top Command"
+msgstr "රේඛිය විධාන"
+
+msgid "Top Padding"
+msgstr "ඉහළ පිරවුම"
+
+msgid "Top Secret"
+msgstr "අතිශ්‍යය රහසිගත"
+
+msgid "Track visited links"
+msgstr "භාවිතා නොකළ පුරුක් වර්‍ණය"
+
+msgid "Translated by"
+msgstr "පරිවර්තනය කළේ"
+
+msgid "Translation Domain"
+msgstr "පරිවර්තන ස්තුතිය"
+
+msgid "Translator credits"
+msgstr "පරිවර්තන ස්තුතිය"
+
+msgid "Transparency of the color."
+msgstr "වර්‍ණයේ විනිවිද භාවය"
+
+msgid "Turn off verbose output"
+msgstr "දිර්ඝව ප්‍රථිධානය නවත් වන්න"
+
+msgid "Two Sided"
+msgstr "දෙපැත්ත"
+
+msgid "Type a file name"
+msgstr "ගොනු නමක් යොදන්න"
+
+msgid "Type hint"
+msgstr "වර්‍ග ඉඟිය"
+
+msgid "Type name of new folder"
+msgstr "නව බහලුමේ  නම ඇතුලත් කරන්න"
+
+msgid "UPS"
+msgstr "UPS"
+
+msgid "UPSs"
+msgstr "UPS"
+
+msgid "US Legal Extra"
+msgstr "US ලීගල් අමතර"
+
+msgid "US Letter"
+msgstr "US ලෙටර්"
+
+msgid "US Letter Extra"
+msgstr "US ලෙටර් අමතර"
+
+msgid "US Letter Plus"
+msgstr "US ලෙටර් විශේෂ"
+
+msgid "Unable to find an item with URI '%{string}'"
+msgstr "'%{string}' URI සමඟ අයිතමය සොයාගත නොහැකි විය"
+
+msgid "Unable to find include file: \"%{string}\""
+msgstr "ඇතුලත් ගොනුව සෙවිය නොහැක: \"%{string}\""
+
+msgid "Unable to locate image file in pixmap_path: \"%{string}\""
+msgstr "pixmap_path තුළ පිළිඹිබුව ස්ථාපනය කළ නොහැකි විය: \"%{string}\""
+
+msgid "Unclassified"
+msgstr "වර්ගිකරණය නොකළ"
+
+msgid "Underline"
+msgstr "යටි ඉර"
+
+msgid "Underline set"
+msgstr "යටිඉරි එකතුව"
+
+msgid "Unit"
+msgstr "ඒකකය"
+
+msgid "Unknown"
+msgstr "නොදන්නා"
+
+msgid "Unknown item"
+msgstr "නොදන්නා අයිතමයක්"
+
+msgid "Unknown technology"
+msgstr "නොදන්නා කාලයක්"
+
+msgid "Unspecified error"
+msgstr "විශේෂිත නොවු දෝෂයක්"
+
+msgid "Unvisited Link Color"
+msgstr "භාවිතා නොකළ පුරුක් වර්‍ණය"
+
+msgid "Up Path"
+msgstr "ඉහළ මාර්‍ගය"
+
+msgid "Urgent"
+msgstr "හදිසි"
+
+msgid "Use alpha"
+msgstr "ඇල්ෆා භාවිතා කරන්න"
+
+msgid "Use underline"
+msgstr "යටි ඉර භාවිතා කරන්න"
+
+msgid "Username:"
+msgstr "නම වෙනස් කිරීම (_R)"
+
+msgid "Value"
+msgstr "අගය"
+
+msgid "Vertical Alignment"
+msgstr "සිරස් පෙළ ගැස්ම"
+
+msgid "Vertical alignment"
+msgstr "සිරස් පෙළ ගැස්ම"
+
+msgid "Vertical alignment for child"
+msgstr "child සඳහා වූ සිරස් එකෙලිය"
+
+msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
+msgstr "ලැබී ඇති ඉඩකඩ තුල child හි සිරස් පිහිටුම. 0.0 යනු ඉහලින් එකෙලි කිරීමයි, 1.0 යනු පහලින් එකෙලි කිරීමයි."
+
+msgid "Vertical scale"
+msgstr "සිරස් පරාසය"
+
+msgid "Vertical separation"
+msgstr "සිරස් පරාසය"
+
+msgid "Vietnamese (VIQR)"
+msgstr "වියට්නාමියානු (VIQR)"
+
+msgid "Visible"
+msgstr "දෘශ්‍ය"
+
+msgid "Visible when vertical"
+msgstr "සිරස් පිහිටීමේදී දෘෂ්‍යයි"
+
+msgid "Visited"
+msgstr "දෘශ්‍ය"
+
+msgid "Visited Link Color"
+msgstr "භාවිතා කළ පුරුක් වර්‍ණය"
+
+msgid "Volume"
+msgstr "හඬ"
+
+msgid "Volume Down"
+msgstr "හඬ අඩු කරන්න"
+
+msgid "Volume Up"
+msgstr "හඬ වැඩි කරන්න"
+
+msgid "Waiting"
+msgstr "අවවාදය"
+
+msgid "Warning"
+msgstr "අවවාදය"
+
+msgid "Warning color"
+msgstr "පසුබිම් වර්‍ණය"
+
+msgid "Website URL"
+msgstr "වියුණු අඩවි URL"
+
+msgid "Website label"
+msgstr "වියුණු අඩවි ලේබලය"
+
+msgid "When TRUE, empty menu proxies for this action are hidden."
+msgstr "සත්‍ය විට, මෙම ක්‍රියාව සඳහා සකසා නොමැති proxy"
+
+msgid "When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu."
+msgstr "සත්‍ය නම්, මෙම ක්‍රියාවට අදාල මෙවලම් අයිතම proxies මෙවලම් තීරුවේ, overflow මෙනුවේ නිරූපණය වේ"
+
+msgid "Whether all required fields on the page have been filled out"
+msgstr "පිටුවේ අවශ්‍ය සියළුම ක්‍ෂේත්‍ර පුරවා ඇතිද යන්න"
+
+msgid "Whether extra space given to the child should be allocated to the child or used as padding"
+msgstr "child සඳහා ලබා දුන් අමතර ඉඩකඩ child සඳහාම යොදාගනෙනවාද? නැතහොත් පිරවුමක් ලෙස යොදාගැනෙනවාද යන්න"
+
+msgid "Whether tabs should be shown"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether the action group is enabled."
+msgstr "ක්‍රියා සමුහය සක්‍රීය කර ඇති දැයි බලන්න"
+
+msgid "Whether the action group is visible."
+msgstr "ක්‍රියා සමුහය දෘශ්‍ය දැයි බලන්න"
+
+msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
+msgstr "ක්‍රියාව වැදගත්ද යන්න. සත්‍ය නම්, මෙවලම් අයිතමයේ proxy එක, මෙම ක්‍රියාව අකුරු දිස්වන්නේ GTK_TOOLBAR_BOTH_HORIZ ආකාරයටයි යන්න වේ"
+
+msgid "Whether the action is enabled."
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the action is visible."
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether the application has a selection"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the application prefers to have a dark theme."
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the border should be shown"
+msgstr "සියළුම child වස්තූන් එකම විශාලත්වය ගත යුතුද යන්න"
+
+msgid "Whether the button grabs focus when it is clicked with the mouse"
+msgstr "බොත්තම මත මූසිකය එබූ විට එය තමාට අවධානය ලබා ගන්නවාද යන්න"
+
+msgid "Whether the child should receive extra space when the parent grows"
+msgstr "parent හි විශාලත්වය වැඩි වන විට child සඳහා අමතර ඉඩකඩ ලබාදෙනවාද යන්න"
+
+msgid "Whether the child's tab should fill the allocated area"
+msgstr "සියළුම child වස්තූන් එකම විශාලත්වය ගත යුතුද යන්න"
+
+msgid "Whether the child_displacement_x/_y properties should also affect the focus rectangle"
+msgstr "child_displacement_x/_y පරාමිතීන් අවධාන-සෘජුකෝණාස්‍රයටත් බලපෑම් ඇතිකරයිද යන්න"
+
+msgid "Whether the children should all be the same size"
+msgstr "සියළුම child වස්තූන් එකම විශාලත්වය ගත යුතුද යන්න"
+
+msgid "Whether the device has a cursor"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the dialog supports selection"
+msgstr "ක්‍රියා සමුහය සක්‍රීය කර ඇති දැයි බලන්න"
+
+msgid "Whether the dropdown button is sensitive when the model is empty"
+msgstr "බොත්තම මත මූසිකය එබූ විට එය තමාට අවධානය ලබා ගන්නවාද යන්න"
+
+msgid "Whether the image will always be shown"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether the invisible character has been set"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether the item group should receive extra space when the palette grows"
+msgstr "parent හි විශාලත්වය වැඩි වන විට child සඳහා අමතර ඉඩකඩ ලබාදෙනවාද යන්න"
+
+msgid "Whether the item should fill the available space"
+msgstr "සියළුම child වස්තූන් එකම විශාලත්වය ගත යුතුද යන්න"
+
+msgid "Whether the item should receive extra space when the group grows"
+msgstr "parent හි විශාලත්වය වැඩි වන විට child සඳහා අමතර ඉඩකඩ ලබාදෙනවාද යන්න"
+
+msgid "Whether the item should start a new row"
+msgstr "සියළුම child වස්තූන් එකම විශාලත්වය ගත යුතුද යන්න"
+
+msgid "Whether the label widget should fill all available horizontal space"
+msgstr "සියළුම child වස්තූන් එකම විශාලත්වය ගත යුතුද යන්න"
+
+msgid "Whether the plug is embedded"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the primary icon is activatable"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the primary icon is sensitive"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the secondary icon is activatable"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the secondary icon is sensitive"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the spinner is active"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the status icon is embedded"
+msgstr "මෙම ක්‍රියාව සක්‍රීයද යන්න"
+
+msgid "Whether the status icon is visible"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether the tab is reorderable by user action"
+msgstr "ක්‍රියා සමුහය සක්‍රීය කර ඇති දැයි බලන්න"
+
+msgid "Whether the text can be modified by the user"
+msgstr "පරිශීලකයාට පෙළ සැකසිය හැකි බව"
+
+msgid "Whether the toggle action should be active"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
+msgstr "මෙවලම් තීරුව තිරස් පිහිටීමක ඇතිවිට මෙවලම් අයිතම වල දෘෂ්‍ය බව"
+
+msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
+msgstr "මෙවලම් තීරුව සිරස් පිහිටීමක ඇතිවිට මෙවලම් තීරු අයිතමය දෘෂ්‍යද යන වග"
+
+msgid "Whether the widget is double buffered"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether there is a visible cursor following device motion"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether this link has been visited."
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether this tray icon has a tooltip"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Whether to expand the child's tab"
+msgstr "parent හි child සඳහා වූ අනුක්‍රමික අංකය"
+
+msgid "Whether visited links should be tracked"
+msgstr "මෙම ක්‍රියාව දෘෂ්‍යද යන්න"
+
+msgid "Wide Format"
+msgstr "පළල් සංයුතිය"
+
+msgid "Width"
+msgstr "පළල"
+
+msgid "Width of border around the action area"
+msgstr "වැඩසටහන පිළිබද අදහස්"
+
+msgid "Width of border around the content area"
+msgstr "අන්තර්ගත පිටු වටා පික්සල ප්‍රමාණය"
+
+msgid "Written by"
+msgstr "රචනා කළේ"
+
+msgid "X Input Method"
+msgstr "X ප්‍රධාන ආකාරය"
+
+msgid "X display to use"
+msgstr "භාවිතයට ඇති X දර්ශනය"
+
+msgid "X screen to use"
+msgstr "භාවිතයට ඇති X තිරය"
+
+msgid "X spacing"
+msgstr "ඉඩ තැබීම"
+
+msgid "Xft Hint Style"
+msgstr "Xft ඉඟි ශෛලිය"
+
+msgid "Y spacing"
+msgstr "ඉඩ තැබීම"
+
+msgid "Year"
+msgstr "වසර"
+
+msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
+msgstr "මෙම ඇතුලත් කිරීමට HTML-style දහසයේ පාදයේ වර්‍ණ අගයක් ලෙස හෝ සරලව වර්‍ණයේ නම 'තැබිලි' ලෙස ඇතුලත් කළ හැක."
+
+msgid "Zoom _In"
+msgstr "විශාල කරන්න (_I)"
+
+msgid "Zoom _Out"
+msgstr "කුඩා කරන්න (_O)"
+
+msgid "_About"
+msgstr "සම්බන්ධව (_A)"
+
+msgid "_Add"
+msgstr "එක් කරන්න (_A)"
+
+msgid "_Add to Bookmarks"
+msgstr "පිටු සළකුණු වලට එක් කරන්න"
+
+msgid "_After:"
+msgstr "පසු (_A):"
+
+msgid "_All Pages"
+msgstr "සියළුම පිටු"
+
+msgid "_Apply"
+msgstr "යොද වන්න (_A)"
+
+msgid "_Ascending"
+msgstr "ආරෝහණ (_A)"
+
+msgid "_Billing info:"
+msgstr "බිලේ තොරතුරු (_B):"
+
+msgid "_Blue:"
+msgstr "නිල් (_B):"
+
+msgid "_Bold"
+msgstr "තදකුරු (_B)"
+
+msgid "_Bottom"
+msgstr "පහළ (_B):"
+
+msgid "_Bottom:"
+msgstr "පහළ (_B):"
+
+msgid "_Browse for other folders"
+msgstr "වෙනත් බහලුම් සඳහා සැරිසැරන්න (_B)"
+
+msgid "_CD-ROM"
+msgstr "_CD-Rom"
+
+msgid "_Cancel"
+msgstr "අහෝසි (_C)"
+
+msgid "_Center"
+msgstr "පරිවර්තනය (_C)"
+
+msgid "_Clear"
+msgstr "පැහැදිලි කරන්න (_C)"
+
+msgid "_Clear List"
+msgstr "ලැයිස්තුව පැහැදිලි කරන්න (_C)"
+
+msgid "_Close"
+msgstr "වසන්න (_C)"
+
+msgid "_Color"
+msgstr "වර්‍ණ (_C)"
+
+msgid "_Convert"
+msgstr "පරිවර්තනය (_C)"
+
+msgid "_Copy"
+msgstr "පිටපත් කරන්න (_C)"
+
+msgid "_Delete"
+msgstr "මකන්න (_D)"
+
+msgid "_Descending"
+msgstr "අවරෝහණ (_D)"
+
+msgid "_Discard"
+msgstr "අක්‍රීය"
+
+msgid "_Disconnect"
+msgstr "අසම්බන්ධ (_D)"
+
+msgid "_Domain:"
+msgstr "පිහිටීම (_L):"
+
+msgid "_Down"
+msgstr "දැන් (_N)"
+
+msgid "_Edit"
+msgstr "සැකසුම් (_E)"
+
+msgid "_Execute"
+msgstr "ක්‍රියාත්මක කරන්න (_E)"
+
+msgid "_Family:"
+msgstr "කුළය (_F):"
+
+msgid "_File"
+msgstr "ගොනුවම (_F)"
+
+msgid "_Fill"
+msgstr "ගොනුවම (_F)"
+
+msgid "_Find"
+msgstr "සොයන්න (_F)"
+
+msgid "_First"
+msgstr "ගොනුවම (_F)"
+
+msgid "_Floppy"
+msgstr "නම්‍ය තැටිය (_F)"
+
+msgid "_Font"
+msgstr "අක්‍ෂර (_F)"
+
+msgid "_Format for:"
+msgstr "සඳහා සංයුතිය (_F):"
+
+msgid "_Forward"
+msgstr "ඉදිරියට (_F)"
+
+msgid "_Fullscreen"
+msgstr "සම්පූර්ණ තිරය (_F)"
+
+msgid "_Green:"
+msgstr "කොල (_G):"
+
+msgid "_Hard Disk"
+msgstr "දෘඩ තැටිය (_H)"
+
+msgid "_Height:"
+msgstr "උස (_H):"
+
+msgid "_Help"
+msgstr "සහාය (_H)"
+
+msgid "_Home"
+msgstr "නිවස (_H)"
+
+msgid "_Hue:"
+msgstr "පැහැය (_H):"
+
+msgid "_Index"
+msgstr "පටුන (_I)"
+
+msgid "_Information"
+msgstr "තොරතුරු (_I)"
+
+msgid "_Insert Unicode Control Character"
+msgstr "යුනිකේත පාලන අක්‍ෂර ඇතුලත් කතන්න (_I)"
+
+msgid "_Italic"
+msgstr "ඇලකුරු (_I)"
+
+msgid "_Jump to"
+msgstr "වෙත පනින්න (_J)"
+
+msgid "_Last"
+msgstr "අලවන්න (_P)"
+
+msgid "_Leave Fullscreen"
+msgstr "සම්පූර්ණ තිරයෙන් ඉවත් වන්න (_L)"
+
+msgid "_Left"
+msgstr "වම (_L):"
+
+msgid "_Left:"
+msgstr "වම (_L):"
+
+msgid "_License"
+msgstr "බලපත්‍රය (_L)"
+
+msgid "_Location:"
+msgstr "පිහිටීම (_L):"
+
+msgid "_Name:"
+msgstr "නම (_N):"
+
+msgid "_Network"
+msgstr "ජාලය (_N)"
+
+msgid "_New"
+msgstr "නව (_N)"
+
+msgid "_Next"
+msgstr "නව (_N)"
+
+msgid "_No"
+msgstr "නැත (_N)"
+
+msgid "_Normal Size"
+msgstr "සාමාන්‍ය ප්‍රමාණය (_N)"
+
+msgid "_Now"
+msgstr "දැන් (_N)"
+
+msgid "_OK"
+msgstr "හරි (_O)"
+
+msgid "_Only print:"
+msgstr "පමණක් මුද්‍රණය කරන්න (_O):"
+
+msgid "_Open"
+msgstr "විවෘත කරන්න (_O)"
+
+msgid "_Open Link"
+msgstr "විවෘත කරන්න (_O)"
+
+msgid "_Orientation:"
+msgstr "දිශානතිය (_O):"
+
+msgid "_Output format"
+msgstr "ප්‍රතිධාන සංයුතිය (_O)"
+
+msgid "_Palette:"
+msgstr "වර්‍ණ තැටිය (_P):"
+
+msgid "_Paper size:"
+msgstr "පිටු ප්‍රමාණය (_P):"
+
+msgid "_Password:"
+msgstr "පීඩනය (_P):"
+
+msgid "_Paste"
+msgstr "අලවන්න (_P)"
+
+msgid "_Places"
+msgstr "ස්ථාන (_P)"
+
+msgid "_Play"
+msgstr "ස්ථාන (_P)"
+
+msgid "_Preferences"
+msgstr "අභිප්‍රේත (_P)"
+
+msgid "_Preview:"
+msgstr "පෙර දැක්ම (_P):"
+
+msgid "_Print"
+msgstr "මුද්‍රණය (_P)"
+
+msgid "_Properties"
+msgstr "වත්කම් (_P)"
+
+msgid "_Quit"
+msgstr "පිට වන්න (_Q)"
+
+msgid "_Record"
+msgstr "පටිගත කරන්න (_R)"
+
+msgid "_Red:"
+msgstr "රතු (_R):"
+
+msgid "_Redo"
+msgstr "යළි කරන්න (_R)"
+
+msgid "_Refresh"
+msgstr "ප්‍රබෝධ කරීම (_R)"
+
+msgid "_Remove"
+msgstr "ඉවත් කරන්න (_R)"
+
+msgid "_Remove From List"
+msgstr "ලැයිස්තුවෙන් ඉවත් කරන්න (_R)"
+
+msgid "_Replace"
+msgstr "ආදේශය (_R)"
+
+msgid "_Reverse"
+msgstr "ප්‍රතිවර්තනය (_R)"
+
+msgid "_Revert"
+msgstr "පෙර තත්වයට පත් කිරීම (_R)"
+
+msgid "_Right"
+msgstr "දකුණ (_R):"
+
+msgid "_Right:"
+msgstr "දකුණ (_R):"
+
+msgid "_Saturation:"
+msgstr "සංතෘප්ත බව (_S):"
+
+msgid "_Save"
+msgstr "සුරකින්න (_S)"
+
+msgid "_Save color here"
+msgstr "මෙතැන වර්‍ණය සුරකින්න (_S)"
+
+msgid "_Save in folder:"
+msgstr "බහලුම තුළ සුරකින්න (_S):"
+
+msgid "_Spell Check"
+msgstr "අක්‍ෂරවින්‍යාසය පරීක්‍ෂාව (_S)"
+
+msgid "_Stop"
+msgstr "නතර කරන්න (_S)"
+
+msgid "_Style:"
+msgstr "රටාව (_S):"
+
+msgid "_Top"
+msgstr "ඉහළ (_T):"
+
+msgid "_Top:"
+msgstr "ඉහළ (_T):"
+
+msgid "_Undelete"
+msgstr "නොමකන්න (_U)"
+
+msgid "_Underline"
+msgstr "යටි ඉර (_U)"
+
+msgid "_Undo"
+msgstr "අහෝසි (_U)"
+
+msgid "_Username:"
+msgstr "නම වෙනස් කිරීම (_R)"
+
+msgid "_Value:"
+msgstr "අගය (_V):"
+
+msgid "_Width:"
+msgstr "පළල (_W):"
+
+msgid "_Yes"
+msgstr "ඔව් (_Y)"
+
+msgid "_comment"
+msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/si.po by load_po_file"
+
+msgid "a2 Envelope"
+msgstr "a2 ඇවුරුම"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "abcdefghijk ABCDEFGHIJK"
+
+msgid "asme_f"
+msgstr "නම"
+
+msgid "c5 Envelope"
+msgstr "c5 ඇවුරුම"
+
+msgid "calendar:MY"
+msgstr "දින දර්ශනය:MY"
+
+msgid "calendar:week_start:0"
+msgstr "දින දර්ශනය:week_start:0"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "ellipsize"
+msgstr "ප්‍රති ප්‍රමාණය"
+
+msgid "hagaki (postcard)"
+msgstr "හගකී (postcard)"
+
+msgid "height"
+msgstr "උස"
+
+msgid "inch"
+msgstr "අඟල්"
+
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+msgid "kahu Envelope"
+msgstr "කහු ඇවුරුම"
+
+msgid "kaku2 Envelope"
+msgstr "කහු2 ඇවුරුම"
+
+msgid "mm"
+msgstr "මි.මි."
+
+msgid "mode"
+msgstr "ආකාරය"
+
+msgid "oufuku (reply postcard)"
+msgstr "ඔඋෆුකු (පිළිතුරු තැපැල්පත)"
+
+msgid "paused"
+msgstr "නවතා ඇත"
+
+msgid "prc1 Envelope"
+msgstr "prc1 ඇවුරුම"
+
+msgid "prc10 Envelope"
+msgstr "prc10 ඇවුරුම"
+
+msgid "prc2 Envelope"
+msgstr "prc2 ඇවුරුම"
+
+msgid "prc3 Envelope"
+msgstr "prc3 ඇවුරුම"
+
+msgid "prc4 Envelope"
+msgstr "prc4 ඇවුරුම"
+
+msgid "prc5 Envelope"
+msgstr "c5 ඇවුරුම"
+
+msgid "prc6 Envelope"
+msgstr "prc6 ඇවුරුම"
+
+msgid "prc7 Envelope"
+msgstr "prc7 ඇවුරුම"
+
+msgid "prc8 Envelope"
+msgstr "prc8 ඇවුරුම"
+
+msgid "prc9 Envelope"
+msgstr "prc1 ඇවුරුම"
+
+msgid "printer offline"
+msgstr "මුද්‍රණ යන්ත්‍රය අක්‍රීයව ඇත"
+
+msgid "ready to print"
+msgstr "%{number} සූදානම් කරමින්"
+
+msgid "unknown"
+msgstr "(නොදන්නා)"
+
+msgid "visible"
+msgstr "දෘශ්‍ය"
+
+msgid "width"
+msgstr "පළල"
+
+msgid "xalign"
+msgstr "x ඇලය"
+
+msgid "yalign"
+msgstr "y ඇලය"
+
+msgid "you4 Envelope"
+msgstr "යු4 ඇවුරුම"
