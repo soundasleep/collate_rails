@@ -24,7 +24,7 @@ module FastGettext
         end
       end
 
-      # try lowercase
+      # for capitalized strings
       if !template
         if string.capitalize == string
           if !template
@@ -34,12 +34,32 @@ module FastGettext
         end
       end
 
-      # try capitalize
+      # for lowercase strings
       if !template
         if string.downcase == string
           if !template
             template = FastGettext.cached_find(string.capitalize)
             template = template.downcase if template
+          end
+
+          if !template
+            template = FastGettext.cached_find(titleize(string))
+            template = template.downcase if template
+          end
+        end
+      end
+
+      # for titleized strings e.g. "Open Source"
+      if !template
+        if titleize(string) == string
+          if !template
+            template = FastGettext.cached_find(string.capitalize)
+            template = titleize(template) if template
+          end
+
+          if !template
+            template = FastGettext.cached_find(string.downcase)
+            template = titleize(template) if template
           end
         end
       end
@@ -59,6 +79,12 @@ module FastGettext
       end
 
       template % args
+    end
+
+    private
+
+    def titleize(s)
+      s.split(" ").map(&:capitalize).join(" ")
     end
   end
 end

@@ -59,6 +59,7 @@ Now you can update your views as necessary:
 
   t("Key") ~= t("key").capitalize
   t("key") ~= t("key").downcase
+  t("Key Abc") ~= t("key abc").titleize
 ```
 
 ## TODO
