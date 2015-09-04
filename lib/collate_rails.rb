@@ -24,6 +24,11 @@ module FastGettext
         end
       end
 
+      if !template && string[0] == "(" && string[-1] == ")"
+        template = FastGettext.cached_find(string[1...(string.length - 2)])
+        template = "(#{template})" if template
+      end
+
       # for capitalized strings
       if !template
         if string.capitalize == string
