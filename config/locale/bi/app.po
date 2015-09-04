@@ -1,8 +1,0 @@
-msgid "Copy"
-msgstr "Kopiem"
-
-msgid "Stop"
-msgstr "Stopem"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/bi.po by load_po_file"

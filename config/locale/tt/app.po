@@ -1,1778 +1,476 @@
 msgid "(None)"
 msgstr "(Buş)"
 
-msgid "A GdkPixbuf to display"
-msgstr "Kürsätäse GdkPixbuf"
-
-msgid "A file named \"%{string}\" already exists.  Do you want to replace it?"
-msgstr "\"%{string}\" digän birem bar inde.  Anı almaştırası kiläme?"
-
-msgid "Accel Group"
-msgstr "Eş Törkeme"
-
-msgid "Accept focus"
-msgstr "Eş üzägen alu"
-
-msgid "Accepting Jobs"
-msgstr "Eş üzägen alu"
-
-msgid "Accepts PDF"
-msgstr "Eş üzägen alu"
-
-msgid "Accepts PostScript"
-msgstr "Eş üzägen alu"
+msgid "(none)"
+msgstr "(юк)"
 
 msgid "Action"
-msgstr "Ğämäl"
-
-msgid "Action Group"
-msgstr "Eş Törkeme"
+msgstr "Гамәлләр"
 
 msgid "Active"
-msgstr "Sälätle"
+msgstr "Актив"
 
-msgid "Align set"
-msgstr "Urınlaşu"
+msgid "Add"
+msgstr "Өстәү"
+
+msgid "Align"
+msgstr "Тигезләү"
 
 msgid "Alignment"
-msgstr "Urınlaşu"
+msgstr "Турайту"
 
-msgid "All Margins"
-msgstr "Çik"
+msgid "All"
+msgstr "Бөтенесе"
 
-msgid "Amharic (EZ+)"
-msgstr "Amhar (EZ+)"
+msgid "All files"
+msgstr "Барлык файллар"
 
 msgid "Angle"
-msgstr "Borılış"
-
-msgid "Animation"
-msgstr "_Canlandıru"
-
-msgid "Animation duration"
-msgstr "_Canlandıru"
-
-msgid "Any Printer"
-msgstr "_Bastıru"
-
-msgid "Arrow Placement"
-msgstr "Täräzä Urınlaşuı"
-
-msgid "Arrow Size"
-msgstr "Tamğa Ülçäme"
-
-msgid "Arrow scaling"
-msgstr "Tamğa Ülçäme"
-
-msgid "Arrow spacing"
-msgstr "Tamğa Ülçäme"
-
-msgid "Attach Widget"
-msgstr "Östämä widget"
+msgstr "Почмак"
 
 msgid "Attributes"
-msgstr "Üzençälege"
+msgstr "Аттрибутлар"
 
-msgid "Authors"
-msgstr "Yazuçı"
+msgid "Automatic"
+msgstr "Автоматик рәвештә"
 
-msgid "Auto Mnemonics"
-msgstr "_Canlandıru"
-
-msgid "Auto Select"
-msgstr "Yazu Saylaw"
-
-msgid "BackSpace"
-msgstr "_Almaştır"
+msgid "Background"
+msgstr "Җирлек"
 
 msgid "Background color"
-msgstr "Asyaq Töse"
+msgstr "Җирлекнең төсе"
 
-msgid "Background color as a GdkColor"
-msgstr "Asyaq töse, GdkColor kileş"
+msgid "Blue"
+msgstr "Зәңгәр"
 
-msgid "Background color as a string"
-msgstr "Asyaq töse, süz kileş"
+msgid "CMYK"
+msgstr "CMYK"
 
-msgid "Background color name"
-msgstr "Asyaq tös adı"
-
-msgid "Background set"
-msgstr "Asyaq saylaw"
-
-msgid "Border around the progress bar"
-msgstr "Bu yazılım açıqlaması"
-
-msgid "Border width"
-msgstr "Çik qalınlığı"
-
-msgid "Brightness of the color."
-msgstr "Tösneñ yaqtılığı."
-
-msgid "Buffer"
-msgstr "Eşxäter"
-
-msgid "Button spacing"
-msgstr "Töymä arası"
-
-msgid "CLASS"
-msgstr "SIYNIF"
-
-msgid "COLORS"
-msgstr "TÖSLÄR"
-
-msgid "C_ollate"
-msgstr "_Yasa"
-
-msgid "C_onnect"
-msgstr "&Totaş"
-
-msgid "C_redits"
-msgstr "_Räxmät"
-
-msgid "C_urrent Page"
-msgstr "_Yasa"
-
-msgid "Caps Lock is on"
-msgstr "_Urınlaşu Açu"
-
-msgid "Child"
-msgstr "Bala"
-
-msgid "Clickable"
-msgstr "Çirtmäle"
-
-msgid "Co_nnect"
-msgstr "&Totaş"
+msgid "Circle"
+msgstr "Түгәрәк"
 
 msgid "Color"
-msgstr "_Tös"
+msgstr "Төс"
 
-msgid "Color Selection"
-msgstr "Saylaw ısulı"
+msgid "Comment"
+msgstr "Комментарий"
 
-msgid "Color Wheel"
-msgstr "Tös Tägärmäçe"
+msgid "Comments"
+msgstr "Комментлар"
 
-msgid "Color _name:"
-msgstr "Tös _Adı:"
-
-msgid "Color of unvisited links"
-msgstr "Terebäy töse"
-
-msgid "Color of visited links"
-msgstr "Terebäy töse"
-
-msgid "Column Spacing"
-msgstr "Buy Arası"
-
-msgid "Column spacing"
-msgstr "Buy arası"
-
-msgid "Columns"
-msgstr "Buy sanı"
-
-msgid "Comments about the program"
-msgstr "Bu yazılım açıqlaması"
-
-msgid "Comments string"
-msgstr "Açıqlama yazma"
-
-msgid "Content Padding"
-msgstr "Eçke çigenü"
-
-msgid "Content area border"
-msgstr "Eçtälek alanınıñ çige"
-
-msgid "Content area spacing"
-msgstr "Eçke çigenü"
-
-msgid "Copy URL"
-msgstr "_İskä al"
-
-msgid "Copy _Location"
-msgstr "_Urınlaşu Açu"
-
-msgid "Copy target list"
-msgstr "Qälämxaq yazması"
-
-msgid "Copyright information for the program"
-msgstr "Bu yazılımğa qälämxaq turında beleşmä"
-
-msgid "Copyright string"
-msgstr "Qälämxaq yazması"
-
-msgid "Could not add a bookmark"
-msgstr "Bitbilge östäp bulmadı"
-
-msgid "Could not clear list"
-msgstr "Kerem saylap bulmadı"
-
-msgid "Could not read the contents of the folder"
-msgstr "Birem saylap bulmadı"
-
-msgid "Could not remove bookmark"
-msgstr "Bitbilge beterep bulmadı"
-
-msgid "Could not remove item"
-msgstr "Kerem saylap bulmadı"
-
-msgid "Could not rename %{string} to %{string}: %{string}\n"
-msgstr "%{string} tağıp bulmadı"
-
-msgid "Could not retrieve information about the file"
-msgstr "Bu birem turında beleşmä alıp bulmadı"
-
-msgid "Could not select file"
-msgstr "Birem saylap bulmadı"
-
-msgid "Could not send the search request"
-msgstr "Kerem saylap bulmadı"
-
-msgid "Could not show link"
-msgstr "Kerem saylap bulmadı"
-
-msgid "Create Fo_lder"
-msgstr "_Törgäk Yasaw"
-
-msgid "Create in _folder:"
-msgstr "_Törgäktä yasísı:"
-
-msgid "Credits"
-msgstr "Qatnaşqanı"
-
-msgid "Credits to the translators. This string should be marked as translatable"
-msgstr "Albert Fazlí"
+msgid "Configuration"
+msgstr "Көйләү"
 
 msgid "Cu_t"
 msgstr "_Kisep al"
 
-msgid "Current Color"
-msgstr "Ağımdağı Tös"
+msgid "Cut"
+msgstr "Кисү"
 
-msgid "Current Page"
-msgstr "Ağımdağı Tös"
-
-msgid "Cursor"
-msgstr "Kürsär Cemeldäy"
-
-msgid "Cursor Blink"
-msgstr "Kürsär Cemeldäy"
-
-msgid "Cursor Blink Timeout"
-msgstr "Kürsär Cemeldäy"
-
-msgid "Cursor Visible"
-msgstr "Kürenmäle Kürsär"
-
-msgid "Cursor position"
-msgstr "Y bäyäse"
-
-msgid "Cyrillic (Transliterated)"
-msgstr "Urıs (Translit)"
-
-msgid "DISPLAY"
-msgstr "KÜRÄK"
+msgid "Cyan"
+msgstr "Зәнгәрсу"
 
 msgid "Day"
-msgstr "Kön"
-
-msgid "Decorated"
-msgstr "Bizäklängän"
-
-msgid "Decrease Indent"
-msgstr "Çigeş Kimetü"
+msgstr "Көн"
 
 msgid "Delete"
-msgstr "_Beter"
+msgstr "Бетерү"
 
-msgid "Desktop"
-msgstr "Östälös"
+msgid "Desaturate"
+msgstr "Сорылайту"
 
-msgid "Detail"
-msgstr "Cöziräk"
+msgid "Description"
+msgstr "Тасвирлама"
 
-msgid "Details Height"
-msgstr "Bieklek"
-
-msgid "Details Width"
-msgstr "Cöziräk"
-
-msgid "Device name"
-msgstr "Widget adı"
-
-msgid "Device type"
-msgstr "Käkre Töre"
+msgid "Description..."
+msgstr "Тасвирлама..."
 
 msgid "Dialog"
-msgstr "Dialog"
+msgstr "Диалог"
 
-msgid "Digits"
-msgstr "Sannar"
+msgid "Direction"
+msgstr "Юнәлеш"
 
-msgid "Disabled"
-msgstr "Sünek"
+msgid "Documents"
+msgstr "Документлар"
 
-msgid "Documented by"
-msgstr "Qullanma"
+msgid "Double spaces"
+msgstr "Икеле ара"
 
-msgid "Documenters"
-msgstr "Qullanmaçılar"
+msgid "E-mail"
+msgstr "Электрон почтасы"
 
-msgid "Domain:"
-msgstr "_Urnaşılu:"
-
-msgid "Double Buffered"
-msgstr "Eşxäter"
-
-msgid "Double Click Time"
-msgstr "İkele Çirtü Arası"
-
-msgid "Draw"
-msgstr "Sızıp çığu"
-
-msgid "Editable"
-msgstr "Tözätmäle"
-
-msgid "Embed Page Setup"
-msgstr "Bit Ülçäme"
-
-msgid "Empty"
-msgstr "Buş"
-
-msgid "Enable Accelerators"
-msgstr "_Canlandıru"
-
-msgid "Enable Animations"
-msgstr "_Canlandıru"
-
-msgid "Enable Event Sounds"
-msgstr "_Canlandıru"
-
-msgid "Enable Grid Lines"
-msgstr "_Canlandıru"
-
-msgid "Enable Mnemonics"
-msgstr "_Canlandıru"
-
-msgid "Enable Tooltips"
-msgstr "Qoralkiñäş"
+msgid "Edit"
+msgstr "Үзгәртү"
 
 msgid "Error"
-msgstr "Xata"
-
-msgid "Error color"
-msgstr "Ösyaq Töse"
-
-msgid "Event base"
-msgstr "Buldıqlar"
+msgstr "Хата"
 
 msgid "Events"
-msgstr "Buldıqlar"
-
-msgid "Executive"
-msgstr "_Eşlät"
+msgstr "Вакыйгалар"
 
 msgid "Expand"
-msgstr "Cäyep quy"
-
-msgid "Expand timeout"
-msgstr "Cäyep quy"
-
-msgid "Export filename"
-msgstr "Birem adı"
-
-msgid "Extra widget"
-msgstr "Östämä widget"
-
-msgid "FLAGS"
-msgstr "BAYIRAQ"
-
-msgid "Failed to load icon"
-msgstr "TIFF-sürät yökläp bulmadı"
-
-msgid "Failed to write folder index\n"
-msgstr "Çaqlı biremnän uqıp bulmadı"
+msgstr "Ачып җибәрү"
 
 msgid "File"
-msgstr "Biremnär"
+msgstr "Файл"
 
-msgid "File System"
-msgstr "Birem Sisteme"
-
-msgid "File System Root"
-msgstr "Birem Sisteme"
-
-msgid "File not found: %{string}\n"
-msgstr "%{string} tağıp bulmadı"
-
-msgid "Filename"
-msgstr "Birem adı"
+msgid "File Type"
+msgstr "Файл төре"
 
 msgid "Files"
-msgstr "Biremnär"
+msgstr "Файллар"
 
 msgid "Fill"
-msgstr "Tutıru"
+msgstr "Файл"
 
 msgid "Filter"
-msgstr "Sözgeç"
+msgstr "Сөзгеч (Фильтр)"
 
-msgid "Find and _Replace"
-msgstr "Tap ta _Almaştır"
+msgid "Filters"
+msgstr "Сөзгечләр"
 
-msgid "Finished"
-msgstr "_Ezläw"
+msgid "Flip"
+msgstr "Кире чагылдыру"
 
-msgid "Fixed Width"
-msgstr "Berkiñle"
-
-msgid "Folio"
-msgstr "_Tös"
+msgid "Folder"
+msgstr "Каталог"
 
 msgid "Font"
-msgstr "Yazu"
-
-msgid "Font Name"
-msgstr "Yazu Adı"
-
-msgid "Font Selection"
-msgstr "Yazu Saylaw"
-
-msgid "Font description as a PangoFontDescription struct"
-msgstr "Yazu açıqlaması, PangoFontDescription tözeleşe kileş"
-
-msgid "Font family"
-msgstr "Yazu ğäiläse"
-
-msgid "Font family set"
-msgstr "Yazu ğäiläsen saylaw"
-
-msgid "Font name"
-msgstr "Yazu adı"
-
-msgid "Font points"
-msgstr "Yazu ülçäme"
+msgstr "Хәреф"
 
 msgid "Font size"
 msgstr "Yazu ülçäme"
 
-msgid "Font size in points"
-msgstr "Yazu ülçäme, taplap"
-
-msgid "Font size set"
-msgstr "Yazu ülçämen saylaw"
-
-msgid "Font stretch"
-msgstr "Yazu suzdıru"
-
-msgid "Font stretch set"
-msgstr "Yazu suzılışın saylaw"
-
-msgid "Font style"
-msgstr "Yazu töre"
-
-msgid "Font style set"
-msgstr "Yazu bizüen saylaw"
-
-msgid "Font variant"
-msgstr "Yazu törlege"
-
-msgid "Font variant set"
-msgstr "Yazu tören saylaw"
-
-msgid "Font weight"
-msgstr "Yazu kiñlege"
-
-msgid "Font weight set"
-msgstr "Yazu qalınlığın saylaw"
+msgid "Fonts"
+msgstr "Хәреф"
 
 msgid "Foreground color"
 msgstr "Ösyaq Töse"
 
-msgid "Foreground color as a GdkColor"
-msgstr "Ösyaq töse, GdkColor kileş"
+msgid "Functions"
+msgstr "Функцияләр"
 
-msgid "Foreground color as a string"
-msgstr "Ösyaq töse, süz kileş"
+msgid "General"
+msgstr "Гомуми"
 
-msgid "Foreground color for symbolic icons"
-msgstr "Ösyaq töse, süz kileş"
+msgid "Gradient"
+msgstr "Градиент"
 
-msgid "Foreground color name"
-msgstr "Ösyaq tös adı"
+msgid "Gradients"
+msgstr "Градиент"
 
-msgid "GIcon"
-msgstr "Tamğa"
-
-msgid "GTK+ Options"
-msgstr "GTK+ Caylaw"
-
-msgid "Grid line width"
-msgstr "Çik qalınlığı"
+msgid "Green"
+msgstr "Яшел"
 
 msgid "Group"
-msgstr "Törkem"
-
-msgid "Group Name"
-msgstr "Törkem"
-
-msgid "Has Selection"
-msgstr "Saylaw ısulı"
-
-msgid "Has tooltip"
-msgstr "Qoralkiñäş"
-
-msgid "Header Padding"
-msgstr "Çigeneş"
-
-msgid "Header Relief"
-msgstr "Bu bäyä"
-
-msgid "Header Spacing"
-msgstr "Çigeneş"
-
-msgid "Header image"
-msgstr "Bu bäyä"
+msgstr "Төркем"
 
 msgid "Height"
-msgstr "Bieklek"
+msgstr "Биеклек"
 
-msgid "Home"
-msgstr "Anabit"
+msgid "Help"
+msgstr "Белешмә"
 
-msgid "Horizontal Offset"
-msgstr "Yatma Çigeş"
-
-msgid "Horizontal Padding"
-msgstr "Yatma erelege"
-
-msgid "Horizontal Scroll Arrow Length"
-msgstr "Yatma erelege"
-
-msgid "Horizontal scale"
-msgstr "Yatma erelege"
-
-msgid "Horizontal separation"
-msgstr "Yatma Çigeş"
-
-msgid "IM module"
-msgstr "ısul"
-
-msgid "IPA"
-msgstr "İPA"
+msgid "Horizontal"
+msgstr "Горизонталь"
 
 msgid "Icon"
 msgstr "Tamğa"
 
-msgid "Icon Name"
-msgstr "Tamğa Adı"
-
-msgid "Icon Prelight"
-msgstr "Bieklek"
-
-msgid "Icon Sizes"
-msgstr "Tamğa Ülçäme"
-
-msgid "Icon name"
-msgstr "Tamğa adı"
-
-msgid "Icon set"
-msgstr "Tamğa quşu"
-
-msgid "Icon size"
-msgstr "Tamğa ülçäme"
-
-msgid "Icon spacing"
-msgstr "Töymä arası"
-
 msgid "Icons"
-msgstr "Tamğa"
-
-msgid "Ignore hidden"
-msgstr "Yäşerengä qarama"
+msgstr "Билгечекләр"
 
 msgid "Image"
-msgstr "Sürät"
-
-msgid "Image position"
-msgstr "X bäyäse"
-
-msgid "Image spacing"
-msgstr "Bäyä arası"
-
-msgid "Increase Indent"
-msgstr "Çiğeş Arttıru"
+msgstr "Сурәт"
 
 msgid "Indent"
-msgstr "Çigenü"
+msgstr "Аралык"
 
-msgid "Index 3x5"
-msgstr "_Tezmä"
-
-msgid "Index 5x8"
-msgstr "_Tezmä"
-
-msgid "Indicator size"
-msgstr "Tamğa ülçäme"
+msgid "Info"
+msgstr "Мәгълүмат"
 
 msgid "Information"
-msgstr "Beldermä"
+msgstr "Мәгълумат"
 
-msgid "Inline selection"
-msgstr "Saylaw ısulı"
+msgid "Invert"
+msgstr "Кую"
 
-msgid "Inner Border"
-msgstr "Tezü cayı"
-
-msgid "Inner border"
-msgstr "Tezü cayı"
-
-msgid "Inner border space"
-msgstr "Tezü cayı"
-
-msgid "Input _Methods"
-msgstr "Kertü _Isulları"
-
-msgid "Intensity of the color."
-msgstr "Bu tös tonıqlığı."
-
-msgid "Internal padding"
-msgstr "Eçke çigenü"
-
-msgid "Inuktitut (Transliterated)"
-msgstr "İnuktitut (Translit)"
-
-msgid "Invalid"
-msgstr "Yaraqsız UTF-8"
-
-msgid "Invalid URI"
-msgstr "Yaraqsız UTF-8"
-
-msgid "Invalid argument to CreateDC"
-msgstr "Tamğa başlığı bozıq"
-
-msgid "Invalid file name"
-msgstr "Birem adı yaraqsız"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "Tamğa başlığı bozıq"
-
-msgid "Invalid path"
-msgstr "Yaraqsız UTF-8"
-
-msgid "Inverted"
-msgstr "Äyländrelgän"
-
-msgid "Invisible"
-msgstr "Kürenmäslek"
-
-msgid "Invisible character"
-msgstr "Kürenmäslek bilge"
-
-msgid "Invisible character set"
-msgstr "Kürenmäslek bilge"
-
-msgid "Is Virtual"
-msgstr "Kiräk närsä"
-
-msgid "Is important"
-msgstr "Kiräk närsä"
-
-msgid "Item Orientation"
-msgstr "Yünäleş"
-
-msgid "Item Padding"
-msgstr "Eçke çigenü"
-
-msgid "Job Name"
-msgstr "Tamğa Adı"
-
-msgid "Justification"
-msgstr "Tigezläw"
-
-msgid "KP_Delete"
-msgstr "_Beter"
-
-msgid "KP_Enter"
-msgstr "_Bastıru"
-
-msgid "KP_Home"
-msgstr "_Anabit"
-
-msgid "KP_Page_Down"
-msgstr "KT_Page_Down"
-
-msgid "KP_Right"
-msgstr "_Tösmer:"
-
-msgid "KP_Space"
-msgstr "_Almaştır"
-
-msgid "Label"
-msgstr "Yazma"
-
-msgid "Label fill"
-msgstr "Yazma"
+msgid "Keyboard"
+msgstr "Клавиатура"
 
 msgid "Language"
-msgstr "Tel"
+msgstr "Тел"
 
-msgid "Left Margin"
-msgstr "Suldağı Çik"
-
-msgid "Left gravity"
-msgstr "Suldağı çik"
-
-msgid "Left margin"
-msgstr "Suldağı çik"
+msgid "Languages"
+msgstr "Телләр"
 
 msgid "License"
-msgstr "Şartnämä"
+msgstr "Лицензия"
 
-msgid "License Type"
-msgstr "Täräzä Töre"
-
-msgid "Line wrap"
-msgstr "Yul törü"
-
-msgid "Line wrap mode"
-msgstr "Yul törü"
-
-msgid "List of people documenting the program"
-msgstr "Bu yazılımğa qullanma äzerlägän keşelär"
-
-msgid "Load additional GTK+ modules"
-msgstr "GTK+ quşılmaların yökläw"
+msgid "Line"
+msgstr "Сызык"
 
 msgid "Location"
-msgstr "Ğämäl"
+msgstr "Урыннар"
 
-msgid "Logo"
-msgstr "Logo"
-
-msgid "Lower"
-msgstr "Tübäne"
-
-msgid "MODULES"
-msgstr "QUŞILMA"
-
-msgid "Margin"
-msgstr "Çik"
-
-msgid "Margin on Left"
-msgstr "Çik"
-
-msgid "Margin on Top"
-msgstr "Çik"
-
-msgid "Marked up text to render"
-msgstr "Sızıp çığarası yazma bilgeläw"
-
-msgid "Markup"
-msgstr "Bitläw"
-
-msgid "Max Size"
-msgstr "Ülçäm Çikläw"
-
-msgid "Maximum Value"
-msgstr "Öske Bäyä"
-
-msgid "Maximum age of recently used files, in days"
-msgstr "Buylar sanı"
-
-msgid "Maximum child expand"
-msgstr "Öske Bäyä"
+msgid "Magenta"
+msgstr "Куе кызыл"
 
 msgid "Menu"
-msgstr "Saylaq"
+msgstr "Меню"
 
-msgid "Metric"
-msgstr "Meterle"
-
-msgid "Minimum Value"
-msgstr "Asqı Bäyä"
-
-msgid "Minimum horizontal bar height"
-msgstr "Yatma erelege"
-
-msgid "Minimum horizontal bar width"
-msgstr "Yatma erelege"
-
-msgid "Minimum vertical bar height"
-msgstr "Yatma erelege"
+msgid "Message"
+msgstr "Хәбәр"
 
 msgid "Mode"
-msgstr "Isul"
+msgstr "Күчереп кую"
 
-msgid "Model"
-msgstr "Töre"
+msgid "Module"
+msgstr "Модуль"
 
-msgid "Modified"
-msgstr "Üzgärelde"
+msgid "Modules"
+msgstr "Модульләр"
 
-msgid "Monitor"
-msgstr "Ay"
+msgid "More..."
+msgstr "Күбрәк..."
 
-msgid "Month"
-msgstr "Ay"
-
-msgid "NAME"
-msgstr "ATAMA"
+msgid "Move"
+msgstr "Күчереп кую"
 
 msgid "Name"
-msgstr "İsem"
+msgstr "Исеме"
 
-msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
-msgstr "Yazu ğäiläse adı, ü.ö. Sans, Helvetica, Times, Monospace"
+msgid "Navigation"
+msgstr "Навигация"
 
-msgid "Name of the printer"
-msgstr "Widget adı"
+msgid "Next"
+msgstr "Киләсе"
 
-msgid "New accelerator..."
-msgstr "Yaña tizlätkeç..."
-
-msgid "No items found"
-msgstr "XPM başlığı tabılmadı"
-
-msgid "No pre-filtering"
-msgstr "XPM başlığı tabılmadı"
-
-msgid "No printer found"
-msgstr "XPM başlığı tabılmadı"
+msgid "No"
+msgstr "Юк"
 
 msgid "None"
-msgstr "(Buş)"
+msgstr "Юк"
 
-msgid "Not enough free memory"
-msgstr "Tamğa yöklärlek xäter citmi"
+msgid "Normal"
+msgstr "Гади"
 
-msgid "Num Lock is on"
-msgstr "_Urınlaşu Açu"
+msgid "Numbers"
+msgstr "Саннар"
 
-msgid "Number of Pages"
-msgstr "Kanallar Sanı"
+msgid "Open"
+msgstr "Ачу"
 
-msgid "Number of Pages To Print"
-msgstr "Kanallar Sanı"
-
-msgid "Number of axes in the device"
-msgstr "Widget adı"
-
-msgid "Number of columns"
-msgstr "Buylar sanı"
-
-msgid "Number of pixels around the content pages."
-msgstr "Widget adı"
-
-msgid "Number of pixels around the header."
-msgstr "Widget adı"
-
-msgid "Number of recently used files"
-msgstr "Buylar sanı"
-
-msgid "Number of steps"
-msgstr "Kanallar Sanı"
-
-msgid "Numeric"
-msgstr "Sanlı"
-
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr "Yazunıñ töp sızıqtan öskä çigeneşe (bäyäse tiskären bulğanda ul asqa çigenä)"
-
-msgid "On _hold"
-msgstr "_Qalın"
-
-msgid "Op_acity:"
-msgstr "_Tonıqlıq:"
-
-msgid "Or_ientation:"
-msgstr "_Quyılıq:"
+msgid "Options"
+msgstr "Көйләүләр"
 
 msgid "Orientation"
-msgstr "Yünäleş"
-
-msgid "Other..."
-msgstr "Başqa..."
-
-msgid "P_ause"
-msgstr "Ös_täp quy"
-
-msgid "Padding"
-msgstr "Çigeneş"
+msgstr "Ориентация"
 
 msgid "Page"
-msgstr "Bit"
-
-msgid "Page Ordering"
-msgstr "Kisätmä"
-
-msgid "Page Setup"
-msgstr "Bit Ülçäme"
-
-msgid "Page Size"
-msgstr "Bit Ülçäme"
-
-msgid "Page complete"
-msgstr "Bit Ülçäme"
-
-msgid "Page or_dering:"
-msgstr "Ü_zençälege"
-
-msgid "Page title"
-msgstr "Bit Ülçäme"
-
-msgid "Page type"
-msgstr "Bit Ülçäme"
+msgstr "Бит"
 
 msgid "Pages"
-msgstr "_Almaştır"
+msgstr "Битләр"
 
-msgid "Pages Per Sheet"
-msgstr "Sürät böyeklege nülgä tiñ"
+msgid "Password"
+msgstr "Серсүзе"
 
-msgid "Pages per Sheet"
-msgstr "Sürät böyeklege nülgä tiñ"
+msgid "Path"
+msgstr "Файл системасындагы адрес"
 
-msgid "Pages per _side:"
-msgstr "Ü_zençälege"
-
-msgid "Paper Size"
-msgstr "Ü_zençälege"
-
-msgid "Parent"
-msgstr "Aşığıç"
-
-msgid "Parent widget"
-msgstr "Ana widget"
-
-msgid "Password:"
-msgstr "Basım"
+msgid "Paths"
+msgstr "Юл"
 
 msgid "Pattern"
 msgstr "Ürnäk"
 
 msgid "Pause"
-msgstr "Ös_täp quy"
-
-msgid "Paused"
-msgstr "Ös_täp quy"
-
-msgid "Paused Printer"
-msgstr "Sözgeç"
-
-msgid "Pick a Color"
-msgstr "Tös Saylaw"
-
-msgid "Pick a Font"
-msgstr "Yazu Saylaw"
-
-msgid "Pixels Above Lines"
-msgstr "Yul Östendä Tap"
-
-msgid "Pixels Below Lines"
-msgstr "Yul Astında Tap"
-
-msgid "Pixels Inside Wrap"
-msgstr "Törü Eçendä Tap"
-
-msgid "Pixels above lines"
-msgstr "Yul östendä tap"
-
-msgid "Pixels below lines"
-msgstr "Yul astında tap"
-
-msgid "Pixels inside wrap"
-msgstr "Törü eçendä tap"
-
-msgid "Portrait"
-msgstr "_Bastıru"
+msgstr "Пауза"
 
 msgid "Position"
-msgstr "Urnaşılu"
+msgstr "Урын"
 
-msgid "Position on the color wheel."
-msgstr "Tös tägärmäçendä alğan urın."
+msgid "Pr_eview"
+msgstr "Сурәт"
 
-msgid "Pre_vious"
-msgstr "U_zğan"
+msgid "Preview"
+msgstr "Сурәт"
 
-msgid "Preparing"
-msgstr "Kisätmä"
-
-msgid "Preparing to print"
-msgstr "Kisätmä"
-
-msgid "Preview text"
-msgstr "Yazmağa küzätü"
-
-msgid "Primary icon name"
-msgstr "Tamğa adı"
-
-msgid "Primary icon sensitive"
-msgstr "Bieklegen ayırıp"
-
-msgid "Primary icon tooltip markup"
-msgstr "Tamğa adı"
-
-msgid "Primary icon tooltip text"
-msgstr "Bieklegen ayırıp"
-
-msgid "Primary storage type"
-msgstr "Bit Ülçäme"
+msgid "Previous"
+msgstr "Моңарчыгы"
 
 msgid "Print"
-msgstr "_Bastıru"
-
-msgid "Print Pre_view"
-msgstr "Bas_ma Küreneşe"
-
-msgid "Print at"
-msgstr "_Bastıru"
-
-msgid "Print at time"
-msgstr "Bas_ma Küreneşe"
-
-msgid "Printer"
-msgstr "Sözgeç"
-
-msgid "Printer Default"
-msgstr "Töpcay"
+msgstr "Бастыру"
 
 msgid "Printing"
-msgstr "_Bastıru"
+msgstr "Бастыру"
 
-msgid "Program name"
-msgstr "Yazılım adı"
+msgid "Progress"
+msgstr "Эш барышы"
 
-msgid "Program version"
-msgstr "Yazılım söreme"
+msgid "Project"
+msgstr "Проект"
 
-msgid "Progress Border"
-msgstr "Tezü cayı"
+msgid "Projects"
+msgstr "Проектлар"
 
-msgid "Progress Fraction"
-msgstr "Yazılım söreme"
+msgid "Properties"
+msgstr "Сыйфатлар"
 
-msgid "Pulse of the spinner"
-msgstr "Widget adı"
+msgid "RGB"
+msgstr "RGB"
 
-msgid "Question"
-msgstr "Soraw"
+msgid "Rate"
+msgstr "Көн"
 
-msgid "R_ewind"
-msgstr "A_rtqa"
-
-msgid "Related Action"
-msgstr "Ğämäl"
+msgid "Red"
+msgstr "Кызыл"
 
 msgid "Remove"
-msgstr "Töşer"
+msgstr "Бетерү"
 
 msgid "Rename..."
-msgstr "Adın üzgärtü..."
+msgstr "Икенче исем кушу..."
 
-msgid "Resize"
-msgstr "Ülçäm"
-
-msgid "Resolution"
-msgstr "Soraw"
+msgid "Replace"
+msgstr "Алыштыру"
 
 msgid "Right"
-msgstr "_Tösmer:"
+msgstr "Уңда"
 
-msgid "Right Margin"
-msgstr "Uñdağı Çik"
-
-msgid "Right margin"
-msgstr "Uñdağı çik"
-
-msgid "Rise"
-msgstr "Kütärtü"
-
-msgid "Rise set"
-msgstr "Kütäreleş"
-
-msgid "Rows"
-msgstr "Yul sanı"
-
-msgid "SCREEN"
-msgstr "KÜRÄK"
-
-msgid "Sans 12"
-msgstr "Sans 12"
-
-msgid "Save _As"
-msgstr "Y_añaça Saqlaw"
-
-msgid "Sc_ale:"
-msgstr "_Bäyä:"
+msgid "Save"
+msgstr "Саклау"
 
 msgid "Screen"
 msgstr "Küräk"
 
-msgid "Scroll arrow spacing"
-msgstr "Töymä arası"
+msgid "Search"
+msgstr "Эзләү"
 
-msgid "Scrollable"
-msgstr "Çornawlı"
+msgid "Select"
+msgstr "Сайлау"
 
-msgid "Scrolled Window Placement"
-msgstr "Täräzä Urınlaşuı"
-
-msgid "Se_lection"
-msgstr "_Saylanu:"
-
-msgid "Secondary"
-msgstr "Almaş"
-
-msgid "Secondary GIcon"
-msgstr "Almaş"
-
-msgid "Secondary Text"
-msgstr "Almaş"
-
-msgid "Secondary icon name"
-msgstr "Almaş"
-
-msgid "Secondary icon sensitive"
-msgstr "Almaş"
-
-msgid "Secondary icon tooltip markup"
-msgstr "Almaş"
-
-msgid "Secondary icon tooltip text"
-msgstr "Almaş"
-
-msgid "Secondary pixbuf"
-msgstr "Almaş"
-
-msgid "Secondary stock ID"
-msgstr "Almaş"
-
-msgid "Secondary storage type"
-msgstr "Almaş"
-
-msgid "Secret"
-msgstr "Küräk"
-
-msgid "Select A File"
-msgstr "Birem Saylaw"
+msgid "Select All"
+msgstr "Барысын сайлау"
 
 msgid "Select _All"
 msgstr "_Barısın Sayla"
 
-msgid "Select a folder"
-msgstr "Birem Saylaw"
+msgid "Selection"
+msgstr "Сайлау"
 
-msgid "Selectable"
-msgstr "Saylanmalı"
-
-msgid "Selected Printer"
-msgstr "Saylaw ısulı"
-
-msgid "Selection mode"
-msgstr "Saylaw ısulı"
-
-msgid "Sensitive"
-msgstr "Sizmäle"
-
-msgid "Shadow Type"
-msgstr "Külägä Töre"
-
-msgid "Shadow type"
-msgstr "Külägä töre"
-
-msgid "Show Border"
-msgstr "Ğiklär Kürsätü"
-
-msgid "Show Details"
-msgstr "Dialog"
-
-msgid "Show Dialog"
-msgstr "Dialog"
-
-msgid "Show Expanders"
-msgstr "Ğiklär Kürsätü"
-
-msgid "Show GTK+ Options"
-msgstr "GTK+ Caylawın Kürsätü"
-
-msgid "Show Hidden"
-msgstr "Yäşerenne Kürsätü"
-
-msgid "Show Icons"
-msgstr "Tabaqlar Kürsätü"
-
-msgid "Show Numbers"
-msgstr "Tabaqlar Kürsätü"
-
-msgid "Show Private"
-msgstr "Yäşerenne Kürsätü"
-
-msgid "Show Tabs"
-msgstr "Tabaqlar Kürsätü"
-
-msgid "Show Tooltips"
-msgstr "Qoralkiñäş"
-
-msgid "Show _Hidden Files"
-msgstr "_Yäşeren Birem Kürsätäse"
-
-msgid "Si_ze:"
-msgstr "Ülçä_m:"
-
-msgid "Sidebar image"
-msgstr "Bu bäyä"
-
-msgid "Simple"
-msgstr "Olılıq"
+msgid "Settings"
+msgstr "Көйләүләр"
 
 msgid "Size"
-msgstr "Olılıq"
+msgstr "Зурлык"
 
-msgid "Skip taskbar"
-msgstr "Qoraltiräne ütäse"
-
-msgid "Slider Length"
-msgstr "Şudırma Ozınlığı"
-
-msgid "Sole completion"
-msgstr "Tös Saylaw"
-
-msgid "Sort Type"
-msgstr "Külägä Töre"
-
-msgid "Sort order"
-msgstr "Tezü cayı"
-
-msgid "Sound Theme Name"
-msgstr "Tışlaw Adı"
+msgid "Source"
+msgstr "Чыганак"
 
 msgid "Space"
-msgstr "_Almaştır"
+msgstr "Ара"
 
 msgid "Spacing"
-msgstr "Ara"
+msgstr "Ара"
 
-msgid "Startup ID"
-msgstr "Törkem"
+msgid "Split"
+msgstr "Вату"
+
+msgid "Square"
+msgstr "Турыпочмаклы"
+
+msgid "State"
+msgstr "Халәте"
 
 msgid "Strikethrough"
-msgstr "Sızılu"
-
-msgid "Strikethrough set"
-msgstr "Arqılığa sızılu"
+msgstr "Сызылган"
 
 msgid "Style"
-msgstr "Stil"
-
-msgid "Style of underline for this text"
-msgstr "Bu yazmanı sızdıru ısulı"
-
-msgid "Support Selection"
-msgstr "Saylaw ısulı"
-
-msgid "Sys_Req"
-msgstr "Birem Sisteme"
+msgstr "Стиль"
 
 msgid "System"
-msgstr "Birem Sisteme"
-
-msgid "System (%{string})"
-msgstr "%{string} (%{string})"
+msgstr "Систем"
 
 msgid "Tabs"
-msgstr "Sikerü"
+msgstr "Tab билгеләре"
+
+msgid "Templates"
+msgstr "Калыплар..."
 
 msgid "Text"
-msgstr "Mäten"
-
-msgid "Text Buffer"
-msgstr "Eşxäter"
-
-msgid "Text direction"
-msgstr "Yazma yünäleşe"
-
-msgid "Text direction, e.g. right-to-left or left-to-right"
-msgstr "Yazma yünäleşe, ü.ö. uñdan-suldan yä suldan-uñğa"
-
-msgid "Text to render"
-msgstr "Sızası yazma"
-
-msgid "The OK button of the dialog."
-msgstr "Yazma bilgese"
-
-msgid "The cancel button of the dialog."
-msgstr "Yazma bilgese"
-
-msgid "The column in the model containing the tooltip texts for the items"
-msgstr "Widget adı"
-
-msgid "The contents of the buffer"
-msgstr "Yazma bilgese"
-
-msgid "The contents of the tooltip for this tray icon"
-msgstr "Widget adı"
-
-msgid "The contents of the tooltip for this widget"
-msgstr "Widget adı"
-
-msgid "The contents of the tooltip on the primary icon"
-msgstr "Widget adı"
-
-msgid "The contents of the tooltip on the secondary icon"
-msgstr "Widget adı"
-
-msgid "The current color"
-msgstr "Ağımdağı tös"
-
-msgid "The current fraction of the task that's been completed"
-msgstr "Yazma bilgese"
-
-msgid "The current value"
-msgstr "Ağımdağı tös"
-
-msgid "The currently selected menu item"
-msgstr "Ağımdağı tös"
-
-msgid "The fixed width"
-msgstr "Berkiñle"
-
-msgid "The help button of the dialog."
-msgstr "Yazma bilgese"
-
-msgid "The human-readable title of this item group"
-msgstr "Tamğa ülçäme"
-
-msgid "The icon name to use for the printer"
-msgstr "Widget adı"
-
-msgid "The icon size"
-msgstr "Tamğa ülçäme"
-
-msgid "The image"
-msgstr "Bu bäyä"
-
-msgid "The license type of the program"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The location of the printer"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The maximum width of the cell, in characters"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The minimum vertical height of the progress bar"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The minimum vertical width of the progress bar"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The name of the widget"
-msgstr "Widget adı"
-
-msgid "The number of pages in the document."
-msgstr "Widget adı"
-
-msgid "The number of pages that will be printed."
-msgstr "Widget adı"
-
-msgid "The opacity of the window, from 0 to 1"
-msgstr "Täräzä töre"
-
-msgid "The orientation of the orientable"
-msgstr "Yazma bilgese"
-
-msgid "The parent window"
-msgstr "Täräzä töre"
-
-msgid "The primary text of the message dialog"
-msgstr "Yazma bilgese"
-
-msgid "The secondary text of the message dialog"
-msgstr "Yazma bilgese"
-
-msgid "The selected color"
-msgstr "Saylanğan tös"
-
-msgid "The selection mode"
-msgstr "Saylaw ısulı"
-
-msgid "The size of the icon"
-msgstr "Tamğa ülçäme"
-
-msgid "The status of the print operation"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The text for the child label"
-msgstr "Yazma bilgese"
-
-msgid "The text of the label"
-msgstr "Yazma bilgese"
-
-msgid "The title of the assistant page"
-msgstr "Täräzä başlığı"
-
-msgid "The title of the window"
-msgstr "Täräzä başlığı"
-
-msgid "The title of this tray icon"
-msgstr "Tamğa ülçäme"
-
-msgid "The transient parent of the dialog"
-msgstr "Yazma bilgese"
-
-msgid "The type of the assistant page"
-msgstr "Täräzä töre"
-
-msgid "The type of the window"
-msgstr "Täräzä töre"
-
-msgid "The value"
-msgstr "Bu bäyä"
-
-msgid "The value of the scale"
-msgstr "Yazma bilgese"
-
-msgid "The version of the program"
-msgstr "Bu yazılımnıñ söreme"
-
-msgid "The x-align"
-msgstr "X-urınlaşu"
-
-msgid "The y-align"
-msgstr "Y-urınlaşu"
-
-msgid "Theme Name"
-msgstr "Tışlaw Adı"
-
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "Tigrigna-Eritrey (EZ+)"
-
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "Tigrigna-Efiop (EZ+)"
+msgstr "Текст"
 
 msgid "Title"
-msgstr "Başlıq"
+msgstr "Башлык"
 
-msgid "Title of the print job"
-msgstr "Täräzä başlığı"
+msgid "Tools"
+msgstr "Кораллар"
 
-msgid "Toolbar Icon Size"
-msgstr "Tamğa Ülçäme"
+msgid "Total"
+msgstr "Барысы"
 
-msgid "Tooltip"
-msgstr "Qoralkiñäş"
-
-msgid "Tooltip Column"
-msgstr "Qoralkiñäş"
-
-msgid "Tooltip Text"
-msgstr "Qoralkiñäş"
-
-msgid "Tooltip markup"
-msgstr "Qoralkiñäş"
-
-msgid "Tooltip timeout"
-msgstr "Qoralkiñäş"
-
-msgid "Track visited links"
-msgstr "Terebäy töse"
-
-msgid "Translated by"
-msgstr "Tärcemä"
-
-msgid "Transparency of the color."
-msgstr "Bu tös tonıqlığı."
-
-msgid "Tree line width"
-msgstr "Berkiñle"
-
-msgid "Type a file name"
-msgstr "Birem adı yaraqsız"
-
-msgid "Type name of new folder"
-msgstr "Yaña törgäk adın kertäse"
+msgid "Transparency"
+msgstr "Үтә күренмәүчәнлек"
 
 msgid "Underline"
-msgstr "_Sızdırıp"
+msgstr "Аскы сызык"
 
-msgid "Underline set"
-msgstr "Sızdırılu"
-
-msgid "Unit"
-msgstr "Aşığıç"
+msgid "Undo"
+msgstr "Кире кагу"
 
 msgid "Unknown"
-msgstr "Bilgesez"
+msgstr "Билгесез"
 
-msgid "Unknown item"
-msgstr "Bilgesez"
+msgid "Untitled"
+msgstr "Исемсез"
 
-msgid "Unvisited Link Color"
-msgstr "Bäy Töse"
-
-msgid "Update Policy"
-msgstr "Yañartu Tärtibe"
-
-msgid "Update policy"
-msgstr "Yañartu tärtibe"
-
-msgid "Upper"
-msgstr "Öske"
-
-msgid "Urgent"
-msgstr "Aşığıç"
-
-msgid "Use Markup"
-msgstr "Bitläw"
-
-msgid "Username:"
-msgstr "_Ataw"
+msgid "User"
+msgstr "Кулланучылар"
 
 msgid "Value"
-msgstr "Bäyä"
+msgstr "Мәгънә"
 
-msgid "Value spacing"
-msgstr "Bäyä arası"
+msgid "Vertical"
+msgstr "Вертикаль"
 
-msgid "Vertical Offset"
-msgstr "Asma Çigeş"
-
-msgid "Vertical scale"
-msgstr "Asma erelege"
-
-msgid "Vertical separation"
-msgstr "Asma Çigeş"
-
-msgid "Vietnamese (VIQR)"
-msgstr "Vietnam (VIQR)"
-
-msgid "Visibility"
-msgstr "Küreneş"
+msgid "View"
+msgstr "Карау"
 
 msgid "Visible"
 msgstr "Kürenmäle"
 
-msgid "Visited"
-msgstr "Kürenmäle"
+msgid "Wheel"
+msgstr "Сәгать теле"
 
-msgid "Visited Link Color"
-msgstr "Bäy Töse"
-
-msgid "Volume"
-msgstr "_Bäyä:"
-
-msgid "Waiting"
-msgstr "Kisätmä"
-
-msgid "Warning"
-msgstr "Kisätmä"
-
-msgid "Warning color"
-msgstr "Asyaq Töse"
-
-msgid "Whether tabs should be shown"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the application has a selection"
-msgstr "Bu tag şul yazu erelegen üzgärtäme"
-
-msgid "Whether the application prefers to have a dark theme."
-msgstr "Bu tag şul yazu erelegen üzgärtäme"
-
-msgid "Whether the border should be shown"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the child's tab should fill the allocated area"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the device has a cursor"
-msgstr "Bu tag şul yazu erelegen üzgärtäme"
-
-msgid "Whether the image will always be shown"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the invisible character has been set"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the item should fill the available space"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the item should start a new row"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the label widget should fill all available horizontal space"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the mark has left gravity"
-msgstr "Bu tag şul yazu ğäiläsen üzgärtäme"
-
-msgid "Whether the plug is embedded"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the primary icon is activatable"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the primary icon is sensitive"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the secondary icon is activatable"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the secondary icon is sensitive"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the spinner is active"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the status icon is embedded"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the status icon is visible"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the tab is detachable"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the tab is reorderable by user action"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the toggle action should be active"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether the widget is double buffered"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether there is a visible cursor following device motion"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether this link has been visited."
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether this tag affects strikethrough"
-msgstr "Bu tag şul yazu sızıluın üzgärtäme"
-
-msgid "Whether this tag affects the alignment mode"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether this tag affects the font family"
-msgstr "Bu tag şul yazu ğäiläsen üzgärtäme"
-
-msgid "Whether this tag affects the font size"
-msgstr "Bu tag şul yazu erelegen üzgärtäme"
-
-msgid "Whether this tag affects the font stretch"
-msgstr "Bu tag şul yazu suzılışın üzgärtäme"
-
-msgid "Whether this tag affects the font style"
-msgstr "Bu tag şul yazu bizeşen üzgärtäme"
-
-msgid "Whether this tag affects the font variant"
-msgstr "Bu tag şul yazu tören üzgärtäme"
-
-msgid "Whether this tag affects the font weight"
-msgstr "Bu tag şul yazu kiñlegen üzgärtäme"
-
-msgid "Whether this tag affects the rise"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Whether this tag affects underlining"
-msgstr "Bu tag şul yazu sızdırıluın üzgärtäme"
-
-msgid "Whether this tray icon has a tooltip"
-msgstr "Bu tag şul yazu erelegen üzgärtäme"
-
-msgid "Whether this widget has a tooltip"
-msgstr "Bu tag şul yazu erelegen üzgärtäme"
-
-msgid "Whether to expand the child's tab"
-msgstr "Yazma bilgese"
-
-msgid "Whether to strike through the text"
-msgstr "Yazmanı arqılığa sızıp çığasımı"
-
-msgid "Whether visited links should be tracked"
-msgstr "Bu tag şul yazu kütäreleşen üzgärtäme"
-
-msgid "Widget"
-msgstr "Widget"
-
-msgid "Widget name"
-msgstr "Widget adı"
+msgid "White"
+msgstr "Ак"
 
 msgid "Width"
-msgstr "Kiñlek"
+msgstr "Киңлек"
 
-msgid "Width of border around the action area"
-msgstr "Bu yazılım açıqlaması"
+msgid "X"
+msgstr "X"
 
-msgid "Width of border around the content area"
-msgstr "Widget adı"
+msgid "Y"
+msgstr "Y"
 
-msgid "Window"
-msgstr "Täräzä Töre"
+msgid "Yellow"
+msgstr "Сары"
 
-msgid "Window Placement"
-msgstr "Täräzä Urınlaşuı"
+msgid "Yes"
+msgstr "Әйе"
 
-msgid "Window Placement Set"
-msgstr "Täräzä Urınlaşuı"
+msgid "Zoom"
+msgstr "Зурайту"
 
-msgid "Window Position"
-msgstr "Täräzä Urınlaşuı"
+msgid "Zoom In"
+msgstr "Зурайту"
 
-msgid "Window Role"
-msgstr "Täräzä Eşe"
-
-msgid "Window Title"
-msgstr "Täräzä Başlığı"
-
-msgid "Window Type"
-msgstr "Täräzä Töre"
-
-msgid "Window dragging"
-msgstr "Täräzä Urınlaşuı"
-
-msgid "Wrap"
-msgstr "Törü"
-
-msgid "Wrap Mode"
-msgstr "Törü Isulı"
-
-msgid "Wrap mode"
-msgstr "Törü ısulı"
-
-msgid "Written by"
-msgstr "Yazuçı"
-
-msgid "X Input Method"
-msgstr "X Kertü Isulı"
-
-msgid "X align"
-msgstr "X-urınlaşu"
-
-msgid "X position"
-msgstr "X bäyäse"
-
-msgid "X spacing"
-msgstr "Ara"
-
-msgid "Y align"
-msgstr "Y-urınlaşu"
-
-msgid "Y position"
-msgstr "Y bäyäse"
-
-msgid "Y spacing"
-msgstr "Ara"
-
-msgid "Year"
-msgstr "Yıl"
-
-msgid "Your description here"
-msgstr "Yazu açıqlaması, yul kileş"
+msgid "Zoom Out"
+msgstr "Кечерәйтү"
 
 msgid "Zoom _In"
 msgstr "_Ereräyt"
@@ -1780,332 +478,443 @@ msgstr "_Ereräyt"
 msgid "Zoom _Out"
 msgstr "_Keçeräyt"
 
-msgid "_About"
-msgstr "_Turında"
+msgid "action"
+msgstr "Гамәлләр"
 
-msgid "_Add"
-msgstr "Ö_stä"
+msgid "active"
+msgstr "Актив"
 
-msgid "_Add to Bookmarks"
-msgstr "_Bitbilgelärgä Östä"
+msgid "add"
+msgstr "Өстәү"
 
-msgid "_Apply"
-msgstr "_Aşır"
+msgid "align"
+msgstr "Тигезләү"
 
-msgid "_Ascending"
-msgstr "_Arttırıp"
+msgid "alignment"
+msgstr "Турайту"
 
-msgid "_Blue:"
-msgstr "_Kük:"
+msgid "all"
+msgstr "Бөтенесе"
 
-msgid "_Bold"
-msgstr "_Qalın"
+msgid "angle"
+msgstr "Почмак"
 
-msgid "_Browse for other folders"
-msgstr "&Başqa törgäk saylaw"
+msgid "attributes"
+msgstr "Аттрибутлар"
 
-msgid "_CD-ROM"
-msgstr "_CD-ROM"
+msgid "automatic"
+msgstr "Автоматик рәвештә"
 
-msgid "_Cancel"
-msgstr "_Kiräkmi"
+msgid "background"
+msgstr "Җирлек"
 
-msgid "_Center"
-msgstr "Ä_yländer"
+msgid "blue"
+msgstr "Зәңгәр"
 
-msgid "_Clear"
-msgstr "_Buşat"
+msgid "circle"
+msgstr "Түгәрәк"
 
-msgid "_Clear List"
-msgstr "_Buşat"
+msgid "color"
+msgstr "Төс"
 
-msgid "_Close"
-msgstr "Ya_p"
+msgid "comment"
+msgstr "Комментарий"
 
-msgid "_Color"
-msgstr "_Tös"
+msgid "comments"
+msgstr "Комментлар"
 
-msgid "_Convert"
-msgstr "Ä_yländer"
+msgid "configuration"
+msgstr "Көйләү"
 
-msgid "_Copy"
-msgstr "_İskä al"
+msgid "cu_t"
+msgstr "_kisep al"
 
-msgid "_Delete"
-msgstr "_Beter"
+msgid "cut"
+msgstr "Кисү"
 
-msgid "_Descending"
-msgstr "_Kimep"
+msgid "cyan"
+msgstr "Зәнгәрсу"
 
-msgid "_Discard"
-msgstr "Sünek"
+msgid "day"
+msgstr "Көн"
 
-msgid "_Disconnect"
-msgstr "_Ayırıl"
+msgid "delete"
+msgstr "Бетерү"
 
-msgid "_Domain:"
-msgstr "_Urnaşılu:"
+msgid "desaturate"
+msgstr "Сорылайту"
 
-msgid "_Down"
-msgstr "Yu_q"
+msgid "description"
+msgstr "Тасвирлама"
 
-msgid "_Edit"
-msgstr "Ü_zgärtü"
+msgid "description..."
+msgstr "Тасвирлама..."
 
-msgid "_Execute"
-msgstr "_Eşlät"
+msgid "dialog"
+msgstr "Диалог"
 
-msgid "_Family:"
-msgstr "Ğäi_lä:"
+msgid "direction"
+msgstr "Юнәлеш"
 
-msgid "_File"
-msgstr "_Birem"
+msgid "documents"
+msgstr "Документлар"
 
-msgid "_Fill"
-msgstr "_Birem"
+msgid "e-mail"
+msgstr "Электрон почтасы"
 
-msgid "_Find"
-msgstr "_Ezläw"
+msgid "edit"
+msgstr "Үзгәртү"
 
-msgid "_First"
-msgstr "_Birem"
+msgid "error"
+msgstr "Хата"
 
-msgid "_Floppy"
-msgstr "_Floppi"
+msgid "events"
+msgstr "Вакыйгалар"
 
-msgid "_Font"
-msgstr "_Yazu"
+msgid "expand"
+msgstr "Ачып җибәрү"
 
-msgid "_Forward"
-msgstr "A_lğa"
+msgid "file"
+msgstr "Файл"
 
-msgid "_Fullscreen"
-msgstr "_Tulı Ekranğa"
+msgid "files"
+msgstr "Файллар"
 
-msgid "_Green:"
-msgstr "_Yäşel:"
+msgid "fill"
+msgstr "Файл"
 
-msgid "_Hard Disk"
-msgstr "_Qatıdisk"
+msgid "filter"
+msgstr "Сөзгеч (Фильтр)"
 
-msgid "_Height:"
-msgstr "_Tösmer:"
+msgid "filters"
+msgstr "Сөзгечләр"
 
-msgid "_Help"
-msgstr "_Yärdäm"
+msgid "flip"
+msgstr "Кире чагылдыру"
 
-msgid "_Home"
-msgstr "_Anabit"
+msgid "folder"
+msgstr "Каталог"
 
-msgid "_Hue:"
-msgstr "_Tösmer:"
+msgid "font"
+msgstr "Хәреф"
 
-msgid "_Index"
-msgstr "_Tezmä"
+msgid "fonts"
+msgstr "Хәреф"
 
-msgid "_Information"
-msgstr "_Belderü"
+msgid "functions"
+msgstr "Функцияләр"
 
-msgid "_Italic"
-msgstr "_Awışlı"
+msgid "general"
+msgstr "Гомуми"
 
-msgid "_Jump to"
-msgstr "_Siker"
+msgid "gradient"
+msgstr "Градиент"
 
-msgid "_Last"
-msgstr "Ös_täp quy"
+msgid "gradients"
+msgstr "Градиент"
 
-msgid "_Leave Fullscreen"
-msgstr "_Tulı Ekranğa"
+msgid "green"
+msgstr "Яшел"
 
-msgid "_License"
-msgstr "Şart_nämä"
-
-msgid "_Location:"
-msgstr "_Urnaşılu:"
-
-msgid "_Name:"
-msgstr "_Adı:"
-
-msgid "_Network"
-msgstr "Çel_tär"
-
-msgid "_New"
-msgstr "_Yaña"
-
-msgid "_Next"
-msgstr "_Yaña"
-
-msgid "_No"
-msgstr "Yu_q"
-
-msgid "_Normal Size"
-msgstr "_Çın Ülçäm"
-
-msgid "_Now"
-msgstr "Yu_q"
-
-msgid "_OK"
-msgstr "_OK"
-
-msgid "_Open"
-msgstr "_Açu"
-
-msgid "_Open Link"
-msgstr "Urınlaşu Açu..."
-
-msgid "_Orientation:"
-msgstr "_Quyılıq:"
-
-msgid "_Palette:"
-msgstr "_Töstüşäw"
-
-msgid "_Paper size:"
-msgstr "Ü_zençälege"
-
-msgid "_Password:"
-msgstr "Basım"
-
-msgid "_Paste"
-msgstr "Ös_täp quy"
-
-msgid "_Places"
-msgstr "_Almaştır"
-
-msgid "_Play"
-msgstr "_Almaştır"
-
-msgid "_Preferences"
-msgstr "_Caylaw"
-
-msgid "_Preview:"
-msgstr "_Küzläp alu:"
-
-msgid "_Print"
-msgstr "_Bastıru"
-
-msgid "_Properties"
-msgstr "Ü_zençälege"
-
-msgid "_Quit"
-msgstr "_Çığış"
-
-msgid "_Record"
-msgstr "_Yazıru"
-
-msgid "_Red:"
-msgstr "_Qızıl:"
-
-msgid "_Redo"
-msgstr "Kire qu_y"
-
-msgid "_Refresh"
-msgstr "_Yañart"
-
-msgid "_Remove"
-msgstr "_Töşer"
-
-msgid "_Replace"
-msgstr "_Almaştır"
-
-msgid "_Reverse"
-msgstr "_Qaytart"
-
-msgid "_Revert"
-msgstr "_Qaytart"
-
-msgid "_Right"
-msgstr "_Tösmer:"
-
-msgid "_Right:"
-msgstr "_Tösmer:"
-
-msgid "_Saturation:"
-msgstr "_Quyılıq:"
-
-msgid "_Save"
-msgstr "_Saqla"
-
-msgid "_Save in folder:"
-msgstr "_Törgäktä yasísı:"
-
-msgid "_Spell Check"
-msgstr "Yazu _Tikşerü"
-
-msgid "_Stop"
-msgstr "_Tuqta"
-
-msgid "_Style:"
-msgstr "_Bizeş:"
-
-msgid "_Top"
-msgstr "_Tuqta"
-
-msgid "_Top:"
-msgstr "_Tuqta"
-
-msgid "_Undelete"
-msgstr "_Torğız"
-
-msgid "_Underline"
-msgstr "_Sızdırıp"
-
-msgid "_Undo"
-msgstr "Kire a_l"
-
-msgid "_Username:"
-msgstr "_Ataw"
-
-msgid "_Value:"
-msgstr "_Bäyä:"
-
-msgid "_Yes"
-msgstr "Ä_ye"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/gnome_gtk/workspace/po-properties/tt.po by load_po_file"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcçdefgğiı ABCÇDEFGĞİIJK"
-
-msgid "asme_f"
-msgstr "İsem"
-
-msgid "calendar:MY"
-msgstr "calendar:MY"
-
-msgid "calendar:week_start:0"
-msgstr "calendar:week_start:1"
-
-msgid "default:LTR"
-msgstr "default:LTR"
-
-msgid "default:mm"
-msgstr "default:mm"
-
-msgid "ellipsize"
-msgstr "Ülçäm"
+msgid "group"
+msgstr "Төркем"
 
 msgid "height"
-msgstr "bieklek"
+msgstr "Биеклек"
+
+msgid "help"
+msgstr "Белешмә"
+
+msgid "horizontal"
+msgstr "Горизонталь"
+
+msgid "icon"
+msgstr "tamğa"
+
+msgid "icons"
+msgstr "Билгечекләр"
+
+msgid "image"
+msgstr "Сурәт"
+
+msgid "inch"
+msgstr "дюйм"
+
+msgid "indent"
+msgstr "Аралык"
+
+msgid "info"
+msgstr "Мәгълүмат"
+
+msgid "information"
+msgstr "Мәгълумат"
+
+msgid "invert"
+msgstr "Кую"
+
+msgid "keyboard"
+msgstr "Клавиатура"
+
+msgid "language"
+msgstr "Тел"
+
+msgid "languages"
+msgstr "Телләр"
+
+msgid "license"
+msgstr "Лицензия"
+
+msgid "line"
+msgstr "Сызык"
+
+msgid "location"
+msgstr "Урыннар"
+
+msgid "magenta"
+msgstr "Куе кызыл"
+
+msgid "menu"
+msgstr "Меню"
+
+msgid "message"
+msgstr "Хәбәр"
 
 msgid "mode"
-msgstr "ısul"
+msgstr "Күчереп кую"
 
-msgid "paused"
-msgstr "Ös_täp quy"
+msgid "module"
+msgstr "Модуль"
 
-msgid "printer offline"
-msgstr "XPM başlığı tabılmadı"
+msgid "modules"
+msgstr "Модульләр"
 
-msgid "ready to print"
-msgstr "Kisätmä"
+msgid "more..."
+msgstr "Күбрәк..."
+
+msgid "move"
+msgstr "Күчереп кую"
+
+msgid "name"
+msgstr "Исеме"
+
+msgid "navigation"
+msgstr "Навигация"
+
+msgid "next"
+msgstr "Киләсе"
+
+msgid "no"
+msgstr "Юк"
+
+msgid "none"
+msgstr "Юк"
+
+msgid "normal"
+msgstr "Гади"
+
+msgid "numbers"
+msgstr "Саннар"
+
+msgid "open"
+msgstr "Ачу"
+
+msgid "options"
+msgstr "Көйләүләр"
+
+msgid "or"
+msgstr "яки"
+
+msgid "orientation"
+msgstr "Ориентация"
+
+msgid "page"
+msgstr "Бит"
+
+msgid "pages"
+msgstr "Битләр"
+
+msgid "password"
+msgstr "Серсүзе"
+
+msgid "path"
+msgstr "Файл системасындагы адрес"
+
+msgid "paths"
+msgstr "Юл"
+
+msgid "pattern"
+msgstr "Ürnäk"
+
+msgid "pause"
+msgstr "Пауза"
+
+msgid "pixel"
+msgstr "пикс."
+
+msgid "position"
+msgstr "Урын"
+
+msgid "pr_eview"
+msgstr "Сурәт"
+
+msgid "preview"
+msgstr "Сурәт"
+
+msgid "previous"
+msgstr "Моңарчыгы"
+
+msgid "print"
+msgstr "Бастыру"
+
+msgid "printing"
+msgstr "Бастыру"
+
+msgid "progress"
+msgstr "Эш барышы"
+
+msgid "project"
+msgstr "Проект"
+
+msgid "projects"
+msgstr "Проектлар"
+
+msgid "properties"
+msgstr "Сыйфатлар"
+
+msgid "rate"
+msgstr "Көн"
+
+msgid "red"
+msgstr "Кызыл"
+
+msgid "remove"
+msgstr "Бетерү"
+
+msgid "rename..."
+msgstr "Икенче исем кушу..."
+
+msgid "replace"
+msgstr "Алыштыру"
+
+msgid "right"
+msgstr "Уңда"
+
+msgid "save"
+msgstr "Саклау"
+
+msgid "screen"
+msgstr "küräk"
+
+msgid "search"
+msgstr "Эзләү"
+
+msgid "select"
+msgstr "Сайлау"
+
+msgid "selection"
+msgstr "Сайлау"
+
+msgid "settings"
+msgstr "Көйләүләр"
+
+msgid "size"
+msgstr "Зурлык"
+
+msgid "source"
+msgstr "Чыганак"
+
+msgid "space"
+msgstr "Ара"
+
+msgid "spacing"
+msgstr "Ара"
+
+msgid "split"
+msgstr "Вату"
+
+msgid "square"
+msgstr "Турыпочмаклы"
+
+msgid "state"
+msgstr "Халәте"
+
+msgid "strikethrough"
+msgstr "Сызылган"
+
+msgid "style"
+msgstr "Стиль"
+
+msgid "system"
+msgstr "Систем"
+
+msgid "tabs"
+msgstr "tab билгеләре"
+
+msgid "templates"
+msgstr "Калыплар..."
+
+msgid "text"
+msgstr "Текст"
+
+msgid "title"
+msgstr "Башлык"
+
+msgid "tools"
+msgstr "Кораллар"
+
+msgid "total"
+msgstr "Барысы"
+
+msgid "transparency"
+msgstr "Үтә күренмәүчәнлек"
+
+msgid "underline"
+msgstr "Аскы сызык"
+
+msgid "undo"
+msgstr "Кире кагу"
 
 msgid "unknown"
-msgstr "(bilgesez)"
+msgstr "билгесез"
+
+msgid "untitled"
+msgstr "Исемсез"
+
+msgid "user"
+msgstr "Кулланучылар"
+
+msgid "value"
+msgstr "Мәгънә"
+
+msgid "vertical"
+msgstr "Вертикаль"
+
+msgid "view"
+msgstr "Карау"
 
 msgid "visible"
 msgstr "kürenmäle"
 
+msgid "wheel"
+msgstr "Сәгать теле"
+
+msgid "white"
+msgstr "Ак"
+
 msgid "width"
-msgstr "kiñlek"
+msgstr "Киңлек"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"
+
+msgid "yellow"
+msgstr "Сары"
+
+msgid "yes"
+msgstr "Әйе"
+
+msgid "zoom"
+msgstr "Зурайту"

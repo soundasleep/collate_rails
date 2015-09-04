@@ -1,122 +1,14 @@
 msgid "(None)"
 msgstr "(कुनै पनि होइन)"
 
-msgid "(This could take a while)"
-msgstr "फन्ट (यसले केही समय लिन सक्छ)"
+msgid "(none)"
+msgstr "(कुनै पनि होइन)"
 
-msgid "2D Graphics"
-msgstr "२Dग्राफिक्स"
+msgid "Abbreviation"
+msgstr "संक्षिप्त रूप"
 
-msgid "3D Graphics"
-msgstr "३D ग्राफिक्स"
-
-msgid "A GdkPixbuf to display"
-msgstr "एउटा जिडिके पिक्सबफ देखाउनको लागि"
-
-msgid "A GtkPackType indicating whether the child is packed with reference to the start or end of the parent"
-msgstr "जीटीके बँधाइको प्रकारले के देखाउँछ भने जब उपशाखा बन्द गरिन्छ संदर्भसँग मूल कम्प्युटर सुरू वा बन्द हुन्छ"
-
-msgid "A boolean that determines whether the menu grabs the keyboard focus"
-msgstr "यो मेनुले कुञ्जीपाटी केन्द्र समाउँदाँदा बुलियनले निर्धारण गर्छ"
-
-msgid "A boolean that indicates whether the menu is torn-off"
-msgstr "यो मेनु बन्द हुँदा बुलियनले जनाउँदछ"
-
-msgid "A boolean that indicates whether the menu reserves space for toggles and icons"
-msgstr "यो मेनु बन्द हुँदा बुलियनले जनाउँदछ"
-
-msgid "A column in the data source model to get the strings from"
-msgstr "सूत्रबाट प्राप्त हुने डाटास्रोत ढाँचामा एउटा स्तम्भ"
-
-msgid "A file named \"%{string}\" already exists.  Do you want to replace it?"
-msgstr "फाइल नाम \"%{string}\" पहिल्यै अवस्थित छ। के तपाईँ यसलाई बदल्नु चाहनुहुन्छ ?"
-
-msgid "A list of style attributes to apply to the text of the label"
-msgstr "छापको पाठमा प्रयोग गर्ने शैली गुणको सूची"
-
-msgid "A list of style attributes to apply to the text of the renderer"
-msgstr "भाषान्तरकको पाठ प्रयोग गर्न शैली विशेषताहरूको सूची"
-
-msgid "A logo for the about box. If this is not set, it defaults to gtk_window_get_default_icon_list()"
-msgstr "जानकारी बाकसका लागि लोगो। यदि सेट भएको छैन भने, यो gtk_window_get_default_icon_list() मा पूर्वनिर्धारित हुन्छ"
-
-msgid "A name for the action group."
-msgstr "कार्य समूहको लागि एउटा नाम"
-
-msgid "A named icon to use as the logo for the about box."
-msgstr "जानकारी बाकसका लागि लोगोको रूपमा नामांकित प्रतिमाको प्रयोग"
-
-msgid "A palette of named colors for use in themes"
-msgstr "प्रतिमा थिमबाट प्रतिमाको नाम"
-
-msgid "A shorter label that may be used on toolbar buttons."
-msgstr "अरुभन्दा सानो लेवल जुन कि चित्राङ्कित शीर्षरेखा बटनमा प्रयोग हुन सक्छ"
-
-msgid "A string with _ characters in positions correspond to characters in the text to underline"
-msgstr "समरूपी वर्णको पाठमा कचका लागि स्थितिमा वर्णसँगको सूत्र"
-
-msgid "A title that may be displayed by the window manager when the popup is torn-off"
-msgstr "यो मेनु बन्द हुँदा विण्डो प्रवन्धकले देखाउन सक्ने शीर्षक"
-
-msgid "A title that may be displayed by the window manager when this menu is torn-off"
-msgstr "यो मेनु बन्द हुँदा विण्डो प्रवन्धकले देखाउन सक्ने शीर्षक"
-
-msgid "A tooltip for this action."
-msgstr "यो कार्यक लागि औजारटिप"
-
-msgid "A unique name for the action."
-msgstr "कार्यका लागि अनौठो नाम"
-
-msgid "A widget to display in place of the usual expander label"
-msgstr "साधारण वृद्धिकारक छापको स्थानमा देखाइने एउटा औजार"
-
-msgid "A widget to display in place of the usual frame label"
-msgstr "सामान्य खाका छापको स्थानमा देखाइने औजार"
-
-msgid "A widget to display in place of the usual label"
-msgstr "सामान्य खाका छापको स्थानमा देखाइने औजार"
-
-msgid "About Software"
-msgstr "सफ्टवेयर प्रयोग"
-
-msgid "Above child"
-msgstr "केटाकेटि माथि"
-
-msgid "Accel Group"
-msgstr "कार्य समूह"
-
-msgid "Accelerator Closure"
-msgstr "द्रुतसञ्चालकलाई बन्दगर्ने"
-
-msgid "Accelerator Mode"
-msgstr "द्रुतसञ्चालक औजार"
-
-msgid "Accelerator Widget"
-msgstr "द्रुतसञ्चालक औजार"
-
-msgid "Accelerator key"
-msgstr "द्रुतसञ्चालक औजार"
-
-msgid "Accelerator keycode"
-msgstr "द्रुतसञ्चालक औजार"
-
-msgid "Accelerator modifiers"
-msgstr "द्रुतसञ्चालक औजार"
-
-msgid "Accept focus"
-msgstr "फोकस स्वीकार्य"
-
-msgid "Accepting Jobs"
-msgstr "फोकस स्वीकार्य"
-
-msgid "Accepts PDF"
-msgstr "ट्याब स्वीकृत"
-
-msgid "Accepts PostScript"
-msgstr "ट्याब स्वीकृत"
-
-msgid "Accepts tab"
-msgstr "ट्याब स्वीकृत"
+msgid "Accepted"
+msgstr "स्वीकार गरियो"
 
 msgid "Accessibility"
 msgstr "पहुँचता"
@@ -124,734 +16,221 @@ msgstr "पहुँचता"
 msgid "Action"
 msgstr "कार्य"
 
-msgid "Action Group"
-msgstr "कार्य समूह"
-
-msgid "Action area border"
-msgstr "कार्य सीमाना क्षेत्र"
-
-msgid "Activatable"
-msgstr "सक्रिय भएको अवस्था"
-
-msgid "Activates default"
-msgstr "पूर्वनिर्धारित सक्रियहरु"
-
 msgid "Active"
-msgstr "सक्रिय"
-
-msgid "Active item"
-msgstr "सक्रिय आइटम"
+msgstr "चालु"
 
 msgid "Activity"
 msgstr "क्रियाकलाप"
 
-msgid "Add tearoffs to menus"
-msgstr "मेनुमा च्यात्ने क्षमता थप्नुस्"
+msgid "Add"
+msgstr "थप्नुहोस्"
 
-msgid "Add the current folder to the bookmarks"
-msgstr "पुस्तकचिनोहरूमा हालको फोल्डर थप गर्नुहोस्"
-
-msgid "Add the folder '%{string}' to the bookmarks"
-msgstr "पुस्तकचिनोहरूमा फोल्डर '%{string}' थप गर्नुहोस्"
-
-msgid "Add the selected folder to the Bookmarks"
-msgstr "पुस्तकचिनोहरूमा चयन गरिएको फोल्डर थप्नुहोस्"
-
-msgid "Add the selected folders to the bookmarks"
-msgstr "पुस्तकचिनोहरूमा चयन गरिएको फोल्डरहरू थप गर्नुहोस्"
-
-msgid "Add to Application Folder"
-msgstr "सङ्ग्रहमा एउटा फोल्डर थप्नुहोस्"
-
-msgid "Add-ons"
-msgstr "फाइलहरू थप्नुहोस्"
-
-msgid "Added"
-msgstr "थपियो"
+msgid "Addition"
+msgstr "जोड"
 
 msgid "Adjustment"
 msgstr "मिलान"
 
-msgid "Adventure"
-msgstr "साहस"
-
 msgid "Afrikaans"
 msgstr "अफ्रिकानहरु"
 
-msgid "Align set"
-msgstr "अवस्था"
+msgid "Align"
+msgstr "पङ्क्तिबद्ध गर्नुहोस्"
 
 msgid "Alignment"
-msgstr "अवस्था"
+msgstr "पङ्क्तिबद्धता"
 
-msgid "All Margins"
-msgstr "सीमान्त"
+msgid "All files"
+msgstr "सबै फाइलहरू"
 
-msgid "Allow Async"
-msgstr "नियमहरूको अनुमति"
+msgid "Alpha"
+msgstr "अल्फा"
 
-msgid "Allow Rules"
-msgstr "नियमहरूको अनुमति"
+msgid "Amount"
+msgstr "परिमाण"
 
-msgid "Allow drawing of alternating color rows"
-msgstr "वैकल्पिक रङ्गपंक्ति खिच्ने अनुमति"
-
-msgid "Allow folder creation"
-msgstr "संचालनहरुका लेखपत्र देखाऊ"
-
-msgid "Alternative button order"
-msgstr "बैकल्पिक बटन क्रम"
-
-msgid "Alternative sort indicator direction"
-msgstr "बैकल्पिक बटन क्रम"
-
-msgid "Amharic (EZ+)"
-msgstr "अंहारिक (EZ+)"
-
-msgid "Amount of blue light in the color."
-msgstr "रङमा नीलो प्रकाशको मात्रा"
-
-msgid "Amount of border space between the menubar shadow and the menu items"
-msgstr "सूचीबारको छांया र सूची आइटम को बीचमा सीमारेखाको ठाँउ"
-
-msgid "Amount of border space between the toolbar shadow and the buttons"
-msgstr "औजारबार छायाँ र बटनहरूका बीचको सीमाको खालीठाउँको मात्रा"
-
-msgid "Amount of green light in the color."
-msgstr "रङमा हरियो प्रकाशको मात्रा"
-
-msgid "Amount of red light in the color."
-msgstr "रङमा रातो प्रकाशको मात्रा"
-
-msgid "Amount to increase child's size on either side"
-msgstr "कुनै छेउमा शाखाको आकार बढाउनलाई मूल्य"
-
-msgid "Amount to increase child's size on the top and bottom"
-msgstr "माथि र तल शाखाको आकार बढाउनलाई मूल्य"
-
-msgid "Amount to indent the paragraph, in pixels"
-msgstr "पिक्सलहरुभित्र अनुच्छेदको हरफ मिलाउनलाई मात्रा"
-
-msgid "An XML string describing the merged UI"
-msgstr "एकीकृत युआईको व्याख्या गर्ने एक्सएमएल सूत्र"
-
-msgid "An animated face that speaks whatever you type"
-msgstr "एक एनिमेटेड चेहरा जस्ले तपाईँले टाइप गरेका कुराहरू बोल्दछ"
-
-msgid "An update failed to install correctly."
-msgstr "चेतावनी: `%{string}' स्किमा `%{string}' लोक्याल स्थापना गर्न असफल भयो: %{string}\n"
+msgid "Anchor"
+msgstr "एङ्कर"
 
 msgid "Angle"
 msgstr "कोण"
 
-msgid "Angle at which the label is rotated"
-msgstr "कोण जहाँ लेबल घुमाइन्छ"
-
 msgid "Animation"
-msgstr "रङ्गचित्राङकन"
+msgstr "एनिमेसन"
 
-msgid "Animation duration"
-msgstr "रङ्गचित्राङकन"
+msgid "Appearance"
+msgstr "दृश्य"
 
-msgid "Any Printer"
-msgstr "मुद्रण गर्नुहोस्"
+msgid "Area"
+msgstr "क्षेत्र"
 
-msgid "Appearance of the frame border"
-msgstr "खाका किनाराको उपस्थिति"
-
-msgid "Appearance of the shadow surrounding the arrow"
-msgstr "बाँण चिन्हको वरिपरि छाँयाको उपस्थिति"
-
-msgid "Appearance of the shadow that surrounds the container"
-msgstr "कन्टेनरको वरिपरि देखिने छायाँको उपस्थिति"
-
-msgid "Appears as list"
-msgstr "सूचीमा देखापर्दछ"
-
-msgid "Application manager for GNOME"
-msgstr "जिनोमको लागि एक सङ्ग्रह प्रबन्धक ।"
-
-msgid "Application paintable"
-msgstr "रङ्गाउन योग्य अनुप्रयोग"
-
-msgid "Application prefers a dark theme"
-msgstr "रङ्गाउन योग्य अनुप्रयोग"
-
-msgid "Application supplied widget for custom previews."
-msgstr "प्रचलित पूर्वदृश्यका लागि अनुप्रयोगले आपूर्ति गरेको औजार"
-
-msgid "Application supplied widget for extra options."
-msgstr "अतिरिक्त विकल्पका लागि आपुर्ति गरिएको अनुप्रयोग औजार"
-
-msgid "Are you sure you want to remove %{string}?"
-msgstr "तपाईँ यो खाता मेट्न निश्चित हुनुहुन्छ ?"
-
-msgid "Arrow Placement"
-msgstr "बाँण एक्स स्थानान्तर"
-
-msgid "Arrow Scaling"
-msgstr "पंक्तिको अन्तराल:"
-
-msgid "Arrow Size"
-msgstr "बाँणचिन्ह द्वारा दिइएको निर्देशन"
-
-msgid "Arrow X Displacement"
-msgstr "बाँण एक्स स्थानान्तर"
-
-msgid "Arrow Y Displacement"
-msgstr "बाँण वाई स्थानान्तर"
-
-msgid "Arrow direction"
-msgstr "बाँणचिन्ह द्वारा दिइएको निर्देशन"
-
-msgid "Arrow scaling"
-msgstr "पंक्तिको अन्तराल:"
-
-msgid "Arrow shadow"
-msgstr "बाँण चिन्हको छाँया"
-
-msgid "Arrow spacing"
-msgstr "पंक्तिको अन्तराल:"
-
-msgid "Art"
-msgstr "कला"
-
-msgid "Artists"
-msgstr "कलाकारहरू"
-
-msgid "Artwork by"
-msgstr "कलाकारिता"
-
-msgid "Ask robot any question"
-msgstr "रोबोटलाई कुनै प्रश्न सोध"
-
-msgid "Aspect ratio if obey_child is FALSE"
-msgstr "आज्ञाकारी_उपशाखा झुठो छ भने अनुपातको आशा गरिन्छ"
-
-msgid "Aspect ratio with which to draw insertion cursor"
-msgstr "इन्सर्सन कर्सर खिच्नका लागि अनुपातको आशा"
-
-msgid "Astronomy"
-msgstr "खगोल शास्त्र"
-
-msgid "Attach Widget"
-msgstr "अतिरिक्त औजार"
+msgid "Arrow"
+msgstr "बाँण"
 
 msgid "Attributes"
-msgstr "बिषेषताहरु"
-
-msgid "Audio"
-msgstr "अडियो"
+msgstr "विशेषताहरू"
 
 msgid "Authors"
 msgstr "लेखकहरू"
 
-msgid "Auto Mnemonics"
-msgstr "रङ्गचित्राङकन"
+msgid "Auto"
+msgstr "स्वत:"
 
-msgid "Auto Select"
-msgstr "फन्ट चयन"
+msgid "Automatic"
+msgstr "स्वचालित"
 
-msgid "BackSpace"
-msgstr "बदल्नुहोस्"
+msgid "Average"
+msgstr "औसत"
 
-msgid "Backend for the printer"
-msgstr "रेण्डरकर्ताका लागि जिडिके स्क्रिन"
+msgid "Background"
+msgstr "पृष्ठभूमि"
+
+msgid "Background Color"
+msgstr "पृष्ठभूमि रङ"
 
 msgid "Background color"
-msgstr "पृष्ठभूमिको रङ्ग"
+msgstr "पृष्ठभूमि रङ"
 
-msgid "Background color as a (possibly unallocated) GdkColor"
-msgstr "जीडीके रङ्गका रूपमा पृष्टभूमि रङ्ग (संभवतः नछुट्याइएको)"
+msgid "Black"
+msgstr "खाली"
 
-msgid "Background color as a GdkColor"
-msgstr "जिडिके रङ्ग जस्तो पृष्ठभूमिको रङ्ग"
+msgid "Black & white"
+msgstr "श्यामश्वेत"
 
-msgid "Background color as a string"
-msgstr "सूत्र जस्तो पृष्ठभूमिको रङ्ग"
+msgid "Blue"
+msgstr "नीलो"
 
-msgid "Background color name"
-msgstr "पृष्ठभूमिको रङ्गको नाम"
+msgid "Border"
+msgstr "किनार"
 
-msgid "Background full height"
-msgstr "पृष्ठभूमि पूर्ण उचाइ"
+msgid "Border color"
+msgstr "किनाराको रङ"
 
-msgid "Background full height set"
-msgstr "पृष्ठभूमिको पूर्ण उचाइ मिल्यो"
+msgid "Box"
+msgstr "बाकस"
 
-msgid "Background set"
-msgstr "पृष्ठभूमि मिलाउ"
+msgid "Brush"
+msgstr "ब्रुस"
 
-msgid "Backward stepper"
-msgstr "पश्चगामी खुड्किला"
-
-msgid "Best _Fit"
-msgstr "सर्वोत्तम ठीक"
-
-msgid "Biology"
-msgstr "जीव शास्त्र"
-
-msgid "Blocks"
-msgstr "खण्ड"
-
-msgid "Board"
-msgstr "पाटी"
-
-msgid "Border around the progress bar"
-msgstr "प्रगति बारमा देखाइने पाठ"
-
-msgid "Border relief"
-msgstr "राहत सीमाना"
-
-msgid "Border width"
-msgstr "सीमाना चौडाई"
-
-msgid "Bottom Attach"
-msgstr "तल सम्लग्न"
-
-msgid "Bottom Padding"
-msgstr "तलको गद्दा"
-
-msgid "Bottom attachment"
-msgstr "तल्लो संलग्नता"
-
-msgid "Brightness of the color."
-msgstr "रङको चम्किलोपन।"
-
-msgid "Buffer"
-msgstr "अस्थायी स्मृति"
-
-msgid "Building"
-msgstr "दृश्य निर्माण गरिदैछ"
-
-msgid "Button relief"
-msgstr "बटन सहयोगी"
-
-msgid "Button spacing"
-msgstr "बटन स्थान"
-
-msgid "CLASS"
-msgstr "CLASS"
-
-msgid "COLORS"
-msgstr "COLORS"
-
-msgid "C_ollate"
-msgstr "सिर्जना गर्नुहोस्"
-
-msgid "C_onnect"
-msgstr "जडान गर्नुहोस्"
-
-msgid "C_redits"
-msgstr "श्रेय"
-
-msgid "C_urrent Page"
-msgstr "सिर्जना गर्नुहोस्"
-
-msgid "Calculating…"
-msgstr "गणना गरिदै"
-
-msgid "Calculator"
-msgstr "गणकयन्त्र"
+msgid "C_enter"
+msgstr "केन्द्र"
 
 msgid "Calendar"
 msgstr "पात्रो"
 
-msgid "Can be used to add a new child to the container"
-msgstr "कन्टेनरमा  बाहिरपटटि नयाँ उपशाखा जोड्न सकिन्छ"
-
-msgid "Can change accelerators"
-msgstr "द्रुतसञ्चालकहरु परिवर्तन गर्न सकिन्छ"
-
-msgid "Can default"
-msgstr "पूर्वनिर्धारित हुनसक्छ"
-
-msgid "Can focus"
-msgstr "संकेन्द्रविन्दु हुनसक्छ"
-
 msgid "Cancel"
 msgstr "रद्द गर्नुहोस्"
-
-msgid "Cancel Button"
-msgstr "खबर बटनहरु"
-
-msgid "Cannot change to folder because it is not local"
-msgstr "फोल्डरमा परिवर्तन गर्न सक्दैन किनभने यो स्थानीय होइन।"
-
-msgid "Cantonese"
-msgstr "कानटोनिस"
-
-msgid "Caps Lock is on"
-msgstr "स्थान खोल्नुहोस्"
-
-msgid "Card"
-msgstr "कार्ड"
 
 msgid "Categories"
 msgstr "कोटिहरू"
 
 msgid "Category"
-msgstr "कोटि"
+msgstr "वर्ग"
 
-msgid "Cedilla"
-msgstr "सेडिला"
+msgid "Center"
+msgstr "केन्द्र"
 
-msgid "Cell background color"
-msgstr "कोठाको पृष्ठभूमिको रङ्ग"
-
-msgid "Cell background color as a GdkColor"
-msgstr "एउटा जिडिके रङ्ग जस्तो कोठाको पृष्ठभूमिको रङ्ग"
-
-msgid "Cell background color as a string"
-msgstr "एउटा सूत्र जस्तो कोठाको पृष्ठभूमिको रङ्ग"
-
-msgid "Cell background color name"
-msgstr "कोठाको पृष्ठभूमिको रङ्गको नाम"
-
-msgid "Cell background set"
-msgstr "कोठाको पृष्ठभूमि मिलाउ"
-
-msgid "CellView model"
-msgstr "रूख प्रकारको ढाँचा"
-
-msgid "Charges may apply"
-msgstr "उत्पादित तह मास्क लागू गर्नुहोस्"
+msgid "Centered"
+msgstr "केन्द्रित"
 
 msgid "Chart"
 msgstr "चित्रपट"
 
-msgid "Chat"
-msgstr "कुराकानी"
+msgid "Checkerboard"
+msgstr "जाँचकी बोर्ड"
 
-msgid "Check Anyway"
-msgstr "जसरी पनि बचत गर्नुहोस्"
-
-msgid "Check for updates"
-msgstr "अपडेट जाँच गर्नुहोस्"
-
-msgid "Checking for updates…"
-msgstr "नयाँ पत्र लागि जाँच गर्दै"
-
-msgid "Chemistry"
-msgstr "रसायन शास्त्र"
-
-msgid "Child"
-msgstr "शाखा"
-
-msgid "Child Pack direction"
-msgstr "बच्चा प्याक निर्देशन"
-
-msgid "Child X Displacement"
-msgstr "एक्स शाखा स्थानान्तर"
-
-msgid "Child Y Displacement"
-msgstr "वाइ शाखा स्थानान्तर"
-
-msgid "Child internal height padding"
-msgstr "शाखाको भित्रि उचाइ गद्दा"
-
-msgid "Child internal width padding"
-msgstr "शाखाको आन्तरिक चौडा गद्दा"
-
-msgid "Child widget to appear next to the button text"
-msgstr "अर्को बटन पाठमा देखाउने चाइल्ड विजेटार"
-
-msgid "Child widget to appear next to the menu text"
-msgstr "अर्को मेनुपाठमा देखाउनलाई दोस्रोतहको औजार"
-
-msgid "Click on items to select them"
-msgstr "वस्तु चयन गर्न तपाईँले यसमा क्लिक गर्नु पर्दछ ।"
+msgid "Circle"
+msgstr "वृत्त्त"
 
 msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
 msgstr "आइड्रपरमा क्लिक गर्नुहोस्, त्यसपछि त्यो रङ चयन गर्न तपाईँको पर्दामा कुनै पनि ठाउँमा एउटा रङमा क्लिक गर्नुहोस्।"
 
-msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
-msgstr "यसलाई हालको रङ बनाउन यो रङदानीमा क्लिक गर्नुहोस्। यो प्रविष्टि परिवर्तन गर्न, एउटा रङ खण्डलाई यहाँ तान्नुहोस् वा यसलाई दायाँ-क्लिक गर्नुहोस् र \"यहाँ रङ बचत गर्नुहोस्\" चयन गर्नुहोस्।"
-
-msgid "Clickable"
-msgstr "क्लिक गर्न योग्य"
-
-msgid "Climb Rate"
-msgstr "आरोहण दर"
-
-msgid "Climb rate"
-msgstr "आरोहण दर"
-
-msgid "Clock"
-msgstr "घडी"
-
-msgid "Co_nnect"
-msgstr "जडान गर्नुहोस्"
-
 msgid "Color"
 msgstr "रङ"
 
-msgid "Color Hash"
-msgstr "रङ्ग भर्ने स्थान"
-
 msgid "Color Selection"
-msgstr "होवर चयन"
-
-msgid "Color Wheel"
-msgstr "रङ चक्र"
-
-msgid "Color _name:"
-msgstr "रङ नाम:"
-
-msgid "Color of the selection box"
-msgstr "छनोट बाकसको रंग"
-
-msgid "Color of unvisited links"
-msgstr "हाइपरलिङ्कहरूको रङ्ग"
-
-msgid "Color of visited links"
-msgstr "हाइपरलिङ्कहरूको रङ्ग"
+msgstr "रङ चयन"
 
 msgid "Color scheme"
-msgstr "रङ्ग भर्ने स्थान"
+msgstr "रङ योजना"
 
-msgid "Color to use for even rows"
-msgstr "जोर पंक्तिमा प्रयो हुने रङ्ग"
-
-msgid "Color to use for odd rows"
-msgstr "विजोर पंक्तिका लागि प्रयोग हुने रङ्ग"
-
-msgid "Color with which to draw error-indication underlines"
-msgstr "गल्ती सूचक कच खिच्नलाई रङ्ग"
-
-msgid "Color with which to draw insertion cursor"
-msgstr "इन्सर्सन कर्सर खिच्ने रङ्ग"
-
-msgid "Color with which to draw the secondary insertion cursor when editing mixed right-to-left and left-to-right text"
-msgstr "दायाँबाट बायाँ र बायाँबाट दायाँको पाठ सम्पादन गर्न द्वितीयक इन्सर्सन कर्सर खिच्ने रङ्ग"
-
-msgid "Column Spacing"
-msgstr "स्तम्भ अन्तराल"
-
-msgid "Column gets share of extra width allocated to the widget"
-msgstr "औजार छुट्याउने क्रममा स्तम्भले अतिरिक्त चौडाई प्राप्त गर्छ"
-
-msgid "Column headers respond to click events"
-msgstr "स्तम्भ शक्षर्षकले घटकमा क्लिक गर्न अनुमति दिन्छ"
-
-msgid "Column is user-resizable"
-msgstr "स्तम्भ प्रयोगकर्ताले पुनराकृतिक गर्नसक्ने खालको छ"
+msgid "Colors"
+msgstr "रङ"
 
 msgid "Column spacing"
 msgstr "स्तम्भ स्पेसिङ"
 
-msgid "Column span column"
-msgstr "स्तम्भ र स्तम्भको दुरि"
-
 msgid "Columns"
-msgstr "स्तम्भहरु"
+msgstr "स्तम्भहरू"
 
-msgid "ComboBox model"
-msgstr "प्रणालिगत ठूलो बाकस"
+msgid "Combine"
+msgstr "संयोजन गर्नुहोस्"
 
-msgid "Comments about the program"
-msgstr "कार्यक्रमका बारेको प्रतिकृया"
-
-msgid "Comments string"
-msgstr "प्रतिकृया स्ट्रिङ"
-
-msgid "Completion Model"
-msgstr "प्रणालीगत निचोड"
-
-msgid "Composite child"
-msgstr "संमिश्रित शाखा"
+msgid "Comment"
+msgstr "टिप्पणीहरू"
 
 msgid "Compression"
-msgstr "दवाब"
+msgstr "सङ्कुचन"
 
-msgid "Computer Science"
-msgstr "कम्प्युटर विज्ञान"
+msgid "Configuration"
+msgstr "कन्फिगरेसन"
 
-msgid "Construction"
-msgstr "सन्देश निर्माण असफल भयो ।"
+msgid "Confirm"
+msgstr "यकीन गर्नुहोस्"
 
-msgid "Contact Management"
-msgstr "-समपर्क व्यवस्थापन"
+msgid "Context"
+msgstr "सामाग्री"
 
-msgid "Content Padding"
-msgstr "तलको गद्दा"
+msgid "Contrast"
+msgstr "व्यतिरेक"
 
-msgid "Content area border"
-msgstr "विषयवस्तुको सीमाना क्षेत्र"
-
-msgid "Content area spacing"
-msgstr "तलको गद्दा"
+msgid "Controls"
+msgstr "नियन्त्रणहरू"
 
 msgid "Copy"
 msgstr "प्रतिलिपी बनाउ"
 
-msgid "Copy URL"
-msgstr "प्रतिलिपि बनाउनुहोस्"
+msgid "Cosine"
+msgstr "कोसाइन"
 
-msgid "Copy _Location"
-msgstr "स्थान खोल्नुहोस्"
-
-msgid "Copy target list"
-msgstr "प्रतिलिपि अधिकार स्ट्रिङ"
-
-msgid "Copy to Clipboard"
-msgstr "क्लिपबोर्डमा प्रतिलिपी बनाउ"
-
-msgid "Copyright information for the program"
-msgstr "कार्यक्रमका लागि प्रतिलिपि अधिकार सूचना"
-
-msgid "Copyright string"
-msgstr "प्रतिलिपि अधिकार स्ट्रिङ"
-
-msgid "Could not add a bookmark"
-msgstr "एउटा पुस्तकचिनो थप्न सकेन"
-
-msgid "Could not clear list"
-msgstr "वस्तु चयन गर्न सकेन"
-
-msgid "Could not create cache"
-msgstr "क्यास फाइल बनाउन सकिएन"
-
-msgid "Could not read the contents of the folder"
-msgstr "%{string} का लागि मौज्दात प्रतिमा प्राप्त गर्न सकेन"
-
-msgid "Could not remove bookmark"
-msgstr "पुस्तकचिनो हटाउन सकेन"
-
-msgid "Could not remove item"
-msgstr "वस्तु चयन गर्न सकेन"
-
-msgid "Could not rename %{string} back to %{string}: %{string}.\n"
-msgstr "%{string} का लागि मौज्दात प्रतिमा प्राप्त गर्न सकेन"
-
-msgid "Could not retrieve information about the file"
-msgstr "फाइलका बारेमा जानकारी पुन: प्राप्त गर्न सकेन"
-
-msgid "Could not select file"
-msgstr "फाइल चयन गर्न सकेन"
-
-msgid "Could not send the search request"
-msgstr "बाँकी बचत गर्न सकेन"
-
-msgid "Could not show link"
-msgstr "वस्तु चयन गर्न सकेन"
-
-msgid "Could not start the search process"
-msgstr "बाँकी बचत गर्न सकेन"
-
-msgid "Create Fo_lder"
-msgstr "फोल्डर सिर्जना गर्नुहोस्"
-
-msgid "Create in _folder:"
-msgstr "फोल्डरमा सिर्जना गर्नुहोस्:"
-
-msgid "Create the same proxies as a radio action"
-msgstr "अनुपात कार्यका रूपमा उस्तै प्रतिनिधिको निर्माण गर्नुस्"
-
-msgid "Credits"
-msgstr "श्रेयहरू"
-
-msgid "Credits to the translators. This string should be marked as translatable"
-msgstr "अनुवादकहरूलाई क्रेडिट दिन्छ। यस स्ट्रिङलाई अनुवाद गर्न सकिने छिन्ह दिनु पर्दछ"
+msgid "Create"
+msgstr "निर्माण गर्नुहोस्"
 
 msgid "Croatian"
 msgstr "क्रोएशियन"
 
+msgid "Crop"
+msgstr "काँटछाँट गर्नुहोस्"
+
 msgid "Cu_t"
 msgstr "काट्नुहोस्"
 
-msgid "Current Alpha"
-msgstr "विद्यमान अल्फा"
+msgid "Custom"
+msgstr "अनुकूल"
 
-msgid "Current Color"
-msgstr "विद्यमान रङ्ग"
+msgid "Cut"
+msgstr "काट्नुहोस्"
 
-msgid "Current Page"
-msgstr "विद्यमान अल्फा"
+msgid "Cyan"
+msgstr "स्यान"
 
-msgid "Current fixed width of the column"
-msgstr "स्तम्भको हालको चौडाई"
-
-msgid "Current text of the buffer"
-msgstr "प्रतिरोधकका हालका पाठहरु"
-
-msgid "Current width of the column"
-msgstr "स्तम्भको हालको चौडाई"
-
-msgid "Cursor"
-msgstr "करसर झिमझिम"
-
-msgid "Cursor Blink"
-msgstr "करसर झिमझिम"
-
-msgid "Cursor Blink Time"
-msgstr "करसर झिमझिम गर्ने समय"
-
-msgid "Cursor Blink Timeout"
-msgstr "करसर झिमझिम गर्ने समय"
-
-msgid "Cursor Position"
-msgstr "करसरको अवस्था"
-
-msgid "Cursor Visible"
-msgstr "कर्सर देखिने"
-
-msgid "Cursor color"
-msgstr "कर्सर रङ्ग"
-
-msgid "Cursor line aspect ratio"
-msgstr "कर्सर लाईनको आशा गरिएको अनुपात"
-
-msgid "Cursor position"
-msgstr "करसरको अवस्था"
-
-msgid "Cursor theme name"
-msgstr "चित्र सोच नाम"
-
-msgid "Cursor theme size"
-msgstr "कर्सर देखिने"
-
-msgid "Custom palette"
-msgstr "रङ्गदानि प्रथा"
-
-msgid "Custom tab label"
-msgstr "रङ्गदानि प्रथा"
-
-msgid "Custom tabs for this text"
-msgstr "यो पाठको लागि प्रचलित ट्याबहरु"
-
-msgid "Cyrillic (Transliterated)"
-msgstr "सीरिलिक (रूपान्तरित)"
+msgid "Cylinder"
+msgstr "बेलना"
 
 msgid "Czech"
 msgstr "चेक"
 
-msgid "DISPLAY"
-msgstr "DISPLAY"
-
-msgid "Dash pattern used to draw the focus indicator"
-msgstr "संकेन्द्रविन्दु सूचक खिच्नका लागि प्रयोग हुने धर्साको नमुना"
-
-msgid "Dash pattern used to draw the tree view grid lines"
-msgstr "संकेन्द्रविन्दु सूचक खिच्नका लागि प्रयोग हुने धर्साको नमुना"
-
-msgid "Dash pattern used to draw the tree view lines"
-msgstr "संकेन्द्रविन्दु सूचक खिच्नका लागि प्रयोग हुने धर्साको नमुना"
-
-msgid "Data Visualization"
-msgstr "दृश्यात्मक साइज:"
+msgid "Dashed"
+msgstr "ड्यासभएको"
 
 msgid "Database"
-msgstr "डेटाबेस"
+msgstr "डाटाबेस"
 
 msgid "Databases"
-msgstr "डेटाबेस"
+msgstr "डाटाबेस"
 
 msgid "Day"
 msgstr "दिन"
-
-msgid "Decorated"
-msgstr "अलंकृत"
 
 msgid "Decrease Indent"
 msgstr "इन्डेन्ट घटाउनुहोस्"
@@ -859,275 +238,89 @@ msgstr "इन्डेन्ट घटाउनुहोस्"
 msgid "Default"
 msgstr "पूर्वनिर्धारित"
 
-msgid "Default Display"
-msgstr "पूर्वनिर्धारित प्रदर्शन"
+msgid "Degrees"
+msgstr "डिग्रीहरू"
 
-msgid "Default Height"
-msgstr "पूर्वनिर्धारित उचाई"
-
-msgid "Default IM module"
-msgstr "पूर्वनिर्धारित चौडाइ"
-
-msgid "Default Outside Spacing"
-msgstr "पूर्वनिर्धारित बाहिरपट्टिको ठाँउ"
-
-msgid "Default Page Setup"
-msgstr "पूर्वनिर्धारित उचाई"
-
-msgid "Default Spacing"
-msgstr "पूर्वनिर्धारित स्पेसिङ्ग:"
-
-msgid "Default Width"
-msgstr "पूर्वनिर्धारित चौडाइ"
-
-msgid "Default file chooser backend"
-msgstr "पूर्वनिर्धारित लेखपत्र छनौटकर्ताको मेरुदण्ड"
-
-msgid "Default print backend"
-msgstr "पूर्वनिर्धारित लेखपत्र छनौटकर्ताको मेरुदण्ड"
-
-msgid "Delay before drop down menus appear"
-msgstr "तल झर्ने सूचीहरु आउनु भन्दा पहिले ढीलो"
-
-msgid "Delay before hiding a submenu"
-msgstr "सहायक सूचीहरु लुक्नुअघि ढीलो"
-
-msgid "Delay before submenus appear"
-msgstr "सहायक सूचीहरु आउनु अघि ढीलो"
-
-msgid "Delay before the submenus of a menu bar appear"
-msgstr "सूचीबारको उपसूचीहरु आउनु भन्दा पहिले ढीलो"
-
-msgid "Deletable"
-msgstr "चयन योग्य"
+msgid "Delay"
+msgstr "ढिला"
 
 msgid "Delete"
 msgstr "मेट्नुहोस्"
 
+msgid "Delete layer"
+msgstr "तह मेट्नुहोस्"
+
+msgid "Depth"
+msgstr "गहिराई"
+
+msgid "Desaturate"
+msgstr "डिस्याटुरेट"
+
 msgid "Description"
 msgstr "वर्णन"
 
-msgid "Desktop"
-msgstr "डेस्कटप"
+msgid "Description..."
+msgstr "बर्णन"
 
-msgid "Destroy with Parent"
-msgstr "आधारसँग नस्ट गर्नु"
+msgid "Design"
+msgstr "डिजाइन"
 
 msgid "Detail"
-msgstr "वर्णन"
+msgstr "विस्तृत विवरण"
 
 msgid "Details"
 msgstr "विवरण"
 
-msgid "Details Height"
-msgstr "पूर्वनिर्धारित उचाई"
-
-msgid "Details Width"
-msgstr "पूर्वनिर्धारित चौडाइ"
-
-msgid "Details page"
-msgstr "पृष्ठ नेभिगेसन"
-
-msgid "Details width in characters"
-msgstr "क्यारेक्टरहरू भित्र अधिकक चौडाइ"
-
-msgid "Determines how the shadowed box around the viewport is drawn"
-msgstr "आँखिझ्यालको वरिपरि छायाँ परेको बाकस कसरी खिचियो भनेर पत्तालाग्नु"
-
-msgid "Developer"
-msgstr "प्रमुख विकासकर्ता"
-
-msgid "Development Tools"
-msgstr "सफ्टवेर विकासका लागि उपकरण"
-
-msgid "Device Display"
-msgstr "पूर्वनिर्धारित प्रदर्शन"
-
-msgid "Device name"
-msgstr "औजार नाम"
-
-msgid "Device type"
-msgstr "घुमाउरो प्रकार"
-
 msgid "Dialog"
-msgstr "वार्तालाप"
+msgstr "संवाद"
+
+msgid "Diamond"
+msgstr "हीरा"
 
 msgid "Dictionary"
 msgstr "शब्दकोश"
 
+msgid "Difference"
+msgstr "भिन्नता"
+
 msgid "Digits"
 msgstr "संख्याहरु"
 
-msgid "Disabled"
-msgstr "अक्षम पारिएको"
+msgid "Dimensions"
+msgstr "आयामिकहरू"
 
-msgid "Disc Burning"
-msgstr "डिस्क सङ्ख्या"
-
-msgid "Displace focus"
-msgstr "बिस्थापित केन्द्रित"
+msgid "Direction"
+msgstr "दिशा"
 
 msgid "Display"
-msgstr "पूर्वनिर्धारित प्रदर्शन"
+msgstr "प्रदर्शन गर्नुहोस्"
 
-msgid "Display a second backward arrow button on the opposite end of the scrollbar"
-msgstr "स्क्रोलबारको दुवै किनारामा देखाउन दोस्रो पश्चगामी तीर बटन"
+msgid "Dissolve"
+msgstr "घोल्नुहोस्"
 
-msgid "Display a second backward arrow button on the opposite end of the tab area"
-msgstr "ट्याब क्षेत्रको दुवै किनारामा देखाउन दोस्रो पश्चगामी तीर बटन"
+msgid "Division"
+msgstr "भाग"
 
-msgid "Display a second forward arrow button on the opposite end of the scrollbar"
-msgstr "स्क्रोलबारको दुवै किनारामा देखाउन दोस्रो पश्चगामी तीर बटन"
-
-msgid "Display a second forward arrow button on the opposite end of the tab area"
-msgstr "ट्याब क्षेत्रको दुवै किनारामा देखाउन दोस्रो अग्रगामी तीर बटन"
-
-msgid "Display for the device manager"
-msgstr "कोठा देखाऊ"
-
-msgid "Display the cell"
-msgstr "कोठा देखाऊ"
-
-msgid "Display the cell sensitive"
-msgstr "कक्ष सम्वेदनशील देखाउनुहोस"
-
-msgid "Display the standard backward arrow button"
-msgstr "मानक पश्चगामी तीर बटन देखाऊ"
-
-msgid "Display the standard forward arrow button"
-msgstr "मानक अग्रगामी तीर बटन देखाऊ"
-
-msgid "Display which the device belongs to"
-msgstr "कक्ष सम्वेदनशील देखाउनुहोस"
-
-msgid "Do use the Wintab API [default]"
-msgstr "API [पूर्वनिर्धारित] प्रयोग गर्नुहोस्"
-
-msgid "Documented by"
-msgstr "मिसिलिकरण"
-
-msgid "Documenters"
-msgstr "संकलकहरू"
-
-msgid "Domain:"
-msgstr "स्थान:"
-
-msgid "Don't batch GDI requests"
-msgstr "GDI अनुरोधहरू समूहबद्ध नगर्नुहोस्"
-
-msgid "Don't change slider size, just lock it to the minimum length"
-msgstr "चिप्ल्याउनेको आकार परिवर्तन नगर, मात्र थोरै लम्बाइमा यसलाई बन्द गर"
-
-msgid "Don't use the Wintab API for tablet support"
-msgstr "ट्याबलेट समर्थनका लागि Wintab API प्रयोग नगर्नुहोस्"
-
-msgid "Double Arrows"
-msgstr "तीर देखाउनुस्"
-
-msgid "Double Buffered"
-msgstr "अस्थायी स्मृति"
-
-msgid "Double Click Distance"
-msgstr "दुईचोटी दबाउने दुरी"
-
-msgid "Double Click Time"
-msgstr "दुईचिटि दबाउने समय"
-
-msgid "Downloading new updates…"
-msgstr "नयाँ/अद्यावधिक गरिएको द्रष्टव्यहरू डाउनलोड गर्दैछ..."
-
-msgid "Drag threshold"
-msgstr "रेखाङ्कन थालनीबिन्दु"
-
-msgid "Draw"
-msgstr "रेखाङ्कन गर"
-
-msgid "Draw Indicator"
-msgstr "सूचकलाई खिच/तान"
-
-msgid "Draw Value"
-msgstr "मानको नक्शांकन"
-
-msgid "Draw as radio menu item"
-msgstr "रेडियो सूचीको आइटम रेखाङ्कन गर"
-
-msgid "Draw the toggle button as a radio button"
-msgstr "रेडियो बटन जस्तो एकबाट अर्कोमा फड्कने बटन बनाउ"
+msgid "Documents"
+msgstr "कागजातहरू"
 
 msgid "Dutch"
 msgstr "डच"
 
-msgid "Editability set"
-msgstr "सम्पाद्य मिलाउ"
+msgid "Edit"
+msgstr "सम्पादन गर्नुहोस्"
 
 msgid "Editable"
-msgstr "संपादनगर्न योग्य"
-
-msgid "Editable mode of the CellRenderer"
-msgstr "शेलरेन्डररको सम्पादनयोग्य शैली"
+msgstr "सम्पादनयोग्य"
 
 msgid "Editing"
 msgstr "सम्पादन गर्दै"
 
-msgid "Editing Canceled"
-msgstr "आकृतिकरण"
-
-msgid "Editor's Picks"
-msgstr "सम्पादक प्रकाशन गर्दै"
-
 msgid "Education"
 msgstr "शिक्षा"
 
-msgid "Electronics"
-msgstr "इलेक्ट्रोनिक्स"
-
-msgid "Ellipsize"
-msgstr "दीर्घबृत्ताकार"
-
-msgid "Ellipsize set"
-msgstr "दीर्घाकार सेट"
-
-msgid "Email"
-msgstr "इमेल"
-
-msgid "Embed Page Setup"
-msgstr "पन्नाको आकार"
-
 msgid "Empty"
 msgstr "रित्याउनुहोस्"
-
-msgid "Emulators"
-msgstr "इमुलेटरहरू"
-
-msgid "Enable Accelerators"
-msgstr "द्रुतसञ्चालकहरु परिवर्तन गर्न सकिन्छ"
-
-msgid "Enable Animations"
-msgstr "रङ्गचित्राङकन"
-
-msgid "Enable Event Sounds"
-msgstr "रङ्गचित्राङकन"
-
-msgid "Enable Grid Lines"
-msgstr "वाँण चिन्हहरु सक्षम छन्"
-
-msgid "Enable Mnemonics"
-msgstr "रङ्गचित्राङकन"
-
-msgid "Enable Popup"
-msgstr "तुरुन्तै हेर्न सक्षम"
-
-msgid "Enable Search"
-msgstr "खोज सक्रिय पार"
-
-msgid "Enable Tooltips"
-msgstr "औजारटिपहरू"
-
-msgid "Enable Tree Lines"
-msgstr "वाँण चिन्हहरु सक्षम छन्"
-
-msgid "Engineering"
-msgstr "इञ्जिनियरिङ"
 
 msgid "English"
 msgstr "अङ्ग्रेजी"
@@ -1135,338 +328,122 @@ msgstr "अङ्ग्रेजी"
 msgid "Error"
 msgstr "त्रुटि"
 
-msgid "Error color"
-msgstr "कर्सर रङ्ग"
+msgid "Error opening file"
+msgstr "फाइल खोल्दा त्रुटि"
 
-msgid "Error underline color"
-msgstr "कच रङ्गमा गल्ती"
+msgid "Error reading file."
+msgstr "फाइल पढ्दा त्रुटि ।"
+
+msgid "Errors"
+msgstr "त्रुटिहरू"
 
 msgid "Esperanto"
 msgstr "इस्पेरान्टो"
 
-msgid "Even Row Color"
-msgstr "जोर पंक्तिको रङ्ग"
-
-msgid "Event base"
-msgstr "घटनाहरू"
+msgid "Event"
+msgstr "घटना"
 
 msgid "Events"
 msgstr "घटनाहरू"
 
 msgid "Executive"
-msgstr "कार्यान्वयन गर्नुहोस्"
+msgstr "कार्यकर्ता"
 
 msgid "Expand"
-msgstr "ठूलो बनाउनु"
-
-msgid "Expand timeout"
-msgstr "वृद्धिकारक आकार"
+msgstr "फैलाउनुहोस्"
 
 msgid "Expanded"
-msgstr "बढाइएको"
+msgstr "विस्तारित"
 
-msgid "Expander Column"
-msgstr "विस्तारित स्तम्भ"
-
-msgid "Expander Size"
-msgstr "वृद्धिकारक आकार"
-
-msgid "Export filename"
-msgstr "फाइलनाम"
-
-msgid "Extension events"
-msgstr "विस्तारित घटनाहरु"
-
-msgid "Extra space at the left and right edges of the menu"
-msgstr "सूचीको माथि र तल पट्टी अतिरिक्त ठाँउ"
-
-msgid "Extra space at the top and bottom of the menu"
-msgstr "सूचीको माथि र तल पट्टी अतिरिक्त ठाँउ"
-
-msgid "Extra space to add for GTK_CAN_DEFAULT buttons"
-msgstr "क्यान_पूर्वनिर्धारित बटनहरुका लागि अतिरिक्त ठाँउ थप"
-
-msgid "Extra space to add for GTK_CAN_DEFAULT buttons that is always drawn outside the border"
-msgstr "क्यान_पूर्वनिर्धारित बटनहरुका लागि अतिरिक्त ठाँउ थप जसले सँधै सीमारेखाको बाहिर रेखाङ्कित गर्छ"
-
-msgid "Extra space to put between the child and its left and right neighbors, in pixels"
-msgstr "पिक्सल भित्र शाखा र यसको देब्रे र दाहिने दुबै छेउको बीचमा राख्नलाई अतिरिक्त ठाउँ"
-
-msgid "Extra space to put between the child and its neighbors, in pixels"
-msgstr "पिक्सलभित्र शाखाहरु र यसका छिमेकीहरुको बीचमा राख्नलाई अतिरिक्त ठाउँ"
-
-msgid "Extra space to put between the child and its upper and lower neighbors, in pixels"
-msgstr "पिक्सलभित्र बच्चा र यसको माथिल्लो र तल्लो दुबै छेउको बीचमा राख्नलाई अतिरिक्त ठाउँ"
-
-msgid "Extra widget"
-msgstr "अतिरिक्त औजार"
-
-msgid "Eyes number:"
-msgstr "आँखा सङ्ख्या:"
-
-msgid "FALSE displays the \"invisible char\" instead of the actual text (password mode)"
-msgstr "गलतले वास्तविक पाठको सट्टा \"अदृश्य वर्ण\"देखाउँछ (प्रवेशचिन्ह मोड)"
-
-msgid "FALSE removes outside bevel from entry"
-msgstr "गलतले प्रविष्टिबाट मापकयन्त्रलाई बाहिर हटाउँछ"
+msgid "Extensions"
+msgstr "विस्तार"
 
 msgid "FILENAME"
-msgstr "फाइलको नाम"
+msgstr "FILENAME"
 
-msgid "FLAGS"
-msgstr "FLAGS"
-
-msgid "Face"
-msgstr "अनुहार"
-
-msgid "Failed To Update"
-msgstr "प्रत्यायोजनहरू अद्यावधिक गर्न असफल भयो:"
-
-msgid "Failed to load icon"
-msgstr "TIFF छवि लोड गर्न असफल"
-
-msgid "Failed to load image '%{string}': reason not known, probably a corrupt image file"
-msgstr "छवि '%{string}' लोड गर्न असफल: कारण अज्ञात, संभवत एउटा नष्ट छवि फाइल"
-
-msgid "Failed to write folder index\n"
-msgstr "अस्थायी फाइलबाट पढ्न असफल"
-
-msgid "Fallback Icon Theme Name"
-msgstr "चित्र सोच नाम"
-
-msgid "Featured Application"
-msgstr "उपलब्ध अनुप्रयोग:"
-
-msgid "Feed"
-msgstr "फिड"
+msgid "Factor"
+msgstr "तत्व"
 
 msgid "File"
-msgstr "फाइलहरू"
-
-msgid "File Manager"
-msgstr "फाइल प्रबन्धक"
+msgstr "फाइल"
 
 msgid "File System"
 msgstr "फाइल प्रणाली"
 
-msgid "File System Root"
-msgstr "फाइल प्रणाली"
+msgid "File Type"
+msgstr "फाइल प्रकार"
 
-msgid "File Tools"
-msgstr "/उपकरणहरू/फाइल स्थानान्तरणहरू"
-
-msgid "File Transfer"
-msgstr "फाइल स्थानान्तरण"
-
-msgid "File not found: %{string}\n"
-msgstr "%{string} माउण्ट गर्न सकेन"
-
-msgid "Filename"
-msgstr "फाइलनाम"
-
-msgid "Filename to load and display"
-msgstr "लेखपत्र लोडगर र देखाऊ"
+msgid "File name"
+msgstr "फाइल नाम"
 
 msgid "Files"
 msgstr "फाइलहरू"
 
 msgid "Fill"
-msgstr "भर"
+msgstr "भर्नुहोस्"
+
+msgid "Fill Color"
+msgstr "रङ भर्नुहोस्"
 
 msgid "Filter"
-msgstr "छनौट गर्नु"
+msgstr "फिल्टर"
+
+msgid "Filters"
+msgstr "फिल्टरहरू"
 
 msgid "Finance"
-msgstr "वित्त"
-
-msgid "Find and _Replace"
-msgstr "फेला पार्नुहोस् र प्रतिस्थापन गर्नुहोस्"
+msgstr "वित्तहरू"
 
 msgid "Finished"
-msgstr "फेला पार्नुहोस्"
+msgstr "समाप्त गरियो"
 
 msgid "Finnish"
 msgstr "फिनिस"
 
-msgid "Five Stars"
-msgstr "चिडीको पञ्जा"
+msgid "First color"
+msgstr "पहिलो रङ"
 
-msgid "Five days ago"
-msgstr "गत ५ दिनको सन्देशहरू"
+msgid "Fixed"
+msgstr "स्थिर"
 
-msgid "Fixed Height Mode"
-msgstr "निश्चित उचाइको मोड"
+msgid "Flip"
+msgstr "फ्लिप गर्नुहोस्"
 
-msgid "Fixed Width"
-msgstr "निश्चित गरिएको चौडाई"
-
-msgid "Fixed slider size"
-msgstr "निश्चित गरिएको चिप्ल्याउनेको आकार"
-
-msgid "Flow Chart"
-msgstr "स्टारचार्ट चार्ट"
-
-msgid "Focus in Toplevel"
-msgstr "उच्च तहमा संकेन्द्रित"
-
-msgid "Focus line dash pattern"
-msgstr "धर्सा नमुनाको संकेन्द्रविन्दु लाईन"
-
-msgid "Focus linewidth"
-msgstr "चौडाइलाईनको संकेन्द्र"
-
-msgid "Focus on click"
-msgstr "थिच्नेमा फोकस गर"
-
-msgid "Focus on map"
-msgstr "नक्सामा केन्द्रित गर"
-
-msgid "Focus padding"
-msgstr "रिक्तस्थान पूर्तिका लागि संकेन्द्रित विन्दु"
-
-msgid "Folder Name"
-msgstr "फोल्डरको नाम:"
-
-msgid "Folio"
-msgstr "रङ"
-
-msgid "Follow State"
-msgstr "स्टेट फलो गर्नुहोस्"
+msgid "Folder"
+msgstr "फोल्डर"
 
 msgid "Font"
-msgstr "वर्ण"
+msgstr "फन्ट"
 
 msgid "Font Name"
-msgstr "वर्णको नाम"
+msgstr "फन्ट नाम"
 
 msgid "Font Selection"
 msgstr "फन्ट चयन"
 
-msgid "Font description as a PangoFontDescription struct"
-msgstr "प्याङ्गो वर्ण विवरणको संरचना जस्तो वर्ण विवरण"
-
-msgid "Font description as a string, e.g. \"Sans Italic 12\""
-msgstr "सूत्र जस्तो वर्ण बर्णन ,  \"सान्स इटालिक १२\""
-
-msgid "Font family"
-msgstr "वर्ण परिवार"
-
-msgid "Font family set"
-msgstr "वर्णको परिवार मिलाउ"
-
-msgid "Font name"
-msgstr "वर्णको नाम"
-
-msgid "Font options"
-msgstr "वर्णका बिन्दुहरु"
-
-msgid "Font points"
-msgstr "वर्णका बिन्दुहरु"
-
-msgid "Font resolution"
-msgstr "वर्णका बिन्दुहरु"
-
-msgid "Font scale"
-msgstr "वर्णको नाप"
-
-msgid "Font scale set"
-msgstr "वर्णको नाप मिलाउ"
-
-msgid "Font scaling factor"
-msgstr "वर्ण नाप्ने आधार"
+msgid "Font color"
+msgstr "फन्ट रङ"
 
 msgid "Font size"
-msgstr "वर्णको आकार"
-
-msgid "Font size as a scale factor relative to the default font size. This properly adapts to theme changes etc. so is recommended. Pango predefines some scales such as PANGO_SCALE_X_LARGE"
-msgstr "पूर्वनिर्धारित वर्ण आकारका रूपमा तत्व मापन सम्बन्धी वर्णको आकार । यो विशेषताले ती वर्णहरूको परिवर्तन आदिलाई ग्रहण गर्ने हुनाले सिफारिस गरिन्छ  । प्याङ्गोले केही मापनलाई प्याङ्गो_मापन_एक्स_ठूलोको रूपमा पूर्वपरिभाषित गर्छ"
-
-msgid "Font size in Pango units"
-msgstr "प्याङ्गो समूहभित्र वर्णको आकार"
-
-msgid "Font size in points"
-msgstr "बिन्दुहरुमा वर्णको आकार"
-
-msgid "Font size set"
-msgstr "वर्णको आकार मिलाउ"
-
-msgid "Font stretch"
-msgstr "वर्ण तन्काउनु"
-
-msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
-msgstr "प्याङ्गो तन्काइ जस्तो वर्ण तन्काइ ,"
-
-msgid "Font stretch set"
-msgstr "वर्णको फैलावट मिलाउ"
-
-msgid "Font style"
-msgstr "वर्णको शैली"
-
-msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
-msgstr "पाङ्गो शैली जस्तो वर्ण शैली , उदाहरण पाङ्गो _शैली_ इटालिक"
-
-msgid "Font style set"
-msgstr "वर्णको शैली मिलाउ"
-
-msgid "Font variant"
-msgstr "वर्णको विविधता"
-
-msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
-msgstr "प्याङ्गोविविधता जस्तो वर्ण विविधता , उदाहरण प्याङ्गो_विविधता_सानो_क्याप्स"
-
-msgid "Font variant set"
-msgstr "वर्णको विविधता मिलाउ"
+msgstr "फन्ट साइज"
 
 msgid "Font weight"
-msgstr "वर्णको भार"
-
-msgid "Font weight as an integer, see predefined values in PangoWeight; for example, PANGO_WEIGHT_BOLD"
-msgstr "पूर्णाङ्कका रूपमा वर्णको भार । उदाहरणका लागि प्याङ्गो_भार_गाढा; प्याङ्गो भारमा पूर्व परिभाषित मान"
-
-msgid "Font weight set"
-msgstr "वर्णको भार मिलाउ"
+msgstr "फन्ट वजन"
 
 msgid "Fonts"
 msgstr "फन्ट"
 
-msgid "Force aspect ratio to match that of the frame's child"
-msgstr "खाकाको शाखाको अनुपात मिलान गर्ने बलको दृष्टिकोण"
-
 msgid "Foreground color"
-msgstr "दृष्य जगतको रङ्ग"
-
-msgid "Foreground color as a (possibly unallocated) GdkColor"
-msgstr "जिडिके रङ्ग जस्तो अघिल्तिरको रङ्ग"
-
-msgid "Foreground color as a GdkColor"
-msgstr "जिडिके रङ्ग जस्तो दृष्य जगतको रङ्ग"
-
-msgid "Foreground color as a string"
-msgstr "सूत्र जस्तो दृष्य जगतको रङ्ग"
-
-msgid "Foreground color for symbolic icons"
-msgstr "सूत्र जस्तो दृष्य जगतको रङ्ग"
-
-msgid "Foreground color name"
-msgstr "दृष्य जगतको रङ्गकोनाम"
-
-msgid "Foreground set"
-msgstr "दृष्य जगत मिलाउ"
-
-msgid "Forward stepper"
-msgstr "अग्रगामी खुड्किला"
-
-msgid "Four Stars"
-msgstr "चारवटा सुट"
-
-msgid "Four days ago"
-msgstr "गत ५ दिनको सन्देशहरू"
+msgstr "अग्रभूमि रङ"
 
 msgid "Fraction"
-msgstr "भागबण्डा"
+msgstr "भिन्न"
 
-msgid "Frame shadow"
-msgstr "खाकाको छाँया"
+msgid "Frame"
+msgstr "फ्रेम"
+
+msgid "Frames"
+msgstr "फ्रेमहरू"
 
 msgid "French"
 msgstr "फ्रेन्च"
@@ -1474,158 +451,68 @@ msgstr "फ्रेन्च"
 msgid "Frequency"
 msgstr "आवृत्ति"
 
-msgid "GDK debugging flags to set"
-msgstr "सेट गरिने GTK + त्रुटि सच्याउने झण्डाहरू"
+msgid "Function"
+msgstr "प्रकार्य"
 
-msgid "GDK debugging flags to unset"
-msgstr "सेट हटाइने GTK + त्रुटि सच्याउने झण्डाहरू"
+msgid "Gamma"
+msgstr "गामा"
 
-msgid "GIcon"
-msgstr "छविचित्र"
-
-msgid "GIcon for primary icon"
-msgstr "यो विण्डोको लागि छविचित्र"
-
-msgid "GTK Modules"
-msgstr "जिटिके मोड्युलहरू"
-
-msgid "GTK+ Options"
-msgstr "GTK+ विकल्पहरू"
-
-msgid "GTK+ debugging flags to set"
-msgstr "सेट गरिने GTK + त्रुटि सच्याउने झण्डाहरू"
-
-msgid "GTK+ debugging flags to unset"
-msgstr "सेट हटाइने GTK + त्रुटि सच्याउने झण्डाहरू"
-
-msgid "GUI Designers"
-msgstr "GUI तत्व"
-
-msgid "Games"
-msgstr "खेलहरू"
-
-msgid "GdkPixbufAnimation to display"
-msgstr "जिडिके पिक्सबफ चित्राङ्कन देखाउनलाई"
-
-msgid "Geoscience"
-msgstr "जियो विज्ञान"
+msgid "General"
+msgstr "साधारण"
 
 msgid "German"
 msgstr "जर्मन"
 
-msgid "Glasses"
-msgstr "चस्मा"
+msgid "Gradient"
+msgstr "ग्रेडियन्ट"
 
-msgid "Go back"
-msgstr "पछाडी जानुहोस्"
+msgid "Gradients"
+msgstr "ग्राडिएन्टहरू"
 
 msgid "Graphics"
-msgstr "ग्राफिक्स"
+msgstr "ग्राफिक्स्"
 
-msgid "Gravity"
-msgstr "गुरुत्व"
+msgid "Gray"
+msgstr "खैरो"
+
+msgid "Grayscale"
+msgstr "खैरोमात्रा"
 
 msgid "Greek"
 msgstr "ग्रीक"
 
-msgid "Grid line pattern"
-msgstr "धर्सा नमुनाको संकेन्द्रविन्दु लाईन"
+msgid "Green"
+msgstr "हरियो"
 
-msgid "Grid line width"
-msgstr "चौडाइलाईनको संकेन्द्र"
+msgid "Grey"
+msgstr "खरानी रङ"
+
+msgid "Grid"
+msgstr "ग्रिड"
 
 msgid "Group"
-msgstr "समूह"
+msgstr "समुह"
 
-msgid "Group Name"
-msgstr "समूह"
+msgid "Guides"
+msgstr "मार्गदर्शकहरू"
 
-msgid "Group name for tab drag and drop"
-msgstr "कार्य समूहको लागि एउटा नाम"
-
-msgid "Ham Radio"
-msgstr "%{string} समूह रेडियो"
-
-msgid "Handle Size"
-msgstr "आकार संचालन गर्नु"
-
-msgid "Handle position"
-msgstr "स्थिति सम्हाल्सनुस्"
-
-msgid "Has Entry"
-msgstr "प्रबिष्टि भएको"
-
-msgid "Has Frame"
-msgstr "फ्रेम छ"
-
-msgid "Has Opacity Control"
-msgstr "अपारदर्सि नियन्त्रण सँग छ"
-
-msgid "Has Resize Grip"
-msgstr "डोरीको पुनराकृति सँग"
-
-msgid "Has Selection"
-msgstr "होवर चयन"
-
-msgid "Has default"
-msgstr "पूर्वनिर्धारित छ"
-
-msgid "Has focus"
-msgstr "संकेन्द्रविन्दु छ"
-
-msgid "Has palette"
-msgstr "रङ्गदानिसँग छ"
-
-msgid "Has selection"
-msgstr "होवर चयन"
-
-msgid "Has tooltip"
-msgstr "औजारटिप"
-
-msgid "Header Padding"
-msgstr "बाँया गद्दा"
-
-msgid "Header Relief"
-msgstr "शीर्षक क्लिकगर्न योग्य छ"
-
-msgid "Header Spacing"
-msgstr "बाँया गद्दा"
-
-msgid "Header image"
-msgstr "शीर्षक क्लिकगर्न योग्य छ"
-
-msgid "Headers Clickable"
-msgstr "शीर्षक क्लिकगर्न योग्य छ"
-
-msgid "Headers Visible"
-msgstr "दृष्य योग्य हेडरहरू"
+msgid "HTML table"
+msgstr "HTML तालिका"
 
 msgid "Height"
-msgstr "उचाई"
+msgstr "लम्बाइ"
 
-msgid "Height request"
-msgstr "उचाइ अनुरोध"
+msgid "Help"
+msgstr "मद्दत"
 
-msgid "Hello %{string}."
-msgstr "हेलो %{string}."
+msgid "Hexagon"
+msgstr "हेक्सागन"
 
-msgid "Hello %{string}. Please Type something."
-msgstr "हेलो %{string}। कृपया केहि टाइप गर्नुहोस् ।"
-
-msgid "Hello, I'm a robot \"%{string}\". Please ask me any question."
-msgstr "हेलो, म रोबोट \"%{string}\" हुँ । कृपया मलाई कुनैपनि प्रश्न सोध्नुहोला ।"
-
-msgid "Help Button"
-msgstr "खबर बटनहरु"
-
-msgid "Hide if empty"
-msgstr "यदि खालि भए लुकाउ"
+msgid "High"
+msgstr "उच्च"
 
 msgid "Hindi"
 msgstr "हिन्दी"
-
-msgid "Hint to help the desktop environment understand what kind of window this is and how to treat it."
-msgstr "यो कस्तो किसिमको विण्डो हो यसलाई कसरी प्रयोगमा ल्याउने भन्ने डेस्कटप वातावरण बुझनका लागि सहयोगी इसारा"
 
 msgid "History"
 msgstr "इतिहास"
@@ -1633,842 +520,203 @@ msgstr "इतिहास"
 msgid "Home"
 msgstr "गृह"
 
-msgid "Homogeneous"
-msgstr "उस्तै प्रकारको"
-
-msgid "Horizontal Adjustment"
-msgstr "क्षितिजीय मिलान"
-
-msgid "Horizontal Adjustment for the widget"
-msgstr "औजारका लागि समतलीय मिलान"
-
-msgid "Horizontal Alignment"
-msgstr "क्षितिजीय पंक्तिबद्ध/"
-
-msgid "Horizontal Offset"
-msgstr "क्षितिजीय स्थापित गर्नु"
-
-msgid "Horizontal Padding"
-msgstr "क्षितिजीय गद्दा"
-
-msgid "Horizontal Scroll Arrow Length"
-msgstr "क्षितिजीय स्क्रोलबार नीति"
-
-msgid "Horizontal Scrollbar Policy"
-msgstr "क्षितिजीय स्क्रोलबार नीति"
-
-msgid "Horizontal Separator Width"
-msgstr "समतलीय विभाजकको चौडाई"
-
-msgid "Horizontal adjustment"
-msgstr "क्षितिजीय मिलान"
-
-msgid "Horizontal alignment"
-msgstr "क्षितिजीय स्थिति"
-
-msgid "Horizontal alignment for child"
-msgstr "शाखाको लागि क्षितिजीय मिलान"
-
-msgid "Horizontal options"
-msgstr "क्षितिजीय विकल्प"
-
-msgid "Horizontal padding"
-msgstr "क्षितिजीय गद्दा"
-
-msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
-msgstr "उपलब्धहुने ठाउँमा शाखाको क्षितिजीय अवस्था छ । ०.० देब्रे पंक्तिकृत हो , १.० दाहिने पंक्तिकृत हो"
-
-msgid "Horizontal scale"
-msgstr "क्षितिजीय नाप"
-
-msgid "Horizontal separation"
-msgstr "क्षितिजीय विकल्प"
-
-msgid "Horizontal space between cells.  Must be an even number"
-msgstr "कोष्टहरूको बीचमा समतलीय खालीठाउँ जोडी नम्बरको हुनैपर्छ"
-
-msgid "Hover Expand"
-msgstr "होवर ठूलो बनाउने"
-
-msgid "Hover Selection"
-msgstr "होवर चयन"
-
-msgid "How far in the x direction to move the arrow when the button is depressed"
-msgstr "जब बटन दबाइन्छ तीर एक्स दिशाको कति टाढा हटाउने"
-
-msgid "How far in the x direction to move the child when the button is depressed"
-msgstr "जब बटन दबाइन्छ उपशाखा एक्स दिशाको कति टाढा हटाउने"
-
-msgid "How far in the y direction to move the arrow when the button is depressed"
-msgstr "जब बटन दबाइन्छ तीर वाई दिशाको कति टाढा हटाउने"
-
-msgid "How far in the y direction to move the child when the button is depressed"
-msgstr "जब बटन दबाइन्छ उपशाखा वाई दिशाको कति टाढा हटाउने"
-
-msgid "How the range should be updated on the screen"
-msgstr "पर्दामा दायरा कसरी सुधार गरिन्छ"
-
-msgid "How the text and icon of each item are positioned relative to each other"
-msgstr "जसरी हरेक प्रकारको पाठ र प्रतिमाहरू एक अर्कामा संबन्धित गराएर राखिन्छ"
-
-msgid "How to align the lines"
-msgstr "औजारबार कसरी खिच्ने"
-
-msgid "How to break the string into multiple lines, if the cell renderer does not have enough room to display the entire string"
-msgstr "स्ट्रिङलाई कसरी धेरै हरफहरूमा टुक्राउने यदि कक्ष प्रतिपादक सँग सबै स्ट्रिङ देखाउन प्रसस्त कोठा छैन"
-
-msgid "How to draw the input method preedit string"
-msgstr "कसरी पूर्वसंपाद्य सूत्रमा प्रवेश प्रकृया रेखाङ्कन गर्ने"
-
-msgid "How to draw the input method statusbar"
-msgstr "कसरी तहरेखामा प्रवेश प्रकृया रेखाङ्कन गर्ने"
-
-msgid "How to draw the toolbar"
-msgstr "औजारबार कसरी खिच्ने"
-
-msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
-msgstr "बाकसमा बटन कसरी बिच्छ्याउने हो । संभावित मानहरू पूर्वनिर्धारित, विस्तारित, किनार, सुरू र अन्त्य हुन्"
+msgid "Horizontal"
+msgstr "तेर्सो"
 
 msgid "Hungarian"
 msgstr "हङ्गेरिएन"
 
-msgid "I am %{number} years old"
-msgstr "मेरो उमेर %{number} वर्ष हो।"
-
 msgid "ID"
-msgstr "आईडी"
-
-msgid "IM Preedit style"
-msgstr "आइएम पूर्वसंपाद्य शैली"
-
-msgid "IM Status style"
-msgstr "आइएम तह शैली"
-
-msgid "IM module"
-msgstr "पूर्वनिर्धारित चौडाइ"
-
-msgid "IPA"
-msgstr "IPA"
-
-msgid "IRC Clients"
-msgstr "IRC प्रोटोकल प्लगइन"
+msgstr "ID"
 
 msgid "Icelandic"
 msgstr "आइसल्याण्डडिक्"
 
 msgid "Icon"
-msgstr "छविचित्र"
-
-msgid "Icon '%{string}' not present in theme"
-msgstr "विषयवस्तुमा प्रतिमा '%{string}' उपस्थित छैन"
-
-msgid "Icon Name"
-msgstr "प्रतिमाको नाम"
-
-msgid "Icon Prelight"
-msgstr "उचाई"
-
-msgid "Icon Sizes"
-msgstr "छविचित्रको आकार"
-
-msgid "Icon Theme Name"
-msgstr "चित्र सोच नाम"
-
-msgid "Icon View Model"
-msgstr "प्रतिमा दृष्य नमुना"
-
-msgid "Icon for this window"
-msgstr "यो विण्डोको लागि छविचित्र"
-
-msgid "Icon name"
-msgstr "प्रतिमाको नाम"
+msgstr "प्रतिमा"
 
 msgid "Icon set"
-msgstr "छविचित्र मिलाउ"
-
-msgid "Icon set to display"
-msgstr "देखाउनको लागि छविचित्र स्थपित गर"
+msgstr "प्रतिमा सेट"
 
 msgid "Icon size"
-msgstr "छविचित्रको आकार"
-
-msgid "Icon size set"
-msgstr "वर्णको आकार मिलाउ"
-
-msgid "Icon spacing"
-msgstr "पंक्तिको स्पेसिङ:"
-
-msgid "Icon widget"
-msgstr "चिन्हरुपि औजार"
-
-msgid "Icon widget to display in the item"
-msgstr "आइटममा देखाउने छविचित्र औजार"
+msgstr "प्रतिमा साइज"
 
 msgid "Icons"
-msgstr "छविचित्र"
-
-msgid "If FALSE, don't allow to enter strings other than the chosen ones"
-msgstr "यदि बेठीक छो भन छानिएका भन्दा अन्य स्ट्रिङहरूलाई प्रबिष्टि गराउन अनुमति छैने"
-
-msgid "If TRUE, a heading is displayed"
-msgstr "यदि सत्य हो भने शीर्षक देखाइन्छ"
-
-msgid "If TRUE, day names are displayed"
-msgstr "यदि सत्य हो भने दिनका नामहरु देखाइन्छन"
-
-msgid "If TRUE, details are shown"
-msgstr "यदि सत्य हो भने दिनका नामहरु देखाइन्छन"
-
-msgid "If TRUE, pressing the right mouse button on the notebook pops up a menu that you can use to go to a page"
-msgstr "यदि सत्य हो भने अभ्यास पुस्तिकाको दायाँ माउस बटन थिच्दा मेनु पप-अप गरिन्छ र तपाईँ पन्नाभित्र जान सक्नुहुन्छ"
-
-msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
-msgstr "यदि सत्यहो भने ,यदि त्यहाँ धेरै ट्याबहरु मिलेकाछन् भने बिधुतिय बृतको एरोहरु थपिन्छन"
-
-msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
-msgstr "ठीक छ भने उपशाखा द्वितीय समूहको शाखाका रूपमा देखिन उपयुक्त सहयोगी बटनहरू"
-
-msgid "If TRUE, the child can be made smaller than its requisition"
-msgstr "सत्य हो भने उपशाखाले मागगरिएको भन्दा सानो बनाउनसक्छ"
-
-msgid "If TRUE, the child expands and shrinks along with the paned widget"
-msgstr "सही छभने प्यान औजारसँगै उपशाखाको वृद्धि र संकुचन हुन्छ"
-
-msgid "If TRUE, the popup window will appear for a single match."
-msgstr "यदि सही छ भने पपअप सञ्झ्यालमा उहि आकारको प्रबिष्टि हुनेछ"
-
-msgid "If TRUE, the popup window will have the same size as the entry"
-msgstr "यदि सही छ भने पपअप सञ्झ्यालमा उहि आकारको प्रबिष्टि हुनेछ"
-
-msgid "If TRUE, the selected month cannot be changed"
-msgstr "यदि सत्य हो भने छानिएका महिनाहरु परिवर्तित हुन सक्दैनन्"
-
-msgid "If TRUE, the table cells are all the same width/height"
-msgstr "ठीकको मतलब तालिकाका कोष्ठकहरू बराबर लम्बाई/चौडाईका छन्"
-
-msgid "If TRUE, the widget will receive the default action when it is focused"
-msgstr "ठीक छभने यो संकेन्द्रित हुन्छ र औजारले पूर्वनिश्चित कार्य प्राप्त गर्ला"
-
-msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
-msgstr "साँचो हो भने विण्डो उएटा नमुना हो(अरू विण्डोहरू प्रयोग योग्य छैनन्)"
-
-msgid "If TRUE, users can resize the window"
-msgstr "यदि सत्यहो भने प्रयोगकर्ताहरु विण्डोको पुनराकृति दिनसक्छन्"
-
-msgid "If TRUE, week numbers are displayed"
-msgstr "यदि सत्य हो भने सप्ताहका संख्याहरु देखाइन्छन"
-
-msgid "If an arrow should be shown if the toolbar doesn't fit"
-msgstr "औजारबार नमिल्दा तीर देखाउनु छभने"
-
-msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "यदि उपलब्ध क्षितिजीय ठाउँ शाखाको लागि आबश्यक्ता भन्दा ठूलो छ भने, शाखाको लागि यासको कति प्रयोग हुन्छ् ०।०को अर्थ केहि पनि हुदैन ,१।०को अर्थ सबै"
-
-msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "यदि उपलब्ध उर्ध्व ठाउँ शाखाको लागि आवश्यकता भन्दा ठूलो छ भने, शाखाको लागि यसको कति प्रयोग हुन्छ् ०।०को अर्थ केही पनि हुदैन ,१।०को अर्थ सबै"
-
-msgid "If set, an underline in the label property indicates that the next character should be used for the mnemonic accelerator key in the overflow menu"
-msgstr "यदि मिलाईएको छ भने छापकव मुनि कच देखाउँछ र अर्को वर्ण अति बहन मेनुमा द्रूतसञ्चालकको स्मृतिसहायक टीकाको प्रयोगगर्न सकिन्छ"
-
-msgid "If set, an underline in the text indicates the next character should be used for the mnemonic accelerator key"
-msgstr "यदि मिलाईएको छ भने द्रूतसञ्चालकको स्मृतिसहायक टीकाको पाठमुनि अर्को वर्ण प्रयोगगर्न सकिन्छ"
-
-msgid "If set, the label is used to pick a stock item instead of being displayed"
-msgstr "यदि मिलाईएको छ भने प्रदर्शन हुनुको साटो लेबलले बचत गरिएको चिज झिक्ने गर्छ"
-
-msgid "If set, wrap lines if the text becomes too wide"
-msgstr "जडान गर्नुछ भने, पाठ भेरै फराकिलो भएमा लाईनहरूलाई लपेट्नुस्"
-
-msgid "If the insertion cursor is shown"
-msgstr "यदि घुसार्ने कर्सर देखाइन्छ भने"
-
-msgid "If the toggle button is in an \"in between\" state"
-msgstr "टगल बटन \"बीचमा\" स्थितिक हो भने"
-
-msgid "If the toggle button should be pressed in"
-msgstr "टगल बटन दबाउनु पर्ने हो कि होइन"
-
-msgid "If the toggle part of the button is displayed"
-msgstr "यदि बटनको टगल भाग देखाउनु छभने"
-
-msgid "If this window should be destroyed when the parent is destroyed"
-msgstr "तब यो विण्डो नस्ट हुनुपर्छ जब आधार नस्ट हुनेछ"
+msgstr "बटनहरू"
 
 msgid "Image"
-msgstr "चित्र"
+msgstr "छवि"
 
-msgid "Image Processing"
-msgstr "प्रक्रिया गर्दा त्रुटि"
+msgid "Image size"
+msgstr "छविचित्र साइज"
 
-msgid "Image position"
-msgstr "स्थिति सम्हाल्सनुस्"
-
-msgid "Image spacing"
-msgstr "मूल्यको स्पेसिङ"
-
-msgid "Image widget"
-msgstr "छबि विजेट"
-
-msgid "Image/label border"
-msgstr "छविचित्र /लेबल सीमाना"
-
-msgid "Inconsistent"
-msgstr "परस्परबिरोधि"
-
-msgid "Inconsistent state"
-msgstr "परस्परबिरोधि स्थिति"
+msgid "Images"
+msgstr "छविहरू"
 
 msgid "Increase Indent"
 msgstr "इन्डेन्ट बढाउनुहोस्"
 
 msgid "Indent"
-msgstr "हरफ मिलाउनु"
-
-msgid "Indent Expanders"
-msgstr "इण्डेण्ट वृद्धिकारक"
-
-msgid "Indent set"
-msgstr "हरफ मिलान"
-
-msgid "Index 3x5"
-msgstr "अनुक्रमणिका"
-
-msgid "Index 5x8"
-msgstr "अनुक्रमणिका"
-
-msgid "Indicator Size"
-msgstr "सूचकको आकार"
-
-msgid "Indicator Spacing"
-msgstr "स्पेसिङ सूचक"
-
-msgid "Indicator size"
-msgstr "सूचकको आकार"
+msgstr "इन्डेन्ट"
 
 msgid "Information"
-msgstr "जानकारी"
-
-msgid "Inline completion"
-msgstr "हरफभित्र पुरा गर्ने"
-
-msgid "Inline selection"
-msgstr "हरफभित्र पुरा गर्ने"
-
-msgid "Inner Border"
-msgstr "ट्याब सीमाना"
-
-msgid "Inner border"
-msgstr "ट्याब सीमाना"
-
-msgid "Inner border space"
-msgstr "ट्याब सीमाना"
-
-msgid "Input Sources"
-msgstr "आगत स्रोतहरू"
+msgstr "सूचना"
 
 msgid "Input _Methods"
 msgstr "आगत विधिहरू"
 
-msgid "Input mode for the device"
-msgstr "उर्ध्व दृश्यका लागि ढाँचा"
+msgid "Insert Point"
+msgstr "बिन्दु घुसाउनुहोस्"
 
 msgid "Install"
 msgstr "स्थापना गर्नुहोस्"
 
-msgid "Installation of %{string} failed."
-msgstr "प्रयोग स्थापना असफल भयो!"
-
-msgid "Installed"
-msgstr "स्थापना भयो"
-
-msgid "Installed Updates"
-msgstr "स्थापना नगरिएको"
-
-msgid "Installed from this Source"
-msgstr "यस शब्दकोश स्रोतको वर्णन"
-
-msgid "Installed page"
-msgstr "पृष्ठ नेभिगेसन"
-
-msgid "Installing"
-msgstr "स्थापना गर्नुहोस्..."
-
-msgid "Instant Messaging"
-msgstr "शीघ्र सन्देश"
-
-msgid "Intensity of the color."
-msgstr "रङको पारदर्शीता"
-
-msgid "Interior Focus"
-msgstr "आन्तरिक संकेन्द्रविन्दु"
-
-msgid "Internal padding"
-msgstr "आन्तरिक गद्दा"
+msgid "Integer"
+msgstr "इन्टिजर"
 
 msgid "Internet"
 msgstr "इन्टरनेट"
 
-msgid "Internet Only Application"
-msgstr "अनुप्रयोग प्रतिमा मात्रै"
+msgid "Intersection"
+msgstr "प्रतिच्छेदन"
 
-msgid "Inuktitut (Transliterated)"
-msgstr "इनुकटिटुट (रूपान्तरित)"
-
-msgid "Invalid"
-msgstr "अवैध UTF-8"
-
-msgid "Invalid URI"
-msgstr "अवैध UTF-8"
-
-msgid "Invalid argument to CreateDC"
-msgstr "प्रतिमामा अवैध हेडर"
-
-msgid "Invalid file name"
-msgstr "अवैध फाइल नाम"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "प्रतिमामा अवैध हेडर"
-
-msgid "Invalid path"
-msgstr "अवैध UTF-8"
-
-msgid "Invert direction slider moves to increase range value"
-msgstr "उल्टो दिशाको स्लाईडरले दायराको बड्दो मानलाई हटाउँछ"
-
-msgid "Invert the direction in which the progress bar grows"
-msgstr "प्रगतिबारको अभिमुखिकृत र बड्दो दिशा"
-
-msgid "Inverted"
-msgstr "उल्टाइयो"
+msgid "Invert"
+msgstr "उल्टो पार्नुहोस्"
 
 msgid "Invisible"
 msgstr "अदृश्य"
 
-msgid "Invisible character"
-msgstr "अदृश्य वर्ण"
-
-msgid "Invisible character set"
-msgstr "अदृश्य वर्ण"
-
-msgid "Invisible set"
-msgstr "अदृश्य समूह"
-
-msgid "Is Active"
-msgstr "सक्रिय छ"
-
-msgid "Is Expanded"
-msgstr "बढाइएको छ"
-
-msgid "Is Expander"
-msgstr "वृद्धि कारक छ"
-
-msgid "Is Showing"
-msgstr "शीर्षक देखाऊ"
-
-msgid "Is Virtual"
-msgstr "महत्वपूर्ण छ"
-
-msgid "Is focus"
-msgstr "संकेन्द्रविन्दु हो"
-
-msgid "Is important"
-msgstr "महत्वपूर्ण छ"
-
 msgid "Italian"
 msgstr "इटालियन"
 
-msgid "Item Orientation"
-msgstr "अभिमुखीकरण"
-
-msgid "Item Padding"
-msgstr "तलको गद्दा"
-
-msgid "Job Name"
-msgstr "प्रतिमाको नाम"
-
-msgid "Justification"
-msgstr "मिलान"
-
-msgid "Justification set"
-msgstr "समर्थन  समूह"
-
-msgid "KP_Delete"
-msgstr "मेट्नुहोस्"
-
-msgid "KP_Enter"
-msgstr "मुद्रण गर्नुहोस्"
-
-msgid "KP_Home"
-msgstr "गृह"
-
-msgid "KP_Page_Down"
-msgstr "KP Page Down"
-
-msgid "KP_Right"
-msgstr "ह्यु:"
-
-msgid "KP_Space"
-msgstr "बदल्नुहोस्"
-
-msgid "Key Theme Name"
-msgstr "कि सोच नाम"
-
-msgid "Keybinding to activate the menu bar"
-msgstr "मेनुबारलाई सक्रिय गर्न किबाइन्डिङ्ग"
-
-msgid "LRE Left-to-right _embedding"
-msgstr "LRE बायाँ-बाट-दायाँ _सम्मिलित"
-
-msgid "LRM _Left-to-right mark"
-msgstr "LRM _बायाँ-बाट-दायाँ चिनो"
-
-msgid "LRO Left-to-right _override"
-msgstr "LRO बायाँ-बाट-दायाँ अधिरोहण"
+msgid "Keyboard"
+msgstr "कीबोर्ड"
 
 msgid "Label"
-msgstr "लेबल /तह"
+msgstr "लेबुल"
 
-msgid "Label fill"
-msgstr "ट्याब भर्नु"
-
-msgid "Label widget"
-msgstr "लेबल औजार"
-
-msgid "Label xalign"
-msgstr "एक्स पंक्तिबद्ध लेबल"
-
-msgid "Label yalign"
-msgstr "वाई पंक्तिबद्ध लेबल"
-
-msgid "Lancashire"
-msgstr "लान्कासायर"
+msgid "Landscape"
+msgstr "ल्यान्डस्केप"
 
 msgid "Language"
 msgstr "भाषा"
 
-msgid "Language Packs"
-msgstr "क्षेत्र र भाषा"
-
-msgid "Language set"
-msgstr "भाषा मिलाउ"
-
 msgid "Languages"
 msgstr "भाषाहरु"
 
-msgid "Largest possible value for the \"position\" property"
-msgstr "\"स्थिति\" विशेषता\"का लागि अधिकतम संभावित मान"
+msgid "Large"
+msgstr "ठूलो"
 
-msgid "Last Checked"
-msgstr "जाँच गरिएन"
+msgid "Layer"
+msgstr "तह"
 
-msgid "Latin"
-msgstr "ल्याटिन"
-
-msgid "Launch"
-msgstr "सुरुआत गर्नुहोस्"
-
-msgid "Layout style"
-msgstr "रुपरेखाको शैली"
-
-msgid "Left Attach"
-msgstr "बाँया संलग्न"
-
-msgid "Left Margin"
-msgstr "बायाँ किनारा"
-
-msgid "Left Padding"
-msgstr "बाँया गद्दा"
-
-msgid "Left attachment"
-msgstr "देब्रे छेउमा जोडिएको"
-
-msgid "Left gravity"
-msgstr "गुरुत्व"
+msgid "Left"
+msgstr "बायाँ"
 
 msgid "Left margin"
-msgstr "देब्रे किनार"
+msgstr "बायाँ सीमान्त"
 
-msgid "Left margin set"
-msgstr "बायाँ सीमा मिलान"
+msgid "Legal"
+msgstr "कानुनी"
 
-msgid "Left to right"
-msgstr "LRM _बायाँ-बाट-दायाँ चिनो"
+msgid "Level"
+msgstr "स्तर"
 
-msgid "Left, right, or center justification"
-msgstr "दायाँ, बायाँ वा बीचको मिलान"
-
-msgid "Length of scale's slider"
-msgstr "चिप्ल्याउने नापको  लम्बाइ"
-
-msgid "Length of step buttons at ends"
-msgstr "अन्त्यमा पाइलाको बटनको लम्बाइ"
-
-msgid "Length of the cursor blink cycle, in milliseconds"
-msgstr "मिलिसेकेण्डभित्र करसर झिमझिम गर्ने साइकलको लम्बाइ"
+msgid "Levels"
+msgstr "स्तरहरू"
 
 msgid "License"
-msgstr "इजाजतपत्र"
+msgstr "अनुमतिपत्र"
 
-msgid "License Type"
-msgstr "खबर प्रकार"
+msgid "Light"
+msgstr "हल्का"
 
-msgid "Line wrap"
-msgstr "रेखा लपेट"
+msgid "Line"
+msgstr "#-#-#-#-#  report.po (PACKAGE VERSION)  #-#-#-#-#\nLine\n#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\nरेखा\n#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\nरेखा\n#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\nरेखा\n#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\nलाइन"
 
-msgid "Line wrap mode"
-msgstr "रेखा लपेट"
+msgid "Line spacing"
+msgstr "रेखा खालीठाउँ"
 
-msgid "List of authors of the program"
-msgstr "कर्यक्रमका लेखकहरूको सूची"
-
-msgid "List of currently active GTK modules"
-msgstr "हालका सकृय जिटिके मोड्युलहरू सूची"
-
-msgid "List of icon names"
-msgstr "लोगो प्रतिमाको नाम"
-
-msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
-msgstr "आइकनको आकारहरुको सूची"
-
-msgid "List of people documenting the program"
-msgstr "कार्यक्रम डकुमेण्ट गर्ने मानिसहरूको सूची"
-
-msgid "List of people who have contributed artwork to the program"
-msgstr "कार्यक्रममा कलाकारिता सहयोग गर्ने मानिसहरूको सूची"
-
-msgid "List of the GtkPrintBackend backends to use by default"
-msgstr "जीटीके फाइल चयकको नाम पछाडि पारेर पूर्वनिर्धारित प्रयोग गर्न"
-
-msgid "Load additional GTK+ modules"
-msgstr "थप GTK+ मोड्युलहरू लोड गर्नुहोस्"
-
-msgid "Local Only"
-msgstr "स्थानीय मात्र"
-
-msgid "Local only"
-msgstr "स्थानीय मात्र"
+msgid "Linear"
+msgstr "रेखात्मक"
 
 msgid "Location"
-msgstr "कार्य"
-
-msgid "Logic"
-msgstr "लोजिक"
+msgstr "स्थान"
 
 msgid "Logo"
 msgstr "लोगो"
 
-msgid "Logo Icon Name"
-msgstr "लोगो प्रतिमाको नाम"
+msgid "Loop"
+msgstr "लूप"
 
-msgid "Looking for new updates…"
-msgstr "नयाँ भागहरूका लागि जाँच गर्नुहोस्:"
-
-msgid "Lower"
-msgstr "तल्लो"
-
-msgid "Lower limit of ruler"
-msgstr "मापकको तल्लो हद"
+msgid "Luminance"
+msgstr "लुमिनेन्स"
 
 msgid "MIDI"
 msgstr "MIDI"
 
 msgid "MODE"
-msgstr "मोड:"
-
-msgid "MODULES"
-msgstr "MODULES"
+msgstr "MODE"
 
 msgid "Macedonian"
 msgstr "मेसेडोनियन"
 
-msgid "Make X calls synchronous"
-msgstr "X कलहरू समक्रमित बनाउनुहोस्"
+msgid "Magenta"
+msgstr "म्याजेन्टा"
 
 msgid "Make all warnings fatal"
 msgstr "सबै चेतावनीहरू घातक बनाउनुहोस्"
 
-msgid "Make the expanders indented"
-msgstr "इच्छाइएको बृद्धिकर्ता बनाऊ"
+msgid "Manual"
+msgstr "म्यानुअल"
 
 msgid "Maps"
-msgstr "मानचित्र"
+msgstr "मानचित्रहरू"
+
+msgid "Marble"
+msgstr "मार्वल"
 
 msgid "Margin"
 msgstr "सीमान्त"
 
-msgid "Margin on Left"
-msgstr "सीमान्त"
-
-msgid "Margin on Top"
-msgstr "सीमान्त"
-
-msgid "Mark name"
-msgstr "ट्यागको नाम"
-
-msgid "Marked up text to render"
-msgstr "रेन्डरलाई मार्कअप पाठ"
-
 msgid "Markup"
 msgstr "मार्कअप"
 
-msgid "Markup column"
-msgstr "मार्कअप स्तम्भ"
-
 msgid "Math"
-msgstr "प्रतीक, म्याथ"
+msgstr "गणित"
 
-msgid "Max Size"
-msgstr "अधिकतम आकार"
-
-msgid "Maximal Position"
-msgstr "अधिकतम स्थिति"
+msgid "Matrix"
+msgstr "म्याट्रिक्स"
 
 msgid "Maximum Value"
 msgstr "अघिकतम मान"
 
-msgid "Maximum Width"
-msgstr "अधिकतम चौडाई"
-
-msgid "Maximum Width In Characters"
-msgstr "क्यारेक्टरहरू भित्र अधिकक चौडाइ"
-
-msgid "Maximum age of recently used files, in days"
-msgstr "स्तम्भहरूको संख्या"
-
-msgid "Maximum allowed width of the column"
-msgstr "स्तम्भको अधिकतम स्वीकृत चौडाई"
-
-msgid "Maximum child expand"
-msgstr "शाखाको न्यूनतम चौडाइ"
-
-msgid "Maximum distance allowed between two clicks for them to be considered a double click (in pixels)"
-msgstr "दुई पटक क्लिकका बीचमा अनुमति दिइएको अधिकतम दुरी (पिक्सेलमा)"
-
-msgid "Maximum length"
-msgstr "अधिकतम लम्बाइ"
-
-msgid "Maximum number of characters for this entry. Zero if no maximum"
-msgstr "यो प्रवेशका लागि अक्षरहरुको धेरै संख्या । धेरै भएन भने शुन्य"
-
-msgid "Maximum size of the ruler"
-msgstr "शासकको अधिकतम आकार"
-
-msgid "Maximum time allowed between two clicks for them to be considered a double click (in milliseconds)"
-msgstr "दुई क्लिकका बीचमा लागेको अधिकतम समयकालागि द्वि-क्लिक विचारणीय छ  (मिलिसेकेण्डमा)"
+msgid "Medium"
+msgstr "मध्यम"
 
 msgid "Menu"
 msgstr "मेनु"
 
-msgid "Menu bar accelerator"
-msgstr "मेनुबार द्रुतसञ्चालक"
-
-msgid "Menu label"
-msgstr "मेनु लेबल"
-
-msgid "Merged UI definition"
-msgstr "युआई परिभाषा विलय गरियो"
-
-msgid "Message Buttons"
-msgstr "खबर बटनहरु"
-
-msgid "Message Type"
-msgstr "खबर प्रकार"
-
-msgid "Message area"
-msgstr "खबर प्रकार"
-
-msgid "Metric"
-msgstr "मेट्रिक"
-
-msgid "Minimal Position"
-msgstr "न्यूनतम स्थिति"
-
-msgid "Minimum Key Length"
-msgstr "थोरै टीका लम्बाई"
-
-msgid "Minimum Slider Length"
-msgstr "चिप्ल्याउनेको सानो आकार"
+msgid "Message"
+msgstr "संदेश"
 
 msgid "Minimum Value"
-msgstr "कम्ती मूल्य"
-
-msgid "Minimum Width"
-msgstr "न्यूनतम चौडाई"
-
-msgid "Minimum allowed width of the column"
-msgstr "स्तम्भको न्यूनतम स्वीकृत चौडाई"
-
-msgid "Minimum child height"
-msgstr "शाखाको अधिकतम उचाइ"
-
-msgid "Minimum child width"
-msgstr "शाखाको न्यूनतम चौडाइ"
-
-msgid "Minimum height of buttons inside the box"
-msgstr "बाकसभित्र बटनहरुको न्यूनतम उचाइ"
-
-msgid "Minimum horizontal bar height"
-msgstr "क्षितिजीय स्थिति"
-
-msgid "Minimum horizontal bar width"
-msgstr "समतलीय विभाजकको चौडाई"
-
-msgid "Minimum horizontal height of the progress bar"
-msgstr "प्रगति बारको मान पाठ"
-
-msgid "Minimum length of scrollbar slider"
-msgstr "स्क्रोलबार स्लाईडरको थोरै लम्बाइ"
-
-msgid "Minimum length of the search key in order to look up matches"
-msgstr "तुलनात्मक मिलान हेर्ने क्रममा खोजी टीकाको न्यूनतम लम्बाई"
-
-msgid "Minimum time the pointer must stay over a menu item before the submenu appear"
-msgstr "उपसूची आउनु भन्दा पहिले थोरै समय प्वाइन्टर/कर्ता सूची आइटममाथि बस्नु पर्छ"
-
-msgid "Minimum vertical bar height"
-msgstr "शाखाको अधिकतम उचाइ"
-
-msgid "Minimum vertical bar width"
-msgstr "उर्ध्वतलीय विभाजकको चौडाई"
-
-msgid "Minimum width of buttons inside the box"
-msgstr "बाकसभित्र बटनहरुको न्यूनतम चौडाइ"
-
-msgid "Mixer"
-msgstr "च्यानल मिश्रण"
-
-msgid "Mnemonic key"
-msgstr "एम्नेमोनिक कि"
-
-msgid "Mnemonic widget"
-msgstr "एम्नेमोनिक औजार"
-
-msgid "Mnemonics Visible"
-msgstr "एम्नेमोनिक कि"
-
-msgid "Modal"
-msgstr "नमुना"
+msgstr "न्यूनतम मान"
 
 msgid "Mode"
-msgstr "शैली"
+msgstr "ढङ्ग"
 
 msgid "Model"
-msgstr "शैली"
-
-msgid "Model column to search through during interactive search"
-msgstr "सङ्केतद्वारा खोजीक्रमको मोडेल स्तम्भ"
-
-msgid "Model column used to retrieve the icon pixbuf from"
-msgstr "प्रतिमा पिक्सबफ वाट पुनप्राप्त गर्न नमुना स्तम्भ प्रयोग"
-
-msgid "Model column used to retrieve the text from"
-msgstr "पाठबाट पुन प्राप्त गर्न नमुना स्तम्भ प्रयोग"
-
-msgid "Model column used to retrieve the text if using Pango markup"
-msgstr "यदि पाङ्गो चिन्ह दिन प्रयोग गरिरहिन्छ भने पाठ प्राप्त गर्न नमुना स्तम्भ प्रयोग गरिन्छ"
+msgstr "नमूना"
 
 msgid "Modified"
 msgstr "परिमार्जित"
+
+msgid "Module"
+msgstr "मोड्युल"
+
+msgid "Modules"
+msgstr "मोड्युलहरू"
 
 msgid "Monitor"
 msgstr "मोनिटर"
@@ -2476,212 +724,92 @@ msgstr "मोनिटर"
 msgid "Month"
 msgstr "महिना"
 
-msgid "Music"
-msgstr "सङ्गीत"
+msgid "More..."
+msgstr "थप ..."
 
-msgid "My Neighborhood"
-msgstr "मेरो छिमेक"
+msgid "Mosaic"
+msgstr "मोसाइक"
 
-msgid "NAME"
-msgstr "NAME"
+msgid "Move"
+msgstr "ढङ्ग"
+
+msgid "Move Down"
+msgstr "तल सार्नुहोस्"
+
+msgid "Move Up"
+msgstr "माथि सार्नुहोस्"
 
 msgid "Name"
 msgstr "नाम"
 
-msgid "Name of a icon theme to fall back to"
-msgstr "चित्र सोचको नाम प्रयोग गर"
-
-msgid "Name of default font to use"
-msgstr "पूर्वनिर्धारित प्रयोग गरिने वर्णको नाम"
-
-msgid "Name of icon theme to use"
-msgstr "चित्र सोचको नाम प्रयोग गर"
-
-msgid "Name of key theme RC file to load"
-msgstr "किको गहनकुराको नाम,लोड हुनलाई आरसि फाइल"
-
-msgid "Name of the GtkFileChooser backend to use by default"
-msgstr "जीटीके फाइल चयकको नाम पछाडि पारेर पूर्वनिर्धारित प्रयोग गर्न"
-
-msgid "Name of the cursor theme to use, or NULL to use the default theme"
-msgstr "चित्र सोचको नाम प्रयोग गर"
-
-msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
-msgstr "वर्ण परिवारको नाम,उदाहरणको लागि साने,हेल्भेटिला, टाइम्स,मोनोस्पेस"
-
-msgid "Name of the printer"
-msgstr "चित्र सोचको नाम प्रयोग गर"
-
-msgid "Name of the themed icon for this window"
-msgstr "यस सञ्झ्यालका लागि थिम भएको प्रतिमा नाम"
-
-msgid "Name of theme RC file to load"
-msgstr "आरसि फाइल लोड हुनलाई सारभूत छनौट नाम"
-
-msgid "Name used to refer to the text tag. NULL for anonymous tags"
-msgstr "पाठ ट्याग सिफारिस गर्न प्रयोग हुने नाम । बेनाम ट्यागका लागि शून्य मान"
-
-msgid "Network Settings"
-msgstr "सञ्जाल सेटिङ"
+msgid "Navigation"
+msgstr "नेभिगेसन"
 
 msgid "Never"
-msgstr "कहिल्यै पनि"
+msgstr "कहिलेपनि होइन"
+
+msgid "New Template"
+msgstr "नयाँ टेम्प्लेट"
 
 msgid "News"
 msgstr "समाचारहरू"
 
-msgid "No AppStream data found"
-msgstr "पीजीपी डेटा फेला परेन ।"
+msgid "No"
+msgstr "होइन"
 
-msgid "No Application Data Found"
-msgstr "पीजीपी डेटा फेला परेन ।"
+msgid "No action"
+msgstr "कार्य छैन"
 
-msgid "No Application Found"
-msgstr "कुनै रचनाहरू फेला परेन"
-
-msgid "No Month Change"
-msgstr "महिना परिवर्तन छैन"
-
-msgid "No Network"
-msgstr "सञ्जाल जडान छैन"
-
-msgid "No Software Source Included"
-msgstr "सफ्टवेर बिकास/सोर्स कोड"
-
-msgid "No items found"
-msgstr "कुनै XPM हेडर फेला परेन"
-
-msgid "No pre-filtering"
-msgstr "कुनै XPM हेडर फेला परेन"
-
-msgid "No printer found"
-msgstr "कुनै XPM हेडर फेला परेन"
-
-msgid "No show all"
-msgstr "सबै नदेखाऊ"
-
-msgid "No software installed"
-msgstr "टेम्प्लेटहरू स्थापना गरिएको छैन"
-
-msgid "No sources found."
-msgstr "शब्दकोश स्रोत फेला पर्यो"
-
-msgid "No update description available."
-msgstr "जङ्क प्लगइन उपलब्ध छैन"
+msgid "No compression"
+msgstr "सङ्कुचन हुँदैन"
 
 msgid "None"
 msgstr "कुनै पनि होइन"
 
-msgid "Norwegian"
-msgstr "नर्विजियन"
+msgid "Normal"
+msgstr "सामान्य"
 
-msgid "Not Now"
-msgstr "I/O अब सम्भव छ"
-
-msgid "Not enough free memory"
-msgstr "प्रतिमा लोड गर्न पर्याप्त स्मृति छैन"
-
-msgid "Num Lock is on"
-msgstr "स्थान खोल्नुहोस्"
-
-msgid "Number of Pages"
-msgstr "प्रसारणमार्गहरुको संख्या"
-
-msgid "Number of Pages To Print"
-msgstr "प्रसारणमार्गहरुको संख्या"
-
-msgid "Number of axes in the device"
-msgstr "टेवलमा पंक्तिहरुको संख्या"
-
-msgid "Number of characters to leave space for in the entry"
-msgstr "प्रविष्टिका लागि खालीठाउँ छोड्ने वर्णहरूको नंबर"
-
-msgid "Number of columns"
-msgstr "स्तम्भहरूको संख्या"
-
-msgid "Number of columns to display"
-msgstr "देखाउनलाई स्तम्भहरूको संख्या"
-
-msgid "Number of jobs queued in the printer"
-msgstr "टेवलमा पंक्तिहरुको संख्या"
-
-msgid "Number of pixels around the content pages."
-msgstr "विषयवस्तुहरुको वरिपरि बि‍भेलको शैली"
-
-msgid "Number of pixels around the header."
-msgstr "सूचीबारको वरिपरि बिभेलको शैली"
-
-msgid "Number of pixels between the scrollbars and the scrolled window"
-msgstr "स्क्रोलयबार र स्क्रोल भएको बिन्डोको बीचमा पिक्सलहरुको संख्या"
-
-msgid "Number of pixels of the entry scrolled off the screen to the left"
-msgstr "पर्दा बायाँतिर सार्न प्रविष्टि दिइने पिक्सेलहरूको संख्या"
-
-msgid "Number of pixels the cursor can move before dragging"
-msgstr "पिक्सलहरुको संख्या , रेखाङ्कन गर्नु भन्दा पहिले करसर सर्नसक्छ"
-
-msgid "Number of recently used files"
-msgstr "स्तम्भहरूको संख्या"
+msgid "Number"
+msgstr "सङ्ख्या"
 
 msgid "Number of steps"
-msgstr "प्रसारणमार्गहरुको संख्या"
+msgstr "चरणहरूको सङ्ख्या"
+
+msgid "Numbering"
+msgstr "क्रमाङ्कन"
 
 msgid "Numeric"
-msgstr "संख्यात्मक"
-
-msgid "Numerical Analysis"
-msgstr "डेटा विश्लेषण"
+msgstr "सङ्ख्यात्मक"
 
 msgid "OK"
 msgstr "ठीक छ"
 
-msgid "OS Updates"
-msgstr "अपडेट जाँच गर्नुहोस्"
-
-msgid "Obey child"
-msgstr "भनेको मान्ने शाखा"
-
-msgid "Odd Row Color"
-msgstr "विजोर पंक्तिको रङ्ग"
-
 msgid "Office"
 msgstr "कार्यालय"
 
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr "आधाररेखामाथि पाठ स्थापित गर्नुस् (वृद्धिक्रम नकारात्मक छ भने आधाररेखामुनि )"
+msgid "Offset"
+msgstr "अफसेट"
 
-msgid "Offset of text above the baseline (below the baseline if rise is negative) in Pango units"
-msgstr "पिक्सेलमा पाठको अफसेटमाथि (वृद्धिक्रम नकारात्मक छ भने धाररेखामुनि) आधार रेखा"
+msgid "Op_tions"
+msgstr "विकल्प"
 
-msgid "On _hold"
-msgstr "बाक्लो"
+msgid "Open"
+msgstr "खोल्नुहोस्"
 
-msgid "One Star"
-msgstr "प्रतीक तारा"
+msgid "Open File"
+msgstr "फाइल खोल्नुहोस्"
 
-msgid "One week ago"
-msgstr "एक हप्ता देखाउनुहोस्"
+msgid "Optimize"
+msgstr "इष्टतम"
 
-msgid "Op_acity:"
-msgstr "अस्पष्टता:"
-
-msgid "Opacity of the selection box"
-msgstr "छनोट बाकसको ओपासिटि"
-
-msgid "Open a local package file"
-msgstr "अस्थानिय फाइल खोल्नुहोला ।"
-
-msgid "Options specifying the horizontal behaviour of the child"
-msgstr "शाखाको क्षितिजीय ब्यवहारलाई विकल्पहरुले परिचित गराउदैछ"
-
-msgid "Options specifying the vertical behaviour of the child"
-msgstr "शाखाको उर्ध्व ब्यवहारलाई विकल्पहरुले परिचित गराउँदैछ"
-
-msgid "Or_ientation:"
-msgstr "स्याचुरेसन:"
+msgid "Options"
+msgstr "विकल्प"
 
 msgid "Orientation"
 msgstr "अभिमुखीकरण"
+
+msgid "Original"
+msgstr "मौलिक"
 
 msgid "Other"
 msgstr "अन्य"
@@ -2689,230 +817,83 @@ msgstr "अन्य"
 msgid "Other..."
 msgstr "अन्य..."
 
-msgid "Override for height request of the widget, or -1 if natural request should be used"
-msgstr "उचाईमा अधिलेखन गर्नका लागि औजारको अनुरोध अर्थात प्राकृतिक अनुरोध भए  -१ हुन्छ"
+msgid "Output"
+msgstr "प्रतिफल"
 
-msgid "Override for width request of the widget, or -1 if natural request should be used"
-msgstr "चौडाईमा अधिलेखन गर्नका लागि औजारको अनुरोध अर्थात प्राकृतिक अनुरोध प्रयोग गर्नु छ भने  -१ हुन्छ"
-
-msgid "Overview page"
-msgstr "पृष्ठ नेभिगेसन"
-
-msgid "Overwrite mode"
-msgstr "अधिलेखित मोड"
-
-msgid "PDA"
-msgstr "PDA"
-
-msgid "PDF _Pop directional formatting"
-msgstr "PDF पप निर्देशकीय ढाँचा"
-
-msgid "P_ause"
-msgstr "टाँस्नुहोस्"
-
-msgid "Pack direction"
-msgstr "प्याक निर्देशन"
-
-msgid "Pack type"
-msgstr "थन्क्याउने प्रकार"
-
-msgid "Padding"
-msgstr "गद्दा"
-
-msgid "Padding that should be put around icons in the tray"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
+msgid "PNG"
+msgstr "PNG"
 
 msgid "Page"
-msgstr "पन्ना"
-
-msgid "Page Increment"
-msgstr "पन्ना वृद्धि"
-
-msgid "Page Ordering"
-msgstr "चेतावनी"
-
-msgid "Page Setup"
-msgstr "पन्नाको आकार"
-
-msgid "Page Size"
-msgstr "पन्नाको आकार"
-
-msgid "Page complete"
-msgstr "पन्ना वृद्धि"
-
-msgid "Page title"
-msgstr "पन्नाको आकार"
-
-msgid "Page type"
-msgstr "थन्क्याउने प्रकार"
+msgstr "पृष्ठ"
 
 msgid "Pages"
-msgstr "बदल्नुहोस्"
+msgstr "पृष्ठहरू"
 
-msgid "Pages Per Sheet"
-msgstr "छविको उचाइ शून्य छ"
+msgid "Palettes"
+msgstr "प्यालेटहरू"
 
-msgid "Pages per Sheet"
-msgstr "छविको उचाइ शून्य छ"
+msgid "Parameters"
+msgstr "परामितिहरू"
 
-msgid "Palette to use in the color selector"
-msgstr "रङ्ग छान्नेकाममा रङ्गदानि प्रयोग गरिन्छ"
-
-msgid "Paper Size"
-msgstr "गुण"
-
-msgid "Paragraph background color"
-msgstr "कोठाको पृष्ठभूमिको रङ्ग"
-
-msgid "Paragraph background color as a (possibly unallocated) GdkColor"
-msgstr "जीडीके रङ्गका रूपमा पृष्टभूमि रङ्ग (संभवतः नछुट्याइएको)"
-
-msgid "Paragraph background color as a string"
-msgstr "सूत्र जस्तो पृष्ठभूमिको रङ्ग"
-
-msgid "Paragraph background color name"
-msgstr "कोठाको पृष्ठभूमिको रङ्गको नाम"
-
-msgid "Paragraph background set"
-msgstr "कोठाको पृष्ठभूमि मिलाउ"
-
-msgid "Parallel Computing"
-msgstr "आधारभूत रणनीति कम्प्युटिङ गर्नुहोस्..."
-
-msgid "Parent"
-msgstr "औजार मुख्य"
-
-msgid "Parent widget"
-msgstr "औजार मुख्य"
-
-msgid "Password:"
-msgstr "दवाब"
+msgid "Password"
+msgstr "पासवर्ड"
 
 msgid "Paste"
 msgstr "प्रतिलिपी सार"
 
-msgid "Path does not exist"
-msgstr "सर्टकट %{string} अवस्थित छैन"
+msgid "Path"
+msgstr "बाटो"
+
+msgid "Paths"
+msgstr "बाटोहरू / फाइलहरू"
 
 msgid "Pattern"
-msgstr "शैली /तरिका"
+msgstr "बान्की"
 
 msgid "Pause"
-msgstr "टाँस्नुहोस्"
+msgstr "पज गर्नुहोस्"
 
 msgid "Paused"
-msgstr "टाँस्नुहोस्"
-
-msgid "Paused Printer"
-msgstr "छनौट गर्नु"
+msgstr "पज गरिएको"
 
 msgid "Pending"
-msgstr "बाट (अनिर्णीत गर्न)"
+msgstr "विचाराधिन"
 
-msgid "Physics"
-msgstr "भौतिक शास्त्र"
+msgid "Pentagon"
+msgstr "पञ्चभुज"
 
-msgid "Pick a Color"
-msgstr "एउटा रङ छान्नुहोस्"
+msgid "Perspective"
+msgstr "अभिव्यक्ति"
 
-msgid "Pick a Font"
-msgstr "एउटा फन्ट छान्नुहोस्"
+msgid "Pixels"
+msgstr "पिक्सेलहरू"
 
-msgid "Pitch:"
-msgstr "पिच:"
+msgid "Placement"
+msgstr "स्थापना"
 
-msgid "Pixbuf"
-msgstr "पिक्सबफ"
+msgid "Plug-In"
+msgstr "प्लगइन"
 
-msgid "Pixbuf Expander Closed"
-msgstr "पिक्सबफ वृद्धिकारक बन्द गरियो"
+msgid "Plural"
+msgstr "बहुबचन"
 
-msgid "Pixbuf Expander Open"
-msgstr "खुला पिक्सबफ वृद्धिकारक"
+msgid "Point"
+msgstr "बिन्दु॒"
 
-msgid "Pixbuf Object"
-msgstr "पिक्सबफ विषयवस्तु"
+msgid "Pointer"
+msgstr "सूचक"
 
-msgid "Pixbuf column"
-msgstr "पिक्सबफ स्तम्भ"
-
-msgid "Pixbuf for closed expander"
-msgstr "बन्द गरिएको वृद्धिकारकको लागि पिक्सबफ"
-
-msgid "Pixbuf for open expander"
-msgstr "खुला  वृद्धिकारकको लागि पिक्सबफ"
-
-msgid "Pixel size"
-msgstr "पिक्सेल आकार"
-
-msgid "Pixel size to use for named icon"
-msgstr "नाम दिइएको प्रतिमाका लागि प्रयोग गर्ने पिक्सेल आकार"
-
-msgid "Pixels Above Lines"
-msgstr "लाईनमाथिका पिक्सेलहरू"
-
-msgid "Pixels Below Lines"
-msgstr "लाईन मुनिका पिक्सेलहरू"
-
-msgid "Pixels Inside Wrap"
-msgstr "लपेटाईभित्रका पिक्सेलहरू"
-
-msgid "Pixels above lines"
-msgstr "रेखाहरुमाथि पिक्सल"
-
-msgid "Pixels above lines set"
-msgstr "मिलेका रेखाहरुको माथि पिक्सलहरु"
-
-msgid "Pixels below lines"
-msgstr "रेखाहरुको तल पिक्सलहरु"
-
-msgid "Pixels below lines set"
-msgstr "मिलेका रेखाहरुको तल पिक्सलहरु"
-
-msgid "Pixels inside wrap"
-msgstr "लपेटभित्र पिक्सलहरु"
-
-msgid "Pixels inside wrap set"
-msgstr "लपेटाई समूहभित्रका पिक्सेलहरू"
-
-msgid "Pixels of blank space above paragraphs"
-msgstr "अनुच्छेदहरुको माथि खालि ठाउँको पिक्सल"
-
-msgid "Pixels of blank space below paragraphs"
-msgstr "अनुच्छेदहरुको तल खालि ठाँउहरुको पिक्सलहरु"
-
-msgid "Pixels of blank space between wrapped lines in a paragraph"
-msgstr "एउटा अनुच्छेदभित्र लपेटिएको रेखाहरुबीचमा खालिठाउँहरुको पिक्सल"
-
-msgid "Pixels of extra space on the right side"
-msgstr "अनुच्छेदहरुको माथि खालि ठाउँको पिक्सल"
-
-msgid "Pixels of extra space on the top side"
-msgstr "अनुच्छेदहरुको माथि खालि ठाउँको पिक्सल"
-
-msgid "Place scrollbars within the scrolled window's bevel"
-msgstr "स्क्रोलयबार र स्क्रोल भएको बिन्डोको बीचमा पिक्सलहरुको संख्या"
-
-msgid "Players"
-msgstr "खेलाडी"
+msgid "Points"
+msgstr "बिन्दुहरू"
 
 msgid "Polish"
 msgstr "पोलिस"
 
-msgid "Popup completion"
-msgstr "पपअप पुरा गर्ने"
-
-msgid "Popup set width"
-msgstr "पपअप सेट चौडाई"
-
-msgid "Popup shown"
-msgstr "पपअप सेट चौडाई"
-
-msgid "Popup single match"
-msgstr "पपअप सेट चौडाई"
+msgid "Polygon"
+msgstr "बहुभुज"
 
 msgid "Portrait"
-msgstr "मुद्रण गर्नुहोस्"
+msgstr "पोर्ट्रेट"
 
 msgid "Portuguese"
 msgstr "पोर्चुगिज"
@@ -2921,340 +902,148 @@ msgid "Portuguese (Brazil)"
 msgstr "पुरचुगीज(ब्राजिल)"
 
 msgid "Position"
-msgstr "अवस्था"
+msgstr "स्थिति"
 
-msgid "Position Set"
-msgstr "स्थिति स्थापित"
+msgid "Posterize"
+msgstr "पोष्टराइज"
 
-msgid "Position of mark on the ruler"
-msgstr "मापकमा चिन्हको स्थिति"
+msgid "Pr_eview"
+msgstr "पूर्वावलोकन"
 
-msgid "Position of paned separator in pixels (0 means all the way to the left/top)"
-msgstr "पिक्सेलहरूमा प्यान विभाजकको स्थिति (० को अर्थ सधैँभरि बायाँ/माथि हुन्छ)"
-
-msgid "Position of the handle relative to the child widget"
-msgstr "उप शाखासँग सम्वन्धित उझिण्डोको स्थिति"
-
-msgid "Position of the item within this group"
-msgstr "मापकमा चिन्हको स्थिति"
-
-msgid "Position on the color wheel."
-msgstr "रङ चक्रमा स्थिति"
-
-msgid "Pre_vious"
-msgstr "अघिल्लो"
-
-msgid "Preparing"
-msgstr "चेतावनी"
-
-msgid "Preparing to print"
-msgstr "चेतावनी"
+msgid "Pre_view"
+msgstr "पूर्वावलोकन"
 
 msgid "Presentation"
 msgstr "प्रस्तुतिकरण"
 
-msgid "Preview Widget Active"
-msgstr "पुर्वदृष्य औजार सक्रिय"
+msgid "Pressure"
+msgstr "दवाब"
 
-msgid "Preview text"
-msgstr "पाठको पूर्वदृश्य हो"
-
-msgid "Preview widget"
-msgstr "पुर्वदृष्यको औजार"
-
-msgid "Primary icon name"
-msgstr "लोगो प्रतिमाको नाम"
-
-msgid "Primary icon sensitive"
-msgstr "कक्ष सम्वेदनशील देखाउनुहोस"
-
-msgid "Primary icon tooltip markup"
-msgstr "लोगो प्रतिमाको नाम"
-
-msgid "Primary icon tooltip text"
-msgstr "कक्ष सम्वेदनशील देखाउनुहोस"
-
-msgid "Primary pixbuf"
-msgstr "पिक्सबफ"
-
-msgid "Primary pixbuf for the entry"
-msgstr "खुला  वृद्धिकारकको लागि पिक्सबफ"
-
-msgid "Primary storage type"
-msgstr "संग्रहगर्ने प्रकार"
+msgid "Preview"
+msgstr "पूर्ववलोकन"
 
 msgid "Print"
 msgstr "मुद्रण गर्नुहोस्"
 
-msgid "Print Pre_view"
-msgstr "मुद्रण पूर्वावलोकन"
-
-msgid "Print at"
-msgstr "मुद्रण गर्नुहोस्"
-
-msgid "Print at time"
-msgstr "मुद्रण पूर्वावलोकन"
-
 msgid "Printer"
-msgstr "छनौट गर्नु"
-
-msgid "Printer Default"
-msgstr "पूर्वनिर्धारित"
+msgstr "मुद्रक"
 
 msgid "Printing"
-msgstr "मुद्रण गर्नुहोस्"
+msgstr "मुद्रण गर्दैछ"
 
 msgid "Private"
 msgstr "निजी"
 
-msgid "Profiling"
-msgstr "सचेतक घडीको प्रोफाइल हुँदैछ"
+msgid "Progress"
+msgstr "प्रगति"
 
-msgid "Program class as used by the window manager"
-msgstr "सञ्झ्याल प्रबन्धक द्वारा प्रयोग गरिएको जस्तो कार्यक्रम तह"
+msgid "Project"
+msgstr "परियोजनाहरू"
 
-msgid "Program name"
-msgstr "कार्यक्रमको नाम"
+msgid "Projects"
+msgstr "परियोजनाहरू"
 
-msgid "Program name as used by the window manager"
-msgstr "सञ्झ्याल प्रबन्धक द्वारा प्रयोग गरिएको जस्तो कार्यक्रम तह"
+msgid "Properties"
+msgstr "गुणहरू"
 
-msgid "Program version"
-msgstr "कार्यक्रमको संस्करण"
+msgid "Quality"
+msgstr "गुणस्तर"
 
-msgid "Progress Border"
-msgstr "सीमारेखातिरबाट"
+msgid "Radial"
+msgstr "रेडिकल"
 
-msgid "Progress Fraction"
-msgstr "भागबण्डा"
+msgid "Radius"
+msgstr "अर्धब्यास"
 
-msgid "Progress Pulse Step"
-msgstr "स्पन्दनको तह"
+msgid "Rate"
+msgstr "दर"
 
-msgid "Project Management"
-msgstr "परियोजना व्यवस्थापन"
+msgid "Ready"
+msgstr "तयार"
 
-msgid "Proprietary"
-msgstr "स्वामित्व भएको"
+msgid "Recently Used"
+msgstr "हालै प्रयोग गरिएको"
 
-msgid "Publishing"
-msgstr "प्रकाशन गर्दै"
+msgid "Rectangle"
+msgstr "आयात"
 
-msgid "Pulse"
-msgstr "स्पन्दनको तह"
-
-msgid "Pulse Step"
-msgstr "स्पन्दनको तह"
-
-msgid "Pulse of the spinner"
-msgstr "चित्र सोचको नाम प्रयोग गर"
-
-msgid "Question"
-msgstr "प्रश्न"
-
-msgid "RLE Right-to-left e_mbedding"
-msgstr "RLE दायाँ-बाट-बायाँ सम्मिलित"
-
-msgid "RLM _Right-to-left mark"
-msgstr "RLM _दायाँ-बाट-बायाँ चिनो"
-
-msgid "RLO Right-to-left o_verride"
-msgstr "RLO दायाँ-बाट-बायाँ अधिरोहण"
-
-msgid "R_ewind"
-msgstr "रिवाइन्ड गर्नुहोस्"
-
-msgid "Radio state"
-msgstr "रेडियो स्थिति"
-
-msgid "Raster Graphics"
-msgstr "ग्राफिक्स अनुप्रयोग"
-
-msgid "Rate:"
-msgstr "रेट:"
-
-msgid "Ratio"
-msgstr "अनुपात"
-
-msgid "Reads the current value, or sets a new value"
-msgstr "तत्कालको मूल्य पढ्छ वा नँया मूल्य मिलाउछ"
-
-msgid "Received invalid color data\n"
-msgstr "प्राप्त अवैध रङ डेटा\n"
-
-msgid "Receives default"
-msgstr "पूर्वनिर्धारित पाउँछ"
-
-msgid "Recommended Audio Applications"
-msgstr "अनुप्रयोग पाईएन"
-
-msgid "Recommended Games"
-msgstr "तासका खेल:"
-
-msgid "Recommended Graphics Applications"
-msgstr "अनुप्रयोग पाईएन"
-
-msgid "Recommended Office Applications"
-msgstr "अनुप्रयोग पाईएन"
+msgid "Red"
+msgstr "रातो"
 
 msgid "Redo"
 msgstr "हटाएको परिवर्तन फर्काउ"
 
-msgid "Related Action"
-msgstr "कार्य"
-
-msgid "Relief of the group header button"
-msgstr "स्तम्भ शीर्षक बटन देखाउनुस्"
-
-msgid "Remote Access"
-msgstr "टाढाको डेस्कटप पहुँच सक्षम पार्नुहोस्"
-
-msgid "Removal of %{string} failed."
-msgstr "फ्रोक असफल"
+msgid "Rejected"
+msgstr "अस्वीकार गरियो"
 
 msgid "Remove"
 msgstr "हटाउनुहोस्"
 
-msgid "Remove Source"
-msgstr "स्रोत हटाउनुहोस्"
-
-msgid "Remove the bookmark '%{string}'"
-msgstr "पुस्तकचिनो '%{string}' हटाउनुहोस्"
-
-msgid "Remove the selected bookmark"
-msgstr "चयन गरिएको पुस्तकचिनो हटाउनुहोस्"
-
-msgid "Removed"
-msgstr "हटाईयो"
-
-msgid "Removing"
-msgstr "हटाउँदैछ"
+msgid "Rename Layer"
+msgstr "स्तरको नाम फेर्नुहोस्"
 
 msgid "Rename..."
-msgstr "पुन: नामकरण गर्नुहोस्..."
+msgstr "नाम फेर्नुहोस्..."
 
-msgid "Render detail to pass to the theme engine"
-msgstr "सोच इञ्जिनमा जान अनुवाद वृतान्त"
-
-msgid "Reorderable"
-msgstr "पुनर्क्रमबद्धित"
-
-msgid "Resizable"
-msgstr "पुनराकृतिक"
+msgid "Replace"
+msgstr "बदल्नुहोस्"
 
 msgid "Resize"
-msgstr "पुन:आकार"
-
-msgid "Resize mode"
-msgstr "पुन:आकार शैली"
-
-msgid "Resize mode of the column"
-msgstr "स्तम्भको पुनराकृतिक मोड"
+msgstr "पुनराकृति"
 
 msgid "Resolution"
-msgstr "प्रश्न"
+msgstr "रिजोल्युसन:"
 
-msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"
-msgstr "१०२४ * थोप्लो/इञ्च -१ मा पूर्वनिश्चित मान प्रयोग गर्न एक्सटीएफका लागि समाधान"
-
-msgid "Restart & _Install"
-msgstr "निर्भरता, स्थापना गर्नुहोस्"
+msgid "Reverse"
+msgstr "उल्टो पार्नुहोस्"
 
 msgid "Review"
-msgstr "पुनरावलोकन गर्नुहोस्"
-
-msgid "Revision Control"
-msgstr "बायाँ नियन्त्रण"
+msgstr "पुनरावलोकन"
 
 msgid "Right"
-msgstr "ह्यु:"
-
-msgid "Right Attach"
-msgstr "दाँया सम्लग्न"
-
-msgid "Right Margin"
-msgstr "दायाँ किनारा"
-
-msgid "Right Padding"
-msgstr "दाँया गद्दा"
-
-msgid "Right attachment"
-msgstr "दाहिने छेउमा जोडिएको"
+msgstr "दायाँ"
 
 msgid "Right margin"
-msgstr "दाहिने किनार"
-
-msgid "Right margin set"
-msgstr "दाहिने किनार मिलान"
-
-msgid "Right to left"
-msgstr "RLM _दायाँ-बाट-बायाँ चिनो"
-
-msgid "Rise"
-msgstr "उदाउनु"
-
-msgid "Rise set"
-msgstr "सेट बृद्धि गर"
-
-msgid "Role Playing"
-msgstr "प्ले भएको छैन"
+msgstr "दायाँ सीमान्त"
 
 msgid "Romanian"
 msgstr "रोमानियन"
 
+msgid "Rotate"
+msgstr "घुमाउनुहोस्"
+
+msgid "Rotation"
+msgstr "परिक्रमण"
+
 msgid "Round"
 msgstr "डल्लो"
 
-msgid "Row Spacing"
-msgstr "पंक्तिको अन्तराल:"
-
-msgid "Row has children"
-msgstr "तेर्सो पंक्तिसँग शाखा छ"
-
-msgid "Row is an expander row, and is expanded"
-msgstr "तेर्सो पंक्ति एउटा वृद्धि कारक  पंक्ति हो,र यो बढाइएको छ"
-
-msgid "Row spacing"
-msgstr "पंक्तिको स्पेसिङ:"
-
-msgid "Row span column"
-msgstr "पङ्क्ति र कलमको दुरि"
-
 msgid "Rows"
-msgstr "पंक्तिहरु"
-
-msgid "Rules Hint"
-msgstr "नियमका लागि इसारा"
+msgstr "पङ्क्तिहरू"
 
 msgid "Russian"
 msgstr "रसियन"
 
-msgid "SCREEN"
-msgstr "SCREEN"
-
 msgid "SEARCH"
-msgstr "खोजी गर्नुहोस्:"
+msgstr "SEARCH"
 
-msgid "Sans 12"
-msgstr "सन्स १२"
+msgid "Sans"
+msgstr "स्यान्स"
 
-msgid "Save _As"
+msgid "Saturation"
+msgstr "अतितृप्त"
+
+msgid "Save"
+msgstr "बचत गर्नुहोस्"
+
+msgid "Save _As..."
 msgstr "यस रूपमा बचत गर्नुहोस्"
 
-msgid "Save in _folder:"
-msgstr "फोल्डरमा बचत गर्नुहोस्:"
+msgid "Scale"
+msgstr "स्केल"
 
-msgid "Sc_ale:"
-msgstr "मान:"
-
-msgid "Scanning"
-msgstr "स्क्यान गर्दै"
-
-msgid "Science"
-msgstr "विज्ञान"
-
-msgid "Scottish"
-msgstr "स्कटिस"
+msgid "Scaling"
+msgstr "स्केलिङ"
 
 msgid "Screen"
 msgstr "पर्दा"
@@ -3262,557 +1051,167 @@ msgstr "पर्दा"
 msgid "Screenshot"
 msgstr "स्क्रिनसट"
 
-msgid "Screenshot not available"
-msgstr "कार्य उपलब्ध छैन"
+msgid "Search"
+msgstr "खोजी"
 
-msgid "Screenshot not found"
-msgstr "आदेश फेला परेन ।"
-
-msgid "Screenshot not valid"
-msgstr "ढाँचा मान्य छैन"
-
-msgid "Screenshot size not found"
-msgstr "साइनिङ प्रमाणपत्र फेला परेन"
-
-msgid "Scroll arrow spacing"
-msgstr "स्क्रोलबार स्थान"
-
-msgid "Scroll offset"
-msgstr "स्क्रोल स्थापित गर्नु"
-
-msgid "Scrollable"
-msgstr "स्क्रोलेवल"
-
-msgid "Scrollbar spacing"
-msgstr "स्क्रोलबार स्थान"
-
-msgid "Scrollbars within bevel"
-msgstr "स्क्रोलबार स्थान"
-
-msgid "Scrolled Window Placement"
-msgstr "विण्डो स्थानानतर"
-
-msgid "Se_lection"
-msgstr "चयन:"
-
-msgid "Search Column"
-msgstr "स्तम्भ खोज"
-
-msgid "Search for applications"
-msgstr "रमाइलो अनुप्रयोग"
-
-msgid "Search page"
-msgstr "पृष्ठ नेभिगेसन"
-
-msgid "Secondary"
-msgstr "द्धितीयक"
-
-msgid "Secondary GIcon"
-msgstr "द्धितीयक"
-
-msgid "Secondary Text"
-msgstr "द्धितीयक"
-
-msgid "Secondary backward stepper"
-msgstr "द्वितीयक पश्चगामी खुड्किला"
-
-msgid "Secondary cursor color"
-msgstr "द्वितीयक कर्सर रङ्ग"
-
-msgid "Secondary forward stepper"
-msgstr "द्वितीयक अग्रगामी खुड्किलो"
-
-msgid "Secondary icon activatable"
-msgstr "द्वितीयक कर्सर रङ्ग"
-
-msgid "Secondary icon name"
-msgstr "द्धितीयक"
-
-msgid "Secondary icon sensitive"
-msgstr "द्धितीयक"
-
-msgid "Secondary icon tooltip markup"
-msgstr "द्धितीयक"
-
-msgid "Secondary icon tooltip text"
-msgstr "द्वितीयक कर्सर रङ्ग"
-
-msgid "Secondary pixbuf"
-msgstr "द्धितीयक"
-
-msgid "Secondary pixbuf for the entry"
-msgstr "द्वितीयक अग्रगामी खुड्किलो"
-
-msgid "Secondary stock ID"
-msgstr "द्धितीयक"
-
-msgid "Secondary storage type"
-msgstr "द्वितीयक अग्रगामी खुड्किलो"
-
-msgid "Secret"
-msgstr "स्क्रिन"
+msgid "Second color"
+msgstr "दोस्रो रङ"
 
 msgid "Security"
 msgstr "सुरक्षा"
 
-msgid "Select"
-msgstr "चयन गर्नुहोस्..."
+msgid "Seed"
+msgstr "गति"
 
-msgid "Select A File"
-msgstr "एउटा फाइल चयन गर्नुहोस्"
+msgid "Select"
+msgstr "चयन गर्नुहोस्"
 
 msgid "Select All"
 msgstr "सबै चयन गर्नुहोस्"
 
-msgid "Select Multiple"
-msgstr "बहुउद्देश्यिय छनौट"
-
 msgid "Select None"
 msgstr "कुनै पनि होइन (पूर्वानिर्धारित)"
+
+msgid "Select Source"
+msgstr "स्रोत चयन गर्नुहोस्"
 
 msgid "Select _All"
 msgstr "सबै चयन गर्नुहोस्"
 
-msgid "Select a folder"
-msgstr "एउटा फाइल चयन गर्नुहोस्"
+msgid "Selection"
+msgstr "चयन"
 
-msgid "Select on focus"
-msgstr "केन्द्रमा छानोट गर्नुहोस्"
+msgid "Send to Back"
+msgstr "पछाडि पठाउनुहोस्"
 
-msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
-msgstr "तपाईँले बाहिरी घेराबाट चाहेको रङ चयन गर्नुहोस्। भित्री त्रिकोण प्रयोग गर्ने रङको अँध्यारोपन वा चम्किलोपन चयन गर्नुहोस्।"
+msgid "Shadow"
+msgstr "छायाँ"
 
-msgid "Select which type of documents are shown"
-msgstr "कुन प्रकारहरूको फाइलहरू देखाइएको छ चयन गर्नुहोस्"
+msgid "Shadows"
+msgstr "स्याडोज"
 
-msgid "Select which types of files are shown"
-msgstr "कुन प्रकारहरूको फाइलहरू देखाइएको छ चयन गर्नुहोस्"
+msgid "Shape"
+msgstr "आकार"
 
-msgid "Selectable"
-msgstr "चयन योग्य"
+msgid "Sharpen"
+msgstr "तिखारिएको"
 
-msgid "Selected Printer"
-msgstr "छानिएको वर्ष"
+msgid "Shift"
+msgstr "शिफ्ट"
 
-msgid "Selection Bound"
-msgstr "छानिएको चयन"
+msgid "Shortcut"
+msgstr "सर्टकट"
 
-msgid "Selection Box Alpha"
-msgstr "बाकस अल्फा चयन"
-
-msgid "Selection Box Color"
-msgstr "बाकस रंग चयन"
-
-msgid "Selection mode"
-msgstr "चयन गर्ने अबस्था"
-
-msgid "Sensitive"
-msgstr "सम्वेदनशील"
-
-msgid "Separator Height"
-msgstr "पूर्वनिर्धारित उचाई"
-
-msgid "Separator Width"
-msgstr "उर्ध्वतलीय विभाजकको चौडाई"
-
-msgid "Set a hint to the theme engine to draw rows in alternating colors"
-msgstr "सोच इञ्जिनमा वैकल्पिक रङ्गको पंक्ति खिच्न इसारा जडान गर्नुस्"
-
-msgid "Set the column for the expander column"
-msgstr "स्तम्भ वृद्धिका लागि स्तम्भ समूह"
-
-msgid "Shadow Type"
-msgstr "छाँयाको प्रकार"
-
-msgid "Shadow type"
-msgstr "छाँया प्रकार"
-
-msgid "Short label"
-msgstr "छोटो लेबल"
-
-msgid "Shortcut %{string} already exists"
-msgstr "सर्टकट %{string} अवस्थित छैन"
-
-msgid "Shortcut %{string} does not exist"
-msgstr "सर्टकट %{string} अवस्थित छैन"
-
-msgid "Show Arrow"
-msgstr "तीर देखाउनुस्"
-
-msgid "Show Border"
-msgstr "सीमाना देखाऊ"
-
-msgid "Show Day Names"
-msgstr "दिनका नामहरु देखाऊ"
+msgid "Show"
+msgstr "देखाउनुहोस्"
 
 msgid "Show Details"
-msgstr "अरू धेरै विवरण देखाउनुहोस्"
+msgstr "विस्तृतहरू देखाउनुहोस्"
 
-msgid "Show Dialog"
-msgstr "वार्तालाप"
-
-msgid "Show Expanders"
-msgstr "वृद्धि कारक छ"
-
-msgid "Show GTK+ Options"
-msgstr "GTK+ विकल्पहरू देखाउनुहोस्"
-
-msgid "Show Heading"
-msgstr "शीर्षक देखाऊ"
-
-msgid "Show Hidden"
-msgstr "लुकेको देखाऊ"
-
-msgid "Show Icons"
-msgstr "छविचित्र संग्रह"
-
-msgid "Show Numbers"
-msgstr "सप्ताहका संख्याहरु देखाऊ"
-
-msgid "Show Private"
-msgstr "पाठ देखाऊ"
-
-msgid "Show Tabs"
-msgstr "ट्याबहरु देखाऊ"
-
-msgid "Show Tooltips"
-msgstr "औजारटिपहरू"
-
-msgid "Show Week Numbers"
-msgstr "सप्ताहका संख्याहरु देखाऊ"
-
-msgid "Show _Hidden Files"
-msgstr "लुकाइएको फाइलहरू देखाउनुहोस्"
-
-msgid "Show application details"
-msgstr "के डि ई एप्लिकेसन बिबरण"
-
-msgid "Show button images"
-msgstr "चित्रहरुको बटन देखाऊ"
-
-msgid "Show menu images"
-msgstr "सूचीका चित्रहरु देखाऊ"
-
-msgid "Show size"
-msgstr "आकार देखाऊ"
-
-msgid "Show style"
-msgstr "शैली देखाऊ"
-
-msgid "Show text"
-msgstr "पाठ देखाऊ"
-
-msgid "Show the column header buttons"
-msgstr "स्तम्भ शीर्षक बटन देखाउनुस्"
-
-msgid "Show verbose debugging information"
-msgstr "आन्तरिक प्रक्रियारत जानकारी देखाउनुहोस्"
+msgid "Show grid"
+msgstr "ग्रिड देखाउनुहोस्"
 
 msgid "Shrink"
-msgstr "संकुचित गर्नु"
-
-msgid "Si_ze:"
-msgstr "साइज:"
-
-msgid "Side of the handlebox that's lined up with the docking point to dock the handlebox"
-msgstr "जीर्णोद्वार कारखाना विन्दुसँग राखिने नियन्त्रण-बाकसको किनारा"
-
-msgid "Sidebar image"
-msgstr "मान"
+msgstr "खुम्च्याउनुहोस्"
 
 msgid "Simple"
 msgstr "साधारण"
 
-msgid "Simulation"
-msgstr "नक्कल"
+msgid "Sine"
+msgstr "साइन"
 
-msgid "Single Line Mode"
-msgstr "एकल पंक्ति अबस्थाद शैली"
-
-msgid "Single Paragraph Mode"
-msgstr "एक्लो परिच्छेद शैली"
-
-msgid "Six days ago"
-msgstr "गत ५ दिनको सन्देशहरू"
+msgid "Singular"
+msgstr "एकबचन"
 
 msgid "Size"
 msgstr "साइज"
 
-msgid "Size of check or radio indicator"
-msgstr "जाँच्नेको आकार वा रेडियो सूचक"
-
-msgid "Size of icons in this tool palette"
-msgstr "पूर्वनिश्चित औजारबारमा छविचित्रको आकार"
-
-msgid "Size of icons in this toolbar"
-msgstr "पूर्वनिश्चित औजारबारमा छविचित्रको आकार"
-
-msgid "Size of spacers"
-msgstr "खालीस्थानकर्ताको आकार"
-
-msgid "Size of tab curvature"
-msgstr "खालीस्थानकर्ताको आकार"
-
-msgid "Size of tab overlap area"
-msgstr "वृद्धिकारक बाणको आकार"
-
-msgid "Size of the expander arrow"
-msgstr "वृद्धिकारक बाणको आकार"
-
-msgid "Size of the palette in 8 bit mode"
-msgstr "८ बिट मोडमा रङदानीको साइज"
-
-msgid "Size to use for cursors, or 0 to use the default size"
-msgstr "विजोर पंक्तिका लागि प्रयोग हुने रङ्ग"
-
-msgid "Sizing"
-msgstr "आकृतिकरण"
-
-msgid "Skip pager"
-msgstr "पेजर छाड्नु"
-
-msgid "Skip taskbar"
-msgstr "टास्कबार छाड्नु"
-
-msgid "Slider Length"
-msgstr "चिप्ल्याउने लम्बाइ"
-
-msgid "Slider Width"
-msgstr "स्लाईडरको चौडाई"
-
 msgid "Slovak"
 msgstr "स्लोभाक"
 
-msgid "Smallest possible value for the \"position\" property"
-msgstr "\"स्थिति\"विशेषताका लागि संभावित न्यूनतम मान"
+msgid "Small"
+msgstr "सानो"
 
-msgid "Snap edge"
-msgstr "छेउमा पासदिनु"
+msgid "Smooth"
+msgstr "महीन"
 
-msgid "Snap edge set"
-msgstr "छेउमा पासदिन मिलाउन"
+msgid "Snap to grid"
+msgstr "ग्रिडमा सटाउनुहोस"
 
-msgid "Snap to Ticks"
-msgstr "टिक चिन्ह लागाउ"
-
-msgid "Software"
-msgstr "सफ्टवेयर"
-
-msgid "Software Install"
-msgstr "सफ्टवेयर स्थापना गर्नुहोस्"
-
-msgid "Software Source Identified"
-msgstr "सफ्टवेर बिकास/सोर्स कोड"
-
-msgid "Software Source Included"
-msgstr "सफ्टवेर बिकास/सोर्स कोड"
-
-msgid "Software Sources"
-msgstr "आगत स्रोतहरू"
-
-msgid "Software Updates Available"
-msgstr "यसबाट नयाँ अद्यावधिकहरू उपलब्ध हुन्छ"
-
-msgid "Software Updates Failed"
-msgstr "बाकि अनुप्रयोग स्थापना गर्नुहोस्"
-
-msgid "Software is up to date"
-msgstr "तपाईँका द्रष्टव्यहरू अद्यावधिक छैनन् ।"
-
-msgid "Sole completion"
-msgstr "रङ चयन"
-
-msgid "Sorry, I can't understand what you are asking about."
-msgstr "माफ गर्नुहोस्, मैले तिपाइँले भनेको केहीपनि बुझिन।"
-
-msgid "Sorry, there is no free memory to load my brain. Close other activities and try once more."
-msgstr "माफ गर्नुहोस्, मेरो मगजमा लोड गर्न स्वतन्त्र स्मृति बाकीँ छैन । अरु क्रियाकलापहरु बन्द गर अनि फरि एक चोटि प्रयास गर ।"
-
-msgid "Sorry, this did not work"
-msgstr "यस क्वेरी सफलताका साथ सम्पन्न भएन ।"
-
-msgid "Sort Type"
-msgstr "छाँयाको प्रकार"
-
-msgid "Sort column ID"
-msgstr "पाठ्य स्तम्भ"
-
-msgid "Sort direction the sort indicator should indicate"
-msgstr "क्रम सूचकले सूचित गर्ने क्रमको दिशा"
-
-msgid "Sort indicator"
-msgstr "क्रम संकेतक"
+msgid "Solid"
+msgstr "ठोस"
 
 msgid "Sort order"
-msgstr "क्रमबद्ध अनुक्रम"
-
-msgid "Sound Theme Name"
-msgstr "चित्र सोच नाम"
+msgstr "क्रम क्रमबद्ध गर्नुहोस्"
 
 msgid "Source"
 msgstr "स्रोत"
 
-msgid "Source option"
-msgstr "पपअप पुरा गर्ने"
-
-msgid "Source type for the device"
-msgstr "उर्ध्व दृश्यका लागि ढाँचा"
+msgid "Source code"
+msgstr "स्रोत सङ्केत"
 
 msgid "Space"
-msgstr "बदल्नुहोस्"
-
-msgid "Space between day headers and main area"
-msgstr "वृद्धिकारक बाँणको वरिपरिको ठाँउ"
-
-msgid "Space between value text and the slider/trough area"
-msgstr "मूल्य पाठ र चिप्ल्याउने/क्षेत्रबाट बीचको ठाँउ"
-
-msgid "Space between week headers and main area"
-msgstr "मूल्य पाठ र चिप्ल्याउने/क्षेत्रबाट बीचको ठाँउ"
-
-msgid "Space style"
-msgstr "खालीस्थानको शैली"
-
-msgid "Space to put between the label and the child"
-msgstr "छाप र उपशाखाका बीचमा राखिने खालीठाउँ"
-
-msgid "Space which is inserted at the edges of the icon view"
-msgstr "प्रतिमा दृष्यको किनारामा राखिने खालि ठाउँ"
-
-msgid "Space which is inserted between cells"
-msgstr "कक्षहरू बिचमा घुसाइने खालि ठाउँ"
-
-msgid "Space which is inserted between cells of an item"
-msgstr "बस्तुको कक्षहरू बिचमा घुसाउने खालि ठाउँ"
-
-msgid "Space which is inserted between grid columns"
-msgstr "ग्रिड स्तम्भ बिचमा घुसाइने खालि ठाउँ"
-
-msgid "Space which is inserted between grid rows"
-msgstr "ग्रिड पंक्तिहरू बिचमा घुसाइने खालि ठाउँ"
-
-msgid "Spacer size"
-msgstr "खालीगराउने साधनको आकार"
+msgstr "खालीस्थान"
 
 msgid "Spacing"
-msgstr "स्पेसिङ्ग"
-
-msgid "Spacing around check or radio indicator"
-msgstr "रेडियो द्रष्टा वा वरिपरिको स्थान जाँचक"
-
-msgid "Spacing around expander arrow"
-msgstr "वृद्धिकारक बाँणको वरिपरिको ठाँउ"
-
-msgid "Spacing between buttons"
-msgstr "बटनहरु बीचको स्थान"
-
-msgid "Spacing between elements of the area"
-msgstr "मूल्य पाठ र चिप्ल्याउने/क्षेत्रबाट बीचको ठाँउ"
-
-msgid "Spacing between elements of the main dialog area"
-msgstr "मूल्य पाठ र चिप्ल्याउने/क्षेत्रबाट बीचको ठाँउ"
-
-msgid "Spacing between expander arrow and caption"
-msgstr "वृद्धिकारक बाँणको वरिपरिको ठाँउ"
-
-msgid "Spacing between step buttons and thumb"
-msgstr "पाइला बटनहरु र औंलाको बीचको खालीठाउँ"
-
-msgid "Spacing between thumb/steppers and outer trough bevel"
-msgstr "बाहिरी कोण नाप्ने यन्त्र र थम्ब/तह बीचको खाली ठाउँ"
-
-msgid "Spacing in pixels between the icon and label"
-msgstr "पाइला बटनहरु र औंलाको बीचको खालीठाउँ"
-
-msgid "Spacing in pixels between the image and label"
-msgstr "छाप र उपशाखाका बीचमा राखिने खालीठाउँ"
+msgstr "खाली स्थान"
 
 msgid "Spanish"
 msgstr "स्पानिस"
 
-msgid "Speak"
-msgstr "बोल"
+msgid "Special Characters"
+msgstr "(बिशेष क्यारेक्टरहरु)"
 
-msgid "Specify how resize events are handled"
-msgstr "पुनराकारित घटनाहरू कसरी संचालित हुन्छन् निश्चित गर्नुस्"
+msgid "Speed"
+msgstr "गति"
 
-msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
-msgstr "सवै पंक्तिको समान उचाई छ भन्ने मान्यतामा जीटीके उर्ध्व दृश्यको गति वृद्धि"
+msgid "Sphere"
+msgstr "गोला"
 
-msgid "Split Cursor"
-msgstr "करसर स्प्लिट"
+msgid "Spherical"
+msgstr "गोलाकार"
+
+msgid "Split"
+msgstr "विभाजन गर्नुहोस्"
 
 msgid "Spreadsheet"
-msgstr "स्प्रेडसिट"
+msgstr "स्प्रेडसीट"
 
-msgid "Startup ID"
-msgstr "समूह"
+msgid "Square"
+msgstr "वर्ग"
 
-msgid "Step Increment"
-msgstr "तह वृद्ध"
+msgid "Squares"
+msgstr "वर्गहरू"
 
-msgid "Stepper Size"
-msgstr "स्टेपरको आकार"
+msgid "Standard"
+msgstr "मानक"
 
-msgid "Stepper Spacing"
-msgstr "तहगत खालीस्थान"
+msgid "Start angle"
+msgstr "कोण सुरु गर्नुहोस्"
 
 msgid "Stock ID"
 msgstr "संग्रहित आइडि"
 
-msgid "Stock ID for a stock image to display"
-msgstr "संग्रहित छवि देखाउनलाई संग्रहित आईडी"
-
-msgid "Stock Icon"
-msgstr "छविचित्र संग्रह"
-
-msgid "Stock Id"
-msgstr "संग्रहित आईडी"
-
 msgid "Stop"
 msgstr "बन्द गर"
 
-msgid "Storage type"
-msgstr "संग्रहगर्ने प्रकार"
-
-msgid "Strategy"
-msgstr "रणनीती"
-
 msgid "Strikethrough"
-msgstr "अक्षरलाई बीचमा काटनु"
-
-msgid "Strikethrough set"
-msgstr "अक्षरलाई बीचबाट काटने मिलाउ"
+msgstr "स्ट्रयाइकथ्रु"
 
 msgid "Style"
 msgstr "शैली"
 
-msgid "Style of bevel around the contents"
-msgstr "विषयवस्तुहरुको वरिपरि बि‍भेलको शैली"
+msgid "Submissions"
+msgstr "दाखिलाहरू"
 
-msgid "Style of bevel around the menubar"
-msgstr "सूचीबारको वरिपरि बिभेलको शैली"
+msgid "Subtract"
+msgstr "घटाउनुहोस्"
 
-msgid "Style of bevel around the spin button"
-msgstr "घुर्रो बटनको वरिपरि बिभेलको शैली"
+msgid "Suggestion"
+msgstr "सुझावहरू"
 
-msgid "Style of bevel around the statusbar text"
-msgstr "स्टाटसबार पाठको वरिपरि बिभेलको शैली"
-
-msgid "Style of bevel around the toolbar"
-msgstr "औजारबारको वरिपरि कोण नाप्ने यन्त्रको शैली"
-
-msgid "Style of items in the tool palette"
-msgstr "औजारबारको वरिपरि कोण नाप्ने यन्त्रको शैली"
-
-msgid "Style of underline for this text"
-msgstr "यो पाठको लागि कचहरुको शैली"
-
-msgid "Success color"
-msgstr "कर्सर रङ्ग"
-
-msgid "Support Selection"
-msgstr "होवर चयन"
+msgid "Suggestions"
+msgstr "सुझावहरू"
 
 msgid "Swahili"
 msgstr "स्वाहिली"
@@ -3820,1127 +1219,113 @@ msgstr "स्वाहिली"
 msgid "Swedish"
 msgstr "स्विडिस्"
 
-msgid "Symbolic size to use for stock icon, icon set or named icon"
-msgstr "स्टक प्रतिमा, प्रतिमा सेट वा नाम दिइएको प्रतिमामा प्रयोग गर्न सांकेतिक आकर"
-
-msgid "Sys_Req"
-msgstr "फाइल प्रणाली"
+msgid "Symbol"
+msgstr "प्रतीक"
 
 msgid "System"
 msgstr "प्रणाली"
 
-msgid "System (%{string})"
-msgstr "%{string} (%{string})"
-
-msgid "System Applications"
-msgstr "अनुप्रयोगहरू प्रणाली"
-
-msgid "TRUE if the Position property should be used"
-msgstr "स्थिति विशेषता प्रयोग गरियोभने ठीक"
-
-msgid "TRUE if the window should be brought to the user's attention."
-msgstr "सत्य, यदि विण्डो पेजरभित्र छैन भने"
-
-msgid "TRUE if the window should not be in the pager."
-msgstr "सत्य, यदि विण्डो पेजरभित्र छैन भने"
-
-msgid "TRUE if the window should not be in the task bar."
-msgstr "विण्डो टास्कबारमा छैनभने ठीक"
-
-msgid "TRUE if the window should receive the input focus when mapped."
-msgstr "सत्य, यदि सञ्झ्यालले मानचित्रित गर्दा आगत केन्द्रित आउने फोकस लिन सक्यो भने"
-
-msgid "TRUE if the window should receive the input focus."
-msgstr "सत्य , यदि विण्डोले भित्र आउने फोकस लिन सक्यो भने"
-
-msgid "TRUE if this printer is paused"
-msgstr "स्थिति विशेषता प्रयोग गरियोभने ठीक"
-
-msgid "TV"
-msgstr "टिभी"
-
-msgid "Tab Position"
-msgstr "ट्याब स्थिति"
-
-msgid "Tab detachable"
-msgstr "ट्याब लेबल"
-
-msgid "Tab expand"
-msgstr "ट्याब बढाउनु"
-
-msgid "Tab fill"
-msgstr "ट्याब भर्नु"
-
-msgid "Tab label"
-msgstr "ट्याब लेबल"
-
-msgid "Tab overlap"
-msgstr "ट्याब सीमाना"
-
-msgid "Tab pack type"
-msgstr "ट्याब थन्क्याउने प्रकार"
-
-msgid "Tab reorderable"
-msgstr "पुनर्क्रमबद्धित"
-
 msgid "Tabs"
-msgstr "ट्याबहरु"
+msgstr "ट्याबहरू"
 
-msgid "Tabs set"
-msgstr "ट्याबहरु मिलान"
+msgid "Target"
+msgstr "लक्ष्य"
 
-msgid "Tag Table"
-msgstr "ट्याग टेवल"
+msgid "Te_xt"
+msgstr "पाठ"
 
-msgid "Tag name"
-msgstr "ट्यागको नाम"
-
-msgid "Take Focus"
-msgstr "केन्द्र लिनुहोस्"
-
-msgid "Tearoff State"
-msgstr "ढाँचा च्यातेर फ्याल"
-
-msgid "Tearoff Title"
-msgstr "शीर्षक च्यातेर फ्याल"
-
-msgid "Telephony"
-msgstr "टेलिफोनि"
-
-msgid "Telephony Tools"
-msgstr "/उपकरणहरू/गोपनीयता"
-
-msgid "Terminal Emulator"
-msgstr "टर्मिनल अनुप्रयोग"
+msgid "Templates"
+msgstr "टेम्प्लेटहरू"
 
 msgid "Text"
 msgstr "पाठ"
 
-msgid "Text Buffer"
-msgstr "अस्थायी स्मृति"
-
-msgid "Text Column"
-msgstr "पाठ स्तम्भ"
-
 msgid "Text Editor"
 msgstr "पाठ सम्पादक"
 
-msgid "Text Tag Table"
-msgstr "पाठ ट्याग टेवल"
-
-msgid "Text column"
-msgstr "पाठ्य स्तम्भ"
-
 msgid "Text direction"
-msgstr "पाठ निर्देशन"
+msgstr "पाठ दिशानिर्देश"
 
-msgid "Text direction, e.g. right-to-left or left-to-right"
-msgstr "पाठ निर्देशन,उदाहरण दाँयादेखि बाँयासम्म वा बाँयादेखि दाँयासम्म"
+msgid "Text file"
+msgstr "पाठ फाइल"
 
 msgid "Text length"
-msgstr "एक्स पंक्तिबद्ध पाठ"
+msgstr "पाठ लम्बाइ"
 
-msgid "Text of the expander's label"
-msgstr "विस्तारित गरिएको पाठ"
+msgid "Tile"
+msgstr "टायल"
 
-msgid "Text of the frame's label"
-msgstr "लेबल रचना गरिएको पाठ"
-
-msgid "Text of the label widget inside the button, if the button contains a label widget"
-msgstr "बटनमा छाप औजार समावेश छभने त्यो पाठ छापको औजार हो"
-
-msgid "Text on the progress bar"
-msgstr "प्रगति बारमा देखाइने पाठ"
-
-msgid "Text to be displayed in the progress bar"
-msgstr "प्रगतिबारमा देखाइने पाठ"
-
-msgid "Text to render"
-msgstr "रेन्डरलाई पाठ"
-
-msgid "Text to show in the item."
-msgstr "आइटम देखाउनला लागि पाठ"
-
-msgid "Text x alignment"
-msgstr "एक्स पंक्तिबद्ध पाठ"
-
-msgid "Text y alignment"
-msgstr "वाई पंक्तिबद्ध पाठ"
-
-msgid "The Accel Group to use for stock accelerator keys"
-msgstr "द्रुतसञ्चालक परिवर्तनका लागि अन्त्यमा निरीक्षण गरियो"
-
-msgid "The GIcon being displayed"
-msgstr "देखाउनको लागि छविचित्र स्थपित गर"
-
-msgid "The GtkActionGroup this GtkAction is associated with, or NULL (for internal use)."
-msgstr "जीटीके कार्य समूह यो जीटीके कार्यसँग सम्बन्धित छ वा शून्यसँग( आन्तरिक प्रयोगका लागि मात्र)"
-
-msgid "The GtkAdjustment for the horizontal position"
-msgstr "क्षितिजीय स्थितिको लागि जिटिके मिलान"
-
-msgid "The GtkAdjustment for the vertical position"
-msgstr "उर्ध्व स्थितिको लागि जिटिके मिलान"
-
-msgid "The GtkAdjustment that contains the current value of this range object"
-msgstr "जीटीके मिलानमा अवस्थित दायराको वर्तमान मान"
-
-msgid "The GtkAdjustment that contains the current value of this scale button object"
-msgstr "जीटीके मिलानमा अवस्थित दायराको वर्तमान मान"
-
-msgid "The GtkAdjustment that determines the values of the horizontal position for this viewport"
-msgstr "आँखिझ्यालका लागि समतलीय स्थितिका मानहरू निर्धारण गर्ने जीटीके मिलान"
-
-msgid "The GtkAdjustment that determines the values of the vertical position for this viewport"
-msgstr "जीटीके मिलानको उर्ध्वतलीय स्थिति जस्ले दृष्टिपोर्टको मान निर्धारण गर्छ"
-
-msgid "The GtkIconSize value that specifies the size of the rendered icon"
-msgstr "भाषान्तर-चिन्हको आकार तय गर्ने जीटीके चिन्ह-आकारको मान"
-
-msgid "The GtkIconSize value that specifies the size of the rendered spinner"
-msgstr "भाषान्तर-चिन्हको आकार तय गर्ने जीटीके चिन्ह-आकारको मान"
-
-msgid "The GtkPrinter which is selected"
-msgstr "आइटम जुन चाँही भरखरै सक्रिय भएको छ"
-
-msgid "The OK button of the dialog."
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The URI bound to this button"
-msgstr "बटनको एकबाट अर्कोमा फडकने स्थिति"
-
-msgid "The URL for the link to the website of the program"
-msgstr "कर्यक्रमको वेबसाइट लिङ्कका लागि युआरएल"
-
-msgid "The accel group holding accelerators for the menu"
-msgstr "यो लेवलका लागि एम्नेमोनिक द्रुतसञ्चालक कि"
-
-msgid "The acceleration rate when you hold down a button"
-msgstr "बटनलाई तलतिर लाने द्रूसंचालन दर"
-
-msgid "The adjustment that holds the value of the spin button"
-msgstr "मिलान जस्ले चक्र बटनको मान लिएको छ"
-
-msgid "The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that"
-msgstr "छापको एक अर्कासँग सम्बन्धित पाठमा लाईनहरूको पंक्तिबद्धता । यसले  छापको पंक्तिबद्धतालाई असर गर्दैन । यसका लागि एक्स-पंक्तिबद्ध जीटीके विविधता हेर्नुहोस्"
-
-msgid "The amount of space between children"
-msgstr "शाखाहरुको बीचको ठाँउको मूल्य"
-
-msgid "The amount of space between two consecutive columns"
-msgstr "एकअर्कालाई नछोएका स्तम्भहरुको बीचको ठाँउको मूल्य"
-
-msgid "The amount of space between two consecutive rows"
-msgstr "एकअर्कालाई नछोएका पंक्तिहरुको बीचको ठाँउको मूल्य"
-
-msgid "The amount of space to add on the left and right of the widget, in pixels"
-msgstr "पिक्सलहरुभित्र औजारको देब्रे र दाहिने छेउ खालीठाँउको मात्रा जोडनलाई"
-
-msgid "The amount of space to add on the top and bottom of the widget, in pixels"
-msgstr "औजारको तल र माथि पिक्सेल थप्न खालीस्थानको मात्रा"
-
-msgid "The border relief style"
-msgstr "सीमानाको राहत शैली"
-
-msgid "The buffer which is displayed"
-msgstr "देखाइएको अस्थायी स्मृति"
-
-msgid "The buttons shown in the message dialog"
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The cancel button of the dialog."
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The character to use when masking entry contents (in \"password mode\")"
-msgstr "प्रविष्टि विषयवस्तु छान्नेक्रममा प्रयोग हुने वर्ण (\"प्रवेशचिन्ह मोड\" )"
-
-msgid "The child pack direction of the menubar"
-msgstr "मेनुबारको बच्चा प्याक निर्देशन"
-
-msgid "The closure to be monitored for accelerator changes"
-msgstr "द्रुतसञ्चालक परिवर्तनका लागि अन्त्यमा निरीक्षण गरियो"
-
-msgid "The color selection embedded in the dialog."
-msgstr "रङ्ग छानिएको स‍वादको शिर्षक"
-
-msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
-msgstr "तपाईँले रोजेको रङ। भविष्यमा प्रयोगका लागि यसलाई बचत गर्न तपाईँले यो रङलाई एउटा रङदानी प्रविष्टिमा तान्न सक्नुहुन्छ।"
-
-msgid "The column in the model containing the tooltip texts for the items"
-msgstr "स्ट्रिङहरू भएको नमुनाकोा स्तम्भ"
-
-msgid "The column in the model containing the tooltip texts for the rows"
-msgstr "स्ट्रिङहरू भएको नमुनाकोा स्तम्भ"
-
-msgid "The column number to attach the left side of the child to"
-msgstr "शाखाको देब्रे तिर स्तम्भ संख्या जोडिन्छ"
-
-msgid "The column number to attach the right side of a child widget to"
-msgstr "एउटा शाखा औजारको दाहिने तिर बांध्नलाई स्तम्भको संख्या"
-
-msgid "The column number to attach the right side of the child to"
-msgstr "शाखाको दाहिनेतिर स्तम्भ संख्या जोडिन्छ"
-
-msgid "The column of the model containing the strings."
-msgstr "स्ट्रिङहरू भएको नमुनाकोा स्तम्भ"
-
-msgid "The contents of the buffer"
-msgstr "प्रविष्टिको विषयवस्तु"
-
-msgid "The contents of the entry"
-msgstr "प्रविष्टिको विषयवस्तु"
-
-msgid "The contents of the tooltip for this tray icon"
-msgstr "प्रविष्टिको विषयवस्तु"
-
-msgid "The contents of the tooltip for this widget"
-msgstr "प्रविष्टिको विषयवस्तु"
-
-msgid "The contents of the tooltip on the primary icon"
-msgstr "प्रविष्टिको विषयवस्तु"
-
-msgid "The contents of the tooltip on the secondary icon"
-msgstr "प्रविष्टिको विषयवस्तु"
-
-msgid "The current color"
-msgstr "विद्यमान रङ्ग"
-
-msgid "The current filter for selecting which files are displayed"
-msgstr "कुन फाइल देखाउने हो चयनका लागि बर्तमान छनौट"
-
-msgid "The current filter for selecting which resources are displayed"
-msgstr "कुन फाइल देखाउने हो चयनका लागि बर्तमान छनौट"
-
-msgid "The current fraction of the task that's been completed"
-msgstr "संपूर्ण काम टुक्र्‍याउने कार्य सकियो"
-
-msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "विद्यमान अपारदर्सि मूल्य (० पुरै पारदर्शि, ६५५३५पुरै अपारदर्सी)"
-
-msgid "The current page in the document"
-msgstr "मिलानका लागि पन्नाको आकार"
-
-msgid "The current position of the insertion cursor in chars"
-msgstr "वर्ण भित्र करसरको परिचयको तात्कालिन अवस्था"
-
-msgid "The current value"
-msgstr "विद्यमान रङ्ग"
-
-msgid "The currently selected menu item"
-msgstr "हालसालै चयन गरिएको फाइलनाम"
-
-msgid "The default display for GDK"
-msgstr "जिडिकेका लागि पूर्वनिर्धारित प्रदर्शन"
-
-msgid "The default font options for the screen"
-msgstr "पूर्वनिर्धारित प्रयोग गरिने वर्णको नाम"
-
-msgid "The default height of the window, used when initially showing the window"
-msgstr "विण्डोको पूर्वनिर्धारित उचाई प्रयोग हुनेछ जब सुरूमा विण्डोलाई देखाइने छ"
-
-msgid "The default width of the window, used when initially showing the window"
-msgstr "विण्डोको पूर्वनिर्धारित चौडाइ प्रयोगहुने छ जब सुरूमा विण्डोलाई देखाउने छ"
-
-msgid "The desired maximum width of the label, in characters"
-msgstr "लेबलको रुचाइएको अधिक चौडाई, क्यारेक्टरहरूमा"
-
-msgid "The desired width of the button widget, in characters."
-msgstr "बटन विजेटको आबस्यक चौडाई, क्यारेक्टरहरूमा"
-
-msgid "The desired width of the label, in characters"
-msgstr "क्यारेक्टरहरूमा चाहिएको लेबलको चौडाई"
-
-msgid "The direction the arrow should point"
-msgstr "बाँणचिन्हद्वारा निर्देशन देखाउन सकिन्छ"
-
-msgid "The directions in which the size group affects the requested sizes of its component widgets"
-msgstr "अवयव विजेटको अनुरोध गरिएको आकारहरूा आकार समूहले प्रभाव पार्ने दिशनिर्देशहरूा"
-
-msgid "The dropdown menu"
-msgstr "ड्रपडाउन मेनु"
-
-msgid "The event mask that decides what kind of GdkEvents this widget gets"
-msgstr "घटना मुकुण्डो जसमा यो औजारले कस्तो किसिमको जीटीके घटना प्राप्त गर्छ भन्ने कुराको निर्धारण हुन्छ"
-
-msgid "The file already exists in \"%{string}\".  Replacing it will overwrite its contents."
-msgstr "फाइल नाम \"%{string}\" पहिल्यै अवस्थित छ। यसलाई बदल्नाले यसको सामग्रीहरूमा अधिलेखन हुन्छ।"
-
-msgid "The file chooser dialog to use."
-msgstr "फाइल छनोटकर्ता बार्तालाप प्रयोग"
-
-msgid "The fixed height"
-msgstr "निश्चित गरिएको उचाइ"
-
-msgid "The fixed width"
-msgstr "निश्चित गरिएको चौडाइ"
-
-msgid "The folder contents could not be displayed"
-msgstr "फोल्डरको सामग्रीहरू प्रदर्शन गर्न सकिएन"
-
-msgid "The folder could not be created"
-msgstr "फोल्डर सिर्जना गर्न सकिएन"
-
-msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
-msgstr "फोल्डर सिर्जना गर्न सकिएन, किनभने उही नामको एउटा फाइल पहिल्यै अवस्थित छ। फोल्डरका लागि एउटा भिन्न नाम प्रयोग गरेर प्रयास गर्नुहोस् वा पहिले फाइलको पुन: नामकरण गर्नुहोस्।"
-
-msgid "The fraction of total entry width to move the progress bouncing block for each call to gtk_entry_progress_pulse()"
-msgstr "ज्यादा उतार चढावको स्पन्दन नियन्त्रण गर्न संपूर्ण प्रगतिको विभाजन"
-
-msgid "The fraction of total progress to move the bouncing block when pulsed"
-msgstr "ज्यादा उतार चढावको स्पन्दन नियन्त्रण गर्न संपूर्ण प्रगतिको विभाजन"
-
-msgid "The fraction of total work that has been completed"
-msgstr "संपूर्ण काम टुक्र्‍याउने कार्य सकियो"
-
-msgid "The height of the layout"
-msgstr "मोहडाको उचाई"
-
-msgid "The help button of the dialog."
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The horizontal alignment of the label"
-msgstr "छापको समतलीय पंक्तिबद्धता"
-
-msgid "The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
-msgstr "तेर्सो पंक्तिबद्ध, ० (वायाँ) बाट १ (दायाँ) सम्म। आरटिएल लेआउट कालागि संकलित।"
-
-msgid "The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
-msgstr "तेर्सो पंक्तिबद्ध, ० (वायाँ) बाट १ (दायाँ) सम्म। आरटिएल लेआउट कालागि संकलित।"
-
-msgid "The human-readable title of this item group"
-msgstr "विण्डोको शीर्षक"
-
-msgid "The icon name to use for the printer"
-msgstr "नापकालागि मेट्रिक प्रयोग"
-
-msgid "The icon size"
-msgstr "औजारबार चिन्हको आकार"
-
-msgid "The image"
-msgstr "मान"
-
-msgid "The inconsistent state of the button"
-msgstr "बटनको परस्परबिरोधि स्थिति"
-
-msgid "The index of the child in the parent"
-msgstr "मुख्यभित्र शाखाको सूचक"
-
-msgid "The index of the current page"
-msgstr "विद्यमान पन्नाको विवरणिका"
-
-msgid "The initial position of the window"
-msgstr "विण्डोको सुरू स्थिति"
-
-msgid "The item which is currently active"
-msgstr "आइटम जुन चाँही भरखरै सक्रिय भएको छ"
-
-msgid "The keyval of the accelerator"
-msgstr "मिलानका लागि मूल्य"
-
-msgid "The label for the link to the website of the program. If this is not set, it defaults to the URL"
-msgstr "कर्यक्रमको वेबसाइट लिङ्कका लागि लेबल। यदि सेट छैन भने युआरएलमा पूर्वनिर्धारित हुन्छ"
-
-msgid "The label used for menu items and buttons that activate this action."
-msgstr "सूची प्रकार र बटनहरु सक्रिय गर्नका लागि त्यो लेबल प्रयोग गरियो"
-
-msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If not set, an appropriate default will be used."
-msgstr "यो भाषा आईएसओ संकेतका रूपमा पाठ भएको भाषा हो । पाठको भाषान्तरण क्रममा  प्याङ्गोले यसलाई इसाराका रूपमा प्रयोग गर्नसक्छ । यदि सेट भएको छैन भने एक मिल्दो पूर्वनिर्धारित प्रयोग गरिनेछ।"
-
-msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If you don't understand this parameter, you probably don't need it"
-msgstr "यो भाषा आईएसओ संकेतका रूपमा पाठ भएको भाषा हो । पाठको भाषान्तरण क्रममा  प्याङ्गोले यसलाई इसाराका रूपमा प्रयोग गर्नसक्छ । तपाईँले यो मूल्याङ्कन आधार बुझ्नु भएन भने यो तपाईँलाई चाहिँदैन"
-
-msgid "The length of horizontal scroll arrows"
-msgstr "जब क्षितिजीय स्क्रोलबार देखाइएको छ"
-
-msgid "The length of vertical scroll arrows"
-msgstr "जब उर्ध्व स्क्रोलबार देखाइएको छ"
-
-msgid "The license of the program"
-msgstr "कार्यक्रमको इजाजतपत्र"
-
-msgid "The license type of the program"
-msgstr "कार्यक्रमको संस्करण"
-
-msgid "The location of the printer"
-msgstr "औजारबारको अभिमुखीकरण"
-
-msgid "The mask that decides what kind of extension events this widget gets"
-msgstr "मुकुण्डो जसमा यो औजारले कस्तो किसिमको विस्तारित घटना प्राप्त गर्छ भन्ने कुराको निर्धारण हुन्छ"
-
-msgid "The maximum number of items to be displayed"
-msgstr "देखाउनलाई दशमलव ठाउँको संख्या"
-
-msgid "The maximum value of the adjustment"
-msgstr "मिलानको लागि उच्च मूल्य"
-
-msgid "The maximum width of the cell, in characters"
-msgstr "लेबलको रुचाइएको अधिक चौडाई, क्यारेक्टरहरूमा"
-
-msgid "The metric used for the ruler"
-msgstr "नापकालागि मेट्रिक प्रयोग"
-
-msgid "The minimum desired width of the menu item in characters"
-msgstr "क्यारेक्टरहरूमा चाहिएको लेबलको चौडाई"
-
-msgid "The minimum horizontal width of the progress bar"
-msgstr "छापको समतलीय पंक्तिबद्धता"
-
-msgid "The minimum size of the arrow in the combo box"
-msgstr "ठूलो बाकसको लागि प्रणालिगत"
-
-msgid "The minimum value of the adjustment"
-msgstr "मिलानको लागि कम्ती मूल्य"
-
-msgid "The minimum vertical height of the progress bar"
-msgstr "प्रगति बारको मान पाठ"
-
-msgid "The minimum vertical width of the progress bar"
-msgstr "प्रगति बारमा देखाइने पाठ"
-
-msgid "The mnemonic accelerator key for this label"
-msgstr "यो लेवलका लागि एम्नेमोनिक द्रुतसञ्चालक कि"
-
-msgid "The model containing the possible values for the combo box"
-msgstr "कम्बो बाकसको लागि सम्भाबित मुल्यहरू भएको नमुना"
-
-msgid "The model for cell view"
-msgstr "प्रतिमा दृष्यकालागि नमुना"
-
-msgid "The model for the TreeModelSort to sort"
-msgstr "उर्ध्व मोडेलक्रमबद्धताका लागि मोडेल"
-
-msgid "The model for the combo box"
-msgstr "ठूलो बाकसको लागि प्रणालिगत"
-
-msgid "The model for the icon view"
-msgstr "प्रतिमा दृष्यकालागि नमुना"
-
-msgid "The model for the tree view"
-msgstr "उर्ध्व दृश्यका लागि ढाँचा"
-
-msgid "The model to find matches in"
-msgstr "प्रतिस्पर्धाहरुभित्र पाउनलाई नमुना"
-
-msgid "The name of the icon from the icon theme"
-msgstr "प्रतिमा थिमबाट प्रतिमाको नाम"
-
-msgid "The name of the program. If this is not set, it defaults to g_get_application_name()"
-msgstr "कार्यक्रमको नाम. यदि सेट भएको छैन भने यो पूर्व निर्धारित हुन्छ g_get_application_name()"
-
-msgid "The name of the selected font"
-msgstr "छानिएका वर्णहरुको नाम"
-
-msgid "The name of the themed icon displayed on the item"
-msgstr "आइटममा देखिएको संग्रहित छविचित्र"
-
-msgid "The name of the widget"
-msgstr "औजारको नाम"
-
-msgid "The number of columns in the table"
-msgstr "टेवलभित्र स्तम्भहरुको संख्या"
-
-msgid "The number of decimal places that are displayed in the value"
-msgstr "मूल्यमा देखाइने डेसिमल प्लेसको संख्या"
-
-msgid "The number of decimal places to display"
-msgstr "देखाउनलाई दशमलव ठाउँको संख्या"
-
-msgid "The number of pages in the document."
-msgstr "टेवलमा पंक्तिहरुको संख्या"
-
-msgid "The number of pages that will be printed."
-msgstr "टेवलमा पंक्तिहरुको संख्या"
-
-msgid "The number of rows in the table"
-msgstr "टेवलमा पंक्तिहरुको संख्या"
-
-msgid "The opacity of the window, from 0 to 1"
-msgstr "विण्डोको प्रकार"
-
-msgid "The orientation of the orientable"
-msgstr "औजारबारको अभिमुखीकरण"
-
-msgid "The orientation of the tray"
-msgstr "औजारबारको अभिमुखीकरण"
-
-msgid "The pack direction of the menubar"
-msgstr "मेनुबारको प्याक दिशानिर्देश"
-
-msgid "The padding to insert at the bottom of the widget."
-msgstr "औजारको तल प्रवेश गराउनलाई गद्दा"
-
-msgid "The padding to insert at the left of the widget."
-msgstr "औजारको बायाँ घुसाउनलाई गद्दा"
-
-msgid "The padding to insert at the right of the widget."
-msgstr "औजारको दायाँ घुसार्नलाई गद्दा"
-
-msgid "The padding to insert at the top of the widget."
-msgstr "औजारको माथिल्लो गद्दामा विर्कोको छिराइ"
-
-msgid "The page increment of the adjustment"
-msgstr "मिलानको लागि पन्ना वृद्धि"
-
-msgid "The page size of the adjustment"
-msgstr "मिलानका लागि पन्नाको आकार"
-
-msgid "The parent widget of this widget. Must be a Container widget"
-msgstr "यो औजारको मुख्य औजार"
-
-msgid "The parent window"
-msgstr "विण्डोको प्रकार"
-
-msgid "The pixbuf to render"
-msgstr "रेन्डरलाई पिक्सबफ"
-
-msgid "The position in which the current value is displayed"
-msgstr "तत्कालिन मूल्य देखाइएको अवस्था"
-
-msgid "The position of the image relative to the text"
-msgstr "उप शाखासँग सम्वन्धित उझिण्डोको स्थिति"
-
-msgid "The position of the opposite end of the selection from the cursor in chars"
-msgstr "वर्णमा कर्सरबाट चयन गरिने विपरित ध्रूवको स्थिति"
-
-msgid "The preferred place to ellipsize the string, if the cell renderer does not have enough room to display the entire string"
-msgstr "स्ट्रिङ दिर्घाकार बनाउन प्राथमिक स्थान, यदि कक्ष प्रतिपादकसँग सबै स्ट्रिङ देखाउनका लागि प्रशस्त कोठा छैन, यदि सबै"
-
-msgid "The preferred place to ellipsize the string, if the label does not have enough room to display the entire string"
-msgstr "यदि लेबलसँग यदि भएमा सबै स्ट्रिङ देखाउन प्रसस्त कोठा छैन भने स्ट्रिङ दिर्घाकार गर्न प्राथमिक स्थान"
-
-msgid "The preferred place to ellipsize the string, if the progress bar does not have enough room to display the entire string, if at all."
-msgstr "यदि प्रगतिबारसँग भए सम्म सबै स्ट्रिङहरू देखाउन प्रसस्त कोठाहरू छैन भने स्ट्रिङ दीर्घाकार गर्न प्राथमिक स्थान"
-
-msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
-msgstr "तपाईँले अहिले चयन गरिरहेको रङको तुलनामा, पूर्व-चयन गरिएको रङ। तपाईँले यो रङलाई एउटा रङदानी प्रविष्टिमा तान्न सक्नुहुन्छ, वासँगै रहेको अन्य रङ सम्म तानेर हालको रूपमा यो रङ चयन गर्न सक्नुहुन्छ।"
-
-msgid "The primary text of the message dialog"
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The primary text of the title includes Pango markup."
-msgstr "पाठको छापमा एक्सएमएल चिन्ह-निर्देश । प्याङ्गो_पदमिलान_चिन्ह-निर्देश()"
-
-msgid "The radio action whose group this action belongs to."
-msgstr "रेडियो कार्य जसको समुह यस कार्यमा पर्दछ"
-
-msgid "The radio button whose group this widget belongs to."
-msgstr "रेडियो बटन जसको समुह यस विजेटमा पर्दछ"
-
-msgid "The radio menu item whose group this widget belongs to."
-msgstr "रेडियो बटन जसको समुह यस विजेटमा पर्दछ"
-
-msgid "The radio tool button whose group this button belongs to."
-msgstr "रेडियो बटन जसको समुह यस विजेटमा पर्दछ"
-
-msgid "The representation being used for image data"
-msgstr "छविचित्र डाटाका लागि प्रयोग गरिएको प्रतिनिधित्व"
-
-msgid "The representation being used for primary icon"
-msgstr "छविचित्र डाटाका लागि प्रयोग गरिएको प्रतिनिधित्व"
-
-msgid "The representation being used for secondary icon"
-msgstr "छविचित्र डाटाका लागि प्रयोग गरिएको प्रतिनिधित्व"
-
-msgid "The resolution for fonts on the screen"
-msgstr "पर्दामा दायरा कसरी सुधार गरिन्छ"
-
-msgid "The row number to attach the bottom of the child to"
-msgstr "शाखाको तलतिर तेर्सो लाईनको संख्या जोडिन्छ"
-
-msgid "The row number to attach the top of a child widget to"
-msgstr "इउटा शाखा औजारको माथितिर संलग्न गर्नलाई पंक्तिको संख्या"
-
-msgid "The row number to attach the top of the child to"
-msgstr "शाखाको माथि तिर तेर्सो लाईनको संख्या जोडिन्छ"
-
-msgid "The screen where this status icon will be displayed"
-msgstr "त्यो पर्दा जहाँ यो विण्डो देखाइन्छ"
-
-msgid "The screen where this window will be displayed"
-msgstr "त्यो पर्दा जहाँ यो विण्डो देखाइन्छ"
-
-msgid "The screen where this window will be displayed."
-msgstr "त्यो पर्दा जहाँ यो विण्डो देखाइन्छ"
-
-msgid "The secondary text of the message dialog"
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The selected color"
-msgstr "छानिएको रङ्ग"
-
-msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
-msgstr "छानिएको दिन (१ र ३१ को बीचको संख्या जस्तै अथवा ० देखि नछानिएको विद्यमान छानिएका दिनहरु)"
-
-msgid "The selected month (as a number between 0 and 11)"
-msgstr "छानिएको महिना(० र ११ को बीचको संख्या जस्तै)"
-
-msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "छानिएको अपारदर्सि मूल्य (० पुरै पारदर्शि, ६५५३५पुरै अपारदर्सी)"
-
-msgid "The selected year"
-msgstr "छानिएको वर्ष"
-
-msgid "The selection mode"
-msgstr "चयन गर्ने अबस्था"
-
-msgid "The size of icons in default toolbars."
-msgstr "पूर्वनिश्चित औजारबारमा छविचित्रको आकार"
-
-msgid "The size of the icon"
-msgstr "विण्डोको शीर्षक"
-
-msgid "The sorting order of the items displayed"
-msgstr "यदि बटनको टगल भाग देखाउनु छभने"
-
-msgid "The status of the print operation"
-msgstr "बटनको एकबाट अर्कोमा फडकने स्थिति"
-
-msgid "The step increment of the adjustment"
-msgstr "मिलानको लागि तह वृद्धि"
-
-msgid "The stock ID of the stock icon to render"
-msgstr "रेन्डरलाई संग्रहित छविचित्रको संग्रहित आइडि"
-
-msgid "The stock icon displayed in widgets representing this action."
-msgstr "यो कार्यको प्रतिनिधित्व औजार भित्र संग्रह छविचित्रले देखायो"
-
-msgid "The stock icon displayed on the item"
-msgstr "आइटममा देखिएको संग्रहित छविचित्र"
-
-msgid "The string displayed in the child's menu entry"
-msgstr "बच्चाको मेनु प्रबिष्टि भित्र स्ट्रिङ देखाइयो"
-
-msgid "The string displayed on the child's tab label"
-msgstr "बच्चाको ट्याब लेवलमा स्ट्रिङ देखाइयो"
-
-msgid "The string that represents this font"
-msgstr "X सूत्र जसले वर्णको प्रतिनिधित्व गर्छ"
-
-msgid "The style of the widget, which contains information about how it will look (colors etc)"
-msgstr "औजारको शैली जस्मा कसरी हेर्ने भन्ने सूचना निहित हुन्छ (रङ्ग आदि)"
-
-msgid "The text for the child label"
-msgstr "लेबलका पाठहरु"
-
-msgid "The text of the label"
-msgstr "लेबलका पाठहरु"
-
-msgid "The text of the label includes XML markup. See pango_parse_markup()"
-msgstr "पाठको छापमा एक्सएमएल चिन्ह-निर्देश । प्याङ्गो_पदमिलान_चिन्ह-निर्देश()"
-
-msgid "The text to display in order to demonstrate the selected font"
-msgstr "चयनित वर्ण प्रदर्शनक्रममा देखाइने पाठ"
-
-msgid "The time before hiding a submenu when the pointer is moving towards the submenu"
-msgstr "जब विन्दु-दर्शक सबमेनुतिर सर्छ सबमेनु हराउनुभन्दा पहिलेको समय"
-
-msgid "The title of the assistant page"
-msgstr "विण्डोको शीर्षक"
-
-msgid "The title of the color selection dialog"
-msgstr "रङ्ग छानिएको स‍वादको शिर्षक"
-
-msgid "The title of the file chooser dialog."
-msgstr "फाइल छनोटकर्ताको वार्तालाप शिर्षक"
-
-msgid "The title of the font selection dialog"
-msgstr "वर्ण छनौट सम्बादको शिर्सक"
-
-msgid "The title of the window"
-msgstr "विण्डोको शीर्षक"
-
-msgid "The title of this tray icon"
-msgstr "विण्डोको शीर्षक"
-
-msgid "The toggle button can be activated"
-msgstr "एकबाट अर्कोमा फड्कने बटन सक्रिय भयो"
-
-msgid "The toggle state of the button"
-msgstr "बटनको एकबाट अर्कोमा फडकने स्थिति"
-
-msgid "The transient parent of the dialog"
-msgstr "खबर स‍ंवादभित्र बटनहरु देखाइन्छ"
-
-msgid "The type of accelerators"
-msgstr "खबरको प्रकार"
-
-msgid "The type of message"
-msgstr "खबरको प्रकार"
-
-msgid "The type of operation that the file selector is performing"
-msgstr "सञ्चालनको प्रकार जुन फाइल चयकले लिएको छ"
-
-msgid "The type of the assistant page"
-msgstr "खबरको प्रकार"
-
-msgid "The type of the window"
-msgstr "विण्डोको प्रकार"
-
-msgid "The update could not be completed."
-msgstr "क्लिपबोर्ड साइन गर्न सकिएन ।"
-
-msgid "The update was cancelled."
-msgstr "अनुरोध रद्द गरिएको थियो ।"
-
-msgid "The value"
-msgstr "मान"
-
-msgid "The value of the adjustment"
-msgstr "मिलानका लागि मूल्य"
-
-msgid "The value of the scale"
-msgstr "मिलानका लागि मूल्य"
-
-msgid "The value returned by gtk_radio_action_get_current_value() when this action is the current action of its group."
-msgstr "जब जीटीके_अनुपात_कार्य_प्राप्ती_वर्तमान_मान() ले मान फर्काउँछ यो कार्य वर्तमान समूहको कार्य हुन्छ"
-
-msgid "The version of the program"
-msgstr "कार्यक्रमको संस्करण"
-
-msgid "The vertical alignment of the label"
-msgstr "छापको उर्ध्वतलीय पंक्तिबद्धता"
-
-msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
-msgstr "उर्ध्व पंक्तिबद्ध , ० देखि (माथि) १ सम्म (तल)"
-
-msgid "The vertical text alignment, from 0 (top) to 1 (bottom)."
-msgstr "उर्ध्व पंक्तिबद्ध , ० देखि (माथि) १ सम्म (तल)"
-
-msgid "The widget the menu is attached to"
-msgstr "जहाँ सूची आइटम जाँचिएको छ"
-
-msgid "The widget to be activated when the label's mnemonic key is pressed"
-msgstr "जव लेवलको एम्नेमोनिक कि थिचिन्छ औजार सक्रिय हुन्छ"
-
-msgid "The widget to be monitored for accelerator changes"
-msgstr "द्रुतसञ्चालक परिवर्तनहरुका लागि औजारमा निरीक्षण गरियो"
-
-msgid "The width at which the text is wrapped"
-msgstr "चौडाई जसमा पाठ्य ढाकिन्छ"
-
-msgid "The width of the empty border outside the containers children"
-msgstr "कन्टेनरका उपशाखाहरूको बाहिरपटटिको खाली किनारा"
-
-msgid "The width of the layout"
-msgstr "मोहडाको चौडाई"
-
-msgid "The width used for each item"
-msgstr "प्रत्येक प्रकारका लागि चौडाई प्रयोग"
-
-msgid "The window gravity of the window"
-msgstr "त्यो विण्डो विण्डोको गुरुत्व हो"
-
-msgid "The window of the socket the plug is embedded in"
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "The x-align"
-msgstr "एक्स पंक्तिबद्द"
-
-msgid "The xpad"
-msgstr "एक्स प्याड"
-
-msgid "The y-align"
-msgstr "वाई पंक्तिबद्द"
-
-msgid "The ypad"
-msgstr "वाइ प्याड"
-
-msgid "Theme Name"
-msgstr "सारभूत छनौट नाम"
-
-msgid "Three Stars"
-msgstr "तीन चौथाइ"
-
-msgid "Three days ago"
-msgstr "गत ५ दिनको सन्देशहरू"
-
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "टाइग्रिगना-इरिट्रियन (EZ+)"
-
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "टाइग्रिगना-इथियोपियन (EZ+)"
-
-msgid "Time after which the cursor stops blinking, in seconds"
-msgstr "मिलिसेकेण्डभित्र करसर झिमझिम गर्ने साइकलको लम्बाइ"
-
-msgid "Timeout after which browse mode is disabled"
-msgstr "देखाइएको अस्थायी स्मृति"
+msgid "Tiny"
+msgstr "अति सानो"
 
 msgid "Title"
-msgstr "शिर्षक"
+msgstr "शीर्षक"
 
-msgid "Title of the print job"
-msgstr "विण्डोको शीर्षक"
+msgid "Toolbox"
+msgstr "उपकरणबाकस"
 
-msgid "Title to appear in column header"
-msgstr "स्तम्भ शीर्षलेखमा देखिने शीर्षक"
+msgid "Tools"
+msgstr "उपकरण"
 
-msgid "Toggle state"
-msgstr "एकबाट अर्कोमा फडकने स्थिति"
+msgid "Total"
+msgstr "जम्मा"
 
-msgid "Toolbar Icon Size"
-msgstr "औजारबार चिन्हको आकार"
-
-msgid "Toolbar Style"
-msgstr "औजारबार पद्धति"
-
-msgid "Toolbar style"
-msgstr "औजारबार शैली"
-
-msgid "Tooltip"
-msgstr "औजारटिप"
-
-msgid "Tooltip Column"
-msgstr "पाठ स्तम्भ"
-
-msgid "Tooltip Text"
-msgstr "औजारटिप"
-
-msgid "Tooltip markup"
-msgstr "औजारटिप"
-
-msgid "Tooltip timeout"
-msgstr "औजारटिप"
-
-msgid "Top Attach"
-msgstr "माथि सम्लग्न"
-
-msgid "Top Padding"
-msgstr "उच्च गद्दा"
-
-msgid "Top attachment"
-msgstr "माथिल्लो संलग्न"
-
-msgid "Track visited links"
-msgstr "हाइपरलिङ्कहरूको रङ्ग"
-
-msgid "Translated by"
-msgstr "अनुवाद"
+msgid "Transformation"
+msgstr "रूपान्तरण"
 
 msgid "Translation"
-msgstr "अनुवाद"
+msgstr "उल्था"
 
-msgid "Translation Domain"
-msgstr "अनुवादक बिश्वास"
+msgid "Transparency"
+msgstr "पारदर्शिता"
 
-msgid "Translator credits"
-msgstr "अनुवादक बिश्वास"
+msgid "Transparent"
+msgstr "पारदर्शी"
 
-msgid "Transparency of the color."
-msgstr "रङको पारदर्शीता"
+msgid "Type"
+msgstr "प्रकार"
 
-msgid "Tree line pattern"
-msgstr "धर्सा नमुनाको संकेन्द्रविन्दु लाईन"
-
-msgid "Tree line width"
-msgstr "निश्चित गरिएको चौडाइ"
-
-msgid "TreeModel column containing the column span values"
-msgstr "स्तम्भ दूरीको मान भएको रूख आकारको स्तम्भ"
-
-msgid "TreeModel column containing the row span values"
-msgstr "पंति दूरीको मान भएको रूख आकारको स्तम्भ"
-
-msgid "TreeModelSort Model"
-msgstr "उर्ध्व मोडेलक्रमको मोडेल"
-
-msgid "TreeView Model"
-msgstr "रूख प्रकारको ढाँचा"
-
-msgid "Trough Border"
-msgstr "सीमारेखातिरबाट"
-
-msgid "Truncate multiline"
-msgstr "बहुप्रयोग छान्नुस्"
-
-msgid "Two Stars"
-msgstr "दुईवटा सुट"
-
-msgid "Two days ago"
-msgstr "गत ५ दिनको सन्देशहरू"
-
-msgid "Two weeks ago"
-msgstr "\"%{string}\" ले दुईवटा तर्कहरू अपेक्षा गर्दछ"
-
-msgid "Type a file name"
-msgstr "अवैध फाइल नाम"
-
-msgid "Type hint"
-msgstr "इसाराको प्रकार"
-
-msgid "Type name of new folder"
-msgstr "नयाँ फोल्डरको नाम टाइप गर्नुहोस्"
-
-msgid "Type of bevel around toolbar buttons"
-msgstr "औजारबार बटनको वरिपरि कोण नाप्ने यन्त्रको प्रकार"
-
-msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
-msgstr "सवपिक्सेल मिलानको प्रकार छैन, rgb, bgr, vrgb, vbgr"
-
-msgid "Type something to hear it"
-msgstr "सुन्नको लागी केही लेख"
-
-msgid "URL from Chat"
-msgstr "कुराकानी देखि URL"
-
-msgid "Unable to find an item with URI '%{string}'"
-msgstr "समाविष्ट फाइल फेला पार्न असमर्थ: \"%{string}\""
-
-msgid "Unable to find include file: \"%{string}\""
-msgstr "समाविष्ट फाइल फेला पार्न असमर्थ: \"%{string}\""
-
-msgid "Unable to locate image file in pixmap_path: \"%{string}\""
-msgstr "pixmap_path मा छवि फाइल इङ्गित गर्न असमर्थ: \"%{string}\""
-
-msgid "Unable to locate theme engine in module_path: \"%{string}\","
-msgstr "मोड्युल मार्गमा विषयवस्तु इन्जिन इङ्गित गर्न अक्षम: \"%{string}\","
+msgid "URL"
+msgstr "URL"
 
 msgid "Underline"
-msgstr "कचहरु"
-
-msgid "Underline set"
-msgstr "कच मिलाउ"
+msgstr "कच"
 
 msgid "Undo"
 msgstr "सच्याउ"
 
-msgid "Unique identifier for the window to be used when restoring a session"
-msgstr "सेसन पुनर्संग्रहक्रममा प्रयोग गर्न विण्डोका लागि अद्वितीय सूचक"
-
-msgid "Unique startup identifier for the window used by startup-notification"
-msgstr "सेसन पुनर्संग्रहक्रममा प्रयोग गर्न विण्डोका लागि अद्वितीय सूचक"
+msgid "Units"
+msgstr "एकाइ"
 
 msgid "Unknown"
 msgstr "अज्ञात"
 
-msgid "Unknown item"
-msgstr "अज्ञात"
+msgid "Untitled"
+msgstr "शीर्षक नभएको"
 
-msgid "Unvisited Link Color"
-msgstr "लिङ्क रङ्ग"
+msgid "User"
+msgstr "प्रयोगकर्ताहरु"
 
-msgid "Update Policy"
-msgstr "सुधार नीति"
+msgid "User Interface"
+msgstr "प्रयोगकर्ता इन्टरफेस"
 
-msgid "Update policy"
-msgstr "नीति सुधार्नु"
-
-msgid "Updated"
-msgstr "अद्यावधिक गरियो"
-
-msgid "Updates"
-msgstr "अपडेट जाँच गर्नुहोस्"
-
-msgid "Updates page"
-msgstr "पृष्ठ नेभिगेसन"
-
-msgid "Upper"
-msgstr "माथिल्लो"
-
-msgid "Upper limit of ruler"
-msgstr "मापकको माथिल्लो हद"
-
-msgid "Use Markup"
-msgstr "मार्कअप प्रयोग गर"
-
-msgid "Use Preview Label"
-msgstr "पुर्वदृष्यको लेबल प्रयोग"
-
-msgid "Use alpha"
-msgstr "अल्फा प्रयोग गर"
-
-msgid "Use font in label"
-msgstr "लेबलमा वर्ण प्रयोग गर"
-
-msgid "Use full page"
-msgstr "अल्फा प्रयोग गर"
-
-msgid "Use markup"
-msgstr "मार्कअप प्रयोग गर"
-
-msgid "Use size in label"
-msgstr "लेबलमा आकार प्रयोग गर"
-
-msgid "Use stock"
-msgstr "संग्रह प्रयोग गर"
-
-msgid "Use underline"
-msgstr "कच प्रयोग गर"
-
-msgid "Username:"
-msgstr "पुन: नामकरण गर्नुहोस्"
-
-msgid "Utilities"
-msgstr "अनुप्रयोगहरू"
+msgid "Username"
+msgstr "प्रयोगकर्ताको नाम"
 
 msgid "Value"
 msgstr "मान"
 
-msgid "Value Position"
-msgstr "मूल्य स्थिति"
-
-msgid "Value of the progress bar"
-msgstr "प्रगति बारको मान पाठ"
-
-msgid "Value spacing"
-msgstr "मूल्यको स्पेसिङ"
-
 msgid "Vector Graphics"
-msgstr "कागजातहरु/भेक्टर ग्राफिक्स"
+msgstr "भेक्टर ग्रफिक्स"
 
 msgid "Version"
 msgstr "संस्करण"
 
-msgid "Vertical Adjustment"
-msgstr "उर्ध्व मिलान"
-
-msgid "Vertical Adjustment for the widget"
-msgstr "औजारका लागि उर्ध्वतलीय मिलान"
-
-msgid "Vertical Alignment"
-msgstr "उर्ध्वतलीय पंक्तिबद्ध"
-
-msgid "Vertical Offset"
-msgstr "उर्ध्व स्थापति गर्नु"
-
-msgid "Vertical Padding"
-msgstr "उर्ध्व गद्दा"
-
-msgid "Vertical Scroll Arrow Length"
-msgstr "उर्ध्व स्क्रोलबार नीति"
-
-msgid "Vertical Scrollbar Policy"
-msgstr "उर्ध्व स्क्रोलबार नीति"
-
-msgid "Vertical Separator Width"
-msgstr "उर्ध्वतलीय विभाजकको चौडाई"
-
-msgid "Vertical adjustment"
-msgstr "उर्ध्व मिलान"
+msgid "Vertical"
+msgstr "ठाडो"
 
 msgid "Vertical alignment"
-msgstr "उर्ध्व पंक्तिबद्ध"
-
-msgid "Vertical alignment for child"
-msgstr "शाखाको लागि उर्ध्व पंक्तिबद्ध"
-
-msgid "Vertical options"
-msgstr "उर्ध्व विकल्प"
-
-msgid "Vertical padding"
-msgstr "उर्ध्वतलीय गद्दा"
-
-msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
-msgstr "उपलब्ध हुने ठाउँमा शाखाको उर्ध्वतलीय अवस्था छ । ०.० माथिल्लो पंक्तिकृत हो , १.० तल्लो पंक्तिकृत हो"
-
-msgid "Vertical scale"
-msgstr "उर्ध्व नाप"
-
-msgid "Vertical separation"
-msgstr "उर्ध्व विकल्प"
-
-msgid "Vertical space between cells.  Must be an even number"
-msgstr "कोष्टहरूको बीचमा उर्ध्वतलीय खालीठाउँ जोडी नम्बरको हुनैपर्छ"
+msgstr "ठाडो पङ्क्तिबद्व"
 
 msgid "Video"
 msgstr "भिडियो"
@@ -4948,917 +1333,65 @@ msgstr "भिडियो"
 msgid "Vietnamese"
 msgstr "भिएतनामिज"
 
-msgid "Vietnamese (VIQR)"
-msgstr "भियतनामी (VIQR)"
-
 msgid "View"
 msgstr "दृश्य"
-
-msgid "View allows user to search through columns interactively"
-msgstr "दृश्यले प्रयोगकर्तालाई स्तम्भभित्रसम्म खोजिगर्न अनुमति दिन्छ"
-
-msgid "View has expanders"
-msgstr "वृद्धि कारक छ"
-
-msgid "View is reorderable"
-msgstr "दृष्य अभिलेखन योग्य छ"
-
-msgid "Viewer"
-msgstr "लग दर्शक"
-
-msgid "Visibility"
-msgstr "दृश्यात्मक"
 
 msgid "Visible"
 msgstr "दृश्यात्मक"
 
-msgid "Visible Window"
-msgstr "दृश्यात्मक विण्डो"
-
-msgid "Visible when horizontal"
-msgstr "क्षितिजीय हुँदा हेर्न सकिने"
-
-msgid "Visible when overflown"
-msgstr "भरिएको हेर्न सकिने"
-
-msgid "Visible when vertical"
-msgstr "उर्ध्व हुँदा हेर्न सकिने"
-
-msgid "Visit website"
-msgstr "वेबसाइट हेर्नुहोस्"
-
-msgid "Visited"
-msgstr "दृश्यात्मक"
-
-msgid "Visited Link Color"
-msgstr "लिङ्क रङ्ग"
-
-msgid "Voice"
-msgstr "आवाज"
-
-msgid "Voice chat"
-msgstr "आवाज कुराकानी"
-
 msgid "Volume"
-msgstr "मान:"
+msgstr "भोल्युम"
 
 msgid "Waiting"
-msgstr "चेतावनी"
+msgstr "प्रतिक्षा गर्दै"
 
 msgid "Warning"
 msgstr "चेतावनी"
 
-msgid "Warning color"
-msgstr "पृष्ठभूमिको रङ्ग"
-
-msgid "Waveform"
-msgstr "तरङ्ग"
-
-msgid "Web Browser"
-msgstr "वेब ब्राउजर"
-
-msgid "Web Development"
-msgstr "वेब विकास"
-
-msgid "Web app"
-msgstr "App ID"
-
-msgid "Website"
-msgstr "वेबसाइट"
-
-msgid "Website URL"
-msgstr "वेबसाइट युआरएल"
-
-msgid "Website label"
-msgstr "वेबसाइट लेबल"
+msgid "Weight"
+msgstr "तौल"
 
 msgid "Welcome"
 msgstr "स्वागतम्"
 
-msgid "Welcome to Software"
-msgstr "ओर्कामा स्वागत छ ।"
-
 msgid "Welsh"
 msgstr "वेल्स"
 
-msgid "What degree of hinting to use; hintnone, hintslight, hintmedium, or hintfull"
-msgstr "इशाराको के डिग्रि प्रयोग हुन्छ:कुनैपनि हुदैन , स्लाईट , मध्यम वा पुरै"
-
-msgid "When TRUE, empty menu proxies for this action are hidden."
-msgstr "जब सत्यहुन्छ , यो कार्यको लागि खालि सूची बहुप्रतिनिधिहरु अदृश्य हुन्छन"
-
-msgid "When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu."
-msgstr "जब सत्य हुन्छ, यो कार्यको लागि खालि सूची बहुप्रतिनिधिहरु अदृश्य हुन्छन"
-
-msgid "When the horizontal scrollbar is displayed"
-msgstr "जब क्षितिजीय स्क्रोलबार देखाइएको छ"
-
-msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
-msgstr "जब मेनु नै उपमेनु हुन्छ समतलीय समरूप पिक्सेलहरूको संख्या यो स्थितिमा राख्नुस्"
-
-msgid "When the menu is a submenu, position it this number of pixels offset vertically"
-msgstr "जब मेनु नै उपमेनु हुन्छ उर्ध्वतलीय समरूप पिक्सेलहरूको संख्या यो स्थितिमा राख्नुस्"
-
-msgid "When the vertical scrollbar is displayed"
-msgstr "जब उर्ध्व स्क्रोलबार देखाइएको छ"
-
-msgid "Where the contents are located with respect to the scrollbars. This property only takes effect if \"window-placement-set\" is TRUE."
-msgstr "स्क्रोलबारको सम्मानसँगै जहाँ विषय वस्तुहरु राखिन्छन"
-
-msgid "Where the contents of scrolled windows are located with respect to the scrollbars, if not overridden by the scrolled window's own placement."
-msgstr "स्क्रोलबारको सम्मानसँगै जहाँ विषय वस्तुहरु राखिन्छन"
-
-msgid "Whether Tab will result in a tab character being entered"
-msgstr "ट्याब वर्ण प्रविष्टिक्रममा ट्याबले नै परिणाम दिन्छ भने"
-
-msgid "Whether \"window-placement\" should be used to determine the location of the contents with respect to the scrollbars."
-msgstr "स्क्रोलबारको सम्मानसँगै जहाँ विषय वस्तुहरु राखिन्छन"
-
-msgid "Whether a palette should be used"
-msgstr "जहाँ रङ्गदानि प्रयोग गरिनु पर्थ्यो"
-
-msgid "Whether a spin button should wrap upon reaching its limits"
-msgstr "जहाँ एउटा घुर्रो बटन यसको क्षेत्रमा कसिन सक्छ"
-
-msgid "Whether activatable icons should prelight when hovered"
-msgstr "जहा ट्याबहरु देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether buttons in dialogs should use the alternative button order"
-msgstr "जब बार्तालापमा बटनहरूले बैकल्पिक बटन क्रम प्रयोग गर्नु पर्दछ"
-
-msgid "Whether default toolbars have text only, text and icons, icons only, etc."
-msgstr "पूर्वनिश्चित औजारबारसँग पाठमात्र, पाठ र छविचित्र,  छविचित्रमात्र छ भने"
-
-msgid "Whether dropdowns should have a tearoff menu item"
-msgstr "या तलराख्ने सँग टियर अफ मेनु प्रकार हुनुपर्दछ।"
-
-msgid "Whether dropdowns should look like lists rather than menus"
-msgstr "या तलराख्नेले मेनुहरू भन्दा सूचीहरूलाई हेर्नु पर्दछूचीका रूपमा देखाउनु छ"
-
-msgid "Whether entered text overwrites existing contents"
-msgstr "यदि प्रविष्टि गरिएको पाठले भइरहेको विषयवस्तुमाथि लेख्नु छभने"
-
-msgid "Whether erroneous values are automatically changed to a spin button's nearest step increment"
-msgstr "जब स्पिन बटनको नजिकको तहको दढोत्तरी गर्दा गल्ती मान स्वतः परिवर्तन हुन्छ"
-
-msgid "Whether extra space given to the child should be allocated to the child or used as padding"
-msgstr "यदि उपशाखालाई अतिरिक्त ठाउँ दिनु छ भने उपशाखा वा भद्दा प्रयोग भनी छुट्याइनु पर्छ"
-
-msgid "Whether grid lines should be drawn in the tree view"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether gtk_widget_show_all() should not affect this widget"
-msgstr "जीटीके_औजार_देखाउने_सबै() ले यो औजारलाई असरपार्न सक्दैन"
-
-msgid "Whether images should be shown in menus"
-msgstr "जब मेनुहरूमा छविचित्र देखाइन्छ"
-
-msgid "Whether images should be shown on buttons"
-msgstr "जब मेनुहरूमा छविचित्र देखाइन्छ"
-
-msgid "Whether labels should have mnemonics"
-msgstr "जहा ट्याबहरु उस्तै प्रकारको आकारहरुमा हुनुपर्छ"
-
-msgid "Whether menu accelerators can be changed by pressing a key over the menu item"
-msgstr "जहा सूची द्रुतसञ्चालकहरु सूची आइटम माथि एउटा कि थिचेर परिवर्तन हुन सक्छन"
-
-msgid "Whether menu items should have accelerators"
-msgstr "जब च्यात्ने क्षमता भएको मेनु आइटमहरू मेनुमा थप्न सकिन्छ"
-
-msgid "Whether mnemonics are currently visible in this window"
-msgstr "जब वर्तमान सक्रिय विण्डो उच्चतहमा रहन्छ"
-
-msgid "Whether new text overwrites existing text"
-msgstr "यदि प्रविष्टि गरिएको पाठले भइरहेको विषयवस्तुमाथि लेख्नु छभने"
-
-msgid "Whether non-numeric characters should be ignored"
-msgstr "जहाँ संख्यात्मक नभएको वर्णहरु बेवास्ता गरिन सक्छन"
-
-msgid "Whether rows should be expanded/collapsed when the pointer moves over them"
-msgstr "जब पंक्तिहरू बढाउन/हराउनु पर्ने हुन्छ जहिले सूचक तिनीहरूबाट हट्दछ"
-
-msgid "Whether selected font size is shown in the label"
-msgstr "छापमा देखाइने चयनित वर्णको आकार"
-
-msgid "Whether spacers are vertical lines or just blank"
-msgstr "यदि खालीठाउँ-दाता उर्ध्वतलीय लाईन वा खाली छभने"
-
-msgid "Whether tabs should be shown"
-msgstr "जहा ट्याबहरु देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether tearoff menu items should be added to menus"
-msgstr "जब च्यात्ने क्षमता भएको मेनु आइटमहरू मेनुमा थप्न सकिन्छ"
-
-msgid "Whether the action group is enabled."
-msgstr "जहाँ कार्य समूह सक्रिय छ"
-
-msgid "Whether the action group is visible."
-msgstr "जहाँ कार्य समूह हेर्न सकिने छ"
-
-msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
-msgstr "जब कार्यलाई महत्वपूर्ण रूपमा ममन गरिन्छ । ठीक छ भने औजार आइटम प्रतिनिधिले यो कार्यका लागि जीटीके_औजारबार_दुवै_समतलीय मोडमा पाठ देखाउँछ"
-
-msgid "Whether the action is enabled."
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the action is visible."
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "Whether the application has a selection"
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the application prefers to have a dark theme."
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the application supplied widget for custom previews should be shown."
-msgstr "प्रचलित पूर्वदृश्यका लागि अनुप्रयोगले आपूर्ति गरेको औजार हेर्न सकिन्छ"
-
-msgid "Whether the application will paint directly on the widget"
-msgstr "जब अनुप्रयोगले सीधै औजारमा रङ्ग लगाउला"
-
-msgid "Whether the background color fills the entire line height or only the height of the tagged characters"
-msgstr "संपूर्ण उचाई लाईन वा ट्यग-वर्ण भर्ने पृष्टभूमि रङ्ग"
-
-msgid "Whether the border should be shown"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether the buffer has some text currently selected"
-msgstr "जिदिके वर्ण विद्यमान छानिएको वर्ण हो"
-
-msgid "Whether the button grabs focus when it is clicked with the mouse"
-msgstr "जब माउस क्लिक गर्दा बटनले प्राप्त गर्ने शक्ति"
-
-msgid "Whether the cell renderer is currently in editing mode"
-msgstr "जब लेबल एकल पंक्ति अबस्थामा हुन्छ"
-
-msgid "Whether the child should receive extra space when the parent grows"
-msgstr "जब मूलको वृद्धि हुन्छ उपशाखाले अतिरिक्त खालीस्थान प्राप्त गर्दछ"
-
-msgid "Whether the child's tab should fill the allocated area"
-msgstr "बच्चाको ट्याब तोकिएको क्षेत्रमा भरिनु पर्छ कि पर्दैनभर्न सक्छकि सक्दैन"
-
-msgid "Whether the child_displacement_x/_y properties should also affect the focus rectangle"
-msgstr "या child_displacement_x/_y गुणहरूले पनि आयत केन्द्रितमा असर गर्नु पर्दछ"
-
-msgid "Whether the children should all be the same size"
-msgstr "जहाँ शाखाहरु सबै उस्तै प्रकारको हुन सक्छ"
-
-msgid "Whether the color selector should allow setting opacity"
-msgstr "जहाँ रङ्ग छान्नेलाई अपारदर्सि स्थापितगरिनलाई अनुमति दिनु पर्छ"
-
-msgid "Whether the column can be reordered around the headers"
-msgstr "शीर्षलेखको वरिपरि पुनर्निर्देश गर्सकिने स्तम्भ"
-
-msgid "Whether the combo box draws a frame around the child"
-msgstr "या कम्बो बाकसले चाइल्डको वरिपरिको फ्रेम तन्दछ"
-
-msgid "Whether the combo box grabs focus when it is clicked with the mouse"
-msgstr "या माउसले क्लिक गर्दा कम्बो बाकसले केन्द्र प्राप्त गर्दछ"
-
-msgid "Whether the combo's dropdown is shown"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether the common prefix should be inserted automatically"
-msgstr "या साधारण उपसर्ग स्वत घुसाइनि पर्दछ"
-
-msgid "Whether the completions should be shown in a popup window"
-msgstr "या पुर्णताहरू पपअप सञ्झ्यालमा देखाइनु पर्दछ"
-
-msgid "Whether the current value is displayed as a string next to the slider"
-msgstr "जहा स्लाईडरको अर्को तिर सूत्र जस्तो तत्कालिन मूल्य देखाइन्छ"
-
-msgid "Whether the cursor should blink"
-msgstr "जहाँ करसा खाली हुनसक्छ"
-
-msgid "Whether the device has a cursor"
-msgstr "निवेश संकेन्द्रविन्दुसँग को औजार"
-
-msgid "Whether the dialog supports selection"
-msgstr "जब चयनित वर्णको छाप खिचिन्छ"
-
-msgid "Whether the dropdown button is sensitive when the model is empty"
-msgstr "जब माउस क्लिक गर्दा बटनले प्राप्त गर्ने शक्ति"
-
-msgid "Whether the entry contents can be edited"
-msgstr "जब प्रविष्टिको विषयवस्तु संपादन गर्न सकिन्छ"
-
-msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
-msgstr "घटना-बाकस अदृश्यका सट्टा दृश्यात्मक छभने घटना पक्रनका लागि मात्र प्रयोग गर्नुस्"
-
-msgid "Whether the event-trapping window of the eventbox is above the window of the child widget as opposed to below it."
-msgstr "जब घटनाबाकस घटना-पक्रने विण्डोको माथि छभने उपशाखा औजार यसको मुनि राख्नुस्"
-
-msgid "Whether the expander has been opened to reveal the child widget"
-msgstr "जब उपशाखा औजार दृश्यात्मक बनाउन वृद्धिकारक खोलिएको हुन्छ"
-
-msgid "Whether the group has been collapsed and items are hidden"
-msgstr "जब उपशाखा औजार दृश्यात्मक बनाउन वृद्धिकारक खोलिएको हुन्छ"
-
-msgid "Whether the header can be clicked"
-msgstr "जब शीर्षलेख क्लिक गर्न सकिन्छ"
-
-msgid "Whether the hidden files and folders should be displayed"
-msgstr "जब लुकाइएका फाइल र फोल्डरहरू देखाउन सकिन्छ"
-
-msgid "Whether the icon-size property has been set"
-msgstr "जहाँ कार्य समूह सक्रिय छ"
-
-msgid "Whether the image will always be shown"
-msgstr "जहा औजार दृश्यात्मक हुन्छ"
-
-msgid "Whether the input focus is within this GtkWindow"
-msgstr "जब निवेश संकेन्द्रविन्दु जीटीके विण्डोभित्र पर्छ"
-
-msgid "Whether the invisible character has been set"
-msgstr "जहाँ कार्य समूह सक्रिय छ"
-
-msgid "Whether the item group should be the only expanded at a given time"
-msgstr "जब च्यात्ने क्षमता भएको मेनु आइटमहरू मेनुमा थप्न सकिन्छ"
-
-msgid "Whether the item group should receive extra space when the palette grows"
-msgstr "जब मूलको वृद्धि हुन्छ उपशाखाले अतिरिक्त खालीस्थान प्राप्त गर्दछ"
-
-msgid "Whether the item should be the same size as other homogeneous items"
-msgstr "यदि आइटम अरू उस्तै प्रकारका रूपमा समान आकारको देखाउनुछ भने"
-
-msgid "Whether the item should fill the available space"
-msgstr "जहाँ शाखाहरु सबै उस्तै प्रकारको हुन सक्छ"
-
-msgid "Whether the item should receive extra space when the group grows"
-msgstr "जब बस्तुले गि अतिरिक्त स्थान प्राप्त गर्नुछ  उपकरणपट्टी वृद्धि हुन्छ भने"
-
-msgid "Whether the item should receive extra space when the toolbar grows"
-msgstr "जब बस्तुले गि अतिरिक्त स्थान प्राप्त गर्नुछ  उपकरणपट्टी वृद्धि हुन्छ भने"
-
-msgid "Whether the item should start a new row"
-msgstr "जब च्यात्ने क्षमता भएको मेनु आइटमहरू मेनुमा थप्न सकिन्छ"
-
-msgid "Whether the items pointing to unavailable resources should be displayed"
-msgstr "जब लुकाइएका फाइल र फोल्डरहरू देखाउन सकिन्छ"
-
-msgid "Whether the items should be displayed with a number"
-msgstr "जब च्यात्ने क्षमता भएको मेनु आइटमहरू मेनुमा थप्न सकिन्छ"
-
-msgid "Whether the label is drawn in the selected font"
-msgstr "जब चयनित वर्णको छाप खिचिन्छ"
-
-msgid "Whether the label is drawn with the selected font size"
-msgstr "चयनित वर्ण आकारसँग खिचिने छाप"
-
-msgid "Whether the label is in single line mode"
-msgstr "जब लेबल एकल पंक्ति अबस्थामा हुन्छ"
-
-msgid "Whether the label text can be selected with the mouse"
-msgstr "जहाँ लेवल पाठ माउस सँग छानिन सक्छ"
-
-msgid "Whether the label widget should fill all available horizontal space"
-msgstr "जहाँ शाखाहरु सबै उस्तै प्रकारको हुन सक्छ"
-
-msgid "Whether the mark has left gravity"
-msgstr "जब यसले वर्ण परिवारको ट्यागलाई असर पार्छ"
-
-msgid "Whether the menu item is checked"
-msgstr "जहाँ सूची आइटम जाँचिएको छ"
-
-msgid "Whether the menu item looks like a radio menu item"
-msgstr "जहाँ सूची आइटम एउटा रेडियो सूची आइटम जस्तो देखिन्छ"
-
-msgid "Whether the plug is embedded"
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "Whether the primary icon is activatable"
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the primary icon is sensitive"
-msgstr "जहा संबेदनसिल अवस्थामा चिजहरुको सूची मिलदाजुल्दा छन्"
-
-msgid "Whether the private items should be displayed"
-msgstr "जब लुकाइएका फाइल र फोल्डरहरू देखाउन सकिन्छ"
-
-msgid "Whether the progress is shown as text."
-msgstr "जब प्रगति विवरणलाई पाठका रूपमा देखाइन्छ"
-
-msgid "Whether the proxies for this action look like radio action proxies"
-msgstr "यो कार्यलाई प्रतिनिधि कार्य अनुपातका रूपमा देखाउनु छ भने"
-
-msgid "Whether the rendered pixbuf should be colorized according to the state"
-msgstr "या प्रतिपादित पिक्सबफ राज्य अनुसार रङ्गिन हुनु पर्दछ।न्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether the secondary icon is activatable"
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the secondary icon is sensitive"
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the selected file(s) should be limited to local file: URLs"
-msgstr "जब स्थानीय फाइल युआरएल सीमित गर्नका लागि प्रयोग हुने चयनित फाइल"
-
-msgid "Whether the selected font style is shown in the label"
-msgstr "छापमा देखाइने चयनित वर्णको शैली"
-
-msgid "Whether the selected resource(s) should be limited to local file: URIs"
-msgstr "जब स्थानीय फाइल युआरएल सीमित गर्नका लागि प्रयोग हुने चयनित फाइल"
-
-msgid "Whether the selection should follow the pointer"
-msgstr "जब चयनमा सूचक अनुसार गर्नुपर्दछ"
-
-msgid "Whether the separator is drawn, or just blank"
-msgstr "जहाँ बिच्छेदक रेखाङ्कन गरिएको वा खाली हुन्छ"
-
-msgid "Whether the spin button should update always, or only when the value is legal"
-msgstr "स्पिन बटनलाई सधैँ अथवा मान गल्ती छभनेमात्र सुधार गर्नु छभने"
-
-msgid "Whether the spinner is active"
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the spinner is active (ie. shown) in the cell"
-msgstr "छापमा देखाइने चयनित वर्णको शैली"
-
-msgid "Whether the status icon is embedded"
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "Whether the status icon is visible"
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "Whether the statusbar has a grip for resizing the toplevel"
-msgstr "माथिल्लो अवस्थाको पुनराकृतिको लागि जहा स्टाटसबारसँग एउटा डोरी छ"
-
-msgid "Whether the tab is detachable"
-msgstr "जहाँ कार्य सक्षम छ"
-
-msgid "Whether the tab is reorderable by user action"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether the text can be modified by the user"
-msgstr "जब प्रयोगकर्ताद्वारा पाठ संशोधन गर्सकिन्छ"
-
-msgid "Whether the toggle action should be active"
-msgstr "टगल बटन दबाउनु पर्ने हो कि होइन"
-
-msgid "Whether the toolbar item is considered important. When TRUE, toolbar buttons show text in GTK_TOOLBAR_BOTH_HORIZ mode"
-msgstr "औजारबार आइटमलाई महत्व दिँदा ठीक छभने औजारबार बटनले जीटीके_औजारबार_दवै_समतलीय मोडमा पाठ देखाउँछ"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
-msgstr "जब औजारबार समतलीय अभिमुखीकरणमा हुन्छ तब औजारबारो एकाइ दृश्यात्मक हुन्छ ।"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
-msgstr "जब औजारबार उर्ध्वतलीय अभिमुखीकरणमा हुन्छ तब औजारबारो एकाइ दृश्यात्मक हुन्छ ।"
-
-msgid "Whether the toplevel is the current active window"
-msgstr "जब वर्तमान सक्रिय विण्डो उच्चतहमा रहन्छ"
-
-msgid "Whether the widget can accept the input focus"
-msgstr "जब औजारले निवेश संकेन्द्रविन्दु स्वीकार गर्नसक्छ"
-
-msgid "Whether the widget can be the default widget"
-msgstr "जहाँ औजार एउटा पूर्वनिर्धारित औजार हुन सक्छ"
-
-msgid "Whether the widget has the input focus"
-msgstr "निवेश संकेन्द्रविन्दुसँग को औजार"
-
-msgid "Whether the widget is double buffered"
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "Whether the widget is part of a composite widget"
-msgstr "जहाँ औजार एउटा संमिश्रित औजारको भाग हुन्छ"
-
-msgid "Whether the widget is the default widget"
-msgstr "जहाँ औजार एउटा पूर्वनिर्धारित औजार हुन्छ"
-
-msgid "Whether the widget is the focus widget within the toplevel"
-msgstr "जब माथिल्लो तहमा औजार संकेन्द्रविन्दुभित्र औजार रहन्छ"
-
-msgid "Whether the widget is visible"
-msgstr "जहा औजार दृश्यात्मक हुन्छ"
-
-msgid "Whether the widget responds to input"
-msgstr "जब निवेशका लागि औजार जिम्मेवार हुन्छ भने"
-
-msgid "Whether the window frame should have a close button"
-msgstr "जहाँ विण्डो विण्डो-प्रबन्धकबाट सजिएको हुन सक्थ्यो"
-
-msgid "Whether the window should be decorated by the window manager"
-msgstr "जहाँ विण्डो विण्डो-प्रबन्धकबाट सजिएको हुन सक्थ्यो"
-
-msgid "Whether there is a visible cursor following device motion"
-msgstr "जहाँ कार्य समूह सक्रिय छ"
-
-msgid "Whether there should be a tooltip on the item"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether there should be an icon near the item"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether this link has been visited."
-msgstr "जहाँ कार्य हेर्न सकिन्छ"
-
-msgid "Whether this tag affects background height"
-msgstr "जहाँ यो  ट्यागले पृष्ठभूमिको  उचाइलाई असर गर्छ"
-
-msgid "Whether this tag affects indentation"
-msgstr "यो ट्यागले जहाँ दाँतिलाई असर गर्छ"
-
-msgid "Whether this tag affects line wrap mode"
-msgstr "जब यो ट्यागले लाईन लपेटाइ मोडलाई असर पार्छ"
-
-msgid "Whether this tag affects paragraph justification"
-msgstr "जब यो ट्यागले अनुच्छेद समर्थनलाई असर पार्छ"
-
-msgid "Whether this tag affects strikethrough"
-msgstr "जहाँ यो ट्यागले अक्षरलाई बीचबाट काटने लाई असर गर्छ"
-
-msgid "Whether this tag affects tabs"
-msgstr "जब यो ट्यागले ट्याबलाई असर पार्छ"
-
-msgid "Whether this tag affects text editability"
-msgstr "जहाँ यो ट्यागले  पाठको सम्पाद्यलाई असर गर्छ"
-
-msgid "Whether this tag affects text visibility"
-msgstr "जब यो ट्यागले पाठको दृश्यात्मकतालाई असर पार्छ"
-
-msgid "Whether this tag affects the alignment mode"
-msgstr "जहाँ यो ट्यागले दीर्घाकार अबस्थालाईई असर गर्छ"
-
-msgid "Whether this tag affects the background color"
-msgstr "जहाँ यो ट्यागले पृष्ठभूमिको रङ्गलाई असर गर्छ"
-
-msgid "Whether this tag affects the cell background color"
-msgstr "जहाँ यो ट्यागले कोठाको पृष्ठभूमिको रङ्गलाई असर गर्छ"
-
-msgid "Whether this tag affects the ellipsize mode"
-msgstr "जहाँ यो ट्यागले दीर्घाकार अबस्थालाईई असर गर्छ"
-
-msgid "Whether this tag affects the font family"
-msgstr "जब यसले वर्ण परिवारको ट्यागलाई असर पार्छ"
-
-msgid "Whether this tag affects the font size"
-msgstr "जहाँ यो ट्यागले वर्णको आकारलाई असर गर्छ"
-
-msgid "Whether this tag affects the font stretch"
-msgstr "जहाँ यो ट्यागले वर्णको फैलावटलाई असर गर्छ"
-
-msgid "Whether this tag affects the font style"
-msgstr "जहाँ यो ट्यागले वर्णको शैलीलाई असर गर्छ"
-
-msgid "Whether this tag affects the font variant"
-msgstr "जहाँ यो ट्यागले वर्णको विविधतालाई असर गर्छ"
-
-msgid "Whether this tag affects the font weight"
-msgstr "जहाँ यो ट्यागले वर्णको भारलाई असर गर्छ"
-
-msgid "Whether this tag affects the foreground color"
-msgstr "जहाँ यो ट्यागले दृष्य जगतको रङ्गलाई असर गर्छ"
-
-msgid "Whether this tag affects the language the text is rendered as"
-msgstr "जहाँ यो ट्यागले भाषालाई असर गर्छ , पाठ रेन्डर जस्तो छ"
-
-msgid "Whether this tag affects the left margin"
-msgstr "जब यो ट्यागले बायाँ सीमालाई असर पार्छ"
-
-msgid "Whether this tag affects the number of pixels above lines"
-msgstr "जहाँ यो ट्यागले रेखाहरुको माथि पिक्सलहरुको संख्यालाई असर गर्छ"
-
-msgid "Whether this tag affects the number of pixels between wrapped lines"
-msgstr "जब यो ट्यागले लपेटिएका रेखाहरुबीच पिक्सेलहरुको संख्यालाई असर गर्छ"
-
-msgid "Whether this tag affects the paragraph background color"
-msgstr "जहाँ यो ट्यागले पृष्ठभूमिको रङ्गलाई असर गर्छ"
-
-msgid "Whether this tag affects the right margin"
-msgstr "जहा यो ट्यागले दाहिने किनारला‍इ असर गर्छ"
-
-msgid "Whether this tag affects the rise"
-msgstr "जहाँ यो ट्यागले बृद्दिलाई असर गर्छ"
-
-msgid "Whether this tag affects underlining"
-msgstr "जहाँ यो ट्यागले कचलाई असर गर्छ"
-
-msgid "Whether this tag scales the font size by a factor"
-msgstr "जहाँ यो ट्यागले आधारबाट वर्णको आकार नाप्छ"
-
-msgid "Whether this text is hidden."
-msgstr "जहाँ यो ट्यागले बृद्दिलाई असर गर्छ"
-
-msgid "Whether this tray icon has a tooltip"
-msgstr "निवेश संकेन्द्रविन्दुसँग को औजार"
-
-msgid "Whether this widget has a tooltip"
-msgstr "निवेश संकेन्द्रविन्दुसँग को औजार"
-
-msgid "Whether to activate the default widget (such as the default button in a dialog) when Enter is pressed"
-msgstr "जब पूर्वनिर्धारित औजार सक्रिय पार्न प्रवेश की दबाइन्छ ( जस्तै संवादमा पूर्वनिर्धारित बटन)"
-
-msgid "Whether to allow multiple files to be selected"
-msgstr "जब विविध फाइल चयन गर्न अनुमति मिल्छ"
-
-msgid "Whether to allow multiple items to be selected"
-msgstr "जब विविध फाइल चयन गर्न अनुमति मिल्छ"
-
-msgid "Whether to antialias Xft fonts; 0=no, 1=yes, -1=default"
-msgstr "जब एक्सएफटी वर्णको छविचित्र मिलान गर्नु छ ; ०=होइन, १=हो, -1=पूर्वनिश्चित"
-
-msgid "Whether to display a stock label with the name of the previewed file."
-msgstr "जब संग्रह-छापसँग पूर्वदर्शित फाइल देखाउनु छ"
-
-msgid "Whether to display an \"inconsistent\" state"
-msgstr "जहाँ एउटा \"परस्परबिरोधि\"स्थिति देखाइन्छ"
-
-msgid "Whether to display the column"
-msgstr "जब स्तम्भ देखाउनुछ भने"
-
-msgid "Whether to draw the focus indicator inside widgets"
-msgstr "जब औजारभित्र संकेन्द्रविन्दु खिच्नु छ"
-
-msgid "Whether to enable selection of multiple items by dragging the mouse pointer"
-msgstr "जब विविध फाइल चयन गर्न अनुमति मिल्छ"
-
-msgid "Whether to expand the child's tab"
-msgstr "बच्चाको ट्याब थपिन्छ कि थपिदैन"
-
-msgid "Whether to give the color an alpha value"
-msgstr "अल्फा मानमा रङ्ग दिने वा नदिने"
-
-msgid "Whether to hint Xft fonts; 0=no, 1=yes, -1=default"
-msgstr "एक्सएफटी वर्णका इसारा ०=हैन, १=हो, -१=पूर्वनिश्चित"
-
-msgid "Whether to keep all text in a single paragraph"
-msgstr "जहाँ एक्लो परिच्छेद भित्र सबै पाठहरुलाई राखिदैन"
-
-msgid "Whether to play any event sounds at all"
-msgstr "जहाँ एउटा \"परस्परबिरोधि\"स्थिति देखाइन्छ"
-
-msgid "Whether to play event sounds as feedback to user input"
-msgstr "जब निवेशका लागि औजार जिम्मेवार हुन्छ भने"
-
-msgid "Whether to select the contents of a selectable label when it is focused"
-msgstr "जब प्रविष्टिको विषयवस्तु चयन गर्नुछ यसलाई विशेष ध्यान दिइन्छ"
-
-msgid "Whether to select the contents of an entry when it is focused"
-msgstr "जब प्रविष्टिको विषयवस्तु चयन गर्नुछ यसलाई विशेष ध्यान दिइन्छ"
-
-msgid "Whether to show a sort indicator"
-msgstr "यदि क्रम सूचक देखाउनु छभने"
-
-msgid "Whether to strike through the text"
-msgstr "जहाँ पाठको अक्षरलाई बीचमा काटिन्छ"
-
-msgid "Whether to truncate multiline pastes to one line."
-msgstr "जब विविध फाइल चयन गर्न अनुमति मिल्छ"
-
-msgid "Whether to use the label text to create a stock menu item"
-msgstr "जहाँ लेवल पाठ माउस सँग छानिन सक्छ"
-
-msgid "Whether to use the related actions appearance properties"
-msgstr "जहाँ लेवल पाठ माउस सँग छानिन सक्छ"
-
-msgid "Whether to use the value from the snap_edge property or a value derived from handle_position"
-msgstr "नियन्त्रण स्थितिबाट आएको मान अथवा स्न्याप किनारा विशेषताबाट लिइने मान"
-
-msgid "Whether to wrap around when keyboard-navigating widgets"
-msgstr "जब औजारभित्र संकेन्द्रविन्दु खिच्नु छ"
-
-msgid "Whether to wrap lines never, at word boundaries, or at character boundaries"
-msgstr "शब्द सीमा वा वर्ण सीमामा लाईनहरू कहिल्यै पनि लपेट्न हुँदैन"
-
-msgid "Whether to wrap the license text."
-msgstr "जहाँ पाठको अक्षरलाई बीचमा काटिन्छ"
-
-msgid "Whether tooltips should be shown on widgets"
-msgstr "जहा ट्याबहरु देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether tree lines should be drawn in the tree view"
-msgstr "जहा सीमारेखा देखाइन सकिन्थ्यो वा सकिन्नथ्यो"
-
-msgid "Whether two cursors should be displayed for mixed left-to-right and right-to-left text"
-msgstr "जब कर्सर बायाँबाट दायाँ र दायाँबाट बायाँ देखाउनु छभने"
-
-msgid "Whether visited links should be tracked"
-msgstr "जब लुकाइएका फाइल र फोल्डरहरू देखाउन सकिन्छ"
-
-msgid "Which IM module should be used"
-msgstr "जहाँ रङ्गदानि प्रयोग गरिनु पर्थ्यो"
-
-msgid "Which IM module should be used by default"
-msgstr "जहाँ रङ्गदानि प्रयोग गरिनु पर्थ्यो"
-
-msgid "Which kind of shadow to draw around the combo box"
-msgstr "ट्याब लेवलहरुको वरिपरि सीमारेखाको चौडाइ"
-
-msgid "Which side of the notebook holds the tabs"
-msgstr "अभ्यास पुस्तिकाको कुन छेउले ट्याबहरु समात्छ"
-
-msgid "Whisper"
-msgstr "कानेखुसी"
-
-msgid "Wide Separators"
-msgstr "बिच्छेदक प्रयोग गर"
-
-msgid "Widget"
-msgstr "औजार"
-
-msgid "Widget name"
-msgstr "औजार नाम"
-
-msgid "Widget to put in column header button instead of column title"
-msgstr "स्तम्भ शीर्षकका सट‍टा स्तम्भ शीर्षलेख बटनमा राख्ने औजार"
-
-msgid "Widget to use as the item label"
-msgstr "आइटम छापका रूपमा प्रयोग हुने औजार"
+msgid "Wheel"
+msgstr "चक्का"
+
+msgid "White"
+msgstr "सेतो"
 
 msgid "Width"
-msgstr "चौडाई"
-
-msgid "Width In Characters"
-msgstr "क्यारेक्टरहरूमा चौडाई"
-
-msgid "Width for each item"
-msgstr "प्रत्येक प्रकारका लागि चौडाई"
-
-msgid "Width in Characters"
-msgstr "क्यारेक्टरहरूमा चौडाई"
-
-msgid "Width in chars"
-msgstr "वर्णहरुमा चौडाइ"
-
-msgid "Width of border around the action area"
-msgstr "मूख्य संवाद क्षेत्रको वरिपरिको किनाराको चौडाई"
-
-msgid "Width of border around the button area at the bottom of the dialog"
-msgstr "संवादको तल बटन क्षेत्र बरिपरि सीमाको चौडाइ"
-
-msgid "Width of border around the content area"
-msgstr "मूख्य संवाद क्षेत्रको वरिपरिको किनाराको चौडाई"
-
-msgid "Width of border around the label and image in the message dialog"
-msgstr "खबर स‍ंवादभित्र लेवल र तस्विरको वरिपरि सीमारेखाको चौडाइ"
-
-msgid "Width of border around the main dialog area"
-msgstr "मूख्य संवाद क्षेत्रको वरिपरिको किनाराको चौडाई"
-
-msgid "Width of handle"
-msgstr "उझिण्डोको चौडाई"
-
-msgid "Width of scrollbar or scale thumb"
-msgstr "स्क्रोलबार वा औँले मापकको चौडाई"
-
-msgid "Width of the left margin in pixels"
-msgstr "पिक्सलभित्र देब्रेकिनारको चौडाइ"
-
-msgid "Width of the right margin in pixels"
-msgstr "पिक्सलभित्र दाहिनेकिनारको चौडाइ"
-
-msgid "Width request"
-msgstr "चौडाइ अनुरोध"
-
-msgid "Width, in pixels, between focus indicator and the widget 'box'"
-msgstr "संकेन्द्रविन्दु सूचक र औजार बाकसबीचमा पिक्सेलमा चौडाई"
-
-msgid "Width, in pixels, of the focus indicator line"
-msgstr "संकेन्द्रितविन्दु सूभक लाईनको चौडाई पिक्सेलमा"
-
-msgid "Width, in pixels, of the tree view grid lines"
-msgstr "संकेन्द्रितविन्दु सूभक लाईनको चौडाई पिक्सेलमा"
-
-msgid "Width, in pixels, of the tree view lines"
-msgstr "संकेन्द्रितविन्दु सूभक लाईनको चौडाई पिक्सेलमा"
+msgstr "चौडाइ"
 
 msgid "Window"
-msgstr "विण्डो प्रकार"
-
-msgid "Window Placement"
-msgstr "विण्डो स्थानानतर"
-
-msgid "Window Placement Set"
-msgstr "विण्डो स्थानानतर"
-
-msgid "Window Position"
-msgstr "विण्डोको स्थिति"
-
-msgid "Window Role"
-msgstr "विण्डोको भूमिका"
-
-msgid "Window Title"
-msgstr "विण्डो शीर्षक"
-
-msgid "Window Type"
-msgstr "विण्डो प्रकार"
-
-msgid "Window dragging"
-msgstr "विण्डोको स्थिति"
+msgstr "सञ्झ्याल"
 
 msgid "Word Processor"
-msgstr "कागजातहरु/वर्ड प्रोसेसर"
+msgstr "वर्ड प्रोसेसर"
 
 msgid "Wrap"
-msgstr "लपेट्नु"
-
-msgid "Wrap Mode"
-msgstr "लपेट्ने मोड"
-
-msgid "Wrap license"
-msgstr "लपेट्ने मोडको समूह"
-
-msgid "Wrap mode"
-msgstr "लपेट शैली/विधि"
-
-msgid "Wrap mode set"
-msgstr "लपेट्ने मोडको समूह"
-
-msgid "Wrap width"
-msgstr "चौडाइ कस"
-
-msgid "Wrap width for laying out the items in a grid"
-msgstr "मोहडा-आकृति दिइएका एकाईहरू लपेट्ने चौडाई"
-
-msgid "Written by"
-msgstr "लेखन"
-
-msgid "X Alignment of the column header text or widget"
-msgstr "स्तम्भ शीर्षलेख पाठ अथवा औजारको एक्स पंक्तिबद्धता"
-
-msgid "X Input Method"
-msgstr "X आगत विधि"
-
-msgid "X align"
-msgstr "एक्स पंक्तिबद्ध"
-
-msgid "X alignment of the child"
-msgstr "शाखाको एक्स पंक्तिबद्ध"
-
-msgid "X display to use"
-msgstr "प्रयोग गरिने X प्रदर्शन"
-
-msgid "X pad"
-msgstr "एक्स प्याड"
-
-msgid "X position"
-msgstr "एक्स स्थिति"
-
-msgid "X position of child widget"
-msgstr "शाखा औजारको एक्स स्थिति"
-
-msgid "X screen to use"
-msgstr "प्रयोग गरिने X स्क्रिन"
-
-msgid "X spacing"
-msgstr "स्पेसिङ्ग"
-
-msgid "XDG sound theme name"
-msgstr "चित्र सोच नाम"
-
-msgid "Xft Antialias"
-msgstr "एक्सएफटि"
-
-msgid "Xft DPI"
-msgstr "एक्सएफटि डिपिआइ"
-
-msgid "Xft Hint Style"
-msgstr "एक्सएफटि इसारा शैली"
-
-msgid "Xft Hinting"
-msgstr "एक्सएफटि ईसारा"
-
-msgid "Xft RGBA"
-msgstr "एक्सएफटि आरजिबिए"
-
-msgid "Y align"
-msgstr "वाई पंक्तिबद्ध"
-
-msgid "Y alignment of the child"
-msgstr "शाखाको वाइ पंक्तिबद्ध"
-
-msgid "Y pad"
-msgstr "वाई प्याड"
-
-msgid "Y position"
-msgstr "वाई स्थिति"
-
-msgid "Y position of child widget"
-msgstr "बच्च औजारको वाई स्थिति"
-
-msgid "Y spacing"
-msgstr "स्पेसिङ्ग"
+msgstr "बेर्नुहोस्"
 
 msgid "Year"
 msgstr "वर्ष"
 
-msgid "You are in off-line mode, share and invite someone."
-msgstr "तिमी अफलाइन  मोडमा छौ, अंश अनि कसैलागि निमन्त्रण पठाऊ ।"
+msgid "Yellow"
+msgstr "पहेलो"
 
-msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
-msgstr "तपाईँले एउटा HTML-शैली हेक्जाडेसिमल रङ मान प्रविष्ट गर्न सक्नहुन्छ, वा कुनै एउटा रङ नाम जस्तो कि यो प्रविष्टिमा 'सुन्तला रङ'"
+msgid "Yes"
+msgstr "हो"
 
-msgid "Your description here"
-msgstr "सूत्र जस्तो वर्ण वर्णन"
+msgid "Zoom"
+msgstr "जुम"
 
-msgid "ZWJ Zero width _joiner"
-msgstr "ZWJ शून्य चौडाइ योजक"
+msgid "Zoom In"
+msgstr "जुम बढाउनुहोस्"
 
-msgid "ZWNJ Zero width _non-joiner"
-msgstr "ZWNJ शून्य चौडाइ गैर-योजक"
-
-msgid "ZWS _Zero width space"
-msgstr "ZWS शून्य चौडाइ खाली स्थान"
+msgid "Zoom Out"
+msgstr "जुम घटाउनुहोस्"
 
 msgid "Zoom _In"
 msgstr "जुम बढाउनुहोस्"
@@ -5866,419 +1399,1166 @@ msgstr "जुम बढाउनुहोस्"
 msgid "Zoom _Out"
 msgstr "जुम घटाउनुहोस्"
 
-msgid "_About"
-msgstr "बारेमा"
+msgid "abbreviation"
+msgstr "संक्षिप्त रूप"
 
-msgid "_Add"
+msgid "accepted"
+msgstr "स्वीकार गरियो"
+
+msgid "accessibility"
+msgstr "पहुँचता"
+
+msgid "action"
+msgstr "कार्य"
+
+msgid "active"
+msgstr "चालु"
+
+msgid "activity"
+msgstr "क्रियाकलाप"
+
+msgid "add"
 msgstr "थप्नुहोस्"
 
-msgid "_Add to Bookmarks"
-msgstr "पुस्तकचिनोहरूलाई थप्नुहोस्"
+msgid "addition"
+msgstr "जोड"
 
-msgid "_Add to Folder…"
-msgstr "प्लेससूचीमा थप्नुहोस्"
+msgid "adjustment"
+msgstr "मिलान"
 
-msgid "_All"
-msgstr "सबै"
+msgid "afrikaans"
+msgstr "अफ्रिकानहरु"
 
-msgid "_Apply"
-msgstr "लागू गर्नुहोस्"
+msgid "align"
+msgstr "पङ्क्तिबद्ध गर्नुहोस्"
 
-msgid "_Ascending"
-msgstr "बढ्दो क्रम"
+msgid "alignment"
+msgstr "पङ्क्तिबद्धता"
 
-msgid "_Blue:"
-msgstr "नीलो:"
+msgid "alpha"
+msgstr "अल्फा"
 
-msgid "_Bold"
-msgstr "बाक्लो"
+msgid "amount"
+msgstr "परिमाण"
 
-msgid "_Browse for other folders"
-msgstr "अन्य फोल्डरहरूका लागि ब्राउज गर्नुहोस्"
-
-msgid "_CD-ROM"
-msgstr "सि डि-रोम"
-
-msgid "_Cancel"
-msgstr "रद्द गर्नुहोस्"
-
-msgid "_Center"
-msgstr "रूपान्तरण गर्नुहोस्"
-
-msgid "_Check Anyway"
-msgstr "जसरी पनि बचत गर्नुहोस्"
-
-msgid "_Clear"
-msgstr "खाली गर्नुहोस्"
-
-msgid "_Clear List"
-msgstr "खाली गर्नुहोस्"
-
-msgid "_Close"
-msgstr "बन्द गर्नुहोस्"
-
-msgid "_Color"
-msgstr "रङ"
-
-msgid "_Convert"
-msgstr "रूपान्तरण गर्नुहोस्"
-
-msgid "_Copy"
-msgstr "प्रतिलिपि बनाउनुहोस्"
-
-msgid "_Delete"
-msgstr "मेट्नुहोस्"
-
-msgid "_Descending"
-msgstr "घट्दो क्रम"
-
-msgid "_Discard"
-msgstr "अक्षम पारिएको"
-
-msgid "_Disconnect"
-msgstr "जडान विच्छेद गर्नुहोस्"
-
-msgid "_Domain:"
-msgstr "स्थान:"
-
-msgid "_Down"
-msgstr "होइन"
-
-msgid "_Edit"
-msgstr "सम्पादन"
-
-msgid "_Execute"
-msgstr "कार्यान्वयन गर्नुहोस्"
-
-msgid "_Family:"
-msgstr "परिवार:"
-
-msgid "_File"
-msgstr "फाइलहरू"
-
-msgid "_Fill"
-msgstr "फाइलहरू"
-
-msgid "_Find"
-msgstr "फेला पार्नुहोस्"
-
-msgid "_First"
-msgstr "फाइलहरू"
-
-msgid "_Floppy"
-msgstr "फ्लपी"
-
-msgid "_Font"
-msgstr "फन्ट"
-
-msgid "_Forward"
-msgstr "अघिल्तिर"
-
-msgid "_Fullscreen"
-msgstr "पूरा पर्दा"
-
-msgid "_Green:"
-msgstr "हरियो:"
-
-msgid "_Hard Disk"
-msgstr "हार्डडिस्क"
-
-msgid "_Height:"
-msgstr "ह्यु:"
-
-msgid "_Help"
-msgstr "मद्दत"
-
-msgid "_History"
-msgstr "इतिहास"
-
-msgid "_Home"
-msgstr "गृह"
-
-msgid "_Hue:"
-msgstr "ह्यु:"
-
-msgid "_Index"
-msgstr "अनुक्रमणिका"
-
-msgid "_Information"
-msgstr "जानकारी"
-
-msgid "_Insert Unicode Control Character"
-msgstr "युनिकोड नियन्त्रण क्यारेक्टर घुसाउनुहोस्"
-
-msgid "_Install"
-msgstr "स्थापना गर्नुहोस्"
-
-msgid "_Installed"
-msgstr "स्थापित"
-
-msgid "_Installing"
-msgstr "स्थापना गर्नुहोस्..."
-
-msgid "_Italic"
-msgstr "छड्के"
-
-msgid "_Jump to"
-msgstr "यसमा उफ्रनुहोस्"
-
-msgid "_Last"
-msgstr "टाँस्नुहोस्"
-
-msgid "_Launch"
-msgstr "सुरुआत गर्नुहोस्"
-
-msgid "_Leave Fullscreen"
-msgstr "पूरा पर्दा बाट निस्कनुहोस्"
-
-msgid "_Let’s Go Shopping"
-msgstr "पुस्तकचिनोमा जानुहोस् ।"
-
-msgid "_License"
-msgstr "इजाजतपत्र"
-
-msgid "_Location:"
-msgstr "स्थान:"
-
-msgid "_Move to Folder…"
-msgstr "रद्दीटोकरीमा सार्नुहोस्"
-
-msgid "_Name:"
-msgstr "नाम:"
-
-msgid "_Network"
-msgstr "सञ्जाल"
-
-msgid "_Network Settings"
-msgstr "सञ्जाल सेटिङ"
-
-msgid "_New"
-msgstr "नयाँ"
-
-msgid "_Next"
-msgstr "नयाँ"
-
-msgid "_No"
-msgstr "होइन"
-
-msgid "_Normal Size"
-msgstr "सामान्य साइज"
-
-msgid "_Now"
-msgstr "होइन"
-
-msgid "_OK"
-msgstr "हुन्छ"
-
-msgid "_Open"
-msgstr "खोल्नुहोस्"
-
-msgid "_Open Link"
-msgstr "स्थान खोल्नुहोस्"
-
-msgid "_Orientation:"
-msgstr "स्याचुरेसन:"
-
-msgid "_Palette:"
-msgstr "रङदानी"
-
-msgid "_Paper size:"
-msgstr "गुण"
-
-msgid "_Password:"
-msgstr "दवाब"
-
-msgid "_Paste"
-msgstr "टाँस्नुहोस्"
-
-msgid "_Places"
-msgstr "बदल्नुहोस्"
-
-msgid "_Play"
-msgstr "बदल्नुहोस्"
-
-msgid "_Preferences"
-msgstr "प्राथमिकताहरू"
-
-msgid "_Preview:"
-msgstr "पूर्वावलोकन:"
-
-msgid "_Print"
-msgstr "मुद्रण गर्नुहोस्"
-
-msgid "_Properties"
-msgstr "गुण"
-
-msgid "_Quit"
-msgstr "अन्त्य गर्नुहोस्"
-
-msgid "_Record"
-msgstr "रेकर्ड गर्नुहोस्"
-
-msgid "_Red:"
-msgstr "रातो:"
-
-msgid "_Redo"
-msgstr "रिडु गर्नुहोस्"
-
-msgid "_Refresh"
-msgstr "ताजा पार्नुहोस्"
-
-msgid "_Remove"
-msgstr "हटाउनुहोस्"
-
-msgid "_Remove from Folder"
-msgstr "%{string} फोल्डरबाट पूर्वावस्थामा ल्याउँदै"
-
-msgid "_Removing"
-msgstr "हटाउँदैछ"
-
-msgid "_Replace"
-msgstr "बदल्नुहोस्"
-
-msgid "_Reverse"
-msgstr "फर्किनुहोस्"
-
-msgid "_Revert"
-msgstr "फर्किनुहोस्"
-
-msgid "_Right"
-msgstr "ह्यु:"
-
-msgid "_Right:"
-msgstr "ह्यु:"
-
-msgid "_Saturation:"
-msgstr "स्याचुरेसन:"
-
-msgid "_Save"
-msgstr "बचत गर्नुहोस्"
-
-msgid "_Save color here"
-msgstr "यहाँ रङ बचत गर्नुहोस्"
-
-msgid "_Save in folder:"
-msgstr "फोल्डरमा बचत गर्नुहोस्:"
-
-msgid "_Software Sources"
-msgstr "सफ्टवयर स्रोतहरू"
-
-msgid "_Spell Check"
-msgstr "हिज्जे जाँच"
-
-msgid "_Stop"
-msgstr "रोक्नुहोस्"
-
-msgid "_Strikethrough"
-msgstr "स्ट्राइकथ्रू"
-
-msgid "_Style:"
-msgstr "शैली:"
-
-msgid "_Top"
-msgstr "प्रतिलिपि बनाउनुहोस्"
-
-msgid "_Top:"
-msgstr "प्रतिलिपि बनाउनुहोस्"
-
-msgid "_Undelete"
-msgstr "नमेट्नुहोस्"
-
-msgid "_Underline"
-msgstr "कच गर्नुहोस्"
-
-msgid "_Undo"
-msgstr "पूर्वस्थितिमा फर्काउनुहोस्"
-
-msgid "_Updates"
-msgstr "अपडेट जाँच गर्नुहोस्"
-
-msgid "_Username:"
-msgstr "पुन: नामकरण गर्नुहोस्"
-
-msgid "_Value:"
-msgstr "मान:"
-
-msgid "_Website"
-msgstr "वेबसाइट"
-
-msgid "_Yes"
-msgstr "हो"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/ne.po by load_po_file"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcdefghijk ABCDEFGHIJK"
+msgid "anchor"
+msgstr "एङ्कर"
 
 msgid "and"
 msgstr "र"
 
-msgid "asme_f"
-msgstr "नाम"
+msgid "angle"
+msgstr "कोण"
 
-msgid "calendar:MY"
-msgstr "पात्रो:MY"
+msgid "animation"
+msgstr "एनिमेसन"
 
-msgid "calendar:week_start:0"
-msgstr "पात्रो:हप्ता सुरु:०"
+msgid "appearance"
+msgstr "दृश्य"
 
-msgid "default:LTR"
-msgstr "default:LTR"
+msgid "area"
+msgstr "क्षेत्र"
 
-msgid "default:mm"
-msgstr "default:mm"
+msgid "arrow"
+msgstr "बाँण"
 
-msgid "ellipsize"
-msgstr "दीर्घबृत्ताकार"
+msgid "attributes"
+msgstr "विशेषताहरू"
 
-msgid "eyes changed"
-msgstr "आँखा परिवर्तित"
+msgid "authors"
+msgstr "लेखकहरू"
+
+msgid "auto"
+msgstr "स्वत:"
+
+msgid "automatic"
+msgstr "स्वचालित"
+
+msgid "average"
+msgstr "औसत"
+
+msgid "background"
+msgstr "पृष्ठभूमि"
+
+msgid "black"
+msgstr "कालो"
+
+msgid "blue"
+msgstr "नीलो"
+
+msgid "border"
+msgstr "किनार"
+
+msgid "box"
+msgstr "बाकस"
+
+msgid "brush"
+msgstr "ब्रुस"
+
+msgid "c_enter"
+msgstr "केन्द्र"
+
+msgid "calendar"
+msgstr "पात्रो"
+
+msgid "cancel"
+msgstr "रद्द गर्नुहोस्"
+
+msgid "categories"
+msgstr "कोटिहरू"
+
+msgid "category"
+msgstr "वर्ग"
+
+msgid "center"
+msgstr "केन्द्र"
+
+msgid "centered"
+msgstr "केन्द्रित"
+
+msgid "chart"
+msgstr "चित्रपट"
+
+msgid "checkerboard"
+msgstr "जाँचकी बोर्ड"
+
+msgid "circle"
+msgstr "वृत्त्त"
+
+msgid "color"
+msgstr "रङ"
+
+msgid "colors"
+msgstr "रङ"
+
+msgid "columns"
+msgstr "स्तम्भहरू"
+
+msgid "combine"
+msgstr "संयोजन गर्नुहोस्"
+
+msgid "comment"
+msgstr "टिप्पणीहरू"
+
+msgid "compression"
+msgstr "सङ्कुचन"
+
+msgid "configuration"
+msgstr "कन्फिगरेसन"
+
+msgid "confirm"
+msgstr "यकीन गर्नुहोस्"
+
+msgid "context"
+msgstr "सामाग्री"
+
+msgid "contrast"
+msgstr "व्यतिरेक"
+
+msgid "controls"
+msgstr "नियन्त्रणहरू"
+
+msgid "copy"
+msgstr "प्रतिलिपी बनाउ"
+
+msgid "cosine"
+msgstr "कोसाइन"
+
+msgid "create"
+msgstr "निर्माण गर्नुहोस्"
+
+msgid "croatian"
+msgstr "क्रोएशियन"
+
+msgid "crop"
+msgstr "काँटछाँट गर्नुहोस्"
+
+msgid "cu_t"
+msgstr "काट्नुहोस्"
+
+msgid "custom"
+msgstr "अनुकूल"
+
+msgid "cut"
+msgstr "काट्नुहोस्"
+
+msgid "cyan"
+msgstr "स्यान"
+
+msgid "cylinder"
+msgstr "बेलना"
+
+msgid "czech"
+msgstr "चेक"
+
+msgid "dashed"
+msgstr "ड्यासभएको"
+
+msgid "database"
+msgstr "डाटाबेस"
+
+msgid "databases"
+msgstr "डाटाबेस"
+
+msgid "day"
+msgstr "दिन"
+
+msgid "default"
+msgstr "पूर्वनिर्धारित"
+
+msgid "degrees"
+msgstr "डिग्रीहरू"
+
+msgid "delay"
+msgstr "ढिला"
+
+msgid "delete"
+msgstr "मेट्नुहोस्"
+
+msgid "depth"
+msgstr "गहिराई"
+
+msgid "desaturate"
+msgstr "डिस्याटुरेट"
+
+msgid "description"
+msgstr "वर्णन"
+
+msgid "description..."
+msgstr "बर्णन"
+
+msgid "design"
+msgstr "डिजाइन"
+
+msgid "detail"
+msgstr "विस्तृत विवरण"
+
+msgid "details"
+msgstr "विवरण"
+
+msgid "dialog"
+msgstr "संवाद"
+
+msgid "diamond"
+msgstr "हीरा"
+
+msgid "dictionary"
+msgstr "शब्दकोश"
+
+msgid "difference"
+msgstr "भिन्नता"
+
+msgid "digits"
+msgstr "संख्याहरु"
+
+msgid "dimensions"
+msgstr "आयामिकहरू"
+
+msgid "direction"
+msgstr "दिशा"
+
+msgid "display"
+msgstr "प्रदर्शन गर्नुहोस्"
+
+msgid "dissolve"
+msgstr "घोल्नुहोस्"
+
+msgid "division"
+msgstr "भाग"
+
+msgid "documents"
+msgstr "कागजातहरू"
+
+msgid "dutch"
+msgstr "डच"
+
+msgid "edit"
+msgstr "सम्पादन गर्नुहोस्"
+
+msgid "editable"
+msgstr "सम्पादनयोग्य"
+
+msgid "editing"
+msgstr "सम्पादन गर्दै"
+
+msgid "education"
+msgstr "शिक्षा"
+
+msgid "empty"
+msgstr "रित्याउनुहोस्"
+
+msgid "english"
+msgstr "अङ्ग्रेजी"
+
+msgid "error"
+msgstr "त्रुटि"
+
+msgid "errors"
+msgstr "त्रुटिहरू"
+
+msgid "esperanto"
+msgstr "इस्पेरान्टो"
+
+msgid "event"
+msgstr "घटना"
+
+msgid "events"
+msgstr "घटनाहरू"
+
+msgid "executive"
+msgstr "कार्यकर्ता"
+
+msgid "expand"
+msgstr "फैलाउनुहोस्"
+
+msgid "expanded"
+msgstr "विस्तारित"
+
+msgid "extensions"
+msgstr "विस्तार"
+
+msgid "factor"
+msgstr "तत्व"
+
+msgid "file"
+msgstr "फाइल"
+
+msgid "files"
+msgstr "फाइलहरू"
+
+msgid "fill"
+msgstr "भर्नुहोस्"
+
+msgid "filter"
+msgstr "फिल्टर"
+
+msgid "filters"
+msgstr "फिल्टरहरू"
+
+msgid "finance"
+msgstr "वित्तहरू"
+
+msgid "finished"
+msgstr "समाप्त गरियो"
+
+msgid "finnish"
+msgstr "फिनिस"
+
+msgid "fixed"
+msgstr "स्थिर"
+
+msgid "flip"
+msgstr "फ्लिप गर्नुहोस्"
+
+msgid "folder"
+msgstr "फोल्डर"
+
+msgid "font"
+msgstr "फन्ट"
+
+msgid "fonts"
+msgstr "फन्ट"
+
+msgid "fraction"
+msgstr "भिन्न"
+
+msgid "frame"
+msgstr "फ्रेम"
+
+msgid "frames"
+msgstr "फ्रेमहरू"
+
+msgid "french"
+msgstr "फ्रेन्च"
+
+msgid "frequency"
+msgstr "आवृत्ति"
+
+msgid "function"
+msgstr "प्रकार्य"
+
+msgid "gamma"
+msgstr "गामा"
+
+msgid "general"
+msgstr "साधारण"
+
+msgid "german"
+msgstr "जर्मन"
+
+msgid "gradient"
+msgstr "ग्रेडियन्ट"
+
+msgid "gradients"
+msgstr "ग्राडिएन्टहरू"
+
+msgid "graphics"
+msgstr "ग्राफिक्स्"
+
+msgid "gray"
+msgstr "खैरो"
+
+msgid "grayscale"
+msgstr "खैरोमात्रा"
+
+msgid "greek"
+msgstr "ग्रीक"
+
+msgid "green"
+msgstr "हरियो"
+
+msgid "grey"
+msgstr "खरानी रङ"
+
+msgid "grid"
+msgstr "ग्रिड"
+
+msgid "group"
+msgstr "समुह"
+
+msgid "guides"
+msgstr "मार्गदर्शकहरू"
 
 msgid "height"
 msgstr "उचाइ"
 
-msgid "mode"
-msgstr "शैली"
+msgid "help"
+msgstr "मद्दत"
 
-msgid "mouth changed"
-msgstr "मुख परिवर्तित"
+msgid "hexagon"
+msgstr "हेक्सागन"
+
+msgid "high"
+msgstr "उच्च"
+
+msgid "hindi"
+msgstr "हिन्दी"
+
+msgid "history"
+msgstr "इतिहास"
+
+msgid "home"
+msgstr "गृह"
+
+msgid "horizontal"
+msgstr "तेर्सो"
+
+msgid "hungarian"
+msgstr "हङ्गेरिएन"
+
+msgid "icelandic"
+msgstr "आइसल्याण्डडिक्"
+
+msgid "icon"
+msgstr "प्रतिमा"
+
+msgid "icons"
+msgstr "बटनहरू"
+
+msgid "image"
+msgstr "छवि"
+
+msgid "images"
+msgstr "छविहरू"
+
+msgid "inch"
+msgstr "इन्च"
+
+msgid "inches"
+msgstr "इन्च"
+
+msgid "indent"
+msgstr "इन्डेन्ट"
+
+msgid "information"
+msgstr "सूचना"
+
+msgid "install"
+msgstr "स्थापना गर्नुहोस्"
+
+msgid "integer"
+msgstr "इन्टिजर"
+
+msgid "internet"
+msgstr "इन्टरनेट"
+
+msgid "intersection"
+msgstr "प्रतिच्छेदन"
+
+msgid "invert"
+msgstr "उल्टो पार्नुहोस्"
+
+msgid "invisible"
+msgstr "अदृश्य"
+
+msgid "italian"
+msgstr "इटालियन"
+
+msgid "keyboard"
+msgstr "कीबोर्ड"
+
+msgid "label"
+msgstr "लेबुल"
+
+msgid "landscape"
+msgstr "ल्यान्डस्केप"
+
+msgid "language"
+msgstr "भाषा"
+
+msgid "languages"
+msgstr "भाषाहरु"
+
+msgid "large"
+msgstr "ठूलो"
+
+msgid "layer"
+msgstr "तह"
+
+msgid "left"
+msgstr "बायाँ"
+
+msgid "legal"
+msgstr "कानुनी"
+
+msgid "level"
+msgstr "स्तर"
+
+msgid "levels"
+msgstr "स्तरहरू"
+
+msgid "license"
+msgstr "अनुमतिपत्र"
+
+msgid "light"
+msgstr "हल्का"
+
+msgid "line"
+msgstr "#-#-#-#-#  report.po (package version)  #-#-#-#-#\nline\n#-#-#-#-#  utlui.po (package version)  #-#-#-#-#\nरेखा\n#-#-#-#-#  ui.po (package version)  #-#-#-#-#\nरेखा\n#-#-#-#-#  svdraw.po (package version)  #-#-#-#-#\nरेखा\n#-#-#-#-#  tbxctrls.po (package version)  #-#-#-#-#\nलाइन"
+
+msgid "linear"
+msgstr "रेखात्मक"
+
+msgid "location"
+msgstr "स्थान"
+
+msgid "logo"
+msgstr "लोगो"
+
+msgid "loop"
+msgstr "लूप"
+
+msgid "luminance"
+msgstr "लुमिनेन्स"
+
+msgid "macedonian"
+msgstr "मेसेडोनियन"
+
+msgid "magenta"
+msgstr "म्याजेन्टा"
+
+msgid "manual"
+msgstr "म्यानुअल"
+
+msgid "maps"
+msgstr "मानचित्रहरू"
+
+msgid "marble"
+msgstr "मार्वल"
+
+msgid "margin"
+msgstr "सीमान्त"
+
+msgid "markup"
+msgstr "मार्कअप"
+
+msgid "math"
+msgstr "गणित"
+
+msgid "matrix"
+msgstr "म्याट्रिक्स"
+
+msgid "medium"
+msgstr "मध्यम"
+
+msgid "menu"
+msgstr "मेनु"
+
+msgid "message"
+msgstr "संदेश"
+
+msgid "mode"
+msgstr "मोड"
+
+msgid "model"
+msgstr "नमूना"
+
+msgid "modified"
+msgstr "परिमार्जित"
+
+msgid "module"
+msgstr "मोड्युल"
+
+msgid "modules"
+msgstr "मोड्युलहरू"
+
+msgid "monitor"
+msgstr "मोनिटर"
+
+msgid "month"
+msgstr "महिना"
+
+msgid "more..."
+msgstr "थप ..."
+
+msgid "mosaic"
+msgstr "मोसाइक"
+
+msgid "move"
+msgstr "ढङ्ग"
+
+msgid "name"
+msgstr "नाम"
+
+msgid "navigation"
+msgstr "नेभिगेसन"
+
+msgid "never"
+msgstr "कहिलेपनि होइन"
+
+msgid "news"
+msgstr "समाचारहरू"
+
+msgid "no"
+msgstr "होइन"
+
+msgid "none"
+msgstr "कुनै पनि होइन"
+
+msgid "normal"
+msgstr "सामान्य"
+
+msgid "number"
+msgstr "सङ्ख्या"
+
+msgid "numbering"
+msgstr "क्रमाङ्कन"
+
+msgid "numeric"
+msgstr "सङ्ख्यात्मक"
+
+msgid "office"
+msgstr "कार्यालय"
+
+msgid "offset"
+msgstr "अफसेट"
+
+msgid "op_tions"
+msgstr "विकल्प"
+
+msgid "open"
+msgstr "खोल्नुहोस्"
+
+msgid "optimize"
+msgstr "इष्टतम"
+
+msgid "options"
+msgstr "विकल्प"
 
 msgid "or"
 msgstr "वा"
 
+msgid "orientation"
+msgstr "अभिमुखीकरण"
+
+msgid "original"
+msgstr "मौलिक"
+
+msgid "other"
+msgstr "अन्य"
+
+msgid "other..."
+msgstr "अन्य..."
+
+msgid "output"
+msgstr "प्रतिफल"
+
+msgid "page"
+msgstr "पृष्ठ"
+
+msgid "pages"
+msgstr "पृष्ठहरू"
+
+msgid "palettes"
+msgstr "प्यालेटहरू"
+
+msgid "parameters"
+msgstr "परामितिहरू"
+
+msgid "password"
+msgstr "पासवर्ड"
+
+msgid "paste"
+msgstr "प्रतिलिपी सार"
+
+msgid "path"
+msgstr "बाटो"
+
+msgid "paths"
+msgstr "बाटोहरू / फाइलहरू"
+
+msgid "pattern"
+msgstr "बान्की"
+
+msgid "pause"
+msgstr "पज गर्नुहोस्"
+
 msgid "paused"
-msgstr "टाँस्नुहोस्"
+msgstr "पज गरिएको"
 
-msgid "pitch adjusted"
-msgstr "पिच समायोजन भयो"
+msgid "pending"
+msgstr "विचाराधिन"
 
-msgid "printer offline"
-msgstr "कुनै XPM हेडर फेला परेन"
+msgid "pentagon"
+msgstr "पञ्चभुज"
 
-msgid "rate adjusted"
-msgstr "रेट समायोजन भयो"
+msgid "perspective"
+msgstr "अभिव्यक्ति"
 
-msgid "ready to print"
-msgstr "चेतावनी"
+msgid "pixel"
+msgstr "पिक्सेल"
+
+msgid "pixels"
+msgstr "पिक्सेल"
+
+msgid "placement"
+msgstr "स्थापना"
+
+msgid "plural"
+msgstr "बहुबचन"
+
+msgid "point"
+msgstr "प्वाइन्ट"
+
+msgid "pointer"
+msgstr "सूचक"
+
+msgid "points"
+msgstr "प्वाइन्ट"
+
+msgid "polish"
+msgstr "पोलिस"
+
+msgid "polygon"
+msgstr "बहुभुज"
+
+msgid "portrait"
+msgstr "पोर्ट्रेट"
+
+msgid "portuguese"
+msgstr "पोर्चुगिज"
+
+msgid "position"
+msgstr "स्थिति"
+
+msgid "posterize"
+msgstr "पोष्टराइज"
+
+msgid "pr_eview"
+msgstr "पूर्वावलोकन"
+
+msgid "pre_view"
+msgstr "पूर्वावलोकन"
+
+msgid "presentation"
+msgstr "प्रस्तुतिकरण"
+
+msgid "pressure"
+msgstr "दवाब"
+
+msgid "preview"
+msgstr "पूर्ववलोकन"
+
+msgid "print"
+msgstr "मुद्रण गर्नुहोस्"
+
+msgid "printer"
+msgstr "मुद्रक"
+
+msgid "printing"
+msgstr "मुद्रण गर्दैछ"
+
+msgid "private"
+msgstr "निजी"
+
+msgid "progress"
+msgstr "प्रगति"
+
+msgid "project"
+msgstr "परियोजनाहरू"
+
+msgid "projects"
+msgstr "परियोजनाहरू"
+
+msgid "properties"
+msgstr "गुणहरू"
+
+msgid "quality"
+msgstr "गुणस्तर"
+
+msgid "radial"
+msgstr "रेडिकल"
+
+msgid "radius"
+msgstr "अर्धब्यास"
+
+msgid "rate"
+msgstr "दर"
+
+msgid "ready"
+msgstr "तयार"
+
+msgid "rectangle"
+msgstr "आयात"
+
+msgid "red"
+msgstr "रातो"
+
+msgid "redo"
+msgstr "हटाएको परिवर्तन फर्काउ"
+
+msgid "rejected"
+msgstr "अस्वीकार गरियो"
+
+msgid "remove"
+msgstr "हटाउनुहोस्"
+
+msgid "rename..."
+msgstr "नाम फेर्नुहोस्..."
+
+msgid "replace"
+msgstr "बदल्नुहोस्"
+
+msgid "resize"
+msgstr "पुनराकृति"
+
+msgid "resolution"
+msgstr "रिजोल्युसन:"
+
+msgid "reverse"
+msgstr "उल्टो पार्नुहोस्"
+
+msgid "review"
+msgstr "पुनरावलोकन"
+
+msgid "right"
+msgstr "दायाँ"
+
+msgid "romanian"
+msgstr "रोमानियन"
+
+msgid "rotate"
+msgstr "घुमाउनुहोस्"
+
+msgid "rotation"
+msgstr "परिक्रमण"
+
+msgid "round"
+msgstr "गोलाकार"
+
+msgid "rows"
+msgstr "पङ्क्तिहरू"
+
+msgid "russian"
+msgstr "रसियन"
+
+msgid "sans"
+msgstr "स्यान्स"
+
+msgid "saturation"
+msgstr "अतितृप्त"
+
+msgid "save"
+msgstr "बचत गर्नुहोस्"
+
+msgid "scale"
+msgstr "स्केल"
+
+msgid "scaling"
+msgstr "स्केलिङ"
+
+msgid "screen"
+msgstr "पर्दा"
+
+msgid "screenshot"
+msgstr "स्क्रिनसट"
+
+msgid "search"
+msgstr "खोजी"
+
+msgid "seconds"
+msgstr "सेकेण्ड"
+
+msgid "security"
+msgstr "सुरक्षा"
+
+msgid "seed"
+msgstr "गति"
+
+msgid "select"
+msgstr "चयन गर्नुहोस्"
+
+msgid "selection"
+msgstr "चयन"
+
+msgid "shadow"
+msgstr "छायाँ"
+
+msgid "shadows"
+msgstr "स्याडोज"
+
+msgid "shape"
+msgstr "आकार"
+
+msgid "sharpen"
+msgstr "तिखारिएको"
+
+msgid "shift"
+msgstr "शिफ्ट"
+
+msgid "shortcut"
+msgstr "सर्टकट"
+
+msgid "show"
+msgstr "देखाउनुहोस्"
+
+msgid "shrink"
+msgstr "खुम्च्याउनुहोस्"
+
+msgid "simple"
+msgstr "साधारण"
+
+msgid "sine"
+msgstr "साइन"
+
+msgid "singular"
+msgstr "एकबचन"
+
+msgid "size"
+msgstr "साइज"
+
+msgid "slovak"
+msgstr "स्लोभाक"
+
+msgid "small"
+msgstr "सानो"
+
+msgid "smooth"
+msgstr "महीन"
+
+msgid "solid"
+msgstr "ठोस"
+
+msgid "source"
+msgstr "स्रोत"
+
+msgid "space"
+msgstr "खालीस्थान"
+
+msgid "spacing"
+msgstr "खाली स्थान"
+
+msgid "spanish"
+msgstr "स्पानिस"
+
+msgid "speed"
+msgstr "गति"
+
+msgid "sphere"
+msgstr "गोला"
+
+msgid "spherical"
+msgstr "गोलाकार"
+
+msgid "split"
+msgstr "विभाजन गर्नुहोस्"
+
+msgid "spreadsheet"
+msgstr "स्प्रेडसीट"
+
+msgid "square"
+msgstr "वर्ग"
+
+msgid "squares"
+msgstr "वर्गहरू"
+
+msgid "standard"
+msgstr "मानक"
+
+msgid "stop"
+msgstr "बन्द गर"
+
+msgid "strikethrough"
+msgstr "स्ट्रयाइकथ्रु"
+
+msgid "style"
+msgstr "शैली"
+
+msgid "submissions"
+msgstr "दाखिलाहरू"
+
+msgid "subtract"
+msgstr "घटाउनुहोस्"
+
+msgid "suggestion"
+msgstr "सुझावहरू"
+
+msgid "suggestions"
+msgstr "सुझावहरू"
+
+msgid "swahili"
+msgstr "स्वाहिली"
+
+msgid "swedish"
+msgstr "स्विडिस्"
+
+msgid "symbol"
+msgstr "प्रतीक"
+
+msgid "system"
+msgstr "प्रणाली"
+
+msgid "tabs"
+msgstr "ट्याबहरू"
+
+msgid "target"
+msgstr "लक्ष्य"
+
+msgid "te_xt"
+msgstr "पाठ"
+
+msgid "templates"
+msgstr "टेम्प्लेटहरू"
+
+msgid "text"
+msgstr "पाठ"
+
+msgid "tile"
+msgstr "टायल"
+
+msgid "tiny"
+msgstr "अति सानो"
+
+msgid "title"
+msgstr "शीर्षक"
+
+msgid "toolbox"
+msgstr "उपकरणबाकस"
+
+msgid "tools"
+msgstr "उपकरण"
+
+msgid "total"
+msgstr "जम्मा"
+
+msgid "transformation"
+msgstr "रूपान्तरण"
+
+msgid "translation"
+msgstr "उल्था"
+
+msgid "transparency"
+msgstr "पारदर्शिता"
+
+msgid "transparent"
+msgstr "पारदर्शी"
+
+msgid "type"
+msgstr "प्रकार"
+
+msgid "underline"
+msgstr "कच"
+
+msgid "undo"
+msgstr "सच्याउ"
+
+msgid "units"
+msgstr "एकाइ"
 
 msgid "unknown"
-msgstr "(अज्ञात)"
+msgstr "अज्ञात"
+
+msgid "untitled"
+msgstr "शीर्षक नभएको"
+
+msgid "user"
+msgstr "प्रयोगकर्ताहरु"
+
+msgid "username"
+msgstr "प्रयोगकर्ताको नाम"
+
+msgid "value"
+msgstr "मान"
+
+msgid "version"
+msgstr "संस्करण"
+
+msgid "vertical"
+msgstr "ठाडो"
+
+msgid "video"
+msgstr "भिडियो"
+
+msgid "vietnamese"
+msgstr "भिएतनामिज"
+
+msgid "view"
+msgstr "दृश्य"
 
 msgid "visible"
-msgstr "दृष्य"
+msgstr "दृश्यात्मक"
+
+msgid "volume"
+msgstr "भोल्युम"
+
+msgid "waiting"
+msgstr "प्रतिक्षा गर्दै"
+
+msgid "warning"
+msgstr "चेतावनी"
+
+msgid "weight"
+msgstr "तौल"
+
+msgid "welcome"
+msgstr "स्वागतम्"
+
+msgid "welsh"
+msgstr "वेल्स"
+
+msgid "wheel"
+msgstr "चक्का"
+
+msgid "white"
+msgstr "सेतो"
 
 msgid "width"
-msgstr "चौडा"
+msgstr "चौडाइ"
 
-msgid "xalign"
-msgstr "एक्स पंक्तिबद्द"
+msgid "window"
+msgstr "सञ्झ्याल"
 
-msgid "xpad"
-msgstr "एक्स प्याड"
+msgid "wrap"
+msgstr "बेर्नुहोस्"
 
-msgid "yalign"
-msgstr "वाई पंक्तिबद्द"
+msgid "year"
+msgstr "वर्ष"
 
-msgid "ypad"
-msgstr "वाइ प्याड"
+msgid "yellow"
+msgstr "पहेलो"
+
+msgid "yes"
+msgstr "हो"
+
+msgid "zoom"
+msgstr "जुम"

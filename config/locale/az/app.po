@@ -1,938 +1,143 @@
 msgid "(None)"
 msgstr "heç biri"
 
-msgid "A GdkPixbuf to display"
-msgstr "Göstəriləcək GdkPixbuf"
-
-msgid "A GtkPackType indicating whether the child is packed with reference to the start or end of the parent"
-msgstr "Törəmənin valideynən başlanğıcına yoxsa sonuna nəzələn paketlənəcəyini müəyyən edən GtkPackType"
-
-msgid "A boolean that determines whether the menu grabs the keyboard focus"
-msgstr "Bu menyu qoparılmış vəziyyətdə olanda pəncərə idarəçisinin göstərəcəyi etiket"
-
-msgid "A boolean that indicates whether the menu is torn-off"
-msgstr "Bu menyu qoparılmış vəziyyətdə olanda pəncərə idarəçisinin göstərəcəyi etiket"
-
-msgid "A boolean that indicates whether the menu reserves space for toggles and icons"
-msgstr "Bu menyu qoparılmış vəziyyətdə olanda pəncərə idarəçisinin göstərəcəyi etiket"
-
-msgid "A column in the data source model to get the strings from"
-msgstr "Data source modelindəki qatarların alınacağı sütun"
-
-msgid "A list of style attributes to apply to the text of the label"
-msgstr "Etiketin mətninə əlavə ediləcək tərz atributları siyahısı"
-
-msgid "A list of style attributes to apply to the text of the renderer"
-msgstr "Rederləyicinin mətninə əlavə edilcək tərz atributları siyahısı"
-
-msgid "A name for the action group."
-msgstr "Gedişat qrupunun adı."
-
-msgid "A palette of named colors for use in themes"
-msgstr "Seçili yazı növünün adı"
-
-msgid "A shorter label that may be used on toolbar buttons."
-msgstr "Vasitə çubuğu düymələrində işlədilə biləcək daha qısa etiket."
-
-msgid "A string with _ characters in positions correspond to characters in the text to underline"
-msgstr "_ hərfini daxil edən qatarlar mətndəki altı cızıxlı hərflərə uyğun gəlir"
-
-msgid "A title that may be displayed by the window manager when the popup is torn-off"
-msgstr "Bu menyu qoparılmış vəziyyətdə olanda pəncərə idarəçisinin göstərəcəyi etiket"
-
-msgid "A title that may be displayed by the window manager when this menu is torn-off"
-msgstr "Bu menyu qoparılmış vəziyyətdə olanda pəncərə idarəçisinin göstərəcəyi etiket"
-
-msgid "A tooltip for this action."
-msgstr "Bu gedişat üçün məsləhət."
-
-msgid "A unique name for the action."
-msgstr "Gedişat üçün xüsusi ad."
-
-msgid "A widget to display in place of the usual expander label"
-msgstr "Həmişəki genişləndirici etiketin yerində göstəriləvək widget"
-
-msgid "A widget to display in place of the usual frame label"
-msgstr "Çərçivənin etiketinin həmişəki yerində göstəriləcək pəncərəcik"
-
-msgid "A widget to display in place of the usual label"
-msgstr "Çərçivənin etiketinin həmişəki yerində göstəriləcək pəncərəcik"
-
-msgid "Above child"
-msgstr "Üst törəmə"
-
-msgid "Accel Group"
-msgstr "Gedişat Qrupu"
-
-msgid "Accelerator Closure"
-msgstr "Sürə'tləndirici Bağlanması"
-
-msgid "Accelerator Mode"
-msgstr "Sürə'tləndirici Widget-i"
-
-msgid "Accelerator Widget"
-msgstr "Sürə'tləndirici Widget-i"
-
-msgid "Accelerator key"
-msgstr "Sürə'tləndirici Widget-i"
-
-msgid "Accelerator keycode"
-msgstr "Sürə'tləndirici Widget-i"
-
-msgid "Accelerator modifiers"
-msgstr "Sürə'tləndirici Widget-i"
-
-msgid "Accept focus"
-msgstr "Fokusu qəbul et"
-
-msgid "Accepting Jobs"
-msgstr "Fokusu qəbul et"
-
-msgid "Accepts PDF"
-msgstr "Səkmə qəbul edir"
-
-msgid "Accepts PostScript"
-msgstr "Səkmə qəbul edir"
-
-msgid "Accepts tab"
-msgstr "Səkmə qəbul edir"
-
 msgid "Action"
-msgstr "Gedişat"
-
-msgid "Action Group"
-msgstr "Gedişat Qrupu"
-
-msgid "Action area border"
-msgstr "Gediş sahəsi kənarı"
-
-msgid "Activatable"
-msgstr "Fəallaşdırılabilən"
-
-msgid "Activates default"
-msgstr "Əsasları fəallaşdırar"
+msgstr "Dağ"
 
 msgid "Active"
-msgstr "Fəal"
+msgstr "Fəallaşdır"
 
-msgid "Active item"
-msgstr "Fəal üzv"
-
-msgid "Add tearoffs to menus"
-msgstr "Menyuları ayırma qulplarını əlavə et"
+msgid "Add"
+msgstr "Əlavə et"
 
 msgid "Adjustment"
 msgstr "Yaxşılaşdırma"
 
-msgid "Align set"
-msgstr "USəviyyələmə"
+msgid "Administration"
+msgstr "İnzibatçılıq"
 
-msgid "Alignment"
-msgstr "USəviyyələmə"
+msgid "Align"
+msgstr "Tərəflə"
 
-msgid "All Margins"
-msgstr "Sol Kənar"
-
-msgid "Allow Async"
-msgstr "Xədkeşlərə icazə ver"
-
-msgid "Allow Rules"
-msgstr "Xədkeşlərə icazə ver"
-
-msgid "Allow drawing of alternating color rows"
-msgstr "Alternativ sətirlərin göstərilməsinə icazə ver"
-
-msgid "Allow folder creation"
-msgstr "Fayl əməliyyatlarını göstər"
-
-msgid "Alt"
-msgstr "Alt"
-
-msgid "Amharic (EZ+)"
-msgstr "Amharikcə (EZ+)"
-
-msgid "Amount of blue light in the color."
-msgstr "Rəngdəki göylük miqdarı."
-
-msgid "Amount of border space between the menubar shadow and the menu items"
-msgstr "Menyu çubuğu kölgəsi ilə menyu üzvləri arasındakı kənar sahə miqdarı"
-
-msgid "Amount of border space between the toolbar shadow and the buttons"
-msgstr "Vasitə çubuğu kölgəsi ilə düymələr arasındakı kənar boşluğu miqdarı"
-
-msgid "Amount of green light in the color."
-msgstr "Rəngdəki yaşıllıq miqdarı."
-
-msgid "Amount of red light in the color."
-msgstr "Rəngdəki qırmızılıq miqdarı."
-
-msgid "Amount to increase child's size on either side"
-msgstr "Digər tərəfdəki törəmə böyüklüyü artırılması"
-
-msgid "Amount to increase child's size on the top and bottom"
-msgstr "Üst və altdakı törəmə böyüklüyü artırılması"
-
-msgid "Amount to indent the paragraph, in pixels"
-msgstr "Paraqrafın piksel olaraq içəridən başlama"
-
-msgid "An XML string describing the merged UI"
-msgstr "Birləşdirilən İAÜ-zü izah edən XML qatarı"
+msgid "Alpha"
+msgstr "Alfa"
 
 msgid "Animation"
 msgstr "Animasiya"
 
-msgid "Animation duration"
-msgstr "Animasiya"
-
-msgid "Any Printer"
-msgstr "Ç_ap Et"
-
-msgid "Appearance of the frame border"
-msgstr "Çərçivə kənarının görünüşü"
-
-msgid "Appearance of the shadow surrounding the arrow"
-msgstr "Oxun ətrafındakı kölgə görünüşü"
-
-msgid "Appearance of the shadow that surrounds the container"
-msgstr "Daşıyıcı ətrafındakı kölgə görünüşü"
-
-msgid "Appears as list"
-msgstr "Siyahı olaraq görünür"
+msgid "Antialiasing"
+msgstr "Kənar düzəltməsi"
 
 msgid "Application"
-msgstr "_Mövqe:"
-
-msgid "Application paintable"
-msgstr "Boyana bilən proqram tə'minatı"
-
-msgid "Application prefers a dark theme"
-msgstr "Boyana bilən proqram tə'minatı"
-
-msgid "Application supplied widget for custom previews."
-msgstr "Xüsusi ön nümayişlər üçün proqram tərəfindən verilən widget."
-
-msgid "Application supplied widget for extra options."
-msgstr "Əlavə seçimlər üçün proqram tərəfindən verilən widget."
-
-msgid "Arrow Placement"
-msgstr "Oxun X Yerdəyişdirməsi"
-
-msgid "Arrow Scaling"
-msgstr "Sətir aralığı"
-
-msgid "Arrow Size"
-msgstr "Oxun istiqaməti"
-
-msgid "Arrow X Displacement"
-msgstr "Oxun X Yerdəyişdirməsi"
-
-msgid "Arrow Y Displacement"
-msgstr "Oxun Y Yerdəyişdirməsi"
-
-msgid "Arrow direction"
-msgstr "Oxun istiqaməti"
-
-msgid "Arrow scaling"
-msgstr "Sətir aralığı"
-
-msgid "Arrow shadow"
-msgstr "Oxun kölgəsi"
-
-msgid "Arrow spacing"
-msgstr "Sətir aralığı"
-
-msgid "Aspect ratio if obey_child is FALSE"
-msgstr "obey_child FALSE isə nisbəti işlət"
-
-msgid "Aspect ratio with which to draw insertion cursor"
-msgstr "Daxil etmə kursorunun göstəriləcəyi nisbət"
-
-msgid "Attach Widget"
-msgstr "Əlavə wiidget"
-
-msgid "Attributes"
-msgstr "Atributlar"
+msgstr "Proqram tə'minatı"
 
 msgid "Authentication"
-msgstr "_Mövqe:"
+msgstr "Tanıtma"
 
-msgid "Auto Mnemonics"
-msgstr "Animasiya"
-
-msgid "Auto Select"
-msgstr "Yazı Növü Seçimi"
-
-msgid "BackSpace"
-msgstr "_Yenidən Adlandır"
-
-msgid "Backend for the printer"
-msgstr "Ağac görünüşü modeli"
+msgid "Background"
+msgstr "Arxa plan"
 
 msgid "Background color"
 msgstr "Arxa plan rəngi"
 
-msgid "Background color as a (possibly unallocated) GdkColor"
-msgstr "Arxa plan rəngi GdkColor olaraq"
-
-msgid "Background color as a GdkColor"
-msgstr "Arxa plan rəngi GdkColor olaraq"
-
-msgid "Background color as a string"
-msgstr "Arxa plan rəngi mətni"
-
-msgid "Background color name"
-msgstr "Arxa plan rəng adı"
-
-msgid "Background full height"
-msgstr "Arxa planın tam hündürlüyü"
-
-msgid "Background full height set"
-msgstr "Arxa plan hündürlük dəstəsi"
-
-msgid "Background set"
-msgstr "Arxa plan dəstəsi"
-
-msgid "Backward stepper"
-msgstr "Arxa plan addımlayıcısı"
-
-msgid "Best _Fit"
-msgstr "Ən _Uyğun"
-
-msgid "Border around the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "Border relief"
-msgstr "Kənarlıq relyefi"
-
-msgid "Border width"
-msgstr "Kənar eni"
-
-msgid "Bottom Attach"
-msgstr "Alt Əlavə"
-
-msgid "Bottom Padding"
-msgstr "Alt Kənarlama"
-
-msgid "Bottom attachment"
-msgstr "Alt əlavə"
-
-msgid "Brightness of the color."
-msgstr "Rəngin parlaqlığı."
-
 msgid "Buffer"
-msgstr "Buffer"
+msgstr "Bufer"
 
-msgid "Button relief"
-msgstr "Düymə relyefi"
+msgid "Cancel"
+msgstr "Ləğv Et"
 
-msgid "Button spacing"
-msgstr "Düymə boşluğu"
+msgid "Channel"
+msgstr "Kanal"
 
-msgid "C_ollate"
-msgstr "_Yarat"
+msgid "Clear"
+msgstr "Təmizlə"
 
-msgid "C_onnect"
-msgstr "Ç_evir"
-
-msgid "C_redits"
-msgstr "_Yarat"
-
-msgid "C_urrent Page"
-msgstr "_Yarat"
-
-msgid "Can be used to add a new child to the container"
-msgstr "Saxlayıcıya yeni törəmə əlavə etmək üçün istifadə edilə bilər"
-
-msgid "Can change accelerators"
-msgstr "Sürə'tləndiricilər dəyişdirilə bilsin"
-
-msgid "Can default"
-msgstr "Əsası edə bilər"
-
-msgid "Can focus"
-msgstr "Fokus edə bilər"
-
-msgid "Cancel Button"
-msgstr "İsmarış Düymələri"
-
-msgid "Cannot change to folder because it is not local"
-msgstr "Qovluq yerli olmadığına görə açıla bilmədi."
-
-msgid "Caps Lock is on"
-msgstr "Mövqe Aç"
-
-msgid "Cedilla"
-msgstr "Cedilla"
-
-msgid "Cell background color"
-msgstr "Hüceyrə arxa plan rəngi"
-
-msgid "Cell background color as a GdkColor"
-msgstr "Hüceyrə arxa plan rəngi GdkColor olaraq"
-
-msgid "Cell background color as a string"
-msgstr "Hüceyrə arxa plan rəngi mətni"
-
-msgid "Cell background color name"
-msgstr "Hüceyrə arxa plan rəng adı"
-
-msgid "Cell background set"
-msgstr "Hüceyrə arxa plan dəstəsi"
-
-msgid "CellView model"
-msgstr "AğacGörünüşü Modeli"
-
-msgid "Child"
-msgstr "Törəmə"
-
-msgid "Child X Displacement"
-msgstr "Törəmənin X Yerdəyişdirməsi"
-
-msgid "Child Y Displacement"
-msgstr "Törəmənin Y Yerdəyişdirməsi"
-
-msgid "Child internal height padding"
-msgstr "Törəmə daxili hündürlük aralığı"
-
-msgid "Child internal width padding"
-msgstr "Törəmə daxili en aralığı"
-
-msgid "Child widget to appear next to the button text"
-msgstr "Menyu mətninin yanında göstəriləcək törəmə pəncərəcik"
-
-msgid "Child widget to appear next to the menu text"
-msgstr "Menyu mətninin yanında göstəriləcək törəmə pəncərəcik"
-
-msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
-msgstr "Damladını alın və ekranda rəngini almaq istədiyiniz hər hansı bir yerə tıqlayın."
-
-msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
-msgstr "Rəng almaq üçün palitradan sahə seçin. Bu girişi dəyişdirmək üçün buradan rəng sürükləyin və \"Burada rəng qeyd et\"i tıqlayın."
-
-msgid "Clickable"
-msgstr "Tıqlana bilən"
-
-msgid "Climb Rate"
-msgstr "Çıxma Sıxlığı"
-
-msgid "Climb rate"
-msgstr "Çıxma Sıxlığı"
-
-msgid "Co_nnect"
-msgstr "Ç_evir"
+msgid "Clock"
+msgstr "Saat"
 
 msgid "Color"
 msgstr "_رنگ"
 
-msgid "Color Hash"
-msgstr "Rəng sahəsi"
-
-msgid "Color Selection"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Color Wheel"
-msgstr "Rəng Çərxi"
-
-msgid "Color _name:"
-msgstr "Rə_ng Adı:"
-
-msgid "Color of the selection box"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Color of unvisited links"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Color of visited links"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Color scheme"
-msgstr "Rəng sahəsi"
-
-msgid "Color to use for even rows"
-msgstr "Cüt sətirlər üçün işlədiləcək rəng"
-
-msgid "Color to use for odd rows"
-msgstr "Tək sətirlər üçün işlədiləcək rəng"
-
-msgid "Color with which to draw error-indication underlines"
-msgstr "Xətalı bildirişlərin göstəriləcəyi rəng"
-
-msgid "Color with which to draw insertion cursor"
-msgstr "Daxil etmə oxunun rəngi"
-
-msgid "Color with which to draw the secondary insertion cursor when editing mixed right-to-left and left-to-right text"
-msgstr "Qarışıq sağdan sola və soldan sağa mətni redaktə edərkən ikinci giriş kursorunun göstəriləcəyi rəng"
-
-msgid "Column Spacing"
-msgstr "Sütünlar arası boşluq"
-
-msgid "Column gets share of extra width allocated to the widget"
-msgstr "Sütun widget-ə ayırılan əlavə endən pay alır"
-
-msgid "Column headers respond to click events"
-msgstr "Sütunların başlıqları kliqləmə gedişatlarına cavab versin"
-
-msgid "Column is user-resizable"
-msgstr "Sütunun böyüklüyü istifadəçi tərəfindən dəyişdirilə bilsin"
-
-msgid "Column spacing"
-msgstr "Sütünlar arası boşluq"
-
-msgid "Column span column"
-msgstr "Sütun span sütunu"
-
 msgid "Columns"
-msgstr "Sütunlar"
+msgstr "Rəng"
 
-msgid "ComboBox model"
-msgstr "ComboBox modeli"
+msgid "Comment"
+msgstr "Şərhlər"
 
-msgid "Comments string"
-msgstr "Sütünlar arası boşluq"
+msgid "Comments"
+msgstr "Şərhlər"
 
-msgid "Completion Model"
-msgstr "Tamamlama Modeli"
+msgid "Configuration"
+msgstr "Quraşdırma"
 
-msgid "Composite child"
-msgstr "Kompozit törəmə"
-
-msgid "Content Padding"
-msgstr "Alt Kənarlama"
-
-msgid "Content area border"
-msgstr "Məzmun sahəsi kənarı"
-
-msgid "Content area spacing"
-msgstr "Alt Kənarlama"
-
-msgid "Copy URL"
-msgstr "_Köçür"
-
-msgid "Copy _Location"
-msgstr "Mövqe Aç"
-
-msgid "Could not send the search request"
-msgstr "Geri qalan qeyd edilə bilmədi"
-
-msgid "Could not start the search process"
-msgstr "Geri qalan qeyd edilə bilmədi"
-
-msgid "Create Fo_lder"
-msgstr "_Qovluq Yarat"
-
-msgid "Create in _folder:"
-msgstr "_Qovluqda yarat:"
-
-msgid "Create the same proxies as a radio action"
-msgstr "Qərar gedişatı ilə eyni vəkilləri yarat"
+msgid "Crop"
+msgstr "Qırp"
 
 msgid "Ctrl"
 msgstr "Ctrl"
 
-msgid "Cu_t"
-msgstr "Kə_s"
+msgid "Current"
+msgstr "Hazırkı"
 
-msgid "Current Alpha"
-msgstr "Hazırkı Alfa"
+msgid "Custom"
+msgstr "Hazırkı"
 
-msgid "Current Color"
-msgstr "Hazırkı Rəng"
-
-msgid "Current Page"
-msgstr "Hazırkı Alfa"
-
-msgid "Current fixed width of the column"
-msgstr "Sütunun hazırkı sabit eni"
-
-msgid "Current text of the buffer"
-msgstr "Etiketin mətni"
-
-msgid "Current width of the column"
-msgstr "Sütunun hazırkı eni"
-
-msgid "Cursor"
-msgstr "Oxun Yanıb Sönməsi"
-
-msgid "Cursor Blink"
-msgstr "Oxun Yanıb Sönməsi"
-
-msgid "Cursor Blink Time"
-msgstr "Oxun Yanıb Sönmə Vaxtı"
-
-msgid "Cursor Blink Timeout"
-msgstr "Oxun Yanıb Sönmə Vaxtı"
-
-msgid "Cursor Position"
-msgstr "Ox Yeri"
-
-msgid "Cursor Visible"
-msgstr "Görünən Ox"
-
-msgid "Cursor color"
-msgstr "Ox rəngi"
-
-msgid "Cursor line aspect ratio"
-msgstr "Kursor sətiri nisbəti"
-
-msgid "Cursor position"
-msgstr "Ox Yeri"
-
-msgid "Cursor theme name"
-msgstr "Timsal Örtüyü Adı"
-
-msgid "Cursor theme size"
-msgstr "Görünən Ox"
-
-msgid "Custom palette"
-msgstr "Hazırkı palet"
-
-msgid "Custom tab label"
-msgstr "Hazırkı palet"
-
-msgid "Custom tabs for this text"
-msgstr "Bu mətnə xüsuso səkmələr"
-
-msgid "Cyrillic (Transliterated)"
-msgstr "Kirilcə (Translit)"
-
-msgid "DISPLAY"
-msgstr "IPA"
-
-msgid "Dash pattern used to draw the focus indicator"
-msgstr "Fokus indikatoru göstərilməsi üçün lazımi tire naxışı"
-
-msgid "Dash pattern used to draw the tree view grid lines"
-msgstr "Fokus indikatoru göstərilməsi üçün lazımi tire naxışı"
-
-msgid "Dash pattern used to draw the tree view lines"
-msgstr "Fokus indikatoru göstərilməsi üçün lazımi tire naxışı"
-
-msgid "Day"
-msgstr "Gün"
-
-msgid "Decorated"
-msgstr "Bəzəkli"
-
-msgid "Decrease Indent"
-msgstr "Çərtməni Azalt"
-
-msgid "Default Display"
-msgstr "Ön Qurğulu Displey"
-
-msgid "Default Height"
-msgstr "Əsas Hündürlük"
-
-msgid "Default IM module"
-msgstr "Əsas En"
-
-msgid "Default Outside Spacing"
-msgstr "Ön Qurğulu Xarici Boşluq"
-
-msgid "Default Page Setup"
-msgstr "Əsas Hündürlük"
-
-msgid "Default Spacing"
-msgstr "Ön Qurğulu Boşluq"
-
-msgid "Default Width"
-msgstr "Əsas En"
-
-msgid "Default file chooser backend"
-msgstr "Ön qurğulu fayl seçici backend-i"
-
-msgid "Default print backend"
-msgstr "Ön qurğulu fayl seçici backend-i"
-
-msgid "Delay before drop down menus appear"
-msgstr "Açılan menyuların göstərilmə gecikməsi"
-
-msgid "Delay before hiding a submenu"
-msgstr "Alt menyuları gizlədilmə gecikməsi"
-
-msgid "Delay before submenus appear"
-msgstr "Alt menyuları göstərilmə gecikməsi"
-
-msgid "Delay before the submenus of a menu bar appear"
-msgstr "Menyu çubuğunun alt menyularının göstərilmə gecikməsi"
-
-msgid "Deletable"
-msgstr "Seçilə bilən"
+msgid "Cut"
+msgstr "Kəs"
 
 msgid "Delete"
-msgstr "_Sil"
+msgstr "Sil"
+
+msgid "Description"
+msgstr "İzahat"
 
 msgid "Desktop"
-msgstr "Masa Üstü"
-
-msgid "Destroy with Parent"
-msgstr "Törədicisi ilə birlikdə Dağıt"
-
-msgid "Detail"
-msgstr "Təfsilat"
-
-msgid "Details Height"
-msgstr "Əsas Hündürlük"
-
-msgid "Details Width"
-msgstr "Əsas En"
-
-msgid "Details width in characters"
-msgstr "Xarakter olaraq genişlik"
-
-msgid "Determines how the shadowed box around the viewport is drawn"
-msgstr "Görünən sahə ətrafındakı kölgəli qutunun necə görünəcəyini tə'yin edir"
-
-msgid "Device Display"
-msgstr "Ön Qurğulu Displey"
-
-msgid "Device name"
-msgstr "Pəncərəcik adı"
-
-msgid "Device type"
-msgstr "Qövs növü"
+msgstr "Masa üstü"
 
 msgid "Digits"
 msgstr "Digitlər"
 
-msgid "Disabled"
-msgstr "Bağlı"
+msgid "Direction"
+msgstr "Tərəf"
 
-msgid "Displace focus"
-msgstr "Fokusa malikdir"
+msgid "Disabled"
+msgstr "Passivləşdirilmiş"
 
 msgid "Display"
-msgstr "Ön Qurğulu Displey"
+msgstr "Ekran"
 
-msgid "Display a second backward arrow button on the opposite end of the scrollbar"
-msgstr "Sürüşdürmə çubuğunun qarşı tərəfində ikinci geri ox düyməsini göstər"
+msgid "Dithering"
+msgstr "Titrəmə"
 
-msgid "Display a second backward arrow button on the opposite end of the tab area"
-msgstr "Səkmə sahəsinin tərəfində ikinci geri ox düyməsini göstər"
+msgid "Dynamic"
+msgstr "Dinamik"
 
-msgid "Display a second forward arrow button on the opposite end of the scrollbar"
-msgstr "Sürüşdürmə çubuğunun qarşı tərəfində ikinci irəli ox düyməsini göstər"
+msgid "E-mail"
+msgstr "E-poçt"
 
-msgid "Display a second forward arrow button on the opposite end of the tab area"
-msgstr "Səkmə sahəsinin qarşı tərəfində ikinci irəli ox düyməsini göstər"
-
-msgid "Display for the device manager"
-msgstr "Hücrəni göstər"
-
-msgid "Display the cell"
-msgstr "Hücrəni göstər"
-
-msgid "Display the cell sensitive"
-msgstr "Hücrəni göstər"
-
-msgid "Display the standard backward arrow button"
-msgstr "Standart geri ox düyməsini göstər"
-
-msgid "Display the standard forward arrow button"
-msgstr "Standart irəli ox düyməsini göstər"
-
-msgid "Display which the device belongs to"
-msgstr "Hücrəni göstər"
-
-msgid "Domain:"
-msgstr "_Mövqe:"
-
-msgid "Don't change slider size, just lock it to the minimum length"
-msgstr "Sürüşdürücünün böyüklüyünü dəyişdirmə, minimal uzunluğa qıfılla"
-
-msgid "Double Arrows"
-msgstr "Oxu Göstər"
-
-msgid "Double Buffered"
-msgstr "Buffer"
-
-msgid "Double Click Distance"
-msgstr "Cüt Tıqlanma Məsafəsi"
-
-msgid "Double Click Time"
-msgstr "Cüt Tıglama Zamanı"
-
-msgid "Down"
-msgstr "A_lta"
-
-msgid "Drag threshold"
-msgstr "Sürümə başlanğıcı"
-
-msgid "Draw"
-msgstr "Göstər"
-
-msgid "Draw Indicator"
-msgstr "İndikatoru Göstər"
-
-msgid "Draw Value"
-msgstr "Göstərmə Qiyməti"
-
-msgid "Draw as radio menu item"
-msgstr "Qərar menyusu üzvü olaraq göstər"
-
-msgid "Draw the toggle button as a radio button"
-msgstr "Açma/Qapama düyməsini radio düyməsi kimi göstər"
-
-msgid "Editability set"
-msgstr "Düzəldilə bilən dəstə"
-
-msgid "Editable"
-msgstr "Dəyişdirilə bilən"
-
-msgid "Editable mode of the CellRenderer"
-msgstr "CellRenderer-in Dəyişdirilə Bilmə modu"
-
-msgid "Editing"
-msgstr "Böyüklük"
-
-msgid "Editing Canceled"
-msgstr "Böyüklük"
-
-msgid "Ellipsize set"
-msgstr "Yüksəklik dəstəsi"
-
-msgid "Embed Page Setup"
-msgstr "Səhifə Böyüklüyü"
-
-msgid "Empty"
-msgstr "Boş"
-
-msgid "Enable Accelerators"
-msgstr "Sürə'tləndiricilər dəyişdirilə bilsin"
-
-msgid "Enable Animations"
-msgstr "Animasiya"
-
-msgid "Enable Event Sounds"
-msgstr "Animasiya"
-
-msgid "Enable Grid Lines"
-msgstr "Ox düymələrini fəallaşdır"
-
-msgid "Enable Mnemonics"
-msgstr "Animasiya"
-
-msgid "Enable Popup"
-msgstr "Popapı Fəallaşdır"
-
-msgid "Enable Search"
-msgstr "Axtarışı Fəallaşdır"
+msgid "Edit"
+msgstr "Düzəlt"
 
 msgid "Enable Tooltips"
 msgstr "آلفاسه وارده"
 
-msgid "Enable Tree Lines"
-msgstr "Ox düymələrini fəallaşdır"
-
 msgid "Error"
 msgstr "Xəta"
 
-msgid "Error color"
-msgstr "Ox rəngi"
+msgid "Export"
+msgstr "İxrac Et"
 
-msgid "Error underline color"
-msgstr "Xəta alt cızıq rəngi"
-
-msgid "Even Row Color"
-msgstr "Cüt Sətir Rəngi"
-
-msgid "Event base"
-msgstr "Hadisələr"
-
-msgid "Events"
-msgstr "Hadisələr"
-
-msgid "Executive"
-msgstr "_İcra Et"
-
-msgid "Expand"
-msgstr "Genişlət"
-
-msgid "Expand timeout"
-msgstr "Genişləndirici Böyüklüyü"
-
-msgid "Expanded"
-msgstr "Genişləndirilmiş"
-
-msgid "Expander Column"
-msgstr "Açıcı Sütunu"
-
-msgid "Expander Size"
-msgstr "Genişləndirici Böyüklüyü"
-
-msgid "Export filename"
-msgstr "Fayl adı"
-
-msgid "Extension events"
-msgstr "Uzantı hadisələri"
-
-msgid "Extra space at the left and right edges of the menu"
-msgstr "Menyunun üst və alt tərəflərinə əlavə ediləcək sahə miqdarı"
-
-msgid "Extra space at the top and bottom of the menu"
-msgstr "Menyunun üst və alt tərəflərinə əlavə ediləcək sahə miqdarı"
-
-msgid "Extra space to add for GTK_CAN_DEFAULT buttons"
-msgstr "CAN_DEFAULT düymələrinə əlavə ediləcək əlavə sahə"
-
-msgid "Extra space to add for GTK_CAN_DEFAULT buttons that is always drawn outside the border"
-msgstr "Kənarı həmişə xaricində göstərilən CAN_DEFAULT düymələri üçün əlavə ediləcək sahə"
-
-msgid "Extra space to put between the child and its left and right neighbors, in pixels"
-msgstr "Törəmə ilə onun sol və sağ qonşuları arasına qoyulacaq əlavə sahə, piksel olaraq"
-
-msgid "Extra space to put between the child and its neighbors, in pixels"
-msgstr "Törəmə ilə qonşuları arasına qoyulacaq əlavə boşluq, piksel olaraq"
-
-msgid "Extra space to put between the child and its upper and lower neighbors, in pixels"
-msgstr "Törəmə ilə onun üst və alt qonşuları arasına qoyulacaq əlavə sahə, piksel olaraq"
-
-msgid "Extra widget"
-msgstr "Əlavə wiidget"
-
-msgid "FALSE displays the \"invisible char\" instead of the actual text (password mode)"
-msgstr "SƏHV \"görünməz xarakter\"i həqiqi mətn yerinə göstərər (parol modu)"
-
-msgid "FALSE removes outside bevel from entry"
-msgstr "FALSE girişin xarici qabartmasını silər"
-
-msgid "Failed to load icon"
-msgstr "TIFF rəsmi yüklənməsi bacarılmadı"
-
-msgid "Failed to load image '%{string}': reason not known, probably a corrupt image file"
-msgstr "'%{string}' rəsmi yüklənə bilmədi: səbəbi bilinmir, xəsərli fayl ola bilər"
-
-msgid "Failed to rewrite header\n"
-msgstr "TIFF rəsmi açılması bacarılmadı"
-
-msgid "Failed to write folder index\n"
-msgstr "Müvəqqəti fayl oxuna bilmədi"
-
-msgid "Failed to write hash table\n"
-msgstr "TIFF rəsmi açılması bacarılmadı"
-
-msgid "Failed to write header\n"
-msgstr "TIFF rəsmi açılması bacarılmadı"
-
-msgid "Fallback Icon Theme Name"
-msgstr "Timsal Örtüyü Adı"
+msgid "Extensions"
+msgstr "Ekstrusiya"
 
 msgid "File"
-msgstr "Fayllar"
+msgstr "Fayl"
 
-msgid "File System"
-msgstr "Fayl Sistemi"
-
-msgid "File System Root"
-msgstr "Fayl Sistemi"
+msgid "File Type"
+msgstr "Fayl Növü"
 
 msgid "Filename"
 msgstr "Fayl adı"
-
-msgid "Filename to load and display"
-msgstr "Yüklənib göstəriləcək fayl adı"
-
-msgid "Files"
-msgstr "Fayllar"
 
 msgid "Fill"
 msgstr "Doldur"
@@ -940,3818 +145,380 @@ msgstr "Doldur"
 msgid "Filter"
 msgstr "Süzgəc"
 
-msgid "Find and _Replace"
-msgstr "Axtar və Ə_vəz Et"
-
-msgid "Finished"
-msgstr "_Axtar"
-
-msgid "Fixed Height Mode"
-msgstr "Sabit Hündürlük Modu"
-
-msgid "Fixed Width"
-msgstr "Sabit En"
-
-msgid "Fixed slider size"
-msgstr "Sabit sürüşdürücü böyüklüyü"
-
-msgid "Focus in Toplevel"
-msgstr "Üst Səviyyədəki Fokus"
-
-msgid "Focus line dash pattern"
-msgstr "Fokus sətiri tire naxışı"
-
-msgid "Focus linewidth"
-msgstr "Fokus uzunluğu"
-
-msgid "Focus on click"
-msgstr "Tıqlamada fokusa al"
-
-msgid "Focus on map"
-msgstr "Tıqlamada fokusa al"
-
-msgid "Focus padding"
-msgstr "Fokus aralanması"
-
 msgid "Folio"
 msgstr "_رنگ"
 
 msgid "Font"
-msgstr "YazıTipi"
-
-msgid "Font Name"
-msgstr "Yazı növü adı"
-
-msgid "Font Selection"
-msgstr "Yazı Növü Seçimi"
-
-msgid "Font description as a PangoFontDescription struct"
-msgstr "Yazı Növü izahatı PangoFontDescription olaraq"
-
-msgid "Font description as a string, e.g. \"Sans Italic 12\""
-msgstr "Qatar olaraq yazı növü izahatı, misal.\"Sans Italic 12\""
-
-msgid "Font family"
-msgstr "Yazı növü ailəsi"
-
-msgid "Font family set"
-msgstr "Yazı Növü dəstəsi"
-
-msgid "Font name"
-msgstr "Yazı növü adı"
-
-msgid "Font options"
-msgstr "Yazı Növü nöqtələri"
-
-msgid "Font points"
-msgstr "Yazı Növü nöqtələri"
-
-msgid "Font resolution"
-msgstr "Yazı Növü nöqtələri"
-
-msgid "Font scale"
-msgstr "Yazı növü miqyası"
-
-msgid "Font scale set"
-msgstr "Yazı növü miqyası dəstəsi"
-
-msgid "Font scaling factor"
-msgstr "Yazı növü miqyasılama faktoru"
+msgstr "Meşə"
 
 msgid "Font size"
 msgstr "Yazı növü böyüklüyü"
 
-msgid "Font size as a scale factor relative to the default font size. This properly adapts to theme changes etc. so is recommended. Pango predefines some scales such as PANGO_SCALE_X_LARGE"
-msgstr "Əsas yazı növünə əsasən böyüdmə faktoru olaraq yazı növü böyüklüyü. Bu xassə örtük dəyişikliklərinə görə uyğunlaşdırılır ona görə də məsləhət edilir. Pango bəzi böyütmələri PANGO_SCALE_X_LARGE şəklində tə'yin edir."
-
-msgid "Font size in Pango units"
-msgstr "Pango ölçülərilə yazı növü böyüklüyü"
-
-msgid "Font size in points"
-msgstr "Yazı Növü böyüklüyü nöqtə olaraq"
-
-msgid "Font size set"
-msgstr "Yazı Növü böyüklüyü dəstəsi"
-
-msgid "Font stretch"
-msgstr "Yazı Növü genişliyi"
-
-msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
-msgstr "PangoStretch olaraq yazı növü uzatması, e.g. PANGO_STRETCH_CONDENSED"
-
-msgid "Font stretch set"
-msgstr "Yazı Növü genişliyi dəstəsi"
-
-msgid "Font style"
-msgstr "Yazı Növü tərzi"
-
-msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
-msgstr "PangoStyle olaraq yazı növü tərzi, nümunə: PANGO_STYLE_ITALIC"
-
-msgid "Font style set"
-msgstr "Yazı Növü dəstəsi"
-
-msgid "Font variant"
-msgstr "Yazı Növü variantı"
-
-msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
-msgstr "PangoVariant olaraq yazı növü variantı, nümunə:  PANGO_VARIANT_SMALL_CAPS"
-
-msgid "Font variant set"
-msgstr "Yazı Növü variantı dəstəsi"
-
-msgid "Font weight"
-msgstr "Yazı Növü qalınlığı"
-
-msgid "Font weight as an integer, see predefined values in PangoWeight; for example, PANGO_WEIGHT_BOLD"
-msgstr "Integer olaraq yazı növü böyüklüyü, PangoWeight-dakı öncədən tə'yin edilmiş dəyərlərə baxın, nümunə: PANGO_WEIGHT_BOLD"
-
-msgid "Font weight set"
-msgstr "Yazı Növü qalınlığı dəstəsi"
-
-msgid "Force aspect ratio to match that of the frame's child"
-msgstr "Aspekt nisbətini çərçivə törəməsininkinə uyğunlaşdır"
+msgid "Foreground"
+msgstr "Ön plan"
 
 msgid "Foreground color"
 msgstr "Ön plan rəngi"
 
-msgid "Foreground color as a (possibly unallocated) GdkColor"
-msgstr "Ön plan rəng GdkColor olaraq"
-
-msgid "Foreground color as a GdkColor"
-msgstr "Ön plan rəng GdkColor olaraq"
-
-msgid "Foreground color as a string"
-msgstr "Ön plan rəngi kəlmə olaraq"
-
-msgid "Foreground color for symbolic icons"
-msgstr "Ön plan rəngi kəlmə olaraq"
-
-msgid "Foreground color name"
-msgstr "Ön plan rəng adı"
-
-msgid "Foreground set"
-msgstr "Ön plan dəstəsi"
-
-msgid "Forward stepper"
-msgstr "Çatdırma addımlayıcısı"
-
 msgid "Fraction"
-msgstr "Fraksiya"
+msgstr "Qisim"
 
-msgid "Frame shadow"
-msgstr "Çərçivə kölgəsi"
+msgid "Frame"
+msgstr "Çərçivə"
 
-msgid "GIcon"
-msgstr "Timsal"
+msgid "General"
+msgstr "Ümumi"
 
-msgid "GIcon for primary icon"
-msgstr "Bu pəncərə timsalı"
+msgid "Gradient"
+msgstr "Qradiyent"
 
-msgid "GdkPixbufAnimation to display"
-msgstr "Göstəriləcək GdkPixbufAnimation"
-
-msgid "Gravity"
-msgstr "Yer çəkimi"
-
-msgid "Grid line pattern"
-msgstr "Fokus sətiri tire naxışı"
-
-msgid "Grid line width"
-msgstr "Fokus uzunluğu"
+msgid "Grid"
+msgstr "Qəfəs"
 
 msgid "Group"
 msgstr "Qrup"
 
-msgid "Group Name"
-msgstr "Qrup"
-
-msgid "Group name for tab drag and drop"
-msgstr "Gedişat qrupunun adı."
-
-msgid "Handle Size"
-msgstr "Dəstək Bötüklüyü"
-
-msgid "Handle position"
-msgstr "Qulp yeri"
-
-msgid "Has Frame"
-msgstr "Çərçivəyə Malikdir"
-
-msgid "Has Opacity Control"
-msgstr "Matlıq İdarəsi Var"
-
-msgid "Has Resize Grip"
-msgstr "Ölçüləndirmə Qulpu Var"
-
-msgid "Has Selection"
-msgstr "Seçili il"
-
-msgid "Has default"
-msgstr "Əsasa malikdir"
-
-msgid "Has focus"
-msgstr "Fokusa malikdir"
-
-msgid "Has palette"
-msgstr "Paletə malikdir"
-
-msgid "Has selection"
-msgstr "Seçili il"
-
 msgid "Has tooltip"
 msgstr "آلفاسه وارده"
-
-msgid "Header Padding"
-msgstr "Sol Kənarlama"
-
-msgid "Header Relief"
-msgstr "Tıqlana Bilən Başlıqlar"
-
-msgid "Header Spacing"
-msgstr "Sol Kənarlama"
-
-msgid "Header image"
-msgstr "Tıqlana Bilən Başlıqlar"
-
-msgid "Headers Clickable"
-msgstr "Tıqlana Bilən Başlıqlar"
-
-msgid "Headers Visible"
-msgstr "Tıqlana Bilən Başlıqlar"
 
 msgid "Height"
 msgstr "Hündürlük"
 
-msgid "Height request"
-msgstr "Hündürlük sorğusu"
+msgid "Help"
+msgstr "Yardım"
 
-msgid "Help Button"
-msgstr "İsmarış Düymələri"
+msgid "Help Browser"
+msgstr "Veb Səyyahı"
 
-msgid "Hide if empty"
-msgstr "Boş isə gizlə"
+msgid "Histogram"
+msgstr "Histoqram"
 
-msgid "Hint to help the desktop environment understand what kind of window this is and how to treat it."
-msgstr "Masa üstü mühidinə pəncərənin hansı növdə olduğunu və onunla necə rəftar ediləcəyini başa düşməsinə yardım et."
+msgid "History"
+msgstr "Keçmiş"
 
 msgid "Home"
 msgstr "Ev"
 
-msgid "Homogeneous"
-msgstr "Homojen"
-
-msgid "Horizontal Adjustment"
-msgstr "Üfüqi Yayma"
-
-msgid "Horizontal Adjustment for the widget"
-msgstr "Pəncərəciyin Üfüqi Yayılması"
-
-msgid "Horizontal Alignment"
-msgstr "Üfüqi Səviyyələmə"
-
-msgid "Horizontal Offset"
-msgstr "Üfüqi Offset"
-
-msgid "Horizontal Padding"
-msgstr "Üfüqi səviyyələmə"
-
-msgid "Horizontal Scroll Arrow Length"
-msgstr "Üfüqi sürüşmə çubuğu xassələri"
-
-msgid "Horizontal Scrollbar Policy"
-msgstr "Üfüqi sürüşmə çubuğu xassələri"
-
-msgid "Horizontal Separator Width"
-msgstr "Üfüqi Ayırıcı Eni"
-
-msgid "Horizontal adjustment"
-msgstr "Üfüqi yayma"
-
-msgid "Horizontal alignment"
-msgstr "Üfüqi səviyyələmə"
-
-msgid "Horizontal alignment for child"
-msgstr "Törəmənin üfüqi səviyyələməsi"
-
-msgid "Horizontal options"
-msgstr "Üfüqi seçənəklər"
-
-msgid "Horizontal padding"
-msgstr "Üfüqi səviyyələmə"
-
-msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
-msgstr "Mövcud sahədə törəmənin üfüqi yeri. 0.0 sola, 1.0 sağa tərəfləndirmədir"
-
-msgid "Horizontal scale"
-msgstr "Üfüqi miqyas"
-
-msgid "Horizontal separation"
-msgstr "Üfüqi seçənəklər"
-
-msgid "Horizontal space between cells.  Must be an even number"
-msgstr "Hüceyrələr arasındakı üfqi aralıq. Cüt rəqəm olmalıdır"
-
-msgid "Hover Expand"
-msgstr "Genişlət"
-
-msgid "How far in the x direction to move the arrow when the button is depressed"
-msgstr "Düymə basılanda oxun x istiqamətində nə qədər hərəkət edəcəyi"
-
-msgid "How far in the x direction to move the child when the button is depressed"
-msgstr "Düyməyə basılanda törəmənin x istiqamətində nə qədər hərəkət edəcəyi"
-
-msgid "How far in the y direction to move the arrow when the button is depressed"
-msgstr "Düymə basılanda oxun y istiqamətində nə qədər hərəkət edəcəyi"
-
-msgid "How far in the y direction to move the child when the button is depressed"
-msgstr "Düyməyə basılanda törəmənin y istiqamətində nə qədər hərəkət edəcəyi"
-
-msgid "How the range should be updated on the screen"
-msgstr "Silsilənin ekranda necə güncəllənəcəyi"
-
-msgid "How to align the lines"
-msgstr "Vasitə çubuğunun göstərilmə şəkli"
-
-msgid "How to draw the input method preedit string"
-msgstr "Giriş metodunun önredaktə qatarının necə göstəriləcəyi"
-
-msgid "How to draw the input method statusbar"
-msgstr "Vasitə çubuğunun göstərilmə şəkli"
-
-msgid "How to draw the toolbar"
-msgstr "Vasitə çubuğunun göstərilmə şəkli"
-
-msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
-msgstr "Qutu düymələri düzülüş. Mümkün qiymətlər əsas, yayğın, kənar, başlanğıc və sondur"
-
-msgid "IM Preedit style"
-msgstr "IM Önredaktə Tərzi"
-
-msgid "IM Status style"
-msgstr "IM Vəziyyət tərzi"
-
-msgid "IM module"
-msgstr "Əsas En"
-
-msgid "IPA"
-msgstr "IPA"
+msgid "Hue"
+msgstr "Çöhrə"
 
 msgid "Icon"
 msgstr "Timsal"
 
-msgid "Icon '%{string}' not present in theme"
-msgstr "Örtükdə '%{string}' timsalı mövcud deyil"
-
-msgid "Icon Name"
-msgstr "Yazı növü adı"
-
-msgid "Icon Prelight"
-msgstr "Hündürlük"
-
-msgid "Icon Sizes"
-msgstr "Timsal böyüklüyü"
-
-msgid "Icon Theme Name"
-msgstr "Timsal Örtüyü Adı"
-
-msgid "Icon View Model"
-msgstr "AğacGörünüşü Modeli"
-
-msgid "Icon for this window"
-msgstr "Bu pəncərə timsalı"
-
-msgid "Icon name"
-msgstr "Yazı növü adı"
-
-msgid "Icon set"
-msgstr "Timsal dəstəsi"
-
-msgid "Icon set to display"
-msgstr "Göstəriləcək timsal dəstəsi"
-
-msgid "Icon size"
-msgstr "Timsal böyüklüyü"
-
-msgid "Icon size set"
-msgstr "Yazı Növü böyüklüyü dəstəsi"
-
-msgid "Icon spacing"
-msgstr "Sətir aralığı"
-
-msgid "Icon widget"
-msgstr "Timsal widget-i"
-
-msgid "Icon widget to display in the item"
-msgstr "Üzvdə göstəriləcək timsal widget-i"
-
-msgid "Icons"
-msgstr "Timsal"
-
-msgid "If TRUE, a heading is displayed"
-msgstr "TRUE isə başlıq göstəriləcəkdir"
-
-msgid "If TRUE, day names are displayed"
-msgstr "TRUE isə gün adları göstəriləcəkdir"
-
-msgid "If TRUE, details are shown"
-msgstr "TRUE isə gün adları göstəriləcəkdir"
-
-msgid "If TRUE, pressing the right mouse button on the notebook pops up a menu that you can use to go to a page"
-msgstr "Əgər DÜZdürsə, siçan düyməsinin Qeyd Dəftərçəsində tıqlanması gediləcək səhifə menyusunu açar"
-
-msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
-msgstr "Əgər TRUE isə, səkmələr sığışmasa sürüşdürmə çubuqları əlavə ediləcək"
-
-msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
-msgstr "DOĞRU isə, törəmə ikinci törəmə qrupunda ortaya çıxır, məs. yardım düymələri üçün uyğundur"
-
-msgid "If TRUE, the child can be made smaller than its requisition"
-msgstr "TRUE isə, törəmə məcbu qiymətdən daha kiçik ola bilər"
-
-msgid "If TRUE, the child expands and shrinks along with the paned widget"
-msgstr "TRUE isə, ölçüləndirilən widget ilə bərabər törəmə də böyüyəcək/genişləyəcəkdir"
-
-msgid "If TRUE, the selected month cannot be changed"
-msgstr "TRUE isə seçili ay dəyişdirilə bilməyəcək"
-
-msgid "If TRUE, the table cells are all the same width/height"
-msgstr "TRUE isə, cədvəl hüceyrələrinin hamısının eyni en/hündürlüyə malik olmaları deməkdir"
-
-msgid "If TRUE, the widget will receive the default action when it is focused"
-msgstr "TRUE isə pəncərəcik fokuslu ikən əsas gedişatı alacaq"
-
-msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
-msgstr "TRUE isə pəncərə modal olacaq (bu pəncərə açıq ikən digər pəncərələr işlədilə bilməyəcək və fəal olmayacaq)"
-
-msgid "If TRUE, users can resize the window"
-msgstr "Əgər TRUE isə, istifadəçilər pəncərə böyüklüyünü dəyişdirə bilərlər"
-
-msgid "If TRUE, week numbers are displayed"
-msgstr "TRUE isə həftə nömrələri göstəriləcəkdir"
-
-msgid "If an arrow should be shown if the toolbar doesn't fit"
-msgstr "Vasitə çubuğu yerləşmirsə oxun göstərilməsi"
-
-msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "Mövcud üfüqi sahə törəmədən daha böyükdürsə, törəmə üçün işlədiləcək miqdar. 0.0 heç biri, 1.0 hamısı deməkdir"
-
-msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "Mövcud şaquli sahə törəmədən daha böyükdürsə, törəmə üçün işlədiləcək miqdar. 0.0 heç biri, 1.0 hamısı deməkdir"
-
-msgid "If set, an underline in the label property indicates that the next character should be used for the mnemonic accelerator key in the overflow menu"
-msgstr "If set, an underline in the label property indicates that the next character should be used for the mnemonic accelerator key in the overflow menu"
-
-msgid "If set, an underline in the text indicates the next character should be used for the mnemonic accelerator key"
-msgstr "Seçili isə, altı cızılı xarakterdən sonrakının mnemonik yüksəldici açarı olaraq qəbul edilməsi gərəkdiyini göstərir"
-
-msgid "If set, the label is used to pick a stock item instead of being displayed"
-msgstr "Seçili isə, etiket göstərilmək yerinə ambar vahidi almaq üçün işlədilir"
-
-msgid "If set, wrap lines if the text becomes too wide"
-msgstr "Seçilidirsə, mətni həddindən artıq geniş olanda qırır"
-
-msgid "If the insertion cursor is shown"
-msgstr "Əgər daxil etmə oxu göstərilibsə"
-
-msgid "If the toggle button is in an \"in between\" state"
-msgstr "Dəyişdirmə düyməsinin \"arada\" olma halı"
-
-msgid "If the toggle button should be pressed in"
-msgstr "Dəyişdirmə düyməsinin basıla bilmə halı"
-
-msgid "If the toggle part of the button is displayed"
-msgstr "Düymənin açma/qapama halı göstərilməsi"
-
-msgid "If this window should be destroyed when the parent is destroyed"
-msgstr "Əgər bu pəncərə dağıdılsa törədəni də dağıdılacaqdır"
-
 msgid "Image"
-msgstr "Rəsm"
+msgstr "Görüntü"
 
-msgid "Image position"
-msgstr "Qulp yeri"
-
-msgid "Image spacing"
-msgstr "Qiymət boşluğu"
-
-msgid "Image widget"
-msgstr "Rəsm pəncərəciyi"
-
-msgid "Image/label border"
-msgstr "Rəsm/etiket kənarı"
-
-msgid "Inconsistent"
-msgstr "Qərarsız"
-
-msgid "Inconsistent state"
-msgstr "Qərarsız vəziyyət"
-
-msgid "Increase Indent"
-msgstr "Çərtməni Artır"
+msgid "Images"
+msgstr "Cage"
 
 msgid "Indent"
-msgstr "İçəridən Başlama"
-
-msgid "Indent Expanders"
-msgstr "İndent Açıcılar"
-
-msgid "Indent set"
-msgstr "İçəridən Başlama dəstəsi"
-
-msgid "Index 3x5"
-msgstr "_Məzmun"
-
-msgid "Index 4x6 ext"
-msgstr "_Məzmun"
-
-msgid "Index 5x8"
-msgstr "_Məzmun"
-
-msgid "Indicator Size"
-msgstr "İndikator Böyüklüyü"
-
-msgid "Indicator Spacing"
-msgstr "İndikator Boşluğu"
-
-msgid "Indicator size"
-msgstr "İndikator Böyüklüyü"
+msgstr "Çərtmə"
 
 msgid "Information"
-msgstr "Mə'lumat"
+msgstr "İterasiyalar:"
 
-msgid "Inline selection"
-msgstr "Seçili il"
-
-msgid "Inner Border"
-msgstr "Səkmə Kənarı"
-
-msgid "Inner border"
-msgstr "Səkmə Kənarı"
-
-msgid "Inner border space"
-msgstr "Səkmə Kənarı"
-
-msgid "Input _Methods"
-msgstr "Giriş _Metodları"
-
-msgid "Input mode for the device"
-msgstr "Ağac görünüşü modeli"
-
-msgid "Intensity of the color."
-msgstr "Rəngin şəffaflığı."
-
-msgid "Interior Focus"
-msgstr "Daxili Fokus"
-
-msgid "Internal padding"
-msgstr "Daxili fasilələndirmə"
-
-msgid "Inuktitut (Transliterated)"
-msgstr "İnukitut (Translit)"
+msgid "Interface"
+msgstr "Ara üz"
 
 msgid "Invalid"
-msgstr "Hökmsüz UTF-8"
+msgstr "Hökmsüz"
 
-msgid "Invalid URI"
-msgstr "Hökmsüz UTF-8"
+msgid "Invert"
+msgstr "Tərs çevir"
 
-msgid "Invalid argument to CreateDC"
-msgstr "Timsalda hökmsüz başlıq"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "Timsalda hökmsüz başlıq"
-
-msgid "Invalid path"
-msgstr "Hökmsüz UTF-8"
-
-msgid "Invert direction slider moves to increase range value"
-msgstr "İstiqaməti tərs çevirmə sürüşdürücüsü silsilə dəyərini artırmaq üçün hərəkət edir"
-
-msgid "Invert the direction in which the progress bar grows"
-msgstr "İrəliləmə çubuğunun və onun irəliləməsinin istiqaməti"
-
-msgid "Inverted"
-msgstr "Tərs"
+msgid "Invert Selection"
+msgstr "Seçkini Tərsinə Çevir"
 
 msgid "Invisible"
-msgstr "Gizli"
-
-msgid "Invisible character"
-msgstr "Görünməz xarakter"
-
-msgid "Invisible character set"
-msgstr "Görünməz xarakter"
-
-msgid "Invisible set"
-msgstr "Gizlətmə dəstəsi"
-
-msgid "Is Active"
-msgstr "Fəaldır"
-
-msgid "Is Expanded"
-msgstr "Açılıb"
-
-msgid "Is Expander"
-msgstr "Genişləndiricidir"
-
-msgid "Is Showing"
-msgstr "Başlığı Göstər"
-
-msgid "Is Virtual"
-msgstr "Vacibdir"
-
-msgid "Is focus"
-msgstr "Fokusa malikdir"
-
-msgid "Is important"
-msgstr "Vacibdir"
-
-msgid "Item Orientation"
-msgstr "İstiqamət"
-
-msgid "Item Padding"
-msgstr "Alt Kənarlama"
-
-msgid "Job Name"
-msgstr "Yazı növü adı"
-
-msgid "Justification"
-msgstr "Sütunlaşdırma"
-
-msgid "Justification set"
-msgstr "Sütunlaşdırma dəstəsi"
-
-msgid "KP_Delete"
-msgstr "_Sil"
-
-msgid "KP_Down"
-msgstr "A_lta"
-
-msgid "KP_Enter"
-msgstr "Ç_ap Et"
-
-msgid "KP_Home"
-msgstr "_Ev"
-
-msgid "KP_Left"
-msgstr "_Sol"
-
-msgid "KP_Right"
-msgstr "_Rəng:"
-
-msgid "KP_Space"
-msgstr "_Yenidən Adlandır"
-
-msgid "KP_Up"
-msgstr "Ü_stə"
-
-msgid "Key Theme Name"
-msgstr "Açar Örtük Adı"
-
-msgid "Keybinding to activate the menu bar"
-msgstr "Menyu çubuğunu fəallaşdırmaq üçün düymə bağı"
-
-msgid "LRE Left-to-right _embedding"
-msgstr "LRE Soldan sağa _geydirmə"
-
-msgid "LRM _Left-to-right mark"
-msgstr "LRM _Soldan sağa nişan"
-
-msgid "LRO Left-to-right _override"
-msgstr "LRO Soldan sağa _rədd etmə"
+msgstr "Gözəgörünməz"
 
 msgid "Label"
 msgstr "Etiket"
 
-msgid "Label fill"
-msgstr "Tab dolğusu"
-
-msgid "Label widget"
-msgstr "Etiket widgeti"
-
-msgid "Label xalign"
-msgstr "Etiket x tərəfləndirməsi"
-
-msgid "Label yalign"
-msgstr "Etiket y tərəfləməsi."
-
 msgid "Language"
 msgstr "Dil"
 
-msgid "Language set"
-msgstr "Dil dəstəsi"
+msgid "Large"
+msgstr "Dil"
 
-msgid "Largest possible value for the \"position\" property"
-msgstr "\"position\" xassəsi üçün mümkün olan ən böyük qiymət"
-
-msgid "Layout style"
-msgstr "Düzülüş tərzi"
+msgid "Layer"
+msgstr "Lay"
 
 msgid "Left"
-msgstr "_Sol"
+msgstr "Sol"
 
-msgid "Left Attach"
-msgstr "Sol Əlavə"
-
-msgid "Left Margin"
-msgstr "Sol Kənar"
-
-msgid "Left Padding"
-msgstr "Sol Kənarlama"
-
-msgid "Left attachment"
-msgstr "Sol əlavə"
-
-msgid "Left gravity"
-msgstr "Yer çəkimi"
-
-msgid "Left margin"
-msgstr "Sol kənar"
-
-msgid "Left margin set"
-msgstr "Sol kənar dəstəsi"
-
-msgid "Left to right"
-msgstr "LRM _Soldan sağa nişan"
-
-msgid "Left, right, or center justification"
-msgstr "Sol, sağ ya da ortaya sütunlaşdırma"
-
-msgid "Length of scale's slider"
-msgstr "Böyütmə sürüşdürücüsünün uzunluğu"
-
-msgid "Length of step buttons at ends"
-msgstr "Sonlardakı step düymələrin uzunluğu"
-
-msgid "Length of the cursor blink cycle, in milliseconds"
-msgstr "Millisaniyə qiymətində kursorun yanıb sönmə vaxtı"
-
-msgid "License Type"
-msgstr "İsmarış Növü"
-
-msgid "Line wrap"
-msgstr "Sətir qırması"
-
-msgid "Line wrap mode"
-msgstr "Sətir qırması"
-
-msgid "List of authors of the program"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "List of icon names"
-msgstr "Yazı növü adı"
-
-msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
-msgstr "Timsal böyüklüklərinin siyahısı (gtk-menu=16,16;gtk-button=20,20..."
-
-msgid "List of the GtkPrintBackend backends to use by default"
-msgstr "Ön qurğulu olarq işlədiləcək GtkFileChooser backend-inin adı"
-
-msgid "Local Only"
-msgstr "Təkcə Yerli"
-
-msgid "Local only"
-msgstr "Təkcə Yerli"
+msgid "Line"
+msgstr "Sətir"
 
 msgid "Location"
-msgstr "Gedişat"
+msgstr "Yerləşdiyi yerlər"
 
-msgid "Logo Icon Name"
-msgstr "Yazı növü adı"
-
-msgid "Lower"
-msgstr "Alçalt"
-
-msgid "Lower limit of ruler"
-msgstr "Xətkeşin alt sərhədi"
-
-msgid "Make the expanders indented"
-msgstr "Genişləndiriciləri çərtmələ"
-
-msgid "Margin"
-msgstr "Sol Kənar"
-
-msgid "Margin on Left"
-msgstr "Sol Kənar"
-
-msgid "Margin on Top"
-msgstr "Sol Kənar"
-
-msgid "Mark name"
-msgstr "Təq adi"
-
-msgid "Marked up text to render"
-msgstr "Render ediləcək işarət"
-
-msgid "Markup"
-msgstr "İşarət"
-
-msgid "Markup column"
-msgstr "İşarət"
-
-msgid "Max Size"
-msgstr "Maksimal Böyüklük"
-
-msgid "Maximal Position"
-msgstr "Maksimal Mövqe"
-
-msgid "Maximum Value"
-msgstr "Maksimal Qiymət"
-
-msgid "Maximum Width"
-msgstr "Maksimal En"
-
-msgid "Maximum Width In Characters"
-msgstr "Xarakter olaraq genişlik"
-
-msgid "Maximum age of recently used files, in days"
-msgstr "Kanal Ədədi"
-
-msgid "Maximum allowed width of the column"
-msgstr "Sütunun qəbul edilmiş maksimal eni"
-
-msgid "Maximum child expand"
-msgstr "Minimal törəmə eni"
-
-msgid "Maximum distance allowed between two clicks for them to be considered a double click (in pixels)"
-msgstr "İki tıqlamanın cüt tıqlama qəbul edilməsi üçün iki tıq arasında icazə verilən maksimal piksel olaraq uzaqlıq."
-
-msgid "Maximum length"
-msgstr "Maksimal uzunluq"
-
-msgid "Maximum number of characters for this entry. Zero if no maximum"
-msgstr "Bu vahid üçün hökmlü maksimal xarakter miqdarı. Maksimal yoxsa sıfır"
-
-msgid "Maximum size of the ruler"
-msgstr "Sürüşdürücünün maksimal böyüklüyü"
-
-msgid "Maximum time allowed between two clicks for them to be considered a double click (in milliseconds)"
-msgstr "Cüt kliq sayıla bilməsi üçün iki kliq arasındakı maksimal vaxt (millisaniyə)"
+msgid "Medium"
+msgstr "Menyu"
 
 msgid "Menu"
-msgstr "Menü"
+msgstr "Menyu"
 
-msgid "Menu bar accelerator"
-msgstr "Menü çubuğu yüksəldicisi"
-
-msgid "Menu label"
-msgstr "Menyu etiketi"
-
-msgid "Merged UI definition"
-msgstr "Birləşdirilən İAÜ təyini"
-
-msgid "Message Buttons"
-msgstr "İsmarış Düymələri"
-
-msgid "Message Type"
-msgstr "İsmarış Növü"
-
-msgid "Message area"
-msgstr "İsmarış Növü"
-
-msgid "Metric"
-msgstr "Numerik"
-
-msgid "Minimal Position"
-msgstr "Minimal Mövqe"
-
-msgid "Minimum Key Length"
-msgstr "Minimal Açar Uzunluğu"
-
-msgid "Minimum Slider Length"
-msgstr "Minimal Sürüşdürücü Uzunluğu"
-
-msgid "Minimum Value"
-msgstr "Minimal Qiymət"
-
-msgid "Minimum Width"
-msgstr "Minimal En"
-
-msgid "Minimum allowed width of the column"
-msgstr "Sütunun qəbul edilmiş minimal eni"
-
-msgid "Minimum child height"
-msgstr "Minimal törəmə hündürlüyü"
-
-msgid "Minimum child width"
-msgstr "Minimal törəmə eni"
-
-msgid "Minimum height of buttons inside the box"
-msgstr "Qutu daxilindəki düymələrin minimal hündürlüyü"
-
-msgid "Minimum horizontal bar height"
-msgstr "Üfüqi səviyyələmə"
-
-msgid "Minimum horizontal bar width"
-msgstr "Üfüqi Ayırıcı Eni"
-
-msgid "Minimum horizontal height of the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "Minimum length of scrollbar slider"
-msgstr "Sürüşdürmə çubuğunun sürüşdürücüsünün minimal uzunluğu"
-
-msgid "Minimum length of the search key in order to look up matches"
-msgstr "Nəticələri axtarmaq üçün minimal axtarış açarı uzunluğu"
-
-msgid "Minimum time the pointer must stay over a menu item before the submenu appear"
-msgstr "Alt menyunun görünməsi üçün oxun menyunun üstündə dayanması məcbur olan minimal vaxt"
-
-msgid "Minimum vertical bar height"
-msgstr "Minimal törəmə hündürlüyü"
-
-msgid "Minimum vertical bar width"
-msgstr "Şaquli Ayırıcı Eni"
-
-msgid "Minimum width of buttons inside the box"
-msgstr "Qutu daxilindəki düymələrin minimal eni"
-
-msgid "Mnemonic key"
-msgstr "Mnemonik düyməsi"
-
-msgid "Mnemonic widget"
-msgstr "Mnemonik pəncərəcik"
-
-msgid "Mnemonics Visible"
-msgstr "Mnemonik düyməsi"
-
-msgid "Modal"
-msgstr "Modal"
+msgid "Message"
+msgstr "İsmarış"
 
 msgid "Mode"
-msgstr "Mod"
+msgstr "Hərəkət etdir"
 
 msgid "Model"
-msgstr "Mod"
+msgstr "Daha Çox"
 
-msgid "Model column to search through during interactive search"
-msgstr "Kodun içində axtarırkən, içində axtarılacaq model sütunu"
-
-msgid "Modified"
-msgstr "Təkmilləşdirmə tarixi"
+msgid "Module"
+msgstr "Modul"
 
 msgid "Monitor"
-msgstr "Ay"
+msgstr "Ekran"
 
-msgid "Month"
-msgstr "Ay"
+msgid "Move"
+msgstr "Daşı"
 
 msgid "Name"
 msgstr "Ad"
 
-msgid "Name of a icon theme to fall back to"
-msgstr "İşlədiləcək timsal örtüyü"
-
-msgid "Name of default font to use"
-msgstr "İstifadə ediləcək əsas yazı növünün adı"
-
-msgid "Name of icon theme to use"
-msgstr "İşlədiləcək timsal örtüyü"
-
-msgid "Name of key theme RC file to load"
-msgstr "Yüklənəcək açar örtük RC faylının adı"
-
-msgid "Name of the GtkFileChooser backend to use by default"
-msgstr "Ön qurğulu olarq işlədiləcək GtkFileChooser backend-inin adı"
-
-msgid "Name of the cursor theme to use, or NULL to use the default theme"
-msgstr "İşlədiləcək timsal örtüyü"
-
-msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
-msgstr "Yazı növü ailəsi adı, Helvetika, Tayms vs kimi"
-
-msgid "Name of the printer"
-msgstr "İşlədiləcək timsal örtüyü"
-
-msgid "Name of the themed icon for this window"
-msgstr "Bu pəncərə timsalı"
-
-msgid "Name of theme RC file to load"
-msgstr "Yüklənəcək örtük RC faylının adı"
-
-msgid "Name used to refer to the text tag. NULL for anonymous tags"
-msgstr "Mətn təqinə rəftar ediləcək ad. Anonim təqlər üçün NULL"
-
-msgid "No Month Change"
-msgstr "Ay Dəyişikliyi Olmasın"
-
-msgid "No items found"
-msgstr "XPM başlığı tapılmadı"
-
-msgid "No pre-filtering"
-msgstr "XPM başlığı tapılmadı"
-
-msgid "No printer found"
-msgstr "XPM başlığı tapılmadı"
-
-msgid "No show all"
-msgstr "Hamısını göstər olmasın"
-
 msgid "None"
-msgstr "heç biri"
+msgstr "Daha Uzun"
 
-msgid "Not enough free memory"
-msgstr "Timsalın yüklənməsi üçün lazımi yaddaş yoxdur"
+msgid "Normal"
+msgstr "Normal"
 
-msgid "Num Lock is on"
-msgstr "Mövqe Aç"
-
-msgid "Number of Pages"
-msgstr "Kanal Ədədi"
-
-msgid "Number of Pages To Print"
-msgstr "Kanal Ədədi"
-
-msgid "Number of axes in the device"
-msgstr "Cəvəldəki sıraların miqdarı"
-
-msgid "Number of characters to leave space for in the entry"
-msgstr "Girişdə hər vahid üçün neçə xarakter boşluq buraxılacaq"
-
-msgid "Number of columns"
-msgstr "Kanal Ədədi"
-
-msgid "Number of columns to display"
-msgstr "Göstəriləcək onluq sahə miqdarı"
-
-msgid "Number of jobs queued in the printer"
-msgstr "Cəvəldəki sıraların miqdarı"
-
-msgid "Number of pixels around the content pages."
-msgstr "Məzmunun ətrafındakı qabartma tərzi"
-
-msgid "Number of pixels around the header."
-msgstr "Menyu çubuğunun ətrafındakı qabartmanın tərzi"
-
-msgid "Number of pixels between the scrollbars and the scrolled window"
-msgstr "Sürüşdürmə çubuqları ilə sürüşən pəncərə arasındakı piksel miqdarı"
-
-msgid "Number of pixels of the entry scrolled off the screen to the left"
-msgstr "Giriçin bənəkləri ekrandan sola sürüşüb"
-
-msgid "Number of pixels the cursor can move before dragging"
-msgstr "Kurosrun süründürülmədən əvvəl hərəkət edə biləcəyi piksel miqdarı"
-
-msgid "Number of recently used files"
-msgstr "Kanal Ədədi"
-
-msgid "Number of steps"
-msgstr "Kanal Ədədi"
+msgid "Number"
+msgstr "Rəqəm"
 
 msgid "Numeric"
 msgstr "Numerik"
 
-msgid "Obey child"
-msgstr "Törəməni İşlət"
+msgid "Opacity"
+msgstr "Matlıq"
 
-msgid "Odd Row Color"
-msgstr "Tək Sətir Rəngi"
+msgid "Open"
+msgstr "Aç"
 
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr "Mətnin Offseti ana xəttin üstündə olsun (yüksəlmə mənfi isə altında olsun)"
-
-msgid "Offset of text above the baseline (below the baseline if rise is negative) in Pango units"
-msgstr "Mətnin offseti ana xəttin üstündə olsun (yüksəlmə mənfi isə altında olsun)"
-
-msgid "On _hold"
-msgstr "_Qalın"
-
-msgid "Op_acity:"
-msgstr "_Şəffaflıq:"
-
-msgid "Opacity of the selection box"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Options specifying the horizontal behaviour of the child"
-msgstr "Törəmənin üfqi davranışını müəyyən edən seçənəklər"
-
-msgid "Options specifying the vertical behaviour of the child"
-msgstr "Törəmənin şaquli davranışını müəyyən edən seçənəklər"
-
-msgid "Or_ientation:"
-msgstr "_Doyğunluq:"
+msgid "Options"
+msgstr "Kökləmə"
 
 msgid "Orientation"
 msgstr "İstiqamət"
 
-msgid "Override for height request of the widget, or -1 if natural request should be used"
-msgstr "Pəncərəciyin hündürlük istə'yinin yerinə işlədiləcək dəyər, istə'yin olduğu kimi istifadə edilməsi üçün isə -1 dəyərini işlədin"
-
-msgid "Override for width request of the widget, or -1 if natural request should be used"
-msgstr "Pəncərəciyin en istə'yinin yerinə işlədiləcək dəyər, istə'yin olduğu kimi istifadə edilməsi üçün isə -1 dəyərini işlədin"
-
-msgid "Overwrite mode"
-msgstr "Üstünə yazma modu"
-
-msgid "PDF _Pop directional formatting"
-msgstr "PDF _Pop istiqaməti əsaslı şəkilləndirmə"
-
-msgid "P_ause"
-msgstr "_Yapışdır"
-
-msgid "Pack direction"
-msgstr "Mətn istiqaməti"
-
-msgid "Pack type"
-msgstr "Paket tərzi"
-
 msgid "Padding"
 msgstr "Kənarlama"
-
-msgid "Padding that should be put around icons in the tray"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
 
 msgid "Page"
 msgstr "Səhifə"
 
-msgid "Page Increment"
-msgstr "Səhifə Artışı"
+msgid "Palette"
+msgstr "Palitra"
 
-msgid "Page Ordering"
-msgstr "Xəbərdarlıq"
+msgid "Password"
+msgstr "Şifrə"
 
-msgid "Page Setup"
-msgstr "Səhifə Böyüklüyü"
+msgid "Paste"
+msgstr "Yapışdır"
 
-msgid "Page Size"
-msgstr "Səhifə Böyüklüyü"
-
-msgid "Page complete"
-msgstr "Səhifə Artışı"
-
-msgid "Page or_dering:"
-msgstr "_Xassələr"
-
-msgid "Page title"
-msgstr "Səhifə Böyüklüyü"
-
-msgid "Page type"
-msgstr "Paket tərzi"
-
-msgid "Page_Down"
-msgstr "A_lta"
-
-msgid "Pages"
-msgstr "_Yenidən Adlandır"
-
-msgid "Pages Per Sheet"
-msgstr "Rəsmin hündürlüyü sıfırdır"
-
-msgid "Pages per Sheet"
-msgstr "Rəsmin hündürlüyü sıfırdır"
-
-msgid "Pages per _side:"
-msgstr "_Xassələr"
-
-msgid "Palette to use in the color selector"
-msgstr "Rəng seçicidə işlədiləcək palitra"
-
-msgid "Paper Size"
-msgstr "_Xassələr"
-
-msgid "Paper _source:"
-msgstr "_Xassələr"
-
-msgid "Paper _type:"
-msgstr "_Xassələr"
-
-msgid "Paragraph background color"
-msgstr "Hüceyrə arxa plan rəngi"
-
-msgid "Paragraph background color as a (possibly unallocated) GdkColor"
-msgstr "Arxa plan rəngi GdkColor olaraq"
-
-msgid "Paragraph background color as a string"
-msgstr "Arxa plan rəngi mətni"
-
-msgid "Paragraph background color name"
-msgstr "Hüceyrə arxa plan rəng adı"
-
-msgid "Paragraph background set"
-msgstr "Hüceyrə arxa plan dəstəsi"
-
-msgid "Parent"
-msgstr "Əlaqəli pəncərəcik"
-
-msgid "Parent widget"
-msgstr "Əlaqəli pəncərəcik"
-
-msgid "Password:"
-msgstr "Təzyiq"
-
-msgid "Path does not exist"
-msgstr "%{string} qısa yolu mövcud deyil"
+msgid "Path"
+msgstr "Cığır"
 
 msgid "Pattern"
 msgstr "Naxış"
 
-msgid "Pause"
-msgstr "_Yapışdır"
-
-msgid "Paused"
-msgstr "_Yapışdır"
-
-msgid "Paused Printer"
-msgstr "Süzgəc"
-
 msgid "Pick a Color"
 msgstr "بیر دنه رنگ سچ"
 
-msgid "Pick a Font"
-msgstr "Yazı Növü Seç"
-
-msgid "Pixbuf"
-msgstr "\"Pixbuf\" cismi"
-
-msgid "Pixbuf Expander Closed"
-msgstr "Pixbuf Genişləndirici Bağlı"
-
-msgid "Pixbuf Expander Open"
-msgstr "Pixbuf Genişləndirici Açıq"
-
-msgid "Pixbuf Object"
-msgstr "\"Pixbuf\" cismi"
-
-msgid "Pixbuf column"
-msgstr "Mətn Sütünü"
-
-msgid "Pixbuf for closed expander"
-msgstr "Bağlı genişləndirici üçün Pixbuf"
-
-msgid "Pixbuf for open expander"
-msgstr "Açıq genişləndirici üçün Pixbuf"
-
-msgid "Pixel size"
-msgstr "Piksel"
-
-msgid "Pixel size to use for named icon"
-msgstr "Saxlama timsalı ya da timsal dəstəsi üçün istifadə ediləcək böyüklük"
-
-msgid "Pixels Above Lines"
-msgstr "Sətirlərin Üstündəki Piksellər"
-
-msgid "Pixels Below Lines"
-msgstr "Sətirlərin Altındakı Piksellər"
-
-msgid "Pixels Inside Wrap"
-msgstr "Qırma İçindəki Piksellər"
-
-msgid "Pixels above lines"
-msgstr "Sətirlərin üstündəki piksel"
-
-msgid "Pixels above lines set"
-msgstr "Sətir üstündəki piksellər"
-
-msgid "Pixels below lines"
-msgstr "Sətirlərin altındakı piksel"
-
-msgid "Pixels below lines set"
-msgstr "Sətir altındakı piksellər"
-
-msgid "Pixels inside wrap"
-msgstr "Qırma içindəki piksel"
-
-msgid "Pixels inside wrap set"
-msgstr "Qırma dəstəsi içindəki piksellər"
-
-msgid "Pixels of blank space above paragraphs"
-msgstr "Parqraf üstündəki boşluğun pikseli"
-
-msgid "Pixels of blank space below paragraphs"
-msgstr "Parqraf altındakı boşluğun pikseli"
-
-msgid "Pixels of blank space between wrapped lines in a paragraph"
-msgstr "Parqraf və sətir arasındakı boşluğun pikseli"
-
-msgid "Pixels of extra space on the right side"
-msgstr "Parqraf üstündəki boşluğun pikseli"
-
-msgid "Pixels of extra space on the top side"
-msgstr "Parqraf üstündəki boşluğun pikseli"
-
-msgid "Place scrollbars within the scrolled window's bevel"
-msgstr "Sürüşdürmə çubuqları ilə sürüşən pəncərə arasındakı piksel miqdarı"
-
-msgid "Popup set width"
-msgstr "Fokus uzunluğu"
-
-msgid "Popup shown"
-msgstr "Fokus uzunluğu"
+msgid "Pixel"
+msgstr "Bənək"
 
 msgid "Portrait"
-msgstr "Ç_ap Et"
+msgstr "Portret"
 
 msgid "Position"
 msgstr "Yer"
 
-msgid "Position Set"
-msgstr "Yer Seçimi"
+msgid "Preferences"
+msgstr "Seçimlər"
 
-msgid "Position of mark on the ruler"
-msgstr "Sürüşdürücüdəki işarətin yeri"
-
-msgid "Position of paned separator in pixels (0 means all the way to the left/top)"
-msgstr "Pəncərə ayırıcısının piksel olaraq yeri (0 dəyəri sol/üst tərəfə doğru bütün sahə deməkdir)"
-
-msgid "Position of the handle relative to the child widget"
-msgstr "Törəmə pəncərəciyinə nəzarən qulpun yeri"
-
-msgid "Position of the item within this group"
-msgstr "Sürüşdürücüdəki işarətin yeri"
-
-msgid "Position on the color wheel."
-msgstr "Rəng çərxində yer."
-
-msgid "Postscript"
-msgstr "Ç_ap Et"
-
-msgid "Preparing"
-msgstr "Xəbərdarlıq"
-
-msgid "Preparing to print"
-msgstr "Xəbərdarlıq"
-
-msgid "Preview Widget Active"
-msgstr "Nümayiş Widgeti Fəal"
-
-msgid "Preview text"
-msgstr "Nümayiş mətni"
-
-msgid "Preview widget"
-msgstr "Nümayiş widgeti"
-
-msgid "Primary icon name"
-msgstr "Yazı növü adı"
-
-msgid "Primary icon sensitive"
-msgstr "Hücrəni göstər"
-
-msgid "Primary icon tooltip markup"
-msgstr "Yazı növü adı"
-
-msgid "Primary icon tooltip text"
-msgstr "Hücrəni göstər"
-
-msgid "Primary pixbuf"
-msgstr "\"Pixbuf\" cismi"
-
-msgid "Primary pixbuf for the entry"
-msgstr "Açıq genişləndirici üçün Pixbuf"
-
-msgid "Primary storage type"
-msgstr "Qövs növü"
+msgid "Preview"
+msgstr "Nümayiş:"
 
 msgid "Print"
-msgstr "Ç_ap Et"
-
-msgid "Print Pre_view"
-msgstr "Çap _Nümayişi"
-
-msgid "Print at"
-msgstr "Ç_ap Et"
-
-msgid "Print at time"
-msgstr "Ç_ap Et"
-
-msgid "Print to File"
-msgstr "Ç_ap Et"
-
-msgid "Print to Test Printer"
-msgstr "Ç_ap Et"
+msgstr "Çap Et"
 
 msgid "Printer"
-msgstr "Süzgəc"
+msgstr "Çapedici"
 
-msgid "Printer Default"
-msgstr "Ön Qurğulu"
+msgid "Progress"
+msgstr "İnkişaf"
 
-msgid "Printing"
-msgstr "Ç_ap Et"
-
-msgid "Program name"
-msgstr "Təq adi"
-
-msgid "Progress Border"
-msgstr "Oluqlu Kənar"
-
-msgid "Progress Fraction"
-msgstr "Fraksiya"
-
-msgid "Progress Pulse Step"
-msgstr "Pulse Addımı"
-
-msgid "Pulse"
-msgstr "Pulse Addımı"
-
-msgid "Pulse Step"
-msgstr "Pulse Addımı"
-
-msgid "Pulse of the spinner"
-msgstr "İşlədiləcək timsal örtüyü"
-
-msgid "Question"
-msgstr "Sual"
-
-msgid "RLE Right-to-left e_mbedding"
-msgstr "RLE Sağdan sola g_eydirmə"
-
-msgid "RLM _Right-to-left mark"
-msgstr "RLM _Sağdan sola nişan"
-
-msgid "RLO Right-to-left o_verride"
-msgstr "RLO Sağdan sola rə_dd etmə"
-
-msgid "R_ewind"
-msgstr "_Axtar"
-
-msgid "Radio state"
-msgstr "Radio halı"
+msgid "Rating"
+msgstr "Reytinq"
 
 msgid "Ratio"
 msgstr "Nisbət"
 
-msgid "Reads the current value, or sets a new value"
-msgstr "Hazırkı qiyməti oxuyur ya da yeni qiymət verir"
-
-msgid "Received invalid color data\n"
-msgstr "Hökmsüz rəng mə'lumatı alındı\n"
-
-msgid "Receives default"
-msgstr "Əsası alır"
-
-msgid "Related Action"
-msgstr "Gedişat"
-
-msgid "Relief of the group header button"
-msgstr "Sütun başlığı düymələrini göstər"
-
 msgid "Remove"
-msgstr "_Sil"
+msgstr "Sil"
 
-msgid "Rename..."
-msgstr "_Yenidən Adlandır"
-
-msgid "Render detail to pass to the theme engine"
-msgstr "Örtük motoruna ötürüləcək render təfərruatı"
-
-msgid "Reorderable"
-msgstr "Yenidən sıraya qoyula bilən"
-
-msgid "Resizable"
-msgstr "Böyüklüyü dəyişdirilə bilən"
+msgid "Replace"
+msgstr "Əvəz Et"
 
 msgid "Resize"
-msgstr "Ölçüləndir"
-
-msgid "Resize mode"
-msgstr "Ölçüləndirmə modu"
-
-msgid "Resize mode of the column"
-msgstr "Sütunların mod böyüklüyünü dəyişdir"
+msgstr "Yenidən ölç"
 
 msgid "Resolution"
-msgstr "Sual"
+msgstr "Rezolyusiya"
 
-msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"
-msgstr "Xft üçün həlledilirlik, 1024 * nöqtə/inç olaraq. -1 ön qurğulu qiymət üçün"
+msgid "Revert"
+msgstr "Çevir"
 
 msgid "Right"
-msgstr "_Rəng:"
+msgstr "Sağ"
 
-msgid "Right Attach"
-msgstr "Sağ Əlavə"
-
-msgid "Right Margin"
-msgstr "Sağ Kənar"
-
-msgid "Right Padding"
-msgstr "Sağ Kənarlama"
-
-msgid "Right attachment"
-msgstr "Sağ əlavə"
-
-msgid "Right margin"
-msgstr "Sağ kənar"
-
-msgid "Right margin set"
-msgstr "Sağ kənar dəstəsi"
-
-msgid "Right to left"
-msgstr "Ç_ap Et"
-
-msgid "Rise"
-msgstr "Yüksəlmə"
-
-msgid "Rise set"
-msgstr "Yüksəklik dəstəsi"
-
-msgid "Row Spacing"
-msgstr "Sətir aralığı"
-
-msgid "Row has children"
-msgstr "Sətrin törəmələri var"
-
-msgid "Row is an expander row, and is expanded"
-msgstr "Sətr genişləndiricidir və genişlədilib"
-
-msgid "Row spacing"
-msgstr "Sətir aralığı"
-
-msgid "Row span column"
-msgstr "Sətir span sütunu"
+msgid "Rotate"
+msgstr "Çevir"
 
 msgid "Rows"
-msgstr "Sətirlər"
+msgstr "Gəz"
 
-msgid "Rules Hint"
-msgstr "Qayda Məsləhəti"
+msgid "Saturation"
+msgstr "Doyğunluq"
 
-msgid "Sans 12"
-msgstr "Sans 12"
+msgid "Save"
+msgstr "Qeyd et"
 
-msgid "Save _As"
-msgstr "_Fərqli Qeyd Et"
-
-msgid "Save in _folder:"
-msgstr "_Qovluğa qeyd et:"
-
-msgid "Sc_ale:"
-msgstr "_Qiymət:"
+msgid "Scale"
+msgstr "Miqyas"
 
 msgid "Screen"
 msgstr "Ekran"
 
-msgid "Scroll arrow spacing"
-msgstr "Sürüşmə çubuğu boşluğu"
+msgid "Search"
+msgstr "Axtar"
 
-msgid "Scroll offset"
-msgstr "Sürüşdürmə daşması"
-
-msgid "Scrollable"
-msgstr "Sürüşdürülə bilən"
-
-msgid "Scrollbar spacing"
-msgstr "Sürüşmə çubuğu boşluğu"
-
-msgid "Scrollbars within bevel"
-msgstr "Sürüşmə çubuğu boşluğu"
-
-msgid "Scrolled Window Placement"
-msgstr "Pəncərə Yerləşdirilməsi"
-
-msgid "Se_lection"
-msgstr "_Seçim:"
-
-msgid "Search Column"
-msgstr "Sütün Axtar"
-
-msgid "Secondary"
-msgstr "İkincil"
-
-msgid "Secondary GIcon"
-msgstr "İkincil"
-
-msgid "Secondary Text"
-msgstr "İkincil"
-
-msgid "Secondary backward stepper"
-msgstr "İkinci arxa stepper"
-
-msgid "Secondary cursor color"
-msgstr "İkinci ox rəngi"
-
-msgid "Secondary forward stepper"
-msgstr "İkinci iləri stepper"
-
-msgid "Secondary icon activatable"
-msgstr "İkinci ox rəngi"
-
-msgid "Secondary icon name"
-msgstr "İkincil"
-
-msgid "Secondary icon sensitive"
-msgstr "İkincil"
-
-msgid "Secondary icon tooltip markup"
-msgstr "İkincil"
-
-msgid "Secondary icon tooltip text"
-msgstr "İkinci ox rəngi"
-
-msgid "Secondary pixbuf"
-msgstr "İkincil"
-
-msgid "Secondary pixbuf for the entry"
-msgstr "İkinci iləri stepper"
-
-msgid "Secondary stock ID"
-msgstr "İkincil"
-
-msgid "Secondary storage type"
-msgstr "İkinci iləri stepper"
-
-msgid "Secret"
-msgstr "Ekran"
-
-msgid "Select A File"
-msgstr "Faylı Sil"
-
-msgid "Select Multiple"
-msgstr "Birdən Çoxunu Seç"
+msgid "Select"
+msgstr "Seç"
 
 msgid "Select _All"
 msgstr "_Hamısını Seç"
 
-msgid "Select a folder"
-msgstr "Faylı Sil"
-
-msgid "Select on focus"
-msgstr "Fokusda seç"
-
-msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
-msgstr "Dairə xaricində bir yerdən rəng alın. Daxili üçbucaqdan rəngin qaranlığını və ya işıqlığını seçin."
-
-msgid "Selectable"
-msgstr "Seçilə bilən"
-
-msgid "Selected Printer"
-msgstr "Seçili il"
-
-msgid "Selection Bound"
-msgstr "Seçim Sahəsi"
-
-msgid "Selection Box Alpha"
-msgstr "Seçim Sahəsi"
-
-msgid "Selection Box Color"
-msgstr "Seçim Sahəsi"
-
-msgid "Selection mode"
-msgstr "Seçim Sahəsi"
+msgid "Selection"
+msgstr "Seçki"
 
 msgid "Sensitive"
 msgstr "Həssas"
 
-msgid "Separator Height"
-msgstr "Əsas Hündürlük"
-
-msgid "Separator Width"
-msgstr "Şaquli Ayırıcı Eni"
-
-msgid "Set a hint to the theme engine to draw rows in alternating colors"
-msgstr "Örtük motoruna sətrləri alternativ rənglərdə göstərilməsini ehkam et"
-
-msgid "Set the column for the expander column"
-msgstr "Genişlədici sütun olacaq sütunu seç"
-
-msgid "Shadow Type"
-msgstr "Kölgələmə növü"
-
-msgid "Shadow type"
-msgstr "Kölgələmə növü"
-
-msgid "Shift"
-msgstr "Shift"
-
-msgid "Short label"
-msgstr "Qısa etiket"
-
-msgid "Shortcut %{string} already exists"
-msgstr "%{string} qısa yolu mövcud deyil"
-
-msgid "Shortcut %{string} does not exist"
-msgstr "%{string} qısa yolu mövcud deyil"
-
-msgid "Show Arrow"
-msgstr "Oxu Göstər"
-
-msgid "Show Border"
-msgstr "Kənarı Göstər"
-
-msgid "Show Day Names"
-msgstr "Gün Adlarını Göstər"
-
-msgid "Show Details"
-msgstr "Başlığı Göstər"
-
-msgid "Show Dialog"
-msgstr "Başlığı Göstər"
-
-msgid "Show Expanders"
-msgstr "Genişləndiricidir"
-
-msgid "Show Heading"
-msgstr "Başlığı Göstər"
-
-msgid "Show Hidden"
-msgstr "Gizliləri Göstər"
-
-msgid "Show Icons"
-msgstr "Stok Timsalı"
-
-msgid "Show Numbers"
-msgstr "Həftə Nömrələrini Göstər"
-
-msgid "Show Private"
-msgstr "Mətni göstər"
-
-msgid "Show Tabs"
-msgstr "Səkmələri Göstər"
-
-msgid "Show Tooltips"
-msgstr "Məsləhət"
-
-msgid "Show Week Numbers"
-msgstr "Həftə Nömrələrini Göstər"
-
-msgid "Show _Hidden Files"
-msgstr "_Gizli Faylları Göstər"
-
-msgid "Show button images"
-msgstr "Düymə rəsmlərini göstər"
-
-msgid "Show menu images"
-msgstr "Menyu rəsmlərini göstər"
-
-msgid "Show size"
-msgstr "Böyüklüyü göstər"
-
-msgid "Show style"
-msgstr "Tərzi göstər"
-
-msgid "Show text"
-msgstr "Mətni göstər"
-
-msgid "Show the column header buttons"
-msgstr "Sütun başlığı düymələrini göstər"
-
-msgid "Shrink"
-msgstr "Genişlət"
-
-msgid "Si_ze:"
-msgstr "_Böyüklük:"
-
-msgid "Side of the handlebox that's lined up with the docking point to dock the handlebox"
-msgstr "Qulp qutusunu yapışdırmaq üçün yapışma nöqtəsi ilə sıralanmış qulp qutusunun böyüklüyü"
-
-msgid "Sidebar image"
-msgstr "Qiymət"
-
-msgid "Simple"
-msgstr "Böyüklük"
-
-msgid "Single Line Mode"
-msgstr "Tək Paraqraf Modu"
-
-msgid "Single Paragraph Mode"
-msgstr "Tək Paraqraf Modu"
-
 msgid "Size"
 msgstr "Böyüklük"
 
-msgid "Size of check or radio indicator"
-msgstr "İşarət və ya radio indikatoru böyüklüyü"
+msgid "Small"
+msgstr "Şkalalı"
 
-msgid "Size of icons in this tool palette"
-msgstr "Əsas vasitə çubuğundakı timsal böyüklükləri"
+msgid "Solid color"
+msgstr "Yeknəsəq İzlər"
 
-msgid "Size of icons in this toolbar"
-msgstr "Əsas vasitə çubuğundakı timsal böyüklükləri"
-
-msgid "Size of spacers"
-msgstr "Aralandırıcıların böyüklüyü"
-
-msgid "Size of tab curvature"
-msgstr "Aralandırıcıların böyüklüyü"
-
-msgid "Size of tab overlap area"
-msgstr "Genişlədici oxun böyüklüyü"
-
-msgid "Size of the expander arrow"
-msgstr "Genişlədici oxun böyüklüyü"
-
-msgid "Size to use for cursors, or 0 to use the default size"
-msgstr "Tək sətirlər üçün işlədiləcək rəng"
-
-msgid "Sizing"
-msgstr "Böyüklük"
-
-msgid "Skip pager"
-msgstr "Pager-ı keç"
-
-msgid "Skip taskbar"
-msgstr "Vəzifə çubuğunu keç"
-
-msgid "Slider Length"
-msgstr "Sürüşdürücü Uzunluğu"
-
-msgid "Slider Width"
-msgstr "Sürüşdürücü Eni"
-
-msgid "Smallest possible value for the \"position\" property"
-msgstr "\"position\" xassəsi üçün mümkün olan ən kiçik qiymət"
-
-msgid "Snap edge"
-msgstr "Kənarı çaxnaşdır"
-
-msgid "Snap edge set"
-msgstr "Kənarı çaxnaşdır"
-
-msgid "Snap to Ticks"
-msgstr "Hilə"
-
-msgid "Sole completion"
-msgstr "Rəng Seçkisi"
-
-msgid "Sort Type"
-msgstr "Kölgələmə növü"
-
-msgid "Sort column ID"
-msgstr "Mətn Sütünü"
-
-msgid "Sort direction the sort indicator should indicate"
-msgstr "Sıralama indikatorundakı sıralama istiqaməti buranı göstərsin:"
-
-msgid "Sort indicator"
-msgstr "Sıralama indikatoru"
-
-msgid "Sort order"
-msgstr "Süzmə əmri"
-
-msgid "Sound Theme Name"
-msgstr "Timsal Örtüyü Adı"
-
-msgid "Source option"
-msgstr "Şaquli seçənəklər"
-
-msgid "Source type for the device"
-msgstr "Ağac görünüşü modeli"
-
-msgid "Space"
-msgstr "_Yenidən Adlandır"
-
-msgid "Space between day headers and main area"
-msgstr "Genişlədici ətrafındakı boşluq"
-
-msgid "Space between value text and the slider/trough area"
-msgstr "Dəyər mətni və sürüşdürücü/dib arasındakı sahə"
-
-msgid "Space between week headers and main area"
-msgstr "Dəyər mətni və sürüşdürücü/dib arasındakı sahə"
-
-msgid "Space style"
-msgstr "Boşluq tərzi"
-
-msgid "Space to put between the label and the child"
-msgstr "Etiket ilə törəmə arasındakı yer"
-
-msgid "Spacer size"
-msgstr "Aralandırıcı böyüklüyü"
+msgid "Source"
+msgstr "Mənbə"
 
 msgid "Spacing"
 msgstr "Boşluq"
 
-msgid "Spacing around check or radio indicator"
-msgstr "İşarət və ya radio indikatoru ətrafındakı boşluq"
+msgid "Speed"
+msgstr "Sür'ət"
 
-msgid "Spacing around expander arrow"
-msgstr "Genişlədici ətrafındakı boşluq"
-
-msgid "Spacing between buttons"
-msgstr "Düymələr arasında boşluq"
-
-msgid "Spacing between elements of the area"
-msgstr "Dəyər mətni və sürüşdürücü/dib arasındakı sahə"
-
-msgid "Spacing between elements of the main dialog area"
-msgstr "Dəyər mətni və sürüşdürücü/dib arasındakı sahə"
-
-msgid "Spacing between expander arrow and caption"
-msgstr "Genişlədici ətrafındakı boşluq"
-
-msgid "Spacing between step buttons and thumb"
-msgstr "Step düymələri və thumb arasındakı məsafə"
-
-msgid "Spacing between thumb/steppers and outer trough bevel"
-msgstr "Thumb/addımlayıcılar və xarici qabartma arasındakı sahı"
-
-msgid "Spacing in pixels between the icon and label"
-msgstr "Step düymələri və thumb arasındakı məsafə"
-
-msgid "Spacing in pixels between the image and label"
-msgstr "Etiket ilə törəmə arasındakı yer"
-
-msgid "Specify how resize events are handled"
-msgstr "Ölçüləndirmə hadisələrinin necə ediləcəyini tə'yin edin"
-
-msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
-msgstr "Bütün sətirlərin eyni hündürlüyə malik olduğunu qəbul edərək GtkTreeView-nu sürətləndirir"
-
-msgid "Split Cursor"
-msgstr "Kursoru Böl"
-
-msgid "Startup ID"
-msgstr "Qrup"
-
-msgid "Step Increment"
-msgstr "Addım Artışı"
-
-msgid "Stepper Size"
-msgstr "Stepper Böyüklüyü"
-
-msgid "Stepper Spacing"
-msgstr "Stepper Boşluğu"
-
-msgid "Stock ID"
-msgstr "Stock ID"
-
-msgid "Stock ID for a stock image to display"
-msgstr "Göstəriləcək saxlama rəsmi üçün saxlama ID-si"
-
-msgid "Stock Icon"
-msgstr "Stok Timsalı"
-
-msgid "Stock Id"
-msgstr "Stok Id-si"
-
-msgid "Storage type"
-msgstr "Qövs növü"
+msgid "Standard"
+msgstr "Standart"
 
 msgid "Strikethrough"
 msgstr "Qaralanmış"
 
-msgid "Strikethrough set"
-msgstr "Qaralanmış dəstəsi"
-
 msgid "Style"
 msgstr "Tərz"
 
-msgid "Style of bevel around the contents"
-msgstr "Məzmunun ətrafındakı qabartma tərzi"
-
-msgid "Style of bevel around the menubar"
-msgstr "Menyu çubuğunun ətrafındakı qabartmanın tərzi"
-
-msgid "Style of bevel around the spin button"
-msgstr "Məzmunun ətrafındakı qabartma tərzi"
-
-msgid "Style of bevel around the statusbar text"
-msgstr "Hal çubuğu mətni ətrafındakı hopdurulmuı sahə tərzi"
-
-msgid "Style of bevel around the toolbar"
-msgstr "Vasitə çubuğu ətrafındakı bəzək tərzi"
-
-msgid "Style of items in the tool palette"
-msgstr "Vasitə çubuğu ətrafındakı bəzək tərzi"
-
-msgid "Style of underline for this text"
-msgstr "Bu mətn üçün alt cızıq tərzi"
-
-msgid "Success color"
-msgstr "Ox rəngi"
-
-msgid "Support Selection"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Symbolic size to use for stock icon, icon set or named icon"
-msgstr "Saxlama timsalı ya da timsal dəstəsi üçün istifadə ediləcək böyüklük"
-
-msgid "Sys_Req"
-msgstr "Fayl Sistemi"
+msgid "Submit"
+msgstr "Göndər"
 
 msgid "System"
-msgstr "Fayl Sistemi"
-
-msgid "TRUE if the Position property should be used"
-msgstr "Mövqe xassəsi istifadə ediləcəksə TRUE"
-
-msgid "TRUE if the window should be brought to the user's attention."
-msgstr "Pəncərə pager-də olmayacaqsa TRUE"
-
-msgid "TRUE if the window should not be in the pager."
-msgstr "Pəncərə pager-də olmayacaqsa TRUE"
-
-msgid "TRUE if the window should not be in the task bar."
-msgstr "Pəncərə vəzifə çubuğunda olmayacaqsa TRUE"
-
-msgid "TRUE if the window should receive the input focus when mapped."
-msgstr "Pəncərə giriş fokusunu almalıdırsa TRUE"
-
-msgid "TRUE if the window should receive the input focus."
-msgstr "Pəncərə giriş fokusunu almalıdırsa TRUE"
-
-msgid "TRUE if this printer is paused"
-msgstr "Mövqe xassəsi istifadə ediləcəksə TRUE"
-
-msgid "Tab Position"
-msgstr "Səkmə Yeri"
-
-msgid "Tab detachable"
-msgstr "Tab etiketi"
-
-msgid "Tab expand"
-msgstr "Tab genişləməsi"
-
-msgid "Tab fill"
-msgstr "Tab dolğusu"
-
-msgid "Tab label"
-msgstr "Tab etiketi"
-
-msgid "Tab overlap"
-msgstr "Səkmə Kənarı"
-
-msgid "Tab pack type"
-msgstr "Tab paket növü"
-
-msgid "Tab reorderable"
-msgstr "Yenidən sıraya qoyula bilən"
-
-msgid "Tabs"
-msgstr "Səkmələr"
-
-msgid "Tabs set"
-msgstr "Səkmələr dəstəsi"
-
-msgid "Tag Table"
-msgstr "Təq Cədvəli"
-
-msgid "Tag name"
-msgstr "Təq adi"
-
-msgid "Take Focus"
-msgstr "Fokusa malikdir"
-
-msgid "Tearoff State"
-msgstr "Etiketi Qopart"
-
-msgid "Tearoff Title"
-msgstr "Etiketi Qopart"
-
-msgid "Terminal Pager"
-msgstr "Çap _Nümayişi"
+msgstr "Sistem"
 
 msgid "Text"
 msgstr "Mətn"
 
-msgid "Text Buffer"
-msgstr "Buffer"
+msgid "Text Editor"
+msgstr "Mətn Editoru"
 
-msgid "Text Column"
-msgstr "Mətn Sütünü"
+msgid "Threshold"
+msgstr "Aralıq"
 
-msgid "Text Tag Table"
-msgstr "Mətn Təq Cədvəli"
-
-msgid "Text column"
-msgstr "Mətn Sütünü"
-
-msgid "Text direction"
-msgstr "Mətn istiqaməti"
-
-msgid "Text direction, e.g. right-to-left or left-to-right"
-msgstr "Mətn istiqaməti, nümunə: sağdan sola ya da soldan sağa"
-
-msgid "Text length"
-msgstr "Mətnin x tərəfləməsi"
-
-msgid "Text of the expander's label"
-msgstr "Genişlədicinin etiket mətni"
-
-msgid "Text of the frame's label"
-msgstr "Çərçivə etiketinin mətni"
-
-msgid "Text of the label widget inside the button, if the button contains a label widget"
-msgstr "Düymə daxilindəki etiket pəncərəciyinin mətni, əgər etiket pəncərəciyinə malikdirsə"
-
-msgid "Text on the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "Text to be displayed in the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "Text to render"
-msgstr "Render ediləcək mətn"
-
-msgid "Text to show in the item."
-msgstr "Üzvdə göstəriləcək mətn."
-
-msgid "Text x alignment"
-msgstr "Mətnin x tərəfləməsi"
-
-msgid "Text y alignment"
-msgstr "Mətnin y tərəfləməsi"
-
-msgid "The Accel Group to use for stock accelerator keys"
-msgstr "Sürə'tləndirici dəyişiklikləri izlənmə aralığı"
-
-msgid "The GIcon being displayed"
-msgstr "Göstəriləcək timsal dəstəsi"
-
-msgid "The GtkActionGroup this GtkAction is associated with, or NULL (for internal use)."
-msgstr "Bu GtkAction-ın əlaqələndirildiyi GtkActionGroup, ya da daxili istifadə üçün NULL."
-
-msgid "The GtkAdjustment for the horizontal position"
-msgstr "Üfqi yerləşdirmə üçün GtkSazlanması"
-
-msgid "The GtkAdjustment for the vertical position"
-msgstr "Şaquli yerləşdirmə üçün GtkSazlanması"
-
-msgid "The GtkAdjustment that contains the current value of this range object"
-msgstr "Silsilə obyektinin hazırkı dəyərini daxil edən GtkAdjustment"
-
-msgid "The GtkAdjustment that contains the current value of this scale button object"
-msgstr "Silsilə obyektinin hazırkı dəyərini daxil edən GtkAdjustment"
-
-msgid "The GtkAdjustment that determines the values of the horizontal position for this viewport"
-msgstr "Bu görünən sahənin üfqi yerinin qiymətini tə'yin edən GtkSazlaması"
-
-msgid "The GtkAdjustment that determines the values of the vertical position for this viewport"
-msgstr "Bu görünən sahənin şaquli yerinin qiymətini tə'yin edən GtkSazlaması"
-
-msgid "The GtkIconSize value that specifies the size of the rendered icon"
-msgstr "Render edilən timsalın böyüklüyünü təyin edən GtkIconSize qiyməti"
-
-msgid "The GtkIconSize value that specifies the size of the rendered spinner"
-msgstr "Render edilən timsalın böyüklüyünü təyin edən GtkIconSize qiyməti"
-
-msgid "The GtkPrinter which is selected"
-msgstr "Hazırda fəal olan üzv"
-
-msgid "The OK button of the dialog."
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The URI bound to this button"
-msgstr "Düymənin Açma/Qapama halı."
-
-msgid "The accel group holding accelerators for the menu"
-msgstr "Bu etiket üçün mnemonic sürətləndirmə düyməsi"
-
-msgid "The acceleration rate when you hold down a button"
-msgstr "Düyməni basıb saxlayanda sürətləndirmə sıxlığı"
-
-msgid "The adjustment that holds the value of the spin button"
-msgstr "Spin düyməsinin tutduğu qiymətin yaxşılaşdırması"
-
-msgid "The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that"
-msgstr "Etiketdəki mətnlərin birbirinə olan uyğunlaşması. Bu etiketin öz sahəsindəki yerinə tə'sir etmir. Bunun üçün baxın: GtkMisc::xalign"
-
-msgid "The amount of space between children"
-msgstr "Törəmələr arasındakı boşluq miqdarı"
-
-msgid "The amount of space between two consecutive columns"
-msgstr "İki ardıcıl sütun arasındakı boşluq miqdarı"
-
-msgid "The amount of space between two consecutive rows"
-msgstr "İki ardıcıl sətr arasındakı boşluq miqdarı"
-
-msgid "The amount of space to add on the left and right of the widget, in pixels"
-msgstr "Pəncərəciklərin sol və sağ tərəflərinə əlavə ediləcək sahə miqdarı, piksel olaraq"
-
-msgid "The amount of space to add on the top and bottom of the widget, in pixels"
-msgstr "Pəncərəciklərin üst və alt tərəflərinə əlavə ediləcək sahə miqdarı, piksel olaraq"
-
-msgid "The border relief style"
-msgstr "Kənar relyef tərzi"
-
-msgid "The buffer which is displayed"
-msgstr "Göstərilən buffer"
-
-msgid "The buttons shown in the message dialog"
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The cancel button of the dialog."
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The character to use when masking entry contents (in \"password mode\")"
-msgstr "Parol modunda giriləcək mətnin maskalanması üçün işlədiləcək xarakter"
-
-msgid "The child pack direction of the menubar"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The closure to be monitored for accelerator changes"
-msgstr "Sürə'tləndirici dəyişiklikləri izlənmə aralığı"
-
-msgid "The color selection embedded in the dialog."
-msgstr "Rəng seçkisi dialoqunun başlığı"
-
-msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
-msgstr "Seçdiyiniz rəng. Bunu palitra sahəsinə sürükləyərək gələcək üçün saxlaya bilərsiniz."
-
-msgid "The column in the model containing the tooltip texts for the items"
-msgstr "Data source modelindəki qatarların alınacağı sütun"
-
-msgid "The column in the model containing the tooltip texts for the rows"
-msgstr "Data source modelindəki qatarların alınacağı sütun"
-
-msgid "The column number to attach the left side of the child to"
-msgstr "Törəmənin sol tərəfinin ilişdiriləcəyi sütun nömrəsi"
-
-msgid "The column number to attach the right side of a child widget to"
-msgstr "Törəmə widget-in sağ tərəfinin ilişdiriləcəyi sütun nömrəsi"
-
-msgid "The column number to attach the right side of the child to"
-msgstr "Törəmənin sağ tərəfinin ilişdiriləcəyi sütun nömrəsi"
-
-msgid "The column of the model containing the strings."
-msgstr "Data source modelindəki qatarların alınacağı sütun"
-
-msgid "The contents of the buffer"
-msgstr "Girişin məzmunu"
-
-msgid "The contents of the entry"
-msgstr "Girişin məzmunu"
-
-msgid "The contents of the tooltip for this tray icon"
-msgstr "Girişin məzmunu"
-
-msgid "The contents of the tooltip for this widget"
-msgstr "Girişin məzmunu"
-
-msgid "The contents of the tooltip on the primary icon"
-msgstr "Girişin məzmunu"
-
-msgid "The contents of the tooltip on the secondary icon"
-msgstr "Girişin məzmunu"
-
-msgid "The current color"
-msgstr "Hazırkı rəng"
-
-msgid "The current filter for selecting which files are displayed"
-msgstr "Hansı faylların göstəriləcəyini seçən hazırkı süzgəc"
-
-msgid "The current filter for selecting which resources are displayed"
-msgstr "Hansı faylların göstəriləcəyini seçən hazırkı süzgəc"
-
-msgid "The current fraction of the task that's been completed"
-msgstr "Qurtaran bütöv işin hissəsi"
-
-msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "Hazırkı matlıq qiyməti (0 tam şəffaf, 65535 tam mat)"
-
-msgid "The current page in the document"
-msgstr "Qurğunun səhifə böyüklüyü"
-
-msgid "The current position of the insertion cursor in chars"
-msgstr "Xarakterlərdəki daxiletmə oxunun hazırkı yeri"
-
-msgid "The current value"
-msgstr "Hazırkı rəng"
-
-msgid "The currently selected menu item"
-msgstr "Hazırda seçili fayl adı"
-
-msgid "The default display for GDK"
-msgstr "GDK üçün ön qurğulu displey"
-
-msgid "The default font options for the screen"
-msgstr "İstifadə ediləcək əsas yazı növünün adı"
-
-msgid "The default height of the window, used when initially showing the window"
-msgstr "Pəncərənin ilk açılışdakı əsas hündürlüyü"
-
-msgid "The default width of the window, used when initially showing the window"
-msgstr "Pəncərənin ilk açılışdakı əsas eni"
-
-msgid "The direction the arrow should point"
-msgstr "Oxun göstərəcəyi istiqamət"
-
-msgid "The directions in which the size group affects the requested sizes of its component widgets"
-msgstr "Böyüklük qrupunun onun əlavə pəncərəciklərinin istənilən böyüklüklərinə tə'sir edəcəyi istiqamət"
-
-msgid "The event mask that decides what kind of GdkEvents this widget gets"
-msgstr "Bu pəncərəciyin nə cür genişləmə GdkHadisələrini alacağına qərar verən hadisə maskası"
-
-msgid "The fixed height"
-msgstr "Sabit hündürlük"
-
-msgid "The fixed width"
-msgstr "Sabit en"
-
-msgid "The fraction of total entry width to move the progress bouncing block for each call to gtk_entry_progress_pulse()"
-msgstr "Nəbz əmələ gələndə ilərləyən blokun daşınması lazım olan vəziyyət çubuğu uzunluğunun hissəsi"
-
-msgid "The fraction of total progress to move the bouncing block when pulsed"
-msgstr "Nəbz əmələ gələndə ilərləyən blokun daşınması lazım olan vəziyyət çubuğu uzunluğunun hissəsi"
-
-msgid "The fraction of total work that has been completed"
-msgstr "Qurtaran bütöv işin hissəsi"
-
-msgid "The height of the layout"
-msgstr "Düzülüş hündürlüyü"
-
-msgid "The help button of the dialog."
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The horizontal alignment of the label"
-msgstr "Etiketin üfüqi tərəfləməsi"
-
-msgid "The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
-msgstr "Üfqi yerləşdirmə, 0-dan (sol) 1-ə dək (sağ). RTL düzülüşlər üçün tərsinədir"
-
-msgid "The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
-msgstr "Üfqi yerləşdirmə, 0-dan (sol) 1-ə dək (sağ). RTL düzülüşlər üçün tərsinədir"
-
-msgid "The human-readable title of this item group"
-msgstr "Pəncərənin üst yazısı"
-
-msgid "The icon name to use for the printer"
-msgstr "Ağac görünüşü modeli"
-
-msgid "The icon size"
-msgstr "Vasitələr çubuğu timsal böyüklüyü"
-
-msgid "The image"
-msgstr "Qiymət"
-
-msgid "The inconsistent state of the button"
-msgstr "Düymənin zidd halı"
-
-msgid "The index of the child in the parent"
-msgstr "Qohumdakı törəmənin məzmunu (indeksi)"
-
-msgid "The index of the current page"
-msgstr "Hazırkı səhifənin məzmunu"
-
-msgid "The initial position of the window"
-msgstr "Pəncərənin başlanğıc yeri"
-
-msgid "The item which is currently active"
-msgstr "Hazırda fəal olan üzv"
-
-msgid "The keyval of the accelerator"
-msgstr "Qurğunun qiyməti"
-
-msgid "The label used for menu items and buttons that activate this action."
-msgstr "Bu gedişatı fəallaşdıran düymə və menyu üzvləri üçün işlədilən etiket."
-
-msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If not set, an appropriate default will be used."
-msgstr "ISO kodu olaraq bu mətnin dili. Pango mətni render edərkən bu mə'lumatı istifadə edə bilər."
-
-msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If you don't understand this parameter, you probably don't need it"
-msgstr "ISO kodu olaraq bu mətnin dili. Pango mətni render edərkən bu mə'lumatı istifadə edə bilər."
-
-msgid "The length of horizontal scroll arrows"
-msgstr "Üfqi sürüşdürmə çubuğunun göstərilməsi"
-
-msgid "The length of vertical scroll arrows"
-msgstr "Şaquli sürüşdürmə çubuğunun göstərilməsi"
-
-msgid "The license type of the program"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The location of the printer"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The mask that decides what kind of extension events this widget gets"
-msgstr "Bu pəncərəciyin nə cür genişləmə hadisələrini alacağına qərar verən maska"
-
-msgid "The maximum number of items to be displayed"
-msgstr "Göstəriləcək onluq sahə miqdarı"
-
-msgid "The maximum value of the adjustment"
-msgstr "Qurğunun maksimal qiyməti"
-
-msgid "The maximum width of the cell, in characters"
-msgstr "Xarakter olaraq genişlik"
-
-msgid "The metric used for the ruler"
-msgstr "Ağac görünüşü modeli"
-
-msgid "The minimum horizontal width of the progress bar"
-msgstr "Etiketin üfüqi tərəfləməsi"
-
-msgid "The minimum size of the arrow in the combo box"
-msgstr "Kombo qutusunun modeli"
-
-msgid "The minimum value of the adjustment"
-msgstr "Qurğunun minimal qiyməti"
-
-msgid "The minimum vertical height of the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "The minimum vertical width of the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "The mnemonic accelerator key for this label"
-msgstr "Bu etiket üçün mnemonic sürətləndirmə düyməsi"
-
-msgid "The model containing the possible values for the combo box"
-msgstr "Kombo qutusunun modeli"
-
-msgid "The model for cell view"
-msgstr "Ağac görünüşü modeli"
-
-msgid "The model for the TreeModelSort to sort"
-msgstr "TreeModelSort ağac görünüşü modeli üçün çeşidləmə modeli"
-
-msgid "The model for the combo box"
-msgstr "Kombo qutusunun modeli"
-
-msgid "The model for the icon view"
-msgstr "Ağac görünüşü modeli"
-
-msgid "The model for the tree view"
-msgstr "Ağac görünüşü modeli"
-
-msgid "The model to find matches in"
-msgstr "Nəticələrin tapılacağı model"
-
-msgid "The name of the icon from the icon theme"
-msgstr "Seçili yazı növünün adı"
-
-msgid "The name of the selected font"
-msgstr "Seçili yazı növünün adı"
-
-msgid "The name of the themed icon displayed on the item"
-msgstr "Üzvün üstündə göstəriləcək stok timsalı"
-
-msgid "The name of the widget"
-msgstr "Pəncərəcik adı"
-
-msgid "The number of columns in the table"
-msgstr "Cəvəldəki sütunların miqdarı"
-
-msgid "The number of decimal places that are displayed in the value"
-msgstr "Qiymətdə göstərilən onluq sahə miqdarı"
-
-msgid "The number of decimal places to display"
-msgstr "Göstəriləcək onluq sahə miqdarı"
-
-msgid "The number of pages in the document."
-msgstr "Cəvəldəki sıraların miqdarı"
-
-msgid "The number of pages that will be printed."
-msgstr "Cəvəldəki sıraların miqdarı"
-
-msgid "The number of rows in the table"
-msgstr "Cəvəldəki sıraların miqdarı"
-
-msgid "The opacity of the window, from 0 to 1"
-msgstr "Pəncərənin növü"
-
-msgid "The orientation of the orientable"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The orientation of the tray"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The pack direction of the menubar"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The padding to insert at the bottom of the widget."
-msgstr "Widget-in alt tərəfinə əlavə ediləcək kənar"
-
-msgid "The padding to insert at the left of the widget."
-msgstr "Widget-in sol tərəfinə əlavə ediləcək kənar"
-
-msgid "The padding to insert at the right of the widget."
-msgstr "Widget-in sağ tərəfinə əlavə ediləcək kənar"
-
-msgid "The padding to insert at the top of the widget."
-msgstr "Widget-in üst tərəfinə əlavə ediləcək kənar"
-
-msgid "The page increment of the adjustment"
-msgstr "Qurğunun səhifə artışı"
-
-msgid "The page size of the adjustment"
-msgstr "Qurğunun səhifə böyüklüyü"
-
-msgid "The parent widget of this widget. Must be a Container widget"
-msgstr "Bu pəncərəciyin qohum pəncərəciyi. Daşıyıcı pəncərəcik olmalıdır"
-
-msgid "The parent window"
-msgstr "Pəncərənin növü"
-
-msgid "The pixbuf to render"
-msgstr "Render ediləcək piksbuf"
-
-msgid "The position in which the current value is displayed"
-msgstr "Hazırkı dəyərin göstəriləcəyi mövqe"
-
-msgid "The position of the image relative to the text"
-msgstr "Törəmə pəncərəciyinə nəzarən qulpun yeri"
-
-msgid "The position of the opposite end of the selection from the cursor in chars"
-msgstr "Seçimin tərs tərəfinin kursordan hərf miqdarı qədər olan mövqeyi"
-
-msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
-msgstr "Əvvəlcə seçili olan rəng, indi seçdiyiniz rəng ilə müqayisə etmək üçün. Bu üəngo palitraya sürükləyə bilərsiniz ya da fırçaya alaraq həmən işlədə bilərsiniz."
-
-msgid "The primary text of the message dialog"
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The primary text of the title includes Pango markup."
-msgstr "Etiketin mətni XML işarələrini daxil edir. Baxın: pango_parse_markup()"
-
-msgid "The radio action whose group this action belongs to."
-msgstr "Bu gedişatın ait olduğu qərar gedişatı qrupu."
-
-msgid "The radio button whose group this widget belongs to."
-msgstr "Bu pəncərəciyin ait olduğu qərar düyməsi qrupu"
-
-msgid "The radio menu item whose group this widget belongs to."
-msgstr "Bu pəncərəciyin ait olduğu qərar düyməsi qrupu"
-
-msgid "The radio tool button whose group this button belongs to."
-msgstr "Bu pəncərəciyin ait olduğu qərar düyməsi qrupu"
-
-msgid "The representation being used for image data"
-msgstr "Rəsm verilənləri üçün istifadə ediləcək təmsil"
-
-msgid "The representation being used for primary icon"
-msgstr "Rəsm verilənləri üçün istifadə ediləcək təmsil"
-
-msgid "The representation being used for secondary icon"
-msgstr "Rəsm verilənləri üçün istifadə ediləcək təmsil"
-
-msgid "The resolution for fonts on the screen"
-msgstr "Silsilənin ekranda necə güncəllənəcəyi"
-
-msgid "The row number to attach the bottom of the child to"
-msgstr "Törəmənin alt tərəfinin ilişdiriləcəyi sütun nömrəsi"
-
-msgid "The row number to attach the top of a child widget to"
-msgstr "Törəmənin üst tərəfinin ilişdiriləcəyi sətir nömrəsi"
-
-msgid "The row number to attach the top of the child to"
-msgstr "Törəmənin üst tərəfinin ilişdiriləcəyi sütun nömrəsi"
-
-msgid "The screen where this status icon will be displayed"
-msgstr "Bu pəncərənin göstəriləcəyi ekran"
-
-msgid "The screen where this window will be displayed"
-msgstr "Bu pəncərənin göstəriləcəyi ekran"
-
-msgid "The screen where this window will be displayed."
-msgstr "Bu pəncərənin göstəriləcəyi ekran"
-
-msgid "The secondary text of the message dialog"
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The selected color"
-msgstr "Seçili rəng"
-
-msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
-msgstr "Seçili gün"
-
-msgid "The selected month (as a number between 0 and 11)"
-msgstr "Seçili ay (0 ilə 11 arasında rəqəm)"
-
-msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "Hazırkı şəffaflıq qiyməti (0 tam şəffaf, 65535 tam mat)"
-
-msgid "The selected year"
-msgstr "Seçili il"
-
-msgid "The selection mode"
-msgstr "Seçili il"
-
-msgid "The size of icons in default toolbars."
-msgstr "Əsas vasitə çubuğundakı timsal böyüklükləri"
-
-msgid "The size of the icon"
-msgstr "Pəncərənin üst yazısı"
-
-msgid "The sorting order of the items displayed"
-msgstr "Düymənin açma/qapama halı göstərilməsi"
-
-msgid "The status of the print operation"
-msgstr "Düymənin Açma/Qapama halı."
-
-msgid "The step increment of the adjustment"
-msgstr "Qurğunun addım artışı"
-
-msgid "The stock ID of the stock icon to render"
-msgstr "Saxlama timsalının render ediləcək saxlama ID-si"
-
-msgid "The stock icon displayed in widgets representing this action."
-msgstr "Bu gedişatı təmsil edən widget-lərdə göstəriləcək stok timsalı."
-
-msgid "The stock icon displayed on the item"
-msgstr "Üzvün üstündə göstəriləcək stok timsalı"
-
-msgid "The string displayed in the child's menu entry"
-msgstr "Törəmə menyu girişində göstəriləcək qatar (mətn)"
-
-msgid "The string displayed on the child's tab label"
-msgstr "Törəmə səkməsinin etiketində göstəriləcək qatar (mətn)"
-
-msgid "The string that represents this font"
-msgstr "Bu yazı növünü təmsil edən X qatarı"
-
-msgid "The style of the widget, which contains information about how it will look (colors etc)"
-msgstr "Pəncərəciyin necə görsənəcəyi (rəng və s.) haqqında mə'lumatı daxil edən tərz"
-
-msgid "The text for the child label"
-msgstr "Etiketin mətni"
-
-msgid "The text of the label"
-msgstr "Etiketin mətni"
-
-msgid "The text of the label includes XML markup. See pango_parse_markup()"
-msgstr "Etiketin mətni XML işarələrini daxil edir. Baxın: pango_parse_markup()"
-
-msgid "The text to display in order to demonstrate the selected font"
-msgstr "Seçili yazı növü nümayişində göstəriəcək nümayiş mətni"
-
-msgid "The time before hiding a submenu when the pointer is moving towards the submenu"
-msgstr "Oxun alt menyu istiqamətində hərəkət etdiyi vaxt alt menyunun gizlədilməsi üçün vaxt"
-
-msgid "The title of the assistant page"
-msgstr "Pəncərənin üst yazısı"
-
-msgid "The title of the color selection dialog"
-msgstr "Rəng seçkisi dialoqunun başlığı"
-
-msgid "The title of the file chooser dialog."
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "The title of the font selection dialog"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "The title of the window"
-msgstr "Pəncərənin üst yazısı"
-
-msgid "The title of this tray icon"
-msgstr "Pəncərənin üst yazısı"
-
-msgid "The toggle button can be activated"
-msgstr "Açma/Qapama düyməsi fəalaşdırıla bilər"
-
-msgid "The toggle state of the button"
-msgstr "Düymənin Açma/Qapama halı."
-
-msgid "The transient parent of the dialog"
-msgstr "İsmarış dialoqunda yer alan düymələr"
-
-msgid "The type of accelerators"
-msgstr "İsmarış növü"
-
-msgid "The type of message"
-msgstr "İsmarış növü"
-
-msgid "The type of operation that the file selector is performing"
-msgstr "Fayl seçicinin həyata keçirdiyi əməliyyat növü"
-
-msgid "The type of the assistant page"
-msgstr "İsmarış növü"
-
-msgid "The type of the window"
-msgstr "Pəncərənin növü"
-
-msgid "The value"
-msgstr "Qiymət"
-
-msgid "The value of the adjustment"
-msgstr "Qurğunun qiyməti"
-
-msgid "The value of the scale"
-msgstr "Qurğunun qiyməti"
-
-msgid "The value returned by gtk_radio_action_get_current_value() when this action is the current action of its group."
-msgstr "Bu gedişatın onun qrupunun hazırkı gedişatı olduğunda gtk_radio_action_get_current_value() tərəfindən qaytarılan qiymət."
-
-msgid "The version of the program"
-msgstr "Vasitə çubuğu istiqaməti"
-
-msgid "The vertical alignment of the label"
-msgstr "Etiketin şaquli tərəfləməsi"
-
-msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
-msgstr "Şaquli yerləşdirmə, 0-dan (üst) 1-ə dək (alt)"
-
-msgid "The vertical text alignment, from 0 (top) to 1 (bottom)."
-msgstr "Şaquli yerləşdirmə, 0-dan (üst) 1-ə dək (alt)"
-
-msgid "The widget the menu is attached to"
-msgstr "Menyu üzvünün işarətli olub olmaması"
-
-msgid "The widget to be activated when the label's mnemonic key is pressed"
-msgstr "Pəncərəcik etiketin mnemonic düyməsi basılanda fəallaşdırılacaq"
-
-msgid "The widget to be monitored for accelerator changes"
-msgstr "Sürə'tləndirici dəyişiklikləri izlənəcək widget"
-
-msgid "The width at which the text is wrapped"
-msgstr "Hazırkı dəyərin göstəriləcəyi mövqe"
-
-msgid "The width of the empty border outside the containers children"
-msgstr "Konteyner törəmələrinin xaricindəki boş skənarların eni"
-
-msgid "The width of the layout"
-msgstr "Düzülüş eni"
-
-msgid "The window gravity of the window"
-msgstr "Pəncərənin pəncərə yer çəkimi"
-
-msgid "The window of the socket the plug is embedded in"
-msgstr "Gedişatın görünməsi"
-
-msgid "The x-align"
-msgstr "x tərəfləməsi"
-
-msgid "The xpad"
-msgstr "x səkməsi"
-
-msgid "The y-align"
-msgstr "y tərəfləməsi"
-
-msgid "The ypad"
-msgstr "y səkməsi"
-
-msgid "Theme Name"
-msgstr "Örtük Adı"
-
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "Tigrigna-Eritrean (EZ+)"
-
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "Tigrigna-Efiopiyaca (EZ+)"
-
-msgid "Time after which the cursor stops blinking, in seconds"
-msgstr "Millisaniyə qiymətində kursorun yanıb sönmə vaxtı"
-
-msgid "Timeout after which browse mode is disabled"
-msgstr "Göstərilən buffer"
+msgid "Time"
+msgstr "Vaxt"
 
 msgid "Title"
 msgstr "Başlıq"
 
-msgid "Title of the print job"
-msgstr "Pəncərənin üst yazısı"
+msgid "Translate"
+msgstr "Tərcümə et"
 
-msgid "Title to appear in column header"
-msgstr "Sütun başlığındakı bənd"
-
-msgid "Toggle state"
-msgstr "Açma/Qapama halı"
-
-msgid "Toolbar Icon Size"
-msgstr "Vasitələr çubuğu timsal böyüklüyü"
-
-msgid "Toolbar Style"
-msgstr "Vasitə Çubuğu Tərzi"
-
-msgid "Toolbar style"
-msgstr "Vasitə çubuğu tərzi"
-
-msgid "Tooltip"
-msgstr "Məsləhət"
-
-msgid "Tooltip Column"
-msgstr "Mətn Sütünü"
-
-msgid "Tooltip Text"
-msgstr "Məsləhət"
-
-msgid "Tooltip markup"
-msgstr "Məsləhət"
-
-msgid "Tooltip timeout"
-msgstr "Məsləhət"
-
-msgid "Top Attach"
-msgstr "Üst Əlavə"
-
-msgid "Top Padding"
-msgstr "Üst Kənarlama"
-
-msgid "Top attachment"
-msgstr "Üst əlavə"
-
-msgid "Track visited links"
-msgstr "Yazı növü seçmə dialoqunun etiketi"
-
-msgid "Transparency of the color."
-msgstr "Rəngin şəffaflığı."
-
-msgid "Tree line pattern"
-msgstr "Fokus sətiri tire naxışı"
-
-msgid "Tree line width"
-msgstr "Sabit en"
-
-msgid "TreeModel column containing the column span values"
-msgstr "Sütun span qiymətlərini daxil edən TreeModel sütünu"
-
-msgid "TreeModel column containing the row span values"
-msgstr "Sətir span qiymətlərini daxil edən TreeModel sütünu"
-
-msgid "TreeModelSort Model"
-msgstr "TreeModelSort Modeli"
-
-msgid "TreeView Model"
-msgstr "AğacGörünüşü Modeli"
-
-msgid "Trough Border"
-msgstr "Oluqlu Kənar"
-
-msgid "Truncate multiline"
-msgstr "Birdən çoxunu seç"
-
-msgid "Type hint"
-msgstr "İpucunu yaz"
-
-msgid "Type name of new folder"
-msgstr "Yeni qovluğun adını yazın"
-
-msgid "Type of bevel around toolbar buttons"
-msgstr "Vasitə çubuğu düymələri ətrafındakı bəzək tərzi"
-
-msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
-msgstr "Altpiksel yumuşaltmasının növü; none, rgb, bgr, vrgb, vbgr"
-
-msgid "Unable to find an item with URI '%{string}'"
-msgstr "Include faylı tapıla bilmədi: \"%{string}\""
-
-msgid "Unable to find include file: \"%{string}\""
-msgstr "Include faylı tapıla bilmədi: \"%{string}\""
-
-msgid "Unable to locate image file in pixmap_path: \"%{string}\""
-msgstr "Pixmap_path-dəki rəsm faylının yeri tapıla bilmir:  \"%{string}\""
-
-msgid "Unable to locate theme engine in module_path: \"%{string}\","
-msgstr "Örtük mühərrikini \"module_path\"da tapa bilmirəm: \"%{string}\","
+msgid "Type"
+msgstr "Növ"
 
 msgid "Underline"
 msgstr "Alt cızıqlı"
 
-msgid "Underline set"
-msgstr "Altı cızıqlı dəstəsi"
-
-msgid "Unique identifier for the window to be used when restoring a session"
-msgstr "İclas bərpa ediləndə işlədiləcək xüsusi pəncərə tanıdıcısı"
-
-msgid "Unique startup identifier for the window used by startup-notification"
-msgstr "İclas bərpa ediləndə işlədiləcək xüsusi pəncərə tanıdıcısı"
+msgid "Undo"
+msgstr "Qaytar"
 
 msgid "Unknown"
-msgstr "Namə'lum"
+msgstr "Naməlum"
 
-msgid "Unknown item"
-msgstr "Namə'lum"
+msgid "Untitled"
+msgstr "Adsız"
 
-msgid "Unvisited Link Color"
-msgstr "Hazırkı Rəng"
+msgid "User"
+msgstr "İstifadəçilər"
 
-msgid "Up"
-msgstr "Ü_stə"
+msgid "User Interface"
+msgstr "İstifadəçi Ara Üzü"
 
-msgid "Update Policy"
-msgstr "Güncəlləmə Siyasəti"
-
-msgid "Update policy"
-msgstr "Güncəlləmə siyasəti"
-
-msgid "Upper"
-msgstr "Qaldır"
-
-msgid "Upper limit of ruler"
-msgstr "Xətkeşin üst sərhədi"
-
-msgid "Use Markup"
-msgstr "İşarə işlət"
-
-msgid "Use Preview Label"
-msgstr "Ön Nümayiş Etiketini İşlət"
-
-msgid "Use alpha"
-msgstr "Alfa işlət"
-
-msgid "Use font in label"
-msgstr "Etiketdə yazı növü işlət"
-
-msgid "Use full page"
-msgstr "Alfa işlət"
-
-msgid "Use markup"
-msgstr "İşarə işlət"
-
-msgid "Use size in label"
-msgstr "Etiketdə böyüklüyü işlət"
-
-msgid "Use stock"
-msgstr "Depo işlət"
-
-msgid "Use underline"
-msgstr "Alt cızıq işlət"
-
-msgid "Username:"
-msgstr "_Yenidən Adlandır"
+msgid "Username"
+msgstr "İstifadəçi adı"
 
 msgid "Value"
 msgstr "Qiymət"
 
-msgid "Value Position"
-msgstr "Qiymət Yeri"
-
-msgid "Value of the progress bar"
-msgstr "İrəliləmə çubuğunda göstəriləcək mətn"
-
-msgid "Value spacing"
-msgstr "Qiymət boşluğu"
-
-msgid "Vertical Adjustment"
-msgstr "Şaquli Yayılma"
-
-msgid "Vertical Adjustment for the widget"
-msgstr "Pəncərəciyin Şaquli Yayılması"
+msgid "Vertical"
+msgstr "Şaquli"
 
 msgid "Vertical Alignment"
 msgstr "Şaquli Səviyyələmə"
 
-msgid "Vertical Offset"
-msgstr "Şaquli Offset"
-
-msgid "Vertical Padding"
-msgstr "Şaquli Səviyyələmə"
-
-msgid "Vertical Scroll Arrow Length"
-msgstr "Şaquli sürüşmə çubuğu xassələri"
-
-msgid "Vertical Scrollbar Policy"
-msgstr "Şaquli sürüşmə çubuğu xassələri"
-
-msgid "Vertical Separator Width"
-msgstr "Şaquli Ayırıcı Eni"
-
-msgid "Vertical adjustment"
-msgstr "Şaquli yayma"
-
-msgid "Vertical alignment"
-msgstr "Şaquli səviyyələmə"
-
-msgid "Vertical alignment for child"
-msgstr "Törəmənin şaquli səviyyələməsi"
-
-msgid "Vertical options"
-msgstr "Şaquli seçənəklər"
-
-msgid "Vertical padding"
-msgstr "Şaquli səviyyələmə"
-
-msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
-msgstr "Mövcud sahədə törəmənin şaquli. 0.0 üstə, 1.0 aşağı tərəfləndirmədir"
-
-msgid "Vertical scale"
-msgstr "Şaquli miqyas"
-
-msgid "Vertical separation"
-msgstr "Şaquli seçənəklər"
-
-msgid "Vertical space between cells.  Must be an even number"
-msgstr "Hüceyrələr arasındakı şaquli aralıq. Cüt rəqəm olmalıdır"
-
-msgid "Vietnamese (VIQR)"
-msgstr "Vyetnamca (VIQR)"
-
-msgid "View allows user to search through columns interactively"
-msgstr "Görünüş, istifadəçilərə model sütunları içində axtarma imkanı verir"
-
-msgid "View has expanders"
-msgstr "Genişləndiricidir"
-
-msgid "View is reorderable"
-msgstr "Görünüş yenidən sıraya qoyula bilər"
-
-msgid "Visibility"
-msgstr "Görünmə Qabiliyyəti"
-
-msgid "Visible"
-msgstr "Görünən"
-
-msgid "Visible Window"
-msgstr "Görünən Pəncərə"
-
-msgid "Visible when horizontal"
-msgstr "Üfüqi ikən görünən"
-
-msgid "Visible when overflown"
-msgstr "Şaquli ikən görünən"
-
-msgid "Visible when vertical"
-msgstr "Şaquli ikən görünən"
-
-msgid "Visited"
-msgstr "Görünən"
-
-msgid "Visited Link Color"
-msgstr "Hazırkı Rəng"
-
 msgid "Volume"
-msgstr "_Qiymət:"
-
-msgid "Waiting"
-msgstr "Xəbərdarlıq"
+msgstr "Səs Həcmi"
 
 msgid "Warning"
 msgstr "Xəbərdarlıq"
 
-msgid "Warning color"
-msgstr "Arxa plan rəngi"
-
-msgid "Website label"
-msgstr "Etiketdə böyüklüyü işlət"
-
-msgid "What degree of hinting to use; hintnone, hintslight, hintmedium, or hintfull"
-msgstr "İşlədiləcək zərifləndirmə dərəcəsi; none, slight, medium, or full"
-
-msgid "When TRUE, empty menu proxies for this action are hidden."
-msgstr "TRUE olanda, bu gedişat üçün boş menyu vəkilləri gizli olacaqdır."
-
-msgid "When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu."
-msgstr "TRUE olanda, bu gedişat üçün boş menyu vəkilləri gizli olacaqdır."
-
-msgid "When the horizontal scrollbar is displayed"
-msgstr "Üfqi sürüşdürmə çubuğunun göstərilməsi"
-
-msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
-msgstr "Menyu alt menyu isə, onu bu qədər piksel offset üfüqi olaraq yerləşdir"
-
-msgid "When the menu is a submenu, position it this number of pixels offset vertically"
-msgstr "Menyu alt menyu isə, onu bu qədər piksel offset şaquli olaraq yerləşdir"
-
-msgid "When the vertical scrollbar is displayed"
-msgstr "Şaquli sürüşdürmə çubuğunun göstərilməsi"
-
-msgid "Where the contents are located with respect to the scrollbars. This property only takes effect if \"window-placement-set\" is TRUE."
-msgstr "Sürüşdürmə çubuqlarına nəzarən məzmunun mövqeyi"
-
-msgid "Where the contents of scrolled windows are located with respect to the scrollbars, if not overridden by the scrolled window's own placement."
-msgstr "Sürüşdürmə çubuqlarına nəzarən məzmunun mövqeyi"
-
-msgid "Whether Tab will result in a tab character being entered"
-msgstr "Tab düyməsinin basışında tab hərfinin daxil edilməsi"
-
-msgid "Whether \"window-placement\" should be used to determine the location of the contents with respect to the scrollbars."
-msgstr "Sürüşdürmə çubuqlarına nəzarən məzmunun mövqeyi"
-
-msgid "Whether a palette should be used"
-msgstr "Paletlərin harda işlədilib işlədilməyəcəyi"
-
-msgid "Whether a spin button should wrap upon reaching its limits"
-msgstr "Döndərmə düyməsinin öz sərhədlərinə çatanda qırılması"
-
-msgid "Whether activatable icons should prelight when hovered"
-msgstr "Səkmələrin harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether buttons in dialogs should use the alternative button order"
-msgstr "Düymələrdə stik timsalların göstəriləcəyi"
-
-msgid "Whether default toolbars have text only, text and icons, icons only, etc."
-msgstr "Əsas vasitə çubuqlarında ancaq mətn, mətn və timsallar, ancaq timsallar və s. göstəriləcəyi"
-
-msgid "Whether dropdowns should have a tearoff menu item"
-msgstr "Səkmələrin harda homojen böyüklükləri olacağı"
-
-msgid "Whether dropdowns should look like lists rather than menus"
-msgstr "Combobox açılışlarının menyu yerinə siyahı olaraq göstərilməsi"
-
-msgid "Whether entered text overwrites existing contents"
-msgstr "Girilən mətnin mövcud məzmunu əvəz etməsi"
-
-msgid "Whether erroneous values are automatically changed to a spin button's nearest step increment"
-msgstr "Səhv dəyərlərin döndərmə düyməsinin ən yaxın addım artımına avtomatik dəyişdirilməsi"
-
-msgid "Whether extra space given to the child should be allocated to the child or used as padding"
-msgstr "Törəməyə verilən əlavə boşluğun törəməyə mi ait olması ya da törəmənin çətrməsi olaraq işlədiləcəyi"
-
-msgid "Whether grid lines should be drawn in the tree view"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether gtk_widget_show_all() should not affect this widget"
-msgstr "gtk_widget_show_all()-in bu widget-ə təsir etməməsi"
-
-msgid "Whether images should be shown in menus"
-msgstr "Menyularda rəsmlərin göstərilməsi"
-
-msgid "Whether images should be shown on buttons"
-msgstr "Menyularda rəsmlərin göstərilməsi"
-
-msgid "Whether labels should have mnemonics"
-msgstr "Səkmələrin harda homojen böyüklükləri olacağı"
-
-msgid "Whether menu accelerators can be changed by pressing a key over the menu item"
-msgstr "Menyu sürətləndiricilərin münyu üzvünün üstündə ikən düyməyə basılaraq dəyişdirilə bilməsi"
-
-msgid "Whether menu items should have accelerators"
-msgstr "Menyulara ayırma qulplarının əlavə edilməsi"
-
-msgid "Whether mnemonics are currently visible in this window"
-msgstr "Hazırki pəncərənin ən üst səviyyə pəncərəsi olması"
-
-msgid "Whether new text overwrites existing text"
-msgstr "Girilən mətnin mövcud məzmunu əvəz etməsi"
-
-msgid "Whether non-numeric characters should be ignored"
-msgstr "Numerik olmayan xarakterlərin nəzərə alınmaması"
-
-msgid "Whether rows should be expanded/collapsed when the pointer moves over them"
-msgstr "Pəncərənin pəncərə idarəçisi tərəfindən bəzənməsi"
-
-msgid "Whether selected font size is shown in the label"
-msgstr "Etiketdə seçili yazı növünün böyüklüyünün göstərilməsi"
-
-msgid "Whether spacers are vertical lines or just blank"
-msgstr "Boşluqların şaquli sətrlər mi yoxsa adi boşluq mu olması"
-
-msgid "Whether tabs should be shown"
-msgstr "Səkmələrin harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether tearoff menu items should be added to menus"
-msgstr "Menyulara ayırma qulplarının əlavə edilməsi"
-
-msgid "Whether the action group is enabled."
-msgstr "Gedişat qrupunun fəal olması."
-
-msgid "Whether the action group is visible."
-msgstr "Gedişat qrupunun görünən olması."
-
-msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
-msgstr "Gedişatın vacim sayılması. TRUE isə, bu gedişatın toolitem vəkilləri mətni GTK_TOOLBAR_BOTH_HORIZ modunda göstərəcəkdir."
-
-msgid "Whether the action is enabled."
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the action is visible."
-msgstr "Gedişatın görünməsi"
-
-msgid "Whether the application has a selection"
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the application prefers to have a dark theme."
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the application supplied widget for custom previews should be shown."
-msgstr "Xüsusi ön nümayişlər üçün proqram tərəfindən verilən widget-in göstərilməsi."
-
-msgid "Whether the application will paint directly on the widget"
-msgstr "Proqramın pəncərəcik üstündə birbaşa rəngləndirmə edəcəyi"
-
-msgid "Whether the background color fills the entire line height or only the height of the tagged characters"
-msgstr "Arxa plan rəngi bütün hündürlüyü mü yoxsa müəyyənləşdirilmiş təqli xarakterlərini mi dolduracaq"
-
-msgid "Whether the border should be shown"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether the buffer has some text currently selected"
-msgstr "Hazırda seçili olan GdkFont"
-
-msgid "Whether the button grabs focus when it is clicked with the mouse"
-msgstr "Mətnin siçanla tıqlandığında fokusu alması"
-
-msgid "Whether the cell renderer is currently in editing mode"
-msgstr "Etiketin seçili yazı növündə göstərilməsi"
-
-msgid "Whether the child should receive extra space when the parent grows"
-msgstr "Valideyn böyüyəndə törəmələrin əlavə sahə alması"
-
-msgid "Whether the child's tab should fill the allocated area"
-msgstr "Törəmə tabının ayrılmış yerin hamısını doldurub doldurması"
-
-msgid "Whether the children should all be the same size"
-msgstr "Törəmənin eyni böyüklükdə olub olmayacağı"
-
-msgid "Whether the color selector should allow setting opacity"
-msgstr "Rəng seçicisinin harda matlıq qurğusunu alıb ala bilməyəcəyi"
-
-msgid "Whether the column can be reordered around the headers"
-msgstr "Sütünün başlıqlar ətrafında yenidən sıralanıb sıralanamayacağı"
-
-msgid "Whether the combo box draws a frame around the child"
-msgstr "Sütünün başlıqlar ətrafında yenidən sıralanıb sıralanamayacağı"
-
-msgid "Whether the combo box grabs focus when it is clicked with the mouse"
-msgstr "Mətnin siçanla tıqlandığında fokusu alması"
-
-msgid "Whether the combo's dropdown is shown"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether the common prefix should be inserted automatically"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether the completions should be shown in a popup window"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether the current value is displayed as a string next to the slider"
-msgstr "Hazırkı dəyərin sürüşdürücünün yanında qatar olaraq göstəriləcəyi"
-
-msgid "Whether the cursor should blink"
-msgstr "Oxun yanəb sönməsi"
-
-msgid "Whether the device has a cursor"
-msgstr "Pəncərəciyin giriş fokusuna malikiyyəti"
-
-msgid "Whether the dialog supports selection"
-msgstr "Etiketin seçili yazı növündə göstərilməsi"
-
-msgid "Whether the dropdown button is sensitive when the model is empty"
-msgstr "Mətnin siçanla tıqlandığında fokusu alması"
-
-msgid "Whether the entry contents can be edited"
-msgstr "Daxəl edilən xülasənin harda düzəldilə biləcəyi"
-
-msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
-msgstr "Hadisə qutusunu görünməsi."
-
-msgid "Whether the event-trapping window of the eventbox is above the window of the child widget as opposed to below it."
-msgstr "Hadisə qutusunun hadisə-aşkar pəncərəsi törəmə widget pəncərəsinin üstündə ya da altında olması."
-
-msgid "Whether the expander has been opened to reveal the child widget"
-msgstr "Genişlədicinin törəmə widget-i aşkar etmək üçün açıq oluşu"
-
-msgid "Whether the group has been collapsed and items are hidden"
-msgstr "Genişlədicinin törəmə widget-i aşkar etmək üçün açıq oluşu"
-
-msgid "Whether the header can be clicked"
-msgstr "Başlığın tıqlanma qabiliyyəti"
-
-msgid "Whether the hidden files and folders should be displayed"
-msgstr "Gizli fayl ya da qovluqların göstərilməsi"
-
-msgid "Whether the icon-size property has been set"
-msgstr "Gedişat qrupunun fəal olması."
-
-msgid "Whether the image will always be shown"
-msgstr "Pəncərəcəyin görünməsi"
-
-msgid "Whether the input focus is within this GtkWindow"
-msgstr "Giriş fokusunun bu GtkPəncərəsi-nin içində olacağı"
-
-msgid "Whether the invisible character has been set"
-msgstr "Gedişat qrupunun fəal olması."
-
-msgid "Whether the item group should be the only expanded at a given time"
-msgstr "Menyulara ayırma qulplarının əlavə edilməsi"
-
-msgid "Whether the item group should receive extra space when the palette grows"
-msgstr "Valideyn böyüyəndə törəmələrin əlavə sahə alması"
-
-msgid "Whether the item should be the same size as other homogeneous items"
-msgstr "Üzvün digər homojen üzvlərlə eyni böyüklükdə olub olmayacağı"
-
-msgid "Whether the item should fill the available space"
-msgstr "Törəmənin eyni böyüklükdə olub olmayacağı"
-
-msgid "Whether the item should receive extra space when the group grows"
-msgstr "Vasitə çubuğu böyüyəndə üzvün əlavə sahə alması"
-
-msgid "Whether the item should receive extra space when the toolbar grows"
-msgstr "Vasitə çubuğu böyüyəndə üzvün əlavə sahə alması"
-
-msgid "Whether the item should start a new row"
-msgstr "Menyulara ayırma qulplarının əlavə edilməsi"
-
-msgid "Whether the items pointing to unavailable resources should be displayed"
-msgstr "Gizli fayl ya da qovluqların göstərilməsi"
-
-msgid "Whether the items should be displayed with a number"
-msgstr "Menyulara ayırma qulplarının əlavə edilməsi"
-
-msgid "Whether the label is drawn in the selected font"
-msgstr "Etiketin seçili yazı növündə göstərilməsi"
-
-msgid "Whether the label is drawn with the selected font size"
-msgstr "Etiketin seçili yazı növü böyüklüyündə göstərilməsi"
-
-msgid "Whether the label is in single line mode"
-msgstr "Etiketin seçili yazı növündə göstərilməsi"
-
-msgid "Whether the label text can be selected with the mouse"
-msgstr "Etiketin mətninin siçan ilə seçilə bilməsi"
-
-msgid "Whether the label widget should fill all available horizontal space"
-msgstr "Törəmənin eyni böyüklükdə olub olmayacağı"
-
-msgid "Whether the mark has left gravity"
-msgstr "Bu təqin yazı növü ailəsinə harda tə'sir edəcəyi"
-
-msgid "Whether the menu item is checked"
-msgstr "Menyu üzvünün işarətli olub olmaması"
-
-msgid "Whether the menu item looks like a radio menu item"
-msgstr "Menyu üzvünün qərar menyusu üzvü olaraq göstərilməsi"
-
-msgid "Whether the plug is embedded"
-msgstr "Gedişatın görünməsi"
-
-msgid "Whether the primary icon is activatable"
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the primary icon is sensitive"
-msgstr "Siyahı üzvü uyğunlaşması kiçik-böyük hərflərə həssassa"
-
-msgid "Whether the private items should be displayed"
-msgstr "Gizli fayl ya da qovluqların göstərilməsi"
-
-msgid "Whether the progress is shown as text."
-msgstr "Gedişatın mətn olaraq göstərilməsi"
-
-msgid "Whether the proxies for this action look like radio action proxies"
-msgstr "Bu gedişat vəkillərinin qərar gedişatı vəkillərinə bənzəməsi"
-
-msgid "Whether the rendered pixbuf should be colorized according to the state"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether the secondary icon is activatable"
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the secondary icon is sensitive"
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the selected file(s) should be limited to local file: URLs"
-msgstr "Seçili fay(lar)ın yerli fayl ilə məhdudlaşdırılması: URL-lər"
-
-msgid "Whether the selected font style is shown in the label"
-msgstr "Etiketdə seçili yazı növünün tərzinin göstərilməsi"
-
-msgid "Whether the selected resource(s) should be limited to local file: URIs"
-msgstr "Seçili fay(lar)ın yerli fayl ilə məhdudlaşdırılması: URL-lər"
-
-msgid "Whether the selection should follow the pointer"
-msgstr "Rəng seçicisinin harda matlıq qurğusunu alıb ala bilməyəcəyi"
-
-msgid "Whether the separator is drawn, or just blank"
-msgstr "Ayırıcının göstərilməsi ya da sadəcə boş olması"
-
-msgid "Whether the spin button should update always, or only when the value is legal"
-msgstr "Döndərmə düyməsinin həmişə güncəlləməsi, ya da ancaq dəyər düzgündürsə"
-
-msgid "Whether the spinner is active"
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the spinner is active (ie. shown) in the cell"
-msgstr "Etiketdə seçili yazı növünün tərzinin göstərilməsi"
-
-msgid "Whether the status icon is embedded"
-msgstr "Gedişatın görünməsi"
-
-msgid "Whether the status icon is visible"
-msgstr "Gedişatın görünməsi"
-
-msgid "Whether the statusbar has a grip for resizing the toplevel"
-msgstr "Vəziyyət çubuğunun üst səviyyəni ölçüləndirmək üçün qulpunun olması"
-
-msgid "Whether the tab is detachable"
-msgstr "Gedişatın fəal olması."
-
-msgid "Whether the tab is reorderable by user action"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether the text can be modified by the user"
-msgstr "Mətn harada istifadəçi tərəfindən dəyişdirilə bilər"
-
-msgid "Whether the toggle action should be active"
-msgstr "Dəyişdirmə düyməsinin basıla bilmə halı"
-
-msgid "Whether the toolbar item is considered important. When TRUE, toolbar buttons show text in GTK_TOOLBAR_BOTH_HORIZ mode"
-msgstr "Vasitə çubuğu üzvünün vacib sayılması. TRUE isə, vasitə çubuğu düymələri mətni GTK_TOOLBAR_BOTH_HORIZ modunda göstərəcəkdir"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
-msgstr "Vasitə çubuğunun üfüqi istiqamətdə olduğu zaman vasitə çubuğu üzvünün göstərilməsi."
-
-msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
-msgstr "Vasitə çubuğunun şaquli istiqamətdə olduğu zaman vasitə çubuğu üzvünün göstərilməsi."
-
-msgid "Whether the toplevel is the current active window"
-msgstr "Hazırki pəncərənin ən üst səviyyə pəncərəsi olması"
-
-msgid "Whether the widget can accept the input focus"
-msgstr "Pəncərəciyin giriş fokusunu ala bilməsi"
-
-msgid "Whether the widget can be the default widget"
-msgstr "Pəncərəciyin əsas pəncərəcik ola bilməsi"
-
-msgid "Whether the widget has the input focus"
-msgstr "Pəncərəciyin giriş fokusuna malikiyyəti"
-
-msgid "Whether the widget is double buffered"
-msgstr "Gedişatın görünməsi"
-
-msgid "Whether the widget is part of a composite widget"
-msgstr "Pəncərəciyin əsas pəncərəciyin hissəsi olması"
-
-msgid "Whether the widget is the default widget"
-msgstr "Pəncərəciyin əsas pəncərəcik olması"
-
-msgid "Whether the widget is the focus widget within the toplevel"
-msgstr "Pəncərəciyin üst səviyyədəki fokus pəncərəciyi olması"
-
-msgid "Whether the widget is visible"
-msgstr "Pəncərəcəyin görünməsi"
-
-msgid "Whether the widget responds to input"
-msgstr "Pəncərəciyin girişə cavabı"
-
-msgid "Whether the window frame should have a close button"
-msgstr "Pəncərənin pəncərə idarəçisi tərəfindən bəzənməsi"
-
-msgid "Whether the window should be decorated by the window manager"
-msgstr "Pəncərənin pəncərə idarəçisi tərəfindən bəzənməsi"
-
-msgid "Whether there is a visible cursor following device motion"
-msgstr "Pəncərəcəyin görünməsi"
-
-msgid "Whether there should be a tooltip on the item"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether there should be an icon near the item"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether this link has been visited."
-msgstr "Gedişatın görünməsi"
-
-msgid "Whether this tag affects background height"
-msgstr "Bu təqin arxa plan hündürlüyünə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects indentation"
-msgstr "Bu təqin içəridən başlamağa harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects line wrap mode"
-msgstr "Bu təqin qırma moduna harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects paragraph justification"
-msgstr "Bu təqin paraqraf sütunlaşdırmasına harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects strikethrough"
-msgstr "Bu təqin qaralanmağa harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects tabs"
-msgstr "Bu təqin səkmələrə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects text editability"
-msgstr "Bu təqin mətnin harda düzəldilə biləcəyinə tə'sir edəcəyi"
-
-msgid "Whether this tag affects text visibility"
-msgstr "Bu təqin mətn görünməzliyinə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the alignment mode"
-msgstr "Bu təqin yüksəkliyə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the background color"
-msgstr "Bu təqin arxa plana harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the cell background color"
-msgstr "Bu təqin arxa plana tə'sir edib etməyəcəyi"
-
-msgid "Whether this tag affects the ellipsize mode"
-msgstr "Bu təqin yüksəkliyə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the font family"
-msgstr "Bu təqin yazı növü ailəsinə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the font size"
-msgstr "Bu təqin yazı növü böyüklüyünə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the font stretch"
-msgstr "Bu təqin yazı növü genişliyinə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the font style"
-msgstr "Bu təqin yazı növü tərzinə  harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the font variant"
-msgstr "Bu təqin yazı növü variantına harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the font weight"
-msgstr "Bu təqin yazı növü qalınlığına harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the foreground color"
-msgstr "Bu təqin ön plana harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the language the text is rendered as"
-msgstr "Bu təqin mətnin dilinə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the left margin"
-msgstr "Bu təqin sol kənara harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the number of pixels above lines"
-msgstr "Bu təqin sətir üstündəki piksellərə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the number of pixels between wrapped lines"
-msgstr "Bu təqin qırılan sətirlər arasındakı piksellərə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the paragraph background color"
-msgstr "Bu təqin arxa plana harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the right margin"
-msgstr "Bu təqin sağ kənara harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects the rise"
-msgstr "Bu təqin yüksəkliyə harda tə'sir edəcəyi"
-
-msgid "Whether this tag affects underlining"
-msgstr "Bu təqin alt cızıqlara harda tə'sir edəcəyi"
-
-msgid "Whether this tag scales the font size by a factor"
-msgstr "Bu təqin yazı növü böyüklüyünü neşə qat artıracağı"
-
-msgid "Whether this text is hidden."
-msgstr "Bu təqin yüksəkliyə harda tə'sir edəcəyi"
-
-msgid "Whether this tray icon has a tooltip"
-msgstr "Pəncərəciyin giriş fokusuna malikiyyəti"
-
-msgid "Whether this widget has a tooltip"
-msgstr "Pəncərəciyin giriş fokusuna malikiyyəti"
-
-msgid "Whether to activate the default widget (such as the default button in a dialog) when Enter is pressed"
-msgstr "Enter basıldığında əsas pəncərəciyi fəallaşdırma (dialoqdakı əsas düymə kimi)"
-
-msgid "Whether to allow multiple files to be selected"
-msgstr "Birdən çox faylın seçilə bilməsinə icazə verilməsi"
-
-msgid "Whether to allow multiple items to be selected"
-msgstr "Birdən çox faylın seçilə bilməsinə icazə verilməsi"
-
-msgid "Whether to antialias Xft fonts; 0=no, 1=yes, -1=default"
-msgstr "Xft yazı növləri üçün kənar yumuşaltması; 0=xeyir, 1=bəli, -1=ön qurğulu"
-
-msgid "Whether to display a stock label with the name of the previewed file."
-msgstr "Ön nümayiş edilən faylın adı ilə bərabər stik etiketin də göstərilməsi."
-
-msgid "Whether to display an \"inconsistent\" state"
-msgstr "\"Qərarsız\" halının göstərilib göstərilməyəcəyi"
-
-msgid "Whether to display the column"
-msgstr "Sütunu harda göstərək"
-
-msgid "Whether to draw the focus indicator inside widgets"
-msgstr "Pəncərəciklər daxilində fokus indikatorunun göstərilməsi"
-
-msgid "Whether to enable selection of multiple items by dragging the mouse pointer"
-msgstr "Birdən çox faylın seçilə bilməsinə icazə verilməsi"
-
-msgid "Whether to expand the child's tab"
-msgstr "Törəmə səkmələrin genişlədilib genişlədilməməsi"
-
-msgid "Whether to give the color an alpha value"
-msgstr "Rəngə alfa qiymətinin verilməsi"
-
-msgid "Whether to hint Xft fonts; 0=no, 1=yes, -1=default"
-msgstr "Xft yazı növləri üçün zərifləndirmə; 0=xeyir, 1=bəli, -1=ön qurğulu"
-
-msgid "Whether to keep all text in a single paragraph"
-msgstr "Bütün mətnin tək paraqrafda saxlanması"
-
-msgid "Whether to play any event sounds at all"
-msgstr "\"Qərarsız\" halının göstərilib göstərilməyəcəyi"
-
-msgid "Whether to play event sounds as feedback to user input"
-msgstr "Pəncərəciyin girişə cavabı"
-
-msgid "Whether to select the contents of a selectable label when it is focused"
-msgstr "Girişin fokuslandığı zaman məzmununun seçilməsi"
-
-msgid "Whether to select the contents of an entry when it is focused"
-msgstr "Girişin fokuslandığı zaman məzmununun seçilməsi"
-
-msgid "Whether to show a sort indicator"
-msgstr "Sıralama indikatoru göstərilməsi"
-
-msgid "Whether to strike through the text"
-msgstr "Mətni harada qaralayacağıq"
-
-msgid "Whether to truncate multiline pastes to one line."
-msgstr "Birdən çox faylın seçilə bilməsinə icazə verilməsi"
-
-msgid "Whether to use the label text to create a stock menu item"
-msgstr "Etiketin mətninin siçan ilə seçilə bilməsi"
-
-msgid "Whether to use the related actions appearance properties"
-msgstr "Etiketin mətninin siçan ilə seçilə bilməsi"
-
-msgid "Whether to use the value from the snap_edge property or a value derived from handle_position"
-msgstr "snap_edge yoxsa handle_position xassələrindən alınan dəyərlərin işlədiləcəyi"
-
-msgid "Whether to wrap around when keyboard-navigating widgets"
-msgstr "Pəncərəciklər daxilində fokus indikatorunun göstərilməsi"
-
-msgid "Whether to wrap lines never, at word boundaries, or at character boundaries"
-msgstr "Sətirlər kənarlarda mı, yoxsa xarakter kənarlarında mı qırılsın"
-
-msgid "Whether to wrap the license text."
-msgstr "Mətni harada qaralayacağıq"
-
-msgid "Whether tooltips should be shown on widgets"
-msgstr "Səkmələrin harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether tree lines should be drawn in the tree view"
-msgstr "Kənarın harda göstərilib göstərilməyəcəyi"
-
-msgid "Whether two cursors should be displayed for mixed left-to-right and right-to-left text"
-msgstr "Qarışıq sağdan sola və soldan sağa mətni üçün iki kursorun olması"
-
-msgid "Whether visited links should be tracked"
-msgstr "Gizli fayl ya da qovluqların göstərilməsi"
-
-msgid "Which IM module should be used"
-msgstr "Paletlərin harda işlədilib işlədilməyəcəyi"
-
-msgid "Which IM module should be used by default"
-msgstr "Paletlərin harda işlədilib işlədilməyəcəyi"
-
-msgid "Which kind of shadow to draw around the combo box"
-msgstr "Səkmə etiketləri ətrafındakı kənar eni"
-
-msgid "Which side of the notebook holds the tabs"
-msgstr "Səkmələrin tutulduğu qeyd dəftərçəsi yeri"
-
-msgid "Wide Separators"
-msgstr "Ayırıcısı işlət"
+msgid "Weight"
+msgstr "Çəki"
+
+msgid "White"
+msgstr "Ağ"
 
 msgid "Widget"
-msgstr "Widget"
-
-msgid "Widget name"
-msgstr "Pəncərəcik adı"
-
-msgid "Widget to put in column header button instead of column title"
-msgstr "Sütun başlığı yerinə göstəriləcək sütun başlığı düyməsi pəncərəciyi"
-
-msgid "Widget to use as the item label"
-msgstr "Üzv etiketində işlədiləcək timsal"
+msgstr "Pəncərəcik"
 
 msgid "Width"
 msgstr "En"
 
-msgid "Width In Characters"
-msgstr "Xarakter olaraq genişlik"
-
-msgid "Width for each item"
-msgstr "Üzv etiketində işlədiləcək timsal"
-
-msgid "Width in Characters"
-msgstr "Xarakter olaraq genişlik"
-
-msgid "Width in chars"
-msgstr "Xarakter olaraq genişlik"
-
-msgid "Width of border around the action area"
-msgstr "Ana dialoq sahələri ətrafındakı kənar eni"
-
-msgid "Width of border around the button area at the bottom of the dialog"
-msgstr "Dialoq təpəsindəki düymə sahəsi ətrafındakı kənar eni"
-
-msgid "Width of border around the content area"
-msgstr "Ana dialoq sahələri ətrafındakı kənar eni"
-
-msgid "Width of border around the label and image in the message dialog"
-msgstr "İsmarıc dialoqundakı etiket və rəsm ətrafındakı kənar eni"
-
-msgid "Width of border around the main dialog area"
-msgstr "Ana dialoq sahələri ətrafındakı kənar eni"
-
-msgid "Width of handle"
-msgstr "Qulp ehi"
-
-msgid "Width of scrollbar or scale thumb"
-msgstr "Sürüşdürmə çubuğunun eni ya da böyümə thumb-ı"
-
-msgid "Width of the left margin in pixels"
-msgstr "Piksel olaraq sol kənar"
-
-msgid "Width of the right margin in pixels"
-msgstr "Piksel olaraq sağ kənar"
-
-msgid "Width request"
-msgstr "En sorğusu"
-
-msgid "Width, in pixels, between focus indicator and the widget 'box'"
-msgstr "Piksel olaraq fokus indikatoru ilə pəncərəcik 'qutusu' arasındakı məsafə"
-
-msgid "Width, in pixels, of the focus indicator line"
-msgstr "Piksel olaraq fokus indikatoru eni"
-
-msgid "Width, in pixels, of the tree view grid lines"
-msgstr "Piksel olaraq fokus indikatoru eni"
-
-msgid "Width, in pixels, of the tree view lines"
-msgstr "Piksel olaraq fokus indikatoru eni"
-
 msgid "Window"
-msgstr "Pəncərə Növü"
-
-msgid "Window Placement"
-msgstr "Pəncərə Yerləşdirilməsi"
-
-msgid "Window Placement Set"
-msgstr "Pəncərə Yerləşdirilməsi"
-
-msgid "Window Position"
-msgstr "Pəncərə Yeri"
-
-msgid "Window Role"
-msgstr "Pəncərə Rolu"
-
-msgid "Window Title"
-msgstr "Pəncərə Başlığı"
-
-msgid "Window Type"
-msgstr "Pəncərə Növü"
-
-msgid "Window dragging"
-msgstr "Pəncərə Yeri"
+msgstr "Pəncərə"
 
 msgid "Wrap"
 msgstr "Qır"
 
-msgid "Wrap Mode"
-msgstr "Qırma Modu"
-
-msgid "Wrap license"
-msgstr "Qırma modu dəstəsi"
-
-msgid "Wrap mode"
-msgstr "Qırma modu"
-
-msgid "Wrap mode set"
-msgstr "Qırma modu dəstəsi"
-
-msgid "Wrap width"
-msgstr "Qırma eni"
-
-msgid "Wrap width for laying out the items in a grid"
-msgstr "Üzvlərin qəfəsdə düzülüşü üçün qırma eni"
-
-msgid "X Alignment of the column header text or widget"
-msgstr "Sütun başlığı ya da pəncərəciyinin X səviyyələməsi"
-
-msgid "X Input Method"
-msgstr "X Giriş Yöntəmi"
-
-msgid "X align"
-msgstr "X tərəfləməsi"
-
-msgid "X alignment of the child"
-msgstr "Törəmənin X səviyyələməsi"
-
-msgid "X pad"
-msgstr "X səkməsi"
-
-msgid "X position"
-msgstr "X yeri"
-
-msgid "X position of child widget"
-msgstr "Törəmə pəncərəciyin X yeri"
-
-msgid "X spacing"
-msgstr "Boşluq"
-
-msgid "XDG sound theme name"
-msgstr "Timsal Örtüyü Adı"
-
-msgid "Xft Antialias"
-msgstr "Xft Kənar Yumuşaltması"
-
-msgid "Xft DPI"
-msgstr "Xft DPI"
-
-msgid "Xft Hint Style"
-msgstr "Xft Zərifləndirmə Tərzi"
-
-msgid "Xft Hinting"
-msgstr "Xft Zərifləndirməsi"
-
-msgid "Xft RGBA"
-msgstr "Xft RGBA"
-
-msgid "Y align"
-msgstr "Y tərəfləməsi"
-
-msgid "Y alignment of the child"
-msgstr "Törəmənin Y səviyyələməsi"
-
-msgid "Y pad"
-msgstr "Y səkməsi"
-
-msgid "Y position"
-msgstr "Y yeri"
-
-msgid "Y position of child widget"
-msgstr "Törəmə pəncərəciyin Y yeri"
-
-msgid "Y spacing"
-msgstr "Boşluq"
-
-msgid "Year"
-msgstr "İl"
-
-msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
-msgstr "Siz HTML-tərzi heksadesimal rəng qiyməti girə bilərsiniz ya da  'orange' kimi rəng adı girə bilərsiniz."
-
-msgid "Your description here"
-msgstr "Yazı Növü izahat kəlmə olaraq"
-
-msgid "ZWJ Zero width _joiner"
-msgstr "ZWJ Sıfır en _birləşdirici"
-
-msgid "ZWNJ Zero width _non-joiner"
-msgstr "ZWNJ Sıfır en birləşdirici _olmayan"
-
-msgid "ZWS _Zero width space"
-msgstr "ZWS _Sıfır en sahəsi"
+msgid "Zoom"
+msgstr "Yaxınlıq"
 
 msgid "Zoom _In"
 msgstr "_Yaxınlaşdır"
@@ -4759,317 +526,89 @@ msgstr "_Yaxınlaşdır"
 msgid "Zoom _Out"
 msgstr "_Uzaqlaşdır"
 
-msgid "_Add"
-msgstr "Ə_lavə Et"
+msgid "action"
+msgstr "dağ"
 
-msgid "_Apply"
-msgstr "_Tətbiq Et"
+msgid "active"
+msgstr "fəallaşdır"
 
-msgid "_Ascending"
-msgstr "_Artan"
+msgid "add"
+msgstr "Əlavə et"
 
-msgid "_Back"
-msgstr "_Geri"
+msgid "adjustment"
+msgstr "yaxşılaşdırma"
 
-msgid "_Blue:"
-msgstr "_Göy:"
+msgid "administration"
+msgstr "İnzibatçılıq"
 
-msgid "_Bold"
-msgstr "_Qalın"
+msgid "align"
+msgstr "tərəflə"
 
-msgid "_Bottom"
-msgstr "_Alt"
+msgid "alpha"
+msgstr "alfa"
 
-msgid "_Bottom:"
-msgstr "_Alt"
+msgid "animation"
+msgstr "animasiya"
 
-msgid "_Browse for other folders"
-msgstr "_Digər qovluqları gəz"
+msgid "antialiasing"
+msgstr "kənar düzəltməsi"
 
-msgid "_CD-ROM"
-msgstr "_CD-Rom"
+msgid "application"
+msgstr "proqram tə'minatı"
 
-msgid "_Cancel"
-msgstr "_Ləğv Et"
+msgid "authentication"
+msgstr "tanıtma"
 
-msgid "_Center"
-msgstr "Ç_evir"
+msgid "background"
+msgstr "arxa plan"
 
-msgid "_Clear"
-msgstr "_رنگ"
-
-msgid "_Clear List"
-msgstr "_Təmizlə"
-
-msgid "_Close"
-msgstr "_رنگ"
-
-msgid "_Color"
-msgstr "_رنگ"
-
-msgid "_Convert"
-msgstr "Ç_evir"
-
-msgid "_Copy"
-msgstr "_Köçür"
-
-msgid "_Delete"
-msgstr "_Sil"
-
-msgid "_Descending"
-msgstr "_Azalan"
-
-msgid "_Discard"
-msgstr "Bağlı"
-
-msgid "_Disconnect"
-msgstr "Ç_evir"
-
-msgid "_Domain:"
-msgstr "_Mövqe:"
-
-msgid "_Down"
-msgstr "_خیر"
-
-msgid "_Edit"
-msgstr "_Yarat"
-
-msgid "_Execute"
-msgstr "_İcra Et"
-
-msgid "_Family:"
-msgstr "_Ailə:"
-
-msgid "_File"
-msgstr "_Fayllar"
-
-msgid "_Fill"
-msgstr "_Fayllar"
-
-msgid "_Find"
-msgstr "_Axtar"
-
-msgid "_First"
-msgstr "_İlk"
-
-msgid "_Floppy"
-msgstr "_Floppi"
-
-msgid "_Font"
-msgstr "_Yazı Növü"
-
-msgid "_Forward"
-msgstr "_İrəli"
-
-msgid "_Green:"
-msgstr "_Yaşıl:"
-
-msgid "_Hard Disk"
-msgstr "_Sabit Disk"
-
-msgid "_Height:"
-msgstr "_Rəng:"
-
-msgid "_Help"
-msgstr "_Yardım"
-
-msgid "_Home"
-msgstr "_Ev"
-
-msgid "_Hue:"
-msgstr "_Rəng:"
-
-msgid "_Index"
-msgstr "_Məzmun"
-
-msgid "_Information"
-msgstr "Mə'lumat"
-
-msgid "_Insert Unicode Control Character"
-msgstr "_Yunikod İdarə Hərfi Daxil Et"
-
-msgid "_Italic"
-msgstr "Ə_yik"
-
-msgid "_Jump to"
-msgstr "_Atla"
-
-msgid "_Last"
-msgstr "_Sonuncu"
-
-msgid "_Left"
-msgstr "_Sol"
-
-msgid "_Left:"
-msgstr "_Sol"
-
-msgid "_Location:"
-msgstr "_Mövqe:"
-
-msgid "_Name:"
-msgstr "_Ad:"
-
-msgid "_Network"
-msgstr "Şə_bəkə"
-
-msgid "_New"
-msgstr "_خیر"
-
-msgid "_Next"
-msgstr "_Yeni"
-
-msgid "_No"
-msgstr "_خیر"
-
-msgid "_Normal Size"
-msgstr "_Normal Böyüklük"
-
-msgid "_Now"
-msgstr "_خیر"
-
-msgid "_OK"
-msgstr "_Oldu"
-
-msgid "_Only print:"
-msgstr "Ç_ap Et"
-
-msgid "_Open"
-msgstr "_Aç"
-
-msgid "_Open Link"
-msgstr "Mövqe Aç"
-
-msgid "_Orientation:"
-msgstr "_Doyğunluq:"
-
-msgid "_Palette:"
-msgstr "_Palet"
-
-msgid "_Paper size:"
-msgstr "_Xassələr"
-
-msgid "_Password:"
-msgstr "Təzyiq"
-
-msgid "_Paste"
-msgstr "_Yapışdır"
-
-msgid "_Places"
-msgstr "_Yenidən Adlandır"
-
-msgid "_Play"
-msgstr "_Yenidən Adlandır"
-
-msgid "_Preferences"
-msgstr "_Seçimlər"
-
-msgid "_Preview:"
-msgstr "_Nümayiş:"
-
-msgid "_Print"
-msgstr "Ç_ap Et"
-
-msgid "_Properties"
-msgstr "_Xassələr"
-
-msgid "_Quit"
-msgstr "Çı_x"
-
-msgid "_Record"
-msgstr "_Qırmızı:"
-
-msgid "_Red:"
-msgstr "_Qırmızı:"
-
-msgid "_Redo"
-msgstr "_Təkrarla"
-
-msgid "_Refresh"
-msgstr "_Yenilə"
-
-msgid "_Remove"
-msgstr "_Sil"
-
-msgid "_Replace"
-msgstr "_Yenidən Adlandır"
-
-msgid "_Reverse"
-msgstr "Ç_evir"
-
-msgid "_Revert"
-msgstr "Ç_evir"
-
-msgid "_Right"
-msgstr "_Rəng:"
-
-msgid "_Right:"
-msgstr "_Rəng:"
-
-msgid "_Saturation:"
-msgstr "_Doyğunluq:"
-
-msgid "_Save"
-msgstr "_Qeyd Et"
-
-msgid "_Save color here"
-msgstr "Rəngi burada _qeyd et"
-
-msgid "_Save in folder:"
-msgstr "_Qovluğa qeyd et:"
-
-msgid "_Spell Check"
-msgstr "İmla _Yoxlaması"
-
-msgid "_Stop"
-msgstr "_Dayandır"
-
-msgid "_Strikethrough"
-msgstr "_Qaralanmış"
-
-msgid "_Style:"
-msgstr "_Tərz:"
-
-msgid "_Top"
-msgstr "_Üst"
-
-msgid "_Top:"
-msgstr "_Üst"
-
-msgid "_Undelete"
-msgstr "_Silməni Geri Al"
-
-msgid "_Underline"
-msgstr "Alt _Cızıqlı"
-
-msgid "_Undo"
-msgstr "_Geri Al"
-
-msgid "_Up"
-msgstr "Ü_stə"
-
-msgid "_Username:"
-msgstr "_Yenidən Adlandır"
-
-msgid "_Value:"
-msgstr "_Qiymət:"
-
-msgid "_Yes"
-msgstr "_Bəli"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/gnome_gtk/workspace/po-properties/az_IR.po by load_po_file"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcdefghijk ABCDEFGHIJK (ıiöüəğçş IİÖÜƏĞÇŞ)"
-
-msgid "asme_f"
-msgstr "Ad"
-
-msgid "calendar:MY"
-msgstr "calendar:YM"
+msgid "buffer"
+msgstr "bufer"
 
 msgid "calendar:week_start:0"
 msgstr "calendar:week_start:6"
+
+msgid "cancel"
+msgstr "ləğv et"
+
+msgid "channel"
+msgstr "kanal"
+
+msgid "clear"
+msgstr "təmizlə"
+
+msgid "clock"
+msgstr "saat"
+
+msgid "color"
+msgstr "_رنگ"
+
+msgid "columns"
+msgstr "rəng"
+
+msgid "comment"
+msgstr "Şərhlər"
+
+msgid "comments"
+msgstr "Şərhlər"
+
+msgid "configuration"
+msgstr "quraşdırma"
+
+msgid "crop"
+msgstr "qırp"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "current"
+msgstr "hazırkı"
+
+msgid "custom"
+msgstr "hazırkı"
+
+msgid "cut"
+msgstr "kəs"
 
 msgid "default:LTR"
 msgstr "default:RTL"
@@ -5077,41 +616,398 @@ msgstr "default:RTL"
 msgid "default:mm"
 msgstr "default:mm"
 
-msgid "ellipsize"
-msgstr "Yüksəklik dəstəsi"
+msgid "delete"
+msgstr "sil"
+
+msgid "description"
+msgstr "İzahat"
+
+msgid "desktop"
+msgstr "masa üstü"
+
+msgid "digits"
+msgstr "digitlər"
+
+msgid "direction"
+msgstr "tərəf"
+
+msgid "disabled"
+msgstr "passivləşdirilmiş"
+
+msgid "display"
+msgstr "ekran"
+
+msgid "dithering"
+msgstr "titrəmə"
+
+msgid "dynamic"
+msgstr "dinamik"
+
+msgid "e-mail"
+msgstr "e-poçt"
+
+msgid "edit"
+msgstr "düzəlt"
+
+msgid "error"
+msgstr "xəta"
+
+msgid "export"
+msgstr "İxrac et"
+
+msgid "extensions"
+msgstr "ekstrusiya"
+
+msgid "file"
+msgstr "fayl"
+
+msgid "filename"
+msgstr "fayl adı"
+
+msgid "fill"
+msgstr "doldur"
+
+msgid "filter"
+msgstr "süzgəc"
+
+msgid "folio"
+msgstr "_رنگ"
+
+msgid "font"
+msgstr "meşə"
+
+msgid "foreground"
+msgstr "Ön plan"
+
+msgid "fraction"
+msgstr "qisim"
+
+msgid "frame"
+msgstr "Çərçivə"
+
+msgid "general"
+msgstr "Ümumi"
+
+msgid "gradient"
+msgstr "qradiyent"
+
+msgid "grid"
+msgstr "qəfəs"
+
+msgid "group"
+msgstr "qrup"
 
 msgid "height"
 msgstr "hündürlük"
 
+msgid "help"
+msgstr "yardım"
+
+msgid "histogram"
+msgstr "histoqram"
+
+msgid "history"
+msgstr "keçmiş"
+
+msgid "home"
+msgstr "ev"
+
+msgid "hue"
+msgstr "Çöhrə"
+
+msgid "icon"
+msgstr "timsal"
+
+msgid "image"
+msgstr "görüntü"
+
+msgid "images"
+msgstr "cage"
+
+msgid "indent"
+msgstr "Çərtmə"
+
+msgid "information"
+msgstr "İterasiyalar:"
+
+msgid "interface"
+msgstr "ara üz"
+
+msgid "invalid"
+msgstr "hökmsüz"
+
+msgid "invert"
+msgstr "tərs çevir"
+
+msgid "invisible"
+msgstr "gözəgörünməz"
+
+msgid "label"
+msgstr "etiket"
+
+msgid "language"
+msgstr "dil"
+
+msgid "large"
+msgstr "dil"
+
+msgid "layer"
+msgstr "lay"
+
+msgid "left"
+msgstr "sol"
+
+msgid "line"
+msgstr "sətir"
+
+msgid "location"
+msgstr "yerləşdiyi yerlər"
+
+msgid "medium"
+msgstr "menyu"
+
+msgid "menu"
+msgstr "menyu"
+
+msgid "message"
+msgstr "İsmarış"
+
 msgid "mode"
-msgstr "mod"
+msgstr "hərəkət etdir"
 
-msgid "paused"
-msgstr "_Yapışdır"
+msgid "model"
+msgstr "daha Çox"
 
-msgid "printer offline"
-msgstr "XPM başlığı tapılmadı"
+msgid "module"
+msgstr "modul"
 
-msgid "ready to print"
-msgstr "Xəbərdarlıq"
+msgid "monitor"
+msgstr "ekran"
+
+msgid "move"
+msgstr "daşı"
+
+msgid "name"
+msgstr "ad"
+
+msgid "none"
+msgstr "Adsız"
+
+msgid "normal"
+msgstr "normal"
+
+msgid "number"
+msgstr "rəqəm"
+
+msgid "numeric"
+msgstr "numerik"
+
+msgid "opacity"
+msgstr "matlıq"
+
+msgid "open"
+msgstr "aç"
+
+msgid "options"
+msgstr "kökləmə"
+
+msgid "orientation"
+msgstr "İstiqamət"
+
+msgid "padding"
+msgstr "kənarlama"
+
+msgid "page"
+msgstr "səhifə"
+
+msgid "palette"
+msgstr "palitra"
+
+msgid "password"
+msgstr "Şifrə"
+
+msgid "paste"
+msgstr "yapışdır"
+
+msgid "path"
+msgstr "cığır"
+
+msgid "pattern"
+msgstr "naxış"
+
+msgid "pixel"
+msgstr "bənək"
+
+msgid "portrait"
+msgstr "portret"
+
+msgid "position"
+msgstr "yer"
+
+msgid "preferences"
+msgstr "seçimlər"
+
+msgid "preview"
+msgstr "nümayiş:"
+
+msgid "print"
+msgstr "Çap et"
+
+msgid "printer"
+msgstr "Çapedici"
+
+msgid "progress"
+msgstr "İnkişaf"
+
+msgid "rating"
+msgstr "reytinq"
+
+msgid "ratio"
+msgstr "nisbət"
+
+msgid "remove"
+msgstr "sil"
+
+msgid "replace"
+msgstr "Əvəz et"
+
+msgid "resize"
+msgstr "yenidən ölç"
+
+msgid "resolution"
+msgstr "rezolyusiya"
+
+msgid "revert"
+msgstr "Çevir"
+
+msgid "right"
+msgstr "sağ"
+
+msgid "rotate"
+msgstr "Çevir"
+
+msgid "rows"
+msgstr "gəz"
+
+msgid "saturation"
+msgstr "doyğunluq"
+
+msgid "save"
+msgstr "qeyd et"
+
+msgid "scale"
+msgstr "miqyas"
+
+msgid "screen"
+msgstr "ekran"
+
+msgid "search"
+msgstr "axtar"
+
+msgid "select"
+msgstr "seç"
+
+msgid "selection"
+msgstr "seçki"
+
+msgid "sensitive"
+msgstr "həssas"
+
+msgid "size"
+msgstr "böyüklük"
+
+msgid "small"
+msgstr "Şkalalı"
+
+msgid "source"
+msgstr "mənbə"
+
+msgid "spacing"
+msgstr "boşluq"
+
+msgid "speed"
+msgstr "sür'ət"
+
+msgid "standard"
+msgstr "standart"
+
+msgid "strikethrough"
+msgstr "qaralanmış"
+
+msgid "style"
+msgstr "tərz"
+
+msgid "submit"
+msgstr "göndər"
+
+msgid "system"
+msgstr "sistem"
+
+msgid "text"
+msgstr "mətn"
+
+msgid "threshold"
+msgstr "aralıq"
+
+msgid "time"
+msgstr "vaxt"
+
+msgid "title"
+msgstr "başlıq"
+
+msgid "translate"
+msgstr "tərcümə et"
+
+msgid "type"
+msgstr "növ"
+
+msgid "underline"
+msgstr "alt cızıqlı"
+
+msgid "undo"
+msgstr "qaytar"
 
 msgid "unknown"
-msgstr "(namə'lum)"
+msgstr "naməlum"
 
-msgid "visible"
-msgstr "görünən"
+msgid "untitled"
+msgstr "adsız"
+
+msgid "user"
+msgstr "İstifadəçilər"
+
+msgid "username"
+msgstr "İstifadəçi adı"
+
+msgid "value"
+msgstr "qiymət"
+
+msgid "vertical"
+msgstr "Şaquli"
+
+msgid "volume"
+msgstr "səs həcmi"
+
+msgid "warning"
+msgstr "xəbərdarlıq"
+
+msgid "weight"
+msgstr "Çəki"
+
+msgid "white"
+msgstr "ağ"
+
+msgid "widget"
+msgstr "pəncərəcik"
 
 msgid "width"
 msgstr "en"
 
-msgid "xalign"
-msgstr "x tərəfləməsi"
+msgid "window"
+msgstr "pəncərə"
 
-msgid "xpad"
-msgstr "x səkməsi"
+msgid "wrap"
+msgstr "qır"
 
-msgid "yalign"
-msgstr "y tərəfləməsi"
-
-msgid "ypad"
-msgstr "y səkməsi"
+msgid "zoom"
+msgstr "yaxınlıq"

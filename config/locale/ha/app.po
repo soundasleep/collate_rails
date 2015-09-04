@@ -1,2 +1,0 @@
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/ha.po by load_po_file"

@@ -1,146 +1,17 @@
-msgid "&Address"
-msgstr "Alamat"
-
-msgid "&Copy"
-msgstr "&Salin"
-
-msgid "&Copy Address"
-msgstr "&Salin Alamat"
-
-msgid "&Delete"
-msgstr "&Padam"
-
-msgid "&Export"
-msgstr "&Eksport"
-
-msgid "&New"
-msgstr "&Baru"
-
-msgid "&Options..."
-msgstr "Pilihan"
-
 msgid "(None)"
 msgstr "tiada"
 
-msgid "A GdkPixbuf to display"
-msgstr "GdkPixbuf untuk dipaparkan"
-
-msgid "A GtkPackType indicating whether the child is packed with reference to the start or end of the parent"
-msgstr "GtkPackType menunjukkan samada anak dipek dengan rujukan ke permulaan atau akhir bagi ibubapa"
-
-msgid "A boolean that determines whether the menu grabs the keyboard focus"
-msgstr "Tajuk yang mungkin dipaparkan oleh pengurus tetingkap bila menu dikoyakkan"
-
-msgid "A boolean that indicates whether the menu is torn-off"
-msgstr "Tajuk yang mungkin dipaparkan oleh pengurus tetingkap bila menu dikoyakkan"
-
-msgid "A boolean that indicates whether the menu reserves space for toggles and icons"
-msgstr "Tajuk yang mungkin dipaparkan oleh pengurus tetingkap bila menu dikoyakkan"
-
-msgid "A column in the data source model to get the strings from"
-msgstr "Kolum pada model sumber data untuk mendapatkan rentetan drpdnya"
-
-msgid "A list of style attributes to apply to the text of the label"
-msgstr "Senarai atribut gaya untuk diterapkan pada teks label"
-
-msgid "A list of style attributes to apply to the text of the renderer"
-msgstr "Senarai atribut gaya untuk diterapkan pada teks juru render"
-
-msgid "A name for the action group."
-msgstr "Nama bagi kumpulan aksi."
-
-msgid "A palette of named colors for use in themes"
-msgstr "Nama bagi font dipilih"
-
-msgid "A shorter label that may be used on toolbar buttons."
-msgstr "Label lebih pendek yang mungkin digunakan bapa butang toolbar."
-
-msgid "A string with _ characters in positions correspond to characters in the text to underline"
-msgstr "Rentetan dengan _aksara pada posisi bergantung kepada aksara pada teks untuk digarisbawahkan"
-
-msgid "A title that may be displayed by the window manager when the popup is torn-off"
-msgstr "Tajuk yang mungkin dipaparkan oleh pengurus tetingkap bila menu dikoyakkan"
-
-msgid "A title that may be displayed by the window manager when this menu is torn-off"
-msgstr "Tajuk yang mungkin dipaparkan oleh pengurus tetingkap bila menu dikoyakkan"
-
-msgid "A tooltip for this action."
-msgstr "Tooltip bagi aksi ini."
-
-msgid "A unique name for the action."
-msgstr "Nama unik bagi aksi."
-
-msgid "A widget to display in place of the usual expander label"
-msgstr "Widget untuk memaparkan pada tempat label pengembang"
-
-msgid "A widget to display in place of the usual frame label"
-msgstr "Widget untuk memaparkan label kerangka biasa"
-
-msgid "A widget to display in place of the usual label"
-msgstr "Widget untuk memaparkan label kerangka biasa"
-
-msgid "Above child"
-msgstr "DiAtas anak"
-
-msgid "Accel Group"
-msgstr "Kumpulan Aksi"
-
-msgid "Accelerator Closure"
-msgstr "Penutupan Pemecut"
-
-msgid "Accelerator Mode"
-msgstr "Wiget Pemecut"
-
-msgid "Accelerator Widget"
-msgstr "Wiget Pemecut"
-
 msgid "Accelerator key"
-msgstr "Wiget Pemecut"
-
-msgid "Accelerator keycode"
-msgstr "Wiget Pemecut"
+msgstr "Kekunci pemecut"
 
 msgid "Accelerator modifiers"
-msgstr "Wiget Pemecut"
-
-msgid "Accept focus"
-msgstr "Terima fokus"
-
-msgid "Accepting Jobs"
-msgstr "Terima fokus"
-
-msgid "Accepts PDF"
-msgstr "Terima tab"
-
-msgid "Accepts PostScript"
-msgstr "Terima tab"
-
-msgid "Accepts tab"
-msgstr "Terima tab"
+msgstr "Modifier pemecut"
 
 msgid "Action"
 msgstr "Aksi"
 
-msgid "Action Group"
-msgstr "Kumpulan Aksi"
-
-msgid "Action area border"
-msgstr "Sempadan kawasan aksi"
-
-msgid "Activatable"
-msgstr "Boleh diaktifkan"
-
-msgid "Activates default"
-msgstr "Aktifkan default"
-
 msgid "Active"
-msgstr "Aktif"
-
-msgid "Active item"
-msgstr "Item aktif"
-
-msgid "Add tearoffs to menus"
-msgstr "Tambah pengoyak kepada menu"
+msgstr "Aktifkan"
 
 msgid "Address"
 msgstr "Alamat"
@@ -148,4538 +19,626 @@ msgstr "Alamat"
 msgid "Adjustment"
 msgstr "Pelarasan"
 
-msgid "Align set"
-msgstr "Jajaran"
+msgid "Administration"
+msgstr "Tadbir"
 
-msgid "Alignment"
-msgstr "Jajaran"
+msgid "Align"
+msgstr "Jajar"
 
-msgid "All Margins"
-msgstr "Margin Kiri"
+msgid "Alpha"
+msgstr "Alfa"
 
-msgid "Allow Async"
-msgstr "Izinkan Aturan"
-
-msgid "Allow Rules"
-msgstr "Izinkan Aturan"
-
-msgid "Allow drawing of alternating color rows"
-msgstr "Izinkan pelukisan warna berselang bagi baris"
-
-msgid "Allow folder creation"
-msgstr "Papar operasi fail"
-
-msgid "Alt"
-msgstr "Alt"
-
-msgid "Amharic (EZ+)"
-msgstr "Amharic (EZ+)"
-
-msgid "Amount of blue light in the color."
-msgstr "Jumlah cahaya biru pada warna."
-
-msgid "Amount of border space between the menubar shadow and the menu items"
-msgstr "Jumpah ruang sempadan di antara bayang menubar dan item menu"
-
-msgid "Amount of border space between the toolbar shadow and the buttons"
-msgstr "Jumlah ruang sempadan di antara bayang toolbar dan butang"
-
-msgid "Amount of green light in the color."
-msgstr "Jumlah cahaya hijau pada warna."
-
-msgid "Amount of red light in the color."
-msgstr "Jumlah cahaya merah pada warna."
-
-msgid "Amount to increase child's size on either side"
-msgstr "Jumlah untuk meningkatkan saiz anak pada bahagian tepi"
-
-msgid "Amount to increase child's size on the top and bottom"
-msgstr "Jumlah untuk meningkatkan saiz anak pada atas dan bawah"
-
-msgid "Amount to indent the paragraph, in pixels"
-msgstr "Jumlah untuk mengindenkan perenggan, dalam piksel"
-
-msgid "An XML string describing the merged UI"
-msgstr "Rentetan XML menerangkan UI tergabung"
+msgid "Anchor"
+msgstr "Sauh"
 
 msgid "Animation"
 msgstr "Animasi"
 
-msgid "Animation duration"
-msgstr "Animasi"
-
-msgid "Any Printer"
-msgstr "_Cetak"
-
-msgid "Appearance of the frame border"
-msgstr "Penampilan sempadan kerangka"
-
-msgid "Appearance of the shadow surrounding the arrow"
-msgstr "Penampilan bayang sekeliling panah"
-
-msgid "Appearance of the shadow that surrounds the container"
-msgstr "Penampilan bayang yang mengelilingi bekasnya"
+msgid "Appearance"
+msgstr "Penampilan"
 
 msgid "Application"
-msgstr "_Lokasi:"
+msgstr "Aplikasi"
 
-msgid "Application paintable"
-msgstr "Aplikasi boleh dicat"
-
-msgid "Application prefers a dark theme"
-msgstr "Aplikasi boleh dicat"
-
-msgid "Application supplied widget for custom previews."
-msgstr "Wiget yg dibekali aplikasi bagi prebiu tersendiri."
-
-msgid "Application supplied widget for extra options."
-msgstr "Wiget dibekali aplikasi bagi opesyen tambahan."
-
-msgid "Arrow Placement"
-msgstr "Sesaran X Panah"
-
-msgid "Arrow Scaling"
-msgstr "Jarak ruang baris"
-
-msgid "Arrow Size"
-msgstr "Hala panah"
-
-msgid "Arrow X Displacement"
-msgstr "Sesaran X Panah"
-
-msgid "Arrow Y Displacement"
-msgstr "Sesaran Y Panah"
-
-msgid "Arrow direction"
-msgstr "Hala panah"
-
-msgid "Arrow scaling"
-msgstr "Jarak ruang baris"
-
-msgid "Arrow shadow"
-msgstr "Bayang panah"
-
-msgid "Arrow spacing"
-msgstr "Jarak ruang baris"
-
-msgid "Aspect ratio if obey_child is FALSE"
-msgstr "Nisbah aspek jika obey_child PALSU"
-
-msgid "Aspect ratio with which to draw insertion cursor"
-msgstr "Nisbah aspek digunakan untuk melukis kursor penyelitan"
-
-msgid "Attach Widget"
-msgstr "Wiget tambahan"
-
-msgid "Attributes"
-msgstr "Atribut"
+msgid "Ascii"
+msgstr "Ascii"
 
 msgid "Authentication"
-msgstr "_Lokasi:"
+msgstr "Autentikasi"
 
-msgid "Auto Mnemonics"
-msgstr "Animasi"
-
-msgid "Auto Select"
-msgstr "Pemilihan Font"
-
-msgid "BackSpace"
-msgstr "_Tukarnama"
-
-msgid "Backend for the printer"
-msgstr "Model pagi paparan pepohon"
+msgid "Background"
+msgstr "latar belakang"
 
 msgid "Background color"
 msgstr "Warna latarbelakang"
 
-msgid "Background color as a (possibly unallocated) GdkColor"
-msgstr "Warna latarbelakang sebagai (mungkin tak diperuntukkan) GdkColor"
+msgid "Box"
+msgstr "Kotak"
 
-msgid "Background color as a GdkColor"
-msgstr "Warna latarbelakang sebagai GdkColor"
-
-msgid "Background color as a string"
-msgstr "Warna latarbelakang sebagai rentetan"
-
-msgid "Background color name"
-msgstr "Nama warna latarbelakang"
-
-msgid "Background full height"
-msgstr "Tinggi penuh LatarBelakang"
-
-msgid "Background full height set"
-msgstr "Set ketinggian penuh LatarBelakang"
-
-msgid "Background set"
-msgstr "Set latar belakang"
-
-msgid "Backward stepper"
-msgstr "Pelangkah undur"
-
-msgid "Balance:"
-msgstr "Baki"
-
-msgid "Best _Fit"
-msgstr "Sesuai _Muat"
-
-msgid "Border around the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "Border relief"
-msgstr "Pelepasan sempadan"
-
-msgid "Border width"
-msgstr "Lebar sempadan"
-
-msgid "Bottom Attach"
-msgstr "Lampiran Bawah"
-
-msgid "Bottom Padding"
-msgstr "Padding Bawah"
-
-msgid "Bottom attachment"
-msgstr "Lampiran bawah"
-
-msgid "Brightness of the color."
-msgstr "Kecerahan warna."
+msgid "Browse"
+msgstr "Lungsur"
 
 msgid "Buffer"
 msgstr "Penimbal"
 
-msgid "Button relief"
-msgstr "Pelepasan butang"
+msgid "Center"
+msgstr "Tengah"
 
-msgid "Button spacing"
-msgstr "Jarak ruang butang"
+msgid "Channel"
+msgstr "Saluran"
 
-msgid "C&hoose"
-msgstr "&Pilih"
-
-msgid "C_ollate"
-msgstr "_Cipta"
-
-msgid "C_onnect"
-msgstr "_Tukar"
-
-msgid "C_redits"
-msgstr "_Cipta"
-
-msgid "C_urrent Page"
-msgstr "_Cipta"
-
-msgid "Can be used to add a new child to the container"
-msgstr "Boleh digunakan untuk menambah anak ke bekas"
-
-msgid "Can change accelerators"
-msgstr "Boleh tukar Pemecut"
-
-msgid "Can default"
-msgstr "Boleh default"
-
-msgid "Can focus"
-msgstr "Boleh fokus"
-
-msgid "Cancel Button"
-msgstr "Butang Mesej"
-
-msgid "Cannot change to folder because it is not local"
-msgstr "Tak dapat tukar ke folder kerana ianya bukan tempatan"
-
-msgid "Caps Lock is on"
-msgstr "Buka Lokasi"
-
-msgid "Cedilla"
-msgstr "Cedilla"
-
-msgid "Cell background color"
-msgstr "Warna latarbelakang sel"
-
-msgid "Cell background color as a GdkColor"
-msgstr "Warna latarbelakang sel sebagai GdkColor"
-
-msgid "Cell background color as a string"
-msgstr "Warna latarbelakang sel sebagai rentetan"
-
-msgid "Cell background color name"
-msgstr "Nama warna latarbelakang sel"
-
-msgid "Cell background set"
-msgstr "Set latar belakang sel"
-
-msgid "CellView model"
-msgstr "Model TreeView"
-
-msgid "Child"
-msgstr "Anak"
-
-msgid "Child X Displacement"
-msgstr "Sesaran X anak"
-
-msgid "Child Y Displacement"
-msgstr "Sesaran Y anak"
-
-msgid "Child internal height padding"
-msgstr "Padding tinggi dalaman anak"
-
-msgid "Child internal width padding"
-msgstr "Padding lebar dalaman anak"
-
-msgid "Child widget to appear next to the button text"
-msgstr "Wiget anak supaya muncul disebelah teks menu"
-
-msgid "Child widget to appear next to the menu text"
-msgstr "Wiget anak supaya muncul disebelah teks menu"
-
-msgid "Choose the address to receive coins with"
-msgstr "Pilih alamat untuk menerima syiling"
-
-msgid "Choose the address to send coins to"
-msgstr "Pilih alamat untuk menghantar syiling"
+msgid "Clear"
+msgstr "Terang"
 
 msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
 msgstr "Klik eyedropper, kemudian klik warna di mana-mana pada layar supaya warna dipilih."
 
-msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
-msgstr "Klik kemasukan palet ini untuk menjadikannya warna semasa. Untuk menukar kemasukan ini, heret warna ke sini atau klik-kanan dan pilih \"Simpan warna di sini.\""
-
-msgid "Clickable"
-msgstr "Bolehdiklik"
-
-msgid "Climb Rate"
-msgstr "Kadar Panjat"
-
-msgid "Climb rate"
-msgstr "Kadar Panjat"
-
-msgid "Co_nnect"
-msgstr "_Tukar"
-
 msgid "Color"
-msgstr "_Warna"
-
-msgid "Color Hash"
-msgstr "Ruangwarna"
-
-msgid "Color Selection"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Color Wheel"
-msgstr "Roda"
-
-msgid "Color _name:"
-msgstr "_Nama Warna:"
-
-msgid "Color of the selection box"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Color of unvisited links"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Color of visited links"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Color scheme"
-msgstr "Ruangwarna"
-
-msgid "Color to use for even rows"
-msgstr "Warna digunakan untuk baris genap"
-
-msgid "Color to use for odd rows"
-msgstr "Warna digunakan untuk baris ganjil"
-
-msgid "Color with which to draw error-indication underlines"
-msgstr "Warna yang digunakan untuk melukis kursor penyelitan"
-
-msgid "Color with which to draw insertion cursor"
-msgstr "Warna yang digunakan untuk melukis kursor penyelitan"
-
-msgid "Color with which to draw the secondary insertion cursor when editing mixed right-to-left and left-to-right text"
-msgstr "Warna untuk melukis kursor penyelitan sekunder bila mengedit campuran teks kanan-ke-kiri dan kiri-ke-kanan."
-
-msgid "Column Spacing"
-msgstr "Jarak ruang kolum"
-
-msgid "Column gets share of extra width allocated to the widget"
-msgstr "Kolum mendapat lebar tambahan diperuntukkan kepada wiget"
-
-msgid "Column headers respond to click events"
-msgstr "Tindakbalas pengepala kolum untuk acara klik"
-
-msgid "Column is user-resizable"
-msgstr "Kolum adalah boleh-diubahsaiz-pengguna"
-
-msgid "Column spacing"
-msgstr "Jarak ruang kolum"
-
-msgid "Column span column"
-msgstr "Kolum span kolum"
+msgstr "Warna"
 
 msgid "Columns"
 msgstr "Kolum"
 
-msgid "ComboBox model"
-msgstr "modem ComboBbox"
+msgid "Configuration"
+msgstr "Konfigurasi"
 
-msgid "Comma separated file (*.csv)"
-msgstr "Fail yang dipisahkan dengan koma"
+msgid "Confirm"
+msgstr "Pasti"
 
-msgid "Comments string"
-msgstr "Jarak ruang kolum"
+msgid "Copy"
+msgstr "Salin"
 
-msgid "Completion Model"
-msgstr "Model penyempurnaan"
-
-msgid "Composite child"
-msgstr "Anak gubahan"
-
-msgid "Content Padding"
-msgstr "Padding Bawah"
-
-msgid "Content area border"
-msgstr "Sempadan kawasan kandungan"
-
-msgid "Content area spacing"
-msgstr "Padding Bawah"
-
-msgid "Copy URL"
-msgstr "_Salin"
-
-msgid "Copy _Location"
-msgstr "Buka Lokasi"
-
-msgid "Copy the currently selected address to the system clipboard"
-msgstr "Salin alamat terpilih ke dalam sistem papan klip"
-
-msgid "Could not send the search request"
-msgstr "Tak dapat menyimpang yang selebihnya"
-
-msgid "Could not start the search process"
-msgstr "Tak dapat menyimpang yang selebihnya"
-
-msgid "Create Fo_lder"
-msgstr "Cipta _Folder"
-
-msgid "Create a new address"
-msgstr "Cipta alamat baru"
-
-msgid "Create in _folder:"
-msgstr "Cipta di _folder:"
-
-msgid "Create the same proxies as a radio action"
-msgstr "CIptaproksi sama sebagai butang radio"
-
-msgid "Ctrl"
-msgstr "Ctrl"
+msgid "Create"
+msgstr "Cipta"
 
 msgid "Cu_t"
 msgstr "Po_tong"
 
-msgid "Current Alpha"
-msgstr "Alfa semasa"
+msgid "Current"
+msgstr "Semasa"
 
-msgid "Current Color"
-msgstr "Warna Semasa"
+msgid "Custom"
+msgstr "Tersendiri"
 
-msgid "Current Page"
-msgstr "Alfa semasa"
+msgid "Cut"
+msgstr "Potong"
 
-msgid "Current fixed width of the column"
-msgstr "Lebar tetap semasa bagi kolum"
-
-msgid "Current text of the buffer"
-msgstr "Teks bagi label"
-
-msgid "Current width of the column"
-msgstr "Lebar semasa bagi kolum"
-
-msgid "Cursor"
-msgstr "Kelipan Kursor"
-
-msgid "Cursor Blink"
-msgstr "Kelipan Kursor"
-
-msgid "Cursor Blink Time"
-msgstr "Masa Kelipan Kursor"
-
-msgid "Cursor Blink Timeout"
-msgstr "Masa Kelipan Kursor"
-
-msgid "Cursor Position"
-msgstr "Posisi Kursor"
-
-msgid "Cursor Visible"
-msgstr "Kursor boleh dilihat"
-
-msgid "Cursor color"
-msgstr "Warna kursor"
-
-msgid "Cursor line aspect ratio"
-msgstr "Nisbah aspek garis kursor"
-
-msgid "Cursor position"
-msgstr "Posisi Kursor"
-
-msgid "Cursor theme name"
-msgstr "Nama Tema Ikon"
-
-msgid "Cursor theme size"
-msgstr "Kursor boleh dilihat"
-
-msgid "Custom palette"
-msgstr "Pelet sendiri"
-
-msgid "Custom tab label"
-msgstr "Pelet sendiri"
-
-msgid "Custom tabs for this text"
-msgstr "Tab sendiri bagi teks"
-
-msgid "Cyrillic (Transliterated)"
-msgstr "Cyrillic (Transliterated)"
-
-msgid "DISPLAY"
-msgstr "IPA"
-
-msgid "Dash pattern used to draw the focus indicator"
-msgstr "Corak sengkang yang digunakan untuk melukis penunjuk fokus"
-
-msgid "Dash pattern used to draw the tree view grid lines"
-msgstr "Corak sengkang yang digunakan untuk melukis penunjuk fokus"
-
-msgid "Dash pattern used to draw the tree view lines"
-msgstr "Corak sengkang yang digunakan untuk melukis penunjuk fokus"
-
-msgid "Day"
-msgstr "Hari"
-
-msgid "Decorated"
-msgstr "Dihias"
-
-msgid "Decrease Indent"
-msgstr "Kurangkan Inden"
-
-msgid "Default Display"
-msgstr "Paparan Default"
-
-msgid "Default Height"
-msgstr "Tinggi Default"
-
-msgid "Default IM module"
-msgstr "Lebar Default"
-
-msgid "Default Outside Spacing"
-msgstr "Jarak Ruang luaran default"
-
-msgid "Default Page Setup"
-msgstr "Tinggi Default"
-
-msgid "Default Spacing"
-msgstr "Jarak Ruang Default"
-
-msgid "Default Width"
-msgstr "Lebar Default"
-
-msgid "Default print backend"
-msgstr "Jarak Ruang Default"
-
-msgid "Delay before drop down menus appear"
-msgstr "Selangmasa sebelum menu jatuh bawah muncul"
-
-msgid "Delay before hiding a submenu"
-msgstr "Lengahan sebelum menyorok submenu"
-
-msgid "Delay before submenus appear"
-msgstr "Lengahan sebelum submenu muncul"
-
-msgid "Delay before the submenus of a menu bar appear"
-msgstr "Selangmasa sebelum submenu bagi bar menu muncul"
-
-msgid "Deletable"
-msgstr "Boleh dipilih"
+msgid "Default"
+msgstr "Default"
 
 msgid "Delete"
-msgstr "Pa_dam"
+msgstr "Padam"
+
+msgid "Description"
+msgstr "Penerangan"
 
 msgid "Desktop"
 msgstr "Desktop"
 
-msgid "Destroy with Parent"
-msgstr "Musnah bersama Bapa"
-
-msgid "Detail"
-msgstr "Terperinci"
-
-msgid "Details Height"
-msgstr "Tinggi Default"
-
-msgid "Details Width"
-msgstr "Lebar Default"
-
-msgid "Details width in characters"
-msgstr "Lebar dalam aksara"
-
-msgid "Determines how the shadowed box around the viewport is drawn"
-msgstr "Menentukan bagaimana kekotak berbebayang sekeliling viewport dilukis"
-
-msgid "Device Display"
-msgstr "Paparan Default"
-
-msgid "Device name"
-msgstr "Nama wiget"
-
-msgid "Device type"
-msgstr "Jenis keluk"
-
 msgid "Digits"
 msgstr "Digit"
+
+msgid "Direction"
+msgstr "Hala"
 
 msgid "Disabled"
 msgstr "Dimatikan"
 
-msgid "Displace focus"
-msgstr "Adalah fokus"
-
 msgid "Display"
-msgstr "Paparan Default"
+msgstr "Paparan"
 
-msgid "Display a second backward arrow button on the opposite end of the scrollbar"
-msgstr "Papar butang panah undur sekunder pada hujung berlawanan bagi bar skrol"
+msgid "Distribute"
+msgstr "Agih"
 
-msgid "Display a second backward arrow button on the opposite end of the tab area"
-msgstr "Papar butang panah undur kedua pada hujung berlawanan bagi kawasan tab"
+msgid "Documents"
+msgstr "Dokumen"
 
-msgid "Display a second forward arrow button on the opposite end of the scrollbar"
-msgstr "Papar butang panah maju sekunder pada hujung berlawanan bagi bar skrol"
+msgid "E-mail"
+msgstr "Emel"
 
-msgid "Display a second forward arrow button on the opposite end of the tab area"
-msgstr "Papar butang panah maju kedua pada hujung berlawanan bagi kawasan tab"
-
-msgid "Display for the device manager"
-msgstr "Papar sel"
-
-msgid "Display the cell"
-msgstr "Papar sel"
-
-msgid "Display the cell sensitive"
-msgstr "Papar sel"
-
-msgid "Display the standard backward arrow button"
-msgstr "Papar butang panah undur piawai"
-
-msgid "Display the standard forward arrow button"
-msgstr "Papar butang panah maju piawai"
-
-msgid "Display which the device belongs to"
-msgstr "Papar sel"
-
-msgid "Domain:"
-msgstr "_Lokasi:"
-
-msgid "Don't change slider size, just lock it to the minimum length"
-msgstr "Jangan ubah saiz penggelungsur, hanya kunci ia ke panjang minimum"
-
-msgid "Double Arrows"
-msgstr "Papar Panah"
-
-msgid "Double Buffered"
-msgstr "Penimbal"
-
-msgid "Double Click Distance"
-msgstr "Jaeak Dwi Klik"
-
-msgid "Double Click Time"
-msgstr "Masa Dwi-Klik"
-
-msgid "Down"
-msgstr "_Turun"
-
-msgid "Drag threshold"
-msgstr "Threshold heretan"
-
-msgid "Draw"
-msgstr "Lukis"
-
-msgid "Draw Indicator"
-msgstr "Penunjuk Lukisan"
-
-msgid "Draw Value"
-msgstr "Nilai lukis"
-
-msgid "Draw as radio menu item"
-msgstr "Lukis sebagai item butang radio"
-
-msgid "Draw the toggle button as a radio button"
-msgstr "Lukis butang togol sebagai butang radio"
-
-msgid "Edit Address"
-msgstr "Alamat"
-
-msgid "Editability set"
-msgstr "Set kebolehan mengedit"
-
-msgid "Editable"
-msgstr "boleh diedit"
-
-msgid "Editable mode of the CellRenderer"
-msgstr "Mod boleh edit CellRenderer"
-
-msgid "Editing"
-msgstr "Pengubahsaizan"
-
-msgid "Editing Canceled"
-msgstr "Pengubahsaizan"
-
-msgid "Ellipsize set"
-msgstr "Set Angkat"
-
-msgid "Embed Page Setup"
-msgstr "Saiz Maksimum"
-
-msgid "Empty"
-msgstr "Kosong"
-
-msgid "Enable Accelerators"
-msgstr "Boleh tukar Pemecut"
-
-msgid "Enable Animations"
-msgstr "Animasi"
-
-msgid "Enable Event Sounds"
-msgstr "Animasi"
-
-msgid "Enable Grid Lines"
-msgstr "Hidupkan kekunci panah"
-
-msgid "Enable Mnemonics"
-msgstr "Animasi"
-
-msgid "Enable Popup"
-msgstr "Hidupkan Popup"
-
-msgid "Enable Search"
-msgstr "Hidupkan Carian"
-
-msgid "Enable Tooltips"
-msgstr "Tooltip"
-
-msgid "Enable Tree Lines"
-msgstr "Hidupkan kekunci panah"
+msgid "Edit"
+msgstr "Edit"
 
 msgid "Error"
 msgstr "Ralat"
 
-msgid "Error color"
-msgstr "Warna kursor"
-
-msgid "Error underline color"
-msgstr "Warna latardepan"
-
-msgid "Even Row Color"
-msgstr "Warna Baris Genap"
-
-msgid "Event base"
+msgid "Event"
 msgstr "Acara"
-
-msgid "Events"
-msgstr "Acara"
-
-msgid "Executive"
-msgstr "_Laksana"
-
-msgid "Expand"
-msgstr "Kembang"
-
-msgid "Expand timeout"
-msgstr "Saiz Pengembang"
-
-msgid "Expanded"
-msgstr "Dikembang"
-
-msgid "Expander Column"
-msgstr "Kolum Pengembang"
 
 msgid "Expander Size"
 msgstr "Saiz Pengembang"
 
-msgid "Export filename"
-msgstr "Namafail"
-
-msgid "Extension events"
-msgstr "Acara peluasan"
-
-msgid "Extra space at the left and right edges of the menu"
-msgstr "Ruang tambahan pada atas dan bawah menu"
-
-msgid "Extra space at the top and bottom of the menu"
-msgstr "Ruang tambahan pada atas dan bawah menu"
-
-msgid "Extra space to add for GTK_CAN_DEFAULT buttons"
-msgstr "Jarak Ruang ekstra untuk ditambah pasa butang CAN_DEFAULT"
-
-msgid "Extra space to add for GTK_CAN_DEFAULT buttons that is always drawn outside the border"
-msgstr "Ruang ekstra untuk ditambah bagi butang CAN_DEFAULT yang sentiasa dilukis diluar senpadan"
-
-msgid "Extra space to put between the child and its left and right neighbors, in pixels"
-msgstr "Jumlah ruang ekstra untuk diletakkan diantara anak dgn jiran kiri dan kanan, dalam piksel"
-
-msgid "Extra space to put between the child and its neighbors, in pixels"
-msgstr "Runga ekstra untuk diletakkan diantara anak dan jirannya, dalam piksel"
-
-msgid "Extra space to put between the child and its upper and lower neighbors, in pixels"
-msgstr "Ruang tambahan untuk diletakkan antara anak dengan jiran atas dan bawahnya, dalam piksel"
-
-msgid "Extra widget"
-msgstr "Wiget tambahan"
-
-msgid "FALSE displays the \"invisible char\" instead of the actual text (password mode)"
-msgstr "PALSU memaparkan \"Aksara ghaib\" selain daripada aksata sebenar (mod katalaluan)"
-
-msgid "FALSE removes outside bevel from entry"
-msgstr "PALSU membuang bevel luaran daripada kemasukan"
-
-msgid "Failed to load icon"
-msgstr "Gagal memuatkan imej TIFF"
-
-msgid "Failed to load image '%{string}': reason not known, probably a corrupt image file"
-msgstr "Gagal memuatkan imej  '%{string}': sebab tidak diketahui, mungkin fail imej rosak"
-
-msgid "Failed to rewrite header\n"
-msgstr "Gagal membuka imej TIFF"
-
-msgid "Failed to write folder index\n"
-msgstr "Gagal membaca drpd fail sementara"
-
-msgid "Failed to write hash table\n"
-msgstr "Gagal membuka imej TIFF"
-
-msgid "Failed to write header\n"
-msgstr "Gagal membuka imej TIFF"
-
-msgid "Fallback Icon Theme Name"
-msgstr "Nama Tema Ikon"
+msgid "Extensions"
+msgstr "Penghujungan"
 
 msgid "File"
 msgstr "Fail"
 
-msgid "File System"
-msgstr "Sistemfail"
-
-msgid "File System Root"
-msgstr "Sistemfail"
+msgid "File Type"
+msgstr "Jenis Fail"
 
 msgid "Filename"
 msgstr "Namafail"
-
-msgid "Filename to load and display"
-msgstr "Namafail untuk dimemuatkan dan dipaparkan"
-
-msgid "Files"
-msgstr "Fail"
 
 msgid "Fill"
 msgstr "Isi"
 
 msgid "Filter"
-msgstr "Tapisan"
+msgstr "Tapis"
 
-msgid "Find and _Replace"
-msgstr "Cari dan _Ganti"
-
-msgid "Finished"
-msgstr "_Cari"
-
-msgid "Fixed Height Mode"
-msgstr "Mod Ketinggian Tetap"
-
-msgid "Fixed Width"
-msgstr "Lebar tetap"
-
-msgid "Fixed slider size"
-msgstr "Saiz penggelungsur tetap"
-
-msgid "Focus line dash pattern"
-msgstr "Corak sengkang garisan fokus"
-
-msgid "Focus linewidth"
-msgstr "Fokus lebar garisan"
-
-msgid "Focus on click"
-msgstr "Fokus pada klik"
-
-msgid "Focus on map"
-msgstr "Fokus pada klik"
-
-msgid "Focus padding"
-msgstr "Padding fokus"
-
-msgid "Folio"
-msgstr "_Warna"
+msgid "Folder"
+msgstr "Folder"
 
 msgid "Font"
 msgstr "Font"
 
-msgid "Font Name"
-msgstr "Nama Font"
-
 msgid "Font Selection"
 msgstr "Pemilihan Font"
-
-msgid "Font description as a PangoFontDescription struct"
-msgstr "Huraian Font sebagai struct PangoFontDescription"
-
-msgid "Font description as a string, e.g. \"Sans Italic 12\""
-msgstr "Huraian Font sebagai rentetan, cth. \"Sans Italic 12\""
-
-msgid "Font family"
-msgstr "Keluarga Font:"
-
-msgid "Font family set"
-msgstr "Set keluarga font"
-
-msgid "Font name"
-msgstr "Nama Font"
-
-msgid "Font options"
-msgstr "Titik Font"
-
-msgid "Font points"
-msgstr "Titik Font"
-
-msgid "Font resolution"
-msgstr "Titik Font"
-
-msgid "Font scale"
-msgstr "Skala font"
-
-msgid "Font scale set"
-msgstr "Set skala font"
-
-msgid "Font scaling factor"
-msgstr "Faktor skala font"
 
 msgid "Font size"
 msgstr "Saiz font"
 
-msgid "Font size as a scale factor relative to the default font size. This properly adapts to theme changes etc. so is recommended. Pango predefines some scales such as PANGO_SCALE_X_LARGE"
-msgstr "Saiz font sebagai faktor skala relatif kepada saiz font default. Ciri-ciri ini menyesuaikannya kepada perubahan tema dll. oleh itu dicadangkan. Pango pratakrif beberapa skala seperti PANGO_SCALE_X_LARGE"
-
-msgid "Font size in Pango units"
-msgstr "Saiz font dalam unit pango"
-
-msgid "Font size in points"
-msgstr "Saiz font dalam titik"
-
-msgid "Font size set"
-msgstr "Set saiz font"
-
-msgid "Font stretch"
-msgstr "Keregangan font"
-
-msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
-msgstr "Font diregang sebagai PAngoStretch, cth. PANGGO_STRETCH_CONDENSED"
-
-msgid "Font stretch set"
-msgstr "Set keregangan font"
-
-msgid "Font style"
-msgstr "Gaya font"
-
-msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
-msgstr "Gaya font sebagai  PangoStyle, e.g. PANGO_STYLE_ITALIC"
-
-msgid "Font style set"
-msgstr "Set gaya Font:"
-
-msgid "Font variant"
-msgstr "Variant font"
-
-msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
-msgstr "Variasi fontsebagai PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
-
-msgid "Font variant set"
-msgstr "Set variant font"
-
-msgid "Font weight"
-msgstr "Berat font"
-
-msgid "Font weight as an integer, see predefined values in PangoWeight; for example, PANGO_WEIGHT_BOLD"
-msgstr "Berat font sebagai integer, lihat nilai pratakrif pada PangoWeight; sebagai contoh, PANGO_WEIGHT_BOLD"
-
-msgid "Font weight set"
-msgstr "Set berat font"
-
-msgid "Force aspect ratio to match that of the frame's child"
-msgstr "Paksa nisbah aspek supaya sepadan dengan anak kerangka punya"
+msgid "Foreground"
+msgstr "Latar Depan"
 
 msgid "Foreground color"
 msgstr "Warna latardepan"
 
-msgid "Foreground color as a (possibly unallocated) GdkColor"
-msgstr "Warna latardepan sebagai (mungkin tak diperuntukkan) GdkColor"
-
-msgid "Foreground color as a GdkColor"
-msgstr "Warna latardepan sebagai GdkColor"
-
-msgid "Foreground color as a string"
-msgstr "Warna latardepan sebagai rentetan"
-
-msgid "Foreground color for symbolic icons"
-msgstr "Warna latardepan sebagai rentetan"
-
-msgid "Foreground color name"
-msgstr "Nama warna latardepan"
-
-msgid "Foreground set"
-msgstr "Set latardepan"
-
-msgid "Forward stepper"
-msgstr "Pelangkah maju"
-
 msgid "Fraction"
 msgstr "Pecahan"
 
-msgid "Frame shadow"
-msgstr "Bayang kerangka"
+msgid "Frame"
+msgstr "Bingkai"
 
-msgid "GIcon"
-msgstr "Ikon"
+msgid "Function"
+msgstr "Fungsi"
 
-msgid "GIcon for primary icon"
-msgstr "Ikon bagi tetingkap ini"
+msgid "Gamma"
+msgstr "Gamma"
 
-msgid "GdkPixbufAnimation to display"
-msgstr "GdkPixbufAnimation untuk dipaparkan"
+msgid "General"
+msgstr "Am"
 
-msgid "Gravity"
-msgstr "Graviti"
+msgid "Grab"
+msgstr "Genggam"
 
-msgid "Grid line pattern"
-msgstr "Corak sengkang garisan fokus"
+msgid "Gradient"
+msgstr "Gradien"
 
-msgid "Grid line width"
-msgstr "Fokus lebar garisan"
+msgid "Grid"
+msgstr "Grid"
 
 msgid "Group"
 msgstr "Kumpulan"
 
-msgid "Group Name"
-msgstr "Kumpulan"
-
-msgid "Group name for tab drag and drop"
-msgstr "Nama bagi kumpulan aksi."
-
-msgid "Handle Size"
-msgstr "Saiz Handle"
-
-msgid "Handle position"
-msgstr "Posisi pengendali"
-
-msgid "Has Frame"
-msgstr "Mempunyai Bingkai"
-
-msgid "Has Opacity Control"
-msgstr "Mempunyai Kawalan Opacity"
-
-msgid "Has Resize Grip"
-msgstr "Mempunyai Grip Ubahsaiz"
-
-msgid "Has Selection"
-msgstr "Tahun yang dipilih"
-
-msgid "Has default"
-msgstr "Mempunyai default"
-
-msgid "Has focus"
-msgstr "Mempunyai fokus"
-
-msgid "Has palette"
-msgstr "Mempunyai palet"
-
-msgid "Has selection"
-msgstr "Tahun yang dipilih"
-
-msgid "Has tooltip"
-msgstr "Tooltip"
-
-msgid "Header Padding"
-msgstr "Padding Kiri"
-
-msgid "Header Relief"
-msgstr "Pengepala boleh diklik"
-
-msgid "Header Spacing"
-msgstr "Padding Kiri"
-
-msgid "Header image"
-msgstr "Pengepala boleh diklik"
-
-msgid "Headers Clickable"
-msgstr "Pengepala boleh diklik"
-
-msgid "Headers Visible"
-msgstr "Pengepala boleh diklik"
-
 msgid "Height"
 msgstr "Tinggi"
 
-msgid "Height request"
-msgstr "Permintaan ketinggian"
+msgid "Help"
+msgstr "Bantuan"
 
-msgid "Help Button"
-msgstr "Butang Mesej"
+msgid "Help Browser"
+msgstr "Pelayar Bantuan"
 
-msgid "Hide if empty"
-msgstr "Sorok jika kosong"
+msgid "Histogram"
+msgstr "Histogram"
+
+msgid "History"
+msgstr "Sejarah"
 
 msgid "Home"
 msgstr "Rumah"
 
-msgid "Homogeneous"
-msgstr "Seragam"
-
-msgid "Horizontal Adjustment"
-msgstr "Pelarasan Mengufuk"
-
-msgid "Horizontal Adjustment for the widget"
-msgstr "Pelarasan Mengufuk bagi wiget"
-
-msgid "Horizontal Alignment"
-msgstr "Jajaran Mengufuk"
-
-msgid "Horizontal Offset"
-msgstr "Ofset mengufuk"
-
-msgid "Horizontal Padding"
-msgstr "Padding mengufuk"
-
-msgid "Horizontal Scroll Arrow Length"
-msgstr "Polisi Bar Skrol Mengufuk"
-
-msgid "Horizontal Scrollbar Policy"
-msgstr "Polisi Bar Skrol Mengufuk"
-
-msgid "Horizontal Separator Width"
-msgstr "Lebar Pemisah Mengufuk"
-
-msgid "Horizontal adjustment"
-msgstr "Pelarasan mengufuk"
-
-msgid "Horizontal alignment"
-msgstr "Jajaran mengufuk"
-
-msgid "Horizontal alignment for child"
-msgstr "Jajaran mengufuk bagi anak"
-
-msgid "Horizontal options"
-msgstr "Opsyen mengufuk"
-
-msgid "Horizontal padding"
-msgstr "Padding mengufuk"
-
-msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
-msgstr "Posisi mengufuk bagi anak pada ruang yang ada. 0.0 ialah terjajar ke kiri, 1.0 ialah terjajar ke kanan"
-
-msgid "Horizontal scale"
-msgstr "Skala mengufuk"
-
-msgid "Horizontal separation"
-msgstr "Opsyen mengufuk"
-
-msgid "Horizontal space between cells.  Must be an even number"
-msgstr "Ruang mengufuk antara sel. Mesti nombor genap"
-
-msgid "Hover Expand"
-msgstr "Kembang"
-
-msgid "How far in the x direction to move the arrow when the button is depressed"
-msgstr "Betapa jauh pada hala x panah digerakkan bila butang ditekan"
-
-msgid "How far in the x direction to move the child when the button is depressed"
-msgstr "Betapa jauh pada hala x anak digerakkan bila butang ditekan"
-
-msgid "How far in the y direction to move the arrow when the button is depressed"
-msgstr "Betapa jauh pada hala y panah digerakkan bila butang ditekan"
-
-msgid "How far in the y direction to move the child when the button is depressed"
-msgstr "Betapa jauh pada hala y anak digerakkan bila butang ditekan"
-
-msgid "How the range should be updated on the screen"
-msgstr "bagaimana julat patut dikemaskini pada layar"
-
-msgid "How to align the lines"
-msgstr "Bagaimana hendak melukis toolbar"
-
-msgid "How to draw the input method preedit string"
-msgstr "Bagaimana melukis rentetan pra-edit kaedah input"
-
-msgid "How to draw the input method statusbar"
-msgstr "Bagaimana hendak melukis kaedah input pada bar status"
-
-msgid "How to draw the toolbar"
-msgstr "Bagaimana hendak melukis toolbar"
-
-msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
-msgstr "Bagaimana aturan butang dalam kekotak. Nilai yang boleh ialah default, spread, edge, start and end"
-
-msgid "IM Preedit style"
-msgstr "Gaya Pra-edit IM"
-
-msgid "IM Status style"
-msgstr "Gaya Status IM"
-
-msgid "IM module"
-msgstr "Lebar Default"
-
-msgid "IPA"
-msgstr "IPA"
+msgid "ID"
+msgstr "ID"
 
 msgid "Icon"
 msgstr "Ikon"
 
-msgid "Icon '%{string}' not present in theme"
-msgstr "Ikon '%{string}' tak wujud pada tema"
-
-msgid "Icon Name"
-msgstr "Nama Font"
-
-msgid "Icon Prelight"
-msgstr "Tinggi"
-
-msgid "Icon Sizes"
-msgstr "Saiz Ikon"
-
-msgid "Icon Theme Name"
-msgstr "Nama Tema Ikon"
-
-msgid "Icon View Model"
-msgstr "Model TreeView"
-
-msgid "Icon for this window"
-msgstr "Ikon bagi tetingkap ini"
-
-msgid "Icon name"
-msgstr "Nama Font"
-
-msgid "Icon set"
-msgstr "Set Ikon"
-
-msgid "Icon set to display"
-msgstr "Set ikon untuk dipaparkan"
-
-msgid "Icon size"
-msgstr "Saiz ikon"
-
-msgid "Icon size set"
-msgstr "Set saiz font"
-
-msgid "Icon spacing"
-msgstr "Jarak ruang baris"
-
-msgid "Icon widget"
-msgstr "Wiget ikon"
-
-msgid "Icon widget to display in the item"
-msgstr "Wiget ikon untuk dipaparkan pada item"
-
-msgid "Icons"
-msgstr "Ikon"
-
-msgid "If TRUE, a heading is displayed"
-msgstr "Jika BENAR, pengepala yang dipaparkan"
-
-msgid "If TRUE, day names are displayed"
-msgstr "Jika TRUE, nama hari dipaparkan"
-
-msgid "If TRUE, details are shown"
-msgstr "Jika TRUE, nama hari dipaparkan"
-
-msgid "If TRUE, pressing the right mouse button on the notebook pops up a menu that you can use to go to a page"
-msgstr "Jika BENAR, tekan butang kanan tetikus pada notebook, pop menu yang anda boleh guna untuk pergi ke satu laman"
-
-msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
-msgstr "Jika BENAR, panah skrol ditambah jika terlalu banyak tab dimuatkan"
-
-msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
-msgstr "Jika BENAR, anak muncul pada kumpulan kedua anak, sesuai untuk, e.g butang bantuan."
-
-msgid "If TRUE, the child can be made smaller than its requisition"
-msgstr "Jika BENAR, anak boleh menjadi lebih kecil drpd yg meminta"
-
-msgid "If TRUE, the child expands and shrinks along with the paned widget"
-msgstr "Jika BENAR, anak mengembang dan menguncup mengikut wiget panel"
-
-msgid "If TRUE, the selected month cannot be changed"
-msgstr "jika TRUE, ulan dipilih tak boleh diubah"
-
-msgid "If TRUE, the table cells are all the same width/height"
-msgstr "Jika BENAR, ini bermaksud sel jadual mempunyai tinggi/lebar yang sama"
-
-msgid "If TRUE, the widget will receive the default action when it is focused"
-msgstr "Jika BENAR, wiget akan menerima aksi default bila ianya difokus"
-
-msgid "If TRUE, the window is modal (other windows are not usable while this one is up)"
-msgstr "Jika BENAR, tetingkap adalah modal (tetingkap lain tak boleh digunakan bila ianya naik)"
-
-msgid "If TRUE, users can resize the window"
-msgstr "Jika BENAR, pengguna boleh mengubahsaiz tetingkap"
-
-msgid "If TRUE, week numbers are displayed"
-msgstr "jika TRUE, bilangan minggu dipaparkan"
-
-msgid "If an arrow should be shown if the toolbar doesn't fit"
-msgstr "Jika panah patut dipaparkan jika toolbar tak muat"
-
-msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "Jika ruang mengufuk yang ada lebih besar daripada yang diperlukan oleh anak,berapa banyak ianya digunakan untuk anak. 0.0 bermaksud tiada, 1.0 bermaksud semua"
-
-msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "Jika ruang menegak yang ada lebih besar daripada yang diperlukan untuk anak, berapa banyak ianya digunakan untuk anak. 0.0 bermaksud tiada, 1.0 bermaksud semua"
-
-msgid "If set, an underline in the label property indicates that the next character should be used for the mnemonic accelerator key in the overflow menu"
-msgstr "Jika ditetapkan, garisbawah pada ciri-ciri label menunjukkan aksara berikutnya patut digunakan sebagai kekunci pemecut menmonik pada menu melimpah"
-
-msgid "If set, the label is used to pick a stock item instead of being displayed"
-msgstr "Jika ditetapkan, label digunakan untuk memilih item stok selain dari dipaparkan"
-
-msgid "If set, wrap lines if the text becomes too wide"
-msgstr "Jika ditetapkan, balut baris jika teks mejadi terlalu lebar"
-
-msgid "If the insertion cursor is shown"
-msgstr "Kursor penyelitan dipaparkan"
-
-msgid "If the toggle button is in an \"in between\" state"
-msgstr "Jika butang togol patut di dalam keadaan \"in between\""
-
-msgid "If the toggle button should be pressed in"
-msgstr "Jika butang  toggle patut ditekan atau tidak"
-
-msgid "If the toggle part of the button is displayed"
-msgstr "Jika bahagian toggle butang dipaparkan"
-
-msgid "If this window should be destroyed when the parent is destroyed"
-msgstr "Jika tetingkap ini patut dimusnahkan apabila bapanya dimusnahkan"
-
 msgid "Image"
 msgstr "Imej"
 
-msgid "Image position"
-msgstr "Posisi pengendali"
-
-msgid "Image spacing"
-msgstr "Jarak Ruang Nilai"
-
-msgid "Image widget"
-msgstr "Wiget imej"
-
-msgid "Image/label border"
-msgstr "Sempadan Imej/label"
-
-msgid "Inconsistent"
-msgstr "Tak konsisten"
-
-msgid "Inconsistent state"
-msgstr "Keadaan tak konsisten"
-
-msgid "Increase Indent"
-msgstr "Naikkan Inden"
+msgid "Images"
+msgstr "Imej"
 
 msgid "Indent"
 msgstr "Inden"
 
-msgid "Indent Expanders"
-msgstr "Indenkan Pengembang"
-
-msgid "Indent set"
-msgstr "Set Inden"
-
-msgid "Index 3x5"
-msgstr "_Indeks"
-
-msgid "Index 4x6 ext"
-msgstr "_Indeks"
-
-msgid "Index 5x8"
-msgstr "_Indeks"
-
-msgid "Indicator Size"
-msgstr "Saiz Penunjuk"
-
-msgid "Indicator Spacing"
-msgstr "Jarak Ruang Penunjuk"
-
-msgid "Indicator size"
-msgstr "Saiz Penunjuk"
-
 msgid "Information"
 msgstr "Maklumat"
-
-msgid "Inline selection"
-msgstr "Tahun yang dipilih"
-
-msgid "Inner Border"
-msgstr "Sempadan Tab"
-
-msgid "Inner border"
-msgstr "Sempadan Tab"
-
-msgid "Inner border space"
-msgstr "Sempadan Tab"
 
 msgid "Input _Methods"
 msgstr "_Method input"
 
-msgid "Input mode for the device"
-msgstr "Model pagi paparan pepohon"
-
-msgid "Intensity of the color."
-msgstr "Ketelusan bagi warna."
-
-msgid "Interior Focus"
-msgstr "Fokus Dalaman"
-
-msgid "Internal padding"
-msgstr "Padding dalaman"
-
-msgid "Inuktitut (Transliterated)"
-msgstr "Inukitut (Transliterated)"
+msgid "Interface"
+msgstr "Antaramuka"
 
 msgid "Invalid"
-msgstr "UTF-8 tidak sah"
+msgstr "tidak sah"
 
-msgid "Invalid URI"
-msgstr "UTF-8 tidak sah"
+msgid "Invert"
+msgstr "Songsang"
 
-msgid "Invalid argument to CreateDC"
-msgstr "Pengepala tidak sah dalam ikon"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "Pengepala tidak sah dalam ikon"
-
-msgid "Invalid path"
-msgstr "UTF-8 tidak sah"
-
-msgid "Invert direction slider moves to increase range value"
-msgstr "Songsangkan hala pergerakan penggelunsur untuk menaikkan julat nilai"
-
-msgid "Invert the direction in which the progress bar grows"
-msgstr "Orientasi dan hala pembesaran bagi bar progres"
-
-msgid "Inverted"
-msgstr "Disongsangkan"
+msgid "Invert Selection"
+msgstr "Pilihan Songsang"
 
 msgid "Invisible"
 msgstr "Ghaib"
 
-msgid "Invisible character"
-msgstr "Aksara ghaib"
+msgid "Keyboard"
+msgstr "Papan Kekunci"
 
-msgid "Invisible character set"
-msgstr "Aksara ghaib"
-
-msgid "Invisible set"
-msgstr "Set halimunan"
-
-msgid "Is Active"
-msgstr "Adalah Aktif"
-
-msgid "Is Expanded"
-msgstr "adalah dikembangkan"
-
-msgid "Is Expander"
-msgstr "Adalah Pengembang"
-
-msgid "Is Showing"
-msgstr "Papar Pengepala"
-
-msgid "Is Virtual"
-msgstr "adalah penting"
-
-msgid "Is focus"
-msgstr "Adalah fokus"
-
-msgid "Is important"
-msgstr "adalah penting"
-
-msgid "Item Orientation"
-msgstr "Orientasi"
-
-msgid "Item Padding"
-msgstr "Padding Bawah"
-
-msgid "Job Name"
-msgstr "Nama Font"
-
-msgid "Justification"
-msgstr "Justifikasi"
-
-msgid "Justification set"
-msgstr "Set Justifikasi"
-
-msgid "KP_Delete"
-msgstr "Pa_dam"
-
-msgid "KP_Down"
-msgstr "_Turun"
-
-msgid "KP_Enter"
-msgstr "_Cetak"
-
-msgid "KP_Home"
-msgstr "_Rumah"
-
-msgid "KP_Left"
-msgstr "Ki_ri"
-
-msgid "KP_Right"
-msgstr "_Hue:"
-
-msgid "KP_Space"
-msgstr "_Tukarnama"
-
-msgid "KP_Up"
-msgstr "_Naik"
-
-msgid "Key Theme Name"
-msgstr "Nama Tema Kekunci"
-
-msgid "Keybinding to activate the menu bar"
-msgstr "Ikatan kekunci untuk mengaktifkan bar menu"
-
-msgid "LRM _Left-to-right mark"
-msgstr "LRM tanda Ki_ri-ke-kanan"
+msgid "Keyboard Shortcuts"
+msgstr "Pintasan Papan Kekunci"
 
 msgid "Label"
 msgstr "Label"
 
-msgid "Label fill"
-msgstr "Isi tab"
+msgid "Lambda"
+msgstr "Lambda"
 
-msgid "Label widget"
-msgstr "Wiget label"
-
-msgid "Label xalign"
-msgstr "xalign label"
-
-msgid "Label yalign"
-msgstr "yalign label"
+msgid "Landscape"
+msgstr "lanskap"
 
 msgid "Language"
 msgstr "Bahasa"
 
-msgid "Language set"
-msgstr "Set Bahasa"
+msgid "Large"
+msgstr "Besar"
 
-msgid "Largest possible value for the \"position\" property"
-msgstr "Nilai paling besar yg boleh bagi ciri-ciri \"position\""
-
-msgid "Layout style"
-msgstr "Gaya layout"
+msgid "Layer"
+msgstr "Lapisan"
 
 msgid "Left"
-msgstr "Ki_ri"
+msgstr "Kiri"
 
-msgid "Left Attach"
-msgstr "Lampiran Kiri"
-
-msgid "Left Margin"
-msgstr "Margin Kiri"
-
-msgid "Left Padding"
-msgstr "Padding Kiri"
-
-msgid "Left attachment"
-msgstr "Lampiran kiri"
-
-msgid "Left gravity"
-msgstr "Graviti"
-
-msgid "Left margin"
-msgstr "Margin kiri"
-
-msgid "Left margin set"
-msgstr "Set margin kiri"
-
-msgid "Left to right"
-msgstr "LRM tanda Ki_ri-ke-kanan"
-
-msgid "Left, right, or center justification"
-msgstr "Kiri, kanan, atau justifikasi tengah"
-
-msgid "Length of scale's slider"
-msgstr "Panjang bagi penggelungsur skala"
-
-msgid "Length of step buttons at ends"
-msgstr "Pangjang bagi butang langkah pada hujung"
-
-msgid "Length of the cursor blink cycle, in milliseconds"
-msgstr "Panjang kitaran kelipan kursor, dalam milisaat"
-
-msgid "License Type"
-msgstr "Jenis mesej"
-
-msgid "Line wrap"
-msgstr "Balut baris"
-
-msgid "Line wrap mode"
-msgstr "Balut baris"
-
-msgid "List of authors of the program"
-msgstr "Orientasi toolbar"
-
-msgid "List of icon names"
-msgstr "Nama Font"
-
-msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
-msgstr "Senarai saiz ikon (gtk-menu=16,16;gtk-button=20,20..."
-
-msgid "List of the GtkPrintBackend backends to use by default"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Local Only"
-msgstr "Lokal Sahaja"
-
-msgid "Local only"
-msgstr "Lokal Sahaja"
+msgid "Line"
+msgstr "Talian"
 
 msgid "Location"
-msgstr "Aksi"
+msgstr "Lokasi"
 
-msgid "Logo Icon Name"
-msgstr "Nama Font"
+msgid "Loop"
+msgstr "Gelung"
 
-msgid "Lower"
-msgstr "Bawah"
+msgid "Manual"
+msgstr "Manual"
 
-msgid "Lower limit of ruler"
-msgstr "Had bawah bagi pembaris"
+msgid "Median"
+msgstr "Median"
 
-msgid "Make the expanders indented"
-msgstr "Jadikan pengembang diindenkan"
-
-msgid "Margin"
-msgstr "Margin Kiri"
-
-msgid "Margin on Left"
-msgstr "Margin Kiri"
-
-msgid "Margin on Top"
-msgstr "Margin Kiri"
-
-msgid "Mark name"
-msgstr "Nama tag"
-
-msgid "Marked up text to render"
-msgstr "Markup teks untuk dirender"
-
-msgid "Markup"
-msgstr "Markup"
-
-msgid "Markup column"
-msgstr "Markup"
-
-msgid "Max Size"
-msgstr "Saiz Maksimum"
-
-msgid "Maximal Position"
-msgstr "Posisi Maksimum"
-
-msgid "Maximum Value"
-msgstr "Panjang maksima"
-
-msgid "Maximum Width"
-msgstr "Lebar Maksimum"
-
-msgid "Maximum Width In Characters"
-msgstr "Lebar dalam aksara"
-
-msgid "Maximum age of recently used files, in days"
-msgstr "Bilangan Saluran"
-
-msgid "Maximum allowed width of the column"
-msgstr "Lebar maksimum diizinkan bagi kolum"
-
-msgid "Maximum child expand"
-msgstr "Lebar minima anak"
-
-msgid "Maximum distance allowed between two clicks for them to be considered a double click (in pixels)"
-msgstr "Jarak maksimum diizinkan diantara dua klik supaya ia boleh dipertimbangkan sebagai dwi-klik (dalam piksel)"
-
-msgid "Maximum length"
-msgstr "Panjang maksima"
-
-msgid "Maximum number of characters for this entry. Zero if no maximum"
-msgstr "Bilangan maksimum aksara bagi kemasukan ini. Sifar jika tiada maksimum"
-
-msgid "Maximum size of the ruler"
-msgstr "Saiz maksimum bagi pembaris"
-
-msgid "Maximum time allowed between two clicks for them to be considered a double click (in milliseconds)"
-msgstr "Masa maksima diantara dua klik supaya ia boleh dipertimbangkan sebagai dwi-klik (dalam milisaat)"
+msgid "Medium"
+msgstr "Sederhana"
 
 msgid "Menu"
 msgstr "Menu"
-
-msgid "Menu bar accelerator"
-msgstr "Pemecut bar menu"
-
-msgid "Menu label"
-msgstr "Label menu"
-
-msgid "Merged UI definition"
-msgstr "Takrifan UI digabungkan"
-
-msgid "Message Buttons"
-msgstr "Butang Mesej"
-
-msgid "Message Type"
-msgstr "Jenis mesej"
-
-msgid "Message area"
-msgstr "Jenis mesej"
-
-msgid "Metric"
-msgstr "Numerik"
-
-msgid "Minimal Position"
-msgstr "Posisi Minimum"
-
-msgid "Minimum Key Length"
-msgstr "Panjang kekunci Minimum"
-
-msgid "Minimum Slider Length"
-msgstr "Panjang Penggelungsur Minimum"
-
-msgid "Minimum Value"
-msgstr "X minimum"
-
-msgid "Minimum Width"
-msgstr "Lebar Minimum"
-
-msgid "Minimum allowed width of the column"
-msgstr "Lebar minimum bagi kolum"
-
-msgid "Minimum child height"
-msgstr "Tinggi minima anak"
-
-msgid "Minimum child width"
-msgstr "Lebar minima anak"
-
-msgid "Minimum height of buttons inside the box"
-msgstr "Tinggi inima butang di dalam kekotak"
-
-msgid "Minimum horizontal bar height"
-msgstr "Jajaran mengufuk"
-
-msgid "Minimum horizontal bar width"
-msgstr "Lebar Pemisah Mengufuk"
-
-msgid "Minimum horizontal height of the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "Minimum length of scrollbar slider"
-msgstr "Pangjang minumum bagi penggelungsur bar skrol"
-
-msgid "Minimum length of the search key in order to look up matches"
-msgstr "Panjang minimum bagi kekunci carian untuk mencari padanan"
-
-msgid "Minimum time the pointer must stay over a menu item before the submenu appear"
-msgstr "Masa minimum pentuding mesti kekal sebagai item menu sebelum submenu muncul"
-
-msgid "Minimum vertical bar height"
-msgstr "Tinggi minima anak"
-
-msgid "Minimum vertical bar width"
-msgstr "Lebar Pemisah Menegak"
-
-msgid "Minimum width of buttons inside the box"
-msgstr "Lebar minima butang di dalam kekotak"
-
-msgid "Mnemonic key"
-msgstr "Kekunci Mnemonik"
-
-msgid "Mnemonic widget"
-msgstr "Wiget Mnemonik"
-
-msgid "Mnemonics Visible"
-msgstr "Kekunci Mnemonik"
-
-msgid "Modal"
-msgstr "Modal"
 
 msgid "Mode"
 msgstr "Mod"
 
 msgid "Model"
-msgstr "Mod"
+msgstr "Model"
 
-msgid "Model column to search through during interactive search"
-msgstr "Kolum model untuk mencari bila mencari ke dalam kod"
-
-msgid "Modified"
-msgstr "Diubahsuai"
+msgid "Module"
+msgstr "Modul"
 
 msgid "Monitor"
-msgstr "Bulan"
+msgstr "Monitor"
 
-msgid "Month"
-msgstr "Bulan"
+msgid "Move"
+msgstr "Pindah"
 
 msgid "Name"
 msgstr "Nama"
 
-msgid "Name of a icon theme to fall back to"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Name of default font to use"
-msgstr "Nama bagi font default untuk digunakan"
-
-msgid "Name of icon theme to use"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Name of key theme RC file to load"
-msgstr "Nama fail RC tema kekunci untuk dimuatkan"
-
-msgid "Name of the GtkFileChooser backend to use by default"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Name of the cursor theme to use, or NULL to use the default theme"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
-msgstr "Nama keluarga font, seperti Sans, Helvetica, Times, Monospace"
-
-msgid "Name of the printer"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Name of the themed icon for this window"
-msgstr "Ikon bagi tetingkap ini"
-
-msgid "Name of theme RC file to load"
-msgstr "Nama fail RC tema untuk dimuatkan"
-
-msgid "Name used to refer to the text tag. NULL for anonymous tags"
-msgstr "Nama digunakan untuk merujuk tag teks, NULL bagi tag anonymous"
-
-msgid "No Month Change"
-msgstr "Tiada Perubahan Bulan"
-
-msgid "No items found"
-msgstr "Tiada pengepala XPM dijumpai"
-
-msgid "No pre-filtering"
-msgstr "Tiada pengepala XPM dijumpai"
-
-msgid "No printer found"
-msgstr "Tiada pengepala XPM dijumpai"
-
-msgid "No show all"
-msgstr "Tidak papar semua"
-
 msgid "None"
-msgstr "tiada"
+msgstr "Tiada"
 
-msgid "Not enough free memory"
-msgstr "Tak cukup memori untuk memuatkan ikon"
-
-msgid "Num Lock is on"
-msgstr "Buka Lokasi"
-
-msgid "Number of Pages"
-msgstr "Bilangan Saluran"
-
-msgid "Number of Pages To Print"
-msgstr "Bilangan Saluran"
-
-msgid "Number of axes in the device"
-msgstr "Bilangan baris pada jadual"
-
-msgid "Number of characters to leave space for in the entry"
-msgstr "Bilangan aksara supaya ruang ditinggalkan untuk kemasukan"
-
-msgid "Number of columns"
-msgstr "Bilangan Saluran"
-
-msgid "Number of columns to display"
-msgstr "Bilangan titik perpuluhan untuk dipaparkan"
-
-msgid "Number of jobs queued in the printer"
-msgstr "Bilangan baris pada jadual"
-
-msgid "Number of pixels around the content pages."
-msgstr "Gaya bevel sekeliling kandungannya"
-
-msgid "Number of pixels around the header."
-msgstr "Gaya bevel sekeliling menubar"
-
-msgid "Number of pixels between the scrollbars and the scrolled window"
-msgstr "Bilangan piksel antara bar skrol dan tetingkap diskrolkan"
-
-msgid "Number of pixels of the entry scrolled off the screen to the left"
-msgstr "Bilangan piksel kemasukan diskrolkan ke kiri skrin"
-
-msgid "Number of pixels the cursor can move before dragging"
-msgstr "Bilangan piksel kursor yang boleh digerakkan sebelum diheret"
-
-msgid "Number of recently used files"
-msgstr "Bilangan Saluran"
-
-msgid "Number of steps"
-msgstr "Bilangan Saluran"
+msgid "Number"
+msgstr "Nombor"
 
 msgid "Numeric"
-msgstr "Numerik"
+msgstr "Angka"
 
-msgid "Obey child"
-msgstr "Ikut anak"
+msgid "Open"
+msgstr "Buka"
 
-msgid "Odd Row Color"
-msgstr "Warna Baris Ganjil"
+msgid "Open File"
+msgstr "Buka Fail"
 
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr "Offset bagi teks di atas garis asas (di bawah garis asas jika angkat negatif)"
-
-msgid "Offset of text above the baseline (below the baseline if rise is negative) in Pango units"
-msgstr "Offset bagi teks di atas garis asas (di bawah garis asas jika angkat negatif) dalam piksel"
-
-msgid "On _hold"
-msgstr "_Bold"
-
-msgid "Op_acity:"
-msgstr "_Opacity:"
-
-msgid "Opacity of the selection box"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Options specifying the horizontal behaviour of the child"
-msgstr "Opsyen menyatakan kelakuan mengufuk bagi anak"
-
-msgid "Options specifying the vertical behaviour of the child"
-msgstr "Opsyen menyatakan kelakuan menegak bagi anak"
-
-msgid "Or_ientation:"
-msgstr "Ke_tepuan:"
+msgid "Options"
+msgstr "Pilihan"
 
 msgid "Orientation"
 msgstr "Orientasi"
 
-msgid "Override for height request of the widget, or -1 if natural request should be used"
-msgstr "Tindih permintaan ketinggian widget, atau -1 jika permintaan tabii patut digunakan"
-
-msgid "Override for width request of the widget, or -1 if natural request should be used"
-msgstr "Tindih permintaan kelebaran widget, atau -1 jika permintaan tabii patut digunakan"
-
-msgid "Overwrite mode"
-msgstr "Mod Tindihan"
-
-msgid "P_ause"
-msgstr "Te_pek"
-
-msgid "Pack direction"
-msgstr "Hala Teks"
-
-msgid "Pack type"
-msgstr "Jenis pek"
-
-msgid "Padding"
-msgstr "Padding"
-
-msgid "Padding that should be put around icons in the tray"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
+msgid "Output"
+msgstr "Output"
 
 msgid "Page"
 msgstr "Halaman"
 
-msgid "Page Ordering"
-msgstr "Amaran"
+msgid "Palette"
+msgstr "Palet"
 
-msgid "Page Setup"
-msgstr "Saiz Maksimum"
+msgid "Password"
+msgstr "Kata laluan"
 
-msgid "Page Size"
-msgstr "Saiz Maksimum"
+msgid "Paste"
+msgstr "Tepek"
 
-msgid "Page complete"
-msgstr "Saiz Maksimum"
-
-msgid "Page or_dering:"
-msgstr "_Ciri-ciri"
-
-msgid "Page title"
-msgstr "Saiz Maksimum"
-
-msgid "Page type"
-msgstr "Jenis pek"
-
-msgid "Page_Down"
-msgstr "_Turun"
-
-msgid "Pages"
-msgstr "_Tukarnama"
-
-msgid "Pages Per Sheet"
-msgstr "Imej mempunyai ketinggian sifar"
-
-msgid "Pages per Sheet"
-msgstr "Imej mempunyai ketinggian sifar"
-
-msgid "Pages per _side:"
-msgstr "_Ciri-ciri"
-
-msgid "Palette to use in the color selector"
-msgstr "Palet untuk digunakan sebagai pemilih warna"
-
-msgid "Paper Size"
-msgstr "_Ciri-ciri"
-
-msgid "Paper _source:"
-msgstr "_Ciri-ciri"
-
-msgid "Paper _type:"
-msgstr "_Ciri-ciri"
-
-msgid "Paragraph background color"
-msgstr "Warna latarbelakang sel"
-
-msgid "Paragraph background color as a (possibly unallocated) GdkColor"
-msgstr "Warna latarbelakang sebagai (mungkin tak diperuntukkan) GdkColor"
-
-msgid "Paragraph background color as a string"
-msgstr "Warna latarbelakang sebagai rentetan"
-
-msgid "Paragraph background color name"
-msgstr "Nama warna latarbelakang sel"
-
-msgid "Paragraph background set"
-msgstr "Set latar belakang sel"
-
-msgid "Parent"
-msgstr "Wiget Ibubapa"
-
-msgid "Parent widget"
-msgstr "Wiget Ibubapa"
-
-msgid "Password:"
-msgstr "Tekanan"
-
-msgid "Path does not exist"
-msgstr "pintasan %{string} tak wujud"
+msgid "Path"
+msgstr "Path"
 
 msgid "Pattern"
 msgstr "Corak"
 
-msgid "Pause"
-msgstr "Te_pek"
-
 msgid "Paused"
 msgstr "Te_pek"
 
-msgid "Paused Printer"
-msgstr "Tapisan"
-
-msgid "Pick a Color"
-msgstr "Pilih satu Warna"
-
-msgid "Pick a Font"
-msgstr "Pilih satu Font"
-
-msgid "Pixbuf"
-msgstr "Pixbuf"
-
-msgid "Pixbuf Expander Closed"
-msgstr "Pengembang Pixbuf Tertutup"
-
-msgid "Pixbuf Expander Open"
-msgstr "Pengembang Pixbuf Terbuka"
-
-msgid "Pixbuf Object"
-msgstr "Objek Pixbuf"
-
-msgid "Pixbuf column"
-msgstr "Kolum Teks"
-
-msgid "Pixbuf for closed expander"
-msgstr "Pixbuf bagi pengembang tertutup"
-
-msgid "Pixbuf for open expander"
-msgstr "Pixbuf bagi pengembang terbuka"
-
-msgid "Pixel size"
+msgid "Pixel"
 msgstr "Piksel"
 
-msgid "Pixel size to use for named icon"
-msgstr "Saiz untk digunakan untuk ikon stok dan set ikon"
+msgid "Placement"
+msgstr "Penempatan"
 
-msgid "Pixels Above Lines"
-msgstr "Piksel di atas garisan"
+msgid "Plural"
+msgstr "Jamak"
 
-msgid "Pixels Below Lines"
-msgstr "Piksel dibawah garisan"
+msgid "Point"
+msgstr "Titik"
 
-msgid "Pixels Inside Wrap"
-msgstr "Piksel di dalam pembalut"
-
-msgid "Pixels above lines"
-msgstr "Piksel di atas garisan"
-
-msgid "Pixels above lines set"
-msgstr "Piksel ruang kosong diatas perenggan"
-
-msgid "Pixels below lines"
-msgstr "Piksel dibawah garisan"
-
-msgid "Pixels below lines set"
-msgstr "Piksel di bawah set baris"
-
-msgid "Pixels inside wrap"
-msgstr "Piksel di dalam pembalut"
-
-msgid "Pixels inside wrap set"
-msgstr "Piksel di dalam set balutan"
-
-msgid "Pixels of blank space above paragraphs"
-msgstr "Piksel ruang kosong diatas perenggan"
-
-msgid "Pixels of blank space below paragraphs"
-msgstr "Piksel ruang kosong di bawah perenggan"
-
-msgid "Pixels of blank space between wrapped lines in a paragraph"
-msgstr "Piksel bagi ruang kosong antara baris dibalut pada perenggan"
-
-msgid "Pixels of extra space on the right side"
-msgstr "Piksel ruang kosong diatas perenggan"
-
-msgid "Pixels of extra space on the top side"
-msgstr "Piksel ruang kosong diatas perenggan"
-
-msgid "Place scrollbars within the scrolled window's bevel"
-msgstr "Bilangan piksel antara bar skrol dan tetingkap diskrolkan"
-
-msgid "Popup set width"
-msgstr "Fokus lebar garisan"
-
-msgid "Popup shown"
-msgstr "Fokus lebar garisan"
+msgid "Polygon"
+msgstr "Poligon"
 
 msgid "Portrait"
-msgstr "_Cetak"
+msgstr "Potret"
 
 msgid "Position"
 msgstr "Posisi"
 
-msgid "Position Set"
-msgstr "Set Posisi"
+msgid "Preferences"
+msgstr "Keutamaan"
 
-msgid "Position of mark on the ruler"
-msgstr "Posisi tanda pada pembaris"
-
-msgid "Position of paned separator in pixels (0 means all the way to the left/top)"
-msgstr "Posisi pemisah satah dalam pixel (0 bermaksud banyak ke kiri/atas)"
-
-msgid "Position of the handle relative to the child widget"
-msgstr "Posisi pengendali relatif kepada wiget anak"
-
-msgid "Position of the item within this group"
-msgstr "Posisi tanda pada pembaris"
-
-msgid "Position on the color wheel."
-msgstr "Posisi roda warna."
-
-msgid "Postscript"
-msgstr "_Cetak"
-
-msgid "Preparing"
-msgstr "Amaran"
-
-msgid "Preparing to print"
-msgstr "Amaran"
-
-msgid "Preview Widget Active"
-msgstr "Wiget Prebiu Aktif"
-
-msgid "Preview text"
-msgstr "Prebiu teks"
-
-msgid "Preview widget"
-msgstr "Wiget Prebiu"
-
-msgid "Primary icon name"
-msgstr "Nama Font"
-
-msgid "Primary icon sensitive"
-msgstr "Papar sel"
-
-msgid "Primary icon tooltip markup"
-msgstr "Nama Font"
-
-msgid "Primary icon tooltip text"
-msgstr "Papar sel"
-
-msgid "Primary pixbuf"
-msgstr "Pixbuf"
-
-msgid "Primary pixbuf for the entry"
-msgstr "Pixbuf bagi pengembang terbuka"
-
-msgid "Primary storage type"
-msgstr "Jenis storan"
+msgid "Preview"
+msgstr "Prebiu"
 
 msgid "Print"
-msgstr "_Cetak"
-
-msgid "Print Pre_view"
-msgstr "Pre_biu Cetakan"
-
-msgid "Print at"
-msgstr "_Cetak"
-
-msgid "Print at time"
-msgstr "_Cetak"
+msgstr "Cetak"
 
 msgid "Print to File"
 msgstr "_Cetak"
 
-msgid "Print to Test Printer"
-msgstr "_Cetak"
-
 msgid "Printer"
-msgstr "Tapisan"
+msgstr "Pencetak"
 
-msgid "Printer Default"
-msgstr "Default"
+msgid "Progress"
+msgstr "Progres"
 
-msgid "Printing"
-msgstr "_Cetak"
+msgid "Properties"
+msgstr "Ciri-ciri"
 
-msgid "Program name"
-msgstr "Nama tag"
-
-msgid "Progress Border"
-msgstr "Sempadan Palung"
-
-msgid "Progress Fraction"
-msgstr "Pecahan"
-
-msgid "Progress Pulse Step"
-msgstr "Langkah denyutan"
-
-msgid "Pulse"
-msgstr "Langkah denyutan"
-
-msgid "Pulse Step"
-msgstr "Langkah denyutan"
-
-msgid "Pulse of the spinner"
-msgstr "Nama bagi tema ikon untuk digunakan"
-
-msgid "Question"
-msgstr "Soalan"
-
-msgid "RLM _Right-to-left mark"
-msgstr "RLM tanda ka_nan-ke-kiri"
-
-msgid "R_ewind"
-msgstr "_Cari"
-
-msgid "Radio state"
-msgstr "Keadaan Radio"
+msgid "Random"
+msgstr "Rawak"
 
 msgid "Ratio"
 msgstr "Nisbah"
 
-msgid "Reads the current value, or sets a new value"
-msgstr "Baca nilai semasa, atau tetapkan nilai baru"
+msgid "Rectangle"
+msgstr "Segi empat"
 
-msgid "Received invalid color data\n"
-msgstr "Menerima data warna tidak sah\n"
-
-msgid "Receives default"
-msgstr "Menerima default"
-
-msgid "Related Action"
-msgstr "Aksi"
-
-msgid "Relief of the group header button"
-msgstr "Papar butang pengepala kolum"
+msgid "Redo"
+msgstr "Ulangcara"
 
 msgid "Remove"
-msgstr "_Buang"
+msgstr "Buang"
 
-msgid "Rename..."
-msgstr "_Tukarnama"
-
-msgid "Render detail to pass to the theme engine"
-msgstr "Render perincian untuk dihantar ke enjin tema"
-
-msgid "Reorderable"
-msgstr "Boleh disusun semula"
-
-msgid "Resizable"
-msgstr "Boleh diubahsaiz"
+msgid "Replace"
+msgstr "Ganti"
 
 msgid "Resize"
 msgstr "Ubahsaiz"
 
-msgid "Resize mode"
-msgstr "Mod ubahsaiz"
-
-msgid "Resize mode of the column"
-msgstr "Ubahsaiz mod bagi kolum"
-
 msgid "Resolution"
-msgstr "Soalan"
+msgstr "Resolusi"
+
+msgid "Revert"
+msgstr "Berbalik"
 
 msgid "Right"
-msgstr "_Hue:"
+msgstr "Kanan"
 
-msgid "Right Attach"
-msgstr "Lampiran Kanan"
-
-msgid "Right Margin"
-msgstr "Margin Kanan"
-
-msgid "Right Padding"
-msgstr "Padding Kanan"
-
-msgid "Right attachment"
-msgstr "Lampiran kanan"
-
-msgid "Right margin"
-msgstr "Margin Kanan"
-
-msgid "Right margin set"
-msgstr "Set margin kiri"
-
-msgid "Right to left"
-msgstr "_Cetak"
-
-msgid "Rise"
-msgstr "Naik"
-
-msgid "Rise set"
-msgstr "Set Angkat"
-
-msgid "Row Spacing"
-msgstr "Jarak ruang baris"
-
-msgid "Row has children"
-msgstr "Baris mempunyai anak"
-
-msgid "Row is an expander row, and is expanded"
-msgstr "Baris adalah baris pengembang, dan ianya terkembang"
-
-msgid "Row spacing"
-msgstr "Jarak ruang baris"
-
-msgid "Row span column"
-msgstr "Kolum span baris"
+msgid "Rotate"
+msgstr "Kilas"
 
 msgid "Rows"
 msgstr "Baris"
 
-msgid "Sans 12"
-msgstr "Sans 12"
+msgid "Saturation"
+msgstr "Ketepuan"
 
-msgid "Save _As"
-msgstr "Simpan Seb_agai"
+msgid "Save"
+msgstr "Simpan"
 
-msgid "Save in _folder:"
-msgstr "Simpan di _folder:"
+msgid "Save File"
+msgstr "Simpan Fail"
 
-msgid "Sc_ale:"
-msgstr "_Nilai:"
+msgid "Scale"
+msgstr "Skala"
 
 msgid "Screen"
 msgstr "Skrin"
 
-msgid "Scroll arrow spacing"
-msgstr "Ruangjarak bar skrol"
+msgid "Search"
+msgstr "Cari"
 
-msgid "Scroll offset"
-msgstr "Offset skrol"
-
-msgid "Scrollable"
-msgstr "Boleh skrol"
-
-msgid "Scrollbar spacing"
-msgstr "Ruangjarak bar skrol"
-
-msgid "Scrollbars within bevel"
-msgstr "Ruangjarak bar skrol"
-
-msgid "Scrolled Window Placement"
-msgstr "Penempatan Tetingkap"
-
-msgid "Se_lection"
-msgstr "_Pilihan:"
-
-msgid "Search Column"
-msgstr "Carian Kolum"
-
-msgid "Secondary"
-msgstr "Sekunder"
-
-msgid "Secondary GIcon"
-msgstr "Sekunder"
-
-msgid "Secondary Text"
-msgstr "Sekunder"
-
-msgid "Secondary backward stepper"
-msgstr "Pelangkah undur sekunder"
-
-msgid "Secondary cursor color"
-msgstr "Warna kursor sekunder"
-
-msgid "Secondary forward stepper"
-msgstr "Pelangkah maju sekunder"
-
-msgid "Secondary icon activatable"
-msgstr "Warna kursor sekunder"
-
-msgid "Secondary icon name"
-msgstr "Sekunder"
-
-msgid "Secondary icon sensitive"
-msgstr "Sekunder"
-
-msgid "Secondary icon tooltip markup"
-msgstr "Sekunder"
-
-msgid "Secondary icon tooltip text"
-msgstr "Warna kursor sekunder"
-
-msgid "Secondary pixbuf"
-msgstr "Sekunder"
-
-msgid "Secondary pixbuf for the entry"
-msgstr "Pelangkah maju sekunder"
-
-msgid "Secondary stock ID"
-msgstr "Sekunder"
-
-msgid "Secondary storage type"
-msgstr "Pelangkah maju sekunder"
-
-msgid "Secret"
-msgstr "Skrin"
-
-msgid "Select A File"
-msgstr "Padam Fail"
-
-msgid "Select Multiple"
-msgstr "Pilih Pelbagai"
+msgid "Select"
+msgstr "Pilih"
 
 msgid "Select _All"
 msgstr "Pilih _Semua"
 
-msgid "Select a folder"
-msgstr "Padam Fail"
-
-msgid "Select on focus"
-msgstr "Pilih pada fokus"
-
-msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
-msgstr "Pilih warna yang anda ingin daripada bulatan luaran. Pilih kegelapan atau kecerahan warna mnggunakan segitiga dalaman."
-
-msgid "Selectable"
-msgstr "Boleh dipilih"
-
-msgid "Selected Printer"
-msgstr "Tahun yang dipilih"
-
-msgid "Selection Bound"
-msgstr "Sempadan Pilihan"
-
-msgid "Selection Box Alpha"
-msgstr "Sempadan Pilihan"
-
-msgid "Selection Box Color"
-msgstr "Sempadan Pilihan"
-
-msgid "Selection mode"
-msgstr "Sempadan Pilihan"
+msgid "Selection"
+msgstr "Pilihan"
 
 msgid "Sensitive"
 msgstr "Sensitif"
 
-msgid "Separator Height"
-msgstr "Tinggi Default"
-
-msgid "Separator Width"
-msgstr "Lebar Pemisah Menegak"
-
-msgid "Set a hint to the theme engine to draw rows in alternating colors"
-msgstr "Tetapkan petua pada jentera tema untuk melukis baris dalam warna berselang"
-
-msgid "Set the column for the expander column"
-msgstr "Tetapkan kolum bagi kolum pengembang"
-
-msgid "Shadow Type"
-msgstr "Jenis Bayang"
-
-msgid "Shadow type"
-msgstr "Jenis bayang"
+msgid "Settings"
+msgstr "Tetapan"
 
 msgid "Shift"
 msgstr "Shif"
 
-msgid "Short label"
-msgstr "Label pendek"
+msgid "Shortcut"
+msgstr "Pintasan"
 
-msgid "Shortcut %{string} already exists"
-msgstr "pintasan %{string} tak wujud"
-
-msgid "Shortcut %{string} does not exist"
-msgstr "pintasan %{string} tak wujud"
-
-msgid "Show Arrow"
-msgstr "Papar Panah"
-
-msgid "Show Border"
-msgstr "Papar Sempadan"
-
-msgid "Show Day Names"
-msgstr "Papar Nama Hari"
-
-msgid "Show Details"
-msgstr "Papar Pengepala"
-
-msgid "Show Dialog"
-msgstr "Papar Pengepala"
-
-msgid "Show Expanders"
-msgstr "Adalah Pengembang"
-
-msgid "Show Heading"
-msgstr "Papar Pengepala"
-
-msgid "Show Hidden"
-msgstr "Papar Tersembunyi"
-
-msgid "Show Icons"
-msgstr "Ikon Stok"
-
-msgid "Show Numbers"
-msgstr "Papar Bilangan Minggu"
-
-msgid "Show Private"
-msgstr "Papar teks"
-
-msgid "Show Tabs"
-msgstr "Papar Tab"
-
-msgid "Show Tooltips"
-msgstr "Tooltip"
-
-msgid "Show Week Numbers"
-msgstr "Papar Bilangan Minggu"
-
-msgid "Show _Hidden Files"
-msgstr "Papar Fail _Tersembunyi"
-
-msgid "Show menu images"
-msgstr "Papar Bilangan Minggu"
-
-msgid "Show size"
-msgstr "Papar saiz"
-
-msgid "Show style"
-msgstr "Papar gaya"
-
-msgid "Show text"
-msgstr "Papar teks"
-
-msgid "Show the column header buttons"
-msgstr "Papar butang pengepala kolum"
-
-msgid "Shrink"
-msgstr "Kuncup"
-
-msgid "Si_ze:"
-msgstr "Sai_z:"
-
-msgid "Sidebar image"
-msgstr "Nilai"
+msgid "Show"
+msgstr "Papar"
 
 msgid "Simple"
 msgstr "Saiz"
 
-msgid "Single Line Mode"
-msgstr "Mod Perenggan Tunggal"
-
-msgid "Single Paragraph Mode"
-msgstr "Mod Perenggan Tunggal"
+msgid "Singular"
+msgstr "Satu"
 
 msgid "Size"
 msgstr "Saiz"
 
-msgid "Size of check or radio indicator"
-msgstr "Saiz penunjuk radio atau check"
-
-msgid "Size of icons in this tool palette"
-msgstr "Saiz ikon pada toolbar default"
-
-msgid "Size of icons in this toolbar"
-msgstr "Saiz ikon pada toolbar default"
-
-msgid "Size of spacers"
-msgstr "Saiz ruang ruang"
-
-msgid "Size of tab curvature"
-msgstr "Saiz ruang ruang"
-
-msgid "Size of tab overlap area"
-msgstr "Saiz bagi panah pegembang"
-
 msgid "Size of the expander arrow"
-msgstr "Saiz bagi panah pegembang"
+msgstr "Saiz bagi panah pengembang"
 
-msgid "Size to use for cursors, or 0 to use the default size"
-msgstr "Warna digunakan untuk baris ganjil"
+msgid "Small"
+msgstr "Kecil"
 
-msgid "Sizing"
-msgstr "Pengubahsaizan"
+msgid "Solid color"
+msgstr "Warna Solid"
 
-msgid "Skip taskbar"
-msgstr "Langkah taskbar"
-
-msgid "Slider Length"
-msgstr "Panjang Penggelungsur"
-
-msgid "Slider Width"
-msgstr "Lebar Peluncur"
-
-msgid "Smallest possible value for the \"position\" property"
-msgstr "Nilai paling kecil yg boleh bagi ciri-ciri \"position\""
-
-msgid "Snap edge set"
-msgstr "Set mod balut"
-
-msgid "Sole completion"
-msgstr "Pemilihan Warna"
-
-msgid "Sort Type"
-msgstr "Jenis Bayang"
-
-msgid "Sort column ID"
-msgstr "Kolum Teks"
-
-msgid "Sort direction the sort indicator should indicate"
-msgstr "Hala isihan yang penunjuk isihan patut tunjuk"
-
-msgid "Sort indicator"
-msgstr "Penunjuk Isihan"
-
-msgid "Sort order"
-msgstr "Turutan isihan"
-
-msgid "Sound Theme Name"
-msgstr "Nama Tema Ikon"
-
-msgid "Source option"
-msgstr "Opsyen menegak"
-
-msgid "Source type for the device"
-msgstr "Model pagi paparan pepohon"
-
-msgid "Space"
-msgstr "_Tukarnama"
-
-msgid "Space between day headers and main area"
-msgstr "Jarak ruang sekeliling panah pengembang"
-
-msgid "Space between value text and the slider/trough area"
-msgstr "Ruang antara teks nilai dan kawasan penggelungsur"
-
-msgid "Space between week headers and main area"
-msgstr "Ruang antara teks nilai dan kawasan penggelungsur"
-
-msgid "Space style"
-msgstr "Gaya ruang"
-
-msgid "Space to put between the label and the child"
-msgstr "Runga  untuk diletakkan diantara label dan anaknya"
-
-msgid "Spacer size"
-msgstr "Saiz ruang"
+msgid "Source"
+msgstr "Sumber"
 
 msgid "Spacing"
 msgstr "Jarak ruang"
 
-msgid "Spacing around check or radio indicator"
-msgstr "Jarak Ruang sekeliling penunjuk check atau radio"
+msgid "Speed"
+msgstr "Kelajuan"
 
-msgid "Spacing around expander arrow"
-msgstr "Jarak ruang sekeliling panah pengembang"
-
-msgid "Spacing between buttons"
-msgstr "Jarak ruang di antara butang"
-
-msgid "Spacing between elements of the area"
-msgstr "Ruang antara teks nilai dan kawasan penggelungsur"
-
-msgid "Spacing between elements of the main dialog area"
-msgstr "Ruang antara teks nilai dan kawasan penggelungsur"
-
-msgid "Spacing between expander arrow and caption"
-msgstr "Jarak ruang sekeliling panah pengembang"
-
-msgid "Spacing between step buttons and thumb"
-msgstr "Ruangjarak antara butang langkah dan ibujari"
-
-msgid "Spacing between thumb/steppers and outer trough bevel"
-msgstr "RUangjarak antara ibujari/pelangkah dan bevel luaran"
-
-msgid "Spacing in pixels between the icon and label"
-msgstr "Ruangjarak antara butang langkah dan ibujari"
-
-msgid "Spacing in pixels between the image and label"
-msgstr "Runga  untuk diletakkan diantara label dan anaknya"
-
-msgid "Specify how resize events are handled"
-msgstr "Nyatakan bagaimana acara ubahsaiz dikendali"
-
-msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
-msgstr "Lajukan GtkTreeView dengan menganggap semua baris mempunyai ketinggian sama"
-
-msgid "Split Cursor"
-msgstr "Split Kursor"
-
-msgid "Startup ID"
-msgstr "Kumpulan"
-
-msgid "Step Increment"
-msgstr "Skrin"
-
-msgid "Stepper Size"
-msgstr "Saiz Pelangkah"
-
-msgid "Stepper Spacing"
-msgstr "Ruangjarak Pelangkah"
-
-msgid "Stock ID"
-msgstr "ID Stok"
-
-msgid "Stock ID for a stock image to display"
-msgstr "ID stok bagi imej stok untuk dipaparkan"
-
-msgid "Stock Icon"
-msgstr "Ikon Stok"
-
-msgid "Stock Id"
-msgstr "Id Stok"
-
-msgid "Storage type"
-msgstr "Jenis storan"
+msgid "Standard"
+msgstr "Piawaian"
 
 msgid "Strikethrough"
-msgstr "Coret tembus"
-
-msgid "Strikethrough set"
-msgstr "Set coret tembus"
+msgstr "Coret?"
 
 msgid "Style"
 msgstr "Gaya"
 
-msgid "Style of bevel around the contents"
-msgstr "Gaya bevel sekeliling kandungannya"
+msgid "Submit"
+msgstr "Hantar"
 
-msgid "Style of bevel around the menubar"
-msgstr "Gaya bevel sekeliling menubar"
-
-msgid "Style of bevel around the spin button"
-msgstr "Gaya bevel sekeliling butang pusing"
-
-msgid "Style of bevel around the statusbar text"
-msgstr "Gaya bevel sekeliling teks bar status"
-
-msgid "Style of bevel around the toolbar"
-msgstr "Gaya bevel sekeliling toolbar"
-
-msgid "Style of items in the tool palette"
-msgstr "Gaya bevel sekeliling toolbar"
-
-msgid "Style of underline for this text"
-msgstr "Gaya garisbawah bagi teks"
-
-msgid "Success color"
-msgstr "Warna kursor"
-
-msgid "Support Selection"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Symbolic size to use for stock icon, icon set or named icon"
-msgstr "Saiz untk digunakan untuk ikon stok dan set ikon"
-
-msgid "Sys_Req"
-msgstr "Sistemfail"
+msgid "Symbol"
+msgstr "Simbol"
 
 msgid "System"
-msgstr "Sistemfail"
-
-msgid "TRUE if the Position property should be used"
-msgstr "BENAR jika ciri-ciri posisi patut digunakan"
-
-msgid "TRUE if the window should be brought to the user's attention."
-msgstr "BENAR jika tetingkap tak patut berada di pager."
-
-msgid "TRUE if the window should not be in the pager."
-msgstr "BENAR jika tetingkap tak patut berada di pager."
-
-msgid "TRUE if the window should not be in the task bar."
-msgstr "BENAR jika tetingkap tak patut berada di taskbar."
-
-msgid "TRUE if the window should receive the input focus when mapped."
-msgstr "BENAR jika tetingkap tak patut berada di pager."
-
-msgid "TRUE if the window should receive the input focus."
-msgstr "BENAR jika tetingkap tak patut berada di pager."
-
-msgid "TRUE if this printer is paused"
-msgstr "BENAR jika ciri-ciri posisi patut digunakan"
-
-msgid "Tab Position"
-msgstr "Posisi Tab"
-
-msgid "Tab detachable"
-msgstr "Label tab"
-
-msgid "Tab expand"
-msgstr "Pengembang tab"
-
-msgid "Tab fill"
-msgstr "Isi tab"
-
-msgid "Tab label"
-msgstr "Label tab"
-
-msgid "Tab overlap"
-msgstr "Sempadan Tab"
-
-msgid "Tab pack type"
-msgstr "Jenis pek tab"
-
-msgid "Tab reorderable"
-msgstr "Boleh disusun semula"
-
-msgid "Tabs"
-msgstr "Tab"
-
-msgid "Tabs set"
-msgstr "Set Tab"
-
-msgid "Tag Table"
-msgstr "Jadual Tag"
-
-msgid "Tag name"
-msgstr "Nama tag"
-
-msgid "Take Focus"
-msgstr "Mempunyai fokus"
-
-msgid "Tearoff State"
-msgstr "Tajuk Pengoyak"
-
-msgid "Tearoff Title"
-msgstr "Tajuk Pengoyak"
-
-msgid "Terminal Pager"
-msgstr "Pre_biu Cetakan"
+msgstr "Sistem"
 
 msgid "Text"
 msgstr "Teks"
 
-msgid "Text Buffer"
-msgstr "Penimbal"
-
-msgid "Text Column"
-msgstr "Kolum Teks"
-
-msgid "Text Tag Table"
-msgstr "Jadual Tag Teks"
-
-msgid "Text column"
-msgstr "Kolum Teks"
-
-msgid "Text direction"
-msgstr "Hala Teks"
-
-msgid "Text direction, e.g. right-to-left or left-to-right"
-msgstr "Hala teks, e.g. kanan-ke-kiri atau kiri-ke-kanan"
-
-msgid "Text length"
-msgstr "Jajaran x teks"
-
-msgid "Text of the expander's label"
-msgstr "Teks bagi label pengembang"
-
-msgid "Text of the frame's label"
-msgstr "Teks bagi label kerangka"
-
-msgid "Text of the label widget inside the button, if the button contains a label widget"
-msgstr "Teks wiget label didalam butang, jika butang mengandungi widget label"
-
-msgid "Text on the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "Text to be displayed in the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "Text to render"
-msgstr "Teks untuk dirender"
-
-msgid "Text to show in the item."
-msgstr "Teks untuk dipaparkan pada item."
-
-msgid "Text x alignment"
-msgstr "Jajaran x teks"
-
-msgid "Text y alignment"
-msgstr "Jajaran yy teks"
-
-msgid "The Accel Group to use for stock accelerator keys"
-msgstr "Penutupan untuk monitor perubahan pemecut"
-
-msgid "The GIcon being displayed"
-msgstr "Set ikon untuk dipaparkan"
-
-msgid "The GtkAdjustment for the horizontal position"
-msgstr "GtkAdjustment bagi  posisi mengufuk"
-
-msgid "The GtkAdjustment for the vertical position"
-msgstr "GtkAdjustment bagi posisi menegak"
-
-msgid "The GtkAdjustment that contains the current value of this range object"
-msgstr "GtkAdjustment yang mengandungi nilai semasa julat objek ini"
-
-msgid "The GtkAdjustment that contains the current value of this scale button object"
-msgstr "GtkAdjustment yang mengandungi nilai semasa julat objek ini"
-
-msgid "The GtkAdjustment that determines the values of the horizontal position for this viewport"
-msgstr "GtkAdjustment menentukan nilai bagi posisi mengufuk untuk viewport ini"
-
-msgid "The GtkAdjustment that determines the values of the vertical position for this viewport"
-msgstr "GtkAdjustment menentukan nilai bagi posisi menegajk untuk viewport ini"
-
-msgid "The GtkIconSize value that specifies the size of the rendered icon"
-msgstr "Saiz bagi ikon dirender"
-
-msgid "The GtkIconSize value that specifies the size of the rendered spinner"
-msgstr "Saiz bagi ikon dirender"
-
-msgid "The GtkPrinter which is selected"
-msgstr "Item yang yang kini aktif"
-
-msgid "The OK button of the dialog."
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The RecentManager object to use"
-msgstr "Objek sistem fail untuk digunakan"
-
-msgid "The URI bound to this button"
-msgstr "Togol keadaan bagi butang"
-
-msgid "The accel group holding accelerators for the menu"
-msgstr "Kekunci pemecut mnemonik bagi label ini"
-
-msgid "The acceleration rate when you hold down a button"
-msgstr "Kadar pemecutan bila anda memegang satu butang"
-
-msgid "The adjustment that holds the value of the spin button"
-msgstr "Penyesuaian yang memegang nilai bagi spinbutton"
-
-msgid "The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that"
-msgstr "Jajaran baris pada teks label relatif semasa sendiri. Ini TIDAK memberi kesan pada jajaran label di dalam peruntukannya. Lihat GtkMisc::xalign untuk itu"
-
-msgid "The amount of space between children"
-msgstr "Jumlah ruang di antara anak"
-
-msgid "The amount of space between two consecutive columns"
-msgstr "Jumlah ruang di antara kolum bersebelahan"
-
-msgid "The amount of space between two consecutive rows"
-msgstr "Jumlah ruang antara dua baris berdekatan"
-
-msgid "The amount of space to add on the left and right of the widget, in pixels"
-msgstr "Jumlah ruang untuk ditambah pada kiri dan kanan wiget, dalam piksel"
-
-msgid "The amount of space to add on the top and bottom of the widget, in pixels"
-msgstr "Jumlah ruang untuk ditambah pada atas dan bawah wiget, dalam piksel"
-
-msgid "The border relief style"
-msgstr "Gaya pelepasan sempadan"
-
-msgid "The buffer which is displayed"
-msgstr "Penimbal yang dipaparkan"
-
-msgid "The buttons shown in the message dialog"
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The cancel button of the dialog."
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The character to use when masking entry contents (in \"password mode\")"
-msgstr "Aksara digunakan bila menopeng kandungan kemasukan (pada \"mod katalaluan\")"
-
-msgid "The child pack direction of the menubar"
-msgstr "Orientasi toolbar"
-
-msgid "The closure to be monitored for accelerator changes"
-msgstr "Penutupan untuk monitor perubahan pemecut"
-
-msgid "The color selection embedded in the dialog."
-msgstr "Tajuk bagi dialog pemilihan warna"
-
-msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
-msgstr "Warna yang anda pilih. Anda boleh heret warna ini ke kemasukan palet supaya disimpan untuk kegunaan masa hadapan."
-
-msgid "The column in the model containing the tooltip texts for the items"
-msgstr "Kolum pada model sumber data untuk mendapatkan rentetan drpdnya"
-
-msgid "The column in the model containing the tooltip texts for the rows"
-msgstr "Kolum pada model sumber data untuk mendapatkan rentetan drpdnya"
-
-msgid "The column number to attach the left side of the child to"
-msgstr "Bilangan kolum untuk dilampirkan ke sebelah kiri anak"
-
-msgid "The column number to attach the right side of a child widget to"
-msgstr "Bilangan kolum untuk dilampirkan ke sebelah kanan wiget anak"
-
-msgid "The column number to attach the right side of the child to"
-msgstr "Bilangan kolum untuk dilampirkan ke sebelah kanan anak"
-
-msgid "The column of the model containing the strings."
-msgstr "Kolum pada model sumber data untuk mendapatkan rentetan drpdnya"
-
-msgid "The contents of the buffer"
-msgstr "Kandungan kemasukan"
-
-msgid "The contents of the entry"
-msgstr "Kandungan kemasukan"
-
-msgid "The contents of the tooltip for this tray icon"
-msgstr "Kandungan kemasukan"
-
-msgid "The contents of the tooltip for this widget"
-msgstr "Kandungan kemasukan"
-
-msgid "The contents of the tooltip on the primary icon"
-msgstr "Kandungan kemasukan"
-
-msgid "The contents of the tooltip on the secondary icon"
-msgstr "Kandungan kemasukan"
-
-msgid "The current color"
-msgstr "Warna semasa"
-
-msgid "The current filter for selecting which files are displayed"
-msgstr "Tapisan semasa bagi memilih fail mana yang dipaparkan"
-
-msgid "The current filter for selecting which resources are displayed"
-msgstr "Tapisan semasa bagi memilih fail mana yang dipaparkan"
-
-msgid "The current fraction of the task that's been completed"
-msgstr "Pecahan jumlah kerja yang telah selesai"
-
-msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "Nilai opacity semasa (0 telus sepenuhnya, 65535 opaque sepenuhnya)"
-
-msgid "The current page in the document"
-msgstr "Togol keadaan bagi butang"
-
-msgid "The current position of the insertion cursor in chars"
-msgstr "Posisi semasa bagi kursor penyelitan dalam aksara"
-
-msgid "The current value"
-msgstr "Warna semasa"
-
-msgid "The currently selected menu item"
-msgstr "Fail yang sedang dipilih"
-
-msgid "The default display for GDK"
-msgstr "Paparan default bagi GDK"
-
-msgid "The default font options for the screen"
-msgstr "Nama bagi font default untuk digunakan"
-
-msgid "The default height of the window, used when initially showing the window"
-msgstr "Tinggi default tetingkap, digunakan bila mula memaparkan tetingkap"
-
-msgid "The default width of the window, used when initially showing the window"
-msgstr "Lebar default tetingkap, digunakan bila mula memaparkan tetingkap"
-
-msgid "The direction the arrow should point"
-msgstr "Hala panah patut ditudingi"
-
-msgid "The event mask that decides what kind of GdkEvents this widget gets"
-msgstr "Topengan acara yang menentukan jenis apa GdkEvents yang wiget ini perolehi"
-
-msgid "The fixed height"
-msgstr "Ketinggian tetap"
-
-msgid "The fixed width"
-msgstr "Lebar tetap"
-
-msgid "The fraction of total entry width to move the progress bouncing block for each call to gtk_entry_progress_pulse()"
-msgstr "Pecahan jumlah progres untuk menggerakkan blok bila didenyutkan"
-
-msgid "The fraction of total progress to move the bouncing block when pulsed"
-msgstr "Pecahan jumlah progres untuk menggerakkan blok bila didenyutkan"
-
-msgid "The fraction of total work that has been completed"
-msgstr "Pecahan jumlah kerja yang telah selesai"
-
-msgid "The height of the layout"
-msgstr "Tinggi bagi susunatur"
-
-msgid "The help button of the dialog."
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The horizontal alignment of the label"
-msgstr "Jajaran mengufuk bagi label"
-
-msgid "The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
-msgstr "Jajaran mengufuk, dari 0 (kiri) ke 1 (kanan)"
-
-msgid "The horizontal text alignment, from 0 (left) to 1 (right). Reversed for RTL layouts."
-msgstr "Jajaran mengufuk, dari 0 (kiri) ke 1 (kanan)"
-
-msgid "The human-readable title of this item group"
-msgstr "Tajuk kepada tetingkap"
-
-msgid "The icon name to use for the printer"
-msgstr "Model pagi paparan pepohon"
-
-msgid "The icon size"
-msgstr "Saiz ikon toolbar"
-
-msgid "The image"
-msgstr "Nilai"
-
-msgid "The inconsistent state of the button"
-msgstr "Keadaan tak konsisten bagi butang"
-
-msgid "The index of the child in the parent"
-msgstr "Indeks anak pada ibubapa"
-
-msgid "The index of the current page"
-msgstr "Indeks laman semasa"
-
-msgid "The initial position of the window"
-msgstr "Posisi permulaan bagi tetingkap"
-
-msgid "The item which is currently active"
-msgstr "Item yang yang kini aktif"
-
-msgid "The keyval of the accelerator"
-msgstr "Nama bagi wiget"
-
-msgid "The label used for menu items and buttons that activate this action."
-msgstr "Label digunakan bagi item dan butang menu yang mengaktifkan aksi ini."
-
-msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If not set, an appropriate default will be used."
-msgstr "Bahasa bagi teks ini, sebagai kod ISO, Panggo boleh menggunakan ia sebagai petua bila merender teks. JIka anda tak memahami parameter ini, anda mungkin tak memerlukannya"
-
-msgid "The language this text is in, as an ISO code. Pango can use this as a hint when rendering the text. If you don't understand this parameter, you probably don't need it"
-msgstr "Bahasa bagi teks ini, sebagai kod ISO, Panggo boleh menggunakan ia sebagai petua bila merender teks. JIka anda tak memahami parameter ini, anda mungkin tak memerlukannya"
-
-msgid "The length of horizontal scroll arrows"
-msgstr "Bila bar skrol mengufuk dipaparkan"
-
-msgid "The length of vertical scroll arrows"
-msgstr "Bila bar skrol menegak dipaparkan"
-
-msgid "The license type of the program"
-msgstr "Orientasi toolbar"
-
-msgid "The location of the printer"
-msgstr "Orientasi toolbar"
-
-msgid "The mask that decides what kind of extension events this widget gets"
-msgstr "Topengan yang menentukan jenis acara perluasan iapa yang wiget perolehi"
-
-msgid "The maximum number of items to be displayed"
-msgstr "Bilangan titik perpuluhan untuk dipaparkan"
-
-msgid "The maximum value of the adjustment"
-msgstr "Nama bagi wiget"
-
-msgid "The maximum width of the cell, in characters"
-msgstr "Lebar dalam aksara"
-
-msgid "The metric used for the ruler"
-msgstr "Model pagi paparan pepohon"
-
-msgid "The minimum horizontal width of the progress bar"
-msgstr "Jajaran mengufuk bagi label"
-
-msgid "The minimum size of the arrow in the combo box"
-msgstr "Model pagi kekotak kombo"
-
-msgid "The minimum value of the adjustment"
-msgstr "Nama bagi wiget"
-
-msgid "The minimum vertical height of the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "The minimum vertical width of the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "The mnemonic accelerator key for this label"
-msgstr "Kekunci pemecut mnemonik bagi label ini"
-
-msgid "The model containing the possible values for the combo box"
-msgstr "Model pagi kekotak kombo"
-
-msgid "The model for cell view"
-msgstr "Model pagi paparan pepohon"
-
-msgid "The model for the TreeModelSort to sort"
-msgstr "Model pagi TreeModelSort untuk diisih"
-
-msgid "The model for the combo box"
-msgstr "Model pagi kekotak kombo"
-
-msgid "The model for the icon view"
-msgstr "Model pagi paparan pepohon"
-
-msgid "The model for the tree view"
-msgstr "Model pagi paparan pepohon"
-
-msgid "The model to find matches in"
-msgstr "Model untuk dicarikan padanan"
-
-msgid "The name of the icon from the icon theme"
-msgstr "Nama bagi font dipilih"
-
-msgid "The name of the selected font"
-msgstr "Nama bagi font dipilih"
-
-msgid "The name of the themed icon displayed on the item"
-msgstr "Ikon stok dipaparkan pada item"
-
-msgid "The name of the widget"
-msgstr "Nama bagi wiget"
-
-msgid "The number of columns in the table"
-msgstr "Bilangan kolum pada jadual"
-
-msgid "The number of decimal places to display"
-msgstr "Bilangan titik perpuluhan untuk dipaparkan"
-
-msgid "The number of pages in the document."
-msgstr "Bilangan baris pada jadual"
-
-msgid "The number of pages that will be printed."
-msgstr "Bilangan baris pada jadual"
-
-msgid "The number of rows in the table"
-msgstr "Bilangan baris pada jadual"
-
-msgid "The opacity of the window, from 0 to 1"
-msgstr "Jenis tetingkap"
-
-msgid "The orientation of the orientable"
-msgstr "Orientasi toolbar"
-
-msgid "The orientation of the tray"
-msgstr "Orientasi toolbar"
-
-msgid "The pack direction of the menubar"
-msgstr "Orientasi toolbar"
-
-msgid "The padding to insert at the bottom of the widget."
-msgstr "Padding untuk diselitkan pada bawah wiget."
-
-msgid "The padding to insert at the left of the widget."
-msgstr "Padding untuk diselitkan pada kiri wiget."
-
-msgid "The padding to insert at the right of the widget."
-msgstr "Padding untuk diselitkan pada kanan wiget."
-
-msgid "The padding to insert at the top of the widget."
-msgstr "Padding untuk diselitkan pada atas wiget."
-
-msgid "The page increment of the adjustment"
-msgstr "Kandungan kemasukan"
-
-msgid "The page size of the adjustment"
-msgstr "Togol keadaan bagi butang"
-
-msgid "The parent widget of this widget. Must be a Container widget"
-msgstr "Wiget ibubapa kepada wiget ini. Mesti mengandungi wiget"
-
-msgid "The parent window"
-msgstr "Jenis tetingkap"
-
-msgid "The pixbuf to render"
-msgstr "Pixbuf untuk dirender"
-
-msgid "The position in which the current value is displayed"
-msgstr "Posisi dimana nilai semasa dipaparkan"
-
-msgid "The position of the image relative to the text"
-msgstr "Posisi pengendali relatif kepada wiget anak"
-
-msgid "The position of the opposite end of the selection from the cursor in chars"
-msgstr "Posisi hujung bertentangan pada pilihan daripada kursor dalam aksara"
-
-msgid "The primary text of the message dialog"
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The primary text of the title includes Pango markup."
-msgstr "Teks label termasuk Markup XML. Lihat pango_parse_markup()"
-
-msgid "The radio action whose group this action belongs to."
-msgstr "Aksi radio dimana dimiliki kumpulan aksi ini."
-
-msgid "The radio button whose group this widget belongs to."
-msgstr "Butang radio milik kumpulan mana wiget ini."
-
-msgid "The radio menu item whose group this widget belongs to."
-msgstr "Butang radio milik kumpulan mana wiget ini."
-
-msgid "The radio tool button whose group this button belongs to."
-msgstr "Butang radio milik kumpulan mana wiget ini."
-
-msgid "The representation being used for image data"
-msgstr "Perwakilan digunakan oleh data imej"
-
-msgid "The representation being used for primary icon"
-msgstr "Perwakilan digunakan oleh data imej"
-
-msgid "The representation being used for secondary icon"
-msgstr "Perwakilan digunakan oleh data imej"
-
-msgid "The resolution for fonts on the screen"
-msgstr "bagaimana julat patut dikemaskini pada layar"
-
-msgid "The row number to attach the bottom of the child to"
-msgstr "Bilangan baris untuk dilampirkan ke sebelah bawah anak"
-
-msgid "The row number to attach the top of a child widget to"
-msgstr "Bilangan kolum untuk dilampirkan ke sebelah atas wiget anak"
-
-msgid "The row number to attach the top of the child to"
-msgstr "Bilangan baris untuk dilampirkan ke sebelah atas anak"
-
-msgid "The screen where this status icon will be displayed"
-msgstr "Skrin dimana tetingkap akan dipaparkan"
-
-msgid "The screen where this window will be displayed"
-msgstr "Skrin dimana tetingkap akan dipaparkan"
-
-msgid "The screen where this window will be displayed."
-msgstr "Skrin dimana tetingkap akan dipaparkan"
-
-msgid "The secondary text of the message dialog"
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The selected color"
-msgstr "Warna dipilih"
-
-msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
-msgstr "Hari dipilih (sebagai nombor diantara 1 dgn 31, atau 0 untuk nyahpilih hari yg kini dipilih)"
-
-msgid "The selected month (as a number between 0 and 11)"
-msgstr "Bulan dipilih (sebagai nombor antara 0 hingga 11)"
-
-msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "Nilai opacity dipilih (0 telus sepenuhnya, 65535 opaque sepenuhnya)"
-
-msgid "The selected year"
-msgstr "Tahun yang dipilih"
-
-msgid "The selection mode"
-msgstr "Tahun yang dipilih"
-
-msgid "The size of icons in default toolbars."
-msgstr "Saiz ikon pada toolbar default"
-
-msgid "The size of the icon"
-msgstr "Tajuk kepada tetingkap"
-
-msgid "The sorting order of the items displayed"
-msgstr "Jika bahagian toggle butang dipaparkan"
-
-msgid "The status of the print operation"
-msgstr "Togol keadaan bagi butang"
-
-msgid "The step increment of the adjustment"
-msgstr "Kandungan kemasukan"
-
-msgid "The stock icon displayed in widgets representing this action."
-msgstr "Ikon stok dipaparkan pada wiget mewakili aksi ini."
-
-msgid "The stock icon displayed on the item"
-msgstr "Ikon stok dipaparkan pada item"
-
-msgid "The string displayed in the child's menu entry"
-msgstr "Rentetan dipaparkan pada kemasukan menu anak"
-
-msgid "The string displayed on the child's tab label"
-msgstr "Rentetan dipaparkan pada label tab anak"
-
-msgid "The string that represents this font"
-msgstr "Rentetan X yang mewakili font ini"
-
-msgid "The style of the widget, which contains information about how it will look (colors etc)"
-msgstr "gaya widgetbagi wiget, yang mengandungi maklumat bagaimana ia akan dilihat (warna dll)."
-
-msgid "The text for the child label"
-msgstr "Teks bagi label"
-
-msgid "The text of the label"
-msgstr "Teks bagi label"
-
-msgid "The text of the label includes XML markup. See pango_parse_markup()"
-msgstr "Teks label termasuk Markup XML. Lihat pango_parse_markup()"
-
-msgid "The text to display in order to demonstrate the selected font"
-msgstr "Teks untuk dipaparkan supaya mendemonstrasikan font yang dipilih"
-
-msgid "The time before hiding a submenu when the pointer is moving towards the submenu"
-msgstr "Masa sebelum menyorok submenu bila pentuding digerakkan ke arah submenu"
-
-msgid "The title of the assistant page"
-msgstr "Tajuk kepada tetingkap"
-
-msgid "The title of the color selection dialog"
-msgstr "Tajuk bagi dialog pemilihan warna"
-
-msgid "The title of the file chooser dialog."
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "The title of the font selection dialog"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "The title of the window"
-msgstr "Tajuk kepada tetingkap"
-
-msgid "The title of this tray icon"
-msgstr "Tajuk kepada tetingkap"
-
-msgid "The toggle button can be activated"
-msgstr "Butang togol boleh diaktifkan"
-
-msgid "The toggle state of the button"
-msgstr "Togol keadaan bagi butang"
-
-msgid "The transient parent of the dialog"
-msgstr "Butang dipaparkan pada dialog mesej"
-
-msgid "The type of accelerators"
-msgstr "Jenis mesej"
-
-msgid "The type of message"
-msgstr "Jenis mesej"
-
-msgid "The type of operation that the file selector is performing"
-msgstr "Jenis operasi yang pemilih fail lakukan"
-
-msgid "The type of the assistant page"
-msgstr "Jenis mesej"
-
-msgid "The type of the window"
-msgstr "Jenis tetingkap"
-
-msgid "The value"
-msgstr "Nilai"
-
-msgid "The value of the adjustment"
-msgstr "Nama bagi wiget"
-
-msgid "The value of the scale"
-msgstr "Nama bagi wiget"
-
-msgid "The value returned by gtk_radio_action_get_current_value() when this action is the current action of its group."
-msgstr "Nilai yang dikembalikan oleh gtk_radio_action_get_curent_valu() bila aksi ini adalah aksi semasa bagi kumpulannya."
-
-msgid "The version of the program"
-msgstr "Orientasi toolbar"
-
-msgid "The vertical alignment of the label"
-msgstr "Jajaran menegak bagi label"
-
-msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
-msgstr "Jajaran menegak,  dari 0 (atas) ke 1 (bawah)"
-
-msgid "The vertical text alignment, from 0 (top) to 1 (bottom)."
-msgstr "Jajaran menegak,  dari 0 (atas) ke 1 (bawah)"
-
-msgid "The widget the menu is attached to"
-msgstr "Samada item menu disemak"
-
-msgid "The widget to be activated when the label's mnemonic key is pressed"
-msgstr "Wiget untuk diaktifkan bila kekunci mnemonik label ditekan"
-
-msgid "The widget to be monitored for accelerator changes"
-msgstr "Wiget akan diperhati untuk perubahan pemecut"
-
-msgid "The width at which the text is wrapped"
-msgstr "Posisi dimana nilai semasa dipaparkan"
-
-msgid "The width of the empty border outside the containers children"
-msgstr "Lebar sempadan kosong di luar anak bekasnya"
-
-msgid "The width of the layout"
-msgstr "Lebar bagi susunatur"
-
-msgid "The window gravity of the window"
-msgstr "Graciti tetingkap bagi tetingkap"
-
-msgid "The window of the socket the plug is embedded in"
-msgstr "Samada aksi boleh dilihat."
-
-msgid "The x-align"
-msgstr "Jajaran-x"
-
-msgid "The xpad"
-msgstr "xpad"
-
-msgid "The y-align"
-msgstr "Jajaran-y"
-
-msgid "The ypad"
-msgstr "ypad"
-
-msgid "Theme Name"
-msgstr "Nama Tema"
-
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "Tigrigna-Eritrean (EZ+)"
-
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "Tigrigna-Ethiopian (EZ+)"
-
-msgid "Time after which the cursor stops blinking, in seconds"
-msgstr "Panjang kitaran kelipan kursor, dalam milisaat"
-
-msgid "Timeout after which browse mode is disabled"
-msgstr "Penimbal yang dipaparkan"
+msgid "Text Editor"
+msgstr "Editor Teks"
+
+msgid "Theme"
+msgstr "Tema"
 
 msgid "Title"
 msgstr "Tajuk"
 
-msgid "Title of the print job"
-msgstr "Tajuk kepada tetingkap"
+msgid "Tool"
+msgstr "Alat"
 
-msgid "Title to appear in column header"
-msgstr "Tajuk untuk dipaparkan di pengepala kolum"
+msgid "Translate"
+msgstr "Terjemah"
 
-msgid "Toggle state"
-msgstr "Togol keadaan"
+msgid "Transparent"
+msgstr "Telus"
 
-msgid "Toolbar Icon Size"
-msgstr "Saiz ikon toolbar"
+msgid "Type"
+msgstr "Jenis"
 
-msgid "Toolbar Style"
-msgstr "Gaya Toolbar"
-
-msgid "Toolbar style"
-msgstr "Gaya toolbar"
-
-msgid "Tooltip"
-msgstr "Tooltip"
-
-msgid "Tooltip Column"
-msgstr "Kolum Teks"
-
-msgid "Tooltip Text"
-msgstr "Tooltip"
-
-msgid "Tooltip markup"
-msgstr "Tooltip"
-
-msgid "Tooltip timeout"
-msgstr "Tooltip"
-
-msgid "Top Attach"
-msgstr "Lampiran Atas"
-
-msgid "Top Padding"
-msgstr "Padding Atas"
-
-msgid "Top attachment"
-msgstr "Lampiran atas"
-
-msgid "Track visited links"
-msgstr "Tajuk bagi dialoh pemilihan font"
-
-msgid "Transparency of the color."
-msgstr "Ketelusan bagi warna."
-
-msgid "Tree line pattern"
-msgstr "Corak sengkang garisan fokus"
-
-msgid "Tree line width"
-msgstr "Lebar tetap"
-
-msgid "TreeModel column containing the column span values"
-msgstr "Kolum TreeModel mengandungi nilai span kolum"
-
-msgid "TreeModel column containing the row span values"
-msgstr "Kolum TreeModel mengandungi nilan span baris"
-
-msgid "TreeModelSort Model"
-msgstr "Model TreeModelSort"
-
-msgid "TreeView Model"
-msgstr "Model TreeView"
-
-msgid "Trough Border"
-msgstr "Sempadan Palung"
-
-msgid "Truncate multiline"
-msgstr "Pilih pelbagai"
-
-msgid "Type hint"
-msgstr "Taip petua"
-
-msgid "Type name of new folder"
-msgstr "Taip nama bagi folder baru"
-
-msgid "Type of bevel around toolbar buttons"
-msgstr "Jenis bevel sekeliling butang toolbar"
-
-msgid "Unable to find an item with URI '%{string}'"
-msgstr "Tak menjumpai fail include: \"%{string}\""
-
-msgid "Unable to find include file: \"%{string}\""
-msgstr "Tak menjumpai fail include: \"%{string}\""
-
-msgid "Unable to locate image file in pixmap_path: \"%{string}\""
-msgstr "Gagal menjumpai fail imej di pixmap_path: \"%{string}\""
-
-msgid "Unable to locate theme engine in module_path: \"%{string}\","
-msgstr "Gagal menjumpai jentera tema di path modul: \"%{string}\","
+msgid "URL"
+msgstr "URL"
 
 msgid "Underline"
-msgstr "Garisbawah"
+msgstr "Garisbawah,menggarisbawah"
 
-msgid "Underline set"
-msgstr "Set garisbawah"
-
-msgid "Unique identifier for the window to be used when restoring a session"
-msgstr "Pengcam unik bagi tetingkap untuk digunakan bila memulih sesi"
-
-msgid "Unique startup identifier for the window used by startup-notification"
-msgstr "Pengcam unik bagi tetingkap untuk digunakan bila memulih sesi"
+msgid "Undo"
+msgstr "Nyahcara, Mengenyahcara"
 
 msgid "Unknown"
 msgstr "Entah"
 
-msgid "Unknown item"
-msgstr "Entah"
+msgid "Untitled"
+msgstr "Tiadatajuk"
 
-msgid "Unvisited Link Color"
-msgstr "Warna Semasa"
+msgid "Update"
+msgstr "Kemaskini"
 
-msgid "Up"
-msgstr "_Naik"
+msgid "User"
+msgstr "Pengguna"
 
-msgid "Update Policy"
-msgstr "Polisi Kemaskini"
+msgid "User Interface"
+msgstr "Antaramuka pengguna"
 
-msgid "Update policy"
-msgstr "Kemaskini polisi"
-
-msgid "Upper"
-msgstr "Atas"
-
-msgid "Upper limit of ruler"
-msgstr "Had atas bagi pembaris"
-
-msgid "Use Markup"
-msgstr "Guna markup"
-
-msgid "Use Preview Label"
-msgstr "Guna saiz pada label"
-
-msgid "Use alpha"
-msgstr "Guna alfa"
-
-msgid "Use font in label"
-msgstr "Guna font pada label"
-
-msgid "Use full page"
-msgstr "Guna alfa"
-
-msgid "Use markup"
-msgstr "Guna markup"
-
-msgid "Use size in label"
-msgstr "Guna saiz pada label"
-
-msgid "Use stock"
-msgstr "Guna stok"
-
-msgid "Use underline"
-msgstr "Guna garisbawah"
-
-msgid "Username:"
-msgstr "_Tukarnama"
+msgid "Username"
+msgstr "Nama pengguna"
 
 msgid "Value"
 msgstr "Nilai"
 
-msgid "Value Position"
-msgstr "Posisi Nilai"
-
-msgid "Value of the progress bar"
-msgstr "teks untuk dipaparkan pada bar progres"
-
-msgid "Value spacing"
-msgstr "Jarak Ruang Nilai"
-
-msgid "Vertical Adjustment"
-msgstr "Pelarasan Menegak"
-
-msgid "Vertical Adjustment for the widget"
-msgstr "Pelarasan Menegak bagi wiget"
+msgid "Vertical"
+msgstr "Menegak"
 
 msgid "Vertical Alignment"
 msgstr "Jajaran Menegak"
 
-msgid "Vertical Offset"
-msgstr "Ofset Menegak"
+msgid "Video"
+msgstr "Video"
 
-msgid "Vertical Padding"
-msgstr "Padding Menegak"
-
-msgid "Vertical Scroll Arrow Length"
-msgstr "Polisi Bar Skrol Menegak"
-
-msgid "Vertical Scrollbar Policy"
-msgstr "Polisi Bar Skrol Menegak"
-
-msgid "Vertical Separator Width"
-msgstr "Lebar Pemisah Menegak"
-
-msgid "Vertical adjustment"
-msgstr "Pelarasan menegak"
-
-msgid "Vertical alignment"
-msgstr "Jajaran menegak"
-
-msgid "Vertical alignment for child"
-msgstr "Jajaran menegak bagi anak"
-
-msgid "Vertical options"
-msgstr "Opsyen menegak"
-
-msgid "Vertical padding"
-msgstr "Padding Menegak"
-
-msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
-msgstr "Posisi menegak bagi anak pada ruang yang ada. 0.0 ialah terjajar ke atas, 1.0 ialah terjajar ke bawah"
-
-msgid "Vertical scale"
-msgstr "Skala menegak"
-
-msgid "Vertical separation"
-msgstr "Opsyen menegak"
-
-msgid "Vertical space between cells.  Must be an even number"
-msgstr "Ruang menegak antara sel. Mesti nombor genap"
-
-msgid "Vietnamese (VIQR)"
-msgstr "Vietnam (VIQR)"
-
-msgid "View allows user to search through columns interactively"
-msgstr "Paparan mengizin pengguna untuk mencari di kolum secara interaktif"
-
-msgid "View has expanders"
-msgstr "Adalah Pengembang"
-
-msgid "View is reorderable"
-msgstr "Paparan boleh disusun"
-
-msgid "Visibility"
-msgstr "Ketampakan"
+msgid "View"
+msgstr "Lihat"
 
 msgid "Visible"
 msgstr "Tampak"
 
-msgid "Visible Window"
-msgstr "Tetingkap yg Kelihatan"
-
-msgid "Visible when horizontal"
-msgstr "Kelihatan bila mengufuk"
-
-msgid "Visible when overflown"
-msgstr "Kelihatan bila menegak"
-
-msgid "Visible when vertical"
-msgstr "Kelihatan bila menegak"
-
-msgid "Visited"
-msgstr "Tampak"
-
-msgid "Visited Link Color"
-msgstr "Warna Semasa"
-
 msgid "Volume"
-msgstr "_Nilai:"
-
-msgid "Waiting"
-msgstr "Amaran"
+msgstr "Isipadu"
 
 msgid "Warning"
 msgstr "Amaran"
 
-msgid "Warning color"
-msgstr "Warna latarbelakang"
-
-msgid "Website label"
-msgstr "Guna saiz pada label"
-
-msgid "When TRUE, empty menu proxies for this action are hidden."
-msgstr "Jika TRUE, proksi menu kosong bagi aksi ini akan disorok."
-
-msgid "When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu."
-msgstr "Jika TRUE, proksi menu kosong bagi aksi ini akan disorok."
-
-msgid "When the horizontal scrollbar is displayed"
-msgstr "Bila bar skrol mengufuk dipaparkan"
-
-msgid "When the menu is a submenu, position it this number of pixels offset horizontally"
-msgstr "Bila menu adalah submenu, posisikan ia pada ofset bilangan piksel ini secara mengufuk"
-
-msgid "When the menu is a submenu, position it this number of pixels offset vertically"
-msgstr "Bila menu adalah submenu, posisikan ia pada ofset bilangan piksel ini secara menegak"
-
-msgid "When the vertical scrollbar is displayed"
-msgstr "Bila bar skrol menegak dipaparkan"
-
-msgid "Where the contents are located with respect to the scrollbars. This property only takes effect if \"window-placement-set\" is TRUE."
-msgstr "Dimana kandungan ditempatkan sesuai dengan scrollbar"
-
-msgid "Where the contents of scrolled windows are located with respect to the scrollbars, if not overridden by the scrolled window's own placement."
-msgstr "Dimana kandungan ditempatkan sesuai dengan scrollbar"
-
-msgid "Whether Tab will result in a tab character being entered"
-msgstr "Samada Tab akan menghasilkan aksara tab bila dimasukkan"
-
-msgid "Whether \"window-placement\" should be used to determine the location of the contents with respect to the scrollbars."
-msgstr "Dimana kandungan ditempatkan sesuai dengan scrollbar"
-
-msgid "Whether a palette should be used"
-msgstr "Samada palet patut digunakan"
-
-msgid "Whether a spin button should wrap upon reaching its limits"
-msgstr "Samada spinbutton patut dibalut bila menjangkau had"
-
-msgid "Whether activatable icons should prelight when hovered"
-msgstr "Samada tab patut dipapar atau sebaliknya"
-
-msgid "Whether buttons in dialogs should use the alternative button order"
-msgstr "Samada tab patut dipapar atau sebaliknya"
-
-msgid "Whether default toolbars have text only, text and icons, icons only, etc."
-msgstr "Samada toolbar default tesk sahaja, teks dan ikon, ikon sahaja, dll."
-
-msgid "Whether dropdowns should have a tearoff menu item"
-msgstr "Samada tab patut mempunyai saiz sama"
-
-msgid "Whether dropdowns should look like lists rather than menus"
-msgstr "Samada memilih folder selain drpd fail"
-
-msgid "Whether entered text overwrites existing contents"
-msgstr "Samada teks dimasukkan menindih kandungan sedia ada"
-
-msgid "Whether grid lines should be drawn in the tree view"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether gtk_widget_show_all() should not affect this widget"
-msgstr "Samada gtk_widget_show_all() patut mempengaruhi wiget ini"
-
-msgid "Whether images should be shown in menus"
-msgstr "Samada tab patut dipapar atau sebaliknya"
-
-msgid "Whether images should be shown on buttons"
-msgstr "Samada tab patut dipapar atau sebaliknya"
-
-msgid "Whether labels should have mnemonics"
-msgstr "Samada tab patut mempunyai saiz sama"
-
-msgid "Whether menu accelerators can be changed by pressing a key over the menu item"
-msgstr "Samada pemecut menu boleh ditukar dengan menekan kekunci pada item menu"
-
-msgid "Whether menu items should have accelerators"
-msgstr "Samada item menu pengoyak patut ditambah kepada menu"
-
-msgid "Whether mnemonics are currently visible in this window"
-msgstr "Samada aras atas adalah tetingkap aktif semasa"
-
-msgid "Whether new text overwrites existing text"
-msgstr "Samada teks dimasukkan menindih kandungan sedia ada"
-
-msgid "Whether non-numeric characters should be ignored"
-msgstr "Samada aksara bukan-numerik patut diabaikan"
-
-msgid "Whether rows should be expanded/collapsed when the pointer moves over them"
-msgstr "Samada tetingkap patut dihias oleh pengurus tetingkap"
-
-msgid "Whether selected font size is shown in the label"
-msgstr "Samada saiz font yg dipilih dipaparkan pada label"
-
-msgid "Whether spacers are vertical lines or just blank"
-msgstr "Samada ruang adalah garis menegak atau kosong"
-
-msgid "Whether tabs should be shown"
-msgstr "Samada tab patut dipapar atau sebaliknya"
-
-msgid "Whether tearoff menu items should be added to menus"
-msgstr "Samada item menu pengoyak patut ditambah kepada menu"
-
-msgid "Whether the action group is enabled."
-msgstr "Samada kumpulan aksi dihidupkan."
-
-msgid "Whether the action group is visible."
-msgstr "Samada kumpulan aksi boleh dilihat."
-
-msgid "Whether the action is enabled."
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the action is visible."
-msgstr "Samada aksi boleh dilihat."
-
-msgid "Whether the application has a selection"
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the application prefers to have a dark theme."
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the application supplied widget for custom previews should be shown."
-msgstr "Samada wiget yg dibekali aplikasi bagi prebiu tersendiri patut dipaparkan."
-
-msgid "Whether the application will paint directly on the widget"
-msgstr "Samada aplikasi akan cat terus pada wiget"
-
-msgid "Whether the background color fills the entire line height or only the height of the tagged characters"
-msgstr "Samada warna latar belakang memenuhi seluruh tinggi baris atau hanya tinggi bagi aksara ditag"
-
-msgid "Whether the border should be shown"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether the buffer has some text currently selected"
-msgstr "GdkFont yang kini dipilih"
-
-msgid "Whether the button grabs focus when it is clicked with the mouse"
-msgstr "Samada teks label boleh dipilih dengan menggunakan tetikus."
-
-msgid "Whether the cell renderer is currently in editing mode"
-msgstr "Samada label dilukis pada font dipilih"
-
-msgid "Whether the child should receive extra space when the parent grows"
-msgstr "Samada anak patut menerima ruang tambahan bila ibubapa membesar"
-
-msgid "Whether the child's tab should fill the allocated area"
-msgstr "Samada tab anak patut mengisi kawasan diperuntukkan atau tidak"
-
-msgid "Whether the children should all be the same size"
-msgstr "Samada anak patut semuanya pada saiz sama"
-
-msgid "Whether the color selector should allow setting opacity"
-msgstr "Samada pemiin warna boleh menetapkan opacity"
-
-msgid "Whether the column can be reordered around the headers"
-msgstr "Samada kolum boleh diulangsusun sekeliling pengepala"
-
-msgid "Whether the combo box draws a frame around the child"
-msgstr "Samada kolum boleh diulangsusun sekeliling pengepala"
-
-msgid "Whether the combo box grabs focus when it is clicked with the mouse"
-msgstr "Samada teks label boleh dipilih dengan menggunakan tetikus."
-
-msgid "Whether the combo's dropdown is shown"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether the common prefix should be inserted automatically"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether the completions should be shown in a popup window"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether the current value is displayed as a string next to the slider"
-msgstr "Samada nilai semasa dipaparkan sebagai rentetan sebelah pengelungsur"
-
-msgid "Whether the cursor should blink"
-msgstr "Samada kursor patut dikelipkan"
-
-msgid "Whether the device has a cursor"
-msgstr "Samada wiget mempunyai fokus input"
-
-msgid "Whether the dialog supports selection"
-msgstr "Samada label dilukis pada font dipilih"
-
-msgid "Whether the dropdown button is sensitive when the model is empty"
-msgstr "Samada teks label boleh dipilih dengan menggunakan tetikus."
-
-msgid "Whether the entry contents can be edited"
-msgstr "Samada kandungan kemasukan boleh diedit atau tidak"
-
-msgid "Whether the event box is visible, as opposed to invisible and only used to trap events."
-msgstr "Samada kekotak acara adalah kelihatan, berlawanan kepada ghaib dan hanya digunakan untuk acara perangkap."
-
-msgid "Whether the event-trapping window of the eventbox is above the window of the child widget as opposed to below it."
-msgstr "samada tetingkap perangkap-acara bagi kekotak acara adalah di atas tetingkap bagi wiget anak sebagai berlawanan dgn di bawahnya."
-
-msgid "Whether the expander has been opened to reveal the child widget"
-msgstr "Samada pengembang dibuka untuk menampakkan  wiget anak"
-
-msgid "Whether the group has been collapsed and items are hidden"
-msgstr "Samada pengembang dibuka untuk menampakkan  wiget anak"
-
-msgid "Whether the header can be clicked"
-msgstr "Samada pengepala boleh diklik"
-
-msgid "Whether the hidden files and folders should be displayed"
-msgstr "Samada fail dan folder tersembunyi fail patut dipaparkan"
-
-msgid "Whether the icon-size property has been set"
-msgstr "Samada kumpulan aksi dihidupkan."
-
-msgid "Whether the image will always be shown"
-msgstr "Samada wiget boleh dilihat"
-
-msgid "Whether the input focus is within this GtkWindow"
-msgstr "Samada fokus input adalah didalam GtkWindow ini"
-
-msgid "Whether the invisible character has been set"
-msgstr "Samada kumpulan aksi dihidupkan."
-
-msgid "Whether the item group should be the only expanded at a given time"
-msgstr "Samada item menu pengoyak patut ditambah kepada menu"
-
-msgid "Whether the item group should receive extra space when the palette grows"
-msgstr "Samada anak patut menerima ruang tambahan bila ibubapa membesar"
-
-msgid "Whether the item should be the same size as other homogeneous items"
-msgstr "Samada item  patut semuanya pada saiz sama seperti item seragam lain"
-
-msgid "Whether the item should fill the available space"
-msgstr "Samada anak patut semuanya pada saiz sama"
-
-msgid "Whether the item should receive extra space when the group grows"
-msgstr "Samada item patut menerima ruang tambahan bila toolbar membesar"
-
-msgid "Whether the item should receive extra space when the toolbar grows"
-msgstr "Samada item patut menerima ruang tambahan bila toolbar membesar"
-
-msgid "Whether the item should start a new row"
-msgstr "Samada item menu pengoyak patut ditambah kepada menu"
-
-msgid "Whether the items pointing to unavailable resources should be displayed"
-msgstr "Samada fail dan folder tersembunyi fail patut dipaparkan"
-
-msgid "Whether the items should be displayed with a number"
-msgstr "Samada item menu pengoyak patut ditambah kepada menu"
-
-msgid "Whether the label is drawn in the selected font"
-msgstr "Samada label dilukis pada font dipilih"
-
-msgid "Whether the label is drawn with the selected font size"
-msgstr "Samada label dilukis dengan saiz font yg dipilih"
-
-msgid "Whether the label is in single line mode"
-msgstr "Samada label dilukis pada font dipilih"
-
-msgid "Whether the label text can be selected with the mouse"
-msgstr "Samada teks label boleh dipilih dengan menggunakan tetikus."
-
-msgid "Whether the label widget should fill all available horizontal space"
-msgstr "Samada anak patut semuanya pada saiz sama"
-
-msgid "Whether the mark has left gravity"
-msgstr "Samada tag ini mempengaruhi keluarga font"
-
-msgid "Whether the menu item is checked"
-msgstr "Samada item menu disemak"
-
-msgid "Whether the menu item looks like a radio menu item"
-msgstr "Samada item menu kelihatan seperti item menu radio"
-
-msgid "Whether the plug is embedded"
-msgstr "Samada aksi boleh dilihat."
-
-msgid "Whether the primary icon is activatable"
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the primary icon is sensitive"
-msgstr "Samada item senarai memadan huruf kecil/besar"
-
-msgid "Whether the private items should be displayed"
-msgstr "Samada fail dan folder tersembunyi fail patut dipaparkan"
-
-msgid "Whether the progress is shown as text."
-msgstr "Samada progres dipaparkan sebagai teks"
-
-msgid "Whether the proxies for this action look like radio action proxies"
-msgstr "Samada proksi bagi aksi ini nampak seperti proksi aksi radio"
-
-msgid "Whether the rendered pixbuf should be colorized according to the state"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether the secondary icon is activatable"
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the secondary icon is sensitive"
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the selected file(s) should be limited to local file: URLs"
-msgstr "Samada fail dipilih patut dihadkan ke URl fail: lokal"
-
-msgid "Whether the selected font style is shown in the label"
-msgstr "Samada gaya font yg dipilih dipaparkan pada label"
-
-msgid "Whether the selected resource(s) should be limited to local file: URIs"
-msgstr "Samada fail dipilih patut dihadkan ke URl fail: lokal"
-
-msgid "Whether the selection should follow the pointer"
-msgstr "Samada pemiin warna boleh menetapkan opacity"
-
-msgid "Whether the separator is drawn, or just blank"
-msgstr "Samada pemisah dilukis atau hanya kosong"
-
-msgid "Whether the spin button should update always, or only when the value is legal"
-msgstr "Samada butang spin patut dikemaskini sentiasa atau hanya bila nilai adalah sah"
-
-msgid "Whether the spinner is active"
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the spinner is active (ie. shown) in the cell"
-msgstr "Samada gaya font yg dipilih dipaparkan pada label"
-
-msgid "Whether the status icon is embedded"
-msgstr "Samada aksi boleh dilihat."
-
-msgid "Whether the status icon is visible"
-msgstr "Samada aksi boleh dilihat."
-
-msgid "Whether the statusbar has a grip for resizing the toplevel"
-msgstr "Samada bar status mempunyai grip untuk ubahsaiz toplevel"
-
-msgid "Whether the tab is detachable"
-msgstr "Samada aksi dihidupkan."
-
-msgid "Whether the tab is reorderable by user action"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether the text can be modified by the user"
-msgstr "Samada teks boleh diubahsuai oleh pengguna"
-
-msgid "Whether the toggle action should be active"
-msgstr "Jika butang  toggle patut ditekan atau tidak"
-
-msgid "Whether the toolbar item is considered important. When TRUE, toolbar buttons show text in GTK_TOOLBAR_BOTH_HORIZ mode"
-msgstr "Samada item  toolbar dianggap penting. Bila TRUE, butang toolbar memapar teks dlm mod GTK_TOOLBAR_BOTH_HORIZ"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
-msgstr "Samada item toolbar  adalah kelihatan bila toolbar pada orientasi mengufuk"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
-msgstr "Samada item toolbar  adalah kelihatan bila toolbar pada orientasi menegak"
-
-msgid "Whether the toplevel is the current active window"
-msgstr "Samada aras atas adalah tetingkap aktif semasa"
-
-msgid "Whether the widget can accept the input focus"
-msgstr "Samada wiget boleh menerima fokus input"
-
-msgid "Whether the widget can be the default widget"
-msgstr "Samada wiget boleh dijadikan wiget default"
-
-msgid "Whether the widget has the input focus"
-msgstr "Samada wiget mempunyai fokus input"
-
-msgid "Whether the widget is double buffered"
-msgstr "Samada aksi boleh dilihat."
-
-msgid "Whether the widget is part of a composite widget"
-msgstr "Samada wiget adalah sebahagian drpd wiget gubahan"
-
-msgid "Whether the widget is the default widget"
-msgstr "Samada wiget adalah wiget default"
-
-msgid "Whether the widget is the focus widget within the toplevel"
-msgstr "Samada wiget adalah wiget default"
-
-msgid "Whether the widget is visible"
-msgstr "Samada wiget boleh dilihat"
-
-msgid "Whether the widget responds to input"
-msgstr "Samada widget patut membalas input"
-
-msgid "Whether the window frame should have a close button"
-msgstr "Samada tetingkap patut dihias oleh pengurus tetingkap"
-
-msgid "Whether the window should be decorated by the window manager"
-msgstr "Samada tetingkap patut dihias oleh pengurus tetingkap"
-
-msgid "Whether there is a visible cursor following device motion"
-msgstr "Samada wiget boleh dilihat"
-
-msgid "Whether there should be a tooltip on the item"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether there should be an icon near the item"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether this link has been visited."
-msgstr "Samada aksi boleh dilihat."
-
-msgid "Whether this tag affects background height"
-msgstr "Sama tag ini mempengaruhi tinggi latar belakang"
-
-msgid "Whether this tag affects indentation"
-msgstr "Samada tag ini mempengaruhi keindentasian"
-
-msgid "Whether this tag affects line wrap mode"
-msgstr "Samada tag ini mempengaruhi mod balut"
-
-msgid "Whether this tag affects paragraph justification"
-msgstr "Samada tag ini mempengaruhi penjustifikasian perenggan"
-
-msgid "Whether this tag affects strikethrough"
-msgstr "Samada tag ini mempengaruhi coret tembus"
-
-msgid "Whether this tag affects tabs"
-msgstr "Samada tag ini menpengaruhi tab"
-
-msgid "Whether this tag affects text editability"
-msgstr "Samada tag ini mempengaruhi kebolehan mengedit"
-
-msgid "Whether this tag affects text visibility"
-msgstr "Samada tag ini mempengaruhi pandangan teks"
-
-msgid "Whether this tag affects the alignment mode"
-msgstr "Samada tag ini mempengaruhi kenaikan"
-
-msgid "Whether this tag affects the background color"
-msgstr "Sama tag ini mempengaruhi warna latar belakang"
-
-msgid "Whether this tag affects the cell background color"
-msgstr "Sama tag ini mempengaruhi warna latar belakang sel"
-
-msgid "Whether this tag affects the ellipsize mode"
-msgstr "Samada tag ini mempengaruhi kenaikan"
-
-msgid "Whether this tag affects the font family"
-msgstr "Samada tag ini mempengaruhi keluarga font"
-
-msgid "Whether this tag affects the font size"
-msgstr "Samada tag ini mempengaruhi saiz font"
-
-msgid "Whether this tag affects the font stretch"
-msgstr "Samada tag ini mempengaruhi keregangan font"
-
-msgid "Whether this tag affects the font style"
-msgstr "Samada tag ini mempengaruhi gaya font"
-
-msgid "Whether this tag affects the font variant"
-msgstr "Samada tag ini mempengaruhi variant font"
-
-msgid "Whether this tag affects the font weight"
-msgstr "Samada tag ini mempengaruhi berat font"
-
-msgid "Whether this tag affects the foreground color"
-msgstr "Sama tag ini mempengaruhi warna latar depan"
-
-msgid "Whether this tag affects the language the text is rendered as"
-msgstr "Samada tag ini mempengaruhi bahasa yg teks direnderkan"
-
-msgid "Whether this tag affects the left margin"
-msgstr "Samada tag ini mempengaruhi margin kiri"
-
-msgid "Whether this tag affects the number of pixels above lines"
-msgstr "Samada tag ini mempengaruhi bilangan piksel di atas garisan"
-
-msgid "Whether this tag affects the number of pixels between wrapped lines"
-msgstr "Samada tag ini mempengaruhi bilangan piksel diantara baris dibalut"
-
-msgid "Whether this tag affects the paragraph background color"
-msgstr "Sama tag ini mempengaruhi warna latar belakang"
-
-msgid "Whether this tag affects the right margin"
-msgstr "Samada tag ini mempengaruhi margin kanan"
-
-msgid "Whether this tag affects the rise"
-msgstr "Samada tag ini mempengaruhi kenaikan"
-
-msgid "Whether this tag affects underlining"
-msgstr "Samada tag ini mempengaruhi garisbawah"
-
-msgid "Whether this tag scales the font size by a factor"
-msgstr "Samada tag ini mempengaruhi skala font"
-
-msgid "Whether this text is hidden."
-msgstr "Samada tag ini mempengaruhi kenaikan"
-
-msgid "Whether this tray icon has a tooltip"
-msgstr "Samada wiget mempunyai fokus input"
-
-msgid "Whether this widget has a tooltip"
-msgstr "Samada wiget mempunyai fokus input"
-
-msgid "Whether to activate the default widget (such as the default button in a dialog) when Enter is pressed"
-msgstr "Samada mengaktifkan wiget default (seperti butang default pada dialog) bila Enter ditekan"
-
-msgid "Whether to allow multiple files to be selected"
-msgstr "Samada untuk membenarkan pelbagai fail patut dipilih"
-
-msgid "Whether to allow multiple items to be selected"
-msgstr "Samada untuk membenarkan pelbagai fail patut dipilih"
-
-msgid "Whether to display an \"inconsistent\" state"
-msgstr "Samada memapar keadaan \"Tidak konsisten\""
-
-msgid "Whether to display the column"
-msgstr "Samada hendak memapar kolum"
-
-msgid "Whether to draw the focus indicator inside widgets"
-msgstr "Samada melukis penunjuk fokus di dalam widet"
-
-msgid "Whether to enable selection of multiple items by dragging the mouse pointer"
-msgstr "Samada untuk membenarkan pelbagai fail patut dipilih"
-
-msgid "Whether to expand the child's tab"
-msgstr "Samada untuk mengembangkan tab anak atau sebaliknya"
-
-msgid "Whether to give the color an alpha value"
-msgstr "Samada pixbuf mempunyai saluran alfa"
-
-msgid "Whether to play any event sounds at all"
-msgstr "Samada memapar keadaan \"Tidak konsisten\""
-
-msgid "Whether to play event sounds as feedback to user input"
-msgstr "Samada widget patut membalas input"
-
-msgid "Whether to select the contents of a selectable label when it is focused"
-msgstr "Samada untuk memilih kandungan kemasukan bila ianya difokus"
-
-msgid "Whether to select the contents of an entry when it is focused"
-msgstr "Samada untuk memilih kandungan kemasukan bila ianya difokus"
-
-msgid "Whether to show a sort indicator"
-msgstr "Samada hendak memapar penunjuk isihan"
-
-msgid "Whether to strike through the text"
-msgstr "Samada coret menembusi teks"
-
-msgid "Whether to truncate multiline pastes to one line."
-msgstr "Samada untuk membenarkan pelbagai fail patut dipilih"
-
-msgid "Whether to use the label text to create a stock menu item"
-msgstr "Samada teks label boleh dipilih dengan menggunakan tetikus."
-
-msgid "Whether to use the related actions appearance properties"
-msgstr "Samada teks label boleh dipilih dengan menggunakan tetikus."
-
-msgid "Whether to wrap around when keyboard-navigating widgets"
-msgstr "Samada melukis penunjuk fokus di dalam widet"
-
-msgid "Whether to wrap lines never, at word boundaries, or at character boundaries"
-msgstr "Samada untuk membalut baris, pada sempadan perkataan, atau sempadan aksara"
-
-msgid "Whether to wrap the license text."
-msgstr "Samada coret menembusi teks"
-
-msgid "Whether tooltips should be shown on widgets"
-msgstr "Samada tab patut dipapar atau sebaliknya"
-
-msgid "Whether tree lines should be drawn in the tree view"
-msgstr "Samada sempadan patut dipapar atau sebaliknya"
-
-msgid "Whether two cursors should be displayed for mixed left-to-right and right-to-left text"
-msgstr "Samada dua kursor patut dipaparkan bagi campuran teks kiri-ke-kanan dan kanan-ke-kiri"
-
-msgid "Whether visited links should be tracked"
-msgstr "Samada fail dan folder tersembunyi fail patut dipaparkan"
-
-msgid "Which IM module should be used"
-msgstr "Samada palet patut digunakan"
-
-msgid "Which IM module should be used by default"
-msgstr "Samada palet patut digunakan"
-
-msgid "Which kind of shadow to draw around the combo box"
-msgstr "Lebar sempadan sekeliling label tab"
-
-msgid "Which side of the notebook holds the tabs"
-msgstr "Sisi yang mana notebook pegang tab"
-
-msgid "Wide Separators"
-msgstr "Mempunyai pemisah"
+msgid "Weight"
+msgstr "Berat"
 
 msgid "Widget"
 msgstr "Wiget"
 
-msgid "Widget name"
-msgstr "Nama wiget"
-
-msgid "Widget to put in column header button instead of column title"
-msgstr "Wiget untuk diletakkan oleh pengepala kolum selain dari tajuk kolum"
-
-msgid "Widget to use as the item label"
-msgstr "Wiget digunakan sebagai label item"
-
 msgid "Width"
 msgstr "Lebar"
 
-msgid "Width In Characters"
-msgstr "Lebar dalam aksara"
-
-msgid "Width for each item"
-msgstr "Wiget digunakan sebagai label item"
-
-msgid "Width in Characters"
-msgstr "Lebar dalam aksara"
-
-msgid "Width in chars"
-msgstr "Lebar dalam aksara"
-
-msgid "Width of border around the action area"
-msgstr "Lebar sempadan sekeliling kawasan dialog utama"
-
-msgid "Width of border around the button area at the bottom of the dialog"
-msgstr "Lebar sempadan sekeliling kawasan butang di bawah dialog"
-
-msgid "Width of border around the content area"
-msgstr "Lebar sempadan sekeliling kawasan dialog utama"
-
-msgid "Width of border around the label and image in the message dialog"
-msgstr "Lebar sempadan sekeliling label dan imej pada dialog mesej"
-
-msgid "Width of border around the main dialog area"
-msgstr "Lebar sempadan sekeliling kawasan dialog utama"
-
-msgid "Width of handle"
-msgstr "Lebar handle"
-
-msgid "Width of scrollbar or scale thumb"
-msgstr "Lebar skrolbar atau sekala ibujari"
-
-msgid "Width of the left margin in pixels"
-msgstr "Lebar bagi margin kiri dalam piksel"
-
-msgid "Width of the right margin in pixels"
-msgstr "Lebar bagi margin kanan dalam piksel"
-
-msgid "Width request"
-msgstr "Permintaan kelebaran"
-
-msgid "Width, in pixels, between focus indicator and the widget 'box'"
-msgstr "Lebar, dalam piksel, di antara penunjuk fokus dan kekotak wiget"
-
-msgid "Width, in pixels, of the focus indicator line"
-msgstr "Lebar, dalam piksel, bagi garisan penunjuk fokus"
-
-msgid "Width, in pixels, of the tree view grid lines"
-msgstr "Lebar, dalam piksel, bagi garisan penunjuk fokus"
-
-msgid "Width, in pixels, of the tree view lines"
-msgstr "Lebar, dalam piksel, bagi garisan penunjuk fokus"
-
 msgid "Window"
-msgstr "Jenis Tetingkap"
+msgstr "Tetingkap"
 
-msgid "Window Placement"
-msgstr "Penempatan Tetingkap"
+msgid "Window Management"
+msgstr "Pengurusan Tetingkap"
 
-msgid "Window Placement Set"
-msgstr "Penempatan Tetingkap"
-
-msgid "Window Position"
-msgstr "POsisi Tetingkap"
-
-msgid "Window Role"
-msgstr "Tugas Tetingkap"
-
-msgid "Window Title"
-msgstr "Tajuk Tetingkap"
-
-msgid "Window Type"
-msgstr "Jenis Tetingkap"
-
-msgid "Window dragging"
-msgstr "POsisi Tetingkap"
+msgid "Windows"
+msgstr "Tetingkap"
 
 msgid "Wrap"
 msgstr "Balut"
 
-msgid "Wrap Mode"
-msgstr "Mod balutan"
-
-msgid "Wrap license"
-msgstr "Set mod balut"
-
-msgid "Wrap mode"
-msgstr "Mod Balut"
-
-msgid "Wrap mode set"
-msgstr "Set mod balut"
-
-msgid "Wrap width"
-msgstr "Lebar Balutan"
-
-msgid "Wrap width for laying out the items in a grid"
-msgstr "Lebar balutan untuk menyusun item pada gird"
-
-msgid "X Alignment of the column header text or widget"
-msgstr "Jajaran X bagi teks pengepala kolum atau wiget"
-
-msgid "X Input Method"
-msgstr "Kaedah input X"
-
-msgid "X align"
-msgstr "Jajaran X"
-
-msgid "X alignment of the child"
-msgstr "Jajaran X anak"
-
-msgid "X pad"
-msgstr "Pad X"
-
-msgid "X position"
-msgstr "Posisi X"
-
-msgid "X position of child widget"
-msgstr "Posisi X wiget anak"
-
-msgid "X spacing"
-msgstr "Jarak ruang"
-
-msgid "XDG sound theme name"
-msgstr "Nama Tema Ikon"
-
-msgid "Y align"
-msgstr "Jajaran Y"
-
-msgid "Y alignment of the child"
-msgstr "Jajaran Y anak"
-
-msgid "Y pad"
-msgstr "Pad Y"
-
-msgid "Y position"
-msgstr "Posisi Y"
-
-msgid "Y position of child widget"
-msgstr "Posisi Y bagi wiget anak"
-
-msgid "Y spacing"
-msgstr "Jarak ruang"
-
-msgid "Year"
-msgstr "Tahun"
-
-msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
-msgstr "Anda boleh masukan nilai heksadesimal gaya-HTML, atau masukkan nama warna seperti 'orange' pada kemasukan ini."
-
-msgid "Your description here"
-msgstr "Huraian Font sebagai rentetan"
+msgid "Zoom"
+msgstr "Zum"
 
 msgid "Zoom _In"
 msgstr "Zoom _Masuk"
@@ -4687,359 +646,566 @@ msgstr "Zoom _Masuk"
 msgid "Zoom _Out"
 msgstr "Zoom _Keluar"
 
-msgid "_Add"
-msgstr "_Tambah"
+msgid "action"
+msgstr "aksi"
 
-msgid "_Apply"
-msgstr "Ter_apkan"
+msgid "active"
+msgstr "aktifkan"
 
-msgid "_Ascending"
-msgstr "Men_aik"
+msgid "address"
+msgstr "alamat"
 
-msgid "_Back"
-msgstr "_Undur"
+msgid "adjustment"
+msgstr "pelarasan"
 
-msgid "_Blue:"
-msgstr "_Biru:"
+msgid "administration"
+msgstr "tadbir"
 
-msgid "_Bold"
-msgstr "_Bold"
+msgid "align"
+msgstr "jajar"
 
-msgid "_Bottom"
-msgstr "_Bawah"
+msgid "alpha"
+msgstr "alfa"
 
-msgid "_Bottom:"
-msgstr "_Bawah"
+msgid "anchor"
+msgstr "sauh"
 
-msgid "_Browse for other folders"
-msgstr "_Lungsur folder lain"
+msgid "animation"
+msgstr "animasi"
 
-msgid "_CD-ROM"
-msgstr "_CD-Rom"
+msgid "appearance"
+msgstr "penampilan"
 
-msgid "_Cancel"
-msgstr "_Batal"
+msgid "application"
+msgstr "aplikasi"
 
-msgid "_Center"
-msgstr "_Tukar"
+msgid "ascii"
+msgstr "ascii"
 
-msgid "_Clear"
-msgstr "_Kosongkan"
+msgid "authentication"
+msgstr "autentikasi"
 
-msgid "_Clear List"
-msgstr "_Kosongkan"
+msgid "background"
+msgstr "latar belakang"
 
-msgid "_Close"
-msgstr "_Tutup"
+msgid "box"
+msgstr "kotak"
 
-msgid "_Color"
-msgstr "_Warna"
+msgid "browse"
+msgstr "lungsur"
 
-msgid "_Convert"
-msgstr "_Tukar"
+msgid "buffer"
+msgstr "penimbal"
 
-msgid "_Copy"
-msgstr "_Salin"
+msgid "center"
+msgstr "tengah"
 
-msgid "_Delete"
-msgstr "Pa_dam"
+msgid "channel"
+msgstr "saluran"
 
-msgid "_Descending"
-msgstr "Men_urun"
+msgid "clear"
+msgstr "terang"
 
-msgid "_Discard"
-msgstr "Dimatikan"
+msgid "color"
+msgstr "warna"
 
-msgid "_Disconnect"
-msgstr "_Tukar"
+msgid "columns"
+msgstr "kolum"
 
-msgid "_Domain:"
-msgstr "_Lokasi:"
+msgid "configuration"
+msgstr "konfigurasi"
 
-msgid "_Down"
-msgstr "_Turun"
+msgid "confirm"
+msgstr "pasti"
 
-msgid "_Edit"
-msgstr "_Cipta"
+msgid "copy"
+msgstr "salin"
 
-msgid "_Execute"
-msgstr "_Laksana"
+msgid "create"
+msgstr "cipta"
 
-msgid "_Family:"
-msgstr "_Keluarga:"
+msgid "cu_t"
+msgstr "po_tong"
 
-msgid "_File"
-msgstr "_Fail"
+msgid "current"
+msgstr "semasa"
 
-msgid "_Fill"
-msgstr "_Fail"
+msgid "custom"
+msgstr "tersendiri"
 
-msgid "_Find"
-msgstr "_Cari"
+msgid "cut"
+msgstr "potong"
 
-msgid "_First"
-msgstr "_Pertama"
+msgid "default"
+msgstr "default"
 
-msgid "_Floppy"
-msgstr "_Liut"
+msgid "delete"
+msgstr "padam"
 
-msgid "_Font"
-msgstr "_Font"
+msgid "description"
+msgstr "penerangan"
 
-msgid "_Forward"
-msgstr "_Maju"
+msgid "desktop"
+msgstr "desktop"
 
-msgid "_Green:"
-msgstr "_Hijau:"
+msgid "digits"
+msgstr "digit"
 
-msgid "_Hard Disk"
-msgstr "Cakera_keras"
+msgid "direction"
+msgstr "hala"
 
-msgid "_Height:"
-msgstr "_Hue:"
+msgid "disabled"
+msgstr "dimatikan"
 
-msgid "_Help"
-msgstr "_Bantuan"
+msgid "display"
+msgstr "paparan"
 
-msgid "_Home"
-msgstr "_Rumah"
+msgid "distribute"
+msgstr "agih"
 
-msgid "_Hue:"
-msgstr "_Hue:"
+msgid "documents"
+msgstr "dokumen"
 
-msgid "_Index"
-msgstr "_Indeks"
+msgid "e-mail"
+msgstr "emel"
 
-msgid "_Information"
-msgstr "Maklumat"
+msgid "edit"
+msgstr "edit"
 
-msgid "_Insert Unicode Control Character"
-msgstr "Sel_itkan aksara Kawalan Unicode"
+msgid "error"
+msgstr "ralat"
 
-msgid "_Italic"
-msgstr "_Italik"
+msgid "event"
+msgstr "acara"
 
-msgid "_Jump to"
-msgstr "_Lompat ke"
+msgid "extensions"
+msgstr "penghujungan"
 
-msgid "_Last"
-msgstr "_Akhir"
+msgid "file"
+msgstr "fail"
 
-msgid "_Left"
-msgstr "Ki_ri"
+msgid "filename"
+msgstr "namafail"
 
-msgid "_Left:"
-msgstr "Ki_ri"
+msgid "fill"
+msgstr "isi"
 
-msgid "_Location:"
-msgstr "_Lokasi:"
+msgid "filter"
+msgstr "tapis"
 
-msgid "_Name:"
-msgstr "_Nama:"
+msgid "folder"
+msgstr "folder"
 
-msgid "_Network"
-msgstr "_Rangkaian"
+msgid "font"
+msgstr "font"
 
-msgid "_New"
-msgstr "Ba_ru"
+msgid "foreground"
+msgstr "latar depan"
 
-msgid "_Next"
-msgstr "Ba_ru"
+msgid "fraction"
+msgstr "pecahan"
 
-msgid "_No"
-msgstr "_Tidak"
+msgid "frame"
+msgstr "bingkai"
 
-msgid "_Normal Size"
-msgstr "Saiz _Normal"
+msgid "function"
+msgstr "fungsi"
 
-msgid "_Now"
-msgstr "_Tidak"
+msgid "gamma"
+msgstr "gamma"
 
-msgid "_OK"
-msgstr "_OK"
+msgid "general"
+msgstr "am"
 
-msgid "_Only print:"
-msgstr "_Cetak"
+msgid "grab"
+msgstr "genggam"
 
-msgid "_Open"
-msgstr "_Buka"
+msgid "gradient"
+msgstr "gradien"
 
-msgid "_Open Link"
-msgstr "Buka Lokasi"
+msgid "grid"
+msgstr "grid"
 
-msgid "_Orientation:"
-msgstr "Ke_tepuan:"
-
-msgid "_Palette:"
-msgstr "_Palet"
-
-msgid "_Paper size:"
-msgstr "_Ciri-ciri"
-
-msgid "_Password:"
-msgstr "Tekanan"
-
-msgid "_Paste"
-msgstr "Te_pek"
-
-msgid "_Places"
-msgstr "_Tukarnama"
-
-msgid "_Play"
-msgstr "_Tukarnama"
-
-msgid "_Preferences"
-msgstr "Ke_utamaan"
-
-msgid "_Preview:"
-msgstr "_Prebiu:"
-
-msgid "_Print"
-msgstr "_Cetak"
-
-msgid "_Properties"
-msgstr "_Ciri-ciri"
-
-msgid "_Quit"
-msgstr "_Keluar"
-
-msgid "_Record"
-msgstr "Me_rah:"
-
-msgid "_Red:"
-msgstr "Me_rah:"
-
-msgid "_Redo"
-msgstr "_Ulangcara"
-
-msgid "_Refresh"
-msgstr "_Segarkan"
-
-msgid "_Remove"
-msgstr "_Buang"
-
-msgid "_Replace"
-msgstr "_Tukarnama"
-
-msgid "_Reverse"
-msgstr "Be_rbalik"
-
-msgid "_Revert"
-msgstr "Be_rbalik"
-
-msgid "_Right"
-msgstr "_Hue:"
-
-msgid "_Right:"
-msgstr "_Hue:"
-
-msgid "_Saturation:"
-msgstr "Ke_tepuan:"
-
-msgid "_Save"
-msgstr "_Simpan"
-
-msgid "_Save color here"
-msgstr "_Simpan warna di sini"
-
-msgid "_Save in folder:"
-msgstr "Simpan di _folder:"
-
-msgid "_Spell Check"
-msgstr "_Semak Ejaan"
-
-msgid "_Stop"
-msgstr "_Henti"
-
-msgid "_Strikethrough"
-msgstr "_Coret tembus"
-
-msgid "_Style:"
-msgstr "_Gaya:"
-
-msgid "_Top"
-msgstr "_Atas"
-
-msgid "_Top:"
-msgstr "_Atas"
-
-msgid "_Undelete"
-msgstr "_Nyahpadam"
-
-msgid "_Underline"
-msgstr "_Garisbawah"
-
-msgid "_Undo"
-msgstr "_Nyahcara"
-
-msgid "_Up"
-msgstr "_Naik"
-
-msgid "_Username:"
-msgstr "_Tukarnama"
-
-msgid "_Value:"
-msgstr "_Nilai:"
-
-msgid "_Yes"
-msgstr "_Ya"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/bitcoin/workspace/src/qt/locale/bitcoin_ms_MY.ts by load_ts_file"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcdefghijk ABCDEFGHIJK"
-
-msgid "asme_f"
-msgstr "Nama"
-
-msgid "calendar:MY"
-msgstr "calendar:MY"
-
-msgid "calendar:week_start:0"
-msgstr "calendar:week_start:0"
-
-msgid "default:LTR"
-msgstr "default:LTR"
-
-msgid "default:mm"
-msgstr "default:mm"
-
-msgid "ellipsize"
-msgstr "Set Angkat"
+msgid "group"
+msgstr "kumpulan"
 
 msgid "height"
 msgstr "tinggi"
 
+msgid "help"
+msgstr "bantuan"
+
+msgid "histogram"
+msgstr "histogram"
+
+msgid "history"
+msgstr "sejarah"
+
+msgid "home"
+msgstr "rumah"
+
+msgid "icon"
+msgstr "ikon"
+
+msgid "image"
+msgstr "imej"
+
+msgid "images"
+msgstr "imej"
+
+msgid "indent"
+msgstr "inden"
+
+msgid "information"
+msgstr "maklumat"
+
+msgid "interface"
+msgstr "antaramuka"
+
+msgid "invalid"
+msgstr "tidak sah"
+
+msgid "invert"
+msgstr "songsang"
+
+msgid "invisible"
+msgstr "ghaib"
+
+msgid "keyboard"
+msgstr "papan kekunci"
+
+msgid "label"
+msgstr "label"
+
+msgid "lambda"
+msgstr "lambda"
+
+msgid "landscape"
+msgstr "lanskap"
+
+msgid "language"
+msgstr "bahasa"
+
+msgid "large"
+msgstr "besar"
+
+msgid "layer"
+msgstr "lapisan"
+
+msgid "left"
+msgstr "kiri"
+
+msgid "line"
+msgstr "talian"
+
+msgid "location"
+msgstr "lokasi"
+
+msgid "loop"
+msgstr "gelung"
+
+msgid "manual"
+msgstr "manual"
+
+msgid "median"
+msgstr "median"
+
+msgid "medium"
+msgstr "sederhana"
+
+msgid "menu"
+msgstr "menu"
+
 msgid "mode"
 msgstr "mod"
 
+msgid "model"
+msgstr "model"
+
+msgid "module"
+msgstr "modul"
+
+msgid "monitor"
+msgstr "monitor"
+
+msgid "move"
+msgstr "pindah"
+
+msgid "name"
+msgstr "nama"
+
+msgid "none"
+msgstr "tiada"
+
+msgid "number"
+msgstr "nombor"
+
+msgid "numeric"
+msgstr "angka"
+
+msgid "open"
+msgstr "buka"
+
+msgid "options"
+msgstr "pilihan"
+
+msgid "orientation"
+msgstr "orientasi"
+
+msgid "output"
+msgstr "output"
+
+msgid "page"
+msgstr "halaman"
+
+msgid "palette"
+msgstr "palet"
+
+msgid "password"
+msgstr "kata laluan"
+
+msgid "paste"
+msgstr "tepek"
+
+msgid "path"
+msgstr "path"
+
+msgid "pattern"
+msgstr "corak"
+
 msgid "paused"
-msgstr "Te_pek"
+msgstr "te_pek"
 
-msgid "printer offline"
-msgstr "Tiada pengepala XPM dijumpai"
+msgid "pixel"
+msgstr "piksel"
 
-msgid "ready to print"
-msgstr "Amaran"
+msgid "placement"
+msgstr "penempatan"
+
+msgid "plural"
+msgstr "jamak"
+
+msgid "point"
+msgstr "titik"
+
+msgid "polygon"
+msgstr "poligon"
+
+msgid "portrait"
+msgstr "potret"
+
+msgid "position"
+msgstr "posisi"
+
+msgid "preferences"
+msgstr "keutamaan"
+
+msgid "preview"
+msgstr "prebiu"
+
+msgid "print"
+msgstr "cetak"
+
+msgid "printer"
+msgstr "pencetak"
+
+msgid "progress"
+msgstr "progres"
+
+msgid "properties"
+msgstr "ciri-ciri"
+
+msgid "random"
+msgstr "rawak"
+
+msgid "ratio"
+msgstr "nisbah"
+
+msgid "rectangle"
+msgstr "segi empat"
+
+msgid "redo"
+msgstr "ulangcara"
+
+msgid "remove"
+msgstr "buang"
+
+msgid "replace"
+msgstr "ganti"
+
+msgid "resize"
+msgstr "ubahsaiz"
+
+msgid "resolution"
+msgstr "resolusi"
+
+msgid "revert"
+msgstr "berbalik"
+
+msgid "right"
+msgstr "kanan"
+
+msgid "rotate"
+msgstr "kilas"
+
+msgid "rows"
+msgstr "baris"
+
+msgid "saturation"
+msgstr "ketepuan"
+
+msgid "save"
+msgstr "simpan"
+
+msgid "scale"
+msgstr "skala"
+
+msgid "screen"
+msgstr "skrin"
+
+msgid "search"
+msgstr "cari"
+
+msgid "select"
+msgstr "pilih"
+
+msgid "selection"
+msgstr "pilihan"
+
+msgid "sensitive"
+msgstr "sensitif"
+
+msgid "settings"
+msgstr "tetapan"
+
+msgid "shift"
+msgstr "shif"
+
+msgid "shortcut"
+msgstr "pintasan"
+
+msgid "show"
+msgstr "papar"
+
+msgid "simple"
+msgstr "saiz"
+
+msgid "singular"
+msgstr "satu"
+
+msgid "size"
+msgstr "saiz"
+
+msgid "small"
+msgstr "kecil"
+
+msgid "source"
+msgstr "sumber"
+
+msgid "spacing"
+msgstr "jarak ruang"
+
+msgid "speed"
+msgstr "kelajuan"
+
+msgid "standard"
+msgstr "piawaian"
+
+msgid "strikethrough"
+msgstr "coret?"
+
+msgid "style"
+msgstr "gaya"
+
+msgid "submit"
+msgstr "hantar"
+
+msgid "symbol"
+msgstr "simbol"
+
+msgid "system"
+msgstr "sistem"
+
+msgid "text"
+msgstr "teks"
+
+msgid "theme"
+msgstr "tema"
+
+msgid "title"
+msgstr "tajuk"
+
+msgid "tool"
+msgstr "alat"
+
+msgid "translate"
+msgstr "terjemah"
+
+msgid "transparent"
+msgstr "telus"
+
+msgid "type"
+msgstr "jenis"
+
+msgid "underline"
+msgstr "garisbawah,menggarisbawah"
+
+msgid "undo"
+msgstr "nyahcara, mengenyahcara"
 
 msgid "unknown"
-msgstr "(tidak diketahui)"
+msgstr "entah"
+
+msgid "untitled"
+msgstr "tiadatajuk"
+
+msgid "update"
+msgstr "kemaskini"
+
+msgid "user"
+msgstr "pengguna"
+
+msgid "username"
+msgstr "nama pengguna"
+
+msgid "value"
+msgstr "nilai"
+
+msgid "vertical"
+msgstr "menegak"
+
+msgid "video"
+msgstr "video"
+
+msgid "view"
+msgstr "lihat"
 
 msgid "visible"
-msgstr "kebolehlihatan"
+msgstr "tampak"
+
+msgid "volume"
+msgstr "isipadu"
+
+msgid "warning"
+msgstr "amaran"
+
+msgid "weight"
+msgstr "berat"
+
+msgid "widget"
+msgstr "wiget"
 
 msgid "width"
 msgstr "lebar"
 
-msgid "xalign"
-msgstr "xalign"
+msgid "window"
+msgstr "tetingkap"
 
-msgid "xpad"
-msgstr "xpad"
+msgid "windows"
+msgstr "tetingkap"
 
-msgid "yalign"
-msgstr "yalign"
+msgid "wrap"
+msgstr "balut"
 
-msgid "ypad"
-msgstr "ypad"
+msgid "zoom"
+msgstr "zum"

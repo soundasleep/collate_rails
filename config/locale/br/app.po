@@ -1,62 +1,29 @@
+msgid "#"
+msgstr "#"
+
 msgid "#10 Envelope"
-msgstr "Golo-lizher mod #10"
+msgstr "Golo #10"
 
 msgid "#11 Envelope"
-msgstr "Golo-lizher mod #11"
+msgstr "Golo #11"
 
 msgid "#12 Envelope"
-msgstr "Golo-lizher mod #12"
-
-msgid "#14 Envelope"
-msgstr "Golo-lizher mod #14"
+msgstr "Golo #12"
 
 msgid "#9 Envelope"
-msgstr "Golo-lizher mod #9"
+msgstr "Golo #9"
 
 msgid "(None)"
-msgstr "(Hini ebet)"
+msgstr "(tra ebet)"
 
-msgid "10×11"
-msgstr "10×11"
+msgid "(none)"
+msgstr "(tra ebet)"
 
-msgid "10×13"
-msgstr "10×13"
+msgid ","
+msgstr ","
 
-msgid "10×14"
-msgstr "10×14"
-
-msgid "10×15"
-msgstr "10×15"
-
-msgid "11×12"
-msgstr "11×12"
-
-msgid "11×15"
-msgstr "11×15"
-
-msgid "12×19"
-msgstr "12×19"
-
-msgid "2000"
-msgstr "2000"
-
-msgid "5×7"
-msgstr "5×7"
-
-msgid "6×9 Envelope"
-msgstr "Golo-lizher 6x9"
-
-msgid "7×9 Envelope"
-msgstr "Golo-lizher 7x9"
-
-msgid "8×10 Envelope"
-msgstr "Golo-lizher 8x10"
-
-msgid "9×11 Envelope"
-msgstr "Golo-lizher 9x11"
-
-msgid "9×12 Envelope"
-msgstr "Golo-lizher 9x12"
+msgid "-"
+msgstr "-"
 
 msgid ";"
 msgstr ";"
@@ -67,128 +34,44 @@ msgstr "A"
 msgid "A0"
 msgstr "A0"
 
-msgid "A0×2"
-msgstr "A0×2"
-
-msgid "A0×3"
-msgstr "A0×3"
-
 msgid "A1"
 msgstr "A1"
-
-msgid "A10"
-msgstr "A10"
-
-msgid "A1×3"
-msgstr "A1×3"
-
-msgid "A1×4"
-msgstr "A1×4"
 
 msgid "A2"
 msgstr "A2"
 
-msgid "A2×3"
-msgstr "A2×3"
-
-msgid "A2×4"
-msgstr "A2×4"
-
-msgid "A2×5"
-msgstr "A2×5"
-
 msgid "A3"
 msgstr "A3"
-
-msgid "A3 Extra"
-msgstr "A3 Extra"
-
-msgid "A3×3"
-msgstr "A3×3"
-
-msgid "A3×4"
-msgstr "A3×4"
-
-msgid "A3×5"
-msgstr "A3×5"
-
-msgid "A3×6"
-msgstr "A3×6"
-
-msgid "A3×7"
-msgstr "A3×7"
 
 msgid "A4"
 msgstr "A4"
 
-msgid "A4 Extra"
-msgstr "A4 Extra"
-
-msgid "A4 Tab"
-msgstr "A4 Tab"
-
-msgid "A4×3"
-msgstr "A4×3"
-
-msgid "A4×4"
-msgstr "A4×4"
-
-msgid "A4×5"
-msgstr "A4×5"
-
-msgid "A4×6"
-msgstr "A4×6"
-
-msgid "A4×7"
-msgstr "A4×7"
-
-msgid "A4×8"
-msgstr "A4×8"
-
-msgid "A4×9"
-msgstr "A4×9"
-
 msgid "A5"
 msgstr "A5"
-
-msgid "A5 Extra"
-msgstr "A5 Extra"
 
 msgid "A6"
 msgstr "A6"
 
-msgid "A7"
-msgstr "A7"
+msgid "Abbreviation"
+msgstr "Berradur"
 
-msgid "A8"
-msgstr "A8"
-
-msgid "A9"
-msgstr "A9"
-
-msgid "About"
-msgstr "Diwar-benn"
+msgid "Accepted"
+msgstr "Degemeret"
 
 msgid "Action"
-msgstr "Gwezhiad"
+msgstr "Gwered"
 
 msgid "Actions"
 msgstr "Gweredoù"
 
-msgid "Activate"
-msgstr "Gweredekaat"
-
 msgid "Active"
-msgstr "Oberiat"
+msgstr "Oberiant"
 
-msgid "Add a class"
-msgstr "Ouzhpennañ ur rummad"
+msgid "Add"
+msgstr "Ouzhpennañ"
 
 msgid "Address"
 msgstr "Chomlec'h"
-
-msgid "Adjusts the volume"
-msgstr "Reoliñ an dregern"
 
 msgid "Advanced"
 msgstr "Kempleshoc'h"
@@ -196,14 +79,14 @@ msgstr "Kempleshoc'h"
 msgid "After"
 msgstr "Goude"
 
+msgid "Align"
+msgstr "Steudañ"
+
 msgid "Alignment"
-msgstr "Desteudañ"
+msgstr "Steudadur"
 
-msgid "All Files"
+msgid "All files"
 msgstr "An holl restroù"
-
-msgid "All Margins"
-msgstr "Bevenn"
 
 msgid "All sheets"
 msgstr "An holl follennoù"
@@ -211,416 +94,233 @@ msgstr "An holl follennoù"
 msgid "Alpha"
 msgstr "Alfa"
 
-msgid "Alt"
-msgstr "Alt"
+msgid "Amount"
+msgstr "Sav"
 
-msgid "Amharic (EZ+)"
-msgstr "Amhareg (EZ+)"
-
-msgid "Amount of blue light in the color."
-msgstr "Kementad a c'houloù glas el liv."
-
-msgid "Amount of green light in the color."
-msgstr "Kementad a c'houloù gwer el liv."
-
-msgid "Amount of red light in the color."
-msgstr "Kementad a c'houloù ruz el liv."
+msgid "Anchor"
+msgstr "Eoriñ"
 
 msgid "Angle"
-msgstr "Kogn"
+msgstr "Korn"
 
 msgid "Animation"
-msgstr "Buhezadur"
+msgstr "Bliverezh"
 
 msgid "Animations"
 msgstr "Tresadennoù fiñv"
 
+msgid "Appearance"
+msgstr "Neuz"
+
 msgid "Application"
 msgstr "Arload"
 
-msgid "Application menu"
-msgstr "Lañser an arload"
+msgid "Area"
+msgstr "Maez"
 
-msgid "Arch A"
-msgstr "Arch A"
+msgid "Arrow"
+msgstr "Bir"
 
-msgid "Arch B"
-msgstr "Arch B"
-
-msgid "Arch C"
-msgstr "Arch C"
-
-msgid "Arch D"
-msgstr "Arch D"
-
-msgid "Arch E"
-msgstr "Arch E"
-
-msgid "Artists"
-msgstr "Arzourien"
-
-msgid "Artwork by"
-msgstr "Skeudennoù gant"
+msgid "Assign"
+msgstr "Deverkañ"
 
 msgid "Attribute"
 msgstr "Doareenn"
 
-msgid "Authentication"
-msgstr "Dilesa"
-
 msgid "Authors"
 msgstr "Aozerien"
 
-msgid "Auto Select"
-msgstr "EmZiuzañ"
+msgid "Automatic"
+msgstr "Emgefreek"
 
-msgid "B0"
-msgstr "B0"
+msgid "Automatic pre_view"
+msgstr "Alberz em_gefreek"
 
-msgid "B1"
-msgstr "B1"
+msgid "Average"
+msgstr "Keitad"
 
-msgid "B10"
-msgstr "B10"
+msgid "Axes"
+msgstr "Ahelioù"
 
-msgid "B2"
-msgstr "B2"
-
-msgid "B3"
-msgstr "B3"
-
-msgid "B4"
-msgstr "B4"
-
-msgid "B5"
-msgstr "B5"
-
-msgid "B5 Extra"
-msgstr "B5 Extra"
-
-msgid "B6"
-msgstr "B6"
-
-msgid "B6/C4"
-msgstr "B6/C4"
-
-msgid "B7"
-msgstr "B7"
-
-msgid "B8"
-msgstr "B8"
-
-msgid "B9"
-msgstr "B9"
+msgid "B"
+msgstr "B"
 
 msgid "Back"
-msgstr "Distro"
+msgstr "War-gil"
 
-msgid "BackSpace"
-msgstr "Stokell Distreiñ"
+msgid "Background"
+msgstr "Drekleur"
+
+msgid "Background Color"
+msgstr "Liv an drekleur"
 
 msgid "Background color"
 msgstr "Liv an drekleur"
 
-msgid "Battery"
-msgstr "Pod-tredan"
-
-msgid "Be_fore:"
-msgstr "_Kent :"
-
 msgid "Before"
-msgstr "Kent"
-
-msgid "Begin"
-msgstr "Deroù"
-
-msgid "Best _Fit"
-msgstr "Ment peurvat"
+msgstr "A-raok"
 
 msgid "Black"
 msgstr "Du"
 
+msgid "Black & white"
+msgstr "Du & gwenn"
+
+msgid "Blank"
+msgstr "Esaouenn"
+
+msgid "Blue"
+msgstr "Glas"
+
+msgid "Bold"
+msgstr "Tev"
+
 msgid "Bookmarks"
 msgstr "Sinedoù"
 
-msgid "Border width"
-msgstr "Ledander ar vevenn"
+msgid "Border"
+msgstr "Riblenn"
+
+msgid "Border color"
+msgstr "Liv ar riblennoù"
 
 msgid "Both"
-msgstr "An eil hag egile"
+msgstr "An eil hag eben"
 
-msgid "Bottom to top"
-msgstr "Eus an traoñ betek krec'h"
+msgid "Bottom left"
+msgstr "En traoñ a-gleiz"
 
-msgid "Bottom to top, left to right"
-msgstr "Eus an traoñ betek an nec'h, eus an tu kleiz d'an tu dehou"
+msgid "Box"
+msgstr "Boest"
 
-msgid "Bottom to top, right to left"
-msgstr "Eus an traoñ d'an nec'h, eus an tu dehou d'an tu kleiz"
+msgid "Brackets"
+msgstr "Krommelloù ha krochedoù"
 
-msgid "Brightness of the color."
-msgstr "Lintr al liv."
+msgid "Browse..."
+msgstr "Kantreal..."
 
-msgid "Browse Network"
-msgstr "Merdeiñ ar rouedad"
-
-msgid "Browse the contents of the network"
-msgstr "Furchal e-touez endalc'hadoù ar rouedad"
+msgid "Brush"
+msgstr "Gwispon"
 
 msgid "Bubble"
-msgstr "Klogorennoù"
+msgstr "Klogorenn"
 
-msgid "Buffer"
-msgstr "Skurzer"
+msgid "CMYK"
+msgstr "SMMD"
 
-msgid "Butter"
-msgstr "Amann"
-
-msgid "C0"
-msgstr "C0"
-
-msgid "C1"
-msgstr "C1"
-
-msgid "C10"
-msgstr "C10"
-
-msgid "C2"
-msgstr "C2"
-
-msgid "C3"
-msgstr "C3"
-
-msgid "C4"
-msgstr "C4"
-
-msgid "C5"
-msgstr "C5"
-
-msgid "C6"
-msgstr "C6"
-
-msgid "C6/C5"
-msgstr "C6/C5"
-
-msgid "C7"
-msgstr "C7"
-
-msgid "C7/C6"
-msgstr "C7/C6"
-
-msgid "C8"
-msgstr "C8"
-
-msgid "C9"
-msgstr "C9"
-
-msgid "CLASS"
-msgstr "RUMMAD"
-
-msgid "COLORS"
-msgstr "LIVIOÙ"
-
-msgid "CSS"
-msgstr "CSS"
-
-msgid "CSS nodes"
-msgstr "Klavioù CSS"
-
-msgid "C_onnect"
-msgstr "K_ennaskañ"
-
-msgid "C_redits"
-msgstr "Pe_rzhourion"
-
-msgid "C_urrent Page"
-msgstr "Paje_nnad vremanel"
+msgid "C_enter"
+msgstr "_Kreiz"
 
 msgid "Cancel"
-msgstr "Dilezel"
+msgstr "Nullañ"
 
-msgid "Cancel Button"
-msgstr "Afell Nullañ"
+msgid "Center"
+msgstr "Kreiz"
 
-msgid "Caps Lock is on"
-msgstr "Gweredekaet eo prennadur ar pennlizherennoù"
+msgid "Centered"
+msgstr "Kreizet"
 
-msgid "Capture"
-msgstr "Pakañ"
+msgid "Checkerboard"
+msgstr "Tablez"
 
-msgid "Child"
-msgstr "Bugel"
+msgid "Chrome"
+msgstr "Krom"
 
-msgid "Chocolate"
-msgstr "Chokolad"
-
-msgid "Choukei 2 Envelope"
-msgstr "Golo-lizher mod Choukei 2"
-
-msgid "Choukei 3 Envelope"
-msgstr "Golo-lizher mod Choukei 3"
-
-msgid "Choukei 4 Envelope"
-msgstr "Golo-lizher mod Choukei 4"
-
-msgid "Choukei 40 Envelope"
-msgstr "Golo-lizher mod Choukei 40"
-
-msgid "Class name"
-msgstr "Anv ar rummad"
-
-msgid "Classes"
-msgstr "Rummadoù"
-
-msgid "Classified"
-msgstr "Rummataet kuzh"
-
-msgid "Click"
-msgstr "Klikañ"
+msgid "Circle"
+msgstr "Kelc'h"
 
 msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
 msgstr "Klikañ war ar gorzennig, ha klikañ war ul liv n'eus forzh pelec'h war ar skramm evit diuzañ al liv-mañ."
 
-msgid "Clicks the button"
-msgstr "Klikañ a ra an afell"
-
 msgid "Close"
 msgstr "Serriñ"
 
-msgid "Co_nnect"
-msgstr "Ke_nnaskañ"
+msgid "Collect"
+msgstr "Dastum"
 
 msgid "Color"
 msgstr "Liv"
 
-msgid "Color Name"
-msgstr "Anv al liv"
+msgid "Color Mode"
+msgstr "Mod al liv"
 
-msgid "Color Selection"
-msgstr "Diuzañ ul liv"
-
-msgid "Color Wheel"
-msgstr "Kelc'hiad livverkel"
-
-msgid "Color _name:"
-msgstr "_Anv al liv :"
-
-msgid "Column:"
-msgstr "Bann :"
+msgid "Colors"
+msgstr "Livioù"
 
 msgid "Columns"
 msgstr "Bannoù"
 
-msgid "Command Line"
-msgstr "Linenn arc'had"
+msgid "Combine"
+msgstr "Kedaozañ"
 
-msgid "Composited"
-msgstr "Kedoazet"
+msgid "Comment"
+msgstr "Evezhiadenn"
 
-msgid "Computer"
-msgstr "Urzhiataer"
+msgid "Comments"
+msgstr "Evezhiadennoù"
+
+msgid "Compression"
+msgstr "Koazhadur"
 
 msgid "Confidential"
 msgstr "Dangel"
 
-msgid "Connect As"
-msgstr "Kennaskañ evel"
+msgid "Configuration"
+msgstr "Kefluniañ"
 
-msgid "Connect to Server"
-msgstr "Kennaskañ ouzh un dafariad"
+msgid "Context"
+msgstr "Kemperzh"
 
-msgid "Connected"
-msgstr "Kennasket"
+msgid "Contrast"
+msgstr "Dargemm"
 
-msgid "Convert to PS level 1"
-msgstr "Amdreiñ da PS live 1"
+msgid "Controls"
+msgstr "Reolerezhioù"
 
-msgid "Convert to PS level 2"
-msgstr "Amdreiñ da PS live 2"
+msgid "Copy"
+msgstr "Eilañ"
 
-msgid "Copie_s:"
-msgstr "Eiladenn_où :"
+msgid "Cosine"
+msgstr "Kosinuz"
 
-msgid "Copies"
-msgstr "Eiladennoù"
-
-msgid "Copy URL"
-msgstr "Eilañ an URL"
-
-msgid "Copy _Link Address"
-msgstr "Eilañ chomlec'h an _ere"
-
-msgid "Copy _Location"
-msgstr "Eilañ al lec'hiadur"
-
-msgid "Could not select file"
-msgstr "N'hall ket diuzañ ur restr"
-
-msgid "Could not show link"
-msgstr "N'haller ket diskouez an ere"
-
-msgid "Create Folder"
-msgstr "Krouiñ un teuliad"
-
-msgid "Create a custom color"
-msgstr "Krouiñ ul liv personalaet"
+msgid "Create"
+msgstr "Krouiñ"
 
 msgid "Created by"
 msgstr "Krouet gant"
 
-msgid "Credits"
-msgstr "Trugarez da"
+msgid "Crop"
+msgstr "Didroc'hañ"
 
-msgid "Ctrl"
-msgstr "Ctrl"
+msgid "Crop Image"
+msgstr "Krennañ ar skeudenn"
 
 msgid "Cu_t"
 msgstr "_Troc'hañ"
 
-msgid "Cursor Size"
-msgstr "Ment ar reti"
-
-msgid "Cursor Theme"
-msgstr "Neuz ar reti"
-
-msgid "Cursor color"
-msgstr "Liv ar reti"
-
-msgid "Cursor theme name"
-msgstr "Anv giz ar reti"
-
-msgid "Cursor theme size"
-msgstr "Ment giz ar reti"
-
 msgid "Custom"
 msgstr "Personelaet"
-
-msgid "Custom License"
-msgstr "Lañvaz personalaet"
 
 msgid "Custom color"
 msgstr "Liv personelaet"
 
-msgid "Custom size"
-msgstr "Personelaat ar vent"
-
 msgid "Customize"
 msgstr "Personelaat"
 
-msgid "DISPLAY"
-msgstr "SKRAMMAÑ"
+msgid "Cut"
+msgstr "Troc'hañ"
+
+msgid "Cyan"
+msgstr "Siañ"
+
+msgid "Cylinder"
+msgstr "Kranenn"
 
 msgid "DL Envelope"
-msgstr "Golo-lizher DL"
+msgstr "Golo DL"
 
-msgid "Dai-pa-kai"
-msgstr "Dai-pa-kai"
-
-msgid "Dark Gray"
-msgstr "Gris teñval"
-
-msgid "Dark Variant"
-msgstr "Gris teñval"
+msgid "Dashed"
+msgstr "Gourzhelloù"
 
 msgid "Data"
 msgstr "Roadennoù"
@@ -629,76 +329,97 @@ msgid "Day"
 msgstr "Deiz"
 
 msgid "Decrease Indent"
-msgstr "Digreskiñ ar c'hefosk"
-
-msgid "Decreases the volume"
-msgstr "Izelaat ar son"
+msgstr "Digreskiñ ar pukañ"
 
 msgid "Default"
-msgstr "Diouer"
+msgstr "Dre ziouer"
 
-msgid "Default Application"
-msgstr "Arload dre ziouer"
-
-msgid "Default Display"
-msgstr "Skrammañ dre ziouer"
-
-msgid "Default Height"
-msgstr "Uhelder dre ziouer"
-
-msgid "Default Width"
-msgstr "Ledander dre ziouer"
+msgid "Delay"
+msgstr "Dale"
 
 msgid "Delete"
-msgstr "Dilemel"
+msgstr "Diverkañ"
 
-msgid "Desktop"
-msgstr "Burev"
+msgid "Delete layer"
+msgstr "Dilemel an dreuzfollenn"
+
+msgid "Depth"
+msgstr "Donder"
+
+msgid "Desaturate"
+msgstr "Dibeurvec'hiañ"
+
+msgid "Description"
+msgstr "Deskrivadur"
+
+msgid "Description..."
+msgstr "Deskrivadur..."
+
+msgid "Design"
+msgstr "Neuz"
 
 msgid "Detail"
 msgstr "Munud"
-
-msgid "Device Display"
-msgstr "Skrammañ dre ziouer"
-
-msgid "Device name"
-msgstr "Anv ar widget"
 
 msgid "Devices"
 msgstr "Trobarzhelloù"
 
 msgid "Dialog"
-msgstr "Kendiviz"
+msgstr "Boest emziviz"
+
+msgid "Dialogs"
+msgstr "Boestadoù emziviz"
+
+msgid "Diamond"
+msgstr "Lankell"
+
+msgid "Difference"
+msgstr "Diforc'h"
+
+msgid "Dimensions"
+msgstr "Ment"
+
+msgid "Direction"
+msgstr "Durc'hadur"
 
 msgid "Disabled"
 msgstr "Diweredekaet"
 
+msgid "Disc"
+msgstr "Kantenn"
+
 msgid "Display"
-msgstr "Skrammañ dre ziouer"
+msgstr "Skrammañ"
 
-msgid "Documented by"
-msgstr "Teuliadur savet gant"
+msgid "Dissolve"
+msgstr "Loezañ"
 
-msgid "Domain:"
-msgstr "Domani :"
+msgid "Distribute"
+msgstr "Dasparzhañ"
+
+msgid "Division"
+msgstr "Rann"
+
+msgid "Dock"
+msgstr "Eoriñ"
+
+msgid "Documents"
+msgstr "Teulioù"
 
 msgid "Down"
-msgstr "Diskenn"
+msgstr "Traoñ"
 
-msgid "Draw"
-msgstr "Tresañ"
+msgid "E-mail"
+msgstr "Postel"
 
 msgid "Edit"
-msgstr "Kemmañ"
+msgstr "Embann"
 
 msgid "Editable"
-msgstr "Embannus"
+msgstr "Embannadus"
 
-msgid "Embed GhostScript fonts only"
-msgstr "Enframmañ an nodrezhoù GhostScript hepken"
-
-msgid "Embedded"
-msgstr "Enkorfet"
+msgid "Emboss"
+msgstr "Koagenniñ"
 
 msgid "Empty"
 msgstr "Goullo"
@@ -709,58 +430,52 @@ msgstr "Gweredekaet"
 msgid "End"
 msgstr "Dibenn"
 
-msgid "Enter Location"
-msgstr "Roit ul lec'hiadur"
+msgid "English"
+msgstr "Saozneg"
+
+msgid "Environment"
+msgstr "Amva"
 
 msgid "Error"
 msgstr "Fazi"
 
-msgid "Error color"
-msgstr "Liv ar fazioù"
+msgid "Error opening file"
+msgstr "Fazi en ur zigeriñ ar restr"
 
-msgid "Error from StartDoc"
-msgstr "Fazi diouzh StartDoc"
+msgid "Error reading file."
+msgstr "Fazi lennadur ar restr."
 
-msgid "Escape"
-msgstr "Achap"
+msgid "Errors"
+msgstr "Fazioù"
 
-msgid "Event base"
-msgstr "Degouezhoù"
+msgid "Event"
+msgstr "Degouezh"
 
 msgid "Events"
-msgstr "Degouezhoù"
+msgstr "Dargouezhioù"
 
-msgid "Export filename"
-msgstr "Ezporhiañ anv ar restr"
+msgid "Exponential"
+msgstr "Argemmvac'hennel"
 
-msgid "Extra widget"
-msgstr "Widget ouzhpenn"
+msgid "Extensions"
+msgstr "Askouezhioù"
 
-msgid "FLAGS"
-msgstr "BANNIELOÙ"
-
-msgid "Failed to load icon"
-msgstr "Fazi en ur gargañ an arlun"
-
-msgid "Failed to open file %{string} : %{string}\n"
-msgstr "Fazi en ur zigeriñ %{string} : %{string}\n"
-
-msgid "Fan-Fold US"
-msgstr "FanFold US"
+msgid "Factor"
+msgstr "Feur"
 
 msgid "File"
-msgstr "Restr"
+msgstr "Restroù"
 
-msgid "File System"
-msgstr "Reizhiad restroù"
+msgid "File Exists"
+msgstr "Ar restr zo anezhi"
 
-msgid "File System Root"
-msgstr "Gwrizienn ar reizhiad restroù"
+msgid "File Name"
+msgstr "Anv restr"
 
-msgid "File not found: %{string}\n"
-msgstr "N'eo ket bet kavet ar restr : %{string}\n"
+msgid "File Type"
+msgstr "Seurt Restr"
 
-msgid "Filename"
+msgid "File name"
 msgstr "Anv ar restr"
 
 msgid "Files"
@@ -769,32 +484,41 @@ msgstr "Restroù"
 msgid "Fill"
 msgstr "Leuniañ"
 
-msgid "Filter"
-msgstr "Sil"
+msgid "Fill Color"
+msgstr "Liv leuniañ"
 
-msgid "Find and _Replace"
-msgstr "Klask hag _amsaviñ"
+msgid "Filled"
+msgstr "Leuniet"
+
+msgid "Filter"
+msgstr "Silañ"
+
+msgid "Filters"
+msgstr "Siloù"
 
 msgid "Finished"
-msgstr "Echu"
+msgstr "Echuiñ"
 
-msgid "Finished with error"
-msgstr "Echu gant fazi"
+msgid "First"
+msgstr "Kentañ"
 
-msgid "Finishing"
-msgstr "Oc'h echuiñ"
+msgid "First color"
+msgstr "Liv Kentañ"
 
-msgid "Folio"
-msgstr "Folio"
+msgid "Fixed"
+msgstr "Kempennet"
 
-msgid "Folio sp"
-msgstr "Folio sp"
+msgid "Flip"
+msgstr "Gwintañ"
+
+msgid "Flip vertically"
+msgstr "Gwintañ a-serzh"
+
+msgid "Folder"
+msgstr "Teuliad"
 
 msgid "Font"
 msgstr "Nodrezh"
-
-msgid "Font Family"
-msgstr "Familh nodrezhoù"
 
 msgid "Font Name"
 msgstr "Anv an nodrezh"
@@ -802,98 +526,92 @@ msgstr "Anv an nodrezh"
 msgid "Font Selection"
 msgstr "Diuzad nodrezhioù"
 
-msgid "Font family"
-msgstr "Familh an nodrezh"
-
-msgid "Font name"
-msgstr "Anv an nodrezh"
-
-msgid "Font options"
-msgstr "Dibarzhioù an nodrezh"
-
-msgid "Font resolution"
-msgstr "Diarunusted an nodrezh"
+msgid "Font color"
+msgstr "Liv nodrezh"
 
 msgid "Font size"
 msgstr "Ment an nodrezh"
 
-msgid "Font style"
-msgstr "Rizh an nodrezh"
-
 msgid "Font weight"
-msgstr "Lard an nodrezh"
+msgstr "Lard"
+
+msgid "Fonts"
+msgstr "Nodrezhoù"
 
 msgid "Foreground color"
 msgstr "Liv ar rakleur"
 
-msgid "Forget password _immediately"
-msgstr "Disoñjal ar ger-tremen d_iouzhtu"
-
 msgid "Forward"
 msgstr "War-lerc'h"
 
-msgid "GIcon"
-msgstr "GArlun"
+msgid "Frame"
+msgstr "Stern"
 
-msgid "GL Version"
-msgstr "Handelv GL"
+msgid "Frames"
+msgstr "Sternioù"
 
-msgid "GTK Modules"
-msgstr "Molladoù GTK+"
+msgid "Function"
+msgstr "Kevreizhenn"
 
-msgid "GTK+ Options"
-msgstr "Dibarzhioù GTK+"
-
-msgid "GTK+ Theme"
-msgstr "Neuz GTK+"
-
-msgid "GTK+ Version"
-msgstr "Handelv GTK+"
+msgid "Gamma"
+msgstr "Gamma"
 
 msgid "General"
 msgstr "Hollek"
 
-msgid "Generating data"
-msgstr "O c'henel roadennoù"
+msgid "General Options"
+msgstr "Dibarzhioù hollek"
 
-msgid "Getting printer information…"
-msgstr "O kaout titour ar voulerez..."
+msgid "Gradient"
+msgstr "Ilrezenn"
 
-msgid "Gravity"
-msgstr "Dedennerezh"
+msgid "Gradients"
+msgstr "Ilrezennoù"
+
+msgid "Gray"
+msgstr "Loued"
+
+msgid "Grayscale"
+msgstr "Liveoù louedoù"
+
+msgid "Green"
+msgstr "Gwer"
+
+msgid "Grey"
+msgstr "Loued"
+
+msgid "Grid"
+msgstr "Kael"
 
 msgid "Group"
 msgstr "Strollad"
 
-msgid "Group Name"
-msgstr "ID ar strollad"
+msgid "Guides"
+msgstr "Spisverkoù"
 
 msgid "H"
 msgstr "S"
 
-msgid "Headers Visible"
-msgstr "Gwelus"
+msgid "Heart"
+msgstr "Kalon"
 
 msgid "Height"
 msgstr "Sav"
 
-msgid "Help Button"
-msgstr "Afell Skoazell"
+msgid "Help"
+msgstr "Skoazell"
 
-msgid "Hibernate"
-msgstr "Goañviñ"
+msgid "Hexagon"
+msgstr "C'hwec'htueg"
 
 msgid "Hide Others"
-msgstr "Kuzhat ar re all"
-
-msgid "Hierarchy"
-msgstr "Urzhaz"
+msgstr "Masklañ ar re all"
 
 msgid "High"
 msgstr "Uhel"
 
 msgid "Home"
-msgstr "Teuliadoù personel"
+msgstr "D'ar gêr"
 
 msgid "Horizontal"
 msgstr "A-blaen"
@@ -901,41 +619,20 @@ msgstr "A-blaen"
 msgid "Horizontal Alignment"
 msgstr "Desteudañ a-blaen"
 
-msgid "Horizontal separation"
-msgstr "Desteudañ a-blaen"
-
 msgid "Hue"
 msgstr "Arliv"
 
-msgid "Hyper"
-msgstr "Hyper"
+msgid "ID"
+msgstr "ID"
 
-msgid "IPA"
-msgstr "IPA"
+msgid "I_ntensity"
+msgstr "Kreñ_vder"
 
 msgid "Icon"
 msgstr "Arlun"
 
-msgid "Icon Name"
-msgstr "Anv an arlun"
-
-msgid "Icon Sizes"
-msgstr "Mentoù an arlun"
-
-msgid "Icon Theme"
-msgstr "Neuz an arlunioù"
-
-msgid "Icon Theme Name"
-msgstr "Anv giz an arlunioù"
-
-msgid "Icon for this window"
-msgstr "Arlun evit ar prenestr-mañ"
-
-msgid "Icon name"
-msgstr "Anv an nodrezh"
-
 msgid "Icon size"
-msgstr "Ment an arlun"
+msgstr "Ment an arlunioù"
 
 msgid "Icons"
 msgstr "Arlunioù"
@@ -943,155 +640,50 @@ msgstr "Arlunioù"
 msgid "Image"
 msgstr "Skeudenn"
 
-msgid "Image Quality"
-msgstr "Perzhded ar skeudenn"
+msgid "Image Size"
+msgstr "Ment ar skeudenn"
+
+msgid "Images"
+msgstr "Skeudennoù"
+
+msgid "Import Options"
+msgstr "Enporzhiañ an dibarzhioù"
 
 msgid "Increase Indent"
-msgstr "Kreskaat ar c'hefosk"
-
-msgid "Increases the volume"
-msgstr "Uhelaat ar son"
+msgstr "Kreskaat ar pukad"
 
 msgid "Indent"
-msgstr "Kefoskañ"
-
-msgid "Index 3×5"
-msgstr "Index 3x5"
-
-msgid "Index 4×6 ext"
-msgstr "Index 4x6 ext"
-
-msgid "Index 5×8"
-msgstr "Index 5x8"
+msgstr "Pukañ"
 
 msgid "Information"
-msgstr "Titour"
-
-msgid "Initial state"
-msgstr "Stad deraouiñ"
+msgstr "Stlenn an teul"
 
 msgid "Insert"
 msgstr "Enlakaat"
 
-msgid "Invalid"
-msgstr "Didalvoudek"
+msgid "Inset"
+msgstr "Diabarzh"
 
-msgid "Invalid URI"
-msgstr "URI didalvoudek"
+msgid "Integer"
+msgstr "Niver kevan"
 
-msgid "Invalid file name"
-msgstr "Didalvoudek eo anv ar restr"
+msgid "Intersection"
+msgstr "Kenskejad"
 
-msgid "Invalid size %{string}\n"
-msgstr "Ment didalvoudek %{string}\n"
+msgid "Invert"
+msgstr "Tuginañ"
 
-msgid "Inverted"
-msgstr "Enebet"
+msgid "Italic"
+msgstr "Stouet"
 
-msgid "Invisible"
-msgstr "Diwelus"
-
-msgid "Is important"
-msgstr "A-bouez eo"
-
-msgid "Item Orientation"
-msgstr "Reteradur"
-
-msgid "JB0"
-msgstr "JB0"
-
-msgid "JB1"
-msgstr "JB1"
-
-msgid "JB10"
-msgstr "JB10"
-
-msgid "JB2"
-msgstr "JB2"
-
-msgid "JB3"
-msgstr "JB3"
-
-msgid "JB4"
-msgstr "JB4"
-
-msgid "JB5"
-msgstr "JB5"
-
-msgid "JB6"
-msgstr "JB6"
-
-msgid "JB7"
-msgstr "JB7"
-
-msgid "JB8"
-msgstr "JB8"
-
-msgid "JB9"
-msgstr "JB9"
-
-msgid "Job"
-msgstr "Labour"
-
-msgid "Job Details"
-msgstr "Munudoù al labour"
-
-msgid "Job Name"
-msgstr "Anv al labour"
-
-msgid "KP_Begin"
-msgstr "DS_Deroù"
-
-msgid "KP_Delete"
-msgstr "DS_Dilemel"
-
-msgid "KP_Down"
-msgstr "DS _Diskenn"
-
-msgid "KP_End"
-msgstr "DS_Dibenn"
-
-msgid "KP_Enter"
-msgstr "DS_Enankañ"
-
-msgid "KP_Home"
-msgstr "DS _Kêr"
-
-msgid "KP_Insert"
-msgstr "DS_Enlakaat"
-
-msgid "KP_Left"
-msgstr "DS_Kleiz"
-
-msgid "KP_Next"
-msgstr "DS _War-lerc'h"
-
-msgid "KP_Page_Down"
-msgstr "DS_Pajenn_Traoñ"
-
-msgid "KP_Page_Up"
-msgstr "DS_Pajenn_Nec'h"
-
-msgid "KP_Prior"
-msgstr "KP_Prior"
-
-msgid "KP_Right"
-msgstr "DS_Dehou"
-
-msgid "KP_Space"
-msgstr "DS_Esaouiñ"
-
-msgid "KP_Tab"
-msgstr "DS_Taol"
-
-msgid "KP_Up"
-msgstr "DS _Sevel"
+msgid "Keyboard"
+msgstr "Klavier"
 
 msgid "Label"
-msgstr "Skritellig"
+msgstr "Tikedenn"
 
-msgid "Label fill"
-msgstr "Skritellig"
+msgid "Lambda"
+msgstr "Lambda"
 
 msgid "Landscape"
 msgstr "Gweledva"
@@ -1099,98 +691,92 @@ msgstr "Gweledva"
 msgid "Language"
 msgstr "Yezh"
 
-msgid "Launch1"
-msgstr "Lañser1"
+msgid "Languages"
+msgstr "Yezhoù"
+
+msgid "Large"
+msgstr "Bras"
+
+msgid "Layer"
+msgstr "Treuzfollenn"
 
 msgid "Layout"
 msgstr "Pajennaozañ"
 
 msgid "Left"
-msgstr "Kleiz"
-
-msgid "Left Margin"
-msgstr "Bevenn a-gleiz"
+msgstr "A-gleiz"
 
 msgid "Left margin"
-msgstr "Bevenn a-gleiz"
+msgstr "Marz a-gleiz"
 
-msgid "Left to right"
-msgstr "Eus an tu kleiz d'an tu dehou"
-
-msgid "Left to right, bottom to top"
-msgstr "Eus an tu kleiz d'an tu dehou, eus an traoñ d'an nec'h"
-
-msgid "Left to right, top to bottom"
-msgstr "Eus an tu kleiz d'an tu dehou, eus an nec'h d'an traoñ"
+msgid "Legal"
+msgstr "Titouroù lezennel"
 
 msgid "License"
-msgstr "Lañvaz"
+msgstr "Aotre-implijout"
 
-msgid "License Type"
-msgstr "Rizh ar prenestr"
+msgid "Light"
+msgstr "Skañv"
 
 msgid "Light Gray"
-msgstr "Gris sklaer"
+msgstr "Loued sklaer"
 
-msgid "Load additional GTK+ modules"
-msgstr "Kargañ molladoù GTK+ ouzhpenn"
+msgid "Line"
+msgstr "Linenn"
 
-msgid "Local Only"
-msgstr "Lec'hel hepken"
+msgid "Line spacing"
+msgstr "Etrelinennañ"
 
-msgid "Local only"
-msgstr "Lec'hel hepken"
+msgid "Linear"
+msgstr "Uelinennek"
 
 msgid "Location"
-msgstr "Lec'hiadur"
+msgstr "Lec'hiadurioù"
 
-msgid "Lock"
-msgstr "Prennañ"
+msgid "Logarithmic"
+msgstr "Treoliek"
 
 msgid "Logo"
-msgstr "Siell"
-
-msgid "Logo Icon Name"
-msgstr "Anv arlun al logo"
+msgstr "Logo"
 
 msgid "Low"
 msgstr "Izel"
 
-msgid "Lower"
-msgstr "Izeloc'h"
+msgid "MIDI"
+msgstr "MIDI"
 
-msgid "MODULES"
-msgstr "MOLLADOÙ"
+msgid "Magenta"
+msgstr "Majenta"
 
 msgid "Make all warnings fatal"
 msgstr "Lakaat an holl evezhioù da vezañ lazhus"
 
-msgid "Manage Custom Sizes"
-msgstr "Ardeiñ ar mentoù personelaet"
+msgid "Manual"
+msgstr "Dre-zorn"
+
+msgid "Marble"
+msgstr "Marbr"
 
 msgid "Margin"
-msgstr "Bevenn"
+msgstr "Marz"
 
-msgid "Margin on Left"
-msgstr "Bevenn"
-
-msgid "Margin on Top"
-msgstr "Bevenn"
+msgid "Matrix"
+msgstr "Oged"
 
 msgid "Maximize"
 msgstr "Brasaat"
 
-msgid "Medium"
-msgstr "Krenn"
+msgid "Median"
+msgstr "Kreiztuenn"
 
-msgid "Medium Photo"
-msgstr "Foto krenn"
+msgid "Medium"
+msgstr "Etre"
 
 msgid "Menu"
-msgstr "Meuziad"
+msgstr "Lañser"
 
-msgid "Meta"
-msgstr "Meta"
+msgid "Message"
+msgstr "Kemennadenn"
 
 msgid "Minimize"
 msgstr "Bihanaat"
@@ -1202,88 +788,79 @@ msgid "Mode"
 msgstr "Mod"
 
 msgid "Model"
-msgstr "Gobari"
-
-msgid "Model:"
-msgstr "Patrom :"
+msgstr "Patrom"
 
 msgid "Modified"
-msgstr "Kemmet"
+msgstr "Daskemmet"
 
-msgid "Monarch Envelope"
-msgstr "Golo Monarch"
+msgid "Module"
+msgstr "Mollad"
+
+msgid "Modules"
+msgstr "Molladoù"
+
+msgid "Monitor Resolution"
+msgstr "Diarunusted ar skramm"
 
 msgid "Month"
 msgstr "Miz"
 
-msgid "Mount and open “%{string}”"
-msgstr "Sevel ha digeriñ \"%{string}\""
+msgid "More..."
+msgstr "Muioc'h..."
 
-msgid "Multi_key"
-msgstr "Stokell_Lies"
+msgid "Mosaic"
+msgstr "Marell"
 
-msgid "Multipress"
-msgstr "Liesstokell"
+msgid "Move"
+msgstr "Dilec'hiañ"
 
-msgid "Muted"
-msgstr "Mut"
+msgid "Move Down"
+msgstr "Davit an traoñ"
 
-msgid "NAME"
-msgstr "ANV"
+msgid "Move Up"
+msgstr "Pignat"
+
+msgid "N"
+msgstr "N"
 
 msgid "Name"
 msgstr "Anv"
 
-msgid "Name of default font to use"
-msgstr "Anv an nodezh dre ziouer da implij"
+msgid "Navigation"
+msgstr "Merdeiñ"
 
-msgid "Name of the printer"
-msgstr "Anv ar voullerez"
+msgid "Neon"
+msgstr "Neon"
 
-msgid "Name:"
-msgstr "Anv :"
+msgid "Next"
+msgstr "War-lerc'h"
 
-msgid "Network"
-msgstr "Rouedad"
+msgid "No"
+msgstr "Ket"
 
-msgid "New bookmark"
-msgstr "Sined nevez"
-
-msgid "New class"
-msgstr "Rummad nevez"
-
-msgid "No Month Change"
-msgstr "Miz kemmet ebet"
-
-msgid "No items found"
-msgstr "Ergorenn ebet bet kavet"
-
-msgid "No printer found"
-msgstr "Moullerez ebet bet kavet"
-
-msgid "No profile available"
-msgstr "Aelad hegerz ebet"
+msgid "No action"
+msgstr "Gwered ebet"
 
 msgid "None"
-msgstr "Hini bet"
+msgstr "Tra ebet"
+
+msgid "Normal"
+msgstr "Reizh"
 
 msgid "Not available"
-msgstr "Dihegerz"
+msgstr "N'eo ket hegerz"
 
-msgid "Not enough free memory"
-msgstr "N'eus ket memor dieub a-walc'h"
+msgid "Number"
+msgstr "Niver"
 
-msgid "Num_Lock"
-msgstr "Prenn_niv"
+msgid "Numbering"
+msgstr "Niverenniñ"
 
-msgid "Number of columns"
-msgstr "Niver a bannoù"
-
-msgid "OK Button"
-msgstr "Afell Mat eo"
+msgid "Numbers"
+msgstr "Niveroù"
 
 msgid "Object"
-msgstr "Ergorenn"
+msgstr "Egorenn"
 
 msgid "Objects"
 msgstr "Ergorennoù"
@@ -1291,134 +868,80 @@ msgstr "Ergorennoù"
 msgid "Offline"
 msgstr "Ezlinenn"
 
-msgid "Oficio"
-msgstr "Oficio"
+msgid "Offset"
+msgstr "Linkañ"
 
-msgid "Online"
-msgstr "Enlinenn"
+msgid "Op_tions"
+msgstr "Dibar_zhioù"
 
-msgid "Op_acity:"
-msgstr "_Demerez :"
+msgid "Open"
+msgstr "Digeriñ"
 
-msgid "Open '%{string}'"
-msgstr "Digeriñ '%{string}'"
+msgid "Open File"
+msgstr "Digeriñ ur restr"
 
-msgid "Open in New _Tab"
-msgstr "Digeriñ e-barzh un _ivinell nevez"
+msgid "Optimize"
+msgstr "Gwellekaat"
 
-msgid "Open in New _Window"
-msgstr "Digeriñ er _prenestr nevez"
-
-msgid "Open the contents of your desktop in a folder"
-msgstr "Digeriñ endalc'hadoù ho purev en un teuliad"
-
-msgid "Open the trash"
-msgstr "Digeriñ ar pod lastez"
-
-msgid "Open your personal folder"
-msgstr "Digeriñ ho teuliad personel"
-
-msgid "Opening %{number} Item"
-msgstr "O tigeriñ %{number} elfenn"
-
-msgid "Opening %{number} Items"
-msgstr "O tigeriñ %{number} elfenn"
-
-msgid "Opening “%{string}” files."
-msgstr "O tigeriñ \"%{string}\" files."
-
-msgid "Opening “%{string}”."
-msgstr "O tigeriñ \"%{string}\"."
-
-msgid "Or_ientation:"
-msgstr "_Reteradur :"
+msgid "Options"
+msgstr "Dibarzhioù"
 
 msgid "Orange"
-msgstr "Orañjez"
+msgstr "Liv orañjez"
 
 msgid "Orientation"
-msgstr "Reteradur"
+msgstr "Tuadur"
 
-msgid "Other Applications"
-msgstr "Arloadoù all"
+msgid "Original"
+msgstr "Orin"
 
-msgid "Other application…"
-msgstr "Arload all..."
+msgid "Other Options"
+msgstr "Dibarzhioù all"
 
-msgid "Other…"
-msgstr "All..."
+msgid "Output"
+msgstr "Ec'hankad"
 
-msgid "Out of paper"
-msgstr "Paper ebet"
+msgid "P"
+msgstr "P"
 
 msgid "PDF"
 msgstr "PDF"
 
-msgid "P_ause"
-msgstr "Eh_an"
+msgid "PNG image"
+msgstr "Skeudenn mod PNG"
 
-msgid "Pag_es:"
-msgstr "Paj_ennadoù :"
+msgid "P_aper"
+msgstr "P_aper"
 
 msgid "Page"
 msgstr "Pajenn"
 
-msgid "Page Set_up"
-msgstr "Arventennad_ur ar bajennad"
-
 msgid "Page Setup"
-msgstr "Pajennaozañ"
-
-msgid "Page Size"
-msgstr "Ment ar bajenn"
-
-msgid "Page_Down"
-msgstr "Pajenn_Izel"
-
-msgid "Page_Up"
-msgstr "Pajenn_Uhel"
+msgstr "Arventennoù ar bajennad"
 
 msgid "Pages"
 msgstr "Pajennoù"
 
-msgid "Pages Per Sheet"
-msgstr "Pajennadoù dre follenn"
-
-msgid "Pages per Sheet"
-msgstr "Pajennadoù dre follenn"
-
-msgid "Pages per _sheet:"
-msgstr "Pajennadoù dre _follenn"
+msgid "Palettes"
+msgstr "Livaouegoù"
 
 msgid "Paper"
 msgstr "Paper"
 
-msgid "Paper Margins"
-msgstr "Marzioù ar baperenn"
+msgid "Parameters"
+msgstr "Arventennoù"
 
-msgid "Paper Size"
-msgstr "Ment ar baperenn"
+msgid "Password"
+msgstr "Ger-tremen"
 
-msgid "Paper Source"
-msgstr "Tarzh ar paper"
-
-msgid "Paper Type"
-msgstr "Rizh ar paper"
-
-msgid "Paper _source:"
-msgstr "Tar_zh ar paper :"
-
-msgid "Paper _type:"
-msgstr "Rizh ar _paper :"
-
-msgid "Parameter Type"
-msgstr "Rizh an arventenn"
-
-msgid "Password:"
-msgstr "Ger-tremen :"
+msgid "Paste"
+msgstr "Pegañ"
 
 msgid "Path"
 msgstr "Treug"
+
+msgid "Paths"
+msgstr "Treugoù"
 
 msgid "Pattern"
 msgstr "Goustur"
@@ -1427,31 +950,52 @@ msgid "Pause"
 msgstr "Ehan"
 
 msgid "Paused"
-msgstr "Ehanet"
+msgstr "Paouezet"
 
-msgid "Personal Envelope"
-msgstr "Golo-lizher personel"
+msgid "Pentagon"
+msgstr "Pemptueg"
+
+msgid "Perspective"
+msgstr "Diarsell"
+
+msgid "Phong"
+msgstr "Mod Phong"
 
 msgid "Pick a Color"
-msgstr "Dibabit ul Liv"
+msgstr "Dibabit ul liv"
 
-msgid "Pick a Font"
-msgstr "Dibabit un nodrezh"
+msgid "Placement"
+msgstr "Lec'hiadur"
+
+msgid "Plural"
+msgstr "Liester"
+
+msgid "Point"
+msgstr "Poent"
+
+msgid "Pointer"
+msgstr "Biz"
+
+msgid "Polygon"
+msgstr "Liestueg"
 
 msgid "Portrait"
 msgstr "Poltred"
 
 msgid "Position"
-msgstr "Lec'hiadur"
+msgstr "Arc'hwel"
 
-msgid "Postscript"
-msgstr "Postscript"
+msgid "Posterize"
+msgstr "Poster"
+
+msgid "Power"
+msgstr "Mac'h"
+
+msgid "Pr_eview"
+msgstr "_Alberz"
 
 msgid "Pre_view"
-msgstr "Al_berz"
-
-msgid "Pre_vious"
-msgstr "_Kent"
+msgstr "_Alberz"
 
 msgid "Preferences"
 msgstr "Gwellvezioù"
@@ -1459,14 +1003,11 @@ msgstr "Gwellvezioù"
 msgid "Prefix"
 msgstr "Rakger"
 
-msgid "Preparing"
-msgstr "O prientiñ"
+msgid "Preview"
+msgstr "Alberz"
 
-msgid "Preparing to print"
-msgstr "O prientiñ ar moullañ"
-
-msgid "Pri_ority:"
-msgstr "T_evet :"
+msgid "Previous"
+msgstr "Kent"
 
 msgid "Print"
 msgstr "Moullañ"
@@ -1474,74 +1015,20 @@ msgstr "Moullañ"
 msgid "Print Document"
 msgstr "Moullañ an teul"
 
-msgid "Print Pre_view"
-msgstr "Alberz ar moullañ"
-
-msgid "Print Settings"
-msgstr "Arventennoù ar moullañ"
-
-msgid "Print to File"
-msgstr "Moullañ en ur restr"
-
-msgid "Print to LPR"
-msgstr "moulañ da LPR"
-
 msgid "Printer"
 msgstr "Moullerez"
 
-msgid "Printer Default"
-msgstr "Moullerez dre ziouer"
-
-msgid "Printer Profile"
-msgstr "Aelad ar voullerez"
-
-msgid "Printer offline"
-msgstr "Ezlinnen eo ar voullerez"
-
-msgid "Printer settings"
-msgstr "Arventennoù ar voullerez"
-
-msgid "Printer “%{string}” has no toner left."
-msgstr "N'eus toner ebet ken gant ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is currently offline."
-msgstr "N'eus ket paper ebet ken gant ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is low on at least one marker supply."
-msgstr "Izel eo live toner ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is low on developer."
-msgstr "N'eus ket mui kalz paper gant ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is low on paper."
-msgstr "N'eus ket mui kalz paper gant ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is low on toner."
-msgstr "Izel eo live toner ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is out of at least one marker supply."
-msgstr "N'eus ket paper ebet ken gant ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is out of developer."
-msgstr "N'eus ket paper ebet ken gant ar voullerez \"%{string}\"."
-
-msgid "Printer “%{string}” is out of paper."
-msgstr "N'eus ket paper ebet ken gant ar voullerez \"%{string}\"."
-
 msgid "Printing"
-msgstr "O voullañ"
+msgstr "Moulladur"
 
-msgid "Program class as used by the window manager"
-msgstr "Rummad ar goulev evel ma 'z eo bet arveret gant ardoer ar prenestroù"
+msgid "Progress"
+msgstr "Araokadur"
 
-msgid "Program name"
-msgstr "Anv ar goulev"
+msgid "Project"
+msgstr "Raktres"
 
-msgid "Program name as used by the window manager"
-msgstr "Anv ar goulev evel ma 'z eo bet arveret gant ardoer ar prenestroù"
-
-msgid "Program version"
-msgstr "Handelv ar goulev"
+msgid "Projects"
+msgstr "Raktresoù"
 
 msgid "Properties"
 msgstr "Perzhioù"
@@ -1549,200 +1036,134 @@ msgstr "Perzhioù"
 msgid "Property"
 msgstr "Perzh"
 
-msgid "Quarto"
-msgstr "Quarto"
+msgid "Quality"
+msgstr "Perzhded"
 
-msgid "Question"
-msgstr "Goulenn"
+msgid "R"
+msgstr "R"
 
-msgid "RA0"
-msgstr "RA0"
+msgid "RGB"
+msgstr "RGG"
 
-msgid "RA1"
-msgstr "RA1"
+msgid "Radial"
+msgstr "Skinek"
 
-msgid "RA2"
-msgstr "RA2"
+msgid "Radius"
+msgstr "Skin"
 
-msgid "RA3"
-msgstr "RA3"
-
-msgid "RA4"
-msgstr "RA4"
-
-msgid "ROC 16k"
-msgstr "ROC 16k"
-
-msgid "ROC 8k"
-msgstr "ROC 8k"
+msgid "Random"
+msgstr "Dargouezhek"
 
 msgid "Range"
-msgstr "Diuzad"
+msgstr "Lijorenn"
+
+msgid "Rate"
+msgstr "Feur"
+
+msgid "Ready"
+msgstr "Hegerz"
 
 msgid "Recent"
-msgstr "Nevez zo"
+msgstr "A-nevez"
 
-msgid "Recent files"
-msgstr "Restroù a-nevez"
+msgid "Recently Used"
+msgstr "Arveret n'eus ket pell zo"
 
-msgid "Recommended Applications"
-msgstr "Arloadoù erbedet"
+msgid "Rectangle"
+msgstr "Reizhkorn"
 
-msgid "Recording"
-msgstr "Oc'h enrollañ"
+msgid "Red"
+msgstr "Ruz"
 
-msgid "Reference count"
-msgstr "Kont an deouez"
+msgid "Redo"
+msgstr "Adober"
 
-msgid "Registered U_ser"
-msgstr "Ar_veriad marilhet"
-
-msgid "Remember _forever"
-msgstr "De_rc'hel soñj da viken"
-
-msgid "Remember password until you _logout"
-msgstr "Derc'hel soñj ar _ger-tremen betek ma tikennaskot"
+msgid "Rejected"
+msgstr "Distaolet"
 
 msgid "Remove"
 msgstr "Dilemel"
 
-msgid "Rename…"
-msgstr "Adenvel..."
-
-msgid "Rendering Mode"
-msgstr "Mod an deouez"
+msgid "Replace"
+msgstr "Amsaviñ"
 
 msgid "Resize"
-msgstr "Adventañ"
+msgstr "Daskemmañ ar vent"
 
 msgid "Resolution"
 msgstr "Diarunusted"
 
-msgid "Resources"
-msgstr "Loazioù"
-
 msgid "Restore"
 msgstr "Assav"
 
-msgid "Return"
-msgstr "Distro"
+msgid "Review"
+msgstr "Adwelet"
 
 msgid "Right"
-msgstr "Dehou"
-
-msgid "Right Margin"
-msgstr "Bevenn a-zehoù"
+msgstr "A-zehou"
 
 msgid "Right margin"
-msgstr "Bevenn a-zehoù"
+msgstr "Marz a-zehou"
 
-msgid "Right to left"
-msgstr "Eus an tu dehou d'an tu kleiz"
+msgid "Rotate"
+msgstr "C'hwelañ"
 
-msgid "Right to left, bottom to top"
-msgstr "Eus an tu dehou d'an tu kleiz, eus an nec'h d'an traoñ"
+msgid "Rotation"
+msgstr "C'hwelañ"
 
-msgid "Right to left, top to bottom"
-msgstr "Eus an tu dehou d'an tu kleiz, eus an nec'h d'an traoñ"
+msgid "Round"
+msgstr "Rontaet"
 
 msgid "Rows"
-msgstr "Linennoù"
+msgstr "Renkoù"
 
 msgid "S"
-msgstr "P"
-
-msgid "SRA0"
-msgstr "SRA0"
-
-msgid "SRA1"
-msgstr "SRA1"
-
-msgid "SRA2"
-msgstr "SRA2"
-
-msgid "SRA3"
-msgstr "SRA3"
-
-msgid "SRA4"
-msgstr "SRA4"
+msgstr "S"
 
 msgid "SVG"
 msgstr "SVG"
 
-msgid "S_aturation:"
-msgstr "Peurvec'hi_añ :"
-
-msgid "Sans 12"
-msgstr "Sans 12"
+msgid "SVG image"
+msgstr "Skeudenn mod SVG"
 
 msgid "Saturation"
 msgstr "Peurvec'hiañ"
 
-msgid "Save _As"
-msgstr "_Enrollañ evel"
+msgid "Save"
+msgstr "Enrollañ"
 
-msgid "Save the current CSS"
-msgstr "Enrollañ ar css vremanel"
+msgid "Save _As..."
+msgstr "Enrollañ war _anv..."
 
-msgid "Sc_ale:"
-msgstr "Skeul_aat :"
+msgid "Scale"
+msgstr "Skeul"
 
 msgid "Screen"
 msgstr "Skramm"
 
-msgid "Scroll_Lock"
-msgstr "Arsav_Dibuniñ"
-
-msgid "Se_lection"
-msgstr "_Diuzadenn"
-
 msgid "Search"
 msgstr "Klask"
 
-msgid "Search Column"
-msgstr "Bann glask"
-
-msgid "Search font name"
-msgstr "Klask anv an nodrezh"
-
-msgid "Secondary"
-msgstr "Eil derez"
-
-msgid "Secret"
-msgstr "Kuzh"
+msgid "Second color"
+msgstr "Eil liv"
 
 msgid "Select"
 msgstr "Diuzañ"
 
-msgid "Select Application"
-msgstr "Diuz un arload"
+msgid "Select All"
+msgstr "Diuz pep tra"
 
-msgid "Select Font"
-msgstr "Diuzañ un nodrezh"
+msgid "Select Source"
+msgstr "Diuzañ an tarzh"
+
+msgid "Select Theme"
+msgstr "Diuzañ un neuz"
 
 msgid "Select _All"
 msgstr "Diuz_añ pep tra"
 
-msgid "Select a Color"
-msgstr "Diuzañ ul liv"
-
-msgid "Select a File"
-msgstr "Diuzañ ur restr"
-
-msgid "Select a filename"
-msgstr "Diuzañ un anv restr"
-
-msgid "Selected Printer"
-msgstr "Moullerez diuzet"
-
-msgid "Selector"
-msgstr "Diuzer"
-
-msgid "Sending data"
-msgstr "O kas roadennoù"
-
-msgid "Sensitive"
-msgstr "Doujañs"
+msgid "Selection"
+msgstr "Diuzad"
 
 msgid "Services"
 msgstr "Gwazerezhioù"
@@ -1750,89 +1171,92 @@ msgstr "Gwazerezhioù"
 msgid "Settings"
 msgstr "Arventennoù"
 
-msgid "Shift"
-msgstr "Pennlz"
+msgid "Shadow"
+msgstr "Disheol"
 
-msgid "Short label"
-msgstr "Skritellig verr"
+msgid "Shadows"
+msgstr "Skeudoù"
+
+msgid "Shape"
+msgstr "Stumm"
+
+msgid "Sharpen"
+msgstr "Kreskaat an naeted"
+
+msgid "Shift"
+msgstr "Linkañ"
+
+msgid "Show"
+msgstr "Skrammañ"
 
 msgid "Show All"
 msgstr "Diskouez pep tra"
 
-msgid "Show Day Names"
-msgstr "Diskouez anvioù an deizioù"
-
-msgid "Show Details"
-msgstr "Diskouez ar munudoù"
-
-msgid "Show GTK+ Options"
-msgstr "Diskouez dibarzhioù GTK+"
-
-msgid "Show Icons"
-msgstr "Diskouez arlunioù"
-
-msgid "Show _Hidden Files"
-msgstr "Diskouez ar restroù _kuzh"
-
-msgid "Show _Size Column"
-msgstr "Diskouez _ment ar bann"
-
-msgid "Show all Objects"
-msgstr "Diskouez an holl ergorennoù"
-
-msgid "Show all Resources"
-msgstr "Diskouez an holl loazioù"
-
-msgid "Show data"
-msgstr "Skrammañ ar roadennoù"
-
-msgid "Show menu images"
-msgstr "Sellout ouzh anvioù deizioù"
-
-msgid "Show size"
-msgstr "Diskouez ar ment"
-
-msgid "Show style"
-msgstr "Diskouez ar c'hiz"
-
-msgid "Show text"
-msgstr "Diskouez an testenn"
+msgid "Show grid"
+msgstr "Diskouez ur gael"
 
 msgid "Shrink"
-msgstr "Bihanaat"
-
-msgid "Si_ze:"
-msgstr "Me_nt :"
-
-msgid "Signals"
-msgstr "Arhentoù"
+msgstr "Strishaat"
 
 msgid "Simple"
 msgstr "Eeun"
 
+msgid "Sine"
+msgstr "Sinuz"
+
+msgid "Singular"
+msgstr "Unander"
+
 msgid "Size"
 msgstr "Ment"
 
-msgid "Size:"
-msgstr "Ment :"
+msgid "Small"
+msgstr "Bihan"
 
-msgid "Sleep"
-msgstr "Kousk"
+msgid "Smooth"
+msgstr "Lenkraat"
 
-msgid "Source option"
-msgstr "Dibarzh an tarzh"
+msgid "Solid"
+msgstr "Unvan"
 
-msgid "Source:"
-msgstr "Tarzh :"
+msgid "Source"
+msgstr "Tarzh"
+
+msgid "Source Text"
+msgstr "Mammenn an Destenn"
+
+msgid "Source code"
+msgstr "Boneg Tarzh"
 
 msgid "Space"
-msgstr "Esaouiñ"
+msgstr "Esaou"
 
 msgid "Spacing"
 msgstr "Esaouiñ"
 
+msgid "Special Characters"
+msgstr "Arouezennoù dibar"
+
+msgid "Sphere"
+msgstr "Pellenn"
+
+msgid "Spherical"
+msgstr "Pellennek"
+
+msgid "Split"
+msgstr "Troc'hañ"
+
+msgid "Square"
+msgstr "Karrez"
+
+msgid "Squares"
+msgstr "Karrezioù"
+
 msgid "Standard"
 msgstr "Skoueriek"
+
+msgid "Start angle"
+msgstr "Korn deraouiñ"
 
 msgid "State"
 msgstr "Stad"
@@ -1843,167 +1267,113 @@ msgstr "Stadegoù"
 msgid "Status"
 msgstr "Stad"
 
+msgid "Strikethrough"
+msgstr "Barrennet"
+
 msgid "Style"
-msgstr "Rizh"
+msgstr "Stil"
 
-msgid "Style Classes"
-msgstr "Rummadoù ar sil"
+msgid "Submissions"
+msgstr "Kinnigoù"
 
-msgid "Style Properties"
-msgstr "Perzhioù ar stil"
+msgid "Suggest"
+msgstr "Kinnig"
 
-msgid "Submenu"
-msgstr "Islañser"
+msgid "Suggestions"
+msgstr "Kinnigoù"
 
-msgid "Success color"
-msgstr "Liv ar berzh"
-
-msgid "Super"
-msgstr "Super"
-
-msgid "Super A"
-msgstr "Super A"
-
-msgid "Super B"
-msgstr "Super B"
-
-msgid "Suspend"
-msgstr "Lakaat da gousket"
-
-msgid "Sys_Req"
-msgstr "Reizhiad"
+msgid "Symbol"
+msgstr "Arouez"
 
 msgid "System"
 msgstr "Reizhiad"
 
-msgid "System (%{string})"
-msgstr "Reizhiad (%{string})"
+msgid "TIFF image"
+msgstr "Skeudenn mod TIFF"
 
 msgid "Tab"
-msgstr "Taol."
-
-msgid "Tab Position"
-msgstr "Lec'hiadur ar vevennig"
+msgstr "Taolennata"
 
 msgid "Tabloid"
 msgstr "Tabloid"
 
-msgid "Tag name"
-msgstr "Anv al liketenn"
-
 msgid "Target"
 msgstr "Bukenn"
+
+msgid "Te_xt"
+msgstr "Te_stenn"
+
+msgid "Templates"
+msgstr "Patromoù"
 
 msgid "Text"
 msgstr "Testenn"
 
-msgid "Thai-Lao"
-msgstr "Tai-Laoeg"
-
-msgid "The color you’ve chosen."
-msgstr "Al liv dibabet ganeoc'h."
-
-msgid "The cover is open on printer “%{string}”."
-msgstr "Digor eo golo ar voullerez \"%{string}\"."
-
-msgid "The door is open on printer “%{string}”."
-msgstr "Digor eo dor ar voullerez \"%{string}\"."
-
-msgid "The folder could not be created"
-msgstr "N'hell ket krouiñ an teuliad"
-
-msgid "The license type of the program"
-msgstr "Handelv ar goulev"
-
-msgid "The name of the selected font"
-msgstr "Anv an nodrezh diuzet"
-
-msgid "The name of the widget"
-msgstr "Anv ar widget"
-
-msgid "The selected color"
-msgstr "Al liv diuzet"
-
-msgid "The title of the window"
-msgstr "Titl ar prenestr"
-
-msgid "The value"
-msgstr "Ar werzh"
-
-msgid "The version of the program"
-msgstr "Handelv ar goulev"
+msgid "Text file"
+msgstr "Restr mod testenn"
 
 msgid "Theme"
 msgstr "Neuz"
 
 msgid "Theme Name"
-msgstr "Anv ar c'hiz"
+msgstr "Anv an dodenn"
 
-msgid "There is a problem on printer “%{string}”."
-msgstr "Ur gudenn ez eus gant ar voullerez \"%{string}\"."
+msgid "Themes"
+msgstr "Neuzioù"
+
+msgid "Tiny"
+msgstr "Lizherenn vunut"
 
 msgid "Title"
 msgstr "Titl"
 
-msgid "Tooltip"
-msgstr "Itrik"
+msgid "Toolbox"
+msgstr "Boest ostilhoù"
+
+msgid "Tools"
+msgstr "Ostilhoù"
+
+msgid "Top left"
+msgstr "E-krec'h a-gleiz"
 
 msgid "Top to bottom"
-msgstr "Eus krec'h betek an traoñ"
+msgstr "Eus krec'h d'an traoñ"
 
-msgid "Top to bottom, left to right"
-msgstr "Eus an nec'h betek an traoñ, eus an tu kleiz d'an tu dehou"
+msgid "Total"
+msgstr "Hollad"
 
-msgid "Top to bottom, right to left"
-msgstr "Eus an nec'h d'an traoñ, eus an tu dehou d'an tu kleiz"
+msgid "Tr_ansparency"
+msgstr "Boullde_r"
 
-msgid "Translated by"
-msgstr "Troet gant"
+msgid "Transform"
+msgstr "Treuzfurmiñ"
 
-msgid "Transparency of the color."
-msgstr "Treuzwelusted al liv."
+msgid "Transformation"
+msgstr "Treuzfurmadur"
 
-msgid "Trash"
-msgstr "Pod-lastez"
+msgid "Transparency"
+msgstr "Boullder"
+
+msgid "Transparent"
+msgstr "Boull"
 
 msgid "Type"
-msgstr "Rizh "
+msgstr "Rizh"
 
-msgid "Type name of new folder"
-msgstr "Roit anv an teuliad nevez"
+msgid "URI"
+msgstr "URI"
 
-msgid "Type:"
-msgstr "Rizh :"
-
-msgid "US Letter"
-msgstr "Lizher US"
-
-msgid "Unable to access “%{string}”"
-msgstr "N'haller ket haeziñ \"%{string}\""
-
-msgid "Unable to eject “%{string}”"
-msgstr "N'haller ket kas %{string} \"er-maez\""
-
-msgid "Unable to poll “%{string}” for media changes"
-msgstr "N'eo ket gouest da atersiñ \"%{string}\" a-fet kemmoù ar media"
-
-msgid "Unable to start “%{string}”"
-msgstr "N'haller ket loc'hañ \"%{string}\""
-
-msgid "Unable to stop “%{string}”"
-msgstr "N'eo ket gouest da arsaviñ \"%{string}\""
-
-msgid "Unable to unmount “%{string}”"
-msgstr "N'haller ket disevel \"%{string}\""
-
-msgid "Unavailable"
-msgstr "Dihegerz"
-
-msgid "Unclassified"
-msgstr "Dirummataet kuzh"
+msgid "URL"
+msgstr "URL"
 
 msgid "Underline"
 msgstr "Islinennañ"
+
+msgid "Undo"
+msgstr "Dizober"
+
+msgid "Uniform"
+msgstr "Unvan"
 
 msgid "Unit"
 msgstr "Unanenn"
@@ -2011,41 +1381,20 @@ msgstr "Unanenn"
 msgid "Unknown"
 msgstr "Dianav"
 
-msgid "Unknown Application (PID %{number})"
-msgstr "Arload dianav (PID %{number})"
-
-msgid "Unknown item"
-msgstr "Ergorenn dianav"
-
-msgid "Unlock"
-msgstr "Dibrennañ"
-
-msgid "Unnamed section"
-msgstr "kevrenn dianv"
-
-msgid "Unspecified error"
-msgstr "Fazi anerspizet"
-
-msgid "Untitled filter"
-msgstr "Sil dianv"
+msgid "Untitled"
+msgstr "Dizanv"
 
 msgid "Up"
-msgstr "Sevel"
+msgstr "Lein"
 
-msgid "Upper"
-msgstr "Uheloc'h"
+msgid "User"
+msgstr "Implijerien"
 
-msgid "Urgent"
-msgstr "Mallus"
+msgid "User Interface"
+msgstr "Ketal an arveriaded"
 
-msgid "Use font in label"
-msgstr "Arverañ an nodrezh er skritellig"
-
-msgid "Username:"
-msgstr "Anv an arveriad :"
-
-msgid "V"
-msgstr "G"
+msgid "V_alue"
+msgstr "G_werzh"
 
 msgid "Value"
 msgstr "Gwerzh"
@@ -2054,58 +1403,34 @@ msgid "Vertical"
 msgstr "A-serzh"
 
 msgid "Vertical Alignment"
-msgstr "Desteudañ a-blomm"
+msgstr "Steudadur a-serzh"
 
-msgid "Vietnamese (VIQR)"
-msgstr "Yezh ar Viet-Nam (VIQR)"
-
-msgid "Visibility"
-msgstr "Gwelusted"
+msgid "View"
+msgstr "Skrammañ"
 
 msgid "Visible"
 msgstr "Hewel"
 
-msgid "Visited"
-msgstr "Gweladennet"
-
-msgid "Visual"
-msgstr "Hewel"
-
 msgid "Volume"
-msgstr "Tregern"
+msgstr "Levrenn"
 
-msgid "Volume Down"
-msgstr "Izelaat ar son"
-
-msgid "Volume Up"
-msgstr "Uhelaat ar son"
+msgid "W"
+msgstr "K"
 
 msgid "Waiting"
 msgstr "O c'hortoz"
 
 msgid "Warning"
-msgstr "Taolit evezh"
-
-msgid "Warning color"
-msgstr "Liv ar c'hemenn"
+msgstr "Diwallit"
 
 msgid "Website"
-msgstr "Lec'hiad web"
+msgstr "Lec'hienn"
 
-msgid "Website URL"
-msgstr "URL al lec'hienn"
-
-msgid "Website label"
-msgstr "Skritellig al lec'hienn"
+msgid "Wheel"
+msgstr "Rod"
 
 msgid "White"
 msgstr "Gwenn"
-
-msgid "Widget"
-msgstr "Widget"
-
-msgid "Widget name"
-msgstr "Anv ar widget"
 
 msgid "Width"
 msgstr "Led"
@@ -2113,32 +1438,35 @@ msgstr "Led"
 msgid "Window"
 msgstr "Prenestr"
 
-msgid "Window Title"
-msgstr "Titl ar prenestr"
+msgid "Wood"
+msgstr "Koad"
 
-msgid "Window Type"
-msgstr "Rizh ar prenestr"
+msgid "Wrap"
+msgstr "Azasaat"
 
-msgid "X display"
-msgstr "Skrammañ X"
+msgid "X"
+msgstr "X"
 
-msgid "X display to use"
-msgstr "Diskouez X da implijout"
-
-msgid "X spacing"
-msgstr "Esaouiñ"
-
-msgid "XSettings"
-msgstr "Arventennoù X"
-
-msgid "Y spacing"
-msgstr "Esaouiñ"
+msgid "Y"
+msgstr "Y"
 
 msgid "Year"
 msgstr "Bloaz"
 
+msgid "Yellow"
+msgstr "Melen"
+
 msgid "Yes"
 msgstr "Ya"
+
+msgid "Zoom"
+msgstr "Zoum"
+
+msgid "Zoom In"
+msgstr "Zoum brasaat"
+
+msgid "Zoom Out"
+msgstr "Zoum bihanaat"
 
 msgid "Zoom _In"
 msgstr "Zoum _brasaat"
@@ -2146,530 +1474,1205 @@ msgstr "Zoum _brasaat"
 msgid "Zoom _Out"
 msgstr "Zoum bi_hanaat"
 
-msgid "_About"
-msgstr "Diw_ar-benn"
+msgid "a"
+msgstr "a"
 
-msgid "_Add"
-msgstr "_Ouzhpennañ"
+msgid "a0"
+msgstr "a0"
 
-msgid "_Add Bookmark"
-msgstr "_Ouzhpennañ ur sined"
+msgid "a1"
+msgstr "a1"
 
-msgid "_Add to Bookmarks"
-msgstr "_Ouzhpennañ d'ar sinedoù"
+msgid "a2"
+msgstr "a2"
 
-msgid "_After:"
-msgstr "_Goude :"
+msgid "a3"
+msgstr "a3"
 
-msgid "_All Pages"
-msgstr "_An holl bajennadoù"
+msgid "a4"
+msgstr "a4"
 
-msgid "_Anonymous"
-msgstr "Di_anv"
+msgid "a5"
+msgstr "a5"
 
-msgid "_Apply"
-msgstr "_Seveniñ"
+msgid "a6"
+msgstr "a6"
 
-msgid "_Ascending"
-msgstr "_Kreskiñ"
+msgid "abbreviation"
+msgstr "berradur"
 
-msgid "_Back"
-msgstr "_Kent"
+msgid "accepted"
+msgstr "degemeret"
 
-msgid "_Blue:"
-msgstr "_Glas :"
+msgid "action"
+msgstr "gwered"
 
-msgid "_Bold"
-msgstr "_Tev"
+msgid "actions"
+msgstr "gweredoù"
 
-msgid "_Bottom"
-msgstr "_Traoñ"
+msgid "active"
+msgstr "oberiant"
 
-msgid "_Bottom:"
-msgstr "_Traoñ :"
+msgid "add"
+msgstr "ouzhpennañ"
 
-msgid "_CD-ROM"
-msgstr "_CD-Rom"
+msgid "address"
+msgstr "chomlec'h"
 
-msgid "_Cancel"
-msgstr "_Nullañ"
+msgid "advanced"
+msgstr "kempleshoc'h"
 
-msgid "_Clear"
-msgstr "S_karzhañ"
+msgid "after"
+msgstr "goude"
 
-msgid "_Clear List"
-msgstr "_Skarzhañ ar roll"
+msgid "align"
+msgstr "steudañ"
 
-msgid "_Close"
-msgstr "_Serriñ"
+msgid "alignment"
+msgstr "steudadur"
 
-msgid "_Color"
-msgstr "_Liv"
+msgid "alpha"
+msgstr "alfa"
 
-msgid "_Connect Drive"
-msgstr "_Kennaskañ al lenner"
+msgid "amount"
+msgstr "sav"
 
-msgid "_Convert"
-msgstr "_Amdreiñ"
+msgid "anchor"
+msgstr "eoriñ"
 
-msgid "_Copy"
-msgstr "_Eilañ"
+msgid "angle"
+msgstr "korn"
 
-msgid "_Copy Location"
-msgstr "_Eilañ al lec'hiadur"
+msgid "animation"
+msgstr "bliverezh"
 
-msgid "_Customize"
-msgstr "_Personelaat"
+msgid "animations"
+msgstr "tresadennoù fiñv"
 
-msgid "_Delete"
-msgstr "_Dilemel"
+msgid "appearance"
+msgstr "neuz"
 
-msgid "_Descending"
-msgstr "_Digreskiñ"
+msgid "application"
+msgstr "arload"
 
-msgid "_Detect Media"
-msgstr "_Dinoiñ ar media"
+msgid "area"
+msgstr "maez"
 
-msgid "_Discard"
-msgstr "_Dilezel"
+msgid "arrow"
+msgstr "bir"
 
-msgid "_Disconnect"
-msgstr "_Digennaskañ"
+msgid "assign"
+msgstr "deverkañ"
 
-msgid "_Disconnect Drive"
-msgstr "_Digennaskañ al lenner"
+msgid "attribute"
+msgstr "doareenn"
 
-msgid "_Domain"
-msgstr "_Domani"
+msgid "authors"
+msgstr "aozerien"
 
-msgid "_Edit"
-msgstr "K_emmañ"
+msgid "automatic"
+msgstr "emgefreek"
 
-msgid "_Eject"
-msgstr "_Kas er maez"
+msgid "average"
+msgstr "keitad"
 
-msgid "_End Process"
-msgstr "_Echuiñ an argerzh"
+msgid "axes"
+msgstr "ahelioù"
 
-msgid "_Execute"
-msgstr "_Erounit"
+msgid "b"
+msgstr "b"
 
-msgid "_Family:"
-msgstr "_Familh :"
+msgid "back"
+msgstr "war-gil"
 
-msgid "_File"
-msgstr "_Restr"
+msgid "background"
+msgstr "drekleur"
 
-msgid "_Fill"
-msgstr "_Leuniañ"
+msgid "before"
+msgstr "a-raok"
 
-msgid "_Find"
-msgstr "_Klask"
+msgid "black"
+msgstr "du"
 
-msgid "_Find New Applications"
-msgstr "_Klask arloadoù nevez"
+msgid "blank"
+msgstr "esaouenn"
 
-msgid "_Finish"
-msgstr "_Echuiñ"
+msgid "blue"
+msgstr "glas"
 
-msgid "_First"
-msgstr "_Kentañ"
+msgid "bold"
+msgstr "tev"
 
-msgid "_Floppy"
-msgstr "_Kantennig"
+msgid "bookmarks"
+msgstr "sinedoù"
 
-msgid "_Font"
-msgstr "_Nodrezh"
+msgid "border"
+msgstr "riblenn"
 
-msgid "_Format for:"
-msgstr "_Mentrezhañ evit :"
+msgid "both"
+msgstr "an eil hag eben"
 
-msgid "_Forward"
-msgstr "_War-raok"
+msgid "box"
+msgstr "boest"
 
-msgid "_Fullscreen"
-msgstr "Skrammad a-_bezh"
+msgid "brackets"
+msgstr "krommelloù ha krochedoù"
 
-msgid "_Green:"
-msgstr "_Gwer :"
+msgid "browse..."
+msgstr "kantreal..."
 
-msgid "_Hard Disk"
-msgstr "_Kantenn"
+msgid "brush"
+msgstr "gwispon"
 
-msgid "_Height:"
-msgstr "_Sav :"
+msgid "bubble"
+msgstr "klogorenn"
 
-msgid "_Help"
-msgstr "_Skoazell"
+msgid "c_enter"
+msgstr "_kreiz"
 
-msgid "_Home"
-msgstr "Ar _gêr"
+msgid "cancel"
+msgstr "nullañ"
 
-msgid "_Hue:"
-msgstr "_Arliv :"
+msgid "center"
+msgstr "kreiz"
 
-msgid "_Index"
-msgstr "_Ibil"
+msgid "centered"
+msgstr "kreizet"
 
-msgid "_Information"
-msgstr "_Titouroù"
+msgid "checkerboard"
+msgstr "tablez"
 
-msgid "_Italic"
-msgstr "_Stouet"
+msgid "chrome"
+msgstr "krom"
 
-msgid "_Jump to"
-msgstr "_Mont da"
+msgid "circle"
+msgstr "kelc'h"
 
-msgid "_Last"
-msgstr "_Diwezhañ"
+msgid "close"
+msgstr "serriñ"
 
-msgid "_Leave Fullscreen"
-msgstr "_Kuitaat ar skrammad a-bezh"
+msgid "collect"
+msgstr "dastum"
 
-msgid "_Left"
-msgstr "K_leiz"
+msgid "color"
+msgstr "liv"
 
-msgid "_Left:"
-msgstr "_Kleiz :"
+msgid "colors"
+msgstr "livioù"
 
-msgid "_License"
-msgstr "_Lañvaz"
+msgid "columns"
+msgstr "bannoù"
 
-msgid "_Lock Drive"
-msgstr "_Prennañ al lenner"
+msgid "combine"
+msgstr "kedaozañ"
 
-msgid "_Mount"
-msgstr "_Sevel"
+msgid "comment"
+msgstr "evezhiadenn"
 
-msgid "_Name:"
-msgstr "_Anv :"
+msgid "comments"
+msgstr "evezhiadennoù"
 
-msgid "_Network"
-msgstr "_Rouedad"
+msgid "compression"
+msgstr "koazhadur"
 
-msgid "_New"
-msgstr "_Nevez"
+msgid "confidential"
+msgstr "dangel"
 
-msgid "_Next"
-msgstr "Da _heul"
+msgid "configuration"
+msgstr "kefluniañ"
 
-msgid "_No"
-msgstr "_Ket"
+msgid "context"
+msgstr "kemperzh"
 
-msgid "_Normal Size"
-msgstr "Me_nt reizh"
+msgid "contrast"
+msgstr "dargemm"
 
-msgid "_Now"
-msgstr "_Bremañ"
+msgid "controls"
+msgstr "reolerezhioù"
 
-msgid "_OK"
-msgstr "Mat e_o"
+msgid "copy"
+msgstr "eilañ"
 
-msgid "_Open"
-msgstr "_Digeriñ"
+msgid "cosine"
+msgstr "kosinuz"
 
-msgid "_Open Link"
-msgstr "_Digeriñ an ere"
+msgid "create"
+msgstr "krouiñ"
 
-msgid "_Orientation:"
-msgstr "_Reteradur :"
+msgid "crop"
+msgstr "didroc'hañ"
 
-msgid "_Output format"
-msgstr "Mentrezh an _ec'hankad"
+msgid "cu_t"
+msgstr "_troc'hañ"
 
-msgid "_Palette:"
-msgstr "_Livaoueg :"
+msgid "custom"
+msgstr "personelaet"
 
-msgid "_Paper size:"
-msgstr "_Ment ar baperenn :"
+msgid "customize"
+msgstr "personelaat"
 
-msgid "_Password"
-msgstr "_Ger-tremen"
+msgid "cut"
+msgstr "troc'hañ"
 
-msgid "_Paste"
-msgstr "_Pegañ"
+msgid "cyan"
+msgstr "siañ"
 
-msgid "_Play"
-msgstr "_Seniñ"
+msgid "cylinder"
+msgstr "kranenn"
 
-msgid "_Power On"
-msgstr "_Enaouiñ"
+msgid "dashed"
+msgstr "gourzhelloù"
 
-msgid "_Preferences"
-msgstr "_Gwellvezioù"
+msgid "data"
+msgstr "roadennoù"
 
-msgid "_Preview:"
-msgstr "_Alberz :"
+msgid "day"
+msgstr "deiz"
 
-msgid "_Print"
-msgstr "_Moullañ"
+msgid "default"
+msgstr "dre ziouer"
 
-msgid "_Properties"
-msgstr "_Perzhioù"
+msgid "delay"
+msgstr "dale"
 
-msgid "_Quit"
-msgstr "_Kuitaat"
+msgid "delete"
+msgstr "diverkañ"
 
-msgid "_Record"
-msgstr "Enrollañ"
+msgid "depth"
+msgstr "donder"
 
-msgid "_Red:"
-msgstr "_Ruz :"
+msgid "desaturate"
+msgstr "dibeurvec'hiañ"
 
-msgid "_Redo"
-msgstr "_Adober"
+msgid "description"
+msgstr "deskrivadur"
 
-msgid "_Refresh"
-msgstr "Azgren_aat"
+msgid "description..."
+msgstr "deskrivadur..."
 
-msgid "_Remember password"
-msgstr "Derc'hel soñj ar _ger-tremen"
+msgid "design"
+msgstr "neuz"
 
-msgid "_Remove"
-msgstr "_Dilemel"
+msgid "detail"
+msgstr "munud"
 
-msgid "_Remove From List"
-msgstr "Dilemel diwar ar _roll"
+msgid "devices"
+msgstr "trobarzhelloù"
 
-msgid "_Replace"
-msgstr "Am_saviñ"
+msgid "dialog"
+msgstr "boest emziviz"
 
-msgid "_Reverse"
-msgstr "_Tuginañ"
+msgid "dialogs"
+msgstr "boestadoù emziviz"
 
-msgid "_Revert"
-msgstr "Dist_reiñ"
+msgid "diamond"
+msgstr "lankell"
 
-msgid "_Right"
-msgstr "_Dehou"
+msgid "difference"
+msgstr "diforc'h"
 
-msgid "_Right:"
-msgstr "_Dehou :"
+msgid "dimensions"
+msgstr "ment"
 
-msgid "_Safely Remove Drive"
-msgstr "_Dilemel al lenner diarvar"
+msgid "direction"
+msgstr "durc'hadur"
 
-msgid "_Save"
-msgstr "En_rollañ"
+msgid "disabled"
+msgstr "diweredekaet"
 
-msgid "_Save color here"
-msgstr "_Enrollañ al liv amañ"
+msgid "disc"
+msgstr "kantenn"
 
-msgid "_Select"
-msgstr "_Diuzañ"
+msgid "display"
+msgstr "skrammañ"
 
-msgid "_Spell Check"
-msgstr "Reizh_skrivadur"
+msgid "dissolve"
+msgstr "loezañ"
 
-msgid "_Start"
-msgstr "_Loc'hañ"
+msgid "distribute"
+msgstr "dasparzhañ"
 
-msgid "_Start Multi-disk Device"
-msgstr "_Loc'hañ an drobarzhell lieskantennoù"
+msgid "division"
+msgstr "rann"
 
-msgid "_Stop"
-msgstr "_Paouez"
+msgid "dock"
+msgstr "eoriñ"
 
-msgid "_Stop Multi-disk Device"
-msgstr "_Arsaviñ an drobarzhell lieskantennoù"
+msgid "documents"
+msgstr "teulioù"
 
-msgid "_Style:"
-msgstr "_Stil :"
+msgid "down"
+msgstr "traoñ"
 
-msgid "_Top"
-msgstr "_Lein"
+msgid "e-mail"
+msgstr "postel"
 
-msgid "_Top:"
-msgstr "_Lein :"
+msgid "edit"
+msgstr "embann"
 
-msgid "_Underline"
-msgstr "_Islininnet"
+msgid "editable"
+msgstr "embannadus"
 
-msgid "_Undo"
-msgstr "_Dizober"
+msgid "emboss"
+msgstr "koagenniñ"
 
-msgid "_Unlock Drive"
-msgstr "Dibrennañ al lenner"
+msgid "empty"
+msgstr "goullo"
 
-msgid "_Unmount"
-msgstr "_Disevel"
+msgid "enabled"
+msgstr "gweredekaet"
 
-msgid "_Up"
-msgstr "_Sevel"
+msgid "end"
+msgstr "dibenn"
 
-msgid "_Username"
-msgstr "An_v an arveriad"
+msgid "english"
+msgstr "saozneg"
 
-msgid "_Value:"
-msgstr "_Gwerzh :"
+msgid "environment"
+msgstr "amva"
 
-msgid "_View All Applications"
-msgstr "_Skrammañ arloadoù all"
+msgid "error"
+msgstr "fazi"
 
-msgid "_Width:"
-msgstr "_Led :"
+msgid "errors"
+msgstr "fazioù"
 
-msgid "_Yes"
-msgstr "_Ya"
+msgid "event"
+msgstr "degouezh"
 
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/gnome_gtk/workspace/po-properties/br.po by load_po_file"
+msgid "events"
+msgstr "dargouezhioù"
 
-msgid "a2 Envelope"
-msgstr "Golo-lizher a2"
+msgid "exponential"
+msgstr "argemmvac'hennel"
 
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcdefghijkñù ABCDEFGHIJKÑÙ"
+msgid "extensions"
+msgstr "askouezhioù"
 
-msgid "asme_f"
-msgstr "asme_f"
+msgid "factor"
+msgstr "feur"
 
-msgid "b-plus"
-msgstr "b-plus"
+msgid "file"
+msgstr "restroù"
 
-msgid "c"
-msgstr "c"
+msgid "files"
+msgstr "restroù"
 
-msgid "c5 Envelope"
-msgstr "Golo c5"
+msgid "fill"
+msgstr "leuniañ"
 
-msgid "calendar:MY"
-msgstr "calendar:MY"
+msgid "filled"
+msgstr "leuniet"
 
-msgid "calendar:week_start:0"
-msgstr "calendar:week_start:1"
+msgid "filter"
+msgstr "silañ"
 
-msgid "d"
-msgstr "d"
+msgid "filters"
+msgstr "siloù"
 
-msgid "default:LTR"
-msgstr "default:LTR"
+msgid "finished"
+msgstr "echuiñ"
 
-msgid "default:mm"
-msgstr "default:mm"
+msgid "first"
+msgstr "kentañ"
 
-msgid "e"
-msgstr "e"
+msgid "fixed"
+msgstr "kempennet"
 
-msgid "edp"
-msgstr "edp"
+msgid "flip"
+msgstr "gwintañ"
 
-msgid "f"
-msgstr "f"
+msgid "folder"
+msgstr "teuliad"
 
-msgid "hagaki (postcard)"
-msgstr "hagaki (kartenn bost)"
+msgid "font"
+msgstr "nodrezh"
+
+msgid "fonts"
+msgstr "nodrezhoù"
+
+msgid "forward"
+msgstr "war-lerc'h"
+
+msgid "frame"
+msgstr "stern"
+
+msgid "frames"
+msgstr "sternioù"
+
+msgid "function"
+msgstr "kevreizhenn"
+
+msgid "gamma"
+msgstr "gamma"
+
+msgid "general"
+msgstr "hollek"
+
+msgid "gradient"
+msgstr "ilrezenn"
+
+msgid "gradients"
+msgstr "ilrezennoù"
+
+msgid "gray"
+msgstr "loued"
+
+msgid "grayscale"
+msgstr "liveoù louedoù"
+
+msgid "green"
+msgstr "gwer"
+
+msgid "grey"
+msgstr "loued"
+
+msgid "grid"
+msgstr "kael"
+
+msgid "group"
+msgstr "strollad"
+
+msgid "guides"
+msgstr "spisverkoù"
+
+msgid "h"
+msgstr "s"
+
+msgid "heart"
+msgstr "kalon"
 
 msgid "height"
 msgstr "sav"
 
+msgid "help"
+msgstr "skoazell"
+
+msgid "hexagon"
+msgstr "c'hwec'htueg"
+
+msgid "high"
+msgstr "uhel"
+
+msgid "home"
+msgstr "d'ar gêr"
+
+msgid "horizontal"
+msgstr "a-blaen"
+
+msgid "hue"
+msgstr "arliv"
+
+msgid "i_ntensity"
+msgstr "kreñ_vder"
+
+msgid "icon"
+msgstr "arlun"
+
+msgid "icons"
+msgstr "arlunioù"
+
+msgid "image"
+msgstr "skeudenn"
+
+msgid "images"
+msgstr "skeudennoù"
+
 msgid "inch"
 msgstr "meutad"
 
-msgid "jis exec"
-msgstr "jis exec"
+msgid "inches"
+msgstr "a veutadoù"
 
-msgid "juuro-ku-kai"
-msgstr "juuro-ku-kai"
+msgid "indent"
+msgstr "pukañ"
 
-msgid "kahu Envelope"
-msgstr "Golo-lizher mod kahu"
+msgid "information"
+msgstr "stlenn an teul"
 
-msgid "kaku2 Envelope"
-msgstr "Golo-lizher mod kaku2"
+msgid "insert"
+msgstr "enlakaat"
 
-msgid "kaku3 Envelope"
-msgstr "Golo-lizher mod kaku3"
+msgid "inset"
+msgstr "diabarzh"
 
-msgid "kaku4 Envelope"
-msgstr "Golo-lizher mod kaku4"
+msgid "integer"
+msgstr "niver kevan"
 
-msgid "kaku5 Envelope"
-msgstr "Golo-lizher mod kaku5"
+msgid "intersection"
+msgstr "kenskejad"
 
-msgid "kaku7 Envelope"
-msgstr "Golo-lizher mod kaku7"
+msgid "invert"
+msgstr "tuginañ"
 
-msgid "kaku8 Envelope"
-msgstr "Golo-lizher mod kaku8"
+msgid "italic"
+msgstr "stouet"
+
+msgid "keyboard"
+msgstr "klavier"
+
+msgid "label"
+msgstr "tikedenn"
+
+msgid "lambda"
+msgstr "lambda"
+
+msgid "landscape"
+msgstr "gweledva"
+
+msgid "language"
+msgstr "yezh"
+
+msgid "languages"
+msgstr "yezhoù"
+
+msgid "large"
+msgstr "bras"
+
+msgid "layer"
+msgstr "treuzfollenn"
+
+msgid "layout"
+msgstr "pajennaozañ"
+
+msgid "left"
+msgstr "a-gleiz"
+
+msgid "legal"
+msgstr "titouroù lezennel"
+
+msgid "license"
+msgstr "aotre-implijout"
+
+msgid "light"
+msgstr "skañv"
+
+msgid "line"
+msgstr "linenn"
+
+msgid "linear"
+msgstr "uelinennek"
+
+msgid "location"
+msgstr "lec'hiadurioù"
+
+msgid "logarithmic"
+msgstr "treoliek"
+
+msgid "logo"
+msgstr "logo"
+
+msgid "low"
+msgstr "izel"
+
+msgid "magenta"
+msgstr "majenta"
+
+msgid "manual"
+msgstr "dre-zorn"
+
+msgid "marble"
+msgstr "marbr"
+
+msgid "margin"
+msgstr "marz"
+
+msgid "matrix"
+msgstr "oged"
+
+msgid "maximize"
+msgstr "brasaat"
+
+msgid "median"
+msgstr "kreiztuenn"
+
+msgid "medium"
+msgstr "etre"
+
+msgid "menu"
+msgstr "lañser"
+
+msgid "message"
+msgstr "kemennadenn"
+
+msgid "minimize"
+msgstr "bihanaat"
+
+msgid "miscellaneous"
+msgstr "liesseurt"
 
 msgid "mm"
 msgstr "mm"
 
+msgid "mode"
+msgstr "mod"
+
+msgid "model"
+msgstr "patrom"
+
+msgid "modified"
+msgstr "daskemmet"
+
+msgid "module"
+msgstr "mollad"
+
+msgid "modules"
+msgstr "molladoù"
+
+msgid "month"
+msgstr "miz"
+
+msgid "more..."
+msgstr "muioc'h..."
+
+msgid "mosaic"
+msgstr "marell"
+
+msgid "move"
+msgstr "dilec'hiañ"
+
+msgid "n"
+msgstr "n"
+
+msgid "name"
+msgstr "anv"
+
+msgid "navigation"
+msgstr "merdeiñ"
+
+msgid "neon"
+msgstr "neon"
+
+msgid "next"
+msgstr "war-lerc'h"
+
+msgid "no"
+msgstr "ket"
+
+msgid "none"
+msgstr "tra ebet"
+
+msgid "normal"
+msgstr "reizh"
+
+msgid "number"
+msgstr "niver"
+
+msgid "numbering"
+msgstr "niverenniñ"
+
+msgid "numbers"
+msgstr "niveroù"
+
+msgid "object"
+msgstr "egorenn"
+
+msgid "objects"
+msgstr "ergorennoù"
+
+msgid "offline"
+msgstr "ezlinenn"
+
+msgid "offset"
+msgstr "linkañ"
+
+msgid "op_tions"
+msgstr "dibar_zhioù"
+
+msgid "open"
+msgstr "digeriñ"
+
+msgid "optimize"
+msgstr "gwellekaat"
+
+msgid "options"
+msgstr "dibarzhioù"
+
+msgid "orange"
+msgstr "liv orañjez"
+
+msgid "orientation"
+msgstr "tuadur"
+
+msgid "original"
+msgstr "orin"
+
 msgid "output"
 msgstr "ec'hankad"
 
-msgid "pa-kai"
-msgstr "pa-kai"
+msgid "p"
+msgstr "p"
+
+msgid "p_aper"
+msgstr "p_aper"
+
+msgid "page"
+msgstr "pajenn"
+
+msgid "pages"
+msgstr "pajennoù"
+
+msgid "palettes"
+msgstr "livaouegoù"
+
+msgid "paper"
+msgstr "paper"
+
+msgid "parameters"
+msgstr "arventennoù"
+
+msgid "password"
+msgstr "ger-tremen"
+
+msgid "paste"
+msgstr "pegañ"
+
+msgid "path"
+msgstr "treug"
+
+msgid "paths"
+msgstr "treugoù"
+
+msgid "pattern"
+msgstr "goustur"
+
+msgid "pause"
+msgstr "ehan"
 
 msgid "paused"
-msgstr "Ehanet"
+msgstr "paouezet"
 
-msgid "prc 16k"
-msgstr "prc 16k"
+msgid "pentagon"
+msgstr "pemptueg"
 
-msgid "prc 32k"
-msgstr "prc 32k"
+msgid "perspective"
+msgstr "diarsell"
 
-msgid "prc1 Envelope"
-msgstr "Golo-lizher mod prc1"
+msgid "phong"
+msgstr "mod phong"
 
-msgid "prc10 Envelope"
-msgstr "Golo-lizher mod prc10"
+msgid "pixel"
+msgstr "piksel"
 
-msgid "prc2 Envelope"
-msgstr "Golo-lizher mod prc2"
+msgid "pixels"
+msgstr "a bikselioù"
 
-msgid "prc3 Envelope"
-msgstr "Golo-lizher mod prc3"
+msgid "placement"
+msgstr "lec'hiadur"
 
-msgid "prc4 Envelope"
-msgstr "Golo-lizher mod prc4"
+msgid "plural"
+msgstr "liester"
 
-msgid "prc5 Envelope"
-msgstr "Golo-lizher mod prc5"
+msgid "point"
+msgstr "poent"
 
-msgid "prc6 Envelope"
-msgstr "Golo-lizher mod prc6"
+msgid "pointer"
+msgstr "biz"
 
-msgid "prc7 Envelope"
-msgstr "Golo-lizher mod prc7"
+msgid "points"
+msgstr "a boentoù pegañ"
 
-msgid "prc8 Envelope"
-msgstr "Golo-lizher mod prc8"
+msgid "polygon"
+msgstr "liestueg"
 
-msgid "prc9 Envelope"
-msgstr "Golo-lizher mod prc9"
+msgid "portrait"
+msgstr "poltred"
 
-msgid "printer offline"
-msgstr "Ezlinnen eo ar voullerez"
+msgid "position"
+msgstr "arc'hwel"
 
-msgid "ready to print"
-msgstr "prest da voullañ"
+msgid "posterize"
+msgstr "poster"
+
+msgid "power"
+msgstr "mac'h"
+
+msgid "pr_eview"
+msgstr "_alberz"
+
+msgid "pre_view"
+msgstr "_alberz"
+
+msgid "preferences"
+msgstr "gwellvezioù"
+
+msgid "prefix"
+msgstr "rakger"
+
+msgid "preview"
+msgstr "alberz"
+
+msgid "previous"
+msgstr "kent"
+
+msgid "print"
+msgstr "moullañ"
+
+msgid "printer"
+msgstr "moullerez"
+
+msgid "printing"
+msgstr "moulladur"
+
+msgid "progress"
+msgstr "araokadur"
+
+msgid "project"
+msgstr "raktres"
+
+msgid "projects"
+msgstr "raktresoù"
+
+msgid "properties"
+msgstr "perzhioù"
+
+msgid "property"
+msgstr "perzh"
+
+msgid "quality"
+msgstr "perzhded"
+
+msgid "r"
+msgstr "r"
+
+msgid "radial"
+msgstr "skinek"
+
+msgid "radius"
+msgstr "skin"
+
+msgid "random"
+msgstr "dargouezhek"
+
+msgid "range"
+msgstr "lijorenn"
+
+msgid "rate"
+msgstr "feur"
+
+msgid "ready"
+msgstr "hegerz"
+
+msgid "recent"
+msgstr "a-nevez"
+
+msgid "rectangle"
+msgstr "reizhkorn"
+
+msgid "red"
+msgstr "ruz"
+
+msgid "redo"
+msgstr "adober"
+
+msgid "rejected"
+msgstr "distaolet"
+
+msgid "remove"
+msgstr "dilemel"
+
+msgid "replace"
+msgstr "amsaviñ"
+
+msgid "resize"
+msgstr "daskemmañ ar vent"
+
+msgid "resolution"
+msgstr "diarunusted"
+
+msgid "restore"
+msgstr "assav"
+
+msgid "review"
+msgstr "adwelet"
+
+msgid "right"
+msgstr "a-zehou"
+
+msgid "rotate"
+msgstr "c'hwelañ"
+
+msgid "rotation"
+msgstr "c'hwelañ"
+
+msgid "round"
+msgstr "ront"
+
+msgid "rows"
+msgstr "renkoù"
+
+msgid "s"
+msgstr "s"
+
+msgid "saturation"
+msgstr "peurvec'hiañ"
+
+msgid "save"
+msgstr "enrollañ"
+
+msgid "scale"
+msgstr "skeul"
+
+msgid "screen"
+msgstr "skramm"
+
+msgid "search"
+msgstr "klask"
+
+msgid "select"
+msgstr "diuzañ"
+
+msgid "selection"
+msgstr "diuzad"
+
+msgid "services"
+msgstr "gwazerezhioù"
+
+msgid "settings"
+msgstr "arventennoù"
+
+msgid "shadow"
+msgstr "disheol"
+
+msgid "shadows"
+msgstr "skeudoù"
+
+msgid "shape"
+msgstr "stumm"
+
+msgid "sharpen"
+msgstr "kreskaat an naeted"
+
+msgid "shift"
+msgstr "linkañ"
+
+msgid "show"
+msgstr "skrammañ"
+
+msgid "shrink"
+msgstr "strishaat"
+
+msgid "simple"
+msgstr "eeun"
+
+msgid "sine"
+msgstr "sinuz"
+
+msgid "singular"
+msgstr "unander"
+
+msgid "size"
+msgstr "ment"
+
+msgid "small"
+msgstr "bihan"
+
+msgid "smooth"
+msgstr "lenkraat"
+
+msgid "solid"
+msgstr "unvan"
+
+msgid "source"
+msgstr "tarzh"
+
+msgid "space"
+msgstr "esaou"
+
+msgid "spacing"
+msgstr "esaouiñ"
+
+msgid "sphere"
+msgstr "pellenn"
+
+msgid "spherical"
+msgstr "pellennek"
+
+msgid "split"
+msgstr "troc'hañ"
+
+msgid "square"
+msgstr "karrez"
+
+msgid "squares"
+msgstr "karrezioù"
+
+msgid "standard"
+msgstr "skoueriek"
+
+msgid "state"
+msgstr "stad"
+
+msgid "statistics"
+msgstr "stadegoù"
+
+msgid "status"
+msgstr "stad"
+
+msgid "strikethrough"
+msgstr "barrennet"
+
+msgid "style"
+msgstr "stil"
+
+msgid "submissions"
+msgstr "kinnigoù"
+
+msgid "suggest"
+msgstr "kinnig"
+
+msgid "suggestions"
+msgstr "kinnigoù"
+
+msgid "symbol"
+msgstr "arouez"
+
+msgid "system"
+msgstr "reizhiad"
+
+msgid "tab"
+msgstr "taolennata"
+
+msgid "tabloid"
+msgstr "tabloid"
+
+msgid "target"
+msgstr "bukenn"
+
+msgid "te_xt"
+msgstr "te_stenn"
+
+msgid "templates"
+msgstr "patromoù"
+
+msgid "text"
+msgstr "testenn"
+
+msgid "theme"
+msgstr "neuz"
+
+msgid "themes"
+msgstr "neuzioù"
+
+msgid "tiny"
+msgstr "lizherenn vunut"
+
+msgid "title"
+msgstr "titl"
+
+msgid "toolbox"
+msgstr "boest ostilhoù"
+
+msgid "tools"
+msgstr "ostilhoù"
+
+msgid "total"
+msgstr "hollad"
+
+msgid "tr_ansparency"
+msgstr "boullde_r"
+
+msgid "transform"
+msgstr "treuzfurmiñ"
+
+msgid "transformation"
+msgstr "treuzfurmadur"
+
+msgid "transparency"
+msgstr "boullder"
+
+msgid "transparent"
+msgstr "boull"
+
+msgid "type"
+msgstr "rizh"
+
+msgid "underline"
+msgstr "islinennañ"
+
+msgid "undo"
+msgstr "dizober"
+
+msgid "uniform"
+msgstr "unvan"
+
+msgid "unit"
+msgstr "unanenn"
 
 msgid "unknown"
 msgstr "dianav"
 
+msgid "untitled"
+msgstr "dizanv"
+
+msgid "up"
+msgstr "lein"
+
+msgid "user"
+msgstr "implijerien"
+
+msgid "v_alue"
+msgstr "g_werzh"
+
+msgid "value"
+msgstr "gwerzh"
+
+msgid "vertical"
+msgstr "a-serzh"
+
+msgid "view"
+msgstr "skrammañ"
+
 msgid "visible"
 msgstr "hewel"
+
+msgid "volume"
+msgstr "levrenn"
+
+msgid "w"
+msgstr "k"
+
+msgid "waiting"
+msgstr "o c'hortoz"
+
+msgid "warning"
+msgstr "diwallit"
+
+msgid "website"
+msgstr "lec'hienn"
+
+msgid "wheel"
+msgstr "rod"
+
+msgid "white"
+msgstr "gwenn"
 
 msgid "width"
 msgstr "led"
 
-msgid "xalign"
-msgstr "xalign"
+msgid "window"
+msgstr "prenestr"
 
-msgid "xpad"
-msgstr "xpad"
+msgid "wood"
+msgstr "koad"
 
-msgid "yalign"
-msgstr "yalign"
+msgid "wrap"
+msgstr "azasaat"
 
-msgid "you4 Envelope"
-msgstr "Golo-lizher mod you4"
+msgid "x"
+msgstr "x"
 
-msgid "you6 Envelope"
-msgstr "Golo-lizher mod you6"
+msgid "y"
+msgstr "y"
 
-msgid "ypad"
-msgstr "ypad"
+msgid "year"
+msgstr "bloaz"
+
+msgid "yellow"
+msgstr "melen"
+
+msgid "yes"
+msgstr "ya"
+
+msgid "zoom"
+msgstr "zoum"

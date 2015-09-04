@@ -1,0 +1,11 @@
+msgid "Review"
+msgstr "དཔྱད་བརྗོད"
+
+msgid "Suggestion"
+msgstr "གྲོས་འཆར"
+
+msgid "review"
+msgstr "དཔྱད་བརྗོད"
+
+msgid "suggestion"
+msgstr "གྲོས་འཆར"

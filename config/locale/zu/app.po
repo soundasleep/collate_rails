@@ -1,0 +1,155 @@
+msgid "Accepted"
+msgstr "Kwamukelekile"
+
+msgid "Active"
+msgstr "iyasebenza"
+
+msgid "Add"
+msgstr "Yongeza"
+
+msgid "Comment"
+msgstr "Imibono"
+
+msgid "Comments"
+msgstr "Imibono"
+
+msgid "Delete"
+msgstr "Susa"
+
+msgid "Description"
+msgstr "Incazelo"
+
+msgid "Description..."
+msgstr "Incazelo"
+
+msgid "E-mail"
+msgstr "I-imeyili"
+
+msgid "File"
+msgstr "Amafayela"
+
+msgid "Files"
+msgstr "Amafayela"
+
+msgid "Language"
+msgstr "Ulimi"
+
+msgid "Languages"
+msgstr "Izilimi"
+
+msgid "Name"
+msgstr "Igama"
+
+msgid "Next"
+msgstr "Okulandelayo"
+
+msgid "Options"
+msgstr "Ukukhetha"
+
+msgid "Password"
+msgstr "Igama lokungena"
+
+msgid "Project"
+msgstr "Imiklamo"
+
+msgid "Projects"
+msgstr "Amaprojekthi"
+
+msgid "Rejected"
+msgstr "Kwaliwe"
+
+msgid "Save"
+msgstr "Gcina"
+
+msgid "Search"
+msgstr "Cinga"
+
+msgid "Time"
+msgstr "Isikhathi"
+
+msgid "Title"
+msgstr "Isihloko"
+
+msgid "Unknown"
+msgstr "Akwaziwa"
+
+msgid "User"
+msgstr "Abasebenzisi"
+
+msgid "accepted"
+msgstr "kwamukelekile"
+
+msgid "active"
+msgstr "iyasebenza"
+
+msgid "add"
+msgstr "yongeza"
+
+msgid "comment"
+msgstr "imibono"
+
+msgid "comments"
+msgstr "imibono"
+
+msgid "delete"
+msgstr "susa"
+
+msgid "description"
+msgstr "incazelo"
+
+msgid "description..."
+msgstr "incazelo"
+
+msgid "e-mail"
+msgstr "i-imeyili"
+
+msgid "file"
+msgstr "amafayela"
+
+msgid "files"
+msgstr "amafayela"
+
+msgid "language"
+msgstr "ulimi"
+
+msgid "languages"
+msgstr "izilimi"
+
+msgid "name"
+msgstr "igama"
+
+msgid "next"
+msgstr "okulandelayo"
+
+msgid "options"
+msgstr "ukukhetha"
+
+msgid "password"
+msgstr "igama lokungena"
+
+msgid "project"
+msgstr "imiklamo"
+
+msgid "projects"
+msgstr "amaprojekthi"
+
+msgid "rejected"
+msgstr "kwaliwe"
+
+msgid "save"
+msgstr "gcina"
+
+msgid "search"
+msgstr "cinga"
+
+msgid "time"
+msgstr "isikhathi"
+
+msgid "title"
+msgstr "isihloko"
+
+msgid "unknown"
+msgstr "akwaziwa"
+
+msgid "user"
+msgstr "abasebenzisi"

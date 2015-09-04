@@ -1,284 +1,248 @@
 msgid "(None)"
-msgstr "ምንም"
+msgstr "(ምንም)"
 
-msgid "A palette of named colors for use in themes"
-msgstr "የጽሑፉ መለያ"
+msgid "(none)"
+msgstr "(ምንም)"
 
-msgid "Accel Group"
-msgstr "ምልክት"
+msgid "AND"
+msgstr "እና"
+
+msgid "Accepted"
+msgstr "ተቀበል"
 
 msgid "Action"
-msgstr "ምልክት"
-
-msgid "Action Group"
-msgstr "ምልክት"
+msgstr "ተግባር"
 
 msgid "Activity"
 msgstr "ድርጊት"
 
+msgid "Add"
+msgstr "መጨመሪያ"
+
+msgid "Address"
+msgstr "አድራሻ"
+
 msgid "Afrikaans"
 msgstr "አፍሪቃንስኛ"
 
-msgid "Align set"
-msgstr "ኩልኩል"
+msgid "Align"
+msgstr "ማሰለፊያ"
 
 msgid "Alignment"
-msgstr "ኩልኩል"
+msgstr "ማሰለፊያ"
 
-msgid "All Margins"
-msgstr "የግራ ህዳግ"
+msgid "Alpha"
+msgstr "Alpha"
 
-msgid "Alt"
-msgstr "Alt"
+msgid "Amount"
+msgstr "ብዛት"
 
-msgid "Amharic (EZ+)"
-msgstr "አማርኛ (EZ+)"
+msgid "Antialiasing"
+msgstr "Antialiasing"
 
-msgid "Any Printer"
-msgstr "አትም (_P)"
+msgid "Appearance"
+msgstr "አቀራረብ"
 
 msgid "Application"
-msgstr "_ምርጫ፦"
+msgstr "መተግበሪያ"
 
-msgid "Arrow Placement"
-msgstr "ክፍተት"
+msgid "Attribute"
+msgstr "መለያ"
 
-msgid "Arrow Scaling"
-msgstr "ክፍተት"
-
-msgid "Arrow Size"
-msgstr "ጽሑፍ አሳይ"
-
-msgid "Arrow scaling"
-msgstr "ክፍተት"
-
-msgid "Arrow spacing"
-msgstr "ክፍተት"
-
-msgid "Attach Widget"
-msgstr "ስፋት"
+msgid "Audio"
+msgstr "ድምፅ"
 
 msgid "Authentication"
-msgstr "_ምርጫ፦"
+msgstr "ማረጋገጫ"
 
-msgid "Auto Select"
-msgstr "የፊደል ቅርጽ ምርጫ"
+msgid "Author"
+msgstr "ደራሲው"
 
-msgid "BackSpace"
-msgstr "እንደገና _ሰይም"
+msgid "Automatic"
+msgstr "ራሱ በራሱ"
+
+msgid "Background"
+msgstr "መደብ"
 
 msgid "Background color"
-msgstr "የመደቡ ቀለም"
+msgstr "የመደብ ቀለም"
 
-msgid "Background color as a GdkColor"
-msgstr "የመደቡ ቀለም በGdkColor ይቅለም"
+msgid "Binary"
+msgstr "Binary"
 
-msgid "Background color name"
-msgstr "የመደቡ ቀለም ስም"
+msgid "Blue"
+msgstr "ሰማያዊ"
 
-msgid "Border around the progress bar"
-msgstr "የጽሑፉ መለያ"
+msgid "Bold"
+msgstr "ማድመቂያ"
 
-msgid "Bottom Attach"
-msgstr "ወደ ታች (_B)"
+msgid "Browse"
+msgstr "መቃኛ"
 
-msgid "Bottom to top"
-msgstr "በመስኮቱ ልክ አጉላ (_F)"
+msgid "Brush"
+msgstr "ቡሩሽ"
 
-msgid "C_ollate"
-msgstr "_ፍጠር"
+msgid "Bullet"
+msgstr "ነጥብ"
 
-msgid "C_onnect"
-msgstr "ለዋጭ (_C)"
+msgid "C"
+msgstr "C"
 
-msgid "C_redits"
-msgstr "_ፍጠር"
+msgid "Calendar"
+msgstr "ቀን መቁጠሪያ"
 
-msgid "C_urrent Page"
-msgstr "_ፍጠር"
+msgid "Cancel"
+msgstr "መሰረዣ"
 
-msgid "Caps Lock is on"
-msgstr "_ምርጫ፦"
+msgid "Caption"
+msgstr "መግለጫ ጽሁፍ"
 
-msgid "CellView model"
-msgstr "የምልክት መጠን"
+msgid "Categories"
+msgstr "ምድቦች"
 
-msgid "Child"
-msgstr "ልጅ"
+msgid "Cell"
+msgstr "ክፍል"
 
-msgid "Co_nnect"
-msgstr "ለዋጭ (_C)"
+msgid "Center"
+msgstr "መሀከል"
+
+msgid "Channel"
+msgstr "ጣቢያ"
+
+msgid "Clear"
+msgstr "ሰርዝ"
+
+msgid "Close"
+msgstr "መዝጊያ"
+
+msgid "Collate"
+msgstr "ማወዳደሪያ"
 
 msgid "Color"
-msgstr "ቀለም (_C)"
-
-msgid "Color Hash"
-msgstr "የቀለሙ _ስም፦"
+msgstr "ቀለም"
 
 msgid "Color Selection"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "Color Wheel"
-msgstr "የፊደል ቅርጽ ምርጫ"
-
-msgid "Color _name:"
-msgstr "የቀለሙ _ስም፦"
-
-msgid "Color of the selection box"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "Color of unvisited links"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "Color of visited links"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "Color scheme"
-msgstr "የቀለሙ _ስም፦"
-
-msgid "Column Spacing"
-msgstr "ክፍተት"
+msgstr "የቀለም ምርጫዎች"
 
 msgid "Columns"
-msgstr "ዐምዶች"
+msgstr "አምዶች"
 
-msgid "Content Padding"
-msgstr "የግራ ህዳግ"
+msgid "Command"
+msgstr "ትእዛዝ"
 
-msgid "Content area spacing"
-msgstr "የግራ ህዳግ"
+msgid "Comment"
+msgstr "አስተያየት"
+
+msgid "Confidential"
+msgstr "ምስጢር"
+
+msgid "Configuration"
+msgstr "ማዋቀሪያ"
+
+msgid "Context"
+msgstr "አገባብ"
+
+msgid "Continue"
+msgstr "ይቀጥሉ"
+
+msgid "Control"
+msgstr "መቆጣጠሪያ"
 
 msgid "Copy"
 msgstr "ቅጂ ቅዳ"
 
-msgid "Copy URL"
-msgstr "ቅጂ (_C)"
+msgid "Count"
+msgstr "መቁጠሪያ"
 
-msgid "Copy _Location"
-msgstr "_ምርጫ፦"
-
-msgid "Could not clear list"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not read the contents of the folder"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not remove item"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not rename %{string} back to %{string}: %{string}.\n"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not rename %{string} to %{string}: %{string}\n"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not select file"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not send the search request"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Could not show link"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Create Fo_lder"
-msgstr "አዲስ ዶሴ"
-
-msgid "Create in _folder:"
-msgstr "አዲስ ዶሴ"
+msgid "Create"
+msgstr "መፍጠሪያ"
 
 msgid "Croatian"
 msgstr "ክሮሽያንኛ"
 
+msgid "Crop Image"
+msgstr "ምስል መከርከሚያ..."
+
 msgid "Ctrl"
 msgstr "Ctrl"
 
-msgid "Cu_t"
-msgstr "ቁረጥ (_t)"
-
-msgid "Current Color"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Current Page"
-msgstr "የአሁኑን ቀለም"
-
-msgid "Current text of the buffer"
-msgstr "የጽሑፉ መለያ"
-
-msgid "Cursor"
-msgstr "የመጠቆሚያዋ አበራርና አጠፋፍ"
-
-msgid "Cursor Blink"
-msgstr "የመጠቆሚያዋ አበራርና አጠፋፍ"
-
-msgid "Cursor Blink Timeout"
-msgstr "የመጠቆሚያዋ አበራርና አጠፋፍ"
+msgid "Current"
+msgstr "አሁኑ"
 
 msgid "Cursor Position"
-msgstr "ጠቋሚው ባለበት ቦታ"
+msgstr "የ መጠቆሚያው ቦታ"
 
-msgid "Cursor color"
-msgstr "የጠቋሚው ቀለም"
+msgid "Custom"
+msgstr "Custom"
 
-msgid "Cursor position"
-msgstr "ጠቋሚው ባለበት ቦታ"
-
-msgid "Cursor theme name"
-msgstr "የጭብጥ ስም"
+msgid "Cut"
+msgstr "መቁረጫ"
 
 msgid "Czech"
 msgstr "ቼክኛ"
 
-msgid "DISPLAY"
-msgstr "IPA"
+msgid "Data"
+msgstr "ዳታ"
 
-msgid "Default Height"
-msgstr "የነበረው እርዝማኔ"
-
-msgid "Default IM module"
-msgstr "የነበረው ስፋት"
-
-msgid "Default Page Setup"
-msgstr "የነበረው እርዝማኔ"
-
-msgid "Default Width"
-msgstr "የነበረው ስፋት"
+msgid "Default"
+msgstr "ነባር"
 
 msgid "Delete"
-msgstr "አጥፉ (_D)"
+msgstr "ማጥፊያ"
 
-msgid "Details Height"
-msgstr "የነበረው እርዝማኔ"
+msgid "Delete layer"
+msgstr "ደረጃ ማጥፊያ"
 
-msgid "Details Width"
-msgstr "የነበረው ስፋት"
+msgid "Description"
+msgstr "መግለጫ"
 
-msgid "Device name"
-msgstr "የፋይል ስም"
+msgid "Description..."
+msgstr "መግለጫ"
 
-msgid "Device type"
-msgstr "መጠን"
+msgid "Difference"
+msgstr "ልዩነት"
 
-msgid "Disabled"
-msgstr "የተበላሸ"
+msgid "Direction"
+msgstr "አቅጣጫ"
 
-msgid "Domain:"
-msgstr "_ምርጫ፦"
+msgid "Directory"
+msgstr "ዳይሬክቶሪ"
+
+msgid "Disable"
+msgstr "ማሰናከያ"
+
+msgid "Display"
+msgstr "ማሳያ"
+
+msgid "Document"
+msgstr "ሰነድ"
+
+msgid "Documents"
+msgstr "ሰነዶች"
+
+msgid "Dot"
+msgstr "ነጥብ"
 
 msgid "Down"
-msgstr "ወደ ታች (_D)"
+msgstr "ወደ ታች"
 
 msgid "Dutch"
 msgstr "ደች"
 
-msgid "Embed Page Setup"
-msgstr "መጠን"
+msgid "E-mail"
+msgstr "ኤ-መልዕክት"
 
-msgid "Enable Accelerators"
-msgstr "የመስኮቱ ዓይነት"
+msgid "Edit"
+msgstr "ማረሚያ"
 
-msgid "Enable Tooltips"
-msgstr "ማስረጊያዎች አሳይ"
+msgid "Effects"
+msgstr "ውጤቶች"
+
+msgid "Enable"
+msgstr "ማስቻያ"
+
+msgid "Encoding"
+msgstr "Encoding"
 
 msgid "English"
 msgstr "እንግሊዘኛ"
@@ -286,44 +250,44 @@ msgstr "እንግሊዘኛ"
 msgid "Error"
 msgstr "ስህተት"
 
-msgid "Error color"
-msgstr "የጠቋሚው ቀለም"
-
-msgid "Error underline color"
-msgstr "የፊት ለፊቱ ቀለም"
+msgid "Errors"
+msgstr "ስህተቶች"
 
 msgid "Esperanto"
 msgstr "ኤስፐራንቶ"
 
 msgid "Executive"
-msgstr "አስኪድ (_E)"
+msgstr "Executive"
 
-msgid "Export filename"
-msgstr "የፋይል ስም"
+msgid "Exit"
+msgstr "መውጫ"
 
-msgid "Extra widget"
-msgstr "ስፋት"
+msgid "Export"
+msgstr "መላኪያ"
 
-msgid "Failed to load icon"
-msgstr "የአሁኑን ቀለም"
+msgid "Extension"
+msgstr "ተጨማሪዎች"
 
-msgid "Failed to write folder index\n"
-msgstr "የአሁኑን ቀለም"
+msgid "FTP"
+msgstr "FTP"
 
-msgid "Fallback Icon Theme Name"
-msgstr "የጭብጥ ስም"
+msgid "Favorite"
+msgstr "የምወዳቸው"
+
+msgid "Fax"
+msgstr "ፋክስ"
+
+msgid "Field"
+msgstr "ሜዳ"
 
 msgid "File"
-msgstr "ፋይሎች"
+msgstr "ፋይል"
 
-msgid "File System"
-msgstr "ፋይሎች"
+msgid "File Exists"
+msgstr "ፋይሉ ነበር"
 
-msgid "File System Root"
-msgstr "ፋይሎች"
-
-msgid "File not found: %{string}\n"
-msgstr "የአሁኑን ቀለም"
+msgid "File Type"
+msgstr "የፋይል ዓይነት"
 
 msgid "Filename"
 msgstr "የፋይል ስም"
@@ -331,56 +295,59 @@ msgstr "የፋይል ስም"
 msgid "Files"
 msgstr "ፋይሎች"
 
-msgid "Filter"
-msgstr "ፋይሎች"
+msgid "Fill Color"
+msgstr "ቀለም መሙያ"
 
-msgid "Find and _Replace"
-msgstr "ፈልግ እና ተካ (_R)"
+msgid "Filter"
+msgstr "ማጣሪያ"
+
+msgid "Filters"
+msgstr "ማጣሪያዎች"
+
+msgid "Find"
+msgstr "መፈለጊያ"
 
 msgid "Finished"
-msgstr "ፈልግ (_F)"
+msgstr "ጨርሷል"
 
 msgid "Finnish"
 msgstr "ፊኒሽ"
 
-msgid "Folio"
-msgstr "ቀለም (_C)"
+msgid "Flip"
+msgstr "መገልበጫ"
+
+msgid "Flip vertically"
+msgstr "በ ቁመት መገልበጫ"
+
+msgid "Folder"
+msgstr "ፎልደር"
 
 msgid "Font"
-msgstr "የፊደል ቅርጽ"
+msgstr "ፊደል"
 
 msgid "Font Name"
-msgstr "የፊደሉ ቅርጽ ስም"
-
-msgid "Font Selection"
-msgstr "የፊደል ቅርጽ ምርጫ"
-
-msgid "Font family"
-msgstr "የፊደል ቅርጽ ቤተሰብ"
-
-msgid "Font name"
-msgstr "የፊደል ቅርጽ ስም"
+msgstr "የፊደሉ ስም"
 
 msgid "Font size"
-msgstr "የፊደሉ ቅርጽ መጠን"
+msgstr "የፊደል መጠን"
 
-msgid "Font size in points"
-msgstr "የፊደል ቅርጽ በነጥቦች"
+msgid "Fonts"
+msgstr "ፊደሎች"
 
-msgid "Font stretch"
-msgstr "የፊደል ቅርጽ ዘርጋ"
+msgid "Footer"
+msgstr "ግርጌ"
 
-msgid "Font style"
-msgstr "የፊደል ቅርጽ ዘይቤ"
+msgid "Foreground"
+msgstr "ፊት ለፊት"
 
 msgid "Foreground color"
-msgstr "የፊት ለፊቱ ቀለም"
+msgstr "የፊት ለፊት ቀለም"
 
-msgid "Foreground color for symbolic icons"
-msgstr "የፊት ለፊት ቀለም ስም"
+msgid "Format"
+msgstr "አቀራረብ"
 
-msgid "Foreground color name"
-msgstr "የፊት ለፊት ቀለም ስም"
+msgid "Frame"
+msgstr "ክፈፍ"
 
 msgid "French"
 msgstr "ፈረንሳይኛ"
@@ -388,83 +355,74 @@ msgstr "ፈረንሳይኛ"
 msgid "Frequency"
 msgstr "በተጠበቀበት ጊዜ ተደጋጋሚ"
 
-msgid "GIcon"
-msgstr "ምልክት"
+msgid "Gamma"
+msgstr "Gamma"
 
-msgid "GIcon for primary icon"
-msgstr "ምልክት ለዚህን መስኮት"
+msgid "General"
+msgstr "ባጠቃላይ"
 
 msgid "German"
 msgstr "ጀርመን"
 
+msgid "Gradient"
+msgstr "ከፍታ መለኪያ"
+
+msgid "Grayscale"
+msgstr "ጥቁር እና ነጭ"
+
 msgid "Greek"
 msgstr "ግሪክኛ"
 
+msgid "Green"
+msgstr "አረንጓዴ"
+
 msgid "Group"
-msgstr "መድረክ"
+msgstr "ቡድን"
 
-msgid "Group Name"
-msgstr "መድረክ"
+msgid "Guides"
+msgstr "መመሪያዎች"
 
-msgid "Has Frame"
-msgstr "ፍሬም አለ"
+msgid "HTML"
+msgstr "HTML"
 
-msgid "Has Selection"
-msgstr "የመስኮቱ አርእስት"
+msgid "HTTP"
+msgstr "HTTP"
 
-msgid "Header Padding"
-msgstr "የግራ ህዳግ"
-
-msgid "Header Relief"
-msgstr "የጭብጥ ስም"
-
-msgid "Header Spacing"
-msgstr "የግራ ህዳግ"
-
-msgid "Header image"
-msgstr "የጭብጥ ስም"
-
-msgid "Headers Visible"
-msgstr "የሚታይ"
+msgid "Header"
+msgstr "ራስጌ"
 
 msgid "Height"
-msgstr "እርዝማኔ"
+msgstr "እርዝመት"
+
+msgid "Help"
+msgstr "እርዳታ"
+
+msgid "Hide"
+msgstr "መደበቂያ"
 
 msgid "Hindi"
 msgstr "ሐንድኛ"
 
+msgid "History"
+msgstr "ታሪክ"
+
 msgid "Home"
-msgstr "መጀመሪያ (_H)"
+msgstr "ቤት"
+
+msgid "Horizontal"
+msgstr "በአግድም"
 
 msgid "Horizontal Alignment"
-msgstr "የአግድም ኩልኩል"
+msgstr "በአግድም ማሰለፊያ"
 
-msgid "Horizontal Offset"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Horizontal Padding"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Horizontal Scroll Arrow Length"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Horizontal alignment"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Horizontal alignment for child"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Horizontal separation"
-msgstr "የአግድም ኩልኩል"
+msgid "Host name"
+msgstr "የጋባዥ ስም"
 
 msgid "Hungarian"
 msgstr "ሀንጋሪኛ"
 
-msgid "IM module"
-msgstr "የነበረው ስፋት"
-
-msgid "IPA"
-msgstr "IPA"
+msgid "ID"
+msgstr "ID"
 
 msgid "Icelandic"
 msgstr "አይስላንድኛ"
@@ -472,401 +430,290 @@ msgstr "አይስላንድኛ"
 msgid "Icon"
 msgstr "ምልክት"
 
-msgid "Icon Name"
-msgstr "የፊደሉ ቅርጽ ስም"
-
-msgid "Icon Prelight"
-msgstr "እርዝማኔ"
-
-msgid "Icon Theme Name"
-msgstr "የጭብጥ ስም"
-
-msgid "Icon View Model"
-msgstr "የምልክት መጠን"
-
-msgid "Icon for this window"
-msgstr "ምልክት ለዚህን መስኮት"
-
-msgid "Icon name"
-msgstr "የፊደሉ ቅርጽ ስም"
-
 msgid "Icon size"
 msgstr "የምልክት መጠን"
 
-msgid "Icon size set"
-msgstr "የምልክት መጠን"
-
-msgid "Icon spacing"
-msgstr "ክፍተት"
-
-msgid "Icon widget"
-msgstr "የምልክት መጠን"
-
 msgid "Icons"
-msgstr "ምልክት"
+msgstr "ምልክቶች"
 
 msgid "Image"
 msgstr "ምስል"
 
-msgid "Image position"
-msgstr "የX ቦታ"
+msgid "Image Size"
+msgstr "የ ምስሉ መጠን"
 
-msgid "Image spacing"
-msgstr "ክፍተት"
+msgid "Images"
+msgstr "ምስሎች"
+
+msgid "Import"
+msgstr "ማምጫ"
 
 msgid "Indent"
-msgstr "አዲስ አንቀጽ"
+msgstr "ማስረጊያ"
 
-msgid "Index 3x5"
-msgstr "ማውጫ (_I)"
-
-msgid "Index 4x6 ext"
-msgstr "ማውጫ (_I)"
-
-msgid "Index 5x8"
-msgstr "ማውጫ (_I)"
-
-msgid "Indicator size"
-msgstr "የምልክት መጠን"
+msgid "Index"
+msgstr "ማውጫ"
 
 msgid "Information"
 msgstr "መረጃ"
 
-msgid "Inner Border"
-msgstr "ቅደም ተከተል"
-
-msgid "Inner border"
-msgstr "ቅደም ተከተል"
-
-msgid "Inner border space"
-msgstr "ቅደም ተከተል"
+msgid "Input"
+msgstr "ማስገቢያ"
 
 msgid "Input _Methods"
 msgstr "ዘገባ የማስትገባት ዘዴዎች (_M)"
 
-msgid "Input mode for the device"
-msgstr "የመስኮቱ ዓይነት"
+msgid "Install"
+msgstr "መግጠሚያ"
+
+msgid "Internet"
+msgstr "ኢንተርኔት"
 
 msgid "Invalid"
-msgstr "Utf-8 ተቀብሏል"
+msgstr "የማይሰራ"
 
-msgid "Invalid URI"
-msgstr "Utf-8 ተቀብሏል"
-
-msgid "Invalid file name"
-msgstr "የፋይል ስም"
-
-msgid "Invalid path"
-msgstr "Utf-8 ተቀብሏል"
+msgid "Invert"
+msgstr "መገልበጫ"
 
 msgid "Italian"
 msgstr "ጣሊያንኛ"
 
-msgid "Item Orientation"
-msgstr "አቀማመጥ"
+msgid "Justify"
+msgstr "እኩል ማካፈያ"
 
-msgid "Item Padding"
-msgstr "የግራ ህዳግ"
+msgid "Key"
+msgstr "ቁልፍ"
 
-msgid "Job Name"
-msgstr "የፊደሉ ቅርጽ ስም"
+msgid "Keyboard"
+msgstr "የፊደል ገበታ"
 
-msgid "KP_Delete"
-msgstr "አጥፉ (_D)"
-
-msgid "KP_Down"
-msgstr "ወደ ታች (_D)"
-
-msgid "KP_Enter"
-msgstr "አትም (_P)"
-
-msgid "KP_Home"
-msgstr "መጀመሪያ (_H)"
-
-msgid "KP_Left"
-msgstr "ግራ (_L)"
-
-msgid "KP_Space"
-msgstr "እንደገና _ሰይም"
-
-msgid "KP_Up"
-msgstr "ወደ ላይ (_U)"
+msgid "Keyword"
+msgstr "ቁልፍ ቃል"
 
 msgid "Label"
-msgstr "መለያ"
+msgstr "ምልክት"
 
-msgid "Label fill"
-msgstr "መለያ"
+msgid "Landscape"
+msgstr "በመሬት አቀማመጥ"
 
 msgid "Language"
-msgstr "ቋንቋ"
+msgstr "%{string} ቋንቋ"
+
+msgid "Languages"
+msgstr "ቋንቋዎች"
+
+msgid "Large"
+msgstr "ትልቅ"
 
 msgid "Latin"
 msgstr "ላቲንኛ"
 
-msgid "Layout style"
-msgstr "የእቅድ ዓይነት"
+msgid "Layer"
+msgstr "ደረጃ"
+
+msgid "Layout"
+msgstr "ረቂቅ"
 
 msgid "Left"
-msgstr "ግራ (_L)"
-
-msgid "Left Margin"
-msgstr "የግራ ህዳግ"
-
-msgid "Left Padding"
-msgstr "የግራ ህዳግ"
-
-msgid "Left gravity"
-msgstr "የግራ ህዳግ"
+msgstr "በ ግራ"
 
 msgid "Left margin"
-msgstr "የግራ ህዳግ"
+msgstr "የ ግራ መስመር"
 
-msgid "License Type"
-msgstr "የመስኮት ዓይነት"
+msgid "Legal"
+msgstr "Legal"
 
-msgid "Line wrap mode"
-msgstr "የመሸፈኛ ዘዴ"
+msgid "Length"
+msgstr "እርዝመት"
 
-msgid "List of authors of the program"
-msgstr "የጽሑፉ መለያ"
+msgid "Letter"
+msgstr "ደብዳቤ"
 
-msgid "List of icon names"
-msgstr "የፊደሉ ቅርጽ ስም"
+msgid "Levels"
+msgstr "ደረጃዎች"
+
+msgid "Line"
+msgstr "መስመር"
+
+msgid "Line spacing"
+msgstr "የመስመር ክፍተት"
+
+msgid "Link"
+msgstr "አገናኝ"
+
+msgid "Local"
+msgstr "አካባቢ"
 
 msgid "Location"
-msgstr "ምልክት"
+msgstr "አካባቢ"
 
-msgid "Logo Icon Name"
-msgstr "የፊደሉ ቅርጽ ስም"
-
-msgid "Lower"
-msgstr "ዝቅተኛ"
+msgid "MS"
+msgstr "MS"
 
 msgid "Macedonian"
 msgstr "ማከዶኒኛ"
 
+msgid "Mail"
+msgstr "ደብዳቤ"
+
 msgid "Margin"
-msgstr "የግራ ህዳግ"
+msgstr "መስመር"
 
-msgid "Margin on Left"
-msgstr "የግራ ህዳግ"
-
-msgid "Margin on Top"
-msgstr "የግራ ህዳግ"
-
-msgid "Maximal Position"
-msgstr "ቦታ"
+msgid "Margins"
+msgstr "መስመሮች"
 
 msgid "Maximum Value"
-msgstr "ከፍተኛ መጠን X"
+msgstr "ከፍተኛ ዋጋ"
 
-msgid "Maximum age of recently used files, in days"
-msgstr "ዐምዶች"
+msgid "Medium"
+msgstr "መገናኛ"
 
-msgid "Maximum child expand"
-msgstr "ከፍተኛ መጠን X"
+msgid "Memory"
+msgstr "ማስታወሻ"
 
 msgid "Menu"
-msgstr "ሜኑ"
+msgstr "ዝርዝር"
 
-msgid "Minimal Position"
-msgstr "የመስኮት ቦታ"
+msgid "Message"
+msgstr "መልእክት"
+
+msgid "Minimize"
+msgstr "ማሳነሻ"
 
 msgid "Minimum Value"
-msgstr "በተቻለ መጠን X"
-
-msgid "Minimum horizontal bar height"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Minimum horizontal bar width"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Minimum horizontal height of the progress bar"
-msgstr "የጽሑፉ መለያ"
-
-msgid "Minimum vertical bar height"
-msgstr "የአግድም ኩልኩል"
-
-msgid "Mnemonics Visible"
-msgstr "የሚታይ"
-
-msgid "Modal"
-msgstr "አዛምድ"
+msgstr "ዝቅተኛ ዋጋ"
 
 msgid "Mode"
-msgstr "የአሠራሩ ዘዴ"
+msgstr "ዘዴ"
 
 msgid "Model"
-msgstr "የአሠራሩ ዘዴ"
+msgstr "ምሳሌ"
 
 msgid "Modified"
-msgstr "የአሠራሩ ዘዴ"
+msgstr "ተሻሽሏል"
 
-msgid "Monitor"
-msgstr "የፊደል ቅርጽ"
+msgid "Modify"
+msgstr "ማሻሻያ"
+
+msgid "Module"
+msgstr "ክፍል"
 
 msgid "Month"
-msgstr "የፊደል ቅርጽ"
+msgstr "ወር"
+
+msgid "Move"
+msgstr "ማንቀሳቀሻ"
 
 msgid "Name"
-msgstr "የፊደሉ ቅርጽ ስም"
+msgstr "ስም"
 
-msgid "Name of a icon theme to fall back to"
-msgstr "የጽሑፉ መለያ"
+msgid "New Template"
+msgstr "አዲስ ቴምፕሌት"
 
-msgid "Name of the cursor theme to use, or NULL to use the default theme"
-msgstr "የጽሑፉ መለያ"
-
-msgid "Name of the printer"
-msgstr "የጽሑፉ መለያ"
-
-msgid "Name of the themed icon for this window"
-msgstr "ምልክት ለዚህን መስኮት"
+msgid "No action"
+msgstr "ምንም ተግባር የለም"
 
 msgid "None"
 msgstr "ምንም"
 
+msgid "Normal"
+msgstr "መደበኛ"
+
 msgid "Norwegian"
 msgstr "ኖርዌጂያን"
 
-msgid "Num Lock is on"
-msgstr "_ምርጫ፦"
-
-msgid "Number of Pages"
-msgstr "ዐምዶች"
-
-msgid "Number of Pages To Print"
-msgstr "ዐምዶች"
-
-msgid "Number of axes in the device"
-msgstr "የጽሑፉ መለያ"
-
-msgid "Number of columns"
-msgstr "ዐምዶች"
-
-msgid "Number of pixels around the content pages."
-msgstr "የጽሑፉ መለያ"
-
-msgid "Number of pixels around the header."
-msgstr "የጽሑፉ መለያ"
-
-msgid "Number of recently used files"
-msgstr "ዐምዶች"
+msgid "Number"
+msgstr "ቍጥር"
 
 msgid "Number of steps"
-msgstr "ዐምዶች"
+msgstr "የደረጃዎች ቁጥር"
 
-msgid "On _hold"
-msgstr "ደማቅ (_B)"
+msgid "OR"
+msgstr "ወይም"
 
-msgid "Opacity of the selection box"
-msgstr "የመስኮቱ አርእስት"
+msgid "Open"
+msgstr "መክፈቻ"
 
-msgid "Or_ientation:"
-msgstr "_ምርጫ፦"
+msgid "Options"
+msgstr "ምርጫ"
+
+msgid "Order"
+msgstr "ትእዛዞች"
 
 msgid "Orientation"
-msgstr "አቀማመጥ"
+msgstr "አቅጣጭ"
 
-msgid "P_ause"
-msgstr "ለጥፍ (_P)"
+msgid "Output"
+msgstr "ውጤት"
 
-msgid "Pack direction"
-msgstr "የጽሑፍ አቅጣጫ"
+msgid "Overwrite"
+msgstr "በላዩ ላይ ደርቦ መጻፊያ"
+
+msgid "Owner"
+msgstr "ባለቤት"
 
 msgid "Page"
 msgstr "ገጽ"
 
-msgid "Page Ordering"
-msgstr "ማስጠንቀቂያ"
-
 msgid "Page Setup"
-msgstr "መጠን"
-
-msgid "Page Size"
-msgstr "መጠን"
-
-msgid "Page complete"
-msgstr "መጠን"
-
-msgid "Page or_dering:"
-msgstr "ምርጫዎች (_P)"
-
-msgid "Page title"
-msgstr "መጠን"
-
-msgid "Page type"
-msgstr "መጠን"
-
-msgid "Page_Down"
-msgstr "ወደ ታች (_D)"
+msgstr "ገጽ ማሰናጃ"
 
 msgid "Pages"
-msgstr "እንደገና _ሰይም"
+msgstr "ገጾች"
 
-msgid "Pages per Sheet"
-msgstr "ምርጫዎች (_P)"
+msgid "Palette"
+msgstr "መደርደሪያ"
 
-msgid "Pages per _side:"
-msgstr "ምርጫዎች (_P)"
-
-msgid "Paper Size"
-msgstr "ምርጫዎች (_P)"
-
-msgid "Paper _source:"
-msgstr "ምርጫዎች (_P)"
-
-msgid "Paper _type:"
-msgstr "ምርጫዎች (_P)"
-
-msgid "Paragraph background color"
-msgstr "የመደቡ ቀለም"
-
-msgid "Paragraph background color as a (possibly unallocated) GdkColor"
-msgstr "የመደቡ ቀለም በGdkColor ይቅለም"
-
-msgid "Paragraph background color as a string"
-msgstr "የመደቡ ቀለም በGdkColor ይቅለም"
-
-msgid "Paragraph background color name"
-msgstr "የመደቡ ቀለም ስም"
-
-msgid "Parent"
-msgstr "ንድፍ"
-
-msgid "Password:"
-msgstr "ቅድመ _ዕይታ፦"
+msgid "Password"
+msgstr "ማለፊያ ቃል"
 
 msgid "Paste"
 msgstr "መለጠፍ"
 
+msgid "Path"
+msgstr "መንገድ"
+
+msgid "Paths"
+msgstr "መንገዶች"
+
 msgid "Pattern"
-msgstr "ንድፍ"
+msgstr "ምሳሌ"
 
 msgid "Pause"
-msgstr "ለጥፍ (_P)"
+msgstr "ማቆሚያ"
 
 msgid "Paused"
-msgstr "ለጥፍ (_P)"
+msgstr "ተቋርጧል"
 
-msgid "Paused Printer"
-msgstr "ፋይሎች"
+msgid "Period"
+msgstr "ጊዜ"
 
-msgid "Pitch:"
-msgstr "አጣጣል:"
+msgid "Perl"
+msgstr "Perl"
 
-msgid "Pixbuf column"
-msgstr "ዐምዶች"
+msgid "Place"
+msgstr "ቦታ"
 
-msgid "Pixel size"
-msgstr "መጠን"
+msgid "Play"
+msgstr "ማጫወቻ"
+
+msgid "Plug-In"
+msgstr "ተሰ-ኪ"
+
+msgid "Plug-in"
+msgstr "ተሰ-ኪ"
+
+msgid "Point"
+msgstr "ነጥብ"
+
+msgid "Pointer"
+msgstr "ጠቋሚ"
 
 msgid "Polish"
 msgstr "ፖሊሽ"
 
 msgid "Portrait"
-msgstr "አትም (_P)"
+msgstr "ምስል"
 
 msgid "Portuguese"
 msgstr "ፖርቱጋሊኛ"
@@ -874,248 +721,212 @@ msgstr "ፖርቱጋሊኛ"
 msgid "Position"
 msgstr "ቦታ"
 
-msgid "Postscript"
-msgstr "አትም (_P)"
+msgid "Pr_eview"
+msgstr "ቅድመ_እይታ"
 
-msgid "Pre_vious"
-msgstr "ቅድመ _ዕይታ፦"
+msgid "Preferences"
+msgstr "ምርጫዎች"
 
-msgid "Preparing"
-msgstr "ማስጠንቀቂያ"
+msgid "Prefix"
+msgstr "መነሻ"
 
-msgid "Preparing to print"
-msgstr "ማስጠንቀቂያ"
-
-msgid "Preview Widget Active"
-msgstr "የጽሑፉ ቅድመ ዕይታ"
-
-msgid "Preview text"
-msgstr "የጽሑፉ ቅድመ ዕይታ"
-
-msgid "Preview widget"
-msgstr "የጽሑፉ ቅድመ ዕይታ"
-
-msgid "Primary icon name"
-msgstr "የፊደሉ ቅርጽ ስም"
-
-msgid "Primary icon tooltip markup"
-msgstr "የፊደሉ ቅርጽ ስም"
-
-msgid "Primary icon tooltip text"
-msgstr "የፊደሉ ቅርጽ ስም"
-
-msgid "Primary storage type"
-msgstr "መጠን"
+msgid "Preview"
+msgstr "ቅድመ እይታ"
 
 msgid "Print"
-msgstr "አትም (_P)"
-
-msgid "Print Pre_view"
-msgstr "የቅድመ ህትመት ዕይታ (_v)"
-
-msgid "Print at"
-msgstr "አትም (_P)"
-
-msgid "Print at time"
-msgstr "አትም (_P)"
-
-msgid "Print to File"
-msgstr "አትም (_P)"
-
-msgid "Print to Test Printer"
-msgstr "አትም (_P)"
+msgstr "ማተሚያ"
 
 msgid "Printer"
-msgstr "ፋይሎች"
-
-msgid "Printer Default"
-msgstr "የነበረው ስፋት"
+msgstr "ማተሚያ"
 
 msgid "Printing"
-msgstr "አትም (_P)"
+msgstr "በማተም ላይ"
 
-msgid "Progress Border"
-msgstr "ቅደም ተከተል"
+msgid "Program"
+msgstr "ፕሮግራም"
 
-msgid "Pulse of the spinner"
-msgstr "የጽሑፉ መለያ"
+msgid "Progress"
+msgstr "ሂደት"
 
-msgid "Question"
-msgstr "ጥያቄ"
+msgid "Project"
+msgstr "ፕሮጀክቶች"
 
-msgid "R_ewind"
-msgstr "ፈልግ (_F)"
+msgid "Projects"
+msgstr "ፕሮጀክቶች"
+
+msgid "Properties"
+msgstr "ባህሪዎች"
+
+msgid "Quit"
+msgstr "ማጥፊያ"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Radio Button"
+msgstr "የሬዲዮ ቁልፍ"
+
+msgid "Red"
+msgstr "ቀይ"
 
 msgid "Redo"
 msgstr "እንደገና አድርግ"
 
-msgid "Related Action"
-msgstr "ምልክት"
+msgid "Refresh"
+msgstr "ማነቃቂያ"
+
+msgid "Rejected"
+msgstr "አትቀበል"
 
 msgid "Remove"
-msgstr "አስወግድ (_R)"
+msgstr "ማስወገጃ"
+
+msgid "Rename"
+msgstr "እንደገና መሰየሚያ"
+
+msgid "Rename Layer"
+msgstr "ደረጃውን እንደገና መሰየሚያ"
 
 msgid "Rename..."
-msgstr "እንደገና _ሰይም"
+msgstr "እንደገና መሰየሚያ..."
+
+msgid "Replace"
+msgstr "መቀየሪያ"
+
+msgid "Reset"
+msgstr "እንደነበር መመለሻ"
 
 msgid "Resize"
-msgstr "መጠን"
+msgstr "እንደገና መመጠኛ"
 
 msgid "Resolution"
-msgstr "ጥያቄ"
+msgstr "Resolution"
 
-msgid "Right Margin"
-msgstr "የቀኝ ህዳግ"
+msgid "Retry"
+msgstr "እንደገና መሞከሪያ"
 
-msgid "Right Padding"
-msgstr "የቀኝ ህዳግ"
+msgid "Reverse"
+msgstr "መገልበጫ"
+
+msgid "Revert"
+msgstr "ወደ ነበረበት መልስ"
+
+msgid "Review"
+msgstr "አርም"
 
 msgid "Right margin"
-msgstr "የቀኝ ህዳግ"
+msgstr "የቀኝ መስመር"
 
 msgid "Right to left"
-msgstr "አትም (_P)"
+msgstr "ከ ቀኝ ወደ ግራ"
 
 msgid "Romanian"
 msgstr "ሮማኒያን"
 
-msgid "Row Spacing"
-msgstr "ክፍተት"
+msgid "Rotate"
+msgstr "ማዞሪያ"
+
+msgid "Row"
+msgstr "ረድፍ"
 
 msgid "Rows"
 msgstr "ረድፎች"
 
+msgid "Run"
+msgstr "ማስኬጃ"
+
 msgid "Russian"
 msgstr "ራሽኛ"
 
-msgid "Save _As"
-msgstr "በሌላ ስም አስቀምጥ (_A)"
+msgid "Sample"
+msgstr "ናሙና"
 
-msgid "Save in _folder:"
-msgstr "አዲስ ዶሴ"
+msgid "Save"
+msgstr "ማስቀመጫ"
 
-msgid "Sc_ale:"
-msgstr "_ዕሴት፦"
+msgid "Save _As..."
+msgstr "ማስቀመጫ _እንደ..."
+
+msgid "Scale"
+msgstr "መጠኑ"
 
 msgid "Screen"
-msgstr "እስክሪን"
+msgstr "መመልከቻ"
 
-msgid "Scroll arrow spacing"
-msgstr "ክፍተት"
+msgid "Script"
+msgstr "ጽሁፍ"
 
-msgid "Se_lection"
-msgstr "_ምርጫ፦"
+msgid "Search"
+msgstr "ፈልግ"
 
-msgid "Secondary icon name"
-msgstr "የመደቡ ቀለም ስም"
+msgid "Security"
+msgstr "ደህንነት"
 
-msgid "Secondary icon tooltip markup"
-msgstr "የመደቡ ቀለም ስም"
+msgid "Select"
+msgstr "ይምረጡ"
 
-msgid "Secondary icon tooltip text"
-msgstr "የመደቡ ቀለም ስም"
+msgid "Select All"
+msgstr "ሁሉንም መምረጫ"
 
-msgid "Secret"
-msgstr "እስክሪን"
-
-msgid "Select A File"
-msgstr "ፋይል አጥፉ"
-
-msgid "Select Multiple"
-msgstr "ሁሉንም ምረጡ"
+msgid "Select Theme"
+msgstr "ገጽታ ይምረጡ"
 
 msgid "Select _All"
 msgstr "ሁሉንም ምረጡ"
 
-msgid "Select a folder"
-msgstr "ፋይል አጥፉ"
+msgid "Selection"
+msgstr "ምርጫዎች"
 
-msgid "Separator Height"
-msgstr "የነበረው እርዝማኔ"
+msgid "Send"
+msgstr "መላኪያ"
 
-msgid "Separator Width"
-msgstr "የነበረው ስፋት"
+msgid "Separator"
+msgstr "መለያያ"
+
+msgid "Settings"
+msgstr "ማሰናጃዎች"
+
+msgid "Shape"
+msgstr "ቅርጽ"
+
+msgid "Shell"
+msgstr "Shell"
 
 msgid "Shift"
-msgstr "Shift"
+msgstr "መቀየሪያ"
 
-msgid "Short label"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Day Names"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Details"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Dialog"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Expanders"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Hidden"
-msgstr "ጽሑፍ አሳይ"
-
-msgid "Show Icons"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Numbers"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Private"
-msgstr "ጽሑፍ አሳይ"
-
-msgid "Show Tabs"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show Tooltips"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show menu images"
-msgstr "ማስረጊያዎች አሳይ"
-
-msgid "Show size"
-msgstr "ጽሑፍ አሳይ"
-
-msgid "Show style"
-msgstr "ጽሑፍ አሳይ"
-
-msgid "Show text"
-msgstr "ጽሑፍ አሳይ"
-
-msgid "Si_ze:"
-msgstr "_መጠን፦"
-
-msgid "Sidebar image"
-msgstr "የጭብጥ ስም"
+msgid "Show"
+msgstr "ማሳያ"
 
 msgid "Simple"
-msgstr "መጠን"
+msgstr "ቀላል"
 
 msgid "Size"
 msgstr "መጠን"
 
+msgid "Skip"
+msgstr "መዝለያ"
+
+msgid "Slant"
+msgstr "ማዘንበያ"
+
 msgid "Slovak"
 msgstr "ስሎቫክኛ"
 
-msgid "Sole completion"
-msgstr "የፊደል ቅርጽ ምርጫ"
+msgid "Small"
+msgstr "ትንሽ"
 
-msgid "Sort Type"
-msgstr "ቅደም ተከተል"
-
-msgid "Sort column ID"
-msgstr "ዐምዶች"
+msgid "Sort"
+msgstr "መለያ"
 
 msgid "Sort order"
-msgstr "ቅደም ተከተል"
+msgstr "ደንብ መለያ"
 
-msgid "Sound Theme Name"
-msgstr "የጭብጥ ስም"
+msgid "Source"
+msgstr "ምንጩ"
 
 msgid "Space"
-msgstr "እንደገና _ሰይም"
+msgstr "ክፍተት"
 
 msgid "Spacing"
 msgstr "ክፍተት"
@@ -1123,26 +934,65 @@ msgstr "ክፍተት"
 msgid "Spanish"
 msgstr "ስፓኒሽ"
 
-msgid "Startup ID"
-msgstr "መድረክ"
+msgid "Special Characters"
+msgstr "የነሲብ ፊደል አስገባ"
 
-msgid "Step Increment"
-msgstr "እስክሪን"
+msgid "Speed"
+msgstr "ፍጥነት"
+
+msgid "Square"
+msgstr "ካሬ"
+
+msgid "Standard"
+msgstr "መደበኛ"
+
+msgid "Start"
+msgstr "መጀመሪያ"
+
+msgid "State"
+msgstr "አገር"
+
+msgid "Statistics"
+msgstr "የቁጥር መረጃ ጥናት"
+
+msgid "Status"
+msgstr "ሁኔታ"
 
 msgid "Stop"
 msgstr "ቁም ቁሚ አቁም አቁሚ"
 
 msgid "Strikethrough"
-msgstr "ስርዝ"
+msgstr "በላዩ ላይ መሰረዣ"
+
+msgid "String"
+msgstr "ሐረግ"
 
 msgid "Style"
-msgstr "ዘይቤ"
+msgstr "ዘዴ"
 
-msgid "Success color"
-msgstr "የጠቋሚው ቀለም"
+msgid "Subject"
+msgstr "ጉዳዩ"
 
-msgid "Support Selection"
-msgstr "የመስኮቱ አርእስት"
+msgid "Submit"
+msgstr "አቅርብ"
+
+msgid "Subscript"
+msgstr "በትንንሽ ፊደል መጻፊያ"
+
+msgid "Subtract"
+msgstr "መቀነሻ"
+
+msgid "Suggest"
+msgstr "ምከር"
+
+msgid "Suggestion"
+msgstr "አስተያየት"
+
+msgid "Suggestions"
+msgstr "አስተያየት"
+
+msgid "Superscript"
+msgstr "በትንንሽ ፊደል መጻፊያ"
 
 msgid "Swahili"
 msgstr "ስዋሂሊኛ"
@@ -1150,413 +1000,179 @@ msgstr "ስዋሂሊኛ"
 msgid "Swedish"
 msgstr "ስዊድንኛ"
 
-msgid "Sys_Req"
-msgstr "ፋይሎች"
+msgid "Symbol"
+msgstr "ምልክት"
 
 msgid "System"
-msgstr "ፋይሎች"
+msgstr "ስርአት"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Table"
+msgstr "ሰንጠረዥ"
 
 msgid "Tabs"
-msgstr "መክፈቻዎች"
+msgstr "ማስረጊያ"
 
-msgid "Terminal Pager"
-msgstr "የቅድመ ህትመት ዕይታ (_v)"
+msgid "Test"
+msgstr "መሞከሪያ"
 
 msgid "Text"
-msgstr "ጽሑፍ"
-
-msgid "Text Column"
-msgstr "ዐምዶች"
-
-msgid "Text column"
-msgstr "ዐምዶች"
+msgstr "ጽሁፍ"
 
 msgid "Text direction"
-msgstr "የጽሑፍ አቅጣጫ"
+msgstr "የጽሁፍ አቅጣጫ"
 
 msgid "Text length"
-msgstr "ዐምዶች"
+msgstr "የ ጽሁፍ እርዝመት"
 
-msgid "Text of the expander's label"
-msgstr "የጽሑፉ መለያ"
+msgid "Text only"
+msgstr "ጽሁፍ ብቻ"
 
-msgid "Text on the progress bar"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The OK button of the dialog."
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The cancel button of the dialog."
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The color selection embedded in the dialog."
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The contents of the buffer"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The contents of the tooltip for this tray icon"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The contents of the tooltip on the primary icon"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The contents of the tooltip on the secondary icon"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The current fraction of the task that's been completed"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The current page in the document"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The current value"
-msgstr "የጭብጥ ስም"
-
-msgid "The currently selected menu item"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The help button of the dialog."
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The human-readable title of this item group"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The icon name to use for the printer"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The icon size"
-msgstr "የምልክት መጠን"
-
-msgid "The image"
-msgstr "የጭብጥ ስም"
-
-msgid "The keyval of the accelerator"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The license type of the program"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The location of the printer"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The maximum number of items to be displayed"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The maximum value of the adjustment"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The maximum width of the cell, in characters"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The metric used for the ruler"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The minimum horizontal width of the progress bar"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The minimum value of the adjustment"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The minimum vertical height of the progress bar"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The minimum vertical width of the progress bar"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The model for cell view"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The model for the icon view"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The model to find matches in"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The name of the icon from the icon theme"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The name of the selected font"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The name of the themed icon displayed on the item"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The number of pages in the document."
-msgstr "የጽሑፉ መለያ"
-
-msgid "The number of pages that will be printed."
-msgstr "የጽሑፉ መለያ"
-
-msgid "The opacity of the window, from 0 to 1"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The orientation of the orientable"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The orientation of the tray"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The pack direction of the menubar"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The page increment of the adjustment"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The page size of the adjustment"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The parent window"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The primary text of the message dialog"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The secondary text of the message dialog"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The size of the icon"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The sorting order of the items displayed"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The status of the print operation"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The step increment of the adjustment"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The text for the child label"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The text of the label"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The title of the assistant page"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The title of the color selection dialog"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The title of the file chooser dialog."
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The title of the font selection dialog"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The title of the window"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The title of this tray icon"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The transient parent of the dialog"
-msgstr "የመስኮቱ አርእስት"
-
-msgid "The type of accelerators"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The type of the assistant page"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The type of the window"
-msgstr "የመስኮቱ ዓይነት"
-
-msgid "The value"
-msgstr "የጭብጥ ስም"
-
-msgid "The value of the adjustment"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The value of the scale"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The version of the program"
-msgstr "የጽሑፉ መለያ"
-
-msgid "The window gravity of the window"
-msgstr "የመስኮቱ ዓይነት"
+msgid "Theme"
+msgstr "ጭብጥ"
 
 msgid "Theme Name"
-msgstr "የጭብጥ ስም"
+msgstr "የ ገጽታ ስም"
 
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "ትግርኛ-ናይ ኤርትራ (EZ+)"
+msgid "Themes"
+msgstr "ገጽታዎች"
 
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "ትግርኛ-ናይ ኢትዮጵያ (EZ+)"
+msgid "Tile"
+msgstr "መደርደሪያ"
+
+msgid "Tiny"
+msgstr "ትንሽ"
 
 msgid "Title"
-msgstr "አርእስት"
+msgstr "ርዕስ"
 
-msgid "Title of the print job"
-msgstr "የመስኮቱ አርእስት"
+msgid "Toolbar"
+msgstr "እቃ መደርደሪያ"
 
-msgid "Toolbar Icon Size"
-msgstr "የቱልባር ዓይነት"
+msgid "Toolbox"
+msgstr "የመሳሪያ ሳጥን"
 
-msgid "Toolbar Style"
-msgstr "የቱልባር ዓይነት"
+msgid "Tools"
+msgstr "መሳሪያዎች"
 
-msgid "Toolbar style"
-msgstr "የቱልባር ዓይነት"
+msgid "Total"
+msgstr "አጠቃላይ"
 
-msgid "Tooltip Column"
-msgstr "ዐምዶች"
+msgid "Translate"
+msgstr "ተረጉም"
 
-msgid "Track visited links"
-msgstr "የመስኮቱ አርእስት"
+msgid "Type"
+msgstr "አይነት"
 
-msgid "Tree line width"
-msgstr "የጽሑፉ ቅድመ ዕይታ"
-
-msgid "Type a file name"
-msgstr "የፋይል ስም"
+msgid "URL"
+msgstr "URL"
 
 msgid "Underline"
-msgstr "የስር መስመር"
+msgstr "ከስሩ ማስመሪያ"
 
 msgid "Undo"
 msgstr "ወደ ነበረበት መልስ"
 
+msgid "Unicode"
+msgstr "Unicode"
+
 msgid "Unknown"
-msgstr "(ያልታወቀ)"
+msgstr "ያልታወቀ"
 
-msgid "Unknown item"
-msgstr "(ያልታወቀ)"
-
-msgid "Unvisited Link Color"
-msgstr "የአሁኑን ቀለም"
+msgid "Untitled"
+msgstr "ያልተሰየመ"
 
 msgid "Up"
-msgstr "ወደ ላይ (_U)"
+msgstr "ወደ ላይ"
 
-msgid "Upper"
-msgstr "የበላይ"
+msgid "Update"
+msgstr "ማሻሻያ"
 
-msgid "Use Preview Label"
-msgstr "የጽሑፉ ቅድመ ዕይታ"
+msgid "User"
+msgstr "ተጠቃሚዎች"
 
-msgid "Username:"
-msgstr "እንደገና _ሰይም"
+msgid "User Interface"
+msgstr "የተጠቃሚ ገጽታ"
+
+msgid "Username"
+msgstr "የተጠቃሚ ስም"
 
 msgid "Value"
-msgstr "ዕሴት"
+msgstr "ዋጋ"
+
+msgid "Version"
+msgstr "እትም"
+
+msgid "Vertical"
+msgstr "በቁመት"
 
 msgid "Vertical Alignment"
-msgstr "የቁመት ኩልኩል"
-
-msgid "Vertical Offset"
-msgstr "የቁመት ኩልኩል"
-
-msgid "Vertical Padding"
-msgstr "የቁመት ኩልኩል"
+msgstr "በቁመት ማሰለፊያ"
 
 msgid "Vertical alignment"
-msgstr "የቁመት ኩልኩል"
-
-msgid "Vertical alignment for child"
-msgstr "የቁመት ኩልኩል"
-
-msgid "Vertical separation"
-msgstr "የቁመት ኩልኩል"
+msgstr "በቁመት ማሰለፊያ"
 
 msgid "Vietnamese"
 msgstr "ቪትናምኛ"
 
-msgid "Vietnamese (VIQR)"
-msgstr "ቪትናምኛ (VIQR)"
+msgid "View"
+msgstr "መመልከቻ"
 
 msgid "Visible"
 msgstr "የሚታይ"
 
-msgid "Visible Window"
-msgstr "የሚታይ"
-
-msgid "Visible when overflown"
-msgstr "የሚታይ"
-
-msgid "Visited"
-msgstr "የሚታይ"
-
-msgid "Visited Link Color"
-msgstr "የአሁኑን ቀለም"
-
 msgid "Volume"
-msgstr "_ዕሴት፦"
+msgstr "መጠን"
 
 msgid "Waiting"
-msgstr "ማስጠንቀቂያ"
+msgstr "በመጠበቅ ላይ"
 
 msgid "Warning"
 msgstr "ማስጠንቀቂያ"
 
-msgid "Warning color"
-msgstr "የመደቡ ቀለም"
+msgid "Weight"
+msgstr "ክብደት"
 
 msgid "Welsh"
 msgstr "ወልሽ"
 
-msgid "Whether to expand the child's tab"
-msgstr "የጽሑፉ መለያ"
+msgid "White"
+msgstr "ነጭ"
 
 msgid "Width"
 msgstr "ስፋት"
 
-msgid "Width of border around the action area"
-msgstr "የጽሑፉ መለያ"
-
-msgid "Width of border around the content area"
-msgstr "የጽሑፉ መለያ"
-
 msgid "Window"
-msgstr "የመስኮት ዓይነት"
+msgstr "መስኮት"
 
-msgid "Window Position"
-msgstr "የመስኮት ቦታ"
+msgid "Word"
+msgstr "ቃላት"
 
-msgid "Window Role"
-msgstr "የመስኮት አርእስት"
+msgid "X"
+msgstr "X"
 
-msgid "Window Title"
-msgstr "የመስኮት አርእስት"
+msgid "XML"
+msgstr "XML"
 
-msgid "Window Type"
-msgstr "የመስኮት ዓይነት"
-
-msgid "Window dragging"
-msgstr "የመስኮት ቦታ"
-
-msgid "Wrap Mode"
-msgstr "የመሸፈኛ ዘዴ"
-
-msgid "Wrap mode"
-msgstr "የመሸፈኛ ዘዴ"
-
-msgid "Wrap width"
-msgstr "ስፋት"
-
-msgid "X Input Method"
-msgstr "የX ዘገባ የማስትገባት ዘዴ"
-
-msgid "X position"
-msgstr "የX ቦታ"
-
-msgid "X spacing"
-msgstr "ክፍተት"
-
-msgid "XDG sound theme name"
-msgstr "የጭብጥ ስም"
-
-msgid "Y position"
-msgstr "የY ቦታ"
-
-msgid "Y spacing"
-msgstr "ክፍተት"
+msgid "Y"
+msgstr "Y"
 
 msgid "Year"
-msgstr "ሰርዝ"
+msgstr "አመት"
+
+msgid "Yellow"
+msgstr "ቢጫ"
+
+msgid "Zoom"
+msgstr "ማሳያ"
+
+msgid "Zoom In"
+msgstr "በቅርብ ማሳያ"
+
+msgid "Zoom Out"
+msgstr "በርቀት ማሳያ"
 
 msgid "Zoom _In"
 msgstr "ከቅርበት ዕይታ (_I)"
@@ -1564,311 +1180,1022 @@ msgstr "ከቅርበት ዕይታ (_I)"
 msgid "Zoom _Out"
 msgstr "ከርቀት ዕይታ (_O)"
 
-msgid "_Add"
-msgstr "ጨምር (_A)"
+msgid "accepted"
+msgstr "ተቀበል"
 
-msgid "_Apply"
-msgstr "ተጠቀም (_A)"
+msgid "action"
+msgstr "ተግባር"
 
-msgid "_Back"
-msgstr "ወደኋላ (_B)"
+msgid "activity"
+msgstr "ድርጊት"
 
-msgid "_Blue:"
-msgstr "_ሰማያዊ፦"
+msgid "add"
+msgstr "መጨመሪያ"
 
-msgid "_Bold"
-msgstr "ደማቅ (_B)"
+msgid "address"
+msgstr "አድራሻ"
 
-msgid "_Bottom"
-msgstr "ወደ ታች (_B)"
+msgid "afrikaans"
+msgstr "አፍሪቃንስኛ"
 
-msgid "_Bottom:"
-msgstr "ወደ ታች (_B)"
+msgid "align"
+msgstr "ማሰለፊያ"
 
-msgid "_CD-ROM"
-msgstr "ሲዲ-ሮም (_C)"
+msgid "alignment"
+msgstr "ማሰለፊያ"
 
-msgid "_Cancel"
-msgstr "ተወው (_C)"
+msgid "alpha"
+msgstr "alpha"
 
-msgid "_Center"
-msgstr "ለዋጭ (_C)"
+msgid "amount"
+msgstr "ብዛት"
 
-msgid "_Clear"
-msgstr "ሰርዝ (_C)"
+msgid "antialiasing"
+msgstr "antialiasing"
 
-msgid "_Clear List"
-msgstr "ሰርዝ (_C)"
+msgid "appearance"
+msgstr "አቀራረብ"
 
-msgid "_Close"
-msgstr "ዝጋ (_C)"
+msgid "application"
+msgstr "መተግበሪያ"
 
-msgid "_Color"
-msgstr "ቀለም (_C)"
+msgid "attribute"
+msgstr "መለያ"
 
-msgid "_Convert"
-msgstr "ለዋጭ (_C)"
+msgid "audio"
+msgstr "ድምፅ"
 
-msgid "_Copy"
-msgstr "ቅጂ (_C)"
+msgid "authentication"
+msgstr "ማረጋገጫ"
 
-msgid "_Delete"
-msgstr "አጥፉ (_D)"
+msgid "author"
+msgstr "ደራሲው"
 
-msgid "_Discard"
-msgstr "የተበላሸ"
+msgid "automatic"
+msgstr "ራሱ በራሱ"
 
-msgid "_Disconnect"
-msgstr "ለዋጭ (_C)"
+msgid "background"
+msgstr "መደብ"
 
-msgid "_Domain:"
-msgstr "_ምርጫ፦"
+msgid "binary"
+msgstr "binary"
 
-msgid "_Down"
-msgstr "ወደ ታች (_D)"
+msgid "blue"
+msgstr "ሰማያዊ"
 
-msgid "_Edit"
-msgstr "_ፍጠር"
+msgid "bold"
+msgstr "ማድመቂያ"
 
-msgid "_Execute"
-msgstr "አስኪድ (_E)"
+msgid "browse"
+msgstr "መቃኛ"
 
-msgid "_Family:"
-msgstr "_ቤተሰብ፦"
+msgid "brush"
+msgstr "ቡሩሽ"
 
-msgid "_File"
-msgstr "_ፋይሎች"
+msgid "bullet"
+msgstr "ነጥብ"
 
-msgid "_Fill"
-msgstr "_ፋይሎች"
+msgid "c"
+msgstr "c"
 
-msgid "_Find"
-msgstr "ፈልግ (_F)"
+msgid "calendar"
+msgstr "ቀን መቁጠሪያ"
 
-msgid "_First"
-msgstr "መጀመሪያ (_F)"
+msgid "cancel"
+msgstr "መሰረዣ"
 
-msgid "_Floppy"
-msgstr "ፍሎፒ (_F)"
+msgid "caption"
+msgstr "መግለጫ ጽሁፍ"
 
-msgid "_Font"
-msgstr "የፊደል ቅርጽ (_F)"
+msgid "categories"
+msgstr "ምድቦች"
 
-msgid "_Forward"
-msgstr "ወደፊት (_F)"
+msgid "cell"
+msgstr "ክፍል"
 
-msgid "_Green:"
-msgstr "_አረንጓዴ፦"
+msgid "center"
+msgstr "መሀከል"
 
-msgid "_Height:"
-msgstr "ቀኝ (_R)"
+msgid "channel"
+msgstr "ጣቢያ"
 
-msgid "_Help"
-msgstr "መረጃ (_H)"
-
-msgid "_Home"
-msgstr "መጀመሪያ (_H)"
-
-msgid "_Index"
-msgstr "ማውጫ (_I)"
-
-msgid "_Information"
-msgstr "መረጃ"
-
-msgid "_Italic"
-msgstr "አይታሊክ ማድረጊያ (_I)"
-
-msgid "_Jump to"
-msgstr "ይለፉ ወደ (_J)"
-
-msgid "_Last"
-msgstr "መጨረሻ (_L)"
-
-msgid "_Left"
-msgstr "ግራ (_L)"
-
-msgid "_Left:"
-msgstr "ግራ (_L)"
-
-msgid "_Location:"
-msgstr "_ምርጫ፦"
-
-msgid "_Name:"
-msgstr "የቀለሙ _ስም፦"
-
-msgid "_Network"
-msgstr "አዲስ (_N)"
-
-msgid "_New"
-msgstr "አዲስ (_N)"
-
-msgid "_Next"
-msgstr "አዲስ (_N)"
-
-msgid "_No"
-msgstr "አይ (_N)"
-
-msgid "_Now"
-msgstr "አይ (_N)"
-
-msgid "_OK"
-msgstr "እሺ (_O)"
-
-msgid "_Only print:"
-msgstr "አትም (_P)"
-
-msgid "_Open"
-msgstr "ክፈት (_O)"
-
-msgid "_Open Link"
-msgstr "ክፈት (_O)"
-
-msgid "_Orientation:"
-msgstr "_ምርጫ፦"
-
-msgid "_Palette:"
-msgstr "መደርደሪያ (_P)"
-
-msgid "_Paper size:"
-msgstr "ምርጫዎች (_P)"
-
-msgid "_Password:"
-msgstr "ቅድመ _ዕይታ፦"
-
-msgid "_Paste"
-msgstr "ለጥፍ (_P)"
-
-msgid "_Places"
-msgstr "እንደገና _ሰይም"
-
-msgid "_Play"
-msgstr "እንደገና _ሰይም"
-
-msgid "_Preferences"
-msgstr "ምርጫዎች (_P)"
-
-msgid "_Preview:"
-msgstr "ቅድመ _ዕይታ፦"
-
-msgid "_Print"
-msgstr "አትም (_P)"
-
-msgid "_Properties"
-msgstr "ምርጫዎች (_P)"
-
-msgid "_Quit"
-msgstr "ውጣ (_Q)"
-
-msgid "_Record"
-msgstr "_ቀይ፦"
-
-msgid "_Red:"
-msgstr "_ቀይ፦"
-
-msgid "_Redo"
-msgstr "እንደገና አድርግ (_R)"
-
-msgid "_Refresh"
-msgstr "በድጋሚ ጀምር (_R)"
-
-msgid "_Remove"
-msgstr "አስወግድ (_R)"
-
-msgid "_Replace"
-msgstr "እንደገና _ሰይም"
-
-msgid "_Reverse"
-msgstr "ወደ ነበረበት መልስ (_R)"
-
-msgid "_Revert"
-msgstr "ወደ ነበረበት መልስ (_R)"
-
-msgid "_Right"
-msgstr "ቀኝ (_R)"
-
-msgid "_Right:"
-msgstr "ቀኝ (_R)"
-
-msgid "_Save"
-msgstr "አስቀምጥ (_S)"
-
-msgid "_Save in folder:"
-msgstr "አዲስ ዶሴ"
-
-msgid "_Stop"
-msgstr "አቁም (_S)"
-
-msgid "_Strikethrough"
-msgstr "ስርዝ"
-
-msgid "_Style:"
-msgstr "_ዓይነት፦"
-
-msgid "_Top"
-msgstr "ወደ ላይ (_T)"
-
-msgid "_Top:"
-msgstr "ወደ ላይ (_T)"
-
-msgid "_Undelete"
-msgstr "አታጥፋ (_U)"
-
-msgid "_Underline"
-msgstr "የስር መስመር (_U)"
-
-msgid "_Undo"
-msgstr "ወደ ነበረበት መልስ (_U)"
-
-msgid "_Up"
-msgstr "ወደ ላይ (_U)"
-
-msgid "_Username:"
-msgstr "እንደገና _ሰይም"
-
-msgid "_Value:"
-msgstr "_ዕሴት፦"
-
-msgid "_Yes"
-msgstr "አዎ (_Y)"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/am.po by load_po_file"
-
-msgid "asme_f"
-msgstr "የቀለሙ _ስም፦"
-
-msgid "calendar:MY"
+msgid "clear"
 msgstr "ሰርዝ"
 
-msgid "default:LTR"
-msgstr "default:LTR"
+msgid "close"
+msgstr "መዝጊያ"
 
-msgid "default:mm"
-msgstr "default:mm"
+msgid "collate"
+msgstr "ማወዳደሪያ"
 
-msgid "ellipsize"
-msgstr "መጠን"
+msgid "color"
+msgstr "ቀለም"
+
+msgid "columns"
+msgstr "አምዶች"
+
+msgid "command"
+msgstr "ትእዛዝ"
+
+msgid "comment"
+msgstr "አስተያየት"
+
+msgid "confidential"
+msgstr "ምስጢር"
+
+msgid "configuration"
+msgstr "ማዋቀሪያ"
+
+msgid "context"
+msgstr "አገባብ"
+
+msgid "continue"
+msgstr "ይቀጥሉ"
+
+msgid "control"
+msgstr "መቆጣጠሪያ"
+
+msgid "copy"
+msgstr "ቅጂ ቅዳ"
+
+msgid "cos"
+msgstr "cos"
+
+msgid "count"
+msgstr "መቁጠሪያ"
+
+msgid "create"
+msgstr "መፍጠሪያ"
+
+msgid "croatian"
+msgstr "ክሮሽያንኛ"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "current"
+msgstr "አሁኑ"
+
+msgid "custom"
+msgstr "custom"
+
+msgid "cut"
+msgstr "መቁረጫ"
+
+msgid "czech"
+msgstr "ቼክኛ"
+
+msgid "data"
+msgstr "ዳታ"
+
+msgid "default"
+msgstr "ነባር"
+
+msgid "delete"
+msgstr "ማጥፊያ"
+
+msgid "description"
+msgstr "መግለጫ"
+
+msgid "description..."
+msgstr "መግለጫ"
+
+msgid "difference"
+msgstr "ልዩነት"
+
+msgid "direction"
+msgstr "አቅጣጫ"
+
+msgid "directory"
+msgstr "ዳይሬክቶሪ"
+
+msgid "disable"
+msgstr "ማሰናከያ"
+
+msgid "display"
+msgstr "ማሳያ"
+
+msgid "document"
+msgstr "ሰነድ"
+
+msgid "documents"
+msgstr "ሰነዶች"
+
+msgid "dot"
+msgstr "ነጥብ"
+
+msgid "down"
+msgstr "ወደ ታች"
+
+msgid "dutch"
+msgstr "ደች"
+
+msgid "e-mail"
+msgstr "ኤ-መልዕክት"
+
+msgid "edit"
+msgstr "ማረሚያ"
+
+msgid "effects"
+msgstr "ውጤቶች"
+
+msgid "enable"
+msgstr "ማስቻያ"
+
+msgid "encoding"
+msgstr "encoding"
+
+msgid "english"
+msgstr "እንግሊዘኛ"
+
+msgid "error"
+msgstr "ስህተት"
+
+msgid "errors"
+msgstr "ስህተቶች"
+
+msgid "esperanto"
+msgstr "ኤስፐራንቶ"
+
+msgid "executive"
+msgstr "executive"
+
+msgid "exit"
+msgstr "መውጫ"
+
+msgid "export"
+msgstr "መላኪያ"
+
+msgid "extension"
+msgstr "ተጨማሪዎች"
+
+msgid "favorite"
+msgstr "የምወዳቸው"
+
+msgid "fax"
+msgstr "ፋክስ"
+
+msgid "field"
+msgstr "ሜዳ"
+
+msgid "file"
+msgstr "ፋይል"
+
+msgid "filename"
+msgstr "የፋይል ስም"
+
+msgid "files"
+msgstr "ፋይሎች"
+
+msgid "filter"
+msgstr "ማጣሪያ"
+
+msgid "filters"
+msgstr "ማጣሪያዎች"
+
+msgid "find"
+msgstr "መፈለጊያ"
+
+msgid "finished"
+msgstr "ጨርሷል"
+
+msgid "finnish"
+msgstr "ፊኒሽ"
+
+msgid "flip"
+msgstr "መገልበጫ"
+
+msgid "folder"
+msgstr "ፎልደር"
+
+msgid "font"
+msgstr "ፊደል"
+
+msgid "fonts"
+msgstr "ፊደሎች"
+
+msgid "footer"
+msgstr "ግርጌ"
+
+msgid "foreground"
+msgstr "ፊት ለፊት"
+
+msgid "format"
+msgstr "አቀራረብ"
+
+msgid "frame"
+msgstr "ክፈፍ"
+
+msgid "french"
+msgstr "ፈረንሳይኛ"
+
+msgid "frequency"
+msgstr "በተጠበቀበት ጊዜ ተደጋጋሚ"
+
+msgid "gamma"
+msgstr "gamma"
+
+msgid "general"
+msgstr "ባጠቃላይ"
+
+msgid "german"
+msgstr "ጀርመን"
+
+msgid "gradient"
+msgstr "ከፍታ መለኪያ"
+
+msgid "grayscale"
+msgstr "ጥቁር እና ነጭ"
+
+msgid "greek"
+msgstr "ግሪክኛ"
+
+msgid "green"
+msgstr "አረንጓዴ"
+
+msgid "group"
+msgstr "ቡድን"
+
+msgid "guides"
+msgstr "መመሪያዎች"
+
+msgid "header"
+msgstr "ራስጌ"
 
 msgid "height"
-msgstr "እርዝማኔ"
+msgstr "እርዝመት"
+
+msgid "help"
+msgstr "እርዳታ"
+
+msgid "hide"
+msgstr "መደበቂያ"
+
+msgid "hindi"
+msgstr "ሐንድኛ"
+
+msgid "history"
+msgstr "ታሪክ"
+
+msgid "home"
+msgstr "ቤት"
+
+msgid "horizontal"
+msgstr "በአግድም"
+
+msgid "hungarian"
+msgstr "ሀንጋሪኛ"
+
+msgid "icelandic"
+msgstr "አይስላንድኛ"
+
+msgid "icon"
+msgstr "ምልክት"
+
+msgid "icons"
+msgstr "ምልክቶች"
+
+msgid "image"
+msgstr "ምስል"
+
+msgid "images"
+msgstr "ምስሎች"
+
+msgid "import"
+msgstr "ማምጫ"
+
+msgid "inch"
+msgstr "ኢንች"
+
+msgid "inches"
+msgstr "ኢንችስ"
+
+msgid "indent"
+msgstr "ማስረጊያ"
+
+msgid "index"
+msgstr "ማውጫ"
+
+msgid "information"
+msgstr "መረጃ"
+
+msgid "input"
+msgstr "ማስገቢያ"
+
+msgid "install"
+msgstr "መግጠሚያ"
+
+msgid "internet"
+msgstr "ኢንተርኔት"
+
+msgid "invalid"
+msgstr "የማይሰራ"
+
+msgid "invert"
+msgstr "መገልበጫ"
+
+msgid "italian"
+msgstr "ጣሊያንኛ"
+
+msgid "justify"
+msgstr "እኩል ማካፈያ"
+
+msgid "key"
+msgstr "ቁልፍ"
+
+msgid "keyboard"
+msgstr "የፊደል ገበታ"
+
+msgid "keyword"
+msgstr "ቁልፍ ቃል"
+
+msgid "label"
+msgstr "ምልክት"
+
+msgid "landscape"
+msgstr "በመሬት አቀማመጥ"
+
+msgid "language"
+msgstr "%{string} ቋንቋ"
+
+msgid "languages"
+msgstr "ቋንቋዎች"
+
+msgid "large"
+msgstr "ትልቅ"
+
+msgid "latin"
+msgstr "ላቲንኛ"
+
+msgid "layer"
+msgstr "ደረጃ"
+
+msgid "layout"
+msgstr "ረቂቅ"
+
+msgid "left"
+msgstr "በ ግራ"
+
+msgid "legal"
+msgstr "legal"
+
+msgid "length"
+msgstr "እርዝመት"
+
+msgid "letter"
+msgstr "ደብዳቤ"
+
+msgid "levels"
+msgstr "ደረጃዎች"
+
+msgid "line"
+msgstr "መስመር"
+
+msgid "link"
+msgstr "አገናኝ"
+
+msgid "local"
+msgstr "አካባቢ"
+
+msgid "location"
+msgstr "አካባቢ"
+
+msgid "macedonian"
+msgstr "ማከዶኒኛ"
+
+msgid "mail"
+msgstr "ደብዳቤ"
+
+msgid "margin"
+msgstr "መስመር"
+
+msgid "margins"
+msgstr "መስመሮች"
+
+msgid "medium"
+msgstr "መገናኛ"
+
+msgid "memory"
+msgstr "ማስታወሻ"
+
+msgid "menu"
+msgstr "ዝርዝር"
+
+msgid "message"
+msgstr "መልእክት"
+
+msgid "minimize"
+msgstr "ማሳነሻ"
 
 msgid "mode"
-msgstr "የአሠራሩ ዘዴ"
+msgstr "ዘዴ"
+
+msgid "model"
+msgstr "ምሳሌ"
+
+msgid "modified"
+msgstr "ተሻሽሏል"
+
+msgid "modify"
+msgstr "ማሻሻያ"
+
+msgid "module"
+msgstr "ክፍል"
+
+msgid "month"
+msgstr "ወር"
+
+msgid "move"
+msgstr "ማንቀሳቀሻ"
+
+msgid "name"
+msgstr "ስም"
+
+msgid "none"
+msgstr "ምንም"
+
+msgid "normal"
+msgstr "መደበኛ"
+
+msgid "norwegian"
+msgstr "ኖርዌጂያን"
+
+msgid "number"
+msgstr "ቍጥር"
+
+msgid "open"
+msgstr "መክፈቻ"
+
+msgid "options"
+msgstr "ምርጫ"
+
+msgid "order"
+msgstr "ትእዛዞች"
+
+msgid "orientation"
+msgstr "አቅጣጭ"
+
+msgid "output"
+msgstr "ውጤት"
+
+msgid "overwrite"
+msgstr "በላዩ ላይ ደርቦ መጻፊያ"
+
+msgid "owner"
+msgstr "ባለቤት"
+
+msgid "page"
+msgstr "ገጽ"
+
+msgid "pages"
+msgstr "ገጾች"
+
+msgid "palette"
+msgstr "መደርደሪያ"
+
+msgid "password"
+msgstr "ማለፊያ ቃል"
+
+msgid "paste"
+msgstr "መለጠፍ"
+
+msgid "path"
+msgstr "መንገድ"
+
+msgid "paths"
+msgstr "መንገዶች"
+
+msgid "pattern"
+msgstr "ምሳሌ"
+
+msgid "pause"
+msgstr "ማቆሚያ"
 
 msgid "paused"
-msgstr "ለጥፍ (_P)"
+msgstr "ተቋርጧል"
 
-msgid "printer offline"
-msgstr "የነበረው ስፋት"
+msgid "period"
+msgstr "ጊዜ"
 
-msgid "ready to print"
-msgstr "ማስጠንቀቂያ"
+msgid "perl"
+msgstr "perl"
+
+msgid "place"
+msgstr "ቦታ"
+
+msgid "play"
+msgstr "ማጫወቻ"
+
+msgid "plug-in"
+msgstr "ተሰ-ኪ"
+
+msgid "point"
+msgstr "ነጥቦች"
+
+msgid "pointer"
+msgstr "ጠቋሚ"
+
+msgid "points"
+msgstr "ነጥቦች"
+
+msgid "polish"
+msgstr "ፖሊሽ"
+
+msgid "portrait"
+msgstr "ምስል"
+
+msgid "portuguese"
+msgstr "ፖርቱጋሊኛ"
+
+msgid "position"
+msgstr "ቦታ"
+
+msgid "pr_eview"
+msgstr "ቅድመ_እይታ"
+
+msgid "preferences"
+msgstr "ምርጫዎች"
+
+msgid "prefix"
+msgstr "መነሻ"
+
+msgid "preview"
+msgstr "ቅድመ እይታ"
+
+msgid "print"
+msgstr "ማተሚያ"
+
+msgid "printer"
+msgstr "ማተሚያ"
+
+msgid "printing"
+msgstr "በማተም ላይ"
+
+msgid "program"
+msgstr "ፕሮግራም"
+
+msgid "progress"
+msgstr "ሂደት"
+
+msgid "project"
+msgstr "ፕሮጀክቶች"
+
+msgid "projects"
+msgstr "ፕሮጀክቶች"
+
+msgid "properties"
+msgstr "ባህሪዎች"
+
+msgid "quit"
+msgstr "ማጥፊያ"
+
+msgid "red"
+msgstr "ቀይ"
+
+msgid "redo"
+msgstr "እንደገና አድርግ"
+
+msgid "refresh"
+msgstr "ማነቃቂያ"
+
+msgid "rejected"
+msgstr "አትቀበል"
+
+msgid "remove"
+msgstr "ማስወገጃ"
+
+msgid "rename"
+msgstr "እንደገና መሰየሚያ"
+
+msgid "rename..."
+msgstr "እንደገና መሰየሚያ..."
+
+msgid "replace"
+msgstr "መቀየሪያ"
+
+msgid "reset"
+msgstr "እንደነበር መመለሻ"
+
+msgid "resize"
+msgstr "እንደገና መመጠኛ"
+
+msgid "resolution"
+msgstr "resolution"
+
+msgid "retry"
+msgstr "እንደገና መሞከሪያ"
+
+msgid "reverse"
+msgstr "መገልበጫ"
+
+msgid "revert"
+msgstr "ወደ ነበረበት መልስ"
+
+msgid "review"
+msgstr "አርም"
+
+msgid "romanian"
+msgstr "ሮማኒያን"
+
+msgid "rotate"
+msgstr "ማዞሪያ"
+
+msgid "round"
+msgstr "ክብ"
+
+msgid "row"
+msgstr "ረድፍ"
+
+msgid "rows"
+msgstr "ረድፎች"
+
+msgid "run"
+msgstr "ማስኬጃ"
+
+msgid "russian"
+msgstr "ራሽኛ"
+
+msgid "sample"
+msgstr "ናሙና"
+
+msgid "save"
+msgstr "ማስቀመጫ"
+
+msgid "scale"
+msgstr "መጠኑ"
+
+msgid "screen"
+msgstr "መመልከቻ"
+
+msgid "script"
+msgstr "ጽሁፍ"
+
+msgid "search"
+msgstr "ፈልግ"
+
+msgid "security"
+msgstr "ደህንነት"
+
+msgid "select"
+msgstr "ይምረጡ"
+
+msgid "selection"
+msgstr "ምርጫዎች"
+
+msgid "send"
+msgstr "መላኪያ"
+
+msgid "separator"
+msgstr "መለያያ"
+
+msgid "settings"
+msgstr "ማሰናጃዎች"
+
+msgid "shape"
+msgstr "ቅርጽ"
+
+msgid "shell"
+msgstr "shell"
+
+msgid "shift"
+msgstr "መቀየሪያ"
+
+msgid "show"
+msgstr "ማሳያ"
+
+msgid "simple"
+msgstr "ቀላል"
+
+msgid "size"
+msgstr "መጠን"
+
+msgid "skip"
+msgstr "መዝለያ"
+
+msgid "slant"
+msgstr "ማዘንበያ"
+
+msgid "slovak"
+msgstr "ስሎቫክኛ"
+
+msgid "small"
+msgstr "ትንሽ"
+
+msgid "sort"
+msgstr "መለያ"
+
+msgid "source"
+msgstr "ምንጩ"
+
+msgid "space"
+msgstr "ክፍተት"
+
+msgid "spacing"
+msgstr "ክፍተት"
+
+msgid "spanish"
+msgstr "ስፓኒሽ"
+
+msgid "speed"
+msgstr "ፍጥነት"
+
+msgid "square"
+msgstr "ካሬ"
+
+msgid "standard"
+msgstr "መደበኛ"
+
+msgid "start"
+msgstr "መጀመሪያ"
+
+msgid "state"
+msgstr "አገር"
+
+msgid "statistics"
+msgstr "የቁጥር መረጃ ጥናት"
+
+msgid "status"
+msgstr "ሁኔታ"
+
+msgid "stop"
+msgstr "ቁም ቁሚ አቁም አቁሚ"
+
+msgid "strikethrough"
+msgstr "በላዩ ላይ መሰረዣ"
+
+msgid "string"
+msgstr "ሐረግ"
+
+msgid "style"
+msgstr "ዘዴ"
+
+msgid "subject"
+msgstr "ጉዳዩ"
+
+msgid "submit"
+msgstr "አቅርብ"
+
+msgid "subscript"
+msgstr "በትንንሽ ፊደል መጻፊያ"
+
+msgid "subtract"
+msgstr "መቀነሻ"
+
+msgid "suggest"
+msgstr "ምከር"
+
+msgid "suggestion"
+msgstr "አስተያየት"
+
+msgid "suggestions"
+msgstr "አስተያየት"
+
+msgid "superscript"
+msgstr "በትንንሽ ፊደል መጻፊያ"
+
+msgid "swahili"
+msgstr "ስዋሂሊኛ"
+
+msgid "swedish"
+msgstr "ስዊድንኛ"
+
+msgid "symbol"
+msgstr "ምልክት"
+
+msgid "system"
+msgstr "ስርአት"
+
+msgid "tab"
+msgstr "tab"
+
+msgid "table"
+msgstr "ሰንጠረዥ"
+
+msgid "tabs"
+msgstr "ማስረጊያ"
+
+msgid "test"
+msgstr "መሞከሪያ"
+
+msgid "text"
+msgstr "ጽሁፍ"
+
+msgid "theme"
+msgstr "ጭብጥ"
+
+msgid "themes"
+msgstr "ገጽታዎች"
+
+msgid "tile"
+msgstr "መደርደሪያ"
+
+msgid "tiny"
+msgstr "ትንሽ"
+
+msgid "title"
+msgstr "ርዕስ"
+
+msgid "toolbar"
+msgstr "እቃ መደርደሪያ"
+
+msgid "toolbox"
+msgstr "የመሳሪያ ሳጥን"
+
+msgid "tools"
+msgstr "መሳሪያዎች"
+
+msgid "total"
+msgstr "አጠቃላይ"
+
+msgid "translate"
+msgstr "ተረጉም"
+
+msgid "type"
+msgstr "አይነት"
+
+msgid "underline"
+msgstr "ከስሩ ማስመሪያ"
+
+msgid "undo"
+msgstr "ወደ ነበረበት መልስ"
+
+msgid "unicode"
+msgstr "unicode"
 
 msgid "unknown"
-msgstr "(ያልታወቀ)"
+msgstr "ያልታወቀ"
+
+msgid "untitled"
+msgstr "ያልተሰየመ"
+
+msgid "up"
+msgstr "ወደ ላይ"
+
+msgid "update"
+msgstr "ማሻሻያ"
+
+msgid "user"
+msgstr "ተጠቃሚዎች"
+
+msgid "username"
+msgstr "የተጠቃሚ ስም"
+
+msgid "value"
+msgstr "ዋጋ"
+
+msgid "version"
+msgstr "እትም"
+
+msgid "vertical"
+msgstr "በቁመት"
+
+msgid "vietnamese"
+msgstr "ቪትናምኛ"
+
+msgid "view"
+msgstr "መመልከቻ"
 
 msgid "visible"
 msgstr "የሚታይ"
 
+msgid "volume"
+msgstr "መጠን"
+
+msgid "waiting"
+msgstr "በመጠበቅ ላይ"
+
+msgid "warning"
+msgstr "ማስጠንቀቂያ"
+
+msgid "weight"
+msgstr "ክብደት"
+
+msgid "welsh"
+msgstr "ወልሽ"
+
+msgid "white"
+msgstr "ነጭ"
+
 msgid "width"
 msgstr "ስፋት"
+
+msgid "window"
+msgstr "መስኮት"
+
+msgid "word"
+msgstr "ቃላት"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"
+
+msgid "year"
+msgstr "አመት"
+
+msgid "yellow"
+msgstr "ቢጫ"
+
+msgid "zoom"
+msgstr "ማሳያ"

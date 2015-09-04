@@ -1,5 +1,29 @@
+msgid "About"
+msgstr "Kuhusu"
+
+msgid "Add"
+msgstr "Ongeza"
+
 msgid "Copy"
 msgstr "Nakili"
 
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/sw.po by load_po_file"
+msgid "Delete"
+msgstr "Futa"
+
+msgid "Save"
+msgstr "Hifadhi"
+
+msgid "about"
+msgstr "kuhusu"
+
+msgid "add"
+msgstr "ongeza"
+
+msgid "copy"
+msgstr "nakili"
+
+msgid "delete"
+msgstr "futa"
+
+msgid "save"
+msgstr "hifadhi"

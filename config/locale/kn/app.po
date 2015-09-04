@@ -7,218 +7,53 @@ msgstr "#11 ಲಕೋಟೆ"
 msgid "#12 Envelope"
 msgstr "#12 ಲಕೋಟೆ"
 
-msgid "#14 Envelope"
-msgstr "#14 ಲಕೋಟೆ"
-
 msgid "#9 Envelope"
 msgstr "#9 ಲಕೋಟೆ"
 
-msgid "%{number} second"
-msgstr "%{number} ಸೆಕೆಂಡುಗಳು"
-
-msgid "%{number} seconds"
-msgstr "%{number} ಸೆಕೆಂಡುಗಳು"
-
-msgid "%{string} already exists in the bookmarks list"
-msgstr "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳ ಪಟ್ಟಿಯಲ್ಲಿ %{string} ಈಗಾಗಲೆ ಇದೆ"
-
-msgid "%{string} does not exist in the bookmarks list"
-msgstr "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳ ಪಟ್ಟಿಯಲ್ಲಿ %{string} ಕಂಡುಬಂದಿಲ್ಲ"
-
-msgid "%{string}: error launching application: %{string}\n"
-msgstr "%{string}: ಅನ್ವಯವನ್ನು ಆರಂಭಿಸುವಲ್ಲಿ ದೋಷ: %{string}\n"
-
-msgid "%{string}: missing application name"
-msgstr "%{string}: ಅನ್ವಯದ ಹೆಸರು ಕಾಣಿಸುತ್ತಿಲ್ಲ"
-
 msgid "(None)"
-msgstr "(ಯಾವುದೂ ಇಲ್ಲ)"
+msgstr "(ಯಾವುದು ಅಲ್ಲ)"
+
+msgid "(none)"
+msgstr "(ಯಾವುದು ಇಲ್ಲ)"
 
 msgid "0"
-msgstr "೦"
-
-msgid "1 day"
-msgstr "೧ ದಿನ"
-
-msgid "1 week"
-msgstr "೧ ವಾರ"
-
-msgid "10 minutes"
-msgstr "10 ನಿಮಿಷಗಳು"
-
-msgid "10x11"
-msgstr "10x11"
-
-msgid "10x13"
-msgstr "10x13"
-
-msgid "10x14"
-msgstr "10x14"
-
-msgid "10x15"
-msgstr "10x15"
-
-msgid "11x12"
-msgstr "11x12"
-
-msgid "11x15"
-msgstr "11x15"
-
-msgid "12x19"
-msgstr "12x19"
-
-msgid "2 hours"
-msgstr "2 ಗಂಟೆಗಳು"
-
-msgid "2000"
-msgstr "2000"
-
-msgid "5x7"
-msgstr "5x7"
-
-msgid "6 hours"
-msgstr "6 ಗಂಟೆಗಳು"
-
-msgid "6x9 Envelope"
-msgstr "6x9 ಲಕೋಟೆ"
-
-msgid "7x9 Envelope"
-msgstr "7x9 ಲಕೋಟೆ"
-
-msgid "9x11 Envelope"
-msgstr "9x11 ಲಕೋಟೆ"
-
-msgid ";"
-msgstr ";"
-
-msgid "A"
-msgstr "A"
-
-msgid "A file named “%{string}” already exists.  Do you want to replace it?"
-msgstr "“%{string}” ಹೆಸರಿನ ಒಂದು ಕಡತವು ಈಗಾಗಲೆ ಇದೆ.  ನೀವದನ್ನು ಬದಲಿ ಮಾಡಲು ಬಯಸುತ್ತಿರೆ?"
+msgstr "0"
 
 msgid "A0"
 msgstr "A0"
 
-msgid "A0x2"
-msgstr "A0x2"
-
-msgid "A0x3"
-msgstr "A0x3"
-
 msgid "A1"
 msgstr "A1"
-
-msgid "A10"
-msgstr "A10"
-
-msgid "A1x3"
-msgstr "A1x3"
-
-msgid "A1x4"
-msgstr "A1x4"
 
 msgid "A2"
 msgstr "A2"
 
-msgid "A2x3"
-msgstr "A2x3"
-
-msgid "A2x4"
-msgstr "A2x4"
-
-msgid "A2x5"
-msgstr "A2x5"
-
 msgid "A3"
 msgstr "A3"
-
-msgid "A3 Extra"
-msgstr "A3 ಎಕ್ಸ್‍ಟ್ರಾ"
-
-msgid "A3x3"
-msgstr "A3x3"
-
-msgid "A3x4"
-msgstr "A3x4"
-
-msgid "A3x5"
-msgstr "A3x5"
-
-msgid "A3x6"
-msgstr "A3x6"
-
-msgid "A3x7"
-msgstr "A3x7"
 
 msgid "A4"
 msgstr "A4"
 
-msgid "A4 Extra"
-msgstr "A4 ಎಕ್ಸ್‍ಟ್ರಾ"
-
-msgid "A4 Tab"
-msgstr "A4 ಟ್ಯಾಬ್"
-
-msgid "A4x3"
-msgstr "A4x3"
-
-msgid "A4x4"
-msgstr "A4x4"
-
-msgid "A4x5"
-msgstr "A4x5"
-
-msgid "A4x6"
-msgstr "A4x6"
-
-msgid "A4x7"
-msgstr "A4x7"
-
-msgid "A4x8"
-msgstr "A4x8"
-
-msgid "A4x9"
-msgstr "A4x9"
-
 msgid "A5"
 msgstr "A5"
-
-msgid "A5 Extra"
-msgstr "A5 ಎಕ್ಸ್‍ಟ್ರಾ"
 
 msgid "A6"
 msgstr "A6"
 
-msgid "A7"
-msgstr "A7"
+msgid "AND"
+msgstr "AND"
 
-msgid "A8"
-msgstr "A8"
+msgid "A_ngle"
+msgstr "ಕೋನ (_n)"
 
-msgid "A9"
-msgstr "A9"
+msgid "Abbreviation"
+msgstr "ಸಂಕ್ಷೇಪಾಕ್ಷರ"
 
-msgid "AC adapter"
-msgstr "AC ಅಡಾಪ್ಟರು"
+msgid "Accept"
+msgstr "ಸ್ವೀಕರಿಸು"
 
-msgid "AC adapters"
-msgstr "AC ಅಡಾಪ್ಟರುಗಳು"
-
-msgid "ACPI"
-msgstr "ACPI"
-
-msgid "APPLICATION [URI…] — launch an APPLICATION with URI."
-msgstr "APPLICATION [URI…] — URI ಯೊಂದಿಗಿನ APPLICATION ವನ್ನು ಆರಂಭಿಸು."
-
-msgid "ATA host controller"
-msgstr "ATA ಅತಿಥೇಯ ನಿಯಂತ್ರಕ"
-
-msgid "A_t:"
-msgstr "ಇಲ್ಲಿ (_A):"
-
-msgid "About"
-msgstr "ಕುರಿತು"
+msgid "Account"
+msgstr "ಖಾತೆ"
 
 msgid "Action"
 msgstr "ಕ್ರಿಯೆ"
@@ -226,449 +61,206 @@ msgstr "ಕ್ರಿಯೆ"
 msgid "Actions"
 msgstr "ಕ್ರಿಯೆಗಳು"
 
-msgid "Activate"
-msgstr "ಸಕ್ರಿಯಗೊಳಿಸು"
+msgid "Active"
+msgstr "ಸಕ್ರಿಯಮಡು"
 
-msgid "Activates the cell"
-msgstr "ಕೋಶವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು"
+msgid "Actor"
+msgstr "ನಟ"
 
-msgid "Activates the color"
-msgstr "ಬಣ್ಣವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು"
-
-msgid "Activates the entry"
-msgstr "ನಮೂದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು"
-
-msgid "Activates the expander"
-msgstr "ವಿಸ್ತಾರಕವನ್ನು (ಎಕ್ಸ್‍ಪಾಂಡರ್) ಸಕ್ರಿಯಗೊಳಿಸು"
-
-msgid "Add Cover Page"
-msgstr "ರಕ್ಷಾ ಪುಟವನ್ನು ಸೇರಿಸು"
-
-msgid "Add a class"
-msgstr "ಒಂದು ವರ್ಗವನ್ನು ಸೇರಿಸು"
+msgid "Add"
+msgstr "ಸೇರಿಸು"
 
 msgid "Address"
 msgstr "ವಿಳಾಸ"
 
-msgid "Adjusts the volume"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣವನ್ನು ಹೊಂದಿಸುತ್ತದೆ"
+msgid "Administration"
+msgstr "ನಿರ್ವಹಣೆ"
 
 msgid "Advanced"
-msgstr "ಪ್ರೌಢ"
+msgstr "ಸುಧಾರಿತ"
 
 msgid "After"
 msgstr "ನಂತರ"
 
+msgid "Align"
+msgstr "ಹೊಂದಿಸು"
+
+msgid "All files"
+msgstr "ಎಲ್ಲಾ ಕಡತಗಳು"
+
 msgid "All sheets"
 msgstr "ಎಲ್ಲಾ ಹಾಳೆಗಳು"
 
-msgid "Allocated size"
-msgstr "ನಿಯೋಜಿಸಲಾದ ಗಾತ್ರ"
-
 msgid "Alpha"
-msgstr "ಆಲ್ಫಾ"
+msgstr "ಅಲ್ಫಾ"
 
-msgid "Alt"
-msgstr "Alt"
+msgid "Amount"
+msgstr "ಒಟ್ಟು"
 
-msgid "Aluminum 1"
-msgstr "ಅಲ್ಯುಮಿನಿಯಮ್ 1"
+msgid "Anchor"
+msgstr "ಲಂಗರು"
 
-msgid "Aluminum 2"
-msgstr "ಅಲ್ಯುಮಿನಿಯಮ್ 2"
+msgid "Angle"
+msgstr "ಕೋನ"
 
-msgid "Amharic (EZ+)"
-msgstr "ಆಮ್-ಹೆರಿಕ್ (EZ+)"
-
-msgid "Amount of blue light in the color."
-msgstr "ಬಣ್ಣದಲ್ಲಿನ ನೀಲಿ ಬೆಳಕಿನ ಪ್ರಮಾಣ."
-
-msgid "Amount of green light in the color."
-msgstr "ಬಣ್ಣದಲ್ಲಿನ ಹಸಿರು ಬೆಳಕಿನ ಪ್ರಮಾಣ."
-
-msgid "Amount of red light in the color."
-msgstr "ಬಣ್ಣದಲ್ಲಿನ ಕೆಂಪು ಬೆಳಕಿನ ಪ್ರಮಾಣ."
+msgid "Animation"
+msgstr "ಸಜೀವನ"
 
 msgid "Animations"
-msgstr "ಎನಿಮೇಶನ್‌ಗಳು"
+msgstr "ಸಜೀವನಗಳು(ಎನಿಮೇಶನ್‌ಗಳು)"
 
-msgid "Anonymous tag found and tags can not be created."
-msgstr "ಅನಾಮಿಕ ತಲೆಚೀಟಿಗಳು (Tag) ಕಂಡು ಬಂದಿವೆ ಹಾಗು ತಲೆಚೀಟಿಗಳನ್ನು ರಚಿಸಲಾಗುವುದಿಲ್ಲ."
+msgid "Antialiasing"
+msgstr "ಅಸಮಾನತೆ ದೂರಿಕರಣ"
 
-msgid "Any Printer"
-msgstr "ಯಾವುದೆ ಮುದ್ರಕ"
+msgid "Appearance"
+msgstr "ಗೋಚರಿಕೆ"
 
 msgid "Application"
 msgstr "ಅನ್ವಯ"
 
-msgid "Application menu"
-msgstr "ಅನ್ವಯದ ಮೆನು"
+msgid "Arc"
+msgstr "ಕಂಸ"
 
-msgid "Arch A"
-msgstr "ಆರ್ಚ್ A"
+msgid "Area"
+msgstr "ಪ್ರದೇಶ"
 
-msgid "Arch B"
-msgstr "ಆರ್ಚ್ B"
+msgid "Array"
+msgstr "ವ್ಯೂಹ(array)"
 
-msgid "Arch C"
-msgstr "ಆರ್ಚ್ C"
+msgid "Arrow"
+msgstr "ಬಾಣ"
 
-msgid "Arch D"
-msgstr "ಆರ್ಚ್ D"
-
-msgid "Arch E"
-msgstr "ಆರ್ಚ್ E"
-
-msgid "Artistic License 2.0"
-msgstr "Artistic License 2.0"
-
-msgid "Artwork by"
-msgstr "ಕುಶಲಕಾರ್ಯಗೊಳಿಸಿದವರು"
+msgid "Article"
+msgstr "ಲೇಖನ"
 
 msgid "Attribute"
 msgstr "ಗುಣವಿಶೇಷ"
 
-msgid "Attribute mapping"
-msgstr "ಗುಣವಿಶೇಷದ ಮ್ಯಾಪಿಂಗ್"
-
-msgid "AudioLowerVolume"
-msgstr "AudioLowerVolume"
-
-msgid "AudioMedia"
-msgstr "AudioMedia"
-
-msgid "AudioMicMute"
-msgstr "AudioMicMute"
-
-msgid "AudioMute"
-msgstr "AudioMute"
-
-msgid "AudioNext"
-msgstr "AudioNext"
-
-msgid "AudioPause"
-msgstr "AudioPause"
-
-msgid "AudioPlay"
-msgstr "AudioPlay"
-
-msgid "AudioPrev"
-msgstr "AudioPrev"
-
-msgid "AudioRaiseVolume"
-msgstr "AudioRaiseVolume"
-
-msgid "AudioRecord"
-msgstr "AudioRecord"
-
-msgid "AudioRewind"
-msgstr "AudioRewind"
-
-msgid "AudioStop"
-msgstr "AudioStop"
-
 msgid "Authentication"
 msgstr "ದೃಢೀಕರಣ"
 
-msgid "Authentication is required to get attributes of a job"
-msgstr "ಒಂದು ಕಾರ್ಯದ ಗುಣವಿಶೇಷಗಳನ್ನು ಪಡೆಯಲು ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
+msgid "Author"
+msgstr "ಕತೃ"
 
-msgid "Authentication is required to get attributes of a printer"
-msgstr "ಒಂದು ಮುದ್ರಕದ ಗುಣವಿಶೇಷಗಳನ್ನು ಪಡೆಯಲು ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
+msgid "Automatic"
+msgstr "ತಾನಾಗಿಯೆ"
 
-msgid "Authentication is required to get attributes of job '%{string}'"
-msgstr "'%{string}' ಕಾರ್ಯದ ಗುಣವಿಶೇಷಗಳನ್ನು ಪಡೆಯಲು ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
+msgid "Average"
+msgstr "ಸರಾಸರಿ"
 
-msgid "Authentication is required to print document '%{string}'"
-msgstr "'%{string}' ದಸ್ತಾವೇಜನ್ನು ಮುದ್ರಿಸಲು ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
-
-msgid "Authentication is required to print this document"
-msgstr "ಈ ದಸ್ತಾವೇಜನ್ನು ಮುದ್ರಿಸಲು ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ"
-
-msgid "Auto Select"
-msgstr "ಸ್ವಯಂಚಾಲಿತ ಆಯ್ಕೆ"
-
-msgid "B0"
-msgstr "B0"
-
-msgid "B1"
-msgstr "B1"
-
-msgid "B10"
-msgstr "B10"
-
-msgid "B2"
-msgstr "B2"
-
-msgid "B3"
-msgstr "B3"
-
-msgid "B4"
-msgstr "B4"
-
-msgid "B5"
-msgstr "B5"
-
-msgid "B5 Extra"
-msgstr "B5 ಎಕ್ಸ್‍ಟ್ರಾ"
-
-msgid "B6"
-msgstr "B6"
-
-msgid "B6/C4"
-msgstr "B6/C4"
-
-msgid "B7"
-msgstr "B7"
-
-msgid "B8"
-msgstr "B8"
-
-msgid "B9"
-msgstr "B9"
-
-msgid "BSD 2-Clause License"
-msgstr "BSD 2-Clause License"
+msgid "Axis"
+msgstr "ಅಕ್ಷ"
 
 msgid "Back"
-msgstr "ಹಿಂದಕ್ಕೆ"
+msgstr "ಹಿಂದೆ"
 
-msgid "BackSpace"
-msgstr "BackSpace"
+msgid "Background"
+msgstr "ಹಿನ್ನೆಲೆ"
 
-msgid "Backend does not support window scaling"
-msgstr "ಹಿನ್ನಲೆಯನ್ನು ಬ್ಯಾಕ್‌ಎಂಡ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"
+msgid "Background Color"
+msgstr "ಹಿನ್ನೆಲೆಯ ಬಣ್ಣ"
 
-msgid "Backslash"
-msgstr "Backslash"
+msgid "Background color"
+msgstr "ಹಿನ್ನೆಲೆ ಬಣ್ಣ"
 
-msgid "Battery"
-msgstr "ಬ್ಯಾಟರಿ"
-
-msgid "Be_fore:"
-msgstr "ಇದಕ್ಕೂ ಮೊದಲು (_f):"
+msgid "Base"
+msgstr "ಬೇಸ್"
 
 msgid "Before"
-msgstr "ಈ ಮೊದಲು"
+msgstr "ಮೊದಲು"
 
-msgid "Begin"
-msgstr "ಆರಂಭಿಸು"
+msgid "Binary"
+msgstr "ಬೈನರಿ"
 
-msgid "Best _Fit"
-msgstr "ಸರಿಯಾಗಿ ಹೊಂದಿಕೆ (_F)"
+msgid "Binding"
+msgstr "ಬೈಂಡಿಂಗ್"
 
-msgid "Billing Info"
-msgstr "ಬಿಲ್ಲು ಮಾಡುವ ಮಾಹಿತಿ"
-
-msgid "Binding:"
-msgstr "ಬೈಂಡಿಂಗ್:"
+msgid "Bitmap"
+msgstr "ಬಿಟ್‌ಮ್ಯಾಪ್"
 
 msgid "Black"
 msgstr "ಕಪ್ಪು"
 
-msgid "Blocking on issue"
-msgstr "ತೊಂದರೆಯ ಕಾರಣದಿಂದಾಗಿ ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತಿದೆ"
+msgid "Black & white"
+msgstr "ಕಪ್ಪು ಮತ್ತು ಬಿಳುಪು"
+
+msgid "Blank"
+msgstr "ಖಾಲಿ"
+
+msgid "Blue"
+msgstr "ನೀಲಿ"
+
+msgid "Bold"
+msgstr "ಬೋಲ್ಡ್‍"
 
 msgid "Bookmarks"
 msgstr "ಪುಟಗುರುತುಗಳು"
 
+msgid "Border"
+msgstr "ಅಂಚು"
+
 msgid "Both"
 msgstr "ಎರಡೂ"
 
-msgid "Bottom to top"
-msgstr "ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ"
+msgid "Box"
+msgstr "ಚೌಕ"
 
-msgid "Bottom to top, left to right"
-msgstr "ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ, ಎಡದಿಂದ ಬಲಕ್ಕೆ"
+msgid "Browse"
+msgstr "ವೀಕ್ಷಿಸು"
 
-msgid "Bottom to top, right to left"
-msgstr "ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ, ಬಲದಿಂದ ಎಡಕ್ಕೆ"
-
-msgid "Bourne Again Shell"
-msgstr "ಬಾರ್ನ್ ಅಗೇನ್ ಶೆಲ್"
-
-msgid "Bourne Shell"
-msgstr "ಬಾರ್ನ್ ಶೆಲ್"
-
-msgid "Brightness of the color."
-msgstr "ಬಣ್ಣದ ಹೊಳಪು."
-
-msgid "Browse Network"
-msgstr "ಜಾಲಬಂಧದಲ್ಲಿ ವೀಕ್ಷಿಸಿ"
-
-msgid "Browse the contents of the network"
-msgstr "ಜಾಲಬಂಧದಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+msgid "Brush"
+msgstr "ಕುಂಚ"
 
 msgid "Bubble"
 msgstr "ಗುಳ್ಳೆ"
 
-msgid "Buildable ID"
-msgstr "ನಿರ್ಮಿಸಬಹುದಾದ ID"
+msgid "Bullet"
+msgstr "ಅಂಶಸೂಚಕ(ಬುಲೆಟ್)"
 
-msgid "Butter"
-msgstr "ಬೆಣ್ಣೆ"
+msgid "Busy"
+msgstr "ಕಾರ್ಯನಿರತ"
 
-msgid "C0"
-msgstr "C0"
+msgid "Button"
+msgstr "ಗುಂಡಿ"
 
-msgid "C1"
-msgstr "C1"
+msgid "C"
+msgstr "C"
 
-msgid "C10"
-msgstr "C10"
+msgid "CMYK"
+msgstr "CMYK"
 
-msgid "C2"
-msgstr "C2"
-
-msgid "C3"
-msgstr "C3"
-
-msgid "C4"
-msgstr "C4"
-
-msgid "C5"
-msgstr "C5"
-
-msgid "C6"
-msgstr "C6"
-
-msgid "C6/C5"
-msgstr "C6/C5"
-
-msgid "C7"
-msgstr "C7"
-
-msgid "C7/C6"
-msgstr "C7/C6"
-
-msgid "C8"
-msgstr "C8"
-
-msgid "C9"
-msgstr "C9"
-
-msgid "CLASS"
-msgstr "CLASS"
-
-msgid "COLORS"
-msgstr "ಬಣ್ಣಗಳು"
-
-msgid "CSS Classes"
-msgstr "CSS ವರ್ಗಗಳು"
-
-msgid "C_ollate"
-msgstr "ತಾಳೆ ನೋಡು (_o)"
-
-msgid "C_onnect"
-msgstr "ಸಂಪರ್ಕ ಕಲ್ಪಿಸು (_o)"
-
-msgid "C_urrent Page"
-msgstr "ಈಗಿನ ಪುಟ (_u)"
-
-msgid "Cache file created successfully.\n"
-msgstr "ಕ್ಯಾಶೆಯು ಯಶಸ್ವಿಯಾಗಿ ರಚಿತಗೊಂಡಿದೆ.\n"
+msgid "Calendar"
+msgstr "ಕ್ಯಾಲೆಂಡರ್"
 
 msgid "Cancel"
 msgstr "ರದ್ದು ಮಾಡು"
 
-msgid "Cannot change to folder because it is not local"
-msgstr "ಕಡತಕೋಶಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಅದು ಸ್ಥಳಿಯವಲ್ಲ"
+msgid "Caption"
+msgstr "ಶೀರ್ಷಿಕೆ"
 
-msgid "Cannot create a file under %{string} as it is not a folder"
-msgstr "%{string} ಅಡಿಯಲ್ಲಿ ಒಂದು ಕಡತವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಅದು ಒಂದು ಕಡತಕೋಶವಲ್ಲ"
+msgid "Categories"
+msgstr "ಪಂಗಡಗಳು"
 
-msgid "Cannot create file as the filename is too long"
-msgstr "ಕಡತವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಕಡತದ ಹೆಸರು ಬಹಳ ಉದ್ದವಾಗಿದೆ"
+msgid "Cell"
+msgstr "ಕೋಶ‌ಗಳು"
 
-msgid "Cannot kill process with PID %{number}. Operation is not implemented."
-msgstr "%{number} PID ಅನ್ನು ಹೊಂದಿದ ಪ್ರಕ್ರಿಯೆಯನ್ನು ನಿಲ್ಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕಾರ್ಯವನ್ನು ಅನ್ವಯಿಸಲಾಗಿಲ್ಲ."
+msgid "Center"
+msgstr "ಮಧ್ಯ"
 
-msgid "Capacity"
-msgstr "ಸಾಮರ್ಥ್ಯ"
+msgid "Centered"
+msgstr "ಮಧ್ಯಕ್ಕೆ ಹೊಂದಿಸಿದ"
 
-msgid "Caps Lock is on"
-msgstr "Caps Lock ಚಾಲಿತವಾಗಿದೆ"
+msgid "Character set"
+msgstr "ಅಕ್ಷರ ಗಣ"
 
-msgid "Capture"
-msgstr "ಸೆರೆಹಿಡಿ"
+msgid "Circle"
+msgstr "ವೃತ್ತ"
 
-msgid "Cedilla"
-msgstr "ಸೆಡಿಲ್ಲಾ"
+msgid "Clear"
+msgstr "ತೆರವುಗೊಳಿಕೆ"
 
-msgid "Cell charge"
-msgstr "ಸೆಲ್ ವ್ಯಾಪ್ತಿ"
-
-msgid "Cell phone"
-msgstr "ಸೆಲ್ ಫೋನ್"
-
-msgid "Cell phones"
-msgstr "ಸೆಲ್ ಫೋನ್‌ಗಳು"
-
-msgid "Chameleon"
-msgstr "ಊಸರವಳ್ಳಿ"
-
-msgid "Changes are applied instantly and globally, for the whole application."
-msgstr "ಬದಲಾವಣೆಗಳನ್ನು ಸಂಪೂರ್ಣ ಅನ್ವಯಕ್ಕಾಗಿ ತಕ್ಷಣ ಮತ್ತು ಸಾರ್ವತ್ರಿಕವಾಗಿ ಅಳವಡಿಸಲಾಗುತ್ತದೆ."
-
-msgid "Changes are applied instantly, only for this selected widget."
-msgstr "ಬದಲಾವಣೆಗಳನ್ನು ತಕ್ಷಣ ಅಳವಡಿಸಲಾಗುತ್ತದೆ, ಕೇವಲ ಆಯ್ಕೆ ಮಾಡಿದ ವಿಜೆಟ್‌ಗಾಗಿ ಮಾತ್ರ."
-
-msgid "Charge"
-msgstr "ಚಾರ್ಜ್"
-
-msgid "Charge accuracy"
-msgstr "ಚಾರ್ಜ್ ನಿಖರತೆ"
-
-msgid "Charge profile"
-msgstr "ಚಾರ್ಜ್ ಪ್ರೊಫೈಲ್‌"
-
-msgid "Charged"
-msgstr "ಚಾರ್ಜ್ ಆಗಿದೆ"
-
-msgid "Charging"
-msgstr "ಚಾರ್ಜ್ ಆಗುವಿಕೆ"
-
-msgid "Child Properties"
-msgstr "ಉಪ ಗುಣಗಳು"
-
-msgid "Chocolate"
-msgstr "ಚಾಕೋಲೇಟ್"
-
-msgid "Choose a widget through the inspector"
-msgstr "ಇನ್‌ಸ್ಪೆಕ್ಟರ್‌ ಮುಖಾಂತರ ಒಂದು ವಿಜೆಟ್ ಅನ್ನು ಆರಿಸಿ"
-
-msgid "Choukei 2 Envelope"
-msgstr "Choukei 2 ಲಕೋಟೆ"
-
-msgid "Choukei 3 Envelope"
-msgstr "Choukei 3 ಲಕೋಟೆ"
-
-msgid "Choukei 4 Envelope"
-msgstr "Choukei 4 ಲಕೋಟೆ"
-
-msgid "Class name"
-msgstr "ವರ್ಗದ ಹೆಸರು"
-
-msgid "Classified"
-msgstr "ವರ್ಗೀಕೃತವಾದದ್ದು"
-
-msgid "Clear log"
-msgstr "ಲಾಗ್ ಅನ್ನು ತೆರವುಗೊಳಿಸು"
-
-msgid "Click"
-msgstr "ಕ್ಲಿಕ್"
-
-msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
-msgstr "ಐಡ್ರಾಪರನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ, ನಂತರ ನಿಮ್ಮ್ ತೆರೆಯಲ್ಲಿನ ಯಾವುದೆ ಬಣ್ಣವನ್ನು ಕ್ಲಿಕ್ಕಿಸುವ ಮೂಲಕ ಆ ಬಣ್ಣವನ್ನು ಆರಿಸಿ."
-
-msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
-msgstr "ಈ ವರ್ಣಫಲಕ ನಮೂದನ್ನು ಕ್ಲಿಕ್ಕಿಸುವ ಮೂಲಕ ಅದನ್ನು ಚಾಲ್ತಿಗೊಳಿಸಿ. ಈ ನಮೂದನ್ನು ಬದಲಾಯಿಸಲು, ಒಂದು ಬಣ್ಣ ನಮೂದನ್ನು ಇಲ್ಲಿಗೆ ಸೇರಿಸಿ ಅಥವ ಅದರ ಮೇಲೆ ಬಲಕ್ಲಿಕ್ಕಿಸಿ ಹಾಗು \"ಬಣ್ಣವನ್ನು ಇಲ್ಲಿ ಉಳಿಸಿ.\" ಅನ್ನು ಆರಿಸಿ."
-
-msgid "Clicks the button"
-msgstr "ಗುಂಡಿಯನ್ನು ಕ್ಲಿಕ್‌ ಮಾಡುತ್ತದೆ"
-
-msgid "Clicks the menuitem"
-msgstr "ಮೆನುಅಂಶವನ್ನು ಕ್ಲಿಕ್ ಮಾಡುತ್ತದೆ"
+msgid "Clipboard"
+msgstr "ನಕಲು ಫಲಕ"
 
 msgid "Close"
 msgstr "ಮುಚ್ಚು"
@@ -676,29 +268,17 @@ msgstr "ಮುಚ್ಚು"
 msgid "Co_nnect"
 msgstr "ಸಂಪರ್ಕ ಕಲ್ಪಿಸು (_n)"
 
+msgid "Collate"
+msgstr "ತಾಳೆ ನೋಡು"
+
+msgid "Collect"
+msgstr "ಸಂಗ್ರಹಿಸು"
+
 msgid "Color"
 msgstr "ಬಣ್ಣ"
 
-msgid "Color Name"
-msgstr "ಬಣ್ಣದ ಹೆಸರು"
-
-msgid "Color Plane"
-msgstr "ಬಣ್ಣದ ಸಮತಲ"
-
-msgid "Color Selection"
-msgstr "ಬಣ್ಣದ ಆಯ್ಕೆ"
-
-msgid "Color Wheel"
-msgstr "ಬಣ್ಣದ ಚಕ್ರ"
-
-msgid "Color _name:"
-msgstr "ಬಣ್ಣದ ಹೆಸರು (_n):"
-
-msgid "Color management unavailable"
-msgstr "ಬಣ್ಣ ನಿರ್ವಹಣೆಯು ಲಭ್ಯವಿಲ್ಲ"
-
-msgid "Column:"
-msgstr "ಲಂಬಸಾಲು:"
+msgid "Colors"
+msgstr "ಬಣ್ಣ"
 
 msgid "Command"
 msgstr "ಆಜ್ಞೆ"
@@ -706,104 +286,80 @@ msgstr "ಆಜ್ಞೆ"
 msgid "Command Line"
 msgstr "ಆಜ್ಞಾ ಸಾಲು"
 
+msgid "Comment"
+msgstr "ಟಿಪ್ಪಣಿ ವಾಖ್ಯೆ ಟೀಕಿಸು ವ್ಯಾಖ್ಯನಿಸು"
+
+msgid "Comments"
+msgstr "ಟಿಪ್ಪಣಿ ವಾಖ್ಯೆ ಟೀಕಿಸು ವ್ಯಾಖ್ಯನಿಸು"
+
 msgid "Computer"
 msgstr "ಗಣಕ"
 
 msgid "Computers"
 msgstr "ಗಣಕಗಳು"
 
+msgid "Concatenate"
+msgstr "ಒಟ್ಟಿಗೆ ಪೋಣಿಸು"
+
+msgid "Condition"
+msgstr "ನಿಬಂಧನೆ"
+
 msgid "Confidential"
-msgstr "ಗೌಪ್ಯವಾದ"
+msgstr "ಗೌಪ್ಯ"
 
-msgid "Connect As"
-msgstr "ಸಂಪರ್ಕ ಜೋಡಿಸು"
+msgid "Configuration"
+msgstr "ಸಂರಚನೆ"
 
-msgid "Connect to Server"
-msgstr "ಪೂರೈಕೆಗಣಕಕ್ಕೆ ಸಂಪರ್ಕಜೋಡಿಸು"
+msgid "Confirmation"
+msgstr "ಖಚಿತತೆ"
 
-msgid "Connect to a network server address"
-msgstr "ಒಂದು ಜಾಲಬಂಧ ವಿಳಾಸಕ್ಕೆ ಸಂಪರ್ಕಸಾಧಿಸಿ"
+msgid "Constraint"
+msgstr "ನಿರ್ಬಂಧ"
 
-msgid "Connected"
-msgstr "ಸಂಪರ್ಕಿತಗೊಂಡಿದೆ"
+msgid "Content"
+msgstr "ವಿಷಯಗಳು"
 
-msgid "Convert to PS level 1"
-msgstr "PS ಹಂತ 1 ಕ್ಕೆ ಮಾರ್ಪಡಿಸು"
+msgid "Context"
+msgstr "ಸನ್ನಿವೇಶ"
 
-msgid "Convert to PS level 2"
-msgstr "PS ಹಂತ 2 ಕ್ಕೆ ಮಾರ್ಪಡಿಸು"
+msgid "Continue"
+msgstr "ಮುಂದುವರೆ"
 
-msgid "Copie_s:"
-msgstr "ಪ್ರತಿಗಳು (_s):"
+msgid "Control"
+msgstr "ನಿಯಂತ್ರಣ"
 
-msgid "Copies"
-msgstr "ಪ್ರತಿಗಳು"
+msgid "Controls"
+msgstr "ನಿಯಂತ್ರಣಗಳು"
 
-msgid "Copy URL"
-msgstr "URL ಅನ್ನು ನಕಲಿಸು"
+msgid "Copy"
+msgstr "ಕಾಪಿ ಮಾಡಿ"
 
-msgid "Copy _Link Address"
-msgstr "ಕೊಂಡಿ ವಿಳಾಸವನ್ನು ಪ್ರತಿ ಮಾಡು (_L)"
+msgid "Correlation"
+msgstr "ಸಹಸಂಬಂಧ"
 
-msgid "Copy _Location"
-msgstr "ಇಲ್ಲಿಗೆ ನಕಲಿಸು (_L)"
+msgid "Cosine"
+msgstr "ಕೊಸೈನ್"
 
-msgid "Correction factor"
-msgstr "ಸರಿಪಡಿಸುವಿಕೆಯ ಅಂಶ"
-
-msgid "Could not clear list"
-msgstr "ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಿ(clear) ಹಾಕಲಾಗಿಲ್ಲ"
-
-msgid "Could not read the contents of the folder"
-msgstr "ಕಡತಕೋಶದಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ಓದಲಾಗಿಲ್ಲ"
-
-msgid "Could not remove item"
-msgstr "ಅಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿಲ್ಲ"
-
-msgid "Could not rename %{string} back to %{string}: %{string}.\n"
-msgstr "%{string} ಅನ್ನು %{string} ಎಂದು ಮರಳಿ ಪುನರ್ ನಾಮಕರಣ ಮಾಡಲಾಗಿಲ್ಲ: %{string}.\n"
-
-msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
-msgstr "%{string} ಅನ್ನು %{string} ಗೆ ಪುನರ್ ನಾಮಕರಣ ಮಾಡಲಾಗಿಲ್ಲ: %{string}, %{string} ಅನ್ನು ತೆಗೆಯಲಾಗುತ್ತಿದೆ\n"
-
-msgid "Could not rename %{string} to %{string}: %{string}\n"
-msgstr "%{string} ಅನ್ನು %{string} ಗೆ ಪುನರ್ ನಾಮಕರಣ ಮಾಡಲಾಗಿಲ್ಲ: %{string}.\n"
-
-msgid "Could not select file"
-msgstr "ಕಡತವನ್ನು ಆರಿಸಲಾಗಿಲ್ಲ"
-
-msgid "Could not send the search request"
-msgstr "ಶೋಧನೆಯ ಮನವಿಯನ್ನು ಕಳುಹಿಸಲಾಗಿಲ್ಲ್ಲ"
-
-msgid "Could not show link"
-msgstr "ಕೊಂಡಿಯನ್ನು ತೋರಿಸಲಾಗಿಲ್ಲ"
-
-msgid "Could not start the search process"
-msgstr "ಶೋಧಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಆರಂಭಿಸಲಾಗಿಲ್ಲ"
+msgid "Cost"
+msgstr "ಬೆಲೆ"
 
 msgid "Count"
 msgstr "ಎಣಿಕೆ"
 
-msgid "Count:"
-msgstr "ಎಣಿಕೆ:"
+msgid "Covariance"
+msgstr "ಮಾರ್ಪಿನ ಗುಣಾಂಕ"
 
-msgid "Create Fo_lder"
-msgstr "ಕಡತಕೋಶವನ್ನು ಸೃಷ್ಟಿಸು (_l)"
-
-msgid "Create a custom color"
-msgstr "ಅಗತ್ಯಾನುಗುಣ ಬಣ್ಣವನ್ನು ರಚಿಸು"
+msgid "Create"
+msgstr "ರಚಿಸು"
 
 msgid "Created by"
-msgstr "ರಚಿಸಿದರು"
+msgstr "ರಚನೆ"
 
-msgid "Creates a widget in which the contents of the cell can be edited"
-msgstr "ಕೋಶದಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ಸಂಪಾದಿಸಬಹುದಾದ ವಿಜೆಟ್ ಅನ್ನು ರಚಿಸುತ್ತದೆ"
+msgid "Crop"
+msgstr "ಅಂದಗೊಳಿಸು"
 
-msgid "Creating AppInfo from id not supported on non unix operating systems"
-msgstr "unix ಅಲ್ಲದ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆಯಿಂದ id ಇಂದ AppInfo ಅನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
-
-msgid "Credits"
-msgstr "ಮನ್ನಣೆಗಳು"
+msgid "Crop Image"
+msgstr "ಚಿತ್ರವನ್ನು ಓರಣಗೊಳಿಸು"
 
 msgid "Ctrl"
 msgstr "Ctrl"
@@ -811,107 +367,71 @@ msgstr "Ctrl"
 msgid "Cu_t"
 msgstr "ಕತ್ತರಿಸು (_t)"
 
+msgid "Cumulative"
+msgstr "ಸಂಚಿತ"
+
+msgid "Current"
+msgstr "ಪ್ರಸಕ್ತ"
+
+msgid "Curve"
+msgstr "ವಕ್ರರೇಖೆ"
+
 msgid "Custom"
-msgstr "ಅಗತ್ಯಾನುಗುಣ"
-
-msgid "Custom CSS"
-msgstr "ಕಸ್ಟಮ್ CSS"
-
-msgid "Custom License"
-msgstr "ಅಗತ್ಯಾನುಗುಣ ಪರವಾನಗಿ"
+msgstr "ಇಚ್ಛೆಯ:"
 
 msgid "Custom color"
 msgstr "ಅಗತ್ಯಾನುಗುಣ ಬಣ್ಣ"
 
-msgid "Custom size"
-msgstr "ಅಗತ್ಯಾನುಗುಣ ಗಾತ್ರ"
-
 msgid "Customize"
-msgstr "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು"
+msgstr "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ"
 
-msgid "Customizes the color"
-msgstr "ಬಣ್ಣವನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು"
+msgid "Cut"
+msgstr "ಕತ್ತರಿಸು"
 
-msgid "Cyrillic (Transliterated)"
-msgstr "ಸಿರಿಲಿಕ್ (ಲಿಪ್ಯಂತರ ಮಾಡಲಾಗಿದ್ದು)"
-
-msgid "DISPLAY"
-msgstr "DISPLAY"
+msgid "Cyan"
+msgstr "ನೀಲಿ ಹಸಿರು"
 
 msgid "DL Envelope"
 msgstr "DL ಲಕೋಟೆ"
 
-msgid "Dai-pa-kai"
-msgstr "Dai-pa-kai"
-
-msgid "Dark Aluminum 1"
-msgstr "ಗಾಢ ಅಲ್ಯುಮಿನಿಯಮ್ 1"
-
-msgid "Dark Aluminum 2"
-msgstr "ಗಾಢ ಅಲ್ಯುಮಿನಿಯಮ್ 2"
-
-msgid "Dark Butter"
-msgstr "ಗಾಢ ಬೆಣ್ಣೆ"
-
-msgid "Dark Chameleon"
-msgstr "ಗಾಢ ಊಸರವಳ್ಳಿ"
-
-msgid "Dark Chocolate"
-msgstr "ಗಾಢ ಚಾಕೋಲೇಟ್"
-
-msgid "Dark Gray"
-msgstr "ಗಾಢ ಬೂದು"
-
-msgid "Dark Orange"
-msgstr "ಗಾಢ ಕಿತ್ತಳೆ"
-
-msgid "Dark Plum"
-msgstr "ಗಾಢ ಪ್ಲಮ್"
-
-msgid "Dark Scarlet Red"
-msgstr "ಗಾಢ ಕಡು ಕೆಂಪು"
-
-msgid "Dark Sky Blue"
-msgstr "ಗಾಢ ಆಕಾಶ ನೀಲಿ"
-
-msgid "Dark variant"
-msgstr "ಗಾಢ ವೇರಿಯಂಟ್"
-
-msgid "Darker Gray"
-msgstr "ಅತಿ ಗಾಢ ಬೂದು"
-
 msgid "Data"
-msgstr "ಮಾಹಿತಿ"
+msgstr "ದತ್ತ"
 
-msgid "Data length:"
-msgstr "ದತ್ತಾಂಶದ ಉದ್ದ:"
+msgid "Date"
+msgstr "ದಿನಾಂಕ"
+
+msgid "Debug"
+msgstr "ದೋಷ ನಿವಾರಣೆ"
 
 msgid "Decrease Indent"
-msgstr "ಇಂಡೆಂಟನ್ನು ಕಡಿಮೆಗೊಳಿಸು"
-
-msgid "Decreases the volume"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ"
+msgstr "ಇಂಡೆಂಟ್‌ ಅನ್ನು ಕಡಿಮೆ ಮಾಡು"
 
 msgid "Default"
 msgstr "ಪೂರ್ವನಿಯೋಜಿತ"
 
-msgid "Default Application"
-msgstr "ಪೂರ್ವನಿಯೋಜಿತ ಅನ್ವಯ"
-
-msgid "Default Widget"
-msgstr "ಪೂರ್ವನಿಯೋಜಿತ ವಿಜೆಟ್"
-
-msgid "Defined At"
-msgstr "ಇಲ್ಲಿ ಸೂಚಿಸಲಾಗಿರುವ"
+msgid "Delay"
+msgstr "ವಿಳಂಬ"
 
 msgid "Delete"
 msgstr "ಅಳಿಸು"
 
+msgid "Delete layer"
+msgstr "ಪದರ ಅಳಿಸು"
+
 msgid "Description"
-msgstr "ವಿವರಣೆ"
+msgstr "ವರ್ಣನೆ"
+
+msgid "Description..."
+msgstr "ವರ್ಣನೆ"
+
+msgid "Design"
+msgstr "ವಿನ್ಯಾಸ"
 
 msgid "Desktop"
 msgstr "ಗಣಕತೆರೆ"
+
+msgid "Destination"
+msgstr "ಗಮ್ಯಸ್ಥಾನ"
 
 msgid "Details"
 msgstr "ವಿವರಗಳು"
@@ -919,341 +439,257 @@ msgstr "ವಿವರಗಳು"
 msgid "Device"
 msgstr "ಸಾಧನ"
 
-msgid "Device History"
-msgstr "ಸಾಧನದ ಇತಿಹಾಸ"
-
-msgid "Device Information"
-msgstr "ಸಾಧನದ ಮಾಹಿತಿ"
-
-msgid "Device Profile"
-msgstr "ಸಾಧನದ ಪ್ರೊಫೈಲ್‌"
-
 msgid "Devices"
 msgstr "ಸಾಧನಗಳು"
 
-msgid "Dialog is locked.\nClick to make changes"
-msgstr "ಸಂವಾದವನ್ನು ಲಾಕ್ ಮಾಡಲಾಗಿದೆ.\nಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+msgid "Diagonal"
+msgstr "ಕರ್ಣ"
 
-msgid "Dialog is unlocked.\nClick to prevent further changes"
-msgstr "ಸಂವಾದವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲಾಗಿದೆ.\nಹೆಚ್ಚಿನ ಬದಲಾವಣೆಗಳನ್ನು ತಡೆಯಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+msgid "Diagram"
+msgstr "ಡಯಾಗ್ರಾಮ್"
 
-msgid "Disable this custom CSS"
-msgstr "ಕಸ್ಟಮ್‌ CSS ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು"
+msgid "Dialogs"
+msgstr "ಸಂವಾದಗಳು"
 
-msgid "Disabled"
-msgstr "ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ"
+msgid "Difference"
+msgstr "ವ್ಯತ್ಯಾಸ"
 
-msgid "Discharge accuracy"
-msgstr "ಡಿಸ್‌ಚಾರ್ಜ್ ನಿಖರತೆ"
+msgid "Digits"
+msgstr "ಅಂಕೆಗಳು"
 
-msgid "Discharge profile"
-msgstr "ಡಿಸ್‌ಚಾರ್ಜ್ ಪ್ರೊಫೈಲ್"
+msgid "Dimensions"
+msgstr "ಆಯಾಮಗಳು"
 
-msgid "Discharging"
-msgstr "ಡಿಸ್‌ಚಾರ್ಜ್ ಆಗುವಿಕೆ"
+msgid "Direction"
+msgstr "ದಿಕ್ಕು"
+
+msgid "Directory"
+msgstr "ಕೋಶ"
+
+msgid "Disc"
+msgstr "ಡಿಸ್ಕ್‍"
 
 msgid "Dismiss"
 msgstr "ವಜಾಗೊಳಿಸು"
 
-msgid "Dismisses the slider"
-msgstr "ಸ್ಲೈಡರ್ ಅನ್ನು ವಜಾಮಾಡುತ್ತದೆ"
-
 msgid "Display"
-msgstr "ಪ್ರದರ್ಶಕ"
+msgstr "ಪ್ರದರ್ಶಿಸು"
 
-msgid "Do use the Wintab API [default]"
-msgstr "Wintab API ಅನ್ನು ಬಳಸಬೇಡಿ [ಪೂರ್ವನಿಯೋಜಿತ]"
+msgid "Dock"
+msgstr "ಡಾಕ್ ಮಾಡು"
 
-msgid "Do you want to use GTK+ Inspector?"
-msgstr "ನೀವು GTK+ ಇನ್‌ಸ್ಪೆಕ್ಟರ್‌ ಅನ್ನು ಬಳಸಲು ಬಯಸುವಿರಾ?"
+msgid "Document"
+msgstr "ದಸ್ತಾವೇಜು"
 
-msgid "Documented by"
-msgstr "ದಸ್ತಾವೇಜುಗೊಳಿಸಿದವರು"
+msgid "Documents"
+msgstr "ದಸ್ತಾವೇಜುಗಳು"
 
-msgid "Domain:"
-msgstr "ಕ್ಷೇತ್ರ:"
-
-msgid "Don't batch GDI requests"
-msgstr "GDI ಮನವಿಗಳನ್ನು ವರ್ಗೀಕರಿಸಬೇಡಿ"
-
-msgid "Don't check for the existence of index.theme"
-msgstr "index.theme ನ ಅಸ್ತಿತ್ವವನ್ನು ಪರೀಕ್ಷೆ ಮಾಡಬೇಡ"
-
-msgid "Don't include image data in the cache"
-msgstr "ಚಿತ್ರ ದತ್ತಾಂಶವನ್ನು ಕ್ಯಾಶೆಯಲ್ಲಿ ಅಡಕಗೊಳಿಸಬೇಡ"
-
-msgid "Don't use the Wintab API for tablet support"
-msgstr "tablet ಬೆಂಬಲಕ್ಕೆ Wintab API ಅನ್ನು ಬಳಸಬೇಡಿ"
-
-msgid "Dormant"
-msgstr "ಸುಪ್ತ"
+msgid "Dot"
+msgstr "ಚುಕ್ಕಿ"
 
 msgid "Down"
 msgstr "ಕೆಳಗೆ"
 
-msgid "Down Path"
-msgstr "ಕೆಳಗಿನ ಪಥ"
-
-msgid "Duplicate object ID '%{string}' on line %{number} (previously on line %{number})"
-msgstr "ನಕಲಿ ಆಬ್ಜೆಕ್ಟ್‍ ID '%{string}', %{number} ಸಾಲಿನಲ್ಲಿ (ಈ ಮೊದಲು %{number} ಸಾಲಿನಲ್ಲಿತ್ತು)"
+msgid "E-mail"
+msgstr "ವಿದ್ಯುನ್ಮಾಮ ಅಂಚೆ"
 
 msgid "Edit"
 msgstr "ಸಂಪಾದಿಸು"
 
-msgid "Embed GhostScript fonts only"
-msgstr "ಹುದುಗಿಸಲಾದ GhostScript ಅಕ್ಷರಶೈಲಿಗಳು ಮಾತ್ರ"
+msgid "Effects"
+msgstr "ಪರಿಣಾಮಗಳು"
 
 msgid "Empty"
 msgstr "ಖಾಲಿ"
 
 msgid "Enabled"
-msgstr "ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ"
+msgstr "ಶಕ್ತಗೊಂಡಿದೆ"
+
+msgid "Encoding"
+msgstr "ಎನ್‌ಕೋಡಿಂಗ್"
 
 msgid "End"
-msgstr "ಅಂತ್ಯಗೊಳಿಸು"
+msgstr "ಅಂತ್ಯ"
 
-msgid "Energy"
-msgstr "ಶಕ್ತಿ"
-
-msgid "Energy (design)"
-msgstr "ಶಕ್ತಿ (ವಿನ್ಯಾಸ)"
-
-msgid "Energy when empty"
-msgstr "ಖಾಲಿ ಇದ್ದಾಗಿನ ಶಕ್ತಿ"
-
-msgid "Energy when full"
-msgstr "ತುಂಬಿದಾಗಿನ ಶಕ್ತಿ"
-
-msgid "Enter Location"
-msgstr "ಸ್ಥಳವನ್ನು ನಮೂದಿಸಿ"
+msgid "Equation"
+msgstr "ಸಮೀಕರಣ"
 
 msgid "Error"
 msgstr "ದೋಷ"
 
-msgid "Error creating print preview"
-msgstr "ಮುದ್ರಣ ಮುನ್ನೋಟವನ್ನು ತೋರಿಸುವಲ್ಲಿ ದೋಷ"
-
-msgid "Error from StartDoc"
-msgstr "StartDoc ನಿಂದ ದೋಷ"
-
-msgid "Error launching preview"
-msgstr "ಮುನ್ನೋಟವನ್ನು ತೋರಿಸುವಲ್ಲಿ ದೋಷ"
-
-msgid "Error parsing commandline options: %{string}\n"
-msgstr "ಆಜ್ಞಾ ಸಾಲಿನ ಆಯ್ಕೆಗಳನ್ನು ಪಾರ್ಸ್ ಮಾಡುವಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ: %{string}\n"
-
-msgid "Escape"
-msgstr "Escape"
-
-msgid "European edp"
-msgstr "ಯುರೋಪಿಯನ್ edp"
-
-msgid "Even sheets"
-msgstr "ಸರಿ ಸಂಖ್ಯೆಯ ಹಾಳೆಗಳು"
+msgid "Event"
+msgstr "ಘಟನೆ"
 
 msgid "Executive"
 msgstr "ಎಕ್ಸಿಕ್ಯೂಟಿವ್"
 
-msgid "Expand or contract"
-msgstr "ವಿಸ್ತರಿಸುವ ಅಥವ ಸಂಕುಚಿಸು"
+msgid "Exit"
+msgstr "ನಿರ್ಗಮಿಸಿ"
 
-msgid "Expands or contracts the row in the tree view containing this cell"
-msgstr "ವೃಕ್ಷ ನೋಟದಲ್ಲಿ ಕೋಶವನ್ನು ಹೊಂದಿರುವ ಸಾಲನ್ನು ಹಿಗ್ಗಿಸುತ್ತದೆ ಅಥವ ಕುಗ್ಗಿಸುತ್ತದೆ"
+msgid "Export"
+msgstr "ರಫ್ತು"
 
-msgid "FLAGS"
-msgstr "FLAGS"
+msgid "Extension"
+msgstr "ವಿಸ್ತರಣೆ"
 
-msgid "Failed to load icon"
-msgstr "ಲಾಂಛನವನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ವಿಫಲವಾಯಿತು"
+msgid "Extensions"
+msgstr "ವಿಸ್ತರಣೆಗಳು"
 
-msgid "Failed to open file %{string} : %{string}\n"
-msgstr "%{string} ಕಡತವನ್ನು ತೆರೆಯುವಲ್ಲಿ ವಿಫಲತೆ: %{string}\n"
+msgid "FTP"
+msgstr "FTP"
 
-msgid "Failed to rewrite header\n"
-msgstr "ಶೀರ್ಷಿಕೆಯನ್ನು ಪುನರ್ ಬರೆಯುವಲ್ಲಿ ವಿಫಲತೆ\n"
+msgid "Factor"
+msgstr "ಅಪವರ್ತನ"
 
-msgid "Failed to start GNOME Software"
-msgstr "GNOME ತಂತ್ರಾಂಶವನ್ನು ಆರಂಭಿಸಲು ವಿಫಲಗೊಂಡಿದೆ"
+msgid "Favorite"
+msgstr "ಅಚ್ಚುಮೆಚ್ಚಿನ"
 
-msgid "Failed to write cache file: %{string}\n"
-msgstr "ಕ್ಯಾಶೆ ಕಡತವನ್ನು ಬರೆಯುವಲ್ಲಿ ವಿಫಲತೆ: %{string}\n"
+msgid "Fax"
+msgstr "ಫ್ಯಾಕ್ಸ್"
 
-msgid "Failed to write folder index\n"
-msgstr "ಕಡತಕೋಶ ಸೂಚಿಗೆ ಬರೆಯುವಲ್ಲಿ ವಿಫಲತೆ\n"
-
-msgid "Failed to write hash table\n"
-msgstr "ಹ್ಯಾಶ್ ಟೇಬಲ್ಲಿಗೆ ಬರೆಯುವಲ್ಲಿ ವಿಫಲತೆ\n"
-
-msgid "Failed to write header\n"
-msgstr "ಶೀರ್ಷಿಕೆಯನ್ನು ಬರೆಯುವಲ್ಲಿ ವಿಫಲತೆ\n"
-
-msgid "FanFold European"
-msgstr "ಫ್ಯಾನ್-ಫೋಲ್ಡ್ ಯೊರೋಪಿಯನ್"
-
-msgid "FanFold German Legal"
-msgstr "ಫ್ಯಾನ್-ಫೋಲ್ಡ್ ಜರ್ಮನ್ ಲೀಗಲ್"
-
-msgid "FanFold US"
-msgstr "ಫ್ಯಾನ್-ಫೋಲ್ಡ್ ಯುಎಸ್"
+msgid "Field"
+msgstr "ವರ್ಗ"
 
 msgid "File"
 msgstr "ಕಡತ"
 
-msgid "File System"
-msgstr "ಕಡತ ವ್ಯವಸ್ಥೆ"
-
-msgid "File System Root"
-msgstr "ಕಡತ ವ್ಯವಸ್ಥೆ ಮೂಲ"
-
-msgid "File not found: %{string}\n"
-msgstr "ಕಡತ ಕಂಡುಬಂದಿಲ್ಲ: %{string}\n"
+msgid "File Type"
+msgstr "ಕಡಿತದ ವರ್ಗ"
 
 msgid "Files"
 msgstr "ಕಡತಗಳು"
 
-msgid "Find and _Replace"
-msgstr "ಹುಡುಕು ಹಾಗು ಬದಲಾಯಿಸು (_R)"
+msgid "Fill"
+msgstr "ತುಂಬಿಸು"
+
+msgid "Fill Color"
+msgstr "ಬಣ್ಣವನ್ನು ಭರ್ತಿಮಾಡು"
+
+msgid "Filter"
+msgstr "ಶೋಧಕ"
+
+msgid "Filters"
+msgstr "ಶೋಧಕಗಳು"
+
+msgid "Find"
+msgstr "ಹುಡುಕು"
 
 msgid "Finished"
-msgstr "ಅಂತ್ಯಗೊಳಿಸಲಾಗಿದೆ"
+msgstr "ಮುಗಿಯಿತು"
 
-msgid "Finished with error"
-msgstr "ದೋಷದೊಂದಿಗೆ ಮುಕ್ತಾಯಗೊಂಡಿದೆ"
+msgid "Fixed"
+msgstr "ನಿಶ್ಚಿತ"
 
-msgid "Finishing"
-msgstr "ಅಂತ್ಯಗೊಳಿಸಲಾಗುತ್ತಿದೆ"
+msgid "Flip"
+msgstr "ಮಗುಚು"
 
-msgid "Focus Widget"
-msgstr "ಗಮನದ ವಿಜೆಟ್"
+msgid "Float"
+msgstr "ತೇಲು"
 
-msgid "Folio"
-msgstr "ಫೋಲಿಯೊ"
+msgid "Flowchart"
+msgstr "ಕ್ರಮಸೂಚಿ ನಕ್ಷೆ"
 
-msgid "Folio sp"
-msgstr "ಫೋಲಿಯೋ sp"
+msgid "Folder"
+msgstr "ಕಡತಕೋಶ"
 
 msgid "Font"
-msgstr "ಅಕ್ಷರದ ವಿನ್ಯಾಸ"
+msgstr "ಅಕ್ಷರಶೈಲಿ"
 
-msgid "Font Family"
-msgstr "ಅಕ್ಷರ ಶೈಲಿಯ ಪರಿವಾರ"
+msgid "Font size"
+msgstr "ಅಕ್ಷರಶೈಲಿ ಗಾತ್ರ"
 
-msgid "Font Selection"
-msgstr "ಅಕ್ಷರ ಶೈಲಿಯ ಆಯ್ಕೆ"
+msgid "Fonts"
+msgstr "ಅಕ್ಷರಶೈಲಿ"
 
-msgid "For portable documents"
-msgstr "ಸಾಗಿಸಬಹುದಾದ ದಸ್ತಾವೇಜುಗಳು"
+msgid "Footer"
+msgstr "ಅಡಿಲೇಖ"
 
-msgid "Forget association"
-msgstr "ಸಂಬಂಧವನ್ನು ಮರೆತು ಬಿಡು"
+msgid "Foreground"
+msgstr "ಮುನ್ನೆಲೆ"
 
-msgid "Forget password _immediately"
-msgstr "ಗುಪ್ತಪದವನ್ನು ತಕ್ಷಣ ಮರೆತು ಬಿಡು (_F)"
+msgid "Form"
+msgstr "ನಮೂನೆ"
+
+msgid "Format"
+msgstr "ವಿನ್ಯಾಸ"
+
+msgid "Formula"
+msgstr "ಸೂತ್ರ"
 
 msgid "Forward"
 msgstr "ಮುಂದಕ್ಕೆ"
 
-msgid "Full Volume"
-msgstr "ಸಂಪೂರ್ಣ ಧ್ವನಿ ಪ್ರಮಾಣ"
+msgid "Fraction"
+msgstr "ಭಿನ್ನಾಂಕ"
 
-msgid "GDK Backend"
-msgstr "GDK ಬ್ಯಾಕೆಂಡ್"
+msgid "Frame"
+msgstr "ಚೌಕಟ್ಟು"
 
-msgid "GDK debugging flags to set"
-msgstr "ಹೊಂದಿಸಲು GDK ದೋಷ ನಿವಾರಕ ಗುರುತುಗಳು"
+msgid "Frequency"
+msgstr "ಆವರ್ತನೆ"
 
-msgid "GDK debugging flags to unset"
-msgstr "ಹೊಂದಿಸದೆ ಇರಲು GDK ದೋಷ ನಿವಾರಕ ಗುರುತುಗಳು"
+msgid "Function"
+msgstr "ಕಾರ್ಯಭಾರ"
 
-msgid "GNU General Public License, version 2 only"
-msgstr "GNU General Public License, version 2 only"
-
-msgid "GNU General Public License, version 2 or later"
-msgstr "GNU General Public License, version 2 or later"
-
-msgid "GNU General Public License, version 3 only"
-msgstr "GNU General Public License, version 3 only"
-
-msgid "GNU General Public License, version 3 or later"
-msgstr "GNU General Public License, version 3 or later"
-
-msgid "GNU Lesser General Public License, version 2.1 only"
-msgstr "GNU Lesser General Public License, version 2.1 only"
-
-msgid "GNU Lesser General Public License, version 2.1 or later"
-msgstr "GNU Lesser General Public License, version 2.1 or later"
-
-msgid "GNU Lesser General Public License, version 3 only"
-msgstr "GNU Lesser General Public License, version 3 only"
-
-msgid "GNU Lesser General Public License, version 3 or later"
-msgstr "GNU Lesser General Public License, version 3 or later"
-
-msgid "GTK+ Inspector is an interactive debugger that lets you explore and modify the internals of any GTK+ application. Using it may cause the application to break or crash."
-msgstr "GTK+ ಇನ್‌ಸ್ಪೆಕ್ಟರ್ ಎನ್ನುವುದು ಒಂದು ಸಂವಾದಾತ್ಮಕವಾದ ಡೀಬಗ್ಗರ್ ಆಗಿದ್ದು, ಇದು ಯಾವುದೆ GTK+ ಅನ್ವಯದ ಆಂತರಿಕಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಮಾರ್ಪಡಿಸಲು ಅವಕಾಶ ನೀಡುತ್ತದೆ. ಇದನ್ನು ಬಳಸುವುದರಿಂದ ಅನ್ವಯ ನಿಂತು ಹೋಗಲು ಅಥವ ಕುಸಿತಗೊಳ್ಳಲು ಕಾರಣವಾಗಬಹುದು."
-
-msgid "GTK+ Options"
-msgstr "GTK+ ಆಯ್ಕೆಗಳು"
-
-msgid "GTK+ Theme"
-msgstr "GTK+ ಥೀಮ್"
-
-msgid "GTK+ Version"
-msgstr "GTK+ ಆವೃತ್ತಿ"
-
-msgid "GTK+ debugging flags to set"
-msgstr "ಹೊಂದಿಸಲು GTK+ ದೋಷ ನಿವಾರಕ ಗುರುತುಗಳು"
-
-msgid "GTK+ debugging flags to unset"
-msgstr "ಹೊಂದಿಸದೆ ಇರಲು GTK+ ದೋಷ ನಿವಾರಕ ಗುರುತುಗಳು"
+msgid "Gamma"
+msgstr "ಗಾಮಾ"
 
 msgid "General"
 msgstr "ಸಾಮಾನ್ಯ"
 
-msgid "Generating data"
-msgstr "ದತ್ತಾಂಶವನ್ನು ಉತ್ಪಾದಿಸಲಾಗುತ್ತಿದೆ"
+msgid "Geometry"
+msgstr "ಜ್ಯಾಮಿತಿ"
 
-msgid "Gestures"
-msgstr "ಹಾವಭಾವಗಳು"
+msgid "Grab"
+msgstr "ಹಿಡಿ"
 
-msgid "Getting printer information failed"
-msgstr "ಮುದ್ರಕದ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ"
+msgid "Gradient"
+msgstr "ಏರಿಳಿತ ಪ್ರಮಾಣ"
 
-msgid "Getting printer information…"
-msgstr "ಮುದ್ರಕದ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ..."
+msgid "Gradients"
+msgstr "ಗ್ರೇಡಿಯಂಟ್‌ಗಳು"
 
-msgid "GhostScript pre-filtering"
-msgstr "GhostScript ಪೂರ್ವ-ಶೋಧಿಸುವಿಕೆ"
+msgid "Gray"
+msgstr "ಬೂದು"
 
-msgid "Government Legal"
-msgstr "ಸರ್ಕಾರಿ ಲೀಗಲ್"
+msgid "Grayscale"
+msgstr "ಗ್ರೇಸ್ಕೇಲ್"
 
-msgid "Government Letter"
-msgstr "ಸರ್ಕಾರಿ ಕಾಗದ"
+msgid "Green"
+msgstr "ಹಸಿರು"
 
-msgid "Graph type:"
-msgstr "ನಕ್ಷೆಯ ಬಗೆ:"
+msgid "Grey"
+msgstr "ಬೂದು"
 
-msgid "H"
-msgstr "H"
+msgid "Grid"
+msgstr "ಚೌಕಜಾಲ"
 
-msgid "Hibernate"
-msgstr "ಹೈಬರ್ನೇಟ್"
+msgid "Group"
+msgstr "ಗುಂಪು"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Header"
+msgstr "ಹೆಡರ್"
+
+msgid "Height"
+msgstr "ಎತ್ತರ"
+
+msgid "Help"
+msgstr "ಸಹಾಯ"
+
+msgid "Hide"
+msgstr "ಅಡಗಿಸು"
 
 msgid "Hide Others"
-msgstr "ಇತರೆಯವುಗಳನ್ನು ಅಡಗಿಸು"
-
-msgid "Hierarchy"
-msgstr "ಅನುಕ್ರಮ"
+msgstr "ಇತರೆಗಳನ್ನು ಅಡಗಿಸು"
 
 msgid "High"
 msgstr "ಹೆಚ್ಚಿನ"
 
 msgid "History"
 msgstr "ಇತಿಹಾಸ"
-
-msgid "Hold the job until it is explicitly released"
-msgstr "ಸ್ಪಷ್ಟವಾಗಿ ಬಿಡುಗಡೆ ಮಾಡದ ಹೊರತು ಕೆಲಸವನ್ನು ತಡೆಹಿಡಿ"
 
 msgid "Home"
 msgstr "ನೆಲೆ"
@@ -1262,376 +698,214 @@ msgid "Horizontal"
 msgstr "ಅಡ್ಡ"
 
 msgid "Hue"
-msgstr "ವರ್ಣಛಾಯೆ"
-
-msgid "Hyper"
-msgstr "ಹೈಪರ್"
+msgstr "ರಂಗು"
 
 msgid "ID"
-msgstr "ID"
-
-msgid "IPA"
-msgstr "IPA"
+msgstr "ಐಡಿ"
 
 msgid "Icon"
 msgstr "ಚಿಹ್ನೆ"
 
-msgid "Icon '%{string}' not present in theme"
-msgstr "ಲಾಂಛನ '%{string}' ವು ಥೀಮಿನಲ್ಲಿ ಇಲ್ಲ"
-
-msgid "Icon Theme"
-msgstr "ಚಿಹ್ನೆ ಥೀಮ್"
-
-msgid "Ignore hidden"
-msgstr "ಅಡಗಿಸಿದುದನ್ನು ಕಡೆಗಣಿಸು"
+msgid "Identifier"
+msgstr "ಗುರುತುಗಾರ"
 
 msgid "Image"
 msgstr "ಚಿತ್ರ"
 
-msgid "Image Quality"
-msgstr "ಮುದ್ರಣ ಗುಣಮಟ್ಟ"
+msgid "Image Size"
+msgstr "ಚಿತ್ರದ ಗಾತ್ರ"
 
-msgid "Include image data in the cache"
-msgstr "ಚಿತ್ರದ ದತ್ತಾಂಶವನ್ನು ಕ್ಯಾಶೆಯಲ್ಲಿ ಸೇರಿಸಬೇಡ"
+msgid "Image size"
+msgstr "ಚಿತ್ರದ ಗಾತ್ರ"
+
+msgid "Images"
+msgstr "ಚಿತ್ರಗಳು"
+
+msgid "Import"
+msgstr "ಆಮದು"
 
 msgid "Increase Indent"
-msgstr "ಇಂಡೆಂಟನ್ನು ಹೆಚ್ಚಿಸು"
+msgstr "ಇಂಡೆಂಟ್ ಅನ್ನು ಹೆಚ್ಚಿಸು"
 
-msgid "Increases the volume"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ"
+msgid "Indent"
+msgstr "ಇಂಡೆಂಟ್"
 
-msgid "Index 3x5"
-msgstr "ಇಂಡೆಕ್ಸ್ 3x5"
-
-msgid "Index 4x6 (postcard)"
-msgstr "ಇಂಡೆಕ್ಸ್ 4x6(ಪೋಸ್ಟ್ ಕಾರ್ಡ್)"
-
-msgid "Index 4x6 ext"
-msgstr "ಇಂಡೆಕ್ಸ್ 4x6 ext"
-
-msgid "Index 5x8"
-msgstr "ಇಂಡೆಕ್ಸ್ 5x8"
+msgid "Index"
+msgstr "ಸೂಚಿ"
 
 msgid "Information"
 msgstr "ಮಾಹಿತಿ"
 
-msgid "Initial state"
-msgstr "ಆರಂಭದ ಸ್ಥಿತಿ"
+msgid "Input"
+msgstr "ಇನ್‌ಪುಟ್‌"
 
 msgid "Insert"
 msgstr "ಸೇರಿಸು"
 
-msgid "Intel wireless adaptor"
-msgstr "Intel ವೈರ್ಲೆಸ್‌ ಅಡಾಪ್ಟರ್"
+msgid "Install"
+msgstr "ಅನುಸ್ಥಾಪಿಸು"
 
-msgid "Intensity of the color."
-msgstr "ಬಣ್ಣದ ತೀಕ್ಷ್ಣತೆ."
+msgid "Integer"
+msgstr "ಪೂರ್ಣಾಂಕ"
 
-msgid "Interprocessor interrupt"
-msgstr "ಅಂತರಸಂಸ್ಕಾರಕದ ತಡೆ"
+msgid "Interaction"
+msgstr "ಪ್ರತಿಸ್ಪಂದನ"
+
+msgid "Interface"
+msgstr "ಸಂಪರ್ಕಸಾಧನ"
+
+msgid "Internet"
+msgstr "ಅಂತರಜಾಲ"
 
 msgid "Interrupt"
 msgstr "ತಡೆ"
 
-msgid "Inuktitut (Transliterated)"
-msgstr "ಇನುಕ್ಟಿಟುಟ್ (ಲಿಪ್ಯಂತರ ಮಾಡಲಾಗಿದ್ದು)"
+msgid "Intersection"
+msgstr "ಛೇದನ"
+
+msgid "Interval"
+msgstr "ಅಂತರ"
 
 msgid "Invalid"
 msgstr "ಅಮಾನ್ಯ"
 
-msgid "Invalid URI"
-msgstr "ಅಮಾನ್ಯ URI"
+msgid "Invert"
+msgstr "ತಲೆಕೆಳಗೆ ಮಾಡು"
 
-msgid "Invalid argument to CreateDC"
-msgstr "CreateDC ಗೆ ಅಮಾನ್ಯ ಆರ್ಗ್ಯುಮೆಂಟ್"
-
-msgid "Invalid argument to PrintDlgEx"
-msgstr "PrintDlgEx ಗೆ ಅಮಾನ್ಯ ಆರ್ಗ್ಯುಮೆಂಟ್"
-
-msgid "Invalid file name"
-msgstr "ಅಮಾನ್ಯ ಕಡತ ಹೆಸರು"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "PrintDlgEx ಗೆ ಅಮಾನ್ಯ ನಿಭಾವಣೆ(handle)"
-
-msgid "Invalid pointer to PrintDlgEx"
-msgstr "PrintDlgEx ಗೆ ಅಮಾನ್ಯ ಸೂಚಿ(pointer)"
-
-msgid "Invalid size %{string}\n"
-msgstr "ಅಮಾನ್ಯವಾದ ಗಾತ್ರ %{string}\n"
-
-msgid "Invalid type function on line %{number}: '%{string}'"
-msgstr "%{number} ಸಾಲಿನಲ್ಲಿ ಅಮಾನ್ಯ ಬಗೆಯ ಕ್ರಿಯೆ: '%{string}'"
-
-msgid "Invite Envelope"
-msgstr "ಆಹ್ವಾನ ಲಕೋಟೆ"
-
-msgid "Invoice"
-msgstr "ಸರಕುಪಟ್ಟಿ(ಇನ್‌ವಾಯ್ಸ್)"
-
-msgid "Italian Envelope"
-msgstr "ಇಟಾಲಿಯನ್ ಲಕೋಟೆ"
-
-msgid "JB0"
-msgstr "JB0"
-
-msgid "JB1"
-msgstr "JB1"
-
-msgid "JB10"
-msgstr "JB10"
-
-msgid "JB2"
-msgstr "JB2"
-
-msgid "JB3"
-msgstr "JB3"
-
-msgid "JB4"
-msgstr "JB4"
-
-msgid "JB5"
-msgstr "JB5"
-
-msgid "JB6"
-msgstr "JB6"
-
-msgid "JB7"
-msgstr "JB7"
-
-msgid "JB8"
-msgstr "JB8"
-
-msgid "JB9"
-msgstr "JB9"
+msgid "Invert Selection"
+msgstr "ಆಯ್ಕೆ ತಲೆಕೆಳಗು ಮಾಡು"
 
 msgid "Job"
-msgstr "ಕಾರ್ಯ"
+msgstr "ಕೆಲಸ"
 
-msgid "Job Details"
-msgstr "ಕಾರ್ಯದ ವಿವರಗಳು"
-
-msgid "Job Priority"
-msgstr "ಕೆಲಸದ ಆದ್ಯತೆ"
-
-msgid "KP_Begin"
-msgstr "KP ಆರಂಭಿಸು (_B)"
-
-msgid "KP_Delete"
-msgstr "KP ಅಳಿಸು (_D)"
-
-msgid "KP_Down"
-msgstr "KP ಕೆಳಕ್ಕೆ (_D)"
-
-msgid "KP_End"
-msgstr "KP ಕೊನೆ (_E)"
-
-msgid "KP_Enter"
-msgstr "KP_Enter"
-
-msgid "KP_Home"
-msgstr "KP ನೆಲೆ (_H)"
-
-msgid "KP_Insert"
-msgstr "KP ಸೇರಿಸು (_I)"
-
-msgid "KP_Left"
-msgstr "KP ಎಡ (_L)"
-
-msgid "KP_Next"
-msgstr "KP ಮುಂದಿನ (_N)"
-
-msgid "KP_Page_Down"
-msgstr "KP_Page_Down"
-
-msgid "KP_Page_Up"
-msgstr "KP_Page_Up"
-
-msgid "KP_Prior"
-msgstr "KP ಮೊದಲಿನ (_P)"
-
-msgid "KP_Right"
-msgstr "KP ಬಲ (_R)"
-
-msgid "KP_Space"
-msgstr "KP_Space"
-
-msgid "KP_Tab"
-msgstr "KP_Tab"
-
-msgid "KP_Up"
-msgstr "KP ಮೇಲೆ (_U)"
-
-msgid "KbdBrightnessDown"
-msgstr "KbdBrightnessDown"
-
-msgid "KbdBrightnessUp"
-msgstr "KbdBrightnessUp"
-
-msgid "Kernel core"
-msgstr "ಕರ್ನಲ್ ಕೋರ್"
-
-msgid "Kernel module"
-msgstr "ಕರ್ನಲ್ ಘಟಕ"
+msgid "Justify"
+msgstr "ಜಸ್ಟಿಫೈ"
 
 msgid "Keyboard"
 msgstr "ಕೀಲಿಮಣೆ"
 
-msgid "Keyboards"
-msgstr "ಕೀಲಿಮಣೆಗಳು"
-
-msgid "LRE Left-to-right _embedding"
-msgstr "LRE ಎಡದಿಂದ-ಬಲಕ್ಕೆ ಅಡಕಗೊಳಿಸುವಿಕೆ (_e)"
-
-msgid "LRM _Left-to-right mark"
-msgstr "LRM ಎಡದಿಂದ-ಬಲಕ್ಕೆ ಗುರುತು (_L)"
-
-msgid "LRO Left-to-right _override"
-msgstr "LRO ಎಡದಿಂದ-ಬಲಕ್ಕೆ ಅತಿಕ್ರಮಿಕೆ (_o)"
+msgid "Keyword"
+msgstr "ಮುಖ್ಯಪದ"
 
 msgid "Label"
-msgstr "ಲೇಬಲ್"
+msgstr "ಗುರುತುಪಟ್ಟಿ"
 
 msgid "Landscape"
-msgstr "ಪ್ರಕೃತಿ ದೃಶ್ಯ"
+msgstr "ಪ್ರಕೃತಿದೃಶ್ಯ"
 
-msgid "Laptop batteries"
-msgstr "ಲ್ಯಾಪ್‌ಟಾಪ್‌ ಬ್ಯಾಟರಿಗಳು"
+msgid "Language"
+msgstr "ಭಾಷೆ"
 
-msgid "Laptop battery"
-msgstr "ಲ್ಯಾಪ್‌ಟಾಪ್‌ ಬ್ಯಾಟರಿ"
+msgid "Languages"
+msgstr "ಭಾಷೆಗಳು"
 
-msgid "Launch specified application by its desktop file info\noptionally passing list of URIs as arguments."
-msgstr "ಆರಂಭಿಸುವಿಕೆಯನ್ನು ಸೂಚಿಸಲಾದ ಅನ್ವಯದ ಗಣಕತೆರೆ ಕಡತದ \nಮಾಹಿತಿಯು ಐಚ್ಛಿಕವಾಗಿ URI ಗಳನ್ನು ಆರ್ಗ್ಯುಮೆಂಟ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೀಡುತ್ತದೆ ."
+msgid "Large"
+msgstr "ದೊಡ್ಡದು"
 
-msgid "Launch1"
-msgstr "Launch1"
+msgid "Layer"
+msgstr "ಪದರ"
 
 msgid "Layout"
-msgstr "ಹೊರವಿನ್ಯಾಸ"
-
-msgid "Lead acid"
-msgstr "ಲೆಡ್ ಆಮ್ಲ"
+msgstr "ರೂಪರೇಖೆ"
 
 msgid "Left"
 msgstr "ಎಡ"
 
-msgid "Left to right"
-msgstr "ಎಡದಿಂದ ಬಲಕ್ಕೆ"
+msgid "Legal"
+msgstr "ಲೀಗಲ್"
 
-msgid "Left to right, bottom to top"
-msgstr "ಎಡದಿಂದ ಬಲಕ್ಕೆ, ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ"
+msgid "Length"
+msgstr "ಉದ್ದ"
 
-msgid "Left to right, top to bottom"
-msgstr "ಎಡದಿಂದ ಬಲಕ್ಕೆ, ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ"
+msgid "Letter"
+msgstr "ಪತ್ರ"
 
-msgid "Left-to-Right"
-msgstr "ಎಡದಿಂದ-ಬಲಕ್ಕೆ"
+msgid "Library"
+msgstr "ಲೈಬ್ರರಿ"
 
-msgid "License"
-msgstr "ಪರವಾನಗಿ"
-
-msgid "Light Aluminum 1"
-msgstr "ತಿಳಿ ಅಲ್ಯುಮಿನಿಯಮ್ 1"
-
-msgid "Light Aluminum 2"
-msgstr "ತಿಳಿ ಅಲ್ಯುಮಿನಿಯಮ್ 2"
-
-msgid "Light Butter"
-msgstr "ತಿಳಿ ಬೆಣ್ಣೆ"
-
-msgid "Light Chameleon"
-msgstr "ತಿಳಿ ಊಸರವಳ್ಳಿ"
-
-msgid "Light Chocolate"
-msgstr "ತಿಳಿ ಚಾಕೋಲೇಟ್"
+msgid "Light"
+msgstr "ತಿಳಿಯಾದ"
 
 msgid "Light Gray"
-msgstr "ತಿಳಿ ಬೂದು"
+msgstr "ತಿಳಿ ಬೂದಿ"
 
-msgid "Light Orange"
-msgstr "ತಿಳಿ ಕಿತ್ತಳೆ"
+msgid "Limits"
+msgstr "ಮಿತಿಗಳು"
 
-msgid "Light Plum"
-msgstr "ತಿಳಿ ಪ್ಲಮ್"
+msgid "Line"
+msgstr "ಸಾಲು"
 
-msgid "Light Scarlet Red"
-msgstr "ತಿಳಿ ಕಡು ಕೆಂಪು"
+msgid "Line spacing"
+msgstr "ಸಾಲಿನ ಮಧ್ಯದ ಅಂತರ"
 
-msgid "Light Sky Blue"
-msgstr "ತಿಳಿ ಆಕಾಶ ನೀಲಿ"
+msgid "Linear"
+msgstr "ನೇರರೇಖೆ"
 
-msgid "Lighter Gray"
-msgstr "ಅತಿ ತಿಳಿ ಬೂದು"
+msgid "Link"
+msgstr "ಸಂಪರ್ಕಕೊಂಡಿ"
 
-msgid "Lithium Ion"
-msgstr "ಲಿತಿಯಮ್ ಅಯಾನ್"
-
-msgid "Lithium Iron Phosphate"
-msgstr "ಲಿತಿಯಮ್ ಐರನ್ ಫಾಸ್ಫೇಟ್"
-
-msgid "Lithium Polymer"
-msgstr "ಲಿತಿಯಮ್ ಪಾಲಿಮರ್"
-
-msgid "Load additional GTK+ modules"
-msgstr "ಹೆಚ್ಚುವರಿ GTK+ ಘಟಕಗಳನ್ನು ಲೋಡ್ ಮಾಡು"
-
-msgid "Local interrupts"
-msgstr "ಸ್ಥಳೀಯ ತಡೆಗಳು"
+msgid "Local"
+msgstr "ಸ್ಥಳೀಯ"
 
 msgid "Location"
-msgstr "ತಾಣ"
+msgstr "ಸ್ಥಳ ನಿರ್ದೇಶನಗಳು"
 
 msgid "Lock"
-msgstr "ಲಾಕ್ ಮಾಡು"
+msgstr "ಬಂಧ"
 
-msgid "Long Edge (Standard)"
-msgstr "ಉದ್ದನೆಯ ಅಂಚು (ಸಾಮಾನ್ಯ)"
+msgid "Logical"
+msgstr "ತಾರ್ಕಿಕ"
 
 msgid "Low"
 msgstr "ಕೆಳಮಟ್ಟದ"
 
-msgid "MODULES"
-msgstr "ಘಟಕಗಳು"
+msgid "MS"
+msgstr "MS"
+
+msgid "Macro"
+msgstr "ಮ್ಯಾಕ್ರೋ"
+
+msgid "Magenta"
+msgstr "ಕಡುಗೆಂಪು"
+
+msgid "Mail"
+msgstr "ಅಂಚೆ"
 
 msgid "Make all warnings fatal"
 msgstr "ಎಲ್ಲಾ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಮಾರಕಗೊಳಿಸಿ"
 
-msgid "Manage Custom Sizes"
-msgstr "ಅಗತ್ಯಾನುಗುಣ ಗಾತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸು"
+msgid "Manual"
+msgstr "ಕೈಯಾರೆ"
 
-msgid "Manage Custom Sizes…"
-msgstr "ಅಗತ್ಯಾನುಗುಣ ಗಾತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸು..."
+msgid "Margins"
+msgstr "ಅಂಚುಗಳು"
 
-msgid "Manually enter a location"
-msgstr "ಒಂದು ಸ್ಥಳವನ್ನು ಕೈಯಾರೆ (ಮ್ಯಾನುವಲಿ) ನಮೂದಿಸಿ"
-
-msgid "Margins from Printer…"
-msgstr "ಮುದ್ರಕದಿಂದ ಅಂಚು…"
+msgid "Matrix"
+msgstr "ಮಾತೃಕೆ"
 
 msgid "Maximize"
 msgstr "ಹಿಗ್ಗಿಸು"
 
-msgid "Media player"
-msgstr "ಮಾಧ್ಯಮ ಚಾಲಕ"
-
-msgid "Media players"
-msgstr "ಮಾಧ್ಯಮ ಚಾಲಕಗಳು"
+msgid "Median"
+msgstr "ಮಧ್ಯಮ"
 
 msgid "Medium"
 msgstr "ಮಧ್ಯಮ"
 
-msgid "Medium Gray"
-msgstr "ಮಧ್ಯಮ ಬೂದು"
+msgid "Memory"
+msgstr "ಮೆಮೊರಿ"
 
 msgid "Menu"
-msgstr "ಮೆನು"
+msgstr "ಪರಿವಿಡಿ"
 
-msgid "Meta"
-msgstr "ಮೆಟಾ"
+msgid "Merge"
+msgstr "ಒಗ್ಗೂಡಿಸು"
 
-msgid "Mice"
-msgstr "ಮೌಸ್‌ಗಳು"
+msgid "Message"
+msgstr "ಸಂದೇಶ"
+
+msgid "Metafile"
+msgstr "ಮೆಟಾಕಡತ"
 
 msgid "Minimize"
 msgstr "ಕುಗ್ಗಿಸು"
@@ -1645,377 +919,230 @@ msgstr "ಕ್ರಮ"
 msgid "Model"
 msgstr "ಮಾದರಿ"
 
-msgid "Model:"
-msgstr "ಮಾದರಿ:"
-
 msgid "Modified"
-msgstr "ಮಾರ್ಪಾಟುಗೊಂಡಿದೆ"
+msgstr "ಮಾರ್ಪಡಿಸಲಾಗಿದೆ"
 
-msgid "MonBrightnessDown"
-msgstr "MonBrightnessDown"
+msgid "Modify"
+msgstr "ಮಾರ್ಪಡಿಸು"
 
-msgid "MonBrightnessUp"
-msgstr "MonBrightnessUp"
-
-msgid "Monarch Envelope"
-msgstr "ರಾಜ ಲಕೋಟೆ"
+msgid "Module"
+msgstr "ಮಾಡ್ಯೂಲ್"
 
 msgid "Monitor"
 msgstr "ತೆರೆ"
 
-msgid "Monitors"
-msgstr "ತೆರೆಗಳು"
-
 msgid "Mouse"
 msgstr "ಮೌಸ್"
 
-msgid "Multi_key"
-msgstr "ಬಹು ಕೀಲಿ (_k)"
+msgid "Move"
+msgstr "ಕ್ರಮ"
 
-msgid "Multipress"
-msgstr "ಮಲ್ಟಿಪ್ರೆಸ್"
+msgid "Move Down"
+msgstr "ಕೆಳಕ್ಕೆ ಚಲಿಸು"
 
-msgid "Muted"
-msgstr "ಮೂಕಗೊಳಿಸಲಾಗಿದೆ"
-
-msgid "NAME"
-msgstr "NAME"
+msgid "Move Up"
+msgstr "ಮೇಲಕ್ಕೆ ಚಲಿಸು"
 
 msgid "Name"
 msgstr "ಹೆಸರು"
 
-msgid "Need user intervention"
-msgstr "ಬಳಕೆದಾರನು ಮಧ್ಯ ಬರುವ ಅಗತ್ಯವಿದೆ"
+msgid "Navigation"
+msgstr "ನ್ಯಾವಿಗೇಶನ್"
+
+msgid "Negative Binomial"
+msgstr "ಋಣಾತ್ಮಕ ದ್ವಿಪದ"
 
 msgid "Network"
 msgstr "ಜಾಲಬಂಧ"
 
-msgid "New accelerator…"
-msgstr "ಹೊಸ ವೇಗವರ್ಧಕ…"
-
-msgid "New bookmark"
-msgstr "ಹೊಸ ಪುಟಗುರುತು"
-
-msgid "New class"
-msgstr "ಹೊಸ ವರ್ಗ"
-
-msgid "Nickel Cadmium"
-msgstr "ನಿಕಲ್‌ ಕ್ಯಾಡ್ಮಿಯಮ್"
-
-msgid "Nickel metal hydride"
-msgstr "ನಿಕಲ್ ಮೆಟಲ್ ಹೈಡ್ರೈಡ್"
-
 msgid "No"
 msgstr "ಇಲ್ಲ"
 
-msgid "No applications found for “%{string}”"
-msgstr "“%{string}” ಗಾಗಿ ಯಾವುದೇ ಅನ್ವಯಗಳು ಕಂಡು ಬಂದಿಲ್ಲ"
-
-msgid "No applications found for “%{string}” files"
-msgstr "“%{string}” ಕಡತಗಳಿಗಾಗಿ ಯಾವುದೇ ಅನ್ವಯಗಳು ಕಂಡು ಬಂದಿಲ್ಲ"
-
-msgid "No applications found for “%{string}”."
-msgstr "“%{string}” ಗಾಗಿ ಯಾವುದೇ ಅನ್ವಯಗಳು ಕಂಡು ಬಂದಿಲ್ಲ."
-
-msgid "No applications found."
-msgstr "ಯಾವುದೆ ಅನ್ವಯಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
-
-msgid "No data"
-msgstr "ಯಾವುದೆ ದತ್ತಾಂಶ ಇಲ್ಲ"
-
-msgid "No fonts matched your search. You can revise your search and try again."
-msgstr "ನಿಮ್ಮ ಹುಡುಕಾಟಕ್ಕೆ ಯಾವುದೆ ಲಿಪಿಶೈಲಿಗಳು ಕಂಡುಬಂದಿಲ್ಲ. ನೀವು ನಿಮ್ಮ ಹುಡುಕಾಟವನ್ನು ಬದಲಿಸಿ ಮತ್ತು ಇನ್ನೊಮ್ಮೆ ಹುಡುಕಿ."
-
-msgid "No item for URI '%{string}' found"
-msgstr "URI '%{string}' ಗೆ ಯಾವುದೆ ಅಂಶಗಳು ಪತ್ತೆಯಾಗಿಲ್ಲ"
-
-msgid "No items found"
-msgstr "ಯಾವುದೇ ಅಂಶ ಪತ್ತೆಯಾಗಿಲ್ಲ"
-
-msgid "No pre-filtering"
-msgstr "ಪೂರ್ವ-ಶೋಧನೆ ಇಲ್ಲ"
-
-msgid "No printer found"
-msgstr "ಯಾವುದೆ ಮುದ್ರಕವು ಕಂಡುಬಂದಿಲ್ಲ"
-
-msgid "No profile available"
-msgstr "ಯಾವುದೆ ಪ್ರೊಫೈಲ್ ಲಭ್ಯವಿಲ್ಲ"
-
-msgid "No recently used resource found with URI `%{string}'"
-msgstr "URI `%{string}' ನೊಂದಿಗೆ ಇತ್ತೀಚೆಗೆ ಬಳಸಲಾದ ಯಾವುದೆ ಸಂಪನ್ಮೂಲಗಳು ಪತ್ತೆಯಾಗಿಲ್ಲ"
-
-msgid "No registered application with name '%{string}' for item with URI '%{string}' found"
-msgstr "'%{string}' ಎಂಬ ಹೆಸರಿನ ಯಾವುದೆ ನೋಂದಾಯಿತ ಅನ್ವಯವಿಲ್ಲ ('%{string}' ಎಂಬ URI ಅನ್ನು ಹೊಂದಿರುವ ಅಂಶಕ್ಕಾಗಿ)"
-
-msgid "No theme index file.\n"
-msgstr "ಯಾವುದೆ ಪರಿಸರವಿನ್ಯಾಸ ಸೂಚಕ ಕಡತವಿಲ್ಲ.\n"
+msgid "No action"
+msgstr "ಯಾವ ಕ್ರಿಯೆಯೂ ಇಲ್ಲ"
 
 msgid "None"
-msgstr "ಯಾವುದೂ ಇಲ್ಲ"
+msgstr "ಯಾವುದು ಇಲ್ಲ"
 
-msgid "Not a valid icon cache: %{string}\n"
-msgstr "ಒಂದು ಮಾನ್ಯ ಲಾಂಛನ ಕ್ಯಾಶೆ ಅಲ್ಲ: %{string}\n"
-
-msgid "Not a valid page setup file"
-msgstr "ಒಂದು ಮಾನ್ಯ ಪುಟ ಸಿದ್ಧತೆ ಕಡತವಲ್ಲ"
+msgid "Normal"
+msgstr "ಸಾಮಾನ್ಯ"
 
 msgid "Not available"
-msgstr "ಲಭ್ಯವಿರುವುದಿಲ್ಲ"
+msgstr "ಲಭ್ಯವಿಲ್ಲ"
 
-msgid "Not enough free memory"
-msgstr "ಸಾಕಷ್ಟು ಮುಕ್ತ ಮೆಮೊರಿ ಲಭ್ಯವಿಲ್ಲ"
+msgid "Number"
+msgstr "ಸಂಖ್ಯೆ"
 
-msgid "Num_Lock"
-msgstr "Num_Lock"
+msgid "Numeric"
+msgstr "ಅಂಕೀಯ"
 
-msgid "OFF"
-msgstr "ಆಫ್"
-
-msgid "ON"
-msgstr "ಆನ್"
+msgid "OR"
+msgstr "OR"
 
 msgid "Object"
 msgstr "ವಸ್ತು"
 
-msgid "Object Hierarchy"
-msgstr "ವಸ್ತುವಿನ ಅನುಕ್ರಮ"
-
 msgid "Objects"
 msgstr "ವಸ್ತುಗಳು"
 
-msgid "Observe power management"
-msgstr "ವಿದ್ಯುಚ್ಛಕ್ತಿ ನಿರ್ವಹಣೆಯನ್ನು ಗಮನಿಸು"
-
-msgid "Odd sheets"
-msgstr "ಬೆಸ ಸಂಖ್ಯೆಯ ಹಾಳೆಗಳು"
+msgid "Observations"
+msgstr "ಅವಲೋಕನಗಳು"
 
 msgid "Offline"
-msgstr "ಆಫ್‌ಲೈನ್"
+msgstr "ಆಫ್‌ಲೈನ್‌"
 
-msgid "On _hold"
-msgstr "ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ (_h)"
-
-msgid "One Sided"
-msgstr "ಒಂದು ಬದಿಯ"
+msgid "Offset"
+msgstr "ಆಫ್‌ಸೆಟ್"
 
 msgid "Online"
 msgstr "ಆನ್‌ಲೈನ್‌"
 
-msgid "Op_acity:"
-msgstr "ಅಪಾರದರ್ಶಕತೆ (_a):"
+msgid "Op_tions"
+msgstr "ಆಯ್ಕೆಗಳು:"
 
-msgid "Open '%{string}'"
-msgstr "'%{string}' ಅನ್ನು ತೆರೆ"
+msgid "Opacity"
+msgstr "ಅಪಾರದರ್ಶಕತೆ"
 
-msgid "Open in New _Tab"
-msgstr "ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆ (_T)"
+msgid "Open"
+msgstr "ತೆರೆ"
 
-msgid "Open in New _Window"
-msgstr "ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ (_W)"
-
-msgid "Open the contents of the file system"
-msgstr "ಕಡತಕೋಶದಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ತೆರೆಯಿರಿ"
-
-msgid "Open the contents of your desktop in a folder"
-msgstr "ನಿಮ್ಮ ಗಣಕತೆರೆ ಕಡತಕೋಶದಲ್ಲಿನ ವಿಷಯಗಳನ್ನು ತೆರೆಯಿರಿ"
-
-msgid "Open the trash"
-msgstr "ಕಸದ ಬುಟ್ಟಿಯನ್ನು ತೆರೆಯಿರಿ"
-
-msgid "Open your personal folder"
-msgstr "ನಿಮ್ಮ ವೈಯುಕ್ತಿಕ ಕಡತಕೋಶವನ್ನು ತೆರೆಯಿರಿ"
-
-msgid "Opening %{number} Item"
-msgstr "%{number} ಅಂಶವನ್ನು ತೆಗೆಯಲಾಗುತ್ತಿದೆ"
-
-msgid "Opening %{number} Items"
-msgstr "%{number} ಅಂಶಗಳನ್ನು ತೆಗೆಯಲಾಗುತ್ತಿದೆ"
-
-msgid "Opening “%{string}” files."
-msgstr "“%{string}” ಅನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ."
-
-msgid "Opening “%{string}”."
-msgstr "“%{string}” ಅನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ."
-
-msgid "Or_ientation:"
-msgstr "ವಾಲಿಕೆ (_O):"
+msgid "Options"
+msgstr "ಆಯಿಕೆ"
 
 msgid "Orange"
-msgstr "ಕಿತ್ತಳೆ"
+msgstr "ಕಿತ್ತಲೆ"
 
-msgid "Other Applications"
-msgstr "ಇತರೆ ಅನ್ವಯಗಳು"
+msgid "Order"
+msgstr "ಆದೇಶಗಳು"
 
-msgid "Other application…"
-msgstr "ಇತರೆ ಅನ್ವಯ…"
+msgid "Orientation"
+msgstr "ಅಭಿಮುಖ"
+
+msgid "Origin"
+msgstr "ಮೂಲ"
+
+msgid "Original"
+msgstr "ಮೂಲ"
 
 msgid "Other…"
 msgstr "ಇತರೆ…"
 
-msgid "Out of paper"
-msgstr "ಹಾಳೆಗಳಿಲ್ಲ"
+msgid "Outline"
+msgstr "ಹೊರರೇಖೆ"
 
-msgid "Output Tray"
-msgstr "ಪ್ರದಾನ(ಔಟ್‌ಪುಟ್) ಟ್ರೇ"
+msgid "Output"
+msgstr "ಔಟ್‌ಪುಟ್"
 
-msgid "Output a C header file"
-msgstr "ಒಂದು C ಶೀರ್ಷಿಕಾ ಕಡತವನ್ನು ಆದಾನ ಮಾಡು"
+msgid "Overwrite"
+msgstr "ತಿದ್ದಿಬರೆ"
 
-msgid "Output t_ray:"
-msgstr "ಔಟ್ ಪುಟ್ ಟ್ರೇ (_r):"
-
-msgid "Output to this directory instead of cwd"
-msgstr "cwd ಯ ಬದಲಿಗೆ ಈ ಕೋಶಕ್ಕೆ ಔಟ್‌ಪುಟ್ ಮಾಡು"
-
-msgid "Overwrite an existing cache, even if up to date"
-msgstr "ಪ್ರಸ್ತುತ ಇರುವ ಒಂದು ಕ್ಯಾಶೆಯು ನವೀಕೃತವಾಗಿದ್ದರೂ ಅದನ್ನು ತಿದ್ದಿಬರೆ"
-
-msgid "PDA"
-msgstr "PDA"
-
-msgid "PDAs"
-msgstr "PDAಗಳು"
+msgid "Owner"
+msgstr "ಮಾಲಿಕ"
 
 msgid "PDF"
 msgstr "PDF"
 
-msgid "PDF _Pop directional formatting"
-msgstr "PDF _Pop directional formatting"
+msgid "PNG image"
+msgstr "PNG ಚಿತ್ರ"
 
-msgid "PS/2 keyboard/mouse/touchpad"
-msgstr "PS/2 ಕೀಲಿಮಣೆ/ಮೌಸ್/ಟಚ್‌ಪ್ಯಾಡ್"
+msgid "Pack"
+msgstr "ಸಂಗ್ರಹ"
 
-msgid "P_ause"
-msgstr "ವಿರಮಿಸು (_a)"
-
-msgid "Pag_es:"
-msgstr "ಪುಟಗಳು(_e):"
-
-msgid "Page Ordering"
-msgstr "ಪುಟಗಳ ಅನುಕ್ರಮ"
+msgid "Page"
+msgstr "ಪುಟ"
 
 msgid "Page Set_up"
 msgstr "ಪುಟದ ಸಿದ್ಧತೆ (_u)"
 
 msgid "Page Setup"
-msgstr "ಪುಟದ ಸಿದ್ಧತೆ"
+msgstr "ಪುಟದ ಏರ್ಪಾಡು"
 
-msgid "Page or_dering:"
-msgstr "ಪುಟಗಳ ಅನುಕ್ರಮ (_d):"
-
-msgid "Page_Down"
-msgstr "Page_Down"
-
-msgid "Page_Up"
-msgstr "Page_Up"
+msgid "Pager"
+msgstr "ಪೇಜರ್"
 
 msgid "Pages"
 msgstr "ಪುಟಗಳು"
 
-msgid "Pages Per Sheet"
-msgstr "ಪ್ರತಿ ಹಾಳೆಯಲ್ಲಿನ ಪುಟಗಳು"
-
-msgid "Pages per Sheet"
-msgstr "ಪ್ರತಿ ಹಾಳೆಯಲ್ಲಿನ ಪುಟಗಳು"
-
-msgid "Pages per _sheet:"
-msgstr "ಪ್ರತಿ ಹಾಳೆಯಲ್ಲಿನ ಪುಟಗಳು (_s):"
-
-msgid "Pages per _side:"
-msgstr "ಪ್ರತಿ ಬದಿಯಲ್ಲಿನ ಪುಟಗಳು (_s):"
+msgid "Palette"
+msgstr "ವರ್ಣಫಲಕ"
 
 msgid "Paper"
 msgstr "ಕಾಗದ"
 
-msgid "Paper Margins"
-msgstr "ಕಾಗದದ ಅಂಚುಗಳು"
+msgid "Parameter"
+msgstr "ನಿಯತಾಂಕ"
 
-msgid "Paper Size"
-msgstr "ಕಾಗದದ ಗಾತ್ರ"
+msgid "Password"
+msgstr "ಸಂಕೇತ ಪದ"
 
-msgid "Paper Source"
-msgstr "ಕಾಗದದ ಆಕರ"
-
-msgid "Paper Type"
-msgstr "ಕಾಗದದ ಬಗೆ"
-
-msgid "Paper _source:"
-msgstr "ಕಾಗದದ ಆಕರ (_s):"
-
-msgid "Paper _type:"
-msgstr "ಕಾಗದದ ಬಗೆ (_t):"
-
-msgid "Parameter Type"
-msgstr "ನಿಯತಾಂಕದ ಬಗೆ"
-
-msgid "Password:"
-msgstr "ಗುಪ್ತಪದ:"
+msgid "Paste"
+msgstr "ಅಂಟಿಸು"
 
 msgid "Path"
 msgstr "ಮಾರ್ಗ"
 
+msgid "Paths"
+msgstr "ಮಾರ್ಗಗಳು"
+
+msgid "Pattern"
+msgstr "ಮಾದರಿ"
+
 msgid "Pause"
-msgstr "ವಿರಮಿಸು"
+msgstr "ಸ್ಥಗಿತಗೊಳಿಸು"
 
 msgid "Paused"
-msgstr "ತಾತ್ಕಾಲಿಕ ಸ್ಥಗಿತಗೊಂಡಿದೆ"
-
-msgid "Paused; Rejecting Jobs"
-msgstr "ತಾತ್ಕಾಲಿಕ ವಿರಮಿಸಲಾಗಿದೆ; ಕೆಲಸವು ತಿರಸ್ಕರಿಸಲ್ಪಟ್ಟಿದೆ"
+msgstr "ವಿರಮಿಸಿದೆ"
 
 msgid "Percentage"
-msgstr "ಪ್ರತಿಶತ"
+msgstr "ಪ್ರತಿಶತ (_P)"
 
-msgid "Personal Envelope"
-msgstr "ವೈಯಕ್ತಿಕ ಲಕೋಟೆ"
+msgid "Period"
+msgstr "ಅವಧಿ"
 
-msgid "Pick a Color"
-msgstr "ಒಂದು ಬಣ್ಣವನ್ನು ಆರಿಸಿ"
+msgid "Periodic"
+msgstr "ಆವರ್ತಕ"
 
-msgid "Pick a Font"
-msgstr "ಒಂದು ಅಕ್ಷರಶೈಲಿಯನ್ನು ಆರಿಸಿ"
+msgid "Perspective"
+msgstr "ಯಥಾದೃಷ್ಟಿ"
 
-msgid "Plum"
-msgstr "ಪ್ಲಮ್"
+msgid "Pixel"
+msgstr "ಪಿಕ್ಸೆಲ್"
 
-msgid "Pops up the slider"
-msgstr "ಸ್ಲೈಡರ್ ಅನ್ನು ಪುಟಿಸುತ್ತದೆ"
+msgid "Place"
+msgstr "ಸ್ಥಳಗಳು"
 
-msgid "Popup"
-msgstr "ಪುಟಿಕೆ (ಪಾಪಪ್)"
+msgid "Play"
+msgstr "ಆಡು"
+
+msgid "Plug-in"
+msgstr "ಪ್ಲಗ್-ಇನ್"
+
+msgid "Point"
+msgstr "ಬಿಂದು"
+
+msgid "Pointer"
+msgstr "ಸೂಚಕ"
+
+msgid "Polygon"
+msgstr "ಬಹುಭುಜಾಕೃತಿ"
+
+msgid "Polyline"
+msgstr "ಬಹುರೇಖೆ"
 
 msgid "Portrait"
-msgstr "ಭಾವಚಿತ್ರ"
+msgstr "ಪ್ರಕೃತಿದೃಶ್ಯ"
 
-msgid "Position on the color wheel."
-msgstr "ಬಣ್ಣ ಚಕ್ರದಲ್ಲಿನ ಜಾಗ."
-
-msgid "Postfix Envelope"
-msgstr "Postfix ಲಕೋಟೆ"
-
-msgid "Postscript"
-msgstr "ಪೋಸ್ಟ್-ಸ್ಕ್ರಿಪ್ಟ್"
+msgid "Position"
+msgstr "ಹುದ್ದೆ"
 
 msgid "Power"
-msgstr "ವಿದ್ಯುಚ್ಛಕ್ತಿ"
+msgstr "ಘಾತ"
 
-msgid "Power Statistics"
-msgstr "ವಿದ್ಯುಚ್ಛಕ್ತಿಯ ಅಂಕಿಅಂಶಗಳು"
-
-msgid "Power Statistics can show historical and current battery information and programs waking up that use power."
-msgstr "ವಿದ್ಯುಚ್ಛಕ್ತಿ ಅಂಕಿಅಂಶಗಳು ಹಿಂದಿನ ಮತ್ತು ಇಂದಿನ ಬ್ಯಾಟರಿ ಮಾಹಿತಿಯನ್ನು ಮತ್ತು ವಿದ್ಯುಚ್ಛಕ್ತಿಯನ್ನು ಬಳಸಲು ಎಚ್ಚರಗೊಳ್ಳುವ ಪ್ರೊಗ್ರಾಮ್‌ಗಳನ್ನು ತೋರಿಸಬಲ್ಲದು."
+msgid "Pr_eview"
+msgstr "ಅವಲೋಕನ (_e)"
 
 msgid "Pre_view"
 msgstr "ಮುನ್ನೋಟ (_v)"
-
-msgid "Pre_vious"
-msgstr "ಹಿಂದಿನ (_v)"
-
-msgid "Predicted time"
-msgstr "ಊಹಿಸಿದ ಸಮಯ"
-
-msgid "Prediction accuracy"
-msgstr "ಊಹೆಯ ನಿಖರತೆ"
 
 msgid "Preferences"
 msgstr "ಆದ್ಯತೆಗಳು"
@@ -2023,23 +1150,8 @@ msgstr "ಆದ್ಯತೆಗಳು"
 msgid "Prefix"
 msgstr "ಪ್ರಿಫಿಕ್ಸ್"
 
-msgid "Preparing"
-msgstr "ತಯಾರಾಗುತ್ತಿದೆ"
-
-msgid "Preparing to print"
-msgstr "ಮುದ್ರಿಸಲು ತಯಾರಾಗುತ್ತಿದೆ"
-
-msgid "Present"
-msgstr "ಪ್ರಸಕ್ತ"
-
-msgid "Press"
-msgstr "ಒತ್ತಡ"
-
-msgid "Presses the combobox"
-msgstr "ಸಂಯೋಜನಾ ಚೌಕವನ್ನು ಒತ್ತುತ್ತದೆ"
-
-msgid "Pri_ority:"
-msgstr "ಆದ್ಯತೆ (_o):"
+msgid "Preview"
+msgstr "ಮುನ್ನೋಟ"
 
 msgid "Print"
 msgstr "ಮುದ್ರಿಸು"
@@ -2047,893 +1159,596 @@ msgstr "ಮುದ್ರಿಸು"
 msgid "Print Document"
 msgstr "ದಸ್ತಾವೇಜನ್ನು ಮುದ್ರಿಸು"
 
-msgid "Print Pre_view"
-msgstr "ಮುದ್ರಣಾ ಮುನ್ನೋಟ (_v)"
-
-msgid "Print at"
-msgstr "ಇಲ್ಲಿ ಮುದ್ರಿಸು"
-
-msgid "Print at time"
-msgstr "ಈ ಸಮಯದಲ್ಲಿ ಮುದ್ರಿಸು"
-
-msgid "Print to File"
-msgstr "ಕಡತಕ್ಕೆ ಮುದ್ರಿಸು"
-
-msgid "Print to LPR"
-msgstr "LPR ಗೆ ಮುದ್ರಿಸು"
-
-msgid "Print to Test Printer"
-msgstr "ಮುದ್ರಕವನ್ನು ಪರೀಕ್ಷಿಸಲು ಮುದ್ರಿಸು"
-
 msgid "Printer"
 msgstr "ಮುದ್ರಕ"
 
-msgid "Printer '%{string}' has no toner left."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಶಾಯಿ ಖಾಲಿಯಾಗಿದೆ."
-
-msgid "Printer '%{string}' is currently offline."
-msgstr "'%{string}' ಎಂಬ ಮುದ್ರಕವು ಪ್ರಸ್ತುತ ಆಫ್‌ಲೈನಿನಲ್ಲಿದೆ."
-
-msgid "Printer '%{string}' is low on at least one marker supply."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಕನಿಷ್ಟ ಪಕ್ಷ ಒಂದು ಮಾರ್ಕರಿನ ಪೂರೈಕೆಯಲ್ಲಿ ಕೊರತೆ ಇದೆ."
-
-msgid "Printer '%{string}' is low on developer."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಡೆವಲಪರ್ ಕಡಿಮೆ ಇದೆ."
-
-msgid "Printer '%{string}' is low on paper."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಹಾಳೆಗಳ ಕೊರತೆಯಾಗಿದೆ."
-
-msgid "Printer '%{string}' is low on toner."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಶಾಯಿ ಕಡಿಮೆಯಾಗಿದೆ."
-
-msgid "Printer '%{string}' is out of at least one marker supply."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಕನಿಷ್ಟ ಪಕ್ಷ ಒಂದು ಮಾರ್ಕರಿನ ಪೂರೈಕೆ ಇಲ್ಲವಾಗಿದೆ."
-
-msgid "Printer '%{string}' is out of developer."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಡೆವಲಪರ್ ಖಾಲಿಯಾಗಿದೆ."
-
-msgid "Printer '%{string}' is out of paper."
-msgstr "'%{string}' ಮುದ್ರಕದಲ್ಲಿ ಹಾಳೆಗಳು ಖಾಲಿಯಾಗಿವೆ."
-
-msgid "Printer Default"
-msgstr "ಮುದ್ರಕ ಪೂರ್ವನಿಯೋಜಿತ"
-
-msgid "Printer Profile"
-msgstr "ಮುದ್ರಕದ ಪ್ರೊಫೈಲ್"
-
-msgid "Printer offline"
-msgstr "ಮುದ್ರಕದ ಆಫ್-ಲೈನ್ ಆಗಿದೆ"
-
 msgid "Printing"
-msgstr "ಮುದ್ರಣಗೊಳ್ಳುತ್ತಿದೆ"
+msgstr "ಮುದ್ರಣ"
 
 msgid "Processor"
 msgstr "ಸಂಸ್ಕಾರಕ"
 
-msgid "Processor Wakeups"
-msgstr "ಸಂಸ್ಕಾರಕದ ಎಚ್ಚತ್ತ ಸ್ಥಿತಿ"
+msgid "Program"
+msgstr "ಪ್ರೊಗ್ರಾಮ್"
 
-msgid "Processor wakeups per second:"
-msgstr "ಪ್ರತಿ ಸೆಕೆಂಡಿನ ಸಂಸ್ಕಾರಕದ ಎಚ್ಚರದ ಸ್ಥಿತಿ:"
+msgid "Progress"
+msgstr "ಪ್ರಗತಿ"
 
-msgid "Program class as used by the window manager"
-msgstr "ಕಿಟಕಿ ವ್ಯವಸ್ಥಾಪಕನಿಂದ ಬಳಸಲ್ಪಟ್ಟ ಪ್ರೊಗ್ರಾಂ ವರ್ಗ"
+msgid "Progress Bar"
+msgstr "ಪ್ರಗತಿ ಪಟ್ಟಿ"
 
-msgid "Program name as used by the window manager"
-msgstr "ಕಿಟಕಿ ವ್ಯವಸ್ಥಾಪಕನಿಂದ ಬಳಸಲ್ಪಟ್ಟ ಪ್ರೊಗ್ರಾಂ ಹೆಸರು"
+msgid "Project"
+msgstr "ಯೇಜನೆಗಳು"
+
+msgid "Projects"
+msgstr "ಯೇಜನೆಗಳು"
 
 msgid "Properties"
 msgstr "ಗುಣಗಳು"
 
 msgid "Property"
-msgstr "ಗುಣಲಕ್ಷಣ"
+msgstr "ಗುಣಧರ್ಮ"
 
-msgid "Provides visual indication of progress"
-msgstr "ಪ್ರಗತಿಯನ್ನು ತೋರಿಸುವ ಸೂಚನೆಯನ್ನು ನೀಡುತ್ತದೆ"
+msgid "Protection"
+msgstr "ಸಂರಕ್ಷಣೆ"
 
-msgid "Quarto"
-msgstr "ಕ್ವಾರ್ಟೊ"
+msgid "Proxy"
+msgstr "ಪ್ರಾಕ್ಸಿ"
 
-msgid "Question"
+msgid "Public Key"
+msgstr "ಸಾರ್ವಜನಿಕ ಕೀಲಿ"
+
+msgid "Quality"
+msgstr "ಗುಣಮಟ್ಟ"
+
+msgid "Query"
 msgstr "ಪ್ರಶ್ನೆ"
 
-msgid "RA0"
-msgstr "RA0"
+msgid "Quit"
+msgstr "ನಿರ್ಗಮಿಸು"
 
-msgid "RA1"
-msgstr "RA1"
+msgid "RGB"
+msgstr "RGB"
 
-msgid "RA2"
-msgstr "RA2"
+msgid "Radius"
+msgstr "ತ್ರಿಜ್ಯ"
 
-msgid "RLE Right-to-left e_mbedding"
-msgstr "RLE ಬಲದಿಂದ-ಎಡಕ್ಕೆ ಅಡಕಗೊಳಿಸುವಿಕೆ (_m)"
-
-msgid "RLM _Right-to-left mark"
-msgstr "RLM ಬಲದಿಂದ-ಎಡಕ್ಕೆ ಗುರುತು (_R)"
-
-msgid "RLO Right-to-left o_verride"
-msgstr "RLO ಬಲದಿಂದ-ಎಡಕ್ಕೆ ಅತಿಕ್ರಮಿಕೆ(o_verride)"
-
-msgid "ROC 16k"
-msgstr "ROC 16k"
-
-msgid "ROC 8k"
-msgstr "ROC 8k"
-
-msgid "R_ewind"
-msgstr "ಪುನಃ ಸುತ್ತು (_e)"
+msgid "Random"
+msgstr "ಯಾದೃಚ್ಛಿಕ"
 
 msgid "Range"
-msgstr "ವ್ಯಾಪ್ತಿ"
+msgstr "ಶ್ರೇಣಿ"
 
 msgid "Rate"
 msgstr "ದರ"
 
-msgid "Recent"
-msgstr "ಇತ್ತೀಚಿನ"
+msgid "Rating"
+msgstr "ಜನಪ್ರಿಯತೆ"
 
-msgid "Recent files"
-msgstr "ಇತ್ತೀಚಿನ ಕಡತಗಳು"
+msgid "Ready"
+msgstr "ಸಿದ್ಧ"
 
-msgid "Rechargeable"
-msgstr "ಮರು ಚಾರ್ಜ್ ಮಾಡಬಹುದಾದ"
+msgid "Recently Used"
+msgstr "ಇತ್ತೀಚೆಗೆ ಬಳಸಲಾದಂತಹ"
 
-msgid "Recommended Applications"
-msgstr "ಸಲಹೆ ಮಾಡಲಾಗುವ ಅನ್ವಯಗಳು"
+msgid "Record"
+msgstr "ದಾಖಲೆ"
 
-msgid "Refreshed"
-msgstr "ಪುನಶ್ಚೇತಗೊಂಡ"
+msgid "Rectangle"
+msgstr "ಆಯತ"
 
-msgid "Registered U_ser"
-msgstr "ನೋಂದಾಯಿತ ಬಳಕೆದಾರರು (_s)"
+msgid "Red"
+msgstr "ಕೆಂಪು"
 
-msgid "Rejecting Jobs"
-msgstr "ಕೆಲಸವು ತಿರಸ್ಕರಿಸಲ್ಪಟ್ಟಿದೆ"
+msgid "Redo"
+msgstr "ಕೆಂಪು"
 
-msgid "Related Applications"
-msgstr "ಸಂಬಂಧಿತ ಅನ್ವಯಗಳು"
+msgid "Refresh"
+msgstr "ತಾಜಾಗೊಳಿಸು"
 
-msgid "Remember _forever"
-msgstr "ಸದಾ ನೆನಪಿನಲ್ಲಿಡು (_R)"
-
-msgid "Remember password until you _logout"
-msgstr "ಗುಪ್ತಪದವನ್ನು ನೀವು ನಿರ್ಗಮಿಸುವ ತನಕ ನೆನಪಿನಲ್ಲಿಡಿ (_R)"
+msgid "Region"
+msgstr "ಪ್ರದೇಶ"
 
 msgid "Remove"
-msgstr "ತೆಗೆದು ಹಾಕು"
+msgstr "ತೆಗೆದುಹಾಕು"
 
-msgid "Rename…"
-msgstr "ಮರುಹೆಸರಿಸು…"
+msgid "Rename"
+msgstr "ಹೆಸರು ಬದಲಾಯಿಸು"
 
-msgid "Rescheduling interrupts"
-msgstr "ತಡೆಗಳ ಮರು ನಿರ್ದೇಶನ"
+msgid "Repeat"
+msgstr "ಪುನರಾವರ್ತಿಸು"
+
+msgid "Replace"
+msgstr "ಬದಲಿಸು"
+
+msgid "Reports"
+msgstr "ವರದಿಗಳು"
+
+msgid "Reset"
+msgstr "ಮರು ಸಿದ್ಧಗೊಳಿಸು"
+
+msgid "Resize"
+msgstr "ಗಾತ್ರವನ್ನು ಬದಲಿಸು"
 
 msgid "Resolution"
 msgstr "ರೆಸಲ್ಯೂಶನ್"
 
-msgid "Resources"
-msgstr "ಸಂಪನ್ಮೂಲಗಳು"
-
 msgid "Restore"
-msgstr "ಮರಳಿ ಸ್ಥಾಪಿಸಿ"
+msgstr "ಮರಳಿ ಸ್ಥಾಪಿಸು"
 
-msgid "Restore defaults for this widget"
-msgstr "ಈ ವಿಜೆಟ್‌ಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸಿ"
+msgid "Result"
+msgstr "ಫಲಿತಾಂಶ"
+
+msgid "Retry"
+msgstr "ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ"
 
 msgid "Return"
-msgstr "ರಿಟರ್ನ್"
+msgstr "ಮರಳು"
 
-msgid "Reverse landscape"
-msgstr "ತಿರುಗು ಮುರುಗಾದ ಪ್ರಕೃತಿ ದೃಶ್ಯ"
+msgid "Revert"
+msgstr "ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಮರಳಿಸು"
 
-msgid "Reverse portrait"
-msgstr "ತಿರುಗು ಮುರುಗಾದ ಭಾವಚಿತ್ರ"
+msgid "Review"
+msgstr "ಪರಿಶೀಲನೆ"
 
 msgid "Right"
 msgstr "ಬಲ"
 
-msgid "Right to left"
-msgstr "ಬಲದಿಂದ ಎಡಕ್ಕೆ"
+msgid "Rotate"
+msgstr "ತಿರುಗು"
 
-msgid "Right to left, bottom to top"
-msgstr "ಬಲದಿಂದ ಎಡಕ್ಕೆ, ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ"
+msgid "Row"
+msgstr "ಅಡ್ಡಸಾಲು"
 
-msgid "Right to left, top to bottom"
-msgstr "ಬಲದಿಂದ ಎಡಕ್ಕೆ, ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ"
-
-msgid "Right-to-Left"
-msgstr "ಬಲದಿಂದ-ಎಡಕ್ಕೆ"
+msgid "Run"
+msgstr "ಚಲಾಯಿಸು"
 
 msgid "S"
 msgstr "S"
 
-msgid "SRA0"
-msgstr "SRA0"
-
-msgid "SRA1"
-msgstr "SRA1"
-
-msgid "SRA2"
-msgstr "SRA2"
-
 msgid "SVG"
 msgstr "SVG"
 
-msgid "S_aturation:"
-msgstr "ಪರಿಪೂರ್ಣತೆ (_a):"
+msgid "SVG image"
+msgstr "SVG ಚಿತ್ರ"
 
-msgid "Sans 12"
-msgstr "Sans 12"
+msgid "Sample"
+msgstr "ನಮೂನೆ"
+
+msgid "Sampling"
+msgstr "ನಮೂನೆ"
 
 msgid "Saturation"
-msgstr "ಪರಿಪೂರ್ಣತೆ"
+msgstr "ಸಂತೃಪ್ತಿ"
 
-msgid "Save _As"
-msgstr "ಹೀಗೆ ಉಳಿಸು (_A)"
+msgid "Save"
+msgstr "ಉಳಿಸು"
 
-msgid "Save the current CSS"
-msgstr "ಪ್ರಸಕ್ತ CSS ಅನ್ನು ಉಳಿಸು"
+msgid "Save _As..."
+msgstr "ಹೀಗೆ ಉಳಿಸು(_A)..."
 
-msgid "Saving CSS failed"
-msgstr "CSS ಉಳಿಸುವುದು ವಿಫಲಗೊಂಡಿದೆ"
+msgid "Scale"
+msgstr "ಮಾಪಕ"
 
-msgid "Sc_ale:"
-msgstr "ಸ್ಕೇಲ್ (_a):"
+msgid "Scaling Factor"
+msgstr "ಅಳತೆ ಬದಲಾಯಿಸುವ ಅಂಶ"
 
-msgid "Scarlet Red"
-msgstr "ಕಡು ಕೆಂಪು"
+msgid "Scan"
+msgstr "ಪರಿಶೋಧಿಸು"
 
-msgid "ScreenSaver"
-msgstr "ScreenSaver"
+msgid "Screen"
+msgstr "ಪರದೆ"
 
-msgid "Scroll_Lock"
-msgstr "Scroll_Lock"
+msgid "Script"
+msgstr "ಸ್ಕ್ರಿಪ್ಟು"
 
-msgid "Se_lection"
-msgstr "ಆಯ್ಕೆ (_l)"
+msgid "Scrollbars"
+msgstr "ಚಲನಪಟ್ಟಿಕೆಗಳು"
 
 msgid "Search"
-msgstr "ಹುಡುಕು"
+msgstr "ಅಂತರಜಾಲ"
 
-msgid "Search font name"
-msgstr "ಅಕ್ಷರಶೈಲಿಯನ್ನು ಹುಡುಕು"
-
-msgid "Secret"
-msgstr "ರಹಸ್ಯ"
+msgid "Security"
+msgstr "ಸುರಕ್ಷತೆ"
 
 msgid "Select"
-msgstr "ಆರಿಸು"
+msgstr "ಆಯ್ಕೆಮಾಡು"
 
-msgid "Select Application"
-msgstr "ಅನ್ವಯವನ್ನು ಆಯ್ಕೆ ಮಾಡು"
+msgid "Select All"
+msgstr "ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡು"
 
-msgid "Select Font"
-msgstr "ಅಕ್ಷರಶೈಲಿ ಆರಿಸು"
+msgid "Select Source"
+msgstr "ಆಕರವನ್ನು ಆಯ್ಕೆಮಾಡು"
+
+msgid "Select Theme"
+msgstr "ಸಿದ್ಧವಿನ್ಯಾಸವನ್ನು ಆರಿಸು"
 
 msgid "Select _All"
 msgstr "ಎಲ್ಲವನ್ನೂ ಆರಿಸು (_A)"
 
-msgid "Select a Color"
-msgstr "ಒಂದು ಬಣ್ಣವನ್ನು ಆರಿಸು"
+msgid "Selection"
+msgstr "ಆಯ್ಕೆ"
 
-msgid "Select a File"
-msgstr "ಒಂದು ಕಡತವನ್ನು ಆರಿಸು"
+msgid "Send"
+msgstr "ಕಳುಹಿಸು"
 
-msgid "Select a filename"
-msgstr "ಒಂದು ಕಡತದ ಹೆಸರನ್ನು ಆರಿಸು"
+msgid "Separator"
+msgstr "ವಿಭಾಜಕ"
 
-msgid "Select an Object"
-msgstr "ಒಂದು ಚಿಹ್ನೆಯನ್ನು ಆರಿಸು"
-
-msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
-msgstr "ಹೊರಗಿನ ವೃತ್ತದಿಂದ ನಿಮಗೆ ಬೇಕಿರುವ ಬಣ್ಣವನ್ನು ಆರಿಸಿ. ಅದರ ಗಾಢ ಬಣ್ಣ ಅಥವ ತಿಳಿ ಬಣ್ಣವನ್ನು ಆರಿಸಲು ಒಳಗಿನ ತ್ರಿಕೋನವನ್ನು ಬಳಸಿ."
-
-msgid "Select this device at startup"
-msgstr "ಆರಂಭದಲ್ಲಿ ಒಂದು ಸಾಧನವನ್ನು ಆಯ್ಕೆ ಮಾಡು"
-
-msgid "Select which type of documents are shown"
-msgstr "ಯಾವ ಬಗೆಯ ದಸ್ತಾವೇಜುಗಳು ತೋರಿಸಲ್ಪಟ್ಟಿವೆ ಎಂಬುದನ್ನು ಆರಿಸಿ"
-
-msgid "Select which types of files are shown"
-msgstr "ಯಾವ ಬಗೆಗಳನ್ನು ಕಡತಗಳನ್ನು ತೋರಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ಆರಿಸಿ"
-
-msgid "Selects the color"
-msgstr "ಒಂದು ಬಣ್ಣವನ್ನು ಆರಿಸುತ್ತದೆ"
-
-msgid "Send Widget to Shell"
-msgstr "ವಿಜೆಟ್‌ ಅನ್ನು ಶೆಲ್‌ಗೆ ಕಳುಹಿಸು"
-
-msgid "Sending data"
-msgstr "ದತ್ತಾಂಶವನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ"
-
-msgid "Serial ATA"
-msgstr "ಸೀರಿಯಲ್ ATA"
-
-msgid "Serial number"
-msgstr "ಅನುಕ್ರಮ ಸಂಖ್ಯೆ"
-
-msgid "Serialized data is malformed"
-msgstr "ಅನುಕ್ರಮಿತ ದತ್ತಾಂಶವು ವಿರೂಪಗೊಂಡಿದೆ."
-
-msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
-msgstr "ಅನುಕ್ರಮಿತ ದತ್ತಾಂಶವು ವಿರೂಪಗೊಂಡಿದೆ. ಪ್ರಥಮ ವಿಭಾಗವು GTKTEXTBUFFERCONTENTS-0001 ಆಗಿಲ್ಲ"
+msgid "Server"
+msgstr "ಪರಿಚಾರಕ"
 
 msgid "Services"
 msgstr "ಸೇವೆಗಳು"
 
-msgid "Setting is hardcoded by GTK_TEST_TOUCHSCREEN"
-msgstr "ಸಿದ್ಧತೆಯನ್ನು GTK_TEST_TOUCHSCREEN ಇಂದ ಹಾರ್ಡ್‌ಕೋಡ್ ಮಾಡಲಾಗಿದೆ"
+msgid "Settings"
+msgstr "ಸಿದ್ಧತೆಗಳು"
 
-msgid "Setting:"
-msgstr "ಸಿದ್ಧತೆಗಳು:"
+msgid "Shape"
+msgstr "ಆಕಾರ"
+
+msgid "Sharpen"
+msgstr "ತೀಕ್ಷ್ಣವಾಗಿಸು"
+
+msgid "Shell"
+msgstr "ಕವಚ"
 
 msgid "Shift"
-msgstr "Shift"
+msgstr "ಸ್ಥಳಾಂತರ"
 
-msgid "Short Edge (Flip)"
-msgstr "ಸಣ್ಣ ಅಂಚು (ಮಡುಚು)"
+msgid "Show"
+msgstr "ತೋರಿಸು"
 
 msgid "Show All"
-msgstr "ಎಲ್ಲವನ್ನೂ ತೋರಿಸು"
-
-msgid "Show Baselines"
-msgstr "ಮೂಲರೇಖೆಗಳನ್ನು ತೋರಿಸು"
-
-msgid "Show GTK+ Options"
-msgstr "GTK+ ಆಯ್ಕೆಗಳನ್ನು ತೋರಿಸು"
-
-msgid "Show Graphic Updates"
-msgstr "ಗ್ರಾಫಿಕ್‌ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ತೋರಿಸು"
-
-msgid "Show Pixel Cache"
-msgstr "ಪಿಕ್ಸೆಲ್‌ ಕ್ಯಾಶೆಯನ್ನು ತೋರಿಸು"
-
-msgid "Show _Hidden Files"
-msgstr "ಗೌಪ್ಯವಾಗಿರಸಲಾದ ಕಡತಗಳನ್ನು ತೋರಿಸು (_H)"
-
-msgid "Show _Private Resources"
-msgstr "ಖಾಸಗಿ ಸಂಪನ್ಮೂಲಗಳನ್ನು ತೋರಿಸು (_P)"
-
-msgid "Show _Size Column"
-msgstr "ಗಾತ್ರದ ಉದ್ದಸಾಲನ್ನು ತೋರಿಸು (_S)"
-
-msgid "Show data"
-msgstr "ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು"
-
-msgid "Show data points"
-msgstr "ದತ್ತಾಂಶ ಮಾಹಿತಿಗಳನ್ನು ತೋರಿಸು"
-
-msgid "Show extra debugging information"
-msgstr "ಹೆಚ್ಚಿನ ದೋಷನಿವಾರಣಾ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು"
-
-msgid "Si_ze:"
-msgstr "ಗಾತ್ರ (_z):"
-
-msgid "Signals"
-msgstr "ಸಂಕೇತಗಳು"
+msgstr "ಎಲ್ಲ ತೋರಿಸು"
 
 msgid "Simple"
 msgstr "ಸರಳ"
 
-msgid "Simulate touchscreen"
-msgstr "ಟಚ್‌ಸ್ಕ್ರೀನ್‌ ಅನ್ನು ಅನುಕರಿಸು"
+msgid "Sine"
+msgstr "ಸೈನ್"
 
 msgid "Size"
 msgstr "ಗಾತ್ರ"
 
-msgid "Size Groups"
-msgstr "ಗಾತ್ರದ ಗುಂಪುಗಳು"
+msgid "Skewness"
+msgstr "ಪ್ರವಣತೆ"
 
-msgid "Size of the palette in 8 bit mode"
-msgstr "8 ಬಿಟ್ ಪದ್ದತಿಯಲ್ಲಿ ವರ್ಣಫಲಕದ ಗಾತ್ರ"
+msgid "Skip"
+msgstr "ಉಪೇಕ್ಷಿಸು"
 
-msgid "Size:"
-msgstr "ಗಾತ್ರ:"
+msgid "Slant"
+msgstr "ಓರೆ"
 
-msgid "Sky Blue"
-msgstr "ಆಕಾಶ ನೀಲಿ"
+msgid "Small"
+msgstr "ಚಿಕ್ಕದು"
 
-msgid "Sleep"
-msgstr "ನಿದ್ರಿಸು"
+msgid "Smart"
+msgstr "ಚತುರ(ಸ್ಮಾರ್ಟ್)"
 
-msgid "Small Photo"
-msgstr "ಚಿಕ್ಕ ಭಾವಚಿತ್ರ"
+msgid "Snap"
+msgstr "ಸೆಳೆ"
 
-msgid "Some of the settings in the dialog conflict"
-msgstr "ಸಂವಾದದಲ್ಲಿನ ಕೆಲವೊಂದು ಸಿದ್ಧತೆಗಳಲ್ಲಿ ಭಿನ್ನಾಭಿಪ್ರಾಯವಿದೆ"
+msgid "Socket"
+msgstr "ಸಾಕೆಟ್"
 
-msgid "Source:"
-msgstr "ಆಕರ:"
+msgid "Sort"
+msgstr "ವಿಂಗಡಿಸು"
+
+msgid "Source"
+msgstr "ಆಕರ"
+
+msgid "Source Text"
+msgstr "ಆಧಾರ ಪಠ್ಯ"
+
+msgid "Source code"
+msgstr "ಆಕರ ಸಂಕೇತ"
 
 msgid "Space"
-msgstr "ಸ್ಪೇಸ್"
+msgstr "ಸ್ಥಳ"
 
-msgid "Specify one or more page ranges,\n e.g. 1-3,7,11"
-msgstr "ಒಂದು ಅಥವ ಹೆಚ್ಚಿನ ಪುಟ ವ್ಯಾಪ್ತಿಗಳನ್ನು ಸೂಚಿಸಿ,\n ಉದಾ. 1-3,7,11"
+msgid "Spacing"
+msgstr "ಅಂತರ"
 
-msgid "Specify the time of print,\n e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
-msgstr "ಮುದ್ರಿಸುವ ಸಮಯವನ್ನು ಸೂಚಿಸಿ,\n ಉದಾ. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgid "Special Characters"
+msgstr "(ವಿಶೇಷ ಅಕ್ಷರಗಳು)"
+
+msgid "Sphere"
+msgstr "ಗೋಳ"
+
+msgid "Spherical"
+msgstr "ಗೋಳಾಕಾರ"
 
 msgid "Spinner"
-msgstr "ಪರಿಭ್ರಮಕ"
+msgstr "ಸ್ಪಿನ್ನರ್"
+
+msgid "Split"
+msgstr "ವಿಭಾಗಿಸು"
+
+msgid "Square"
+msgstr "ಚೌಕ"
 
 msgid "Standard"
-msgstr "ಸಾಮಾನ್ಯ"
+msgstr "ಶಿಷ್ಟ"
+
+msgid "Start"
+msgstr "ಆರಂಭ"
 
 msgid "State"
-msgstr "ಸ್ಥಿತಿ"
+msgstr "ರಾಜ್ಯ"
 
 msgid "Statistics"
 msgstr "ಅಂಕಿಅಂಶಗಳು"
 
 msgid "Status"
-msgstr "ಸ್ಥಿತಿ"
+msgstr "ಪರಿಸ್ಥಿತಿ"
 
-msgid "Style Properties"
-msgstr "ಶೈಲಿ ಗುಣಗಳು"
+msgid "Strikethrough"
+msgstr "ಹೊಡೆದುಹಾಕು"
 
-msgid "Super"
-msgstr "ಸೂಪರ್"
+msgid "String"
+msgstr "ವಾಕ್ಯ"
 
-msgid "Super A"
-msgstr "ಸೂಪರ್ A"
+msgid "Style"
+msgstr "ಶೈಲಿ"
 
-msgid "Super B"
-msgstr "ಸೂಪರ್ B"
+msgid "Subject"
+msgstr "ವಿಷಯ"
 
-msgid "Supply"
-msgstr "ಪೂರೈಕೆ"
+msgid "Submit"
+msgstr "ಒಪ್ಪಿಸು"
+
+msgid "Subscript"
+msgstr "ಅಡಿಅಕ್ಷರ"
+
+msgid "Suffix"
+msgstr "ಉತ್ತರ ಪ್ರತ್ಯಯ"
+
+msgid "Suggestions"
+msgstr "ಸೂಚನೆ :"
+
+msgid "Superscript"
+msgstr "ಮೇಲಕ್ಷರ"
 
 msgid "Suspend"
 msgstr "ಅಮಾನತು"
 
-msgid "Sys_Req"
-msgstr "Sys_Req"
+msgid "Symbol"
+msgstr "ಚಿಹ್ನೆ"
+
+msgid "Synchronize"
+msgstr "ಮೇಳೈಸು"
 
 msgid "System"
 msgstr "ವ್ಯವಸ್ಥೆ"
 
-msgid "System (%{string})"
-msgstr "ವ್ಯವಸ್ಥೆ (%{string})"
-
-msgid "System policy prevents changes.\nContact your system administrator"
-msgstr "ವ್ಯವಸ್ಥೆಯ ಪಾಲಿಸಿಯು ಬದಲಾವಣೆಗಳನ್ನು ತಡೆಯುತ್ತಿದೆ.\nನೆರವಿಗಾಗಿ ನಿಮ್ಮ ಗಣಕ ವ್ಯವಸ್ಥಾಪಕರನ್ನು ಕೇಳಿ"
-
-msgid "T_wo-sided:"
-msgstr "ಎರಡು ಬದಿಯ (_w):"
-
 msgid "Tab"
-msgstr "Tab"
+msgstr "ಟ್ಯಾಬ್"
 
-msgid "Tablet"
-msgstr "ಕಿಸೆಗಣಕ (ಟ್ಯಾಬ್ಲೆಟ್‌)"
-
-msgid "Tablets"
-msgstr "ಕಿಸೆಗಣಕಗಳು (ಟ್ಯಾಬ್ಲೆಟ್ಸ್‍)"
+msgid "Table"
+msgstr "ಕೋಷ್ಟಕ"
 
 msgid "Tabloid"
-msgstr "ಟ್ಯಾಬ್ಲಾಯ್ಡ್‍"
-
-msgid "Tag \"%{string}\" already defined"
-msgstr "ತಲೆಚೀಟಿ(tag) \"%{string}\" ಯನ್ನು ಈಗಾಗಲೆ ವಿವರಿಸಲಾಗಿದೆ"
-
-msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
-msgstr "ತಲೆಚೀಟಿ \"%{string}\" ವು ಬಫರಿನಲ್ಲಿ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ಹಾಗು ತಲೆಚೀಟಿಗಳನ್ನು ರಚಿಸಲಾಗುವುದಿಲ್ಲ."
-
-msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
-msgstr "ತಲೆಚೀಟಿ(tag) \"%{string}\" ಯು ಅಮಾನ್ಯ ಆದ್ಯತೆ \"%{string}\" ಯನ್ನು ಹೊಂದಿದೆ"
-
-msgid "Tag \"%{string}\" has not been defined."
-msgstr "ತಲೆಚೀಟಿ(Tag) \"%{string}\" ಅನ್ನು ವಿವರಿಸಲಾಗಿಲ್ಲ."
+msgstr "ಟ್ಯಾಬ್ಲಾಯ್ಡ್"
 
 msgid "Target"
 msgstr "ಗುರಿ"
 
-msgid "Technology"
-msgstr "ತಂತ್ರಜ್ಞಾನ"
+msgid "Te_xt"
+msgstr "ಪಠ್ಯ (_x)"
 
-msgid "Terminal Pager"
-msgstr "ಟರ್ಮಿನಲ್ ಪೇಜರ್"
+msgid "Templates"
+msgstr "ನಮೂನೆಗಳು"
 
-msgid "Text Direction"
-msgstr "ಪಠ್ಯ ದಿಕ್ಕು"
+msgid "Term"
+msgstr "ಟರ್ಮ್"
 
-msgid "Thai-Lao"
-msgstr "ಥಾಯ್-ಲಾವೊ"
+msgid "Test"
+msgstr "ಪರೀಕ್ಷೆ"
 
-msgid "The ID of the last device selected"
-msgstr "ಕೊನೆಯ ಬಾರಿಗೆ ಆಯ್ಕೆ ಮಾಡಲಾದ ID"
+msgid "Text"
+msgstr "ಪಠ್ಯ"
 
-msgid "The MIT License (MIT)"
-msgstr "The MIT License (MIT)"
+msgid "Text alignment"
+msgstr "ಪಠ್ಯದ ಹೊಂದಿಕೆ"
 
-msgid "The color you've chosen."
-msgstr "ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ಬಣ್ಣ"
-
-msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
-msgstr "ನೀವು ಆರಿಸಿದ ಬಣ್ಣ. ಈ ಬಣ್ಣವನ್ನು ಒಂದು ವರ್ಣಫಲಕ ನಮೂದಿಗೆ ಸೇರಿಸುವ ಮೂಲಕ ಭವಿಷ್ಯದಲ್ಲಿ ಬಳಸಲು ಉಳಿಸಿಕೊಳ್ಳಬಹುದು."
-
-msgid "The cover is open on printer '%{string}'."
-msgstr "'%{string}' ಮುದ್ರಕದ ಹೊದಿಕೆಯು ತೆರೆದಿದೆ."
-
-msgid "The default graph type to show for history"
-msgstr "ಇತಿಹಾಸಕ್ಕಾಗಿ ತೋರಿಸಬೇಕಿರುವ ಪೂರ್ವನಿಯೋಜಿತ ನಕ್ಷೆಯ ಬಗೆ"
-
-msgid "The default graph type to show for stats"
-msgstr "ಅಂಕಿಅಂಶಕ್ಕಾಗಿ ತೋರಿಸಬೇಕಿರುವ ಪೂರ್ವನಿಯೋಜಿತ ನಕ್ಷೆಯ ಬಗೆ"
-
-msgid "The default graph type to show in the history window."
-msgstr "ಇತಿಹಾಸ ಕಿಟಕಿಗಾಗಿ ತೋರಿಸಬೇಕಿರುವ ಪೂರ್ವನಿಯೋಜಿತ ನಕ್ಷೆಯ ಬಗೆ."
-
-msgid "The default graph type to show in the stats window."
-msgstr "ಅಂಕಿಅಂಶದ ಕಿಟಕಿಗಾಗಿ ತೋರಿಸಬೇಕಿರುವ ಪೂರ್ವನಿಯೋಜಿತ ನಕ್ಷೆಯ ಬಗೆ."
-
-msgid "The door is open on printer '%{string}'."
-msgstr "'%{string}' ಮುದ್ರಕದ ಬಾಗಿಲು ತೆರೆದಿದೆ."
-
-msgid "The file already exists in “%{string}”.  Replacing it will overwrite its contents."
-msgstr "“%{string}” ಹೆಸರಿನ ಒಂದು ಕಡತವು ಈಗಾಗಲೆ ಇದೆ.  ನೀವದನ್ನು ಬದಲಿ ಮಾಡಿದರೆ ಅದು ತಿದ್ದಿಬರೆಯಲ್ಪಡುತ್ತದೆ."
-
-msgid "The folder contents could not be displayed"
-msgstr "ಕಡತಕೋಶದಲ್ಲಿನ ಅಂಶಗಳನ್ನು ತೋರಿಸಲಾಗಿಲ್ಲ"
-
-msgid "The folder could not be created"
-msgstr "ಕಡತಕೋಶವನ್ನು ಸೃಷ್ಟಿಸಲಾಗಿಲ್ಲ"
-
-msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
-msgstr "ಕಡತಕೋಶವನ್ನು ಸೃಷ್ಟಿಸಲಾಗಿಲ್ಲ, ಏಕೆಂದರೆ ಇದೆ ಹೆಸರಿನ ಕಡತವು ಈಗಾಗಲೆ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.  ಕಡತಕೋಶಕ್ಕೆ ಬೇರೊಂದು ಹೆಸರನ್ನು ಕೊಡುವ ಮೂಲಕ ಪ್ರಯತ್ನಿಸಿ, ಅಥವ ಕಡತವನ್ನು ಮೊದಲು ಪುನರ್ ಹೆಸರಿಸಿ."
-
-msgid "The generated cache was invalid.\n"
-msgstr "ನಿರ್ಮಿಸಲಾದ ಕ್ಯಾಶೆಯು ಅಮಾನ್ಯವಾಗಿದೆ.\n"
-
-msgid "The identifier of the last device which is used to return focus to the correct device."
-msgstr "ಕೊನೆಯ ಸಾಧನದ ಗುರುತು, ಸರಿಯಾದ ಪುಟಕ್ಕೆ ಗಮನಹರಿಸಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ."
-
-msgid "The index of the page number to show by default"
-msgstr "ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ತೋರಿಸಬೇಕಿರುವ ಪುಟದ ಸಂಖ್ಯೆಯ ಸೂಚಿ"
-
-msgid "The index of the page number to show by default which is used to return focus to the correct page."
-msgstr "ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ತೋರಿಸಬೇಕಿರುವ ಪುಟದ ಸಂಖ್ಯೆಯ ಸೂಚಿ, ಸರಿಯಾದ ಪುಟಕ್ಕೆ ಗಮನಹರಿಸಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ."
-
-msgid "The item that you selected is not a folder try using a different item."
-msgstr "ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ್ದು ಕಡತಕೋಶವಲ್ಲ, ಬೇರೊಂದು ಅಂಶವನ್ನು ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ."
-
-msgid "The license of the program"
-msgstr "ಪ್ರೋಗ್ರಾಂನ ಪರವಾನಗಿ"
-
-msgid "The maximum duration of time displayed on the x-axis of the history graph."
-msgstr "ಇತಿಹಾಸದ ನಕ್ಷೆಯಲ್ಲಿನ x-ಅಕ್ಷದಲ್ಲಿ ತೋರಿಸಲಾಗುವ ತೋರಿಸಲಾದ ಗರಿಷ್ಟ ಸಮಯದ ಕಾಲಾವಧಿ."
-
-msgid "The maximum time displayed for history"
-msgstr "ಇತಿಹಾಸಕ್ಕಾಗಿ ತೋರಿಸಲಾಗುವ ತೋರಿಸಲಾದ ಗರಿಷ್ಟ ಸಮಯ"
-
-msgid "The most probable reason is that a temporary file could not be created."
-msgstr "ಸಾಧ್ಯವಿರಬಹುದಾದ ಒಂದು ಕಾರಣವೆಂದರೆ ತಾತ್ಕಾಲಿಕ ಕಡತವನ್ನು ಸೃಷ್ತಿಸುವಲ್ಲಿ ಉಂಟಾದ ವಿಫಲತೆ."
-
-msgid "The previously-selected color, for comparison to the color you're selecting now."
-msgstr "ಈ ಮೊದಲು ಆರಿಸಲಾದ ಬಣ್ಣ, ನೀವು ಈಗ ಆರಿಸಲಿರುವ ಬಣ್ಣಕ್ಕೆ ಹೋಲಿಸಲು."
-
-msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
-msgstr "ಈ ಮೊದಲು ಆರಿಸಲಾದ ಬಣ್ಣ, ನೀವು ಈಗ ಆರಿಸಲಿರುವ ಬಣ್ಣಕ್ಕೆ ಹೋಲಿಸಲು. ನೀವು ಈ ಬಣ್ಣವನ್ನು ಒಂದು ವರ್ಣಫಲಕ ನಮೂದಿಗೆ ಸೇರಿಸಬಹುದು, ಅಥವ ಪಕ್ಕದಲ್ಲಿರುವ ಇನ್ನೊಂದು ಬಣ್ಣ ಮಾದರಿಗೆ ಸೇರಿಸುವ ಮೂಲಕ ಈ ಬಣ್ಣವನ್ನು ಚಾಲ್ತಿಗೆ ಆರಿಸಿ."
-
-msgid "The program was not able to create a connection to the indexer daemon.  Please make sure it is running."
-msgstr "ಈ ಪ್ರೋಗ್ರಾಂ ಸೂಚಕ ಡೆಮೊನಿಗೆ (indexer daemon) ಸಂಪರ್ಕವನ್ನು ಕಲ್ಪಿಸಲಾಗಿಲ್ಲ. ಅದು ಚಾಲನೆಯಲ್ಲಿದೆ ಎಂದು ದಯವಿಟ್ಟು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+msgid "Text only"
+msgstr "ಪಠ್ಯ ಮಾತ್ರ"
 
 msgid "Theme"
-msgstr "ಥೀಮ್"
+msgstr "ಪರಿಸರ ವಿನ್ಯಾಸ"
 
-msgid "Theme is hardcoded by GTK_THEME"
-msgstr "ಥೀಮ್ ಅನ್ನು GTK_THEME ಇಂದ ಹಾರ್ಡ್‌ಕೋಡ್ ಮಾಡಲಾಗಿದೆ"
+msgid "Time"
+msgstr "ಸಮಯ"
 
-msgid "There is a problem on printer '%{string}'."
-msgstr "'%{string}' ಮುದ್ರಕಕ್ಕೆ ಒಂದು ತೊಂದರೆ ಎದುರಾಗಿದೆ."
+msgid "Time format"
+msgstr "ವೇಳೆಯ ರಚನೆ"
 
-msgid "There is no data to display."
-msgstr "ತೋರಿಸಲು ಯಾವುದೆ ದತ್ತಾಂಶವಿಲ್ಲ."
+msgid "Timeout"
+msgstr "ಸಮಯತೀರಿಕೆ"
 
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "ಟಿಗ್ರಿಗ್ನಾ-ಇರಿಟ್ರಿಯನ್ (EZ+)"
+msgid "Timing"
+msgstr "ಸಮಯ ಹೊಂದಿಸುವಿಕೆ"
 
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "ಟಿಗ್ರಿಗ್ನಾ-ಇಥಿಯೋಪಿಯನ್ (EZ+)"
+msgid "Tiny"
+msgstr "ಅತಿ ಚಿಕ್ಕದು"
 
-msgid "Time elapsed"
-msgstr "ಕಳೆದ ಸಮಯ"
-
-msgid "Time of print"
-msgstr "ಮುದ್ರಿಸಲು ಬೇಕಿರುವ ಸಮಯ"
-
-msgid "Time to empty"
-msgstr "ಖಾಲಿ ಮಾಡಲು ಬೇಕಿರುವ ಸಮಯ"
-
-msgid "Time to full"
-msgstr "ಪೂರ್ಣಗೊಳಿಕೆಯ ಸಮಯ"
+msgid "Title"
+msgstr "ಶೀರ್ಷಿಕೆ"
 
 msgid "Toggle"
-msgstr "ಹೊರಳಿಸು"
+msgstr "ಟಾಗಲ್"
 
-msgid "Toggles the cell"
-msgstr "ಕೋಶವನ್ನು ಹೊರಳಿಸುತ್ತದೆ"
+msgid "Tolerance"
+msgstr "ಸಹಿಷ್ಣುತೆ"
 
-msgid "Toggles the switch"
-msgstr "ಸ್ವಿಚ್‌ ಅನ್ನು ಹೊರಳಿಸುತ್ತದೆ"
+msgid "Toolbar"
+msgstr "ಉಪಕರಣಪಟ್ಟಿ"
 
-msgid "Top Command"
-msgstr "ಮೇಲಿನ ಆಜ್ಞೆ"
-
-msgid "Top Secret"
-msgstr "ಉನ್ನತ ರಹಸ್ಯ"
+msgid "Tools"
+msgstr "ಉಪಕರಣಗಳು"
 
 msgid "Top to bottom"
-msgstr "ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ"
+msgstr "ಮೇಲಿನಿಂದ ಕೆಳಗೆ"
 
-msgid "Top to bottom, left to right"
-msgstr "ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ, ಎಡದಿಂದ ಬಲಕ್ಕೆ"
+msgid "Total"
+msgstr "ಒಟ್ಟು"
 
-msgid "Top to bottom, right to left"
-msgstr "ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ, ಬಲದಿಂದ ಎಡಕ್ಕೆ"
+msgid "Tr_ansparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
 
-msgid "TouchpadToggle"
-msgstr "TouchpadToggle"
+msgid "Transform"
+msgstr "ರೂಪಾಂತರಿಸು"
 
-msgid "Trace signal emissions on this object"
-msgstr "ಈ ವಸ್ತುವಿನಲ್ಲಿ ಸಂಜ್ಞೆಯ ಸೂಸುವಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಿ"
+msgid "Translate"
+msgstr "ಭಾಷಾಂತರಿಸಿ"
 
-msgid "Translated by"
-msgstr "ಅನುವಾದಿಸಿದವರು"
+msgid "Transparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
 
-msgid "Transparency of the color."
-msgstr "ಬಣ್ಣದ ಪಾರದರ್ಶಕತೆ."
+msgid "Transparent"
+msgstr "ಪಾರದರ್ಶಕ"
+
+msgid "Transpose"
+msgstr "ಸ್ಥಾನ ಪರಿವರ್ತನೆ ಮಾಡು (_T)"
 
 msgid "Trash"
-msgstr "ಕಸದ ಬುಟ್ಟಿ"
-
-msgid "Try using a shorter name."
-msgstr "ಒಂದು ಸಂಕ್ಷಿಪ್ತ ಹೆಸರನ್ನು ಬಳಸಲು ಪ್ರಯತ್ನಿಸಿ."
-
-msgid "Turn off verbose output"
-msgstr "ವರ್ಬೊಸ್ ಔಟ್‌ಪುಟ್‌ ಅನ್ನು ಆಫ್ ಮಾಡಿ"
-
-msgid "Turns volume up or down"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚು ಅಥವ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ"
-
-msgid "Two Sided"
-msgstr "ಎರಡು ಬದಿಯ"
+msgstr "ಕಸ"
 
 msgid "Type"
 msgstr "ಬಗೆ"
 
-msgid "Type name of new folder"
-msgstr "ಹೊಸ ಕಡತಕೋಶದ ಹೆಸರನ್ನು ಟೈಪಿಸಿ"
+msgid "URI"
+msgstr "URI"
 
-msgid "Type:"
-msgstr "ಬಗೆ:"
+msgid "URL"
+msgstr "ಜಾಲತಾಣಸೂಚಿ"
 
-msgid "UPS"
-msgstr "UPS"
+msgid "Underline"
+msgstr "ಅಡಿಗೆರೆ"
 
-msgid "UPSs"
-msgstr "UPSಗಳು"
+msgid "Undo"
+msgstr "ರದ್ದುಮಾಡು"
 
-msgid "US Legal"
-msgstr "ಯುಎಸ್ ಲೀಗಲ್"
-
-msgid "US Legal Extra"
-msgstr "ಯುಎಸ್ ಲೀಗಲ್ ಎಕ್ಸ್ಟ್ರಾ"
-
-msgid "US Letter"
-msgstr "ಯುಎಸ್ ಲೆಟರ್"
-
-msgid "US Letter Extra"
-msgstr "ಯುಎಸ್ ಲೆಟರ್ ಎಕ್ಸ್ಟ್ರಾ"
-
-msgid "US Letter Plus"
-msgstr "ಯುಎಸ್ ಲೆಟರ್ ಪ್ಲಸ್"
-
-msgid "Unable to access “%{string}”"
-msgstr "“%{string}” ಅನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
-
-msgid "Unable to end process"
-msgstr "ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅಂತ್ಯಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
-
-msgid "Unable to find an item with URI '%{string}'"
-msgstr "URI '%{string}' ನೊಂದಿಗಿನ ಒಂದು ಅಂಶವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿಲ್ಲ"
-
-msgid "Unable to poll %{string} for media changes"
-msgstr "%{string} ಅನ್ನು ಮಾಧ್ಯಮ ಬದಲಾವಣೆಗಳಿಗಾಗಿ ಪೋಲ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ"
-
-msgid "Unavailable"
-msgstr "ಅಲಭ್ಯ"
-
-msgid "Unclassified"
-msgstr "ವರ್ಗೀಕೃತಗೊಳ್ಳದ್ದು"
-
-msgid "Unhandled tag: '%{string}'"
-msgstr "ನಿಭಾಯಿಸದ ಟ್ಯಾಗ್: '%{string}'"
+msgid "Unicode"
+msgstr "ಯೂನಿಕೋಡ್"
 
 msgid "Unknown"
-msgstr "ಗೊತ್ತಿಲ್ಲದ"
+msgstr "ಗೊತ್ತಿರದ"
 
-msgid "Unknown Application (PID %{number})"
-msgstr "ಗೊತ್ತಿರದ ಅನ್ವಯ (PID %{number})"
-
-msgid "Unknown item"
-msgstr "ಅಜ್ಞಾತ ಅಂಶ"
-
-msgid "Unknown technology"
-msgstr "ಗೊತ್ತಿರದ ತಂತ್ರಜ್ಞಾನ"
-
-msgid "Unlock"
-msgstr "ಅನ್‌ಲಾಕ್ ಮಾಡು"
-
-msgid "Unnamed section"
-msgstr "ಹೆಸರಿಸದ ವಿಭಾಗ"
-
-msgid "Unspecified error"
-msgstr "ನಿಖರವಾಗದ ದೋಷ"
-
-msgid "Unspecified profile"
-msgstr "ಸೂಚಿಸದೆ ಇರುವ ಪ್ರೊಫೈಲ್"
-
-msgid "Untitled filter"
-msgstr "ಶೀರ್ಷಿಕೆ ರಹಿತ ಶೋಧಕ(filter)"
+msgid "Untitled"
+msgstr "ಶೀರ್ಷಿಕೆರಹಿತ"
 
 msgid "Up"
 msgstr "ಮೇಲೆ"
 
-msgid "Up Path"
-msgstr "ಮೇಲಿನ ಪಥ"
+msgid "Update"
+msgstr "ಅಪ್‌ಡೇಟ್‌ ಮಾಡು"
 
-msgid "Urgent"
-msgstr "ತುರ್ತು"
+msgid "User"
+msgstr "ಬಳಕೆದಾರರು"
 
-msgid "Use smoothed line"
-msgstr "ಮೃದುಗೊಳಿಸಲಾದ ರೇಖೆಗಳನ್ನು ಬಳಸು"
+msgid "User Interface"
+msgstr "ಬಳಕೆದಾರ ಸಂಪರ್ಕಸಾಧನ"
 
-msgid "Username:"
-msgstr "ಬಳಕೆದಾರಹೆಸರು:"
+msgid "Username"
+msgstr "ಬಳಕೆದಾರನ ಹೆಸರು"
 
-msgid "V"
-msgstr "V"
-
-msgid "Validate existing icon cache"
-msgstr "ಪ್ರಸ್ತುತ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಕ್ಯಾಶೆಯನ್ನು ಸಕ್ರಮಗೊಳಿಸು"
+msgid "V_alue"
+msgstr "ಮೌಲ್ಯ (_a)"
 
 msgid "Value"
 msgstr "ಮೌಲ್ಯ"
 
+msgid "Variable"
+msgstr "ಚರ"
+
 msgid "Vendor"
 msgstr "ಮಾರಾಟಗಾರ"
 
+msgid "Version"
+msgstr "ಆವೃತ್ತಿ"
+
 msgid "Vertical"
-msgstr "ಲಂಬ"
+msgstr "ಉದ್ದ"
 
-msgid "Very Dark Gray"
-msgstr "ಅತ್ಯಂತ ಗಾಢ ಬೂದು"
+msgid "Vertical Alignment"
+msgstr "ಲಂಬ ಹೊಂದಾಣಿಕೆ"
 
-msgid "Very Light Gray"
-msgstr "ಅತ್ಯಂತ ತಿಳಿ ಬೂದು"
+msgid "Video"
+msgstr "ವೀಡಿಯೊ"
 
-msgid "Vietnamese (VIQR)"
-msgstr "ವಿಯೆಟ್ನಾಮೀಸ್ (VIQR)"
+msgid "View"
+msgstr "ನೋಟ"
 
-msgid "Visual"
-msgstr "ವಿಶುವಲ್"
-
-msgid "Voltage"
-msgstr "ವೋಲ್ಟೇಜ್"
+msgid "Visible"
+msgstr "ಗೋಚರ"
 
 msgid "Volume"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣ"
-
-msgid "Volume Down"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣ ಕಡಿಮೆ"
-
-msgid "Volume Up"
-msgstr "ಧ್ವನಿಪ್ರಮಾಣ ಹೆಚ್ಚಳ"
-
-msgid "WLAN"
-msgstr "WLAN"
+msgstr "ಧ್ವನಿಯ ಪ್ರಮಾಣ"
 
 msgid "Waiting"
-msgstr "ಕಾಯಲಾಗುತ್ತಿದೆ"
-
-msgid "Waiting to charge"
-msgstr "ಚಾರ್ಜ್ ಆಗಲು ಕಾಯುತ್ತಿದೆ"
-
-msgid "Waiting to discharge"
-msgstr "ಡಿಸ್‌ಚಾರ್ಜ್ ಆಗಲು ಕಾಯುತ್ತಿದೆ"
-
-msgid "WakeUp"
-msgstr "WakeUp"
-
-msgid "Wakeups"
-msgstr "ಎಚ್ಚರದ ಸ್ಥಿತಿ"
+msgstr "ನಿರೀಕ್ಷಿಸುತ್ತಿದೆ"
 
 msgid "Warning"
 msgstr "ಎಚ್ಚರಿಕೆ"
 
-msgid "WebCam"
-msgstr "ವೆಬ್‌ಕ್ಯಾಮ್"
+msgid "Web Page"
+msgstr "ಜಾಲಪುಟ"
 
 msgid "Website"
 msgstr "ಜಾಲತಾಣ"
 
-msgid "Whether we should show the history data points"
-msgstr "ಇತಿಹಾಸ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ತೋರಿಸಬೇಕೆ"
+msgid "Weight"
+msgstr "ತೂಕ"
 
-msgid "Whether we should show the history data points in the statistics window."
-msgstr "ಅಂಕಿಅಂಶಗಳ ಕಿಟಕಿಯಲ್ಲಿನ ಇತಿಹಾಸ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ತೋರಿಸಬೇಕೆ."
+msgid "Welcome"
+msgstr "ಸುಸ್ವಾಗತ"
 
-msgid "Whether we should show the stats data points"
-msgstr "ಅಂಕಿಅಂಶ ದತ್ತಾಂಶ ಬಿಂದುಗಳ ನಕ್ಷೆಯಲ್ಲಿನ ದತ್ತಾಂಶವನ್ನು ನಾವು ಮೃದುಗೊಳಿಸಬೇಕೆ"
-
-msgid "Whether we should show the stats data points in the statistics window."
-msgstr "ಅಂಕಿಅಂಶಗಳ ಕಿಟಕಿಯಲ್ಲಿನ ಅಂಕಿಅಂಶ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ತೋರಿಸಬೇಕೆ."
-
-msgid "Whether we should smooth the history data"
-msgstr "ಇತಿಹಾಸ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ಮೃದುಗೊಳಿಸಬೇಕೆ"
-
-msgid "Whether we should smooth the history data in the graph."
-msgstr "ನಕ್ಷೆಯಲ್ಲಿ ಇತಿಹಾಸ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ಮೃದುಗೊಳಿಸಬೇಕೆ."
-
-msgid "Whether we should smooth the stats data"
-msgstr "ಅಂಕಿಅಂಶ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ಮೃದುಗೊಳಿಸಬೇಕೆ"
-
-msgid "Whether we should smooth the stats data in the graph."
-msgstr "ನಕ್ಷೆಯಲ್ಲಿ ಅಂಕಿಅಂಶಗಳ ದತ್ತಾಂಶ ಬಿಂದುಗಳನ್ನು ನಾವು ಮೃದುಗೊಳಿಸಬೇಕೆ."
+msgid "Wheel"
+msgstr "ಚಕ್ರ"
 
 msgid "White"
 msgstr "ಬಿಳಿ"
 
-msgid "Wide Format"
-msgstr "ಅಗಲ ವಿನ್ಯಾಸ"
+msgid "Width"
+msgstr "ಅಗಲ"
 
-msgid "Window scaling"
-msgstr "ಕಿಟಕಿಯ ಅಳತೆಬದಲಾವಣೆ"
+msgid "Window"
+msgstr "ಕಿಟಕಿ"
 
-msgid "X Input Method"
-msgstr "X ಆದಾನ ಪದ್ದತಿ"
+msgid "Wood"
+msgstr "ಮರ"
 
-msgid "X display to use"
-msgstr "ಬಳಸಲು X ಪ್ರದರ್ಶಕ"
+msgid "Word"
+msgstr "ಪದಗಳು"
 
-msgid "XSettings"
-msgstr "XSettings"
+msgid "Wrap"
+msgstr "ಆವರಿಕೆ"
+
+msgid "X"
+msgstr "X"
+
+msgid "XML"
+msgstr "XML"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Yellow"
+msgstr "ಹಳದಿ"
 
 msgid "Yes"
 msgstr "ಹೌದು"
 
-msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
-msgstr "ನೀವು ಒಂದು HTML-ಬಗೆಯ ಹೆಕ್ಸಾಡೆಸಿಮಲ್ ವರ್ಣ ಮೌಲ್ಯವನ್ನು ನಮೂದಿಸಬಹುದು, ಅಥವ 'ಕಿತ್ತಳೆ' ಯಂತಹ ಕೇವಲ ಬಣ್ಣದ ಹೆಸರನ್ನು ನಮೂದಿಸಿದರೂ ಸಾಕಾಗುತ್ತದೆ."
+msgid "Zoom"
+msgstr "ಹಿಗ್ಗಿಸು"
 
-msgid "You can temporarily disable this custom CSS by clicking on the \"Pause\" button above."
-msgstr "ಮೇಲಿರುವ \"Pause\" ನ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಕಸ್ಟಮ್‌ CSS ಅನ್ನು ನೀವು ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಹುದು."
+msgid "Zoom In"
+msgstr "ಹಿಗ್ಗಿಸು"
 
-msgid "You can type here any CSS rule recognized by GTK+."
-msgstr "ಇಲ್ಲಿ ನೀವು GTK+ ನಿಂದ ಗುರುತಿಸಲಾದ CSS ನಿಯಮವನ್ನು ನಮೂದಿಸಬಹುದು."
-
-msgid "You may only select folders"
-msgstr "ನೀವು ಕಡತಕೋಶಗಳನ್ನು ಮಾತ್ರ ಆರಿಸಲು ಸಾಧ್ಯವಿರುತ್ತದೆ"
-
-msgid "You need to choose a valid filename."
-msgstr "ನೀವು ಒಂದು ಕಡತದ ಹೆಸರನ್ನು ಆರಿಸಬೇಕಾಗುತ್ತದೆ."
-
-msgid "You probably only need to install this application if you are having problems with your laptop battery, or are trying to work out what programs are using significant amounts of power."
-msgstr "ನಿಮ್ಮ ಲ್ಯಾಪ್‌ಟಾಪ್ ಬ್ಯಾಟರಿಯಲ್ಲಿ ತೊಂದರೆ ಇದ್ದರೆ, ಅಥವ ಯಾವ ಪ್ರೊಗ್ರಾಮ್‌ಗಳು ಗಮನಾರ್ಹ ಪ್ರಮಾಣಗಳಲ್ಲಿ ವಿದ್ಯುಚ್ಛಕ್ತಿಯನ್ನು ಬಳಸುತ್ತಿವೆ ಎಂದು ತಿಳಿಯಲು ಬಯಸುತ್ತಿದ್ದಲ್ಲಿ ಮಾತ್ರ ಇದನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಅಗತ್ಯಬೀಳಬಹುದು."
-
-msgid "Z Shell"
-msgstr "Z ಶೆಲ್"
-
-msgid "ZWJ Zero width _joiner"
-msgstr "ZWJ ಶೂನ್ಯ ಅಗಲ ಸಂಯೋಜಕ (_j)"
-
-msgid "ZWNJ Zero width _non-joiner"
-msgstr "ZWNJ ಸಂಯೋಜಕವಲ್ಲದ ಶೂನ್ಯ ಅಗಲ (_n)"
-
-msgid "ZWS _Zero width space"
-msgstr "ZWS ಶೂನ್ಯ ಅಗಲದ ಜಾಗ (_Z)"
+msgid "Zoom Out"
+msgstr "ಕುಗ್ಗಿಸು"
 
 msgid "Zoom _In"
 msgstr "ಹಿಗ್ಗಿಸು (_I)"
@@ -2941,545 +1756,1553 @@ msgstr "ಹಿಗ್ಗಿಸು (_I)"
 msgid "Zoom _Out"
 msgstr "ಕುಗ್ಗಿಸು (_O)"
 
-msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
-msgstr "\"%{string}\" ವನ್ನು \"%{string}\" ಬಗೆಯ ಮೌಲ್ಯವಾಗಿ ವೈಶಿಷ್ಟ್ಯ \"%{string}\" ಕ್ಕೆ ಬದಲಾಯಿಸಲಾಗಿಲ್ಲ"
+msgid "a0"
+msgstr "a0"
 
-msgid "\"%{string}\" is not a valid attribute name"
-msgstr "\"%{string}\" ವು ಒಂದು ಮಾನ್ಯ ವೈಶಿಷ್ಟ್ಯದ ಹೆಸರಾಗಿಲ್ಲ"
+msgid "a1"
+msgstr "a1"
 
-msgid "\"%{string}\" is not a valid attribute type"
-msgstr "\"%{string}\" ವು ಒಂದು ಮಾನ್ಯ ವೈಶಿಷ್ಟ್ಯದ ಪ್ರಕಾರವಲ್ಲ"
+msgid "a2"
+msgstr "a2"
 
-msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
-msgstr "\"%{string}\" ವು ವೈಶಿಷ್ಟ್ಯ\"%{string}\"ಕ್ಕೆ ಒಂದು ಮಾನ್ಯ ಮೌಲ್ಯವಲ್ಲ"
+msgid "a3"
+msgstr "a3"
 
-msgid "_About"
-msgstr "ಕುರಿತು (_A)"
+msgid "a4"
+msgstr "a4"
 
-msgid "_Add"
-msgstr "ಸೇರಿಸು (_A)"
+msgid "a5"
+msgstr "a5"
 
-msgid "_Add Bookmark"
-msgstr "ಪುಟಗುರುತನ್ನು ಸೇರಿಸು (_A)"
+msgid "a6"
+msgstr "a6"
 
-msgid "_Add to Bookmarks"
-msgstr "ಪುಟಗುರುತಿಗೆ ಸೇರಿಸು (_A)"
+msgid "a_ngle"
+msgstr "ಕೋನ (_n)"
 
-msgid "_After:"
-msgstr "ಇದರ ನಂತರ (_A):"
+msgid "abbreviation"
+msgstr "ಸಂಕ್ಷೇಪಾಕ್ಷರ"
 
-msgid "_All Pages"
-msgstr "ಎಲ್ಲಾ ಹಾಳೆಗಳು (_A)"
+msgid "accept"
+msgstr "ಸ್ವೀಕರಿಸು"
 
-msgid "_Anonymous"
-msgstr "ಅನಾಮಿಕ (_A)"
+msgid "account"
+msgstr "ಖಾತೆ"
 
-msgid "_Apply"
-msgstr "ಅನ್ವಯಿಸು (_A)"
+msgid "action"
+msgstr "ಕ್ರಿಯೆ"
 
-msgid "_Ascending"
-msgstr "ಏರಿಕೆ ಕ್ರಮ (_A)"
+msgid "actions"
+msgstr "ಕ್ರಿಯೆಗಳು"
 
-msgid "_Back"
-msgstr "ಹಿಂದಕ್ಕೆ (_B)"
+msgid "active"
+msgstr "ಸಕ್ರಿಯಮಡು"
 
-msgid "_Billing info:"
-msgstr "ಬಿಲ್ಲು ಮಾಡುವ ಮಾಹಿತಿ (_B):"
+msgid "actor"
+msgstr "ನಟ"
 
-msgid "_Blue:"
-msgstr "ನೀಲಿ (_B):"
+msgid "add"
+msgstr "ಸೇರಿಸು"
 
-msgid "_Bold"
-msgstr "ಬೋಲ್ಡ್‍ (_B)"
+msgid "address"
+msgstr "ವಿಳಾಸ"
 
-msgid "_Bottom"
-msgstr "ಕೆಳಗೆ (_B)"
+msgid "administration"
+msgstr "ನಿರ್ವಹಣೆ"
 
-msgid "_Bottom:"
-msgstr "ಕೆಳಗೆ (_B):"
+msgid "advanced"
+msgstr "ಸುಧಾರಿತ"
 
-msgid "_CD-ROM"
-msgstr "_CD-ROM"
+msgid "after"
+msgstr "ನಂತರ"
 
-msgid "_Cancel"
-msgstr "ರದ್ದು ಮಾಡು (_C)"
+msgid "align"
+msgstr "ಹೊಂದಿಸು"
 
-msgid "_Center"
-msgstr "ಮಧ್ಯ (_C)"
+msgid "alpha"
+msgstr "ಆಲ್ಫಾ"
 
-msgid "_Clear"
-msgstr "ತೆರವುಗೊಳಿಸು (_C)"
+msgid "amount"
+msgstr "ಒಟ್ಟು"
 
-msgid "_Clear List"
-msgstr "ಪಟ್ಟಿಯನ್ನು ಅಳಿಸಿಹಾಕು (_C)"
+msgid "anchor"
+msgstr "ಲಂಗರು"
 
-msgid "_Close"
-msgstr "ಮುಚ್ಚು (_C)"
+msgid "angle"
+msgstr "ಕೋನ"
 
-msgid "_Color"
-msgstr "ಬಣ್ಣ (_C)"
+msgid "animation"
+msgstr "ಸಜೀವನ"
 
-msgid "_Connect Drive"
-msgstr "ಡ್ರೈವ್ ಅನ್ನು ಜೋಡಿಸು (_C)"
+msgid "animations"
+msgstr "ಸಜೀವನಗಳು(ಎನಿಮೇಶನ್‌ಗಳು)"
 
-msgid "_Convert"
-msgstr "ಮಾರ್ಪಡಿಸು (_C)"
+msgid "antialiasing"
+msgstr "ಅಸಮಾನತೆ ದೂರಿಕರಣ"
 
-msgid "_Copy"
-msgstr "ಪ್ರತಿ ಮಾಡು (_C)"
+msgid "appearance"
+msgstr "ಗೋಚರಿಕೆ"
 
-msgid "_Copy Location"
-msgstr "ಪ್ರತಿ ಮಾಡುವ ಸ್ಥಳ (_L)"
+msgid "application"
+msgstr "ಅನ್ವಯ"
 
-msgid "_Customize"
-msgstr "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು (_C)"
+msgid "arc"
+msgstr "ಕಂಸ"
 
-msgid "_Delete"
-msgstr "ಅಳಿಸು (_D)"
+msgid "area"
+msgstr "ಪ್ರದೇಶ"
 
-msgid "_Descending"
-msgstr "ಇಳಿಕೆಕ್ರಮ (_D)"
+msgid "array"
+msgstr "ವ್ಯೂಹ(array)"
 
-msgid "_Detect Media"
-msgstr "ಮಾಧ್ಯಮವನ್ನು ಪತ್ತೆ ಮಾಡು (_D)"
+msgid "arrow"
+msgstr "ಬಾಣ"
 
-msgid "_Discard"
-msgstr "ತಿರಸ್ಕರಿಸು (_D)"
+msgid "article"
+msgstr "ಲೇಖನ"
 
-msgid "_Disconnect"
-msgstr "ಸಂಪರ್ಕ ಕಡಿದುಹಾಕು (_D)"
+msgid "attribute"
+msgstr "ಗುಣವಿಶೇಷ"
 
-msgid "_Disconnect Drive"
-msgstr "ಡ್ರೈವ್‌ ಸಂಪರ್ಕತಪ್ಪಿಸು (_D)"
+msgid "authentication"
+msgstr "ದೃಢೀಕರಣ"
 
-msgid "_Domain"
-msgstr "ಡೊಮೇನ್ (_D)"
+msgid "author"
+msgstr "ಕತೃ"
 
-msgid "_Down"
-msgstr "ಕೆಳಕ್ಕೆ (_D)"
+msgid "automatic"
+msgstr "ತಾನಾಗಿಯೆ"
 
-msgid "_Edit"
-msgstr "ಸಂಪಾದನೆ (_E)"
+msgid "average"
+msgstr "ಸರಾಸರಿ"
 
-msgid "_Eject"
-msgstr "ಹೊರದಬ್ಬು (_E)"
+msgid "axis"
+msgstr "ಅಕ್ಷ"
 
-msgid "_End Process"
-msgstr "ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕೊನೆಗೊಳಿಸು (_E)"
+msgid "back"
+msgstr "ಹಿಂದೆ"
 
-msgid "_Execute"
-msgstr "ಕಾರ್ಯಗತಗೊಳಿಸು (_E)"
+msgid "background"
+msgstr "ಹಿನ್ನೆಲೆ"
 
-msgid "_Family:"
-msgstr "ಪರಿವಾರ (_F):"
+msgid "base"
+msgstr "ಬೇಸ್"
 
-msgid "_File"
-msgstr "ಕಡತ (_F)"
+msgid "before"
+msgstr "ಮೊದಲು"
 
-msgid "_Fill"
-msgstr "ತುಂಬಿಸು (_F)"
+msgid "binary"
+msgstr "ಬೈನರಿ"
 
-msgid "_Find"
-msgstr "ಹುಡುಕು (_F)"
+msgid "binding"
+msgstr "ಬೈಂಡಿಂಗ್"
 
-msgid "_Find New Applications"
-msgstr "ಹೊಸ ಅನ್ವಯಗಳನ್ನು ನೋಡು (_F)"
+msgid "bitmap"
+msgstr "ಬಿಟ್‌ಮ್ಯಾಪ್"
 
-msgid "_Finish"
-msgstr "ಮುಗಿಸು (_F)"
+msgid "black"
+msgstr "ಕಪ್ಪು"
 
-msgid "_First"
-msgstr "ಮೊದಲಿನ (_F)"
+msgid "blank"
+msgstr "ಖಾಲಿ"
 
-msgid "_Floppy"
-msgstr "ಫ್ಲಾಪಿ (_F)"
+msgid "blue"
+msgstr "ನೀಲಿ"
 
-msgid "_Font"
-msgstr "ಅಕ್ಷರ ಶೈಲಿ (_F)"
+msgid "bold"
+msgstr "ಬೋಲ್ಡ್‍"
 
-msgid "_Format for:"
-msgstr "ಇದರ ವಿನ್ಯಾಸ (_F):"
+msgid "bookmarks"
+msgstr "ಪುಟಗುರುತುಗಳು"
 
-msgid "_Forward"
-msgstr "ಮುಂದಕ್ಕೆ (_F)"
+msgid "border"
+msgstr "ಅಂಚು"
 
-msgid "_Fullscreen"
-msgstr "ಪೂರ್ಣತೆರೆ (_F)"
+msgid "both"
+msgstr "ಎರಡೂ"
 
-msgid "_Green:"
-msgstr "ಹಸಿರು (_G):"
+msgid "box"
+msgstr "ಚೌಕ"
 
-msgid "_Hard Disk"
-msgstr "ಹಾರ್ಡ್ ಡಿಸ್ಕ್‍ (_H)"
+msgid "browse"
+msgstr "ವೀಕ್ಷಿಸು"
 
-msgid "_Height:"
-msgstr "ಎತ್ತರ (_H):"
+msgid "brush"
+msgstr "ಕುಂಚ"
 
-msgid "_Help"
-msgstr "ನೆರವು (_H)"
+msgid "bubble"
+msgstr "ಗುಳ್ಳೆ"
 
-msgid "_Home"
-msgstr "ನೆಲೆ (_H)"
+msgid "bullet"
+msgstr "ಅಂಶಸೂಚಕ(ಬುಲೆಟ್)"
 
-msgid "_Hue:"
-msgstr "ವರ್ಣಛಾಯೆ (_H):"
+msgid "busy"
+msgstr "ಕಾರ್ಯನಿರತ"
 
-msgid "_Index"
-msgstr "ಸೂಚಿ (_I)"
-
-msgid "_Information"
-msgstr "ಮಾಹಿತಿ (_I)"
-
-msgid "_Italic"
-msgstr "ಇಟಾಲಿಕ್ (_I)"
-
-msgid "_Jump to"
-msgstr "ಇಲ್ಲಿಗೆ ತೆರಳು (_J)"
-
-msgid "_Last"
-msgstr "ಕೊನೆಯ (_L)"
-
-msgid "_Leave Fullscreen"
-msgstr "ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು (_L)"
-
-msgid "_Left"
-msgstr "ಎಡ (_L):"
-
-msgid "_Left:"
-msgstr "ಎಡ (_L):"
-
-msgid "_Location:"
-msgstr "ತಾಣ (_L):"
-
-msgid "_Lock Drive"
-msgstr "ಡ್ರೈವ್‌ ಅನ್ನು ಲಾಕ್ ಮಾಡು (_L)"
-
-msgid "_Mount"
-msgstr "ಏರಿಸು (_M)"
-
-msgid "_Name:"
-msgstr "ಹೆಸರು (_N):"
-
-msgid "_Network"
-msgstr "ಜಾಲಬಂಧ (_N)"
-
-msgid "_New"
-msgstr "ಹೊಸ (_N)"
-
-msgid "_Next"
-msgstr "ಮುಂದಕ್ಕೆ (_N)"
-
-msgid "_No"
-msgstr "ಇಲ್ಲ (_N)"
-
-msgid "_Normal Size"
-msgstr "ಸಾಮಾನ್ಯ ಗಾತ್ರ (_N)"
-
-msgid "_Now"
-msgstr "ಈಗ (_N)"
-
-msgid "_OK"
-msgstr "ಸರಿ (_O)"
-
-msgid "_Only print:"
-msgstr "ಕೇವಲ ಮುದ್ರಿಸು (_O):"
-
-msgid "_Open"
-msgstr "ತೆರೆ (_O)"
-
-msgid "_Open Link"
-msgstr "ಕೊಂಡಿಯನ್ನು ತೆರೆ (_O)"
-
-msgid "_Orientation:"
-msgstr "ವಾಲಿಕೆ (_O):"
-
-msgid "_Output format"
-msgstr "ಔಟ್‌ಪುಟ್ ವಿನ್ಯಾಸ (_O)"
-
-msgid "_Palette:"
-msgstr "ವರ್ಣಫಲಕ (_P):"
-
-msgid "_Paper size:"
-msgstr "ಕಾಗದದ ಗಾತ್ರ (_P):"
-
-msgid "_Password"
-msgstr "ಗುಪ್ತಪದ (_P)"
-
-msgid "_Paste"
-msgstr "ಅಂಟಿಸು (_P)"
-
-msgid "_Play"
-msgstr "ಚಲಾಯಿಸು (_P)"
-
-msgid "_Power On"
-msgstr "ಚಾಲನೆಗೊಳಿಸು (_P)"
-
-msgid "_Preferences"
-msgstr "ಆದ್ಯತೆಗಳು (_P)"
-
-msgid "_Preview:"
-msgstr "ಮುನ್ನೋಟ (_P):"
-
-msgid "_Print"
-msgstr "ಮುದ್ರಿಸು (_P)"
-
-msgid "_Properties"
-msgstr "ಗುಣಲಕ್ಷಣಗಳು (_P)"
-
-msgid "_Quit"
-msgstr "ಬಿಟ್ಟು ಬಿಡು (_Q)"
-
-msgid "_Record"
-msgstr "ರೆಕಾರ್ಡು ಮಾಡು (_R)"
-
-msgid "_Red:"
-msgstr "ಕೆಂಪು (_R):"
-
-msgid "_Redo"
-msgstr "ಪುನಃ ಮಾಡು (_R)"
-
-msgid "_Refresh"
-msgstr "ಪುನಶ್ಚೇತನಗೊಳಿಸು (_R)"
-
-msgid "_Remember password"
-msgstr "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿನಲ್ಲಿಡು (_R)"
-
-msgid "_Remove"
-msgstr "ತೆಗೆದು ಹಾಕು (_R)"
-
-msgid "_Remove From List"
-msgstr "ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕು (_R)"
-
-msgid "_Replace"
-msgstr "ಬದಲಿ ಮಾಡು (_R)"
-
-msgid "_Reverse"
-msgstr "ವಿಲೋಮ (_R)"
-
-msgid "_Revert"
-msgstr "ಹಿಮ್ಮರಳಿಸು (_R)"
-
-msgid "_Right"
-msgstr "ಬಲ (_R):"
-
-msgid "_Right:"
-msgstr "ಬಲ (_R):"
-
-msgid "_Safely Remove Drive"
-msgstr "ಡ್ರೈವ್ ಅನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ತೆಗೆದುಹಾಕು (_S)"
-
-msgid "_Save"
-msgstr "ಉಳಿಸು (_S)"
-
-msgid "_Save color here"
-msgstr "ಬಣ್ಣವನ್ನು ಇಲ್ಲಿ ಉಳಿಸು (_S)"
-
-msgid "_Select"
-msgstr "ಆರಿಸು (_S)"
-
-msgid "_Spell Check"
-msgstr "ಕಾಗುಣಿತ ಪರಿಶೀಲನೆ (_S)"
-
-msgid "_Start"
-msgstr "ಆರಂಭಿಸು (_S)"
-
-msgid "_Start Multi-disk Device"
-msgstr "ಬಹು-ಡಿಸ್ಕ್ ಸಾಧನವನ್ನು ಆರಂಭಿಸು (_S)"
-
-msgid "_Stop"
-msgstr "ನಿಲ್ಲಿಸು (_S)"
-
-msgid "_Stop Multi-disk Device"
-msgstr "ಬಹು-ಡಿಸ್ಕ್ ಸಾಧನವನ್ನು ನಿಲ್ಲಿಸು (_S)"
-
-msgid "_Strikethrough"
-msgstr "ಅಡ್ಡಗೆರೆ (_S)"
-
-msgid "_Style:"
-msgstr "ಶೈಲಿ (_S):"
-
-msgid "_Top"
-msgstr "ಮೇಲಕ್ಕೆ (_T)"
-
-msgid "_Top:"
-msgstr "ಮೇಲೆ (_T):"
-
-msgid "_Undelete"
-msgstr "ಅಳಿಸಬೇಡ (_U)"
-
-msgid "_Underline"
-msgstr "ಅಡಿಗೆರೆ (_U)"
-
-msgid "_Undo"
-msgstr "ರದ್ದು ಮಾಡು (_U)"
-
-msgid "_Unlock Drive"
-msgstr "ಡ್ರೈವ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡು (_U)"
-
-msgid "_Unmount"
-msgstr "ಇಳಿಸು (_U)"
-
-msgid "_Up"
-msgstr "ಮೇಲಕ್ಕೆ (_U)"
-
-msgid "_Username"
-msgstr "ಬಳಕೆದಾರ ಹೆಸರು (_U)"
-
-msgid "_Value:"
-msgstr "ಮೌಲ್ಯ (_V):"
-
-msgid "_View All Applications"
-msgstr "ಎಲ್ಲಾ ಅನ್ವಯಗಳನ್ನು ನೋಡಿ (_V)"
-
-msgid "_Visit File"
-msgstr "ಕಡತಕ್ಕೆ ಹೋಗು (_V)"
-
-msgid "_Width:"
-msgstr "ಅಗಲ (_W):"
-
-msgid "_Yes"
-msgstr "ಹೌದು (_Y)"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/kn.po by load_po_file"
-
-msgid "a2 Envelope"
-msgstr "a2 ಲಕೋಟೆ"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcdefghijk ABCDEFGHIJK"
-
-msgid "asme_f"
-msgstr "asme_f"
-
-msgid "b-plus"
-msgstr "b-ಪ್ಲಸ್"
-
-msgid "battery;consumption;charge;"
-msgstr "ಬ್ಯಾಟರಿ;ಉಪಯೋಗ;ಚಾರ್ಜ್;"
-
-msgid "bidirectional"
-msgstr "ಎರಡು ದಿಕ್ಕಿನ"
-
-msgid "bidirectional, inverted"
-msgstr "ಎರಡು ದಿಕ್ಕಿನ, ತಲೆಕೆಳಗಾದ"
-
-msgid "broadway display type not supported '%{string}'"
-msgstr "ಬ್ರಾಡ್‌ವೇ ಪ್ರದರ್ಶಕದ ಬಗೆಯು '%{string}' ಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"
+msgid "button"
+msgstr "ಗುಂಡಿ"
 
 msgid "c"
 msgstr "c"
 
-msgid "c5 Envelope"
-msgstr "c5 ಲಕೋಟೆ"
+msgid "calendar"
+msgstr "ಕ್ಯಾಲೆಂಡರ್"
 
-msgid "calendar:MY"
-msgstr "calendar:MY"
+msgid "cancel"
+msgstr "ರದ್ದು ಮಾಡು"
 
-msgid "calendar:week_start:0"
-msgstr "calendar:week_start:0"
+msgid "caption"
+msgstr "ಶೀರ್ಷಿಕೆ"
 
-msgid "d"
-msgstr "d"
+msgid "categories"
+msgstr "ಪಂಗಡಗಳು"
 
-msgid "default:LTR"
-msgstr "default:LTR"
+msgid "cell"
+msgstr "ಕೋಶ‌ಗಳು"
 
-msgid "default:mm"
-msgstr "default:mm"
+msgid "center"
+msgstr "ಮಧ್ಯ"
 
-msgid "e"
-msgstr "e"
+msgid "centered"
+msgstr "ಮಧ್ಯಕ್ಕೆ ಹೊಂದಿಸಿದ"
 
-msgid "edp"
-msgstr "edp"
+msgid "circle"
+msgstr "ವೃತ್ತ"
 
-msgid "f"
-msgstr "f"
+msgid "clear"
+msgstr "ತೆರವುಗೊಳಿಕೆ"
 
-msgid "hagaki (postcard)"
-msgstr "hagaki (ಪೊಸ್ಟ್ ಕಾರ್ಡ್)"
+msgid "clipboard"
+msgstr "ನಕಲು ಫಲಕ"
+
+msgid "close"
+msgstr "ಮುಚ್ಚು"
+
+msgid "co_nnect"
+msgstr "ಸಂಪರ್ಕ ಕಲ್ಪಿಸು (_n)"
+
+msgid "collate"
+msgstr "ತಾಳೆ ನೋಡು"
+
+msgid "collect"
+msgstr "ಸಂಗ್ರಹಿಸು"
+
+msgid "color"
+msgstr "ಬಣ್ಣ"
+
+msgid "colors"
+msgstr "ಬಣ್ಣ"
+
+msgid "command"
+msgstr "ಆಜ್ಞೆ"
+
+msgid "comment"
+msgstr "ಟಿಪ್ಪಣಿ ವಾಖ್ಯೆ ಟೀಕಿಸು ವ್ಯಾಖ್ಯನಿಸು"
+
+msgid "comments"
+msgstr "ಟಿಪ್ಪಣಿ ವಾಖ್ಯೆ ಟೀಕಿಸು ವ್ಯಾಖ್ಯನಿಸು"
+
+msgid "computer"
+msgstr "ಗಣಕ"
+
+msgid "computers"
+msgstr "ಗಣಕಗಳು"
+
+msgid "concatenate"
+msgstr "ಒಟ್ಟಿಗೆ ಪೋಣಿಸು"
+
+msgid "condition"
+msgstr "ನಿಬಂಧನೆ"
+
+msgid "confidential"
+msgstr "ಗೌಪ್ಯ"
+
+msgid "configuration"
+msgstr "ಸಂರಚನೆ"
+
+msgid "confirmation"
+msgstr "ಖಚಿತತೆ"
+
+msgid "constraint"
+msgstr "ನಿರ್ಬಂಧ"
+
+msgid "content"
+msgstr "ವಿಷಯಗಳು"
+
+msgid "context"
+msgstr "ಸನ್ನಿವೇಶ"
+
+msgid "continue"
+msgstr "ಮುಂದುವರೆ"
+
+msgid "control"
+msgstr "ನಿಯಂತ್ರಣ"
+
+msgid "controls"
+msgstr "ನಿಯಂತ್ರಣಗಳು"
+
+msgid "copy"
+msgstr "ಕಾಪಿ ಮಾಡಿ"
+
+msgid "correlation"
+msgstr "ಸಹಸಂಬಂಧ"
+
+msgid "cos"
+msgstr "cos"
+
+msgid "cosine"
+msgstr "ಕೊಸೈನ್"
+
+msgid "cost"
+msgstr "ಬೆಲೆ"
+
+msgid "count"
+msgstr "ಎಣಿಕೆ"
+
+msgid "covariance"
+msgstr "ಮಾರ್ಪಿನ ಗುಣಾಂಕ"
+
+msgid "create"
+msgstr "ರಚಿಸು"
+
+msgid "crop"
+msgstr "ಅಂದಗೊಳಿಸು"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "cu_t"
+msgstr "ಕತ್ತರಿಸು (_t)"
+
+msgid "cumulative"
+msgstr "ಸಂಚಿತ"
+
+msgid "current"
+msgstr "ಪ್ರಸಕ್ತ"
+
+msgid "curve"
+msgstr "ವಕ್ರರೇಖೆ"
+
+msgid "custom"
+msgstr "ಇಚ್ಛೆಯ:"
+
+msgid "customize"
+msgstr "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ"
+
+msgid "cut"
+msgstr "ಕತ್ತರಿಸು"
+
+msgid "cyan"
+msgstr "ನೀಲಿ ಹಸಿರು"
+
+msgid "data"
+msgstr "ದತ್ತ"
+
+msgid "date"
+msgstr "ದಿನಾಂಕ"
+
+msgid "debug"
+msgstr "ದೋಷ ನಿವಾರಣೆ"
+
+msgid "default"
+msgstr "ಪೂರ್ವನಿಯೋಜಿತ"
+
+msgid "delay"
+msgstr "ವಿಳಂಬ"
+
+msgid "delete"
+msgstr "ಅಳಿಸು"
+
+msgid "description"
+msgstr "ವರ್ಣನೆ"
+
+msgid "description..."
+msgstr "ವರ್ಣನೆ"
+
+msgid "design"
+msgstr "ವಿನ್ಯಾಸ"
+
+msgid "desktop"
+msgstr "ಗಣಕತೆರೆ"
+
+msgid "destination"
+msgstr "ಗಮ್ಯಸ್ಥಾನ"
+
+msgid "details"
+msgstr "ವಿವರಗಳು"
+
+msgid "device"
+msgstr "ಸಾಧನ"
+
+msgid "devices"
+msgstr "ಸಾಧನಗಳು"
+
+msgid "diagonal"
+msgstr "ಕರ್ಣ"
+
+msgid "diagram"
+msgstr "ಡಯಾಗ್ರಾಮ್"
+
+msgid "dialogs"
+msgstr "ಸಂವಾದಗಳು"
+
+msgid "difference"
+msgstr "ವ್ಯತ್ಯಾಸ"
+
+msgid "digits"
+msgstr "ಅಂಕೆಗಳು"
+
+msgid "dimensions"
+msgstr "ಆಯಾಮಗಳು"
+
+msgid "direction"
+msgstr "ದಿಕ್ಕು"
+
+msgid "directory"
+msgstr "ಕೋಶ"
+
+msgid "disc"
+msgstr "ಡಿಸ್ಕ್‍"
+
+msgid "dismiss"
+msgstr "ವಜಾಗೊಳಿಸು"
+
+msgid "display"
+msgstr "ಪ್ರದರ್ಶಿಸು"
+
+msgid "dock"
+msgstr "ಡಾಕ್ ಮಾಡು"
+
+msgid "document"
+msgstr "ದಸ್ತಾವೇಜು"
+
+msgid "documents"
+msgstr "ದಸ್ತಾವೇಜುಗಳು"
+
+msgid "dot"
+msgstr "ಚುಕ್ಕಿ"
+
+msgid "down"
+msgstr "ಕೆಳಗೆ"
+
+msgid "e-mail"
+msgstr "ವಿದ್ಯುನ್ಮಾಮ ಅಂಚೆ"
+
+msgid "edit"
+msgstr "ಸಂಪಾದಿಸು"
+
+msgid "effects"
+msgstr "ಪರಿಣಾಮಗಳು"
+
+msgid "empty"
+msgstr "ಖಾಲಿ"
+
+msgid "enabled"
+msgstr "ಶಕ್ತಗೊಂಡಿದೆ"
+
+msgid "encoding"
+msgstr "ಎನ್‌ಕೋಡಿಂಗ್"
+
+msgid "end"
+msgstr "ಅಂತ್ಯ"
+
+msgid "equation"
+msgstr "ಸಮೀಕರಣ"
+
+msgid "error"
+msgstr "ದೋಷ"
+
+msgid "event"
+msgstr "ಘಟನೆ"
+
+msgid "executive"
+msgstr "ಎಕ್ಸಿಕ್ಯೂಟಿವ್"
+
+msgid "exit"
+msgstr "ನಿರ್ಗಮಿಸಿ"
+
+msgid "export"
+msgstr "ರಫ್ತು"
+
+msgid "extension"
+msgstr "ವಿಸ್ತರಣೆ"
+
+msgid "extensions"
+msgstr "ವಿಸ್ತರಣೆಗಳು"
+
+msgid "factor"
+msgstr "ಅಪವರ್ತನ"
+
+msgid "favorite"
+msgstr "ಅಚ್ಚುಮೆಚ್ಚಿನ"
+
+msgid "fax"
+msgstr "ಫ್ಯಾಕ್ಸ್"
+
+msgid "field"
+msgstr "ವರ್ಗ"
+
+msgid "file"
+msgstr "ಕಡತ"
+
+msgid "files"
+msgstr "ಕಡತಗಳು"
+
+msgid "fill"
+msgstr "ತುಂಬಿಸು"
+
+msgid "filter"
+msgstr "ಶೋಧಕ"
+
+msgid "filters"
+msgstr "ಶೋಧಕಗಳು"
+
+msgid "find"
+msgstr "ಹುಡುಕು"
+
+msgid "finished"
+msgstr "ಮುಗಿಯಿತು"
+
+msgid "fixed"
+msgstr "ನಿಶ್ಚಿತ"
+
+msgid "flip"
+msgstr "ಮಗುಚು"
+
+msgid "float"
+msgstr "ತೇಲು"
+
+msgid "flowchart"
+msgstr "ಕ್ರಮಸೂಚಿ ನಕ್ಷೆ"
+
+msgid "folder"
+msgstr "ಕಡತಕೋಶ"
+
+msgid "font"
+msgstr "ಅಕ್ಷರಶೈಲಿ"
+
+msgid "fonts"
+msgstr "ಅಕ್ಷರಶೈಲಿ"
+
+msgid "footer"
+msgstr "ಅಡಿಲೇಖ"
+
+msgid "foreground"
+msgstr "ಮುನ್ನೆಲೆ"
+
+msgid "form"
+msgstr "ನಮೂನೆ"
+
+msgid "format"
+msgstr "ವಿನ್ಯಾಸ"
+
+msgid "formula"
+msgstr "ಸೂತ್ರ"
+
+msgid "forward"
+msgstr "ಮುಂದಕ್ಕೆ"
+
+msgid "fraction"
+msgstr "ಭಿನ್ನಾಂಕ"
+
+msgid "frame"
+msgstr "ಚೌಕಟ್ಟು"
+
+msgid "frequency"
+msgstr "ಆವರ್ತನೆ"
+
+msgid "function"
+msgstr "ಕಾರ್ಯಭಾರ"
+
+msgid "gamma"
+msgstr "ಗಾಮಾ"
+
+msgid "general"
+msgstr "ಸಾಮಾನ್ಯ"
+
+msgid "geometry"
+msgstr "ಜ್ಯಾಮಿತಿ"
+
+msgid "grab"
+msgstr "ಹಿಡಿ"
+
+msgid "gradient"
+msgstr "ಏರಿಳಿತ ಪ್ರಮಾಣ"
+
+msgid "gradients"
+msgstr "ಗ್ರೇಡಿಯಂಟ್‌ಗಳು"
+
+msgid "gray"
+msgstr "ಬೂದು"
+
+msgid "grayscale"
+msgstr "ಗ್ರೇಸ್ಕೇಲ್"
+
+msgid "green"
+msgstr "ಹಸಿರು"
+
+msgid "grey"
+msgstr "ಬೂದು"
+
+msgid "grid"
+msgstr "ಚೌಕಜಾಲ"
+
+msgid "group"
+msgstr "ಗುಂಪು"
+
+msgid "header"
+msgstr "ಹೆಡರ್"
+
+msgid "height"
+msgstr "ಎತ್ತರ"
+
+msgid "help"
+msgstr "ಸಹಾಯ"
+
+msgid "hide"
+msgstr "ಅಡಗಿಸು"
+
+msgid "high"
+msgstr "ಹೆಚ್ಚಿನ"
+
+msgid "history"
+msgstr "ಇತಿಹಾಸ"
+
+msgid "home"
+msgstr "ನೆಲೆ"
+
+msgid "horizontal"
+msgstr "ಅಡ್ಡ"
+
+msgid "hue"
+msgstr "ರಂಗು"
+
+msgid "icon"
+msgstr "ಚಿಹ್ನೆ"
+
+msgid "identifier"
+msgstr "ಗುರುತುಗಾರ"
+
+msgid "image"
+msgstr "ಚಿತ್ರ"
+
+msgid "images"
+msgstr "ಚಿತ್ರಗಳು"
+
+msgid "import"
+msgstr "ಆಮದು"
 
 msgid "inch"
 msgstr "ಇಂಚು"
 
-msgid "inverted"
-msgstr "ತಲೆಕೆಳಗಾದ"
+msgid "inches"
+msgstr "ಇಂಚುಗಳು"
 
-msgid "jis exec"
-msgstr "jis exec"
+msgid "indent"
+msgstr "ಇಂಡೆಂಟ್"
 
-msgid "juuro-ku-kai"
-msgstr "juuro-ku-kai"
+msgid "index"
+msgstr "ಸೂಚಿ"
 
-msgid "kahu Envelope"
-msgstr "kahu ಲಕೋಟೆ"
+msgid "information"
+msgstr "ಮಾಹಿತಿ"
 
-msgid "kaku2 Envelope"
-msgstr "kaku2 ಲಕೋಟೆ"
+msgid "input"
+msgstr "ಇನ್‌ಪುಟ್‌"
+
+msgid "insert"
+msgstr "ಸೇರಿಸು"
+
+msgid "install"
+msgstr "ಅನುಸ್ಥಾಪಿಸು"
+
+msgid "integer"
+msgstr "ಪೂರ್ಣಾಂಕ"
+
+msgid "interaction"
+msgstr "ಪ್ರತಿಸ್ಪಂದನ"
+
+msgid "interface"
+msgstr "ಸಂಪರ್ಕಸಾಧನ"
+
+msgid "internet"
+msgstr "ಅಂತರಜಾಲ"
+
+msgid "interrupt"
+msgstr "ತಡೆ"
+
+msgid "intersection"
+msgstr "ಛೇದನ"
+
+msgid "interval"
+msgstr "ಅಂತರ"
+
+msgid "invalid"
+msgstr "ಅಮಾನ್ಯ"
+
+msgid "invert"
+msgstr "ತಲೆಕೆಳಗೆ ಮಾಡು"
+
+msgid "job"
+msgstr "ಕೆಲಸ"
+
+msgid "justify"
+msgstr "ಜಸ್ಟಿಫೈ"
+
+msgid "keyboard"
+msgstr "ಕೀಲಿಮಣೆ"
+
+msgid "keyword"
+msgstr "ಮುಖ್ಯಪದ"
+
+msgid "label"
+msgstr "ಗುರುತುಪಟ್ಟಿ"
+
+msgid "landscape"
+msgstr "ಪ್ರಕೃತಿದೃಶ್ಯ"
+
+msgid "language"
+msgstr "ಭಾಷೆ"
+
+msgid "languages"
+msgstr "ಭಾಷೆಗಳು"
+
+msgid "large"
+msgstr "ದೊಡ್ಡದು"
+
+msgid "layer"
+msgstr "ಪದರ"
+
+msgid "layout"
+msgstr "ರೂಪರೇಖೆ"
+
+msgid "left"
+msgstr "ಎಡ"
+
+msgid "legal"
+msgstr "ಲೀಗಲ್"
+
+msgid "length"
+msgstr "ಉದ್ದ"
+
+msgid "letter"
+msgstr "ಪತ್ರ"
+
+msgid "library"
+msgstr "ಲೈಬ್ರರಿ"
+
+msgid "light"
+msgstr "ತಿಳಿಯಾದ"
+
+msgid "limits"
+msgstr "ಮಿತಿಗಳು"
+
+msgid "line"
+msgstr "ಸಾಲು"
+
+msgid "linear"
+msgstr "ನೇರರೇಖೆ"
+
+msgid "link"
+msgstr "ಸಂಪರ್ಕಕೊಂಡಿ"
+
+msgid "local"
+msgstr "ಸ್ಥಳೀಯ"
+
+msgid "location"
+msgstr "ಸ್ಥಳ ನಿರ್ದೇಶನಗಳು"
+
+msgid "lock"
+msgstr "ಬಂಧ"
+
+msgid "logical"
+msgstr "ತಾರ್ಕಿಕ"
+
+msgid "low"
+msgstr "ಕೆಳಮಟ್ಟದ"
+
+msgid "macro"
+msgstr "ಮ್ಯಾಕ್ರೋ"
+
+msgid "magenta"
+msgstr "ಕಡುಗೆಂಪು"
+
+msgid "mail"
+msgstr "ಅಂಚೆ"
+
+msgid "manual"
+msgstr "ಕೈಯಾರೆ"
+
+msgid "margins"
+msgstr "ಅಂಚುಗಳು"
+
+msgid "matrix"
+msgstr "ಮಾತೃಕೆ"
+
+msgid "maximize"
+msgstr "ಹಿಗ್ಗಿಸು"
+
+msgid "median"
+msgstr "ಮಧ್ಯಮ"
+
+msgid "medium"
+msgstr "ಮಧ್ಯಮ"
+
+msgid "memory"
+msgstr "ಮೆಮೊರಿ"
+
+msgid "menu"
+msgstr "ಪರಿವಿಡಿ"
+
+msgid "merge"
+msgstr "ಒಗ್ಗೂಡಿಸು"
+
+msgid "message"
+msgstr "ಸಂದೇಶ"
+
+msgid "metafile"
+msgstr "ಮೆಟಾಕಡತ"
+
+msgid "min"
+msgstr "ನಿಮಿಷ"
+
+msgid "minimize"
+msgstr "ಕುಗ್ಗಿಸು"
+
+msgid "miscellaneous"
+msgstr "ಇತರೆ"
 
 msgid "mm"
-msgstr "ಎಂಎಂ"
+msgstr "ಮಿ.ಮಿ"
 
-msgid "oufuku (reply postcard)"
-msgstr "oufuku (ಮಾರುತ್ತರಿಸುವ ಪೋಸ್ಟ್ ಕಾರ್ಡ್)"
+msgid "mode"
+msgstr "ಕ್ರಮ"
+
+msgid "model"
+msgstr "ಮಾದರಿ"
+
+msgid "modified"
+msgstr "ಮಾರ್ಪಡಿಸಲಾಗಿದೆ"
+
+msgid "modify"
+msgstr "ಮಾರ್ಪಡಿಸು"
+
+msgid "module"
+msgstr "ಮಾಡ್ಯೂಲ್"
+
+msgid "monitor"
+msgstr "ತೆರೆ"
+
+msgid "mouse"
+msgstr "ಮೌಸ್"
+
+msgid "move"
+msgstr "ಕ್ರಮ"
+
+msgid "name"
+msgstr "ಹೆಸರು"
+
+msgid "navigation"
+msgstr "ನ್ಯಾವಿಗೇಶನ್"
+
+msgid "network"
+msgstr "ಜಾಲಬಂಧ"
+
+msgid "no"
+msgstr "ಇಲ್ಲ"
+
+msgid "none"
+msgstr "ಏನೂ ಇಲ್ಲ"
+
+msgid "normal"
+msgstr "ಸಾಮಾನ್ಯ"
+
+msgid "number"
+msgstr "ಸಂಖ್ಯೆ"
+
+msgid "numeric"
+msgstr "ಅಂಕೀಯ"
+
+msgid "object"
+msgstr "ವಸ್ತು"
+
+msgid "objects"
+msgstr "ವಸ್ತುಗಳು"
+
+msgid "observations"
+msgstr "ಅವಲೋಕನಗಳು"
+
+msgid "offline"
+msgstr "ಆಫ್‌ಲೈನ್‌"
+
+msgid "offset"
+msgstr "ಆಫ್‌ಸೆಟ್"
+
+msgid "online"
+msgstr "ಆನ್‌ಲೈನ್‌"
+
+msgid "op_tions"
+msgstr "ಆಯ್ಕೆಗಳು:"
+
+msgid "opacity"
+msgstr "ಅಪಾರದರ್ಶಕತೆ"
+
+msgid "open"
+msgstr "ತೆರೆ"
+
+msgid "options"
+msgstr "ಆಯಿಕೆ"
+
+msgid "orange"
+msgstr "ಕಿತ್ತಲೆ"
+
+msgid "order"
+msgstr "ಆದೇಶಗಳು"
+
+msgid "orientation"
+msgstr "ಅಭಿಮುಖ"
+
+msgid "origin"
+msgstr "ಮೂಲ"
+
+msgid "original"
+msgstr "ಮೂಲ"
+
+msgid "other…"
+msgstr "ಇತರೆ…"
+
+msgid "outline"
+msgstr "ಹೊರರೇಖೆ"
 
 msgid "output"
 msgstr "ಔಟ್‌ಪುಟ್"
 
-msgid "pa-kai"
-msgstr "pa-kai"
+msgid "overwrite"
+msgstr "ತಿದ್ದಿಬರೆ"
+
+msgid "owner"
+msgstr "ಮಾಲಿಕ"
+
+msgid "pack"
+msgstr "ಸಂಗ್ರಹ"
+
+msgid "page"
+msgstr "ಪುಟ"
+
+msgid "pager"
+msgstr "ಪೇಜರ್"
+
+msgid "pages"
+msgstr "ಪುಟಗಳು"
+
+msgid "palette"
+msgstr "ವರ್ಣಫಲಕ"
+
+msgid "paper"
+msgstr "ಕಾಗದ"
+
+msgid "parameter"
+msgstr "ನಿಯತಾಂಕ"
+
+msgid "password"
+msgstr "ಸಂಕೇತ ಪದ"
+
+msgid "paste"
+msgstr "ಅಂಟಿಸು"
+
+msgid "path"
+msgstr "ಮಾರ್ಗ"
+
+msgid "paths"
+msgstr "ಮಾರ್ಗಗಳು"
+
+msgid "pattern"
+msgstr "ಮಾದರಿ"
+
+msgid "pause"
+msgstr "ಸ್ಥಗಿತಗೊಳಿಸು"
 
 msgid "paused"
-msgstr "ವಿರಮಿಸಲಾಗಿದೆ"
+msgstr "ವಿರಮಿಸಿದೆ"
 
-msgid "prc 16k"
-msgstr "prc 16k"
+msgid "percentage"
+msgstr "ಪ್ರತಿಶತ (_p)"
 
-msgid "prc 32k"
-msgstr "prc 32k"
+msgid "period"
+msgstr "ಅವಧಿ"
 
-msgid "prc1 Envelope"
-msgstr "prc1 ಲಕೋಟೆ"
+msgid "periodic"
+msgstr "ಆವರ್ತಕ"
 
-msgid "prc10 Envelope"
-msgstr "prc10 ಲಕೋಟೆ"
+msgid "perspective"
+msgstr "ಯಥಾದೃಷ್ಟಿ"
 
-msgid "prc2 Envelope"
-msgstr "prc2 ಲಕೋಟೆ"
+msgid "pixel"
+msgstr "ಪಿಕ್ಸೆಲ್"
 
-msgid "prc3 Envelope"
-msgstr "prc3 ಲಕೋಟೆ"
+msgid "pixels"
+msgstr "ಪಿಕ್ಸೆಲ್‌ಗಳು"
 
-msgid "prc4 Envelope"
-msgstr "prc4 ಲಕೋಟೆ"
+msgid "place"
+msgstr "ಸ್ಥಳಗಳು"
 
-msgid "prc5 Envelope"
-msgstr "c5 ಲಕೋಟೆ"
+msgid "play"
+msgstr "ಆಡು"
 
-msgid "prc6 Envelope"
-msgstr "prc6 ಲಕೋಟೆ"
+msgid "plug-in"
+msgstr "ಪ್ಲಗ್-ಇನ್"
 
-msgid "prc7 Envelope"
-msgstr "prc7 ಲಕೋಟೆ"
+msgid "point"
+msgstr "ಬಿಂದುಗಳು"
 
-msgid "prc8 Envelope"
-msgstr "prc8 ಲಕೋಟೆ"
+msgid "pointer"
+msgstr "ಸೂಚಕ"
 
-msgid "prc9 Envelope"
-msgstr "prc9 ಲಕೋಟೆ"
+msgid "points"
+msgstr "ಬಿಂದುಗಳು"
 
-msgid "printer offline"
-msgstr "ಮುದ್ರಕದ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿದೆ"
+msgid "polygon"
+msgstr "ಬಹುಭುಜಾಕೃತಿ"
 
-msgid "processing job"
-msgstr "ಕಾರ್ಯವನ್ನು ಸಂಸ್ಕರಿಸುತ್ತಿದೆ"
+msgid "polyline"
+msgstr "ಬಹುರೇಖೆ"
 
-msgid "ready to print"
-msgstr "ಮುದ್ರಿಸಲು ತಯಾರಿದೆ"
+msgid "portrait"
+msgstr "ಪ್ರಕೃತಿದೃಶ್ಯ"
+
+msgid "position"
+msgstr "ಹುದ್ದೆ"
+
+msgid "power"
+msgstr "ಘಾತ"
+
+msgid "pr_eview"
+msgstr "ಅವಲೋಕನ (_e)"
+
+msgid "pre_view"
+msgstr "ಮುನ್ನೋಟ (_v)"
+
+msgid "preferences"
+msgstr "ಆದ್ಯತೆಗಳು"
+
+msgid "prefix"
+msgstr "ಪ್ರಿಫಿಕ್ಸ್"
+
+msgid "preview"
+msgstr "ಮುನ್ನೋಟ"
+
+msgid "print"
+msgstr "ಮುದ್ರಿಸು"
+
+msgid "printer"
+msgstr "ಮುದ್ರಕ"
+
+msgid "printing"
+msgstr "ಮುದ್ರಣ"
+
+msgid "processor"
+msgstr "ಸಂಸ್ಕಾರಕ"
+
+msgid "program"
+msgstr "ಪ್ರೊಗ್ರಾಮ್"
+
+msgid "progress"
+msgstr "ಪ್ರಗತಿ"
+
+msgid "project"
+msgstr "ಯೇಜನೆಗಳು"
+
+msgid "projects"
+msgstr "ಯೇಜನೆಗಳು"
+
+msgid "properties"
+msgstr "ಗುಣಗಳು"
+
+msgid "property"
+msgstr "ಗುಣಧರ್ಮ"
+
+msgid "protection"
+msgstr "ಸಂರಕ್ಷಣೆ"
+
+msgid "proxy"
+msgstr "ಪ್ರಾಕ್ಸಿ"
+
+msgid "quality"
+msgstr "ಗುಣಮಟ್ಟ"
+
+msgid "query"
+msgstr "ಪ್ರಶ್ನೆ"
+
+msgid "quit"
+msgstr "ನಿರ್ಗಮಿಸು"
+
+msgid "radius"
+msgstr "ತ್ರಿಜ್ಯ"
+
+msgid "random"
+msgstr "ಯಾದೃಚ್ಛಿಕ"
+
+msgid "range"
+msgstr "ಶ್ರೇಣಿ"
+
+msgid "rate"
+msgstr "ದರ"
+
+msgid "rating"
+msgstr "ಜನಪ್ರಿಯತೆ"
+
+msgid "ready"
+msgstr "ಸಿದ್ಧ"
+
+msgid "record"
+msgstr "ದಾಖಲೆ"
+
+msgid "rectangle"
+msgstr "ಆಯತ"
+
+msgid "red"
+msgstr "ಕೆಂಪು"
+
+msgid "redo"
+msgstr "ಕೆಂಪು"
+
+msgid "refresh"
+msgstr "ತಾಜಾಗೊಳಿಸು"
+
+msgid "region"
+msgstr "ಪ್ರದೇಶ"
+
+msgid "remove"
+msgstr "ತೆಗೆದುಹಾಕು"
+
+msgid "rename"
+msgstr "ಹೆಸರು ಬದಲಾಯಿಸು"
+
+msgid "repeat"
+msgstr "ಪುನರಾವರ್ತಿಸು"
+
+msgid "replace"
+msgstr "ಬದಲಿಸು"
+
+msgid "reports"
+msgstr "ವರದಿಗಳು"
+
+msgid "reset"
+msgstr "ಮರು ಸಿದ್ಧಗೊಳಿಸು"
+
+msgid "resize"
+msgstr "ಗಾತ್ರವನ್ನು ಬದಲಿಸು"
+
+msgid "resolution"
+msgstr "ರೆಸಲ್ಯೂಶನ್"
+
+msgid "restore"
+msgstr "ಮರಳಿ ಸ್ಥಾಪಿಸು"
+
+msgid "result"
+msgstr "ಫಲಿತಾಂಶ"
+
+msgid "retry"
+msgstr "ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ"
+
+msgid "return"
+msgstr "ಮರಳು"
+
+msgid "revert"
+msgstr "ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಮರಳಿಸು"
+
+msgid "review"
+msgstr "ಪರಿಶೀಲನೆ"
+
+msgid "right"
+msgstr "ಬಲ"
+
+msgid "rotate"
+msgstr "ತಿರುಗು"
+
+msgid "round"
+msgstr "ದುಂಡಾದ"
+
+msgid "row"
+msgstr "ಅಡ್ಡಸಾಲು"
+
+msgid "run"
+msgstr "ಚಲಾಯಿಸು"
+
+msgid "s"
+msgstr "s"
+
+msgid "sample"
+msgstr "ನಮೂನೆ"
+
+msgid "sampling"
+msgstr "ನಮೂನೆ"
+
+msgid "saturation"
+msgstr "ಸಂತೃಪ್ತಿ"
+
+msgid "save"
+msgstr "ಉಳಿಸು"
+
+msgid "scale"
+msgstr "ಮಾಪಕ"
+
+msgid "scan"
+msgstr "ಪರಿಶೋಧಿಸು"
+
+msgid "screen"
+msgstr "ಪರದೆ"
+
+msgid "script"
+msgstr "ಸ್ಕ್ರಿಪ್ಟು"
+
+msgid "scrollbars"
+msgstr "ಚಲನಪಟ್ಟಿಕೆಗಳು"
+
+msgid "search"
+msgstr "ಅಂತರಜಾಲ"
+
+msgid "seconds"
+msgstr "ಸೆಕೆಂಡುಗಳು"
+
+msgid "security"
+msgstr "ಸುರಕ್ಷತೆ"
+
+msgid "select"
+msgstr "ಆಯ್ಕೆಮಾಡು"
+
+msgid "selection"
+msgstr "ಆಯ್ಕೆ"
+
+msgid "send"
+msgstr "ಕಳುಹಿಸು"
+
+msgid "separator"
+msgstr "ವಿಭಾಜಕ"
+
+msgid "server"
+msgstr "ಪರಿಚಾರಕ"
+
+msgid "services"
+msgstr "ಸೇವೆಗಳು"
+
+msgid "settings"
+msgstr "ಸಿದ್ಧತೆಗಳು"
+
+msgid "shape"
+msgstr "ಆಕಾರ"
+
+msgid "sharpen"
+msgstr "ತೀಕ್ಷ್ಣವಾಗಿಸು"
+
+msgid "shell"
+msgstr "ಕವಚ"
+
+msgid "shift"
+msgstr "ಸ್ಥಳಾಂತರ"
+
+msgid "show"
+msgstr "ತೋರಿಸು"
+
+msgid "simple"
+msgstr "ಸರಳ"
+
+msgid "sine"
+msgstr "ಸೈನ್"
+
+msgid "size"
+msgstr "ಗಾತ್ರ"
+
+msgid "skewness"
+msgstr "ಪ್ರವಣತೆ"
+
+msgid "skip"
+msgstr "ಉಪೇಕ್ಷಿಸು"
+
+msgid "slant"
+msgstr "ಓರೆ"
+
+msgid "small"
+msgstr "ಚಿಕ್ಕದು"
+
+msgid "smart"
+msgstr "ಚತುರ(ಸ್ಮಾರ್ಟ್)"
+
+msgid "snap"
+msgstr "ಸೆಳೆ"
+
+msgid "socket"
+msgstr "ಸಾಕೆಟ್"
+
+msgid "sort"
+msgstr "ವಿಂಗಡಿಸು"
+
+msgid "source"
+msgstr "ಆಕರ"
+
+msgid "space"
+msgstr "ಸ್ಥಳ"
+
+msgid "spacing"
+msgstr "ಅಂತರ"
+
+msgid "sphere"
+msgstr "ಗೋಳ"
+
+msgid "spherical"
+msgstr "ಗೋಳಾಕಾರ"
+
+msgid "spinner"
+msgstr "ಸ್ಪಿನ್ನರ್"
+
+msgid "split"
+msgstr "ವಿಭಾಗಿಸು"
+
+msgid "square"
+msgstr "ಚೌಕ"
+
+msgid "standard"
+msgstr "ಶಿಷ್ಟ"
+
+msgid "start"
+msgstr "ಆರಂಭ"
+
+msgid "state"
+msgstr "ರಾಜ್ಯ"
+
+msgid "statistics"
+msgstr "ಅಂಕಿಅಂಶಗಳು"
+
+msgid "status"
+msgstr "ಪರಿಸ್ಥಿತಿ"
+
+msgid "strikethrough"
+msgstr "ಹೊಡೆದುಹಾಕು"
+
+msgid "string"
+msgstr "ವಾಕ್ಯ"
+
+msgid "style"
+msgstr "ಶೈಲಿ"
+
+msgid "subject"
+msgstr "ವಿಷಯ"
+
+msgid "submit"
+msgstr "ಒಪ್ಪಿಸು"
+
+msgid "subscript"
+msgstr "ಅಡಿಅಕ್ಷರ"
+
+msgid "suffix"
+msgstr "ಉತ್ತರ ಪ್ರತ್ಯಯ"
+
+msgid "suggestions"
+msgstr "ಸೂಚನೆ :"
+
+msgid "superscript"
+msgstr "ಮೇಲಕ್ಷರ"
+
+msgid "suspend"
+msgstr "ಅಮಾನತು"
+
+msgid "symbol"
+msgstr "ಚಿಹ್ನೆ"
+
+msgid "synchronize"
+msgstr "ಮೇಳೈಸು"
+
+msgid "system"
+msgstr "ವ್ಯವಸ್ಥೆ"
+
+msgid "tab"
+msgstr "ಟ್ಯಾಬ್"
+
+msgid "table"
+msgstr "ಕೋಷ್ಟಕ"
+
+msgid "tabloid"
+msgstr "ಟ್ಯಾಬ್ಲಾಯ್ಡ್"
+
+msgid "target"
+msgstr "ಗುರಿ"
+
+msgid "te_xt"
+msgstr "ಪಠ್ಯ (_x)"
+
+msgid "templates"
+msgstr "ನಮೂನೆಗಳು"
+
+msgid "term"
+msgstr "ಟರ್ಮ್"
+
+msgid "test"
+msgstr "ಪರೀಕ್ಷೆ"
+
+msgid "text"
+msgstr "ಪಠ್ಯ"
+
+msgid "theme"
+msgstr "ಪರಿಸರ ವಿನ್ಯಾಸ"
+
+msgid "time"
+msgstr "ಸಮಯ"
+
+msgid "timeout"
+msgstr "ಸಮಯತೀರಿಕೆ"
+
+msgid "timing"
+msgstr "ಸಮಯ ಹೊಂದಿಸುವಿಕೆ"
+
+msgid "tiny"
+msgstr "ಅತಿ ಚಿಕ್ಕದು"
+
+msgid "title"
+msgstr "ಶೀರ್ಷಿಕೆ"
+
+msgid "toggle"
+msgstr "ಟಾಗಲ್"
+
+msgid "tolerance"
+msgstr "ಸಹಿಷ್ಣುತೆ"
+
+msgid "toolbar"
+msgstr "ಉಪಕರಣಪಟ್ಟಿ"
+
+msgid "tools"
+msgstr "ಉಪಕರಣಗಳು"
+
+msgid "total"
+msgstr "ಒಟ್ಟು"
+
+msgid "tr_ansparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
+
+msgid "transform"
+msgstr "ರೂಪಾಂತರಿಸು"
+
+msgid "translate"
+msgstr "ಭಾಷಾಂತರಿಸಿ"
+
+msgid "transparency"
+msgstr "ಪಾರದರ್ಶಕತೆ"
+
+msgid "transparent"
+msgstr "ಪಾರದರ್ಶಕ"
+
+msgid "transpose"
+msgstr "ಸ್ಥಾನ ಪರಿವರ್ತನೆ ಮಾಡು (_t)"
+
+msgid "trash"
+msgstr "ಕಸ"
+
+msgid "type"
+msgstr "ಬಗೆ"
+
+msgid "underline"
+msgstr "ಅಡಿಗೆರೆ"
+
+msgid "undo"
+msgstr "ರದ್ದುಮಾಡು"
+
+msgid "unicode"
+msgstr "ಯೂನಿಕೋಡ್"
 
 msgid "unknown"
-msgstr "ಗೊತ್ತಿರದ"
+msgstr "ಗೊತ್ತಿಲ್ಲದ"
 
-msgid "you4 Envelope"
-msgstr "you4 ಲಕೋಟೆ"
+msgid "untitled"
+msgstr "ಶೀರ್ಷಿಕೆರಹಿತ"
+
+msgid "up"
+msgstr "ಮೇಲೆ"
+
+msgid "update"
+msgstr "ಅಪ್‌ಡೇಟ್‌ ಮಾಡು"
+
+msgid "user"
+msgstr "ಬಳಕೆದಾರರು"
+
+msgid "username"
+msgstr "ಬಳಕೆದಾರನ ಹೆಸರು"
+
+msgid "v_alue"
+msgstr "ಮೌಲ್ಯ (_a)"
+
+msgid "value"
+msgstr "ಮೌಲ್ಯ"
+
+msgid "variable"
+msgstr "ಚರ"
+
+msgid "vendor"
+msgstr "ಮಾರಾಟಗಾರ"
+
+msgid "version"
+msgstr "ಆವೃತ್ತಿ"
+
+msgid "vertical"
+msgstr "ಉದ್ದ"
+
+msgid "video"
+msgstr "ವೀಡಿಯೊ"
+
+msgid "view"
+msgstr "ನೋಟ"
+
+msgid "visible"
+msgstr "ಗೋಚರ"
+
+msgid "volume"
+msgstr "ಧ್ವನಿಯ ಪ್ರಮಾಣ"
+
+msgid "waiting"
+msgstr "ನಿರೀಕ್ಷಿಸುತ್ತಿದೆ"
+
+msgid "warning"
+msgstr "ಎಚ್ಚರಿಕೆ"
+
+msgid "website"
+msgstr "ಜಾಲತಾಣ"
+
+msgid "weight"
+msgstr "ತೂಕ"
+
+msgid "welcome"
+msgstr "ಸುಸ್ವಾಗತ"
+
+msgid "wheel"
+msgstr "ಚಕ್ರ"
+
+msgid "white"
+msgstr "ಬಿಳಿ"
+
+msgid "width"
+msgstr "ಅಗಲ"
+
+msgid "window"
+msgstr "ಕಿಟಕಿ"
+
+msgid "wood"
+msgstr "ಮರ"
+
+msgid "word"
+msgstr "ಪದಗಳು"
+
+msgid "wrap"
+msgstr "ಆವರಿಕೆ"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"
+
+msgid "yellow"
+msgstr "ಹಳದಿ"
+
+msgid "yes"
+msgstr "ಹೌದು"
+
+msgid "zoom"
+msgstr "ಹಿಗ್ಗಿಸು"

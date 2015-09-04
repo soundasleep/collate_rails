@@ -1,0 +1,65 @@
+msgid "About"
+msgstr "אודות"
+
+msgid "Archive"
+msgstr "ארכיון"
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "Copy"
+msgstr "העתק"
+
+msgid "Delete"
+msgstr "מחק"
+
+msgid "Edit"
+msgstr "ערוך"
+
+msgid "OK"
+msgstr "אישור"
+
+msgid "Save"
+msgstr "שמור"
+
+msgid "Send"
+msgstr "שלח"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Share"
+msgstr "שתף"
+
+msgid "about"
+msgstr "אודות"
+
+msgid "archive"
+msgstr "ארכיון"
+
+msgid "cancel"
+msgstr "ביטול"
+
+msgid "copy"
+msgstr "העתק"
+
+msgid "delete"
+msgstr "מחק"
+
+msgid "edit"
+msgstr "ערוך"
+
+msgid "save"
+msgstr "שמור"
+
+msgid "send"
+msgstr "שלח"
+
+msgid "settings"
+msgstr "הגדרות"
+
+msgid "share"
+msgstr "שתף"
+
+msgid "today"
+msgstr "היום"

@@ -1,533 +1,23 @@
-msgid "# authors shown individually:"
-msgstr "# ผู้เขียนแสดงเป็นรายบุคคล:"
-
 msgid "#10 Envelope"
-msgstr "ซอง #10"
+msgstr "ซองจดหมาย"
 
 msgid "#11 Envelope"
-msgstr "ซอง #11"
+msgstr "ซองจดหมาย"
 
 msgid "#12 Envelope"
-msgstr "ซอง #12"
-
-msgid "#14 Envelope"
-msgstr "ซอง #14"
+msgstr "ซองจดหมาย"
 
 msgid "#9 Envelope"
-msgstr "ซอง #9"
-
-msgid "%{number} second"
-msgstr "%{number} วินาที"
-
-msgid "%{string} already exists in the bookmarks list"
-msgstr "%{string} มีในรายการที่คั่นหน้าอยู่ก่อนแล้ว"
-
-msgid "%{string} and %{string} installed"
-msgstr "ติดตั้ง %{string} และ %{string} เสร็จแล้ว"
-
-msgid "%{string} does not exist in the bookmarks list"
-msgstr "%{string} ไม่มีอยู่ในรายการที่คั่นหน้า"
-
-msgid "%{string} is now installed"
-msgstr "%{string} ติดตั้งเสร็จแล้ว"
-
-msgid "%{string} is provided by “%{string}”."
-msgstr "%{string} จัดเตรียมโดย “%{string}”"
-
-msgid "%{string} is requesting additional file format support."
-msgstr "%{string} ร้องขอการรองรับฟอร์แมตแฟ้มเพิ่มเติม"
-
-msgid "%{string} is requesting additional fonts."
-msgstr "%{string} ร้องขอแบบอักษรเพิ่มเติม"
-
-msgid "%{string} is requesting additional multimedia codecs."
-msgstr "%{string} ร้องขอตัวอ่าน-ลงรหัสสื่อผสมเพิ่มเติม"
-
-msgid "%{string} is requesting additional packages."
-msgstr "%{string} ร้องขอแพกเกจเพิ่มเติม"
-
-msgid "%{string} is requesting additional printer drivers."
-msgstr "%{string} ร้องขอไดรเวอร์เครื่องพิมพ์เพิ่มเติม"
-
-msgid "%{string} will be removed, and you will have to install it to use it again."
-msgstr "%{string} จะถูกถอดถอน และคุณจะต้องติดตั้งโปรแกรมดังกล่าวใหม่หากต้องการใช้งานอีกครั้ง"
-
-msgid "%{string}: error launching application: %{string}\n"
-msgstr "%{string}: เกิดข้อผิดพลาดขณะเรียกทำงานโปรแกรม: %{string}\n"
-
-msgid "%{string}: missing application name"
-msgstr "%{string}: ไม่มีชื่อโปรแกรม"
-
-msgid "&..."
-msgstr "&..."
-
-msgid "&Activate"
-msgstr "&Activate"
-
-msgid "&Add"
-msgstr "&เพิ่ม"
-
-msgid "&Add >>"
-msgstr "&เพิ่ม >>"
-
-msgid "&Add or Remove Buttons"
-msgstr "&ปุ่มเพิ่มหรือลบ"
-
-msgid "&Add..."
-msgstr "&เพิ่ม..."
-
-msgid "&Address"
-msgstr "&ที่อยู่"
-
-msgid "&Advanced..."
-msgstr "&ขั้นสูง..."
-
-msgid "&Auto Hide"
-msgstr "&ซ่อนอัตโนมัติ"
-
-msgid "&Autoclose:"
-msgstr "&ปิดอัตโนมัติ:"
-
-msgid "&Backup original file"
-msgstr "&Backup ไฟล์ต้นฉบับ"
-
-msgid "&Binary"
-msgstr "&Binary"
-
-msgid "&Blame..."
-msgstr "&ตำหนิ..."
-
-msgid "&Blue:"
-msgstr "&Blue:"
-
-msgid "&Border:"
-msgstr "&ขอบ:"
-
-msgid "&Bottom"
-msgstr "&ปุ่ม"
-
-msgid "&Browse repository"
-msgstr "&ค้นดูในคลัง"
-
-msgid "&Browse..."
-msgstr "&ค้นหา..."
-
-msgid "&Button Appearance..."
-msgstr "&รูปร่างของปุ่ม..."
-
-msgid "&Button text:"
-msgstr "&ข้อความบนปุ่ม:"
-
-msgid "&CD-ROM"
-msgstr "&CD-ROM"
-
-msgid "&Cancel"
-msgstr "&ยกเลิก"
-
-msgid "&Categories:"
-msgstr "&ประเภท:"
-
-msgid "&Category:"
-msgstr "&ประเภท:"
-
-msgid "&Choose commands from:"
-msgstr "&เลือกคำสั่งจาก:"
-
-msgid "&Choose items..."
-msgstr "&เลือกรายการ..."
-
-msgid "&Clean up..."
-msgstr "&ทำความสะอาด..."
-
-msgid "&Close"
-msgstr "&ปิด"
-
-msgid "&Close Window(s)"
-msgstr "&ปิดหน้าต่างนี้"
-
-msgid "&Command:"
-msgstr "&คำสั่ง:"
-
-msgid "&Commit..."
-msgstr "&ส่งมอบ..."
-
-msgid "&Compare URLs"
-msgstr "&เปรียบเทียบ URLs"
-
-msgid "&Compare revisions"
-msgstr "&เปรียบเทียบการปรับปรุง"
-
-msgid "&Compare whitespaces"
-msgstr "&เปรียบเทียบช่องว่าง"
-
-msgid "&Configure"
-msgstr "&ตั้งค่า"
-
-msgid "&Copy"
-msgstr "&คัดลอก"
-
-msgid "&Copy Button Image"
-msgstr "&รูปภาพปุ่มคัดลอก"
-
-msgid "&Copy to clipboard"
-msgstr "&คัดลอกไปที่ clipboard"
-
-msgid "&Copy to..."
-msgstr "&คัดลอกไปที่..."
-
-msgid "&Custom"
-msgstr "&กำหนดเอง"
-
-msgid "&Date"
-msgstr "&วันที่"
-
-msgid "&Default"
-msgstr "&ค่าปริยาย"
-
-msgid "&Delete"
-msgstr "&ลบ"
-
-msgid "&Delete (keep local)"
-msgstr "&ลบ (เก็บสำเนาในเครื่อง)"
-
-msgid "&Delete..."
-msgstr "&ลบทิ้ง..."
-
-msgid "&Diff"
-msgstr "เ&ปรียบเทียบ"
-
-msgid "&Diff with URL"
-msgstr "เ&ปรียบเทียบกับ URL"
-
-msgid "&Directories"
-msgstr "&Directories"
-
-msgid "&EOL"
-msgstr "&EOL"
-
-msgid "&Edit"
-msgstr "&แก้ไข"
-
-msgid "&Edit conflict"
-msgstr "แ&ก้ข้อขัดแย้ง"
-
-msgid "&Edit conflicts"
-msgstr "แ&ก้ข้อขัดแย้ง"
-
-msgid "&Edit..."
-msgstr "&แก้ไข..."
-
-msgid "&Enable Proxy Server"
-msgstr "เ&ปิดใช้พร็อกซีเซิฟเวอร์"
-
-msgid "&Exit"
-msgstr "&ออก"
-
-msgid "&External"
-msgstr "&ภายนอก"
-
-msgid "&File"
-msgstr "&ไฟล์"
-
-msgid "&Files"
-msgstr "&ไฟล์"
-
-msgid "&Filter"
-msgstr "&ตัวกรอง"
-
-msgid "&Find"
-msgstr "&ค้นหา"
-
-msgid "&Font:"
-msgstr "&รูปแบบตัวอักษร:"
-
-msgid "&From URL:"
-msgstr "&จาก URL:"
-
-msgid "&From WC / URL:"
-msgstr "&จาก WC / URL:"
-
-msgid "&From revision"
-msgstr "&จากการปรับปรุง"
-
-msgid "&Green:"
-msgstr "&Green:"
-
-msgid "&Help"
-msgstr "&ช่วยเหลือ"
-
-msgid "&Help Topics"
-msgstr "&หัวข้อช่วยเหลือ"
-
-msgid "&Hide"
-msgstr "&ซ่อน"
-
-msgid "&Icon Set:"
-msgstr "ชุดไ&อคอน:"
-
-msgid "&Image"
-msgstr "&รูปภาพ"
-
-msgid "&Image only"
-msgstr "&รูปภาพเท่านั้น"
-
-msgid "&Import..."
-msgstr "&นำเข้า..."
-
-msgid "&Keywords"
-msgstr "&คำหลัก"
-
-msgid "&Label"
-msgstr "&ชื่อ"
-
-msgid "&Language:"
-msgstr "&ภาษา:"
-
-msgid "&Large Icons"
-msgstr "&ไอค่อนขนาดใหญ่"
-
-msgid "&Limit:"
-msgstr "&จำกัด:"
-
-msgid "&Linux (LF)"
-msgstr "&Linux (LF)"
-
-msgid "&Load..."
-msgstr "&โหลด..."
-
-msgid "&Mac (CR)"
-msgstr "&Mac (CR)"
-
-msgid "&Merge"
-msgstr "&ผสาน"
-
-msgid "&Merge..."
-msgstr "&ผสาน..."
-
-msgid "&Next >"
-msgstr "&ถัดไป >"
-
-msgid "&Next Page"
-msgstr "&หน้าถัดไป"
-
-msgid "&OK"
-msgstr "&ตกลง"
-
-msgid "&Offline for now"
-msgstr "&ออฟไลน์เดี๋ยวนี้"
-
-msgid "&One Page"
-msgstr "&หนึ่งหน้า"
-
-msgid "&Open"
-msgstr "&เปิด"
-
-msgid "&Options"
-msgstr "&ตัวเลือก"
-
-msgid "&Options..."
-msgstr "&ตัวเลือก..."
-
-msgid "&Overview"
-msgstr "&ภาพรวม"
-
-msgid "&Password:"
-msgstr "&รหัสผ่าน:"
-
-msgid "&Paste"
-msgstr "&วาง"
-
-msgid "&Permanently offline"
-msgstr "ออฟไลน์&ถาวร"
-
-msgid "&Port:"
-msgstr "&หมายเลขช่องทาง:"
-
-msgid "&Print Preview"
-msgstr "&ตัวอย่างก่อนพิมพ์"
-
-msgid "&Print..."
-msgstr "&พิมพ์..."
-
-msgid "&Properties"
-msgstr "&คุณสมบัติ"
-
-msgid "&Properties..."
-msgstr "&คุณสมบัติ..."
-
-msgid "&Redo"
-msgstr "&ทำซ้ำ"
-
-msgid "&Refresh"
-msgstr "&รีเฟรช"
-
-msgid "&Remove"
-msgstr "เ&อาออก"
-
-msgid "&Rename"
-msgstr "&เปลี่ยนชื่อ"
-
-msgid "&Repo-browser"
-msgstr "&Repo-browser"
-
-msgid "&Reset"
-msgstr "&ตั้งค่าใหม่"
-
-msgid "&Reset Toolbar"
-msgstr "&จัดแถบเครื่องมือใหม่"
-
-msgid "&Reset my usage data"
-msgstr "&จัดข้อมูลการใช้งานใหม่"
-
-msgid "&Reset to Default"
-msgstr "เ&ปลี่ยนเป็นค่าปริยาย"
-
-msgid "&Restore defaults"
-msgstr "&คืนค่าปริยาย"
-
-msgid "&Revision"
-msgstr "&การปรับปรุง"
-
-msgid "&SSH client:"
-msgstr "&SSH client:"
-
-msgid "&SVN"
-msgstr "&SVN"
-
-msgid "&Save"
-msgstr "&บันทึก"
-
-msgid "&Save authentication"
-msgstr "&บันทึกการพิสูจน์ตัวตน"
-
-msgid "&Save graph as..."
-msgstr "&บันทึกกราฟเป็น..."
-
-msgid "&Save list of selected files to..."
-msgstr "&บันทึกรายการไฟล์ที่เลือกไปยัง..."
-
-msgid "&Save value..."
-msgstr "&บันทึกค่า..."
-
-msgid "&Settings"
-msgstr "&การตั้งค่า"
-
-msgid "&Show Log"
-msgstr "แ&สดงบันทึกเหตุการณ์"
-
-msgid "&Status Bar"
-msgstr "แ&ถบสถานะ"
-
-msgid "&Text"
-msgstr "&ข้อความ"
-
-msgid "&Text only"
-msgstr "&ข้อความเท่านั้น"
-
-msgid "&To Revision"
-msgstr "&ไปยังการปรับปรุง"
-
-msgid "&To URL:"
-msgstr "&ไปยัง URL :"
-
-msgid "&To path:"
-msgstr "&ไปยัง path:"
-
-msgid "&Toolbar"
-msgstr "แ&ถบเครื่องมือ"
-
-msgid "&TortoiseMerge"
-msgstr "&TortoiseMerge"
-
-msgid "&TortoiseSVN"
-msgstr "&TortoiseSVN"
-
-msgid "&TortoiseUDiff"
-msgstr "&TortoiseUDiff"
-
-msgid "&Transactions"
-msgstr "&การทำรายการ"
-
-msgid "&Two Page"
-msgstr "&สองหน้า"
-
-msgid "&URL of repository:"
-msgstr "&URL ของคลัง:"
-
-msgid "&URL:"
-msgstr "&URL:"
-
-msgid "&Undo"
-msgstr "&ยกเลิก"
-
-msgid "&Username:"
-msgstr "&ชื่อผู้ใช้:"
-
-msgid "&View"
-msgstr "&มุมมอง"
-
-msgid "&View:"
-msgstr "&มุมมอง:"
-
-msgid "&Whole word"
-msgstr "&ทั้งคำ"
-
-msgid "&Windows (CRLF)"
-msgstr "&Windows (CRLF)"
-
-msgid "(Double-click to clear error message)"
-msgstr "(ดับเบิลคลิกเพื่อล้างข้อความแสดงข้อผิดพลาด)"
+msgstr "ซองจดหมาย"
 
 msgid "(None)"
 msgstr "(ไม่มี)"
 
-msgid "(This could take a while)"
-msgstr "(อาจใช้เวลาสักครู่)"
-
-msgid "(binary value)"
-msgstr "(ค่าฐานสอง)"
-
-msgid "(copy)"
-msgstr "(คัดลอก)"
-
-msgid "(created)"
-msgstr "(สร้าง)"
-
-msgid "(delete)"
-msgstr "(ลบ)"
-
-msgid "(externals)"
-msgstr "(ภายนอก)"
-
 msgid "(modified)"
 msgstr "(แก้ไข)"
 
-msgid "(multiple targets selected)"
-msgstr "(เลือกหลายเป้าหมาย)"
-
-msgid "(no changelist)"
-msgstr "(ไม่มีรายการแก้ไข)"
-
-msgid "(no label)"
-msgstr "(ไม่มีชื่อ)"
-
-msgid "(no line number)"
-msgstr "(ไม่มีเลขบรรทัด)"
-
-msgid "(no value)"
-msgstr "(ไม่มีค่า)"
-
-msgid "(not found)"
-msgstr "(ไม่พบ)"
-
-msgid "(property change only)"
-msgstr "(เปลี่ยนคุณสมบัติเท่านั้น)"
-
-msgid "(rename)"
-msgstr "(เปลี่ยนชื่อ)"
-
-msgid "(unknown)"
-msgstr "(ไม่ทราบ)"
+msgid "(none)"
+msgstr "(ไม่มี)"
 
 msgid ","
 msgstr ","
@@ -535,275 +25,56 @@ msgstr ","
 msgid "..."
 msgstr "..."
 
-msgid "....."
-msgstr "....."
-
-msgid "0"
-msgstr "0"
-
-msgid "1 day"
-msgstr "1 วัน"
-
-msgid "1 week"
-msgstr "1 สัปดาห์"
-
-msgid "10 minutes"
-msgstr "10 นาที"
-
-msgid "10x11"
-msgstr "10x11"
-
-msgid "10x13"
-msgstr "10x13"
-
-msgid "10x14"
-msgstr "10x14"
-
-msgid "10x15"
-msgstr "10x15"
-
-msgid "11x12"
-msgstr "11x12"
-
-msgid "11x15"
-msgstr "11x15"
-
-msgid "12x19"
-msgstr "12x19"
-
-msgid "2 hours"
-msgstr "2 ชั่วโมง"
-
-msgid "2000"
-msgstr "2000"
-
-msgid "2D Graphics"
-msgstr "กราฟิกส์ 2 มิติ"
-
-msgid "3D Graphics"
-msgstr "กราฟิกส์ 3 มิติ"
-
-msgid "5x7"
-msgstr "5x7"
-
-msgid "6 hours"
-msgstr "6 ชั่วโมง"
-
-msgid "6x9 Envelope"
-msgstr "ซอง 6x9"
-
-msgid "7x9 Envelope"
-msgstr "ซอง 7x9"
-
-msgid "9x11 Envelope"
-msgstr "ซอง 9x11"
-
-msgid ";"
-msgstr ";"
-
 msgid "< &Back"
 msgstr "< &กลับ"
 
 msgid "?"
 msgstr "?"
 
-msgid "A"
-msgstr "A"
-
-msgid "A GtkPackType indicating whether the child is packed with reference to the start or end of the parent"
-msgstr "ค่า GtkPackType ระบุว่าอ็อบเจกต์ลูกบรรจุโดยเทียบกับต้นหรือท้ายของอ็อบเจกต์แม่"
-
-msgid "A file named “%{string}” already exists.  Do you want to replace it?"
-msgstr "มีแฟ้มชื่อ “%{string}” อยู่ก่อนแล้ว คุณต้องการจะแทนที่แฟ้มหรือไม่?"
-
-msgid "A logo for the about box. If this is not set, it defaults to gtk_window_get_default_icon_list()"
-msgstr "โลโก้สำหรับกล่องข้อมูลเกี่ยวกับโปรแกรม ถ้าไม่กำหนด จะใช้ผลลัพธ์จาก gtk_window_get_default_icon_list() โดยปริยาย"
-
-msgid "A name for the action group."
-msgstr "ชื่อของกลุ่มการกระทำ"
-
-msgid "A named icon to use as the logo for the about box."
-msgstr "ชื่อไอคอนที่จะใช้เป็นโลโก้ของกล่องข้อมูลเกี่ยวกับโปรแกรม"
-
-msgid "A newer version is available.\r\nPlease go to http://tortoisesvn.net and download the current version."
-msgstr "เวอร์ชันใหม่พร้อมให้บริการแล้ว\nโปรดไปที่ http://tortoisesvn.net แล้วดาว์นโหลดเวอร์ชันล่าสุด"
-
-msgid "A nice way to manage the software on your system."
-msgstr "วิธีที่ดีในการจัดการซอฟต์แวร์ในระบบของคุณ"
-
-msgid "A previous update was unfinished."
-msgstr "การปรับรุ่นครั้งก่อนยังไม่แล้วเสร็จ"
-
-msgid "A required resource was unavailable."
-msgstr "ทรัพยากรที่จำเป็นไม่พร้อมใช้งาน"
-
-msgid "A shorter label that may be used on toolbar buttons."
-msgstr "ฉลากแบบสั้นที่สามารถใช้กับปุ่มในแถบเครื่องมือได้"
-
-msgid "A tooltip for this action."
-msgstr "คำแนะนำเครื่องมือสำหรับการกระทำนี้"
-
-msgid "A unique name for the action."
-msgstr "ชื่อเฉพาะสำหรับการกระทำ"
-
 msgid "A0"
 msgstr "A0"
-
-msgid "A0x2"
-msgstr "A0x2"
-
-msgid "A0x3"
-msgstr "A0x3"
 
 msgid "A1"
 msgstr "A1"
 
-msgid "A10"
-msgstr "A10"
-
-msgid "A1x3"
-msgstr "A1x3"
-
-msgid "A1x4"
-msgstr "A1x4"
-
 msgid "A2"
 msgstr "A2"
-
-msgid "A2x3"
-msgstr "A2x3"
-
-msgid "A2x4"
-msgstr "A2x4"
-
-msgid "A2x5"
-msgstr "A2x5"
 
 msgid "A3"
 msgstr "A3"
 
-msgid "A3 Extra"
-msgstr "A3 พิเศษ"
-
-msgid "A3x3"
-msgstr "A3x3"
-
-msgid "A3x4"
-msgstr "A3x4"
-
-msgid "A3x5"
-msgstr "A3x5"
-
-msgid "A3x6"
-msgstr "A3x6"
-
-msgid "A3x7"
-msgstr "A3x7"
-
 msgid "A4"
 msgstr "A4"
-
-msgid "A4 Extra"
-msgstr "A4 พิเศษ"
-
-msgid "A4 Tab"
-msgstr "A4 Tab"
-
-msgid "A4x3"
-msgstr "A4x3"
-
-msgid "A4x4"
-msgstr "A4x4"
-
-msgid "A4x5"
-msgstr "A4x5"
-
-msgid "A4x6"
-msgstr "A4x6"
-
-msgid "A4x7"
-msgstr "A4x7"
-
-msgid "A4x8"
-msgstr "A4x8"
-
-msgid "A4x9"
-msgstr "A4x9"
 
 msgid "A5"
 msgstr "A5"
 
-msgid "A5 Extra"
-msgstr "A5 พิเศษ"
-
 msgid "A6"
 msgstr "A6"
 
-msgid "A7"
-msgstr "A7"
-
-msgid "A8"
-msgstr "A8"
-
-msgid "A9"
-msgstr "A9"
-
-msgid "AC adapter"
-msgstr "ที่แปลงไฟ AC"
-
-msgid "ACPI"
-msgstr "ACPI"
-
-msgid "APPLICATION [URI…] — launch an APPLICATION with URI."
-msgstr "APPLICATION [URI…] - เรียก APPLICATION ทำงาน พร้อมส่ง URI ให้"
-
-msgid "ATA host controller"
-msgstr "ตัวควบคุมโฮสต์ ATA"
-
-msgid "A_t:"
-msgstr "เ_วลา:"
+msgid "AND"
+msgstr "AND"
 
 msgid "About"
 msgstr "เกี่ยวกับ"
 
-msgid "About Software"
-msgstr "เกี่ยวกับ \"ซอฟต์แวร์\""
+msgid "Accept"
+msgstr "ยอมรับ"
 
-msgid "About TortoiseMerge"
-msgstr "เกี่ยวกับ TortoiseMerge"
-
-msgid "About TortoiseSVN"
-msgstr "เกี่ยวกับ TortoiseSVN"
-
-msgid "Accept the certificate permanently\nYou won't get asked about this certificate again."
-msgstr "ตอบรับใบรับรองนี้ถาวร\nจะไม่มีการถามเกี่ยวกับใบรับรองนี้อีกต่อไป"
-
-msgid "Accept the certificate\nThe certificate is accepted only this one time."
-msgstr "ตอบรับใบรับรอง\nยอมรับใบรับรองนี้เพียงแค่ครั้งนี้"
+msgid "Accepted"
+msgstr "ถูกยอมรับ"
 
 msgid "Accessibility"
-msgstr "สิ่งอำนวยความสะดวก"
+msgstr "ความเข้าถึง"
+
+msgid "Account"
+msgstr "บั~ญชีผู้ใช้"
 
 msgid "Action"
-msgstr "แอคชัน"
+msgstr "การกระทำ"
 
-msgid "Action Group"
-msgstr "กลุ่มการกระทำ"
-
-msgid "Activate"
-msgstr "เรียกใช้งาน"
-
-msgid "Activates the cell"
-msgstr "เรียกใช้งานเซลล์"
-
-msgid "Activates the color"
-msgstr "เรียกใช้งานสี"
-
-msgid "Activates the entry"
-msgstr "เรียกใช้งานรายการ"
-
-msgid "Activates the expander"
-msgstr "เรียกใช้งานช่องพับเก็บ"
+msgid "Active"
+msgstr "ใช้งานอยู่"
 
 msgid "Activity"
 msgstr "กิจกรรม"
@@ -811,320 +82,95 @@ msgstr "กิจกรรม"
 msgid "Add"
 msgstr "เพิ่ม"
 
-msgid "Add &file..."
-msgstr "เพิ่ม &ไฟล์..."
-
-msgid "Add Cover Page"
-msgstr "เพิ่มหน้าปก"
-
-msgid "Add Properties"
-msgstr "เพิ่มคุณสมบัติ"
-
-msgid "Add new files automatically to SVN"
-msgstr "เพิ่มไฟล์ใหม่ไปยัง SVN อัตโนมัติ"
-
-msgid "Add to &ignore list"
-msgstr "เพิ่มใน&รายการเพิกเฉย"
-
-msgid "Add to Application Folder"
-msgstr "เพิ่มเข้าโฟลเดอร์โปรแกรม"
-
-msgid "Add, remove or update software on this computer"
-msgstr "เพิ่ม ลบ หรือปรับรุ่นซอฟต์แวร์ในคอมพิวเตอร์นี้"
-
-msgid "Add-ons"
-msgstr "ส่วนเสริม"
-
 msgid "Add..."
 msgstr "เพิ่ม..."
 
 msgid "Added"
 msgstr "เพิ่มแล้ว"
 
-msgid "Adding"
-msgstr "กำลังเพิ่ม"
-
-msgid "Adding this software source will give you access to additional software and upgrades."
-msgstr "การเพิ่มแหล่งซอฟต์แวร์นี้จะให้คุณเข้าถึงซอฟต์แวร์และการปรับรุ่นเพิ่มเติมได้"
-
-msgid "Additional Fonts Required"
-msgstr "ต้องการแบบอักษรเพิ่มเติม"
-
-msgid "Additional MIME Types Required"
-msgstr "ต้องการชนิด MIME เพิ่มเติม"
-
-msgid "Additional Multimedia Codecs Required"
-msgstr "ต้องการตัวอ่าน-ลงรหัสสื่อผสมเพิ่มเติม"
-
-msgid "Additional Packages Required"
-msgstr "ต้องการแพกเกจเพิ่มเติม"
-
-msgid "Additional Printer Drivers Required"
-msgstr "ต้องการไดรเวอร์เครื่องพิมพ์เพิ่มเติม"
-
 msgid "Address"
 msgstr "ที่อยู่"
 
-msgid "Adds a new property"
-msgstr "เพิ่มคุณสมบัติใหม่"
+msgid "Address Line 1"
+msgstr "ที่อยู่ บรรทัด 1"
 
-msgid "Adjust the settings\nSettings"
-msgstr "ปรับแต่งการตั้งค่า\nตั้งค่า"
+msgid "Address Line 2"
+msgstr "ที่อยู่ บรรทัด 2"
 
-msgid "Adjusts the volume"
-msgstr "ปรับความดัง"
+msgid "Administration"
+msgstr "บริหาร"
 
 msgid "Advanced"
 msgstr "ขั้นสูง"
-
-msgid "Advanced Diff/Merge Settings"
-msgstr "ตั้งค่าการเปรียบเทียบ/ผสานขั้นสูง"
-
-msgid "Advanced diff settings"
-msgstr "ตั้งค่าการเปรียบเทียบขั้นสูง"
-
-msgid "Advanced merge settings"
-msgstr "ตั้งค่าการผสานขั้นสูง"
-
-msgid "Adventure"
-msgstr "ผจญภัย"
 
 msgid "Afrikaans"
 msgstr "ภาษาแอฟริกา"
 
 msgid "After"
-msgstr "ปกหลัง"
+msgstr "ข~วา"
 
-msgid "Age"
-msgstr "อายุ"
+msgid "Align"
+msgstr "จัดตำแหน่ง"
+
+msgid "Align left"
+msgstr "จัดตำแหน่งชิดซ้าย"
+
+msgid "Align right"
+msgstr "จัดตำแหน่งชิดขวา"
+
+msgid "Alignment"
+msgstr "การปรับแนว"
 
 msgid "All"
 msgstr "ทั้งหมด"
 
-msgid "All Commands"
-msgstr "คำสั่งทั้งหมด"
-
-msgid "All Files (*.*)"
-msgstr "ไฟล์ทั้งหมด (*.*)"
-
-msgid "All Files (*.*)|*.*||"
-msgstr "All Files (*.*)|*.*||"
+msgid "All files"
+msgstr "แฟ้มทั้งหมด"
 
 msgid "All sheets"
-msgstr "ทุกหน้า"
-
-msgid "All your changes will be lost! Do you really want to reset all toolbars and menus?"
-msgstr "สิ่งที่คุณได้ทำการเปลี่ยนแปลงจะสูญหาย คุณแน่ใจหรือไม่ที่จะตั้งค่าแถบเครื่องมือและเมนูใหม่?"
-
-msgid "Allow ambiguous &UUIDs"
-msgstr "ยอมให้มี &UUID ที่กำกวม"
-
-msgid "Allow different repositories to use the same URL, e.g. http://localhost/myrepos/"
-msgstr "ยอมให้คลังต่างๆ ใช้ URL เดียวกันได้ เช่น http://localhost/myrepos/"
-
-msgid "Allow different repositories to use the same UUID, e.g. copied repositories"
-msgstr "ยอมให้คลังต่างๆ ใช้ UUID เดียวกันได้ เช่น คลังที่ได้ทำการคัดลอกมา"
-
-msgid "Allow folder creation"
-msgstr "ทิศทางของลูกศร"
+msgstr "แผ่นงานทั้งหมด"
 
 msgid "Alpha"
-msgstr "อัลฟา"
+msgstr "อัลฟ่า"
 
-msgid "Already merged"
-msgstr "ผสานเรียบร้อยแล้ว"
+msgid "Amount"
+msgstr "จำนวน"
 
-msgid "Alt"
-msgstr "Alt"
+msgid "An error has occurred."
+msgstr "เกิดข้อผิดพลาด"
 
-msgid "Aluminum 1"
-msgstr "อะลูมิเนียม 1"
+msgid "Anchor"
+msgstr "สมอยึด"
 
-msgid "Aluminum 2"
-msgstr "อะลูมิเนียม 2"
+msgid "Angle"
+msgstr "มุม"
 
-msgid "Always on Top"
-msgstr "อยู่บนสุด"
+msgid "Antialiasing"
+msgstr "แสดงผลไร้รอยหยัก"
 
-msgid "Always on Visible Workspace"
-msgstr "แสดงบนพื้นที่ทำงานเสมอ"
-
-msgid "Amharic (EZ+)"
-msgstr "อัมฮาริก (EZ+)"
-
-msgid "Amount of blue light in the color."
-msgstr "ความสว่างของแม่สีน้ำเงิน"
-
-msgid "Amount of green light in the color."
-msgstr "ความสว่างของแม่สีเขียว"
-
-msgid "Amount of red light in the color."
-msgstr "ความสว่างของแม่สีแดง"
-
-msgid "Amount of space used up by arrow"
-msgstr "เนื้อที่ที่ใช้โดยลูกศร"
-
-msgid "Amount to increase child's size on either side"
-msgstr "ขนาดที่จะเพิ่มให้กับอ็อบเจกต์ลูกทางด้านข้าง"
-
-msgid "Amount to increase child's size on the top and bottom"
-msgstr "ขนาดที่จะเพิ่มให้กับอ็อบเจกต์ลูกทางด้านบนและด้านล่าง"
-
-msgid "An application"
-msgstr "มีโปรแกรมหนึ่ง"
-
-msgid "An important OS update failed to be installed."
-msgstr "ติดตั้งรายการปรับรุ่นที่สำคัญของ OS ไม่สำเร็จ"
-
-msgid "An important OS update has been installed."
-msgstr "ติดตั้งรายการปรับรุ่นที่สำคัญของ OS แล้ว"
-
-msgid "An unknown line type was found in line %{number} !"
-msgstr "พบบรรทัดประเภทที่ไม่รู้จัก บรรทัดที่ %{number} !"
-
-msgid "Anonymous tag found and tags can not be created."
-msgstr "พบแท็กที่ไม่มีชื่อ และไม่สามารถสร้างแท็กได้"
-
-msgid "Any Printer"
-msgstr "เครื่องพิมพ์ใดๆ"
-
-msgid "Appearance of the shadow surrounding the arrow"
-msgstr "รูปแบบของเงารอบลูกศร"
+msgid "Appearance"
+msgstr "รูปลักษณ์"
 
 msgid "Application"
 msgstr "โปรแกรม"
 
-msgid "Application manager for GNOME"
-msgstr "เครื่องมือจัดการโปรแกรมสำหรับ GNOME"
+msgid "Arc"
+msgstr "เส้นโค้ง"
 
-msgid "Application menu"
-msgstr "เมนูโปรแกรม"
+msgid "Array"
+msgstr "อาเรย์"
 
-msgid "Arcade"
-msgstr "เกมตู้"
-
-msgid "Arch A"
-msgstr "Arch A"
-
-msgid "Arch B"
-msgstr "Arch B"
-
-msgid "Arch C"
-msgstr "Arch C"
-
-msgid "Arch D"
-msgstr "Arch D"
-
-msgid "Arch E"
-msgstr "Arch E"
-
-msgid "Archiving"
-msgstr "การจัดเก็บแฟ้ม"
-
-msgid "Are you sure you want to remove %{string}?"
-msgstr "คุณแน่ใจหรือไม่ว่าต้องการถอดถอน %{string}?"
-
-msgid "Arrow Scaling"
-msgstr "การปรับขนาดของลูกศร"
-
-msgid "Arrow direction"
-msgstr "ทิศทางของลูกศร"
-
-msgid "Arrow shadow"
-msgstr "เงาของลูกศร"
-
-msgid "Art"
-msgstr "ศิลปะ"
-
-msgid "Artificial Intelligence"
-msgstr "ปัญญาประดิษฐ์"
-
-msgid "Artistic License 2.0"
-msgstr "สัญญาอนุญาต Artistic 2.0"
-
-msgid "Artists"
-msgstr "ศิลปิน"
-
-msgid "Artwork by"
-msgstr "งานศิลป์โดย"
-
-msgid "Ask robot any question"
-msgstr "ถามคำถามอะไรก็ได้กับหุ่นยนต์"
-
-msgid "Ask the user"
-msgstr "ถามผู้ใช้"
-
-msgid "Aspect ratio if obey_child is FALSE"
-msgstr "สัดส่วนขนาดในกรณีที่ obey_child เป็น FALSE"
-
-msgid "Assigned to:"
-msgstr "มอบหมายให้:"
-
-msgid "Astronomy"
-msgstr "ดาราศาสตร์"
+msgid "Article"
+msgstr "บทความ"
 
 msgid "Attribute"
-msgstr "แอตทริบิวต์"
+msgstr "คุณลักษณะ"
 
 msgid "Audio"
 msgstr "เสียง"
 
-msgid "AudioLowerVolume"
-msgstr "ลดเสียง"
-
-msgid "AudioMedia"
-msgstr "สื่อเสียง"
-
-msgid "AudioMicMute"
-msgstr "ปิดไมค์"
-
-msgid "AudioMute"
-msgstr "ปิดเสียง"
-
-msgid "AudioNext"
-msgstr "เพลงถัดไป"
-
-msgid "AudioPause"
-msgstr "พักเพลง"
-
-msgid "AudioPlay"
-msgstr "เล่นเพลง"
-
-msgid "AudioPrev"
-msgstr "เพลงก่อนหน้า"
-
-msgid "AudioRaiseVolume"
-msgstr "เพิ่มเสียง"
-
-msgid "AudioRecord"
-msgstr "อัดเสียง"
-
-msgid "AudioRewind"
-msgstr "กรอเพลงกลับ"
-
-msgid "AudioStop"
-msgstr "หยุดเพลง"
-
 msgid "Authentication"
 msgstr "การยืนยันตัวตน"
-
-msgid "Authentication data"
-msgstr "ข้อมูลการยืนยันตัวตน"
-
-msgid "Authentication is required to get attributes of a job"
-msgstr "ต้องมีการยืนยันตัวบุคคลเพื่อจะอ่านข้อมูลเกี่ยวกับงานพิมพ์"
-
-msgid "Authentication is required to get attributes of a printer"
-msgstr "ต้องมีการยืนยันตัวบุคคลเพื่อจะอ่านข้อมูลเกี่ยวกับเครื่องพิมพ์"
-
-msgid "Authentication is required to get attributes of job '%{string}'"
-msgstr "ต้องมีการยืนยันตัวบุคคลเพื่อจะอ่านข้อมูลเกี่ยวกับงานพิมพ์ '%{string}'"
-
-msgid "Authentication is required to print document '%{string}'"
-msgstr "ต้องมีการยืนยันตัวบุคคลเพื่อจะพิมพ์เอกสาร '%{string}'"
-
-msgid "Authentication is required to print this document"
-msgstr "ต้องมีการยืนยันตัวบุคคลเพื่อจะพิมพ์เอกสารนี้"
 
 msgid "Author"
 msgstr "ผู้แต่ง"
@@ -1132,263 +178,95 @@ msgstr "ผู้แต่ง"
 msgid "Authors"
 msgstr "ผู้แต่ง"
 
-msgid "Authors:"
-msgstr "ผู้แต่ง:"
-
-msgid "Auto Hide"
-msgstr "ซ่อนอัตโนมัติ"
-
-msgid "Auto Hide All"
-msgstr "ซ่อนอัตโนมัติทั้งหมด"
-
-msgid "Auto Select"
-msgstr "เลือกโดยอัตโนมัติ"
-
-msgid "Auto-close if no conflicts"
-msgstr "ปิดอัตโนมัติถ้าไม่มีความขัดแย้งใดๆ"
-
-msgid "Auto-close if no errors"
-msgstr "ปิดอัตโนมัติถ้าไม่มีข้อผิดพลาดใดๆ"
-
 msgid "Automatic"
 msgstr "อัตโนมัติ"
 
 msgid "Average"
 msgstr "เฉลี่ย"
 
-msgid "B0"
-msgstr "B0"
-
-msgid "B1"
-msgstr "B1"
-
-msgid "B10"
-msgstr "B10"
-
-msgid "B2"
-msgstr "B2"
-
-msgid "B3"
-msgstr "B3"
-
-msgid "B4"
-msgstr "B4"
-
-msgid "B5"
-msgstr "B5"
-
-msgid "B5 Extra"
-msgstr "B5 พิเศษ"
-
-msgid "B6"
-msgstr "B6"
-
-msgid "B6/C4"
-msgstr "B6/C4"
-
-msgid "B7"
-msgstr "B7"
-
-msgid "B8"
-msgstr "B8"
-
-msgid "B9"
-msgstr "B9"
-
-msgid "BSD 2-Clause License"
-msgstr "สัญญาอนุญาต ฺBSD แบบ 2 ข้อ"
+msgid "Axes"
+msgstr "แกน"
 
 msgid "Back"
-msgstr "ถอยกลับ"
+msgstr "กลับ"
 
-msgid "BackSpace"
-msgstr "BackSpace"
+msgid "Background"
+msgstr "พื้นหลัง"
 
-msgid "Backslash"
-msgstr "Backslash"
+msgid "Background color"
+msgstr "สีพื้นหลัง"
 
-msgid "Bar Graph"
-msgstr "กราฟแท่ง"
-
-msgid "Battery"
-msgstr "แบตเตอรี่"
-
-msgid "Be_fore:"
-msgstr "ปก_หน้า:"
+msgid "Base"
+msgstr "ฐาน"
 
 msgid "Before"
-msgstr "ปกหน้า"
+msgstr "ก่อน"
 
-msgid "Begin"
-msgstr "Begin"
+msgid "Binary"
+msgstr "ฐานสอง"
 
-msgid "Best _Fit"
-msgstr "ขนาด_พอดี"
+msgid "Binding"
+msgstr "การประสาน (Binding)"
 
-msgid "Billing Info"
-msgstr "ข้อมูลสรุป"
-
-msgid "Biology"
-msgstr "ชีววิทยา"
+msgid "Bitmap"
+msgstr "บิตแมป"
 
 msgid "Black"
 msgstr "ดำ"
 
-msgid "Blame"
-msgstr "ตำหนิ"
+msgid "Black & white"
+msgstr "ดำและ~ขาว"
 
-msgid "Blame - TortoiseSVN"
-msgstr "ตำหนิ - TortoiseSVN"
-
-msgid "Blame..."
-msgstr "ตำหนิ..."
-
-msgid "Blames each line of a file on an author"
-msgstr "ตำหนิแต่ละบรรทัดของผู้แต่ง"
-
-msgid "Blocking on issue"
-msgstr "ติดขัดด้วยเหตุขัดข้อง"
+msgid "Blank"
+msgstr "ช่องว่าง"
 
 msgid "Blocks"
 msgstr "บล็อค"
 
-msgid "Board"
-msgstr "หมากกระดาน"
+msgid "Blue"
+msgstr "น้ำเงิน"
+
+msgid "Bold"
+msgstr "ตัวหนา"
 
 msgid "Bookmarks"
 msgstr "ที่คั่นหน้า"
 
-msgid "Border around the progress bar"
-msgstr "คำอธิบายอย่างสั้นเกี่ยวกับโปรแกรม"
+msgid "Border"
+msgstr "เส้นขอบ"
 
-msgid "Both the path to the patch file and the target path must be absolute paths!"
-msgstr "ทั้งเส้นทางไปยังไฟล์และเส้นทางเป้าหมายต้องเป็นเส้นทางที่แท้จริง"
+msgid "Border color"
+msgstr "สีเส้นขอบ"
 
-msgid "Bottom Padding"
-msgstr "การเติมพื้นที่ด้านล่าง"
+msgid "Both"
+msgstr "ทั้งคู่"
 
-msgid "Bottom to top"
-msgstr "ล่างขึ้นบน"
+msgid "Bottom"
+msgstr "ล่าง"
 
-msgid "Bottom to top, left to right"
-msgstr "ล่างขึ้นบน, ซ้ายไปขวา"
+msgid "Box"
+msgstr "Box กล่อง"
 
-msgid "Bottom to top, right to left"
-msgstr "ล่างขึ้นบน, ขวามาซ้าย"
-
-msgid "Bourne Again Shell"
-msgstr "Bourne Again Shell"
-
-msgid "Bourne Shell"
-msgstr "Bourne Shell"
-
-msgid "Brightness of the color."
-msgstr "สีสว่างหรือมืด"
-
-msgid "Browse Network"
-msgstr "ท่องดูเครือข่าย"
-
-msgid "Browse the contents of the network"
-msgstr "ท่องดูเนื้อหาในเครือข่าย"
-
-msgid "Browse transaction history"
-msgstr "เรียกดูประวัติการทำธุรกรรม"
+msgid "Browse"
+msgstr "เ_รียกดู"
 
 msgid "Browse..."
 msgstr "ค้นดู..."
 
-msgid "Bug-ID"
-msgstr "Bug-ID"
+msgid "Brush"
+msgstr "แปรง"
 
-msgid "Bug-ID is:"
-msgstr "Bug-ID ได้แก่:"
+msgid "Bullet"
+msgstr "รายการสัญลักษณ์"
 
-msgid "Bug-IDs"
-msgstr "Bug-IDs"
+msgid "Button"
+msgstr "ปุ่ม"
 
-msgid "Bugtraq Regex Tester - TortoiseSVN"
-msgstr "Bugtraq Regex Tester - TortoiseSVN"
+msgid "C"
+msgstr "C"
 
-msgid "Building"
-msgstr "การประกอบสร้าง"
-
-msgid "Butter"
-msgstr "เหลือง"
-
-msgid "Button Appearance"
-msgstr "รูปร่างปุ่ม"
-
-msgid "C&ommands:"
-msgstr "คำ&สั่ง"
-
-msgid "C&reate folder..."
-msgstr "&สร้างโฟลเดอร์"
-
-msgid "C&ut"
-msgstr "&ตัด"
-
-msgid "C0"
-msgstr "C0"
-
-msgid "C1"
-msgstr "C1"
-
-msgid "C10"
-msgstr "C10"
-
-msgid "C2"
-msgstr "C2"
-
-msgid "C3"
-msgstr "C3"
-
-msgid "C4"
-msgstr "C4"
-
-msgid "C5"
-msgstr "C5"
-
-msgid "C6"
-msgstr "C6"
-
-msgid "C6/C5"
-msgstr "C6/C5"
-
-msgid "C7"
-msgstr "C7"
-
-msgid "C7/C6"
-msgstr "C7/C6"
-
-msgid "C8"
-msgstr "C8"
-
-msgid "C9"
-msgstr "C9"
-
-msgid "CLASS"
-msgstr "CLASS"
-
-msgid "COLORS"
-msgstr "COLORS"
-
-msgid "C_ollate"
-msgstr "_ทีละชุด"
-
-msgid "C_onnect"
-msgstr "เ_ชื่อมต่อ"
-
-msgid "C_urrent Page"
-msgstr "หน้า_ปัจจุบัน"
-
-msgid "Cache file created successfully.\n"
-msgstr "สร้างแฟ้มแคชสำเร็จแล้ว\n"
-
-msgid "Cache size [kB]"
-msgstr "ขนาดแคช [kB]"
-
-msgid "Calculating…"
-msgstr "กำลังคำนวณ…"
+msgid "CMYK"
+msgstr "CMYK"
 
 msgid "Calculator"
 msgstr "เครื่องคิดเลข"
@@ -1396,125 +274,29 @@ msgstr "เครื่องคิดเลข"
 msgid "Calendar"
 msgstr "ปฏิทิน"
 
-msgid "Can't copy bitmap image into the clipboard!"
-msgstr "ไม่สามารถคัดลอกภาพบิตแมปลงคลิปบอร์ดได้!"
-
-msgid "Can't create a new image!"
-msgstr "ไม่สามารถสร้างรูปใหม่ได้!"
-
-msgid "Can't customize menus!"
-msgstr "ไม่สามารถปรับเปลี่ยนเมนูได้!"
-
 msgid "Cancel"
 msgstr "ยกเลิก"
 
-msgid "Cancel\nDon't quit TortoiseMerge"
-msgstr "ยกเลิก\nไม่ปิด TortoiseMerge"
-
-msgid "Cancel\nDon't switch the views"
-msgstr "ยกเลิก\nไม่เปลี่ยนมุมมอง"
-
-msgid "Cancel\nKeep the empty file."
-msgstr "ยกเลิก\nปล่อยไฟล์ว่างไว้"
-
-msgid "Cancel\nLeave the cache on disk."
-msgstr "ยกเลิก\nเก็บแคชบนดิสก์"
-
-msgid "Cancel\nResolve the conflicts first."
-msgstr "ยกเลิก\nแก้ปัญหาความขัดแย้งก่อน"
-
-msgid "Cancel\nThe conflict is not resolved."
-msgstr "ยกเลิก\nไม่แก้ปัญหาความขัดแย้ง"
-
-msgid "Cancelling TortoiseSVN Blame..."
-msgstr "กำลังยกเลิก TortoiseSVN Blame..."
-
-msgid "Cancelling operation..."
-msgstr "กำลังยกเลิกการปฏิบัติการ..."
-
-msgid "Cannot change to folder because it is not local"
-msgstr "ไปโฟลเดอร์ที่กำหนดไม่สำเร็จ เพราะไม่ใช่โฟลเดอร์ในเครื่องนี้"
-
-msgid "Cannot create a file under %{string} as it is not a folder"
-msgstr "ไม่สามารถสร้างแฟ้มภายใต้ %{string} เพราะตำแหน่งดังกล่าวไม่ใช่โฟลเดอร์"
-
-msgid "Cannot create file as the filename is too long"
-msgstr "ไม่สามารถสร้างแฟ้มได้ เพราะชื่อแฟ้มยาวเกินไป"
-
-msgid "Cannot kill process with PID %{number}. Operation is not implemented."
-msgstr "ไม่สามารถฆ่าโพรเซสที่มี PID %{number} ได้ เนื่องจากยังไม่ได้พัฒนาปฏิบัติการนี้"
-
-msgid "Cantonese"
-msgstr "ภาษากวางตุ้ง"
-
-msgid "Capacity"
-msgstr "ความจุ"
-
-msgid "Caps Lock is on"
-msgstr "ปุ่ม Caps Lock ติดอยู่"
-
-msgid "Card"
-msgstr "ไพ่"
-
-msgid "Catching up..."
-msgstr "จับได้..."
+msgid "Caption"
+msgstr "ตัวเลือก"
 
 msgid "Categories"
-msgstr "หมวด"
+msgstr "~ประเภท"
 
 msgid "Category"
-msgstr "หมวด"
+msgstr "ประเภท"
 
-msgid "Cedilla"
-msgstr "Cedilla"
+msgid "Cell"
+msgstr "ช่อง"
 
-msgid "Cell charge"
-msgstr "ประจุของเซลล์"
+msgid "Center"
+msgstr "กึ่งกลาง"
 
-msgid "Cell phone"
-msgstr "โทรศัพท์มือถือ"
+msgid "Channel"
+msgstr "ช่อง, แชนเนล"
 
-msgid "Certificate validation failed"
-msgstr "กระบวนการตรวจสอบใบรับรองล้มเหลว"
-
-msgid "Certificates|*.p12;*.pkcs12;*.pfx|All|*.*||"
-msgstr "ใบรับรอง |*.p12;*.pkcs12;*.pfx|All|*.*||"
-
-msgid "Chameleon"
-msgstr "เขียว"
-
-msgid "Change passphrase"
-msgstr "เปลี่ยนรหัสผ่าน"
-
-msgid "Change the passphrase used for wallet encryption"
-msgstr "เปลี่ยนรหัสผ่านที่ใช้สำหรับการเข้ารหัสกระเป๋าเงิน"
-
-msgid "Change the window position"
-msgstr "ย้ายตำแหน่งหน้าต่าง"
-
-msgid "Change the window size"
-msgstr "ปรับขนาดหน้าต่าง"
-
-msgid "Changelist:"
-msgstr "รายการเปลี่ยนแปลง:"
-
-msgid "Charge"
-msgstr "ประจุ"
-
-msgid "Charge accuracy"
-msgstr "ความแม่นยำของประจุ"
-
-msgid "Charge profile"
-msgstr "โพรไฟล์ประจุ"
-
-msgid "Charged"
-msgstr "ประจุไฟเต็มแล้ว"
-
-msgid "Charges may apply"
-msgstr "อาจมีค่าใช้จ่าย"
-
-msgid "Charging"
-msgstr "กำลังประจุไฟ"
+msgid "Character set"
+msgstr "ชุดตัวอักษร"
 
 msgid "Chart"
 msgstr "แผนภูมิ"
@@ -1525,482 +307,161 @@ msgstr "สนทนา"
 msgid "Check"
 msgstr "ตรวจสอบ"
 
-msgid "Check Anyway"
-msgstr "ตรวจสอบต่อไป"
-
-msgid "Check For Updates"
-msgstr "ตรวจการปรับรุ่น"
-
-msgid "Check For Updates..."
-msgstr "ตรวจการปรับรุ่น..."
-
-msgid "Check for modifications"
-msgstr "ตรวจการแก้ไข"
-
 msgid "Check for updates"
 msgstr "ตรวจการปรับรุ่น"
 
-msgid "Check:"
-msgstr "ตรวจสอบ:"
+msgid "Chinese (simplified)"
+msgstr "จีน (ตัวย่อ)"
 
-msgid "Checking for updates when using mobile broadband could cause you to incur charges"
-msgstr "การตรวจสอบการปรับรุ่นขณะใช้บรอดแบนด์มือถืออาจทำให้คุณเสียค่าบริการ"
+msgid "Circle"
+msgstr "วงกลม"
 
-msgid "Checking for updates while using mobile broadband could cause you to incur charges."
-msgstr "การตรวจสอบการปรับรุ่นขณะใช้บรอดแบนด์มือถืออาจทำให้คุณเสียค่าบริการ"
+msgid "City"
+msgstr "เมือง"
 
-msgid "Checking for updates…"
-msgstr "กำลังตรวจสอบการปรับรุ่น…"
+msgid "Clear"
+msgstr "การล้าง, ล้าง"
 
-msgid "Chemistry"
-msgstr "เคมี"
-
-msgid "Child internal height padding"
-msgstr "ความสูงภายในที่จะเติมให้อ็อบเจกต์ลูก"
-
-msgid "Child internal width padding"
-msgstr "ความกว้างภายในที่จะเติมให้อ็อบเจกต์ลูก"
-
-msgid "Chocolate"
-msgstr "น้ำตาล"
-
-msgid "Choukei 2 Envelope"
-msgstr "ซอง Choukei 2"
-
-msgid "Choukei 3 Envelope"
-msgstr "ซอง Choukei 3"
-
-msgid "Choukei 4 Envelope"
-msgstr "ซอง Choukei 4"
-
-msgid "Classified"
-msgstr "คัดแยกแล้ว"
-
-msgid "Cleanup"
-msgstr "ทำความสะอาด"
-
-msgid "Click"
-msgstr "คลิก"
-
-msgid "Click here to go to the website"
-msgstr "กดเพื่อไปยังเว็บไซต์"
-
-msgid "Click here to select a recently typed message"
-msgstr "กดเพื่อเลือกข้อความที่เคยพิมพ์ไปแล้ว"
-
-msgid "Click on items to select them"
-msgstr "คลิกที่รายการที่จะเลือก"
-
-msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
-msgstr "คลิกที่หลอดดูดสี แล้วคลิกสีที่ใหนก็ได้บนจอเพื่อคัดลอกมาเป็นสีปัจจุบัน"
-
-msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select \"Save color here.\""
-msgstr "คลิกถ้าจะใช้สีนี้  คุณสามารถบันทึกสีปัจจุบันลงในจานนี้โดยคลิกขวาแล้วเลือก \"บันทึกสีลงที่นี่\" หรือลากสีจากกรอบสีปัจจุบันทางด้านซ้ายมาลงที่นี่"
-
-msgid "Clicks the button"
-msgstr "คลิกปุ่ม"
-
-msgid "Clicks the menuitem"
-msgstr "คลิกรายการเมนู"
+msgid "Clear formatting"
+msgstr "Clear formatting"
 
 msgid "Clipboard"
 msgstr "คลิปบอร์ด"
 
-msgid "Clock"
-msgstr "นาฬิกา"
-
 msgid "Close"
 msgstr "ปิด"
-
-msgid "Close Full Screen"
-msgstr "ปิดเต็มจอ"
-
-msgid "Close Print Preview\n&Close"
-msgstr "ปิดตัวอย่างก่อนพิมพ์\n&ปิด"
-
-msgid "Close manually"
-msgstr "ปิดเอง"
-
-msgid "Co_nnect"
-msgstr "เ_ชื่อมต่อ"
-
-msgid "Codecs"
-msgstr "ตัวอ่าน-ลงรหัส"
-
-msgid "Codecs page"
-msgstr "หน้าของตัวอ่าน-ลงรหัส"
 
 msgid "Color"
 msgstr "สี"
 
-msgid "Color 1"
-msgstr "สี 1"
-
-msgid "Color 2"
-msgstr "สี 2"
-
-msgid "Color Name"
-msgstr "ชื่อสี"
-
-msgid "Color Plane"
-msgstr "ระนาบสี"
-
-msgid "Color Selection"
-msgstr "เลือกสี"
-
-msgid "Color Wheel"
-msgstr "วงสี"
-
-msgid "Color _name:"
-msgstr "_ชื่อสี:"
-
-msgid "Color management unavailable"
-msgstr "ไม่มีการจัดการสี"
-
 msgid "Colors"
 msgstr "สี"
 
-msgid "Colors:"
-msgstr "สี:"
-
-msgid "Comma separated file (*.csv)"
-msgstr "คั่นไฟล์ด้วยเครื่องหมายจุลภาค (*.csv)"
-
-msgid "Comman&ds:"
-msgstr "คำ&สั่ง:"
+msgid "Column"
+msgstr "คอลัมน์"
 
 msgid "Command"
 msgstr "คำสั่ง"
 
 msgid "Command Line"
-msgstr "บรรทัดคำสั่ง"
-
-msgid "Command failed - Update needed"
-msgstr "คำสั่งล้มเหลว - ต้องการปรับปรุง"
-
-msgid "Command failed."
-msgstr "คำสั่งล้มเหลว"
+msgstr "คำสั่ง"
 
 msgid "Commands"
 msgstr "คำสั่ง"
 
-msgid "Comments about the program"
-msgstr "คำอธิบายอย่างสั้นเกี่ยวกับโปรแกรม"
+msgid "Comment"
+msgstr "ความเห็น"
 
-msgid "Comments string"
-msgstr "ข้อความอธิบาย"
-
-msgid "Commit"
-msgstr "ส่งมอบ"
-
-msgid "Commit to:"
-msgstr "ส่งมอบให้:"
-
-msgid "Commit..."
-msgstr "ส่งมอบ..."
-
-msgid "Commits by author"
-msgstr "ส่งมอบตามผู้แต่ง"
-
-msgid "Commits by date"
-msgstr "ส่งมอบตามวันที่"
-
-msgid "Compare two files"
-msgstr "เปรียบเทียบ 2 ไฟล์"
-
-msgid "Compares the selected file with a file in the repository"
-msgstr "เปรียบเทียบไฟล์ที่เลือกกับไฟล์ในคลัง"
-
-msgid "Completed"
-msgstr "เรียบร้อย"
-
-msgid "Completed!"
-msgstr "เรียบร้อย!"
+msgid "Comments"
+msgstr "ความเห็น"
 
 msgid "Compression"
-msgstr "การบีบอัด"
+msgstr "การบีบอัดข้อมูล"
 
 msgid "Computer"
 msgstr "คอมพิวเตอร์"
 
-msgid "Computer Science"
-msgstr "วิทยาการคอมพิวเตอร์"
+msgid "Concatenate"
+msgstr "เชื่อม"
+
+msgid "Condition"
+msgstr "เงื่อนไข"
 
 msgid "Confidential"
-msgstr "ปกปิด"
+msgstr "ลับ, ลับเฉพาะ"
 
-msgid "Confirm wallet encryption"
-msgstr "ยืนยันการเข้ารหัสกระเป๋าสตางค์"
+msgid "Configuration"
+msgstr "การกำหนดค่า"
 
-msgid "Conflicted"
-msgstr "ขัดแย้ง"
+msgid "Confirm"
+msgstr "รับรอง"
 
-msgid "Connect As"
-msgstr "เชื่อมต่อแบบ"
+msgid "Connect"
+msgstr "กำลังเชื่อมต่อ..."
 
-msgid "Connect to Server"
-msgstr "เชื่อมต่อไปยังเซิร์ฟเวอร์"
+msgid "Connecting..."
+msgstr "กำลังเชื่อมต่อ..."
 
-msgid "Connect to a network server address"
-msgstr "เชื่อมต่อไปยังที่อยู่ของเซิร์ฟเวอร์ในเครือข่าย"
+msgid "Constraint"
+msgstr "เงื่อนไขบังคับ"
 
-msgid "Connect to the repository server and download missing log data"
-msgstr "เชื่อมต่อไปยังเซิฟเวอร์คลังแล้วดาว์นโหลดข้อมูลบันทึกเหตุการณ์ที่หายไป"
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
 
-msgid "Construction"
-msgstr "การก่อสร้าง"
+msgid "Content"
+msgstr "เนื้อหา"
 
-msgid "Contact Management"
-msgstr "การจัดการสมุดผู้ติดต่อ"
+msgid "Contents"
+msgstr "เนื้อหา"
 
-msgid "Content Padding"
-msgstr "การเติมพื้นที่ให้กับเนื้อหา"
+msgid "Context"
+msgstr "เนื้อหา"
 
-msgid "Content area spacing"
-msgstr "การเติมพื้นที่ให้กับเนื้อหา"
+msgid "Continue"
+msgstr "ทำต่อ"
 
-msgid "Convert to PS level 1"
-msgstr "แปลงเป็น PS ระดับ 1"
-
-msgid "Convert to PS level 2"
-msgstr "แปลงเป็น PS ระดับ 2"
-
-msgid "Cop&y"
-msgstr "คัด&ลอก"
-
-msgid "Copie_s:"
-msgstr "จำ_นวนสำเนา:"
-
-msgid "Copied"
-msgstr "คัดลอก"
-
-msgid "Copies"
-msgstr "สำเนา"
+msgid "Control"
+msgstr "ควบคุม"
 
 msgid "Copy"
 msgstr "คัดลอก"
 
-msgid "Copy (Branch / Tag)"
-msgstr "คัดลอก (Branch / Tag)"
+msgid "Copyright"
+msgstr "ลิขสิทธิ์, สงวนลิขสิทธิ์"
 
-msgid "Copy Tool\nCopy"
-msgstr "เครื่องในการคัดลอก\nคัดลอก"
+msgid "Cost"
+msgstr "ต้นทุน"
 
-msgid "Copy URL"
-msgstr "_คัดลอก URL"
+msgid "Count"
+msgstr "นับ"
 
-msgid "Copy URL to clipboard"
-msgstr "คัดลอก URL ลงคลิปบอร์ด"
+msgid "Country"
+msgstr "ประเทศ"
 
-msgid "Copy _Link Address"
-msgstr "คัดลอกที่อยู่_ลิงก์"
-
-msgid "Copy _Location"
-msgstr "คัดลอก_ตำแหน่ง"
-
-msgid "Copy and rename"
-msgstr "คัดลอกและเปลี่ยนชื่อ"
-
-msgid "Copy and rename item to here"
-msgstr "คัดลอกและเปลี่ยนชื่อรายการตรงนี้"
-
-msgid "Copy items to here"
-msgstr "คัดลอกรายการทั้งหมดมาตรงนี้"
-
-msgid "Copy selection to cli&pboard"
-msgstr "คัดลอกสิ่งที่เลือกลง&คลิปบอร์ด"
-
-msgid "Copy the currently selected address to the system clipboard"
-msgstr "คัดลอกที่อยู่ที่ถูกเลือกไปยัง คลิปบอร์ดของระบบ"
-
-msgid "Copy to Clipboard"
-msgstr "คัดลอกไปที่คลิปบอร์ด"
-
-msgid "Copy to clipboard"
-msgstr "คัดลอกลงคลิปบอร์ด"
-
-msgid "Copying..."
-msgstr "กำลังคัดลอก..."
-
-msgid "Copyright information for the program"
-msgstr "ข้อมูลลิขสิทธิ์ของโปรแกรม"
-
-msgid "Copyright string"
-msgstr "ข้อความสงวนลิขสิทธิ์"
-
-msgid "Correction factor"
-msgstr "ค่าปรับแก้"
-
-msgid "Could not check for a newer version!"
-msgstr "ไม่สามารถตรวจหาการปรับรุ่น"
-
-msgid "Could not clear list"
-msgstr "ล้างรายการไม่สำเร็จ"
-
-msgid "Could not create cache"
-msgstr "ไม่สามารถสร้างแคชได้"
-
-msgid "Could not create temp folder!"
-msgstr "ไม่สามารถสร้างโฟลเดอร์ว่างได้!"
-
-msgid "Could not get the status!"
-msgstr "ไม่สามารถขอสถานะได้!"
-
-msgid "Could not read the contents of the folder"
-msgstr "ไม่สามารถอ่านเนื้อหาของโฟลเดอร์"
-
-msgid "Could not remove item"
-msgstr "ลบรายการไม่สำเร็จ"
-
-msgid "Could not rename %{string} back to %{string}: %{string}.\n"
-msgstr "ไม่สามารถเปลี่ยนชื่อ %{string} กลับเป็น %{string}: %{string}\n"
-
-msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
-msgstr "ไม่สามารถเปลี่ยนชื่อ %{string} ไปเป็น %{string}: %{string} ดังนั้นจะลบ %{string}\n"
-
-msgid "Could not rename %{string} to %{string}: %{string}\n"
-msgstr "ไม่สามารถเปลี่ยนชื่อ %{string} ไปเป็น %{string}: %{string}\n"
-
-msgid "Could not select file"
-msgstr "เลือกแฟ้มไม่สำเร็จ"
-
-msgid "Could not send the search request"
-msgstr "ส่งคำขอค้นหาไม่สำเร็จ"
-
-msgid "Could not show link"
-msgstr "ไม่สามารถแสดงลิงก์ได้"
-
-msgid "Could not start the search process"
-msgstr "เรียกโพรเซสค้นหาไม่สำเร็จ"
-
-msgid "Could not unlock wallet."
-msgstr "ไม่สามารถปลดล็อคกระเป๋าเงิน"
-
-msgid "Create Fo_lder"
-msgstr "สร้างโฟ_ลเดอร์"
-
-msgid "Create a custom color"
-msgstr "สร้างสีเอง"
-
-msgid "Create a new address"
-msgstr "สร้างที่อยู่ใหม่"
-
-msgid "Create in folder:"
-msgstr "สร้างในโฟลเดอร์:"
-
-msgid "Create shortcut"
-msgstr "สร้างทางลัด"
-
-msgid "Created by"
-msgstr "สร้างโดย"
-
-msgid "Creates a widget in which the contents of the cell can be edited"
-msgstr "สร้างวิดเจ็ตที่เนื้อหาของเซลล์สามารถแก้ไขได้"
-
-msgid "Creating AppInfo from id not supported on non unix operating systems"
-msgstr "ไม่รองรับการสร้าง AppInfo จากชื่อในระบบปฏิบัติการที่ไม่ใช่ยูนิกซ์"
-
-msgid "Credits"
-msgstr "เครดิต"
-
-msgid "Credits to the translators. This string should be marked as translatable"
-msgstr "เครดิตสำหรับผู้แปล ข้อความนี้ควรกำหนดให้แปลได้"
-
-msgid "Credits:"
-msgstr "เครดิต:"
+msgid "Create"
+msgstr "สร้าง"
 
 msgid "Croatian"
 msgstr "ภาษาโครเอเชีย"
 
+msgid "Crop"
+msgstr "ครอบตัด"
+
 msgid "Ctrl"
 msgstr "Ctrl"
-
-msgid "Cu&t"
-msgstr "&ตัด"
 
 msgid "Cu_t"
 msgstr "_ตัด"
 
+msgid "Cumulative"
+msgstr "สะสม"
+
 msgid "Current"
 msgstr "ปัจจุบัน"
 
-msgid "Current version is:"
-msgstr "เวอร์ชันปัจจุบันคือ:"
+msgid "Curve"
+msgstr "เส้นโค้ง"
 
 msgid "Custom"
 msgstr "กำหนดเอง"
 
-msgid "Custom License"
-msgstr "สัญญาอนุญาตกำหนดเอง"
-
 msgid "Custom color"
 msgstr "กำหนดสีเอง"
 
-msgid "Custom size"
-msgstr "ขนาดกำหนดเอง"
-
 msgid "Customize"
-msgstr "กำหนดเอง"
+msgstr "ปรับแต่ง"
 
-msgid "Customizes the color"
-msgstr "กำหนดสีเอง"
-
-msgid "Cyrillic (Transliterated)"
-msgstr "ซีริลลิก (ถอดเสียง)"
+msgid "Cut"
+msgstr "ตัด"
 
 msgid "Czech"
 msgstr "ภาษาเช็ก"
 
-msgid "D&etails"
-msgstr "&รายละเอียด"
-
-msgid "DISPLAY"
-msgstr "DISPLAY"
-
 msgid "DL Envelope"
-msgstr "ซอง DL"
+msgstr "ซองจดหมาย"
 
-msgid "Dai-pa-kai"
-msgstr "Dai-pa-kai"
-
-msgid "Dark Aluminum 1"
-msgstr "อะลูมิเนียม 1 แก่"
-
-msgid "Dark Aluminum 2"
-msgstr "อะลูมิเนียม 2 แก่"
-
-msgid "Dark Butter"
-msgstr "เหลืองแก่"
-
-msgid "Dark Chameleon"
-msgstr "เขียวแก่"
-
-msgid "Dark Chocolate"
-msgstr "น้ำตาลแก่"
-
-msgid "Dark Gray"
-msgstr "เทาเข้ม"
-
-msgid "Dark Orange"
-msgstr "ส้มแก่"
-
-msgid "Dark Plum"
-msgstr "ม่วงแก่"
-
-msgid "Dark Scarlet Red"
-msgstr "แดงกำมะหยี่แก่"
-
-msgid "Dark Sky Blue"
-msgstr "น้ำเงินเข้ม"
-
-msgid "Darker Gray"
-msgstr "เทาแก่"
-
-msgid "Data Visualization"
-msgstr "การแสดงภาพข้อมูล"
-
-msgid "Data length:"
-msgstr "ความยาวข้อมูล:"
+msgid "Data"
+msgstr "ข้อมูล"
 
 msgid "Database"
 msgstr "ฐานข้อมูล"
@@ -2014,272 +475,149 @@ msgstr "วันที่"
 msgid "Day"
 msgstr "วัน"
 
-msgid "Debuggers"
-msgstr "เครื่องมือดีบั๊ก"
+msgid "Debug"
+msgstr "แก้จุดบกพร่อง, ดีบัก"
 
 msgid "Decrease Indent"
-msgstr "ลดระยะร่น"
-
-msgid "Decreases the volume"
-msgstr "ลดความดัง"
-
-msgid "Decrypt wallet"
-msgstr "ถอดรหัสกระเป๋าสตางค์"
+msgstr "ลดระยะเยื้อง"
 
 msgid "Default"
 msgstr "ค่าปริยาย"
 
-msgid "Default Application"
-msgstr "โปรแกรมปริยาย"
-
-msgid "Default URL:"
-msgstr "URL โดยปริยาย:"
-
-msgid "Default to UTF-8 encoding"
-msgstr "ค่าปริยายเป็นการเข้ารหัสแบบ UTF-8"
-
 msgid "Delete"
 msgstr "ลบทิ้ง"
 
-msgid "Delete\nThe file is removed."
-msgstr "ลบทิ้ง\nไฟล์ถูกลบทิ้งแล้ว"
+msgid "Delete column"
+msgstr "ลบคอลัมน์"
 
-msgid "Deleted"
-msgstr "ลบทิ้งแล้ว"
+msgid "Delete layer"
+msgstr "ลบชั้น"
+
+msgid "Delete row"
+msgstr "ลบแถว"
 
 msgid "Deleting"
 msgstr "กำลังลบ"
 
-msgid "Deleting file"
-msgstr "กำลังลบไฟล์"
+msgid "Desaturate"
+msgstr "ลดความอิ่มสี"
 
 msgid "Description"
-msgstr "คำบรรยาย"
+msgstr "รายละเอียด"
+
+msgid "Description..."
+msgstr "รายละเอียด"
+
+msgid "Design"
+msgstr "ออกแบบ"
 
 msgid "Desktop"
-msgstr "พื้นโต๊ะ"
-
-msgid "Detailed errors from the package manager follow:"
-msgstr "รายละเอียดข้อผิดพลาดจากโปรแกรมจัดการแพกเกจคือ:"
+msgstr "พื้นที่ทำงาน, เดสก์ท็อป"
 
 msgid "Details"
 msgstr "รายละเอียด"
 
-msgid "Details page"
-msgstr "หน้ารายละเอียด"
-
-msgid "Developer"
-msgstr "ผู้พัฒนา"
-
-msgid "Development Tools"
-msgstr "เครื่องมือพัฒนา"
-
 msgid "Device"
 msgstr "อุปกรณ์"
-
-msgid "Device History"
-msgstr "ประวัติอุปกรณ์"
-
-msgid "Device Information"
-msgstr "ข้อมูลอุปกรณ์"
-
-msgid "Device Profile"
-msgstr "โพรไฟล์อุปกรณ์"
-
-msgid "Device name"
-msgstr "ชื่อแฟ้ม"
-
-msgid "Device type"
-msgstr "ชนิดของหน้า"
 
 msgid "Devices"
 msgstr "อุปกรณ์"
 
-msgid "Dialog is locked.\nClick to make changes"
-msgstr "กล่องโต้ตอบถูกล็อคแล้ว\nคลิกเพื่อจะแก้ไขเปลี่ยนแปลง"
+msgid "Diagonal"
+msgstr "เส้นทะแยง"
 
-msgid "Dialog is unlocked.\nClick to prevent further changes"
-msgstr "กล่องโต้ตอบถูกปลดล็อคแล้ว\nคลิกเพื่อป้องกันไม่ให้มีการเปลี่ยนแปลงอีก"
+msgid "Dialogs"
+msgstr "กล่องโต้ตอบ"
 
-msgid "Dialup"
-msgstr "เชื่อมต่อโมเด็ม"
+msgid "Diamond"
+msgstr "เพชร"
 
 msgid "Dictionary"
 msgstr "พจนานุกรม"
 
-msgid "Disabled"
-msgstr "ปิดใช้งาน"
+msgid "Difference"
+msgstr "ผลต่าง"
 
-msgid "Disc Burning"
-msgstr "เขียนแผ่น"
+msgid "Dimensions"
+msgstr "มิติ"
 
-msgid "Discharge accuracy"
-msgstr "ความแม่นยำของการจ่ายไฟ"
+msgid "Direction"
+msgstr "ทิศทาง"
 
-msgid "Discharge profile"
-msgstr "โพรไฟล์การจ่ายไฟ"
-
-msgid "Discharging"
-msgstr "กำลังจ่ายไฟ"
+msgid "Disc"
+msgstr "ดิสก์"
 
 msgid "Dismiss"
-msgstr "เก็บ"
-
-msgid "Dismisses the slider"
-msgstr "เก็บปุ่มรางเลื่อน"
+msgstr "ไปได้, ออกไป, เข้าใจแล้ว, ตกลง, บอกเลิก"
 
 msgid "Display"
-msgstr "สลับจอ"
+msgstr "แสดงผล"
 
-msgid "Do this for all selected items"
-msgstr "ทำอย่างเดียวกันนี้กับรายการที่เลือกทั้งหมด"
+msgid "Display Name"
+msgstr "ชื่อที่ปรากฏ"
 
-msgid "Do use the Wintab API [default]"
-msgstr "ใช้ Wintab API [ค่าปกติ]"
+msgid "Distribute"
+msgstr "แจกจ่าย, กระจาย, แยกส่วน"
 
-msgid "Documented by"
-msgstr "เอกสารโดย"
+msgid "Dock"
+msgstr "ตรึง"
 
-msgid "Documenters"
-msgstr "ผู้จัดทำเอกสาร"
+msgid "Document"
+msgstr "เอกสาร"
 
-msgid "Domain:"
-msgstr "โดเมน:"
+msgid "Documents"
+msgstr "เอกสาร"
 
-msgid "Don't Warn Again"
-msgstr "ไม่ต้องเตือนอีก"
-
-msgid "Don't batch GDI requests"
-msgstr "ไม่ต้องรอส่งการร้องขอ GDI เป็นชุด"
-
-msgid "Don't check for the existence of index.theme"
-msgstr "ไม่ต้องตรวจสอบการมีอยู่ของแฟ้ม index.theme"
-
-msgid "Don't include image data in the cache"
-msgstr "ไม่ต้องเก็บข้อมูลรูปภาพในแคช"
-
-msgid "Don't use the Wintab API for tablet support"
-msgstr "ไม่ต้องใช้ Wintab API สำหรับการสนับสนุน tablet"
-
-msgid "Dormant"
-msgstr "หยุดทำงาน"
+msgid "Dot"
+msgstr "จุด"
 
 msgid "Down"
-msgstr "Down"
+msgstr "ลง"
 
-msgid "Down Path"
-msgstr "เดินลงในพาธ"
+msgid "Download"
+msgstr "ดาวน์โหลด, ดึงข้อมูล"
 
-msgid "Downloading new updates…"
-msgstr "กำลังดาวน์โหลดการปรับรุ่นรายการใหม่…"
+msgid "Drop"
+msgstr "ทิ้ง"
 
-msgid "Duplicate object ID '%{string}' on line %{number} (previously on line %{number})"
-msgstr "ID ของออบเจกต์ '%{string}' ซ้ำที่บรรทัด %{number} (ใช้แล้วที่บรรทัด %{number})"
+msgid "Duplicate"
+msgstr "ทำำสำเนา"
+
+msgid "Duration"
+msgstr "ระยะเวลา"
 
 msgid "Dutch"
 msgstr "ภาษาดัชต์"
 
-msgid "EXT"
-msgstr "EXT"
-
-msgid "Economy"
-msgstr "เศรษฐกิจ"
+msgid "E-mail"
+msgstr "อีเมล"
 
 msgid "Edit"
 msgstr "แก้ไข"
 
-msgid "Edit Address"
-msgstr "แก้ไขที่อยู่"
-
-msgid "Edit Button Image"
-msgstr "รูปภาพบนปุ่มแก้ไข"
-
-msgid "Edit Properties"
-msgstr "คุณสมบัติการแก้ไข"
-
-msgid "Edit author"
-msgstr "แก้ไขผู้เขียน"
-
-msgid "Edit author name"
-msgstr "แก้ไขชื่อผู้เขียน"
-
-msgid "Edit bugtraq properties"
-msgstr "แก้ไขคุณสมบัติของ bugtraq"
-
-msgid "Edit language properties"
-msgstr "แก้ไขคุณสมบัติของภาษา"
-
-msgid "Edit log message"
-msgstr "แก้ไขบันทึกเหตุการณ์"
-
-msgid "Edit receiving address"
-msgstr "แก้ไขที่อยู่ผู้รับ"
-
-msgid "Edit sending address"
-msgstr "แก้ไขที่อยู่ผู้ส่ง"
-
 msgid "Edit..."
 msgstr "แก้ไข..."
-
-msgid "Editing"
-msgstr "การแก้ไข"
-
-msgid "Editor's Picks"
-msgstr "คัดสรรโดยบรรณาธิการ"
-
-msgid "Edits the selected property value"
-msgstr "แก้ไขคุณสมบัติที่เลือก"
 
 msgid "Education"
 msgstr "การศึกษา"
 
-msgid "Electricity"
-msgstr "ไฟฟ้า"
-
-msgid "Electronics"
-msgstr "อิเล็กทรอนิกส์"
+msgid "Effects"
+msgstr "ลูกเล่น"
 
 msgid "Email"
 msgstr "อีเมล"
 
-msgid "Embed GhostScript fonts only"
-msgstr "ฝังแบบอักษร GhostScript เท่านั้น"
+msgid "Emoticons"
+msgstr "ไอคอนแสดงอารมณ์"
 
 msgid "Empty"
 msgstr "ว่างเปล่า"
 
-msgid "Emulator"
-msgstr "โปรแกรมเลียนแบบ"
-
-msgid "Emulators"
-msgstr "เลียนแบบ"
-
-msgid "Enable Auto-&Properties"
-msgstr "เปิดใช้ Auto-&Properties"
-
-msgid "Enable Third-Party Software Source?"
-msgstr "เปิดใช้แหล่งซอฟต์แวร์ของบุคคลที่สามหรือไม่?"
-
-msgid "Enable and Install"
-msgstr "เปิดใช้และติดตั้ง"
-
-msgid "Encrypt wallet"
-msgstr "กระเป๋าสตางค์ที่เข้ารหัส"
+msgid "Encoding"
+msgstr "รหัสอักขระ, การเข้ารหัสอักขระ, การเข้ารหัส"
 
 msgid "End"
-msgstr "End"
-
-msgid "Energy"
-msgstr "พลังงาน"
-
-msgid "Energy (design)"
-msgstr "พลังงาน (ค่าออกแบบไว้)"
-
-msgid "Energy when empty"
-msgstr "พลังงานเมื่อไฟหมด"
-
-msgid "Energy when full"
-msgstr "พลังงานเมื่อประจุเต็ม"
+msgstr "สิ้นสุด"
 
 msgid "Engineering"
 msgstr "วิศวกรรมศาสตร์"
@@ -2287,65 +625,29 @@ msgstr "วิศวกรรมศาสตร์"
 msgid "English"
 msgstr "ภาษาอังกฤษ"
 
-msgid "Enter GApplication service mode"
-msgstr "เข้าโหมดบริการ GApplication"
+msgid "Environment"
+msgstr "สภาวะแวดล้อม"
 
-msgid "Enter a GUID."
-msgstr "ใส่ GUID."
-
-msgid "Enter a date and/or time."
-msgstr "ใส่วันที่ และ/หรือ เวลา"
-
-msgid "Enter a date."
-msgstr "ใส่วันที่"
-
-msgid "Enter a number."
-msgstr "ใส่ตัวเลข"
-
-msgid "Enter a positive integer."
-msgstr "ใส่ตัวเลขบวก"
-
-msgid "Enter a time."
-msgstr "ใส่เวลา"
-
-msgid "Enter an integer between 0 and 255."
-msgstr "ใส่เลขจำนวนเต็มระหว่าง 0 - 255"
-
-msgid "Enter passphrase"
-msgstr "ใส่รหัสผ่าน"
+msgid "Equation"
+msgstr "สมการ"
 
 msgid "Error"
 msgstr "ข้อผิดพลาด"
 
-msgid "Error creating print preview"
-msgstr "เกิดข้อผิดพลาดขณะสร้างตัวอย่างก่อนพิมพ์"
-
-msgid "Error from StartDoc"
-msgstr "ข้อผิดพลาดจาก StartDoc"
-
-msgid "Error launching preview"
-msgstr "เกิดข้อผิดพลาดขณะเรียกแสดงตัวอย่างก่อนพิมพ์"
-
-msgid "Error parsing commandline options: %{string}\n"
-msgstr "เกิดข้อผิดพลาดขณะแจงตัวเลือกในบรรทัดคำสั่ง: %{string}\n"
-
-msgid "Escape"
-msgstr "Escape"
+msgid "Errors"
+msgstr "ข้อผิดพลาด"
 
 msgid "Esperanto"
 msgstr "ภาษาเอสเปอรันโต"
 
-msgid "European edp"
-msgstr "edp ยุโรป"
+msgid "Event"
+msgstr "เหตุการณ์"
 
-msgid "Even sheets"
-msgstr "หน้าคู่"
+msgid "Examples"
+msgstr "ตัวอย่าง"
 
 msgid "Executive"
-msgstr "Executive"
-
-msgid "Existing"
-msgstr "กำลังออก"
+msgstr "ปฏิบัติ"
 
 msgid "Exit"
 msgstr "ออก"
@@ -2353,170 +655,83 @@ msgstr "ออก"
 msgid "Expand"
 msgstr "ขยาย"
 
-msgid "Expand or contract"
-msgstr "ขยายหรือยุบ"
-
-msgid "Expands or contracts the row in the tree view containing this cell"
-msgstr "ขยายหรือยุบแถวของแผนภาพต้นไม้ที่บรรจุเซลล์นี้"
-
 msgid "Export"
 msgstr "ส่งออก"
-
-msgid "Exporting..."
-msgstr "กำลังส่งออก..."
 
 msgid "Extension"
 msgstr "ส่วนขยาย"
 
-msgid "External"
-msgstr "ภายนอก"
+msgid "Extensions"
+msgstr "ส่วนขยาย"
 
-msgid "External Program:"
-msgstr "โปรแกรมภายนอก:"
+msgid "FTP"
+msgstr "~FTP"
 
-msgid "External failed"
-msgstr "ล้มเหลวภายนอก"
+msgid "Favorite"
+msgstr "ชื่นชอบ"
 
-msgid "Extra space to put between the child and its neighbors, in pixels"
-msgstr "พื้นที่ที่จะเติมลงระหว่างอ็อบเจกต์ลูกกับสิ่งที่อยู่รอบๆ ในหน่วยพิกเซล"
+msgid "Fax"
+msgstr "โทรสาร"
 
-msgid "Eyes number:"
-msgstr "จำนวนตา:"
+msgid "Feb"
+msgstr "ก.พ."
 
-msgid "FILENAME"
-msgstr "ชื่อแฟ้ม"
+msgid "Female"
+msgstr "หญิง"
 
-msgid "FLAGS"
-msgstr "FLAGS"
-
-msgid "Face"
-msgstr "หน้า"
-
-msgid "Failed To Update"
-msgstr "ปรับรุ่นไม่สำเร็จ"
-
-msgid "Failed to find any search results"
-msgstr "ไม่พบผลการค้นหาใดๆ"
-
-msgid "Failed to load icon"
-msgstr "โหลดไอคอนไม่สำเร็จ"
-
-msgid "Failed to load image"
-msgstr "โหลดภาพไม่สำเร็จ"
-
-msgid "Failed to open file %{string} : %{string}\n"
-msgstr "เปิดแฟ้ม %{string} ไม่สำเร็จ: %{string}\n"
-
-msgid "Failed to rewrite header\n"
-msgstr "เขียนข้อมูลส่วนหัวซ้ำไม่สำเร็จ\n"
-
-msgid "Failed to start GNOME Software"
-msgstr "เปิดทำงานโปรแกรม \"ซอฟต์แวร์\" ชอง GNOME ไม่สำเร็จ"
-
-msgid "Failed to write cache file: %{string}\n"
-msgstr "เขียนแฟ้มแคชไม่สำเร็จ: %{string}\n"
-
-msgid "Failed to write folder index\n"
-msgstr "เขียนดัชนีโฟลเดอร์ไม่สำเร็จ\n"
-
-msgid "Failed to write hash table\n"
-msgstr "เขียนข้อมูลตารางแฮชไม่สำเร็จ\n"
-
-msgid "Failed to write header\n"
-msgstr "เขียนข้อมูลส่วนหัวไม่สำเร็จ\n"
-
-msgid "Failed!"
-msgstr "ล้มเหลว!"
-
-msgid "FanFold European"
-msgstr "FanFold ยุโรป"
-
-msgid "FanFold German Legal"
-msgstr "FanFold เยอรมัน Legal"
-
-msgid "FanFold US"
-msgstr "FanFold อเมริกัน"
-
-msgid "Featured"
-msgstr "เด่น"
-
-msgid "Featured Application"
-msgstr "โปรแกรมเด่น"
-
-msgid "Feed"
-msgstr "ข่าวป้อน"
+msgid "Field"
+msgstr "เขตข้อมูล"
 
 msgid "File"
 msgstr "ไฟล์"
 
-msgid "File Manager"
-msgstr "โปรแกรมจัดการแฟ้ม"
-
 msgid "File System"
 msgstr "ระบบแฟ้ม"
 
-msgid "File System Root"
-msgstr "รากของระบบแฟ้ม"
-
-msgid "File Tools"
-msgstr "เครื่องมือแฟ้ม"
-
-msgid "File Transfer"
-msgstr "ถ่ายโอนแฟ้ม"
-
-msgid "File is empty."
-msgstr "ไฟล์ว่างเปล่า"
-
-msgid "File not found: %{string}\n"
-msgstr "ไม่พบแฟ้ม: %{string}\n"
-
 msgid "Filename"
-msgstr "ชื่อแฟ้ม"
+msgstr "ชื่อไฟล์, ชื่อแฟ้ม"
 
 msgid "Files"
 msgstr "ไฟล์"
 
 msgid "Fill"
-msgstr "เติมเต็ม"
+msgstr "เติม"
+
+msgid "Fill Color"
+msgstr "เติมสี"
+
+msgid "Filter"
+msgstr "ตัวกรอง"
+
+msgid "Filters"
+msgstr "ตัวกรอง"
 
 msgid "Finance"
 msgstr "การเงิน"
 
-msgid "Find and _Replace"
-msgstr "หาและแ_ทนที่"
-
-msgid "Find in Software"
-msgstr "หาใน \"ซอฟต์แวร์\""
+msgid "Find"
+msgstr "ค้นหา"
 
 msgid "Finished"
 msgstr "เสร็จสิ้น"
 
-msgid "Finished with error"
-msgstr "เสร็จสิ้นโดยมีข้อผิดพลาด"
-
-msgid "Finishing"
-msgstr "การจัดขั้นสุดท้าย"
-
 msgid "Finnish"
 msgstr "ภาษาฟินแลนด์"
 
-msgid "Five Stars"
-msgstr "ห้าดาว"
+msgid "Fixed"
+msgstr "คงที่"
 
-msgid "Five days ago"
-msgstr "ห้าวันก่อน"
+msgid "Flip"
+msgstr "พลิก"
 
-msgid "Flow Chart"
-msgstr "ผังงาน"
+msgid "Float"
+msgstr "Float ลอย"
 
-msgid "Folder Name"
-msgstr "ชื่อโฟลเดอร์"
+msgid "Flowchart"
+msgstr "แผนผังลำดับงาน"
 
-msgid "Folio"
-msgstr "Folio"
-
-msgid "Folio sp"
-msgstr "Folio sp"
+msgid "Folder"
+msgstr "โฟลเดอร์"
 
 msgid "Font"
 msgstr "แบบอักษร"
@@ -2524,38 +739,41 @@ msgstr "แบบอักษร"
 msgid "Font Family"
 msgstr "ตระกูลแบบอักษร"
 
-msgid "Font Selection"
-msgstr "เลือกแบบอักษร"
+msgid "Font Sizes"
+msgstr "ขนาดตัวอักษร"
 
-msgid "Font name"
-msgstr "ชื่อแบบอักษร"
+msgid "Font size"
+msgstr "ขนาดตัวอักษร"
 
 msgid "Fonts"
 msgstr "แบบอักษร"
 
-msgid "For portable documents"
-msgstr "สำหรับเอกสารแบบใช้ได้หลายระบบ"
+msgid "Footer"
+msgstr "ท้ายกระดาษ"
 
-msgid "Force aspect ratio to match that of the frame's child"
-msgstr "บังคับสัดส่วนขนาดให้ตรงกับของอ็อบเจกต์ลูกของเฟรม"
-
-msgid "Forget association"
-msgstr "ทิ้งความเกี่ยวโยง"
-
-msgid "Forget password _immediately"
-msgstr "_ทิ้งรหัสผ่านทันที"
+msgid "Foreground"
+msgstr "พื้นหน้า, ทำงานเบื้องหน้า"
 
 msgid "Form"
 msgstr "รูป"
 
+msgid "Format"
+msgstr "รูปแบบ"
+
+msgid "Formats"
+msgstr "รูปแบบ"
+
+msgid "Formula"
+msgstr "สูตร"
+
 msgid "Forward"
-msgstr "เดินหน้า"
+msgstr "ไปข้างหน้า"
 
-msgid "Four Stars"
-msgstr "สี่ดาว"
+msgid "Fraction"
+msgstr "เศษส่วน"
 
-msgid "Four days ago"
-msgstr "สี่วันก่อน"
+msgid "Frame"
+msgstr "กรอบ"
 
 msgid "French"
 msgstr "ภาษาฝรั่งเศส"
@@ -2563,152 +781,92 @@ msgstr "ภาษาฝรั่งเศส"
 msgid "Frequency"
 msgstr "ความถี่"
 
-msgid "Full Volume"
-msgstr "ดังสุด"
+msgid "Full Name"
+msgstr "ชื่อเต็ม"
 
-msgid "GDK debugging flags to set"
-msgstr "แฟล็กการดีบั๊กของ GDK ที่จะเปิดใช้"
-
-msgid "GDK debugging flags to unset"
-msgstr "แฟล็กการดีบั๊กของ GDK ที่จะปิด"
-
-msgid "GNOME Software"
-msgstr "\"ซอฟต์แวร์\" ของ GNOME"
-
-msgid "GNOME Software showcases featured and popular applications with useful descriptions and multiple screenshots per application. Applications can be found either through browsing the list of categories or by searching. It also allows you to update your system using an offline update."
-msgstr "โปรแกรม \"ซอฟต์แวร์\" ของ GNOME จัดแสดงโปรแกรมที่เด่นและยอดนิยม พร้อมคำบรรยายที่เป็นประโยชน์และภาพหน้าจอหลายภาพต่อโปรแกรม คุณสามารถหาโปรแกรมผ่านการท่องดูตามหมวดหมู่หรือด้วยการค้นหาก็ได้ นอกจากนี้ ยังให้คุณปรับรุ่นระบบของคุณโดยใช้การปรับรุ่นแบบออฟไลน์ได้"
-
-msgid "GNU General Public License, version 2 only"
-msgstr "GNU General Public License รุ่นที่ 2 เท่านั้น"
-
-msgid "GNU General Public License, version 2 or later"
-msgstr "GNU General Public License รุ่นที่ 2 หรือรุ่นถัดมา"
-
-msgid "GNU General Public License, version 3 only"
-msgstr "GNU General Public License รุ่นที่ 3 เท่านั้น"
-
-msgid "GNU General Public License, version 3 or later"
-msgstr "GNU General Public License รุ่นที่ 3 หรือรุ่นถัดมา"
-
-msgid "GNU Lesser General Public License, version 2.1 only"
-msgstr "GNU Lesser General Public License รุ่นที่ 2.1 เท่านั้น"
-
-msgid "GNU Lesser General Public License, version 2.1 or later"
-msgstr "GNU Lesser General Public License รุ่นที่ 2.1 หรือรุ่นถัดมา"
-
-msgid "GNU Lesser General Public License, version 3 only"
-msgstr "GNU Lesser General Public License รุ่นที่ 3 เท่านั้น"
-
-msgid "GNU Lesser General Public License, version 3 or later"
-msgstr "GNU Lesser General Public License รุ่นที่ 3 หรือรุ่นถัดมา"
-
-msgid "GTK+ Options"
-msgstr "ตัวเลือกของ GTK+"
-
-msgid "GTK+ debugging flags to set"
-msgstr "แฟล็กการดีบั๊กของ GTK+ ที่จะเปิดใช้"
-
-msgid "GTK+ debugging flags to unset"
-msgstr "แฟล็กการดีบั๊กของ GTK+ ที่จะปิด"
-
-msgid "GUI Designers"
-msgstr "เครื่องมือออกแบบ GUI"
-
-msgid "Games"
-msgstr "เกม"
+msgid "Gamma"
+msgstr "แกมม่า"
 
 msgid "General"
 msgstr "ทั่วไป"
 
-msgid "Generating data"
-msgstr "กำลังสร้างข้อมูล"
-
-msgid "Geography"
-msgstr "ภูมิศาสตร์"
-
-msgid "Geology"
-msgstr "ธรณีวิทยา"
-
-msgid "Geoscience"
-msgstr "ธรณีศาสตร์"
-
 msgid "German"
 msgstr "ภาษาเยอรมัน"
-
-msgid "Getting printer information failed"
-msgstr "อ่านข้อมูลเครื่องพิมพ์ไม่สำเร็จ"
-
-msgid "Getting printer information…"
-msgstr "กำลังอ่านข้อมูลเครื่องพิมพ์…"
-
-msgid "GhostScript pre-filtering"
-msgstr "การกรองเบื้องต้นด้วย GhostScript"
-
-msgid "Glasses"
-msgstr "แว่นตา"
 
 msgid "Go back"
 msgstr "กลับไป"
 
-msgid "Go online to check for updates"
-msgstr "ออนไลน์เพื่อตรวจสอบการปรับรุ่น"
-
-msgid "Government Legal"
-msgstr "Government Legal"
-
-msgid "Government Letter"
-msgstr "Government Letter"
-
-msgid "Graph type:"
-msgstr "ชนิดของกราฟ:"
+msgid "Gradient"
+msgstr "ไล่ระดับสี"
 
 msgid "Graphics"
-msgstr "กราฟิกส์"
+msgstr "รูป"
+
+msgid "Grayscale"
+msgstr "สเกลสีเทา"
 
 msgid "Greek"
 msgstr "ภาษากรีก"
 
-msgid "Group Name"
-msgstr "ชื่อไอคอน"
+msgid "Green"
+msgstr "เขียว"
 
-msgid "Group name for tab drag and drop"
-msgstr "ชื่อของกลุ่มการกระทำ"
+msgid "Grid"
+msgstr "เส้นแนว"
 
-msgid "H"
-msgstr "H"
+msgid "Group"
+msgstr "จัดกลุ่ม"
 
-msgid "Ham Radio"
-msgstr "วิทยุสมัครเล่น"
+msgid "Groups"
+msgstr "กลุ่ม"
 
-msgid "Header Padding"
-msgstr "การเติมพื้นที่ให้กับหัวเรื่อง"
+msgid "Guides"
+msgstr "เส้นนำ"
 
-msgid "Header Relief"
-msgstr "ภาพที่หัวเรื่อง"
+msgid "HTML"
+msgstr "HTML"
 
-msgid "Header Spacing"
-msgstr "การเติมพื้นที่ให้กับหัวเรื่อง"
+msgid "Header"
+msgstr "ส่วนหัว"
 
-msgid "Header image"
-msgstr "ภาพที่หัวเรื่อง"
+msgid "Headers"
+msgstr "หัวกระดาษ"
 
-msgid "Header image for the assistant page"
-msgstr "ภาพที่หัวเรื่องของหน้าเครื่องมือช่วย"
+msgid "Heading"
+msgstr "ส่วนหัว"
 
-msgid "Hello %{string}. Please Type something."
-msgstr "สวัสดี %{string}. กรุณาพิมพ์บางอย่าง"
+msgid "Heading 1"
+msgstr "หัวข้อ 1"
 
-msgid "Hello, I'm a robot \"%{string}\". Please ask me any question."
-msgstr "สวัสดี ฉันคือหุ่นยนต์ \"%{string}\" ถามคำถามอะไรก็ได้"
+msgid "Heading 2"
+msgstr "หัวข้อ 2"
 
-msgid "Hibernate"
-msgstr "จำศึล"
+msgid "Heading 3"
+msgstr "หัวข้อ 3"
+
+msgid "Heading 4"
+msgstr "หัวข้อ 4"
+
+msgid "Heading 5"
+msgstr "หัวข้อ 5"
+
+msgid "Heading 6"
+msgstr "หัวข้อ 6"
+
+msgid "Headings"
+msgstr "หัวข้อ"
+
+msgid "Height"
+msgstr "ความสูง"
+
+msgid "Help"
+msgstr "ช่วยเหลือ"
+
+msgid "Hide"
+msgstr "ซ่อน"
 
 msgid "Hide Others"
-msgstr "ซ่อนหน้าต่างอื่น"
-
-msgid "Hide if empty"
-msgstr "ซ่อนถ้าว่างเปล่า"
+msgstr "ซ่อนที่เหลือ"
 
 msgid "High"
 msgstr "สูง"
@@ -2716,95 +874,41 @@ msgstr "สูง"
 msgid "Hindi"
 msgstr "ภาษาฮินดี"
 
+msgid "Histogram"
+msgstr "แผนภูมิแท่ง, ฮิสโตแกรม"
+
 msgid "History"
 msgstr "ประวัติศาสตร์"
 
-msgid "Hold the job until it is explicitly released"
-msgstr "พักงานพิมพ์รอไว้จนกว่าจะสั่ง"
-
 msgid "Home"
-msgstr "บ้าน"
+msgstr "ปุ่ม Home"
 
-msgid "Homogeneous"
-msgstr "สม่ำเสมอ"
+msgid "Horizontal"
+msgstr "แนวนอน"
 
 msgid "Horizontal Alignment"
-msgstr "การจัดเรียงตามแนวนอน"
-
-msgid "Horizontal alignment"
-msgstr "การจัดเรียงตามแนวนอน"
-
-msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
-msgstr "ตำแหน่งตามแนวนอนของการจัดวางอ็อบเจกต์ลูกในพื้นที่ว่างที่มี 0.0 คือเรียงชิดขอบซ้าย 1.0 คือเรียงชิดขอบขวา"
-
-msgid "Horizontal scale"
-msgstr "สัดส่วนตามแนวนอน"
-
-msgid "Horizontal separation"
-msgstr "สัดส่วนตามแนวนอน"
-
-msgid "How to lay out the buttons in the box. Possible values are: spread, edge, start and end"
-msgstr "วิธีการจัดวางปุ่มในกล่อง ค่าที่เป็นไปได้คือ default (แบบปกติ), spread (กระจาย), edge (ชิดขอบ), start (ชิดต้นกล่อง) และ end (ชิดท้ายกล่อง)"
+msgstr "การปรับแนวในแนวนอน"
 
 msgid "Hue"
 msgstr "ธาตุสี"
 
-msgid "Humanities"
-msgstr "มนุษยศาสตร์"
-
 msgid "Hungarian"
 msgstr "ภาษาฮังการี"
 
-msgid "Hyper"
-msgstr "Hyper"
-
 msgid "ID"
-msgstr "ID"
-
-msgid "ID:105:V C +W"
-msgstr "ID:105:V C +W"
+msgstr "รหัส"
 
 msgid "IDE"
 msgstr "ชุดเครื่องมือพัฒนาเบ็ดเสร็จ"
 
-msgid "IPA"
-msgstr "IPA"
-
-msgid "IRC Clients"
-msgstr "ลูกข่าย IRC"
-
 msgid "Icelandic"
 msgstr "ภาษาไอซ์แลนด์"
 
-msgid "Icon '%{string}' not present in theme"
-msgstr "ชุดตกแต่งไม่มีไอคอน '%{string}'"
-
-msgid "Icon Name"
-msgstr "ชื่อไอคอน"
-
-msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
-msgstr "ถ้าเป็น TRUE อ็อบเจกต์ลูกจะปรากฏในกลุ่มรอง ซึ่งเหมาะสำหรับอ็อบเจกต์อย่างปุ่มวิธีใช้ เป็นต้น"
-
-msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "ถ้าพื้นที่ว่างตามแนวนอนมีขนาดใหญ่กว่าพื้นที่ที่อ็อบเจกต์ลูกต้องการ จะให้พื้นที่ส่วนเกินนั้นเท่าไรกับอ็อบเจกต์ลูก 0.0 หมายถึงไม่ให้เลย 1.0 หมายถึงให้ทั้งหมด"
-
-msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "ถ้าพื้นที่ว่างตามแนวตั้งมีขนาดใหญ่กว่าพื้นที่ที่อ็อบเจกต์ลูกต้องการ จะให้พื้นที่ส่วนเกินนั้นเท่าไรกับอ็อบเจกต์ลูก 0.0 หมายถึงไม่ให้เลย 1.0 หมายถึงให้ทั้งหมด"
+msgid "Icon"
+msgstr "สัญรูป"
 
 msgid "Image"
 msgstr "ภาพ"
-
-msgid "Image &and Text"
-msgstr "รูปภาพ &และ ข้อความ"
-
-msgid "Image &and text"
-msgstr "รูปภาพ &และ ข้อความ"
-
-msgid "Image Processing"
-msgstr "การประมวลผลภาพ"
-
-msgid "Image Quality"
-msgstr "คุณภาพของรูปภาพ"
 
 msgid "Images"
 msgstr "รูปภาพ"
@@ -2812,431 +916,155 @@ msgstr "รูปภาพ"
 msgid "Import"
 msgstr "นำเข้า"
 
-msgid "Important OS and application updates are ready to be installed"
-msgstr "การปรับรุ่นที่สำคัญของ OS และโปรแกรมต่างๆ พร้อมที่จะติดตั้งแล้ว"
-
-msgid "Includes performance, stability and security improvements."
-msgstr "มีการปรับปรุงประสิทธิภาพ เสถียรภาพ และการรักษาความปลอดภัย"
-
-msgid "Incoming transaction"
-msgstr "การทำรายการขาเข้า"
+msgid "Import Options"
+msgstr "ตัวเลือกในการนำเข้า"
 
 msgid "Increase Indent"
-msgstr "เพิ่มระยะร่น"
+msgstr "เพิ่มระยะเยื้อง"
 
-msgid "Increases the volume"
-msgstr "เพิ่มความดัง"
+msgid "Indent"
+msgstr "ระยะเยื้อง"
 
-msgid "Index 3x5"
-msgstr "ดัชนี 3x5"
-
-msgid "Index 4x6 (postcard)"
-msgstr "ดัชนี 4x6 (ไปรษณียบัตร)"
-
-msgid "Index 4x6 ext"
-msgstr "ดัชนี 4x6 ext"
-
-msgid "Index 5x8"
-msgstr "ดัชนี 5x8"
+msgid "Index"
+msgstr "ดัชนี"
 
 msgid "Information"
-msgstr "ข้อมูล"
+msgstr "ข้อสนเทศ"
 
-msgid "Information about %{string}, as well as options for how to get a codec that can play this format can be found on the website."
-msgstr "ข้อมูลเกี่ยวกับ %{string} และตัวเลือกสำหรับวิธีการรับตัวอ่าน-ลงรหัสที่สามารถเล่นรูปแบบนี้ มีอยู่ในในเว็บไซต์"
-
-msgid "Initial state"
-msgstr "ขั้นแรก"
-
-msgid "Input Sources"
-msgstr "แหล่งป้อนข้อความ"
+msgid "Input"
+msgstr "ป้อนค่า"
 
 msgid "Insert"
-msgstr "Insert"
+msgstr "แทรก"
+
+msgid "Insert video"
+msgstr "แทรกวีดีโอ"
 
 msgid "Install"
 msgstr "ติดตั้ง"
 
-msgid "Install Third-Party Software?"
-msgstr "ติดตั้งซอฟต์แวร์ของบุคคลที่สามหรือไม่?"
+msgid "Instructions"
+msgstr "Instructions"
 
-msgid "Install selected software on the system"
-msgstr "ติดตั้งซอฟต์แวร์ที่เลือกลงในระบบ"
+msgid "Interaction"
+msgstr "ปฏิสัมพันธ์"
 
-msgid "Installation of %{string} failed."
-msgstr "ติดตั้ง %{string} ไม่สำเร็จ"
-
-msgid "Installed"
-msgstr "ติดตั้งอยู่"
-
-msgid "Installed Updates"
-msgstr "รายการปรับรุ่นที่ติดตั้งแล้ว"
-
-msgid "Installed from this Source"
-msgstr "ติดตั้งจากแหล่งนี้"
-
-msgid "Installed page"
-msgstr "หน้ารายการติดตั้งแล้ว"
-
-msgid "Installing"
-msgstr "กำลังติดตั้ง"
-
-msgid "Install…"
-msgstr "ติดตั้ง…"
-
-msgid "Instant Messaging"
-msgstr "ข้อความทันใจ"
-
-msgid "Intel wireless adaptor"
-msgstr "อุปกรณ์ไร้สายของอินเทล"
-
-msgid "Intensity of the color."
-msgstr "ความเข้มของสี"
+msgid "Interface"
+msgstr "อินเทอร์เฟซ"
 
 msgid "Internet"
 msgstr "อินเทอร์เน็ต"
 
-msgid "Internet Only Application"
-msgstr "โปรแกรมผ่านอินเทอร์เน็ตเท่านั้น"
-
-msgid "Internet access is required to check for updates."
-msgstr "จำเป็นต้องเข้าถึงอินเทอร์เน็ตเพื่อตรวจสอบการปรับรุ่น"
-
-msgid "Internet access was required but wasn’t available. Please make sure that you have internet access and try again."
-msgstr "ต้องใช้การเชื่อมต่ออินเทอร์เน็ต แต่ไม่สามารถใช้ได้ กรุณาตรวจสอบให้แน่ใจว่าคุณมีการเข้าถึงอินเทอร์เน็ตแล้วลองใหม่"
-
-msgid "Interprocessor interrupt"
-msgstr "การขัดจังหวะระหว่างตัวประมวลผล"
-
-msgid "Interrupt"
-msgstr "การขัดจังหวะ"
-
-msgid "Inuktitut (Transliterated)"
-msgstr "อินุกทิทุต (ถอดเสียง)"
+msgid "Interval"
+msgstr "ช่วง"
 
 msgid "Invalid"
-msgstr "ไม่ถูกต้อง"
+msgstr "ใช้ไม่ได้, เสีย"
 
-msgid "Invalid URI"
-msgstr "URI ไม่ถูกต้อง"
+msgid "Invalid password"
+msgstr "รหัสผ่านไม่ถูกต้อง"
 
-msgid "Invalid argument to CreateDC"
-msgstr "อาร์กิวเมนต์ของ CreateDC ผิดพลาด"
-
-msgid "Invalid argument to PrintDlgEx"
-msgstr "อาร์กิวเมนต์ของ PrintDlgEx ผิดพลาด"
-
-msgid "Invalid file name"
-msgstr "ชื่อแฟ้มใช้ไม่ได้"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "แฮนเดิลไปยัง PrintDlgEx ผิดพลาด"
-
-msgid "Invalid pointer to PrintDlgEx"
-msgstr "พอยน์เตอร์ไปยัง PrintDlgEx ผิดพลาด"
-
-msgid "Invalid root element: '%{string}'"
-msgstr "อิลิเมนต์รากใช้ไม่ได้: '%{string}'"
-
-msgid "Invalid type function on line %{number}: '%{string}'"
-msgstr "ฟังก์ชันถามชนิดใช้ไม่ได้ที่บรรทัด %{number}: '%{string}'"
-
-msgid "Invisible character set"
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Invite Envelope"
-msgstr "ซอง Invite"
-
-msgid "Invoice"
-msgstr "ใบส่งของ"
-
-msgid "Is important"
-msgstr "สำคัญ"
-
-msgid "It may be illegal to install or use %{string} in some countries."
-msgstr "อาจจะผิดกฎหมายที่จะติดตั้งหรือใช้ %{string} ในบางประเทศ"
-
-msgid "It may be illegal to install or use this codec in some countries."
-msgstr "อาจจะผิดกฎหมายที่จะติดตั้งหรือใช้ตัวอ่าน-ลงรหัสนี้ในบางประเทศ"
+msgid "Invert"
+msgstr "สลับ"
 
 msgid "Italian"
 msgstr "ภาษาอิตาลี"
 
-msgid "Italian Envelope"
-msgstr "ซองอิตาลี"
+msgid "Italic"
+msgstr "เอียง"
 
-msgid "Item Padding"
-msgstr "การเติมพื้นที่ด้านล่าง"
-
-msgid "JB0"
-msgstr "JB0"
-
-msgid "JB1"
-msgstr "JB1"
-
-msgid "JB10"
-msgstr "JB10"
-
-msgid "JB2"
-msgstr "JB2"
-
-msgid "JB3"
-msgstr "JB3"
-
-msgid "JB4"
-msgstr "JB4"
-
-msgid "JB5"
-msgstr "JB5"
-
-msgid "JB6"
-msgstr "JB6"
-
-msgid "JB7"
-msgstr "JB7"
-
-msgid "JB8"
-msgstr "JB8"
-
-msgid "JB9"
-msgstr "JB9"
+msgid "Jan"
+msgstr "ม.ค."
 
 msgid "Job"
-msgstr "งานพิมพ์"
+msgstr "Job, งาน"
 
-msgid "Job Details"
-msgstr "รายละเอียดงานพิมพ์"
-
-msgid "Job Priority"
-msgstr "ลำดับความสำคัญของงานพิมพ์"
-
-msgid "KP_Begin"
-msgstr "KP_Begin"
-
-msgid "KP_Delete"
-msgstr "KP_Delete"
-
-msgid "KP_Down"
-msgstr "KP_Down"
-
-msgid "KP_End"
-msgstr "KP_End"
-
-msgid "KP_Enter"
-msgstr "KP_Enter"
-
-msgid "KP_Home"
-msgstr "KP_Home"
-
-msgid "KP_Insert"
-msgstr "KP_Insert"
-
-msgid "KP_Left"
-msgstr "KP_Left"
-
-msgid "KP_Next"
-msgstr "KP_Next"
-
-msgid "KP_Page_Down"
-msgstr "KP_Page_Down"
-
-msgid "KP_Page_Up"
-msgstr "KP_Page_Up"
-
-msgid "KP_Prior"
-msgstr "KP_Prior"
-
-msgid "KP_Right"
-msgstr "KP_Right"
-
-msgid "KP_Space"
-msgstr "KP_Space"
-
-msgid "KP_Tab"
-msgstr "KP_Tab"
-
-msgid "KP_Up"
-msgstr "KP_Up"
-
-msgid "KbdBrightnessDown"
-msgstr "ลดความสว่างแป้นพิมพ์"
-
-msgid "KbdBrightnessUp"
-msgstr "เพิ่มความสว่างแป้นพิมพ์"
-
-msgid "Kernel core"
-msgstr "แกนของเคอร์เนล"
-
-msgid "Kernel module"
-msgstr "มอดูลของเคอร์เนล"
+msgid "Justify"
+msgstr "ชิดขอบ"
 
 msgid "Keyboard"
 msgstr "แป้นพิมพ์"
 
-msgid "Kids"
-msgstr "เด็ก"
-
-msgid "L&imit:"
-msgstr "&จำกัด:"
-
-msgid "LRE Left-to-right _embedding"
-msgstr "LRE Left-to-right _embedding"
-
-msgid "LRM _Left-to-right mark"
-msgstr "LRM _Left-to-right mark"
-
-msgid "LRO Left-to-right _override"
-msgstr "LRO Left-to-right _override"
+msgid "Keywords"
+msgstr "คำสำคัญ"
 
 msgid "Label"
 msgstr "ชื่อ"
 
-msgid "Label fill"
-msgstr "ฉลาก"
-
-msgid "Lancashire"
-msgstr "ภาษาแลนคาเชียร์"
-
 msgid "Landscape"
 msgstr "แนวนอน"
 
-msgid "Language Packs"
-msgstr "ชุดภาษา"
+msgid "Language"
+msgstr "ภาษา"
 
 msgid "Languages"
 msgstr "ภาษา"
 
-msgid "Laptop battery"
-msgstr "แบตเตอรี่แล็ปท็อป"
-
-msgid "Last Checked"
-msgstr "ตรวจสอบล่าสุด"
+msgid "Large"
+msgstr "ใหญ่"
 
 msgid "Latin"
 msgstr "ภาษาละติน"
 
-msgid "Launch"
-msgstr "เรียกทำงาน"
-
-msgid "Launch specified application by its desktop file info\noptionally passing list of URIs as arguments."
-msgstr "เรียกทำงานโปรแกรมที่ระบุโดยใช้ข้อมูลในแฟ้มเดสก์ท็อป\nและอาจส่งรายชื่อ URI เป็นอาร์กิวเมนต์ได้ด้วย"
-
-msgid "Launch1"
-msgstr "เรียกโปรแกรม1"
+msgid "Layer"
+msgstr "ชั้น"
 
 msgid "Layout"
-msgstr "การจัดเรียง"
-
-msgid "Layout style"
-msgstr "รูปแบบการจัดวาง"
-
-msgid "Lead acid"
-msgstr "กรดตะกั่ว"
+msgstr "เค้าโครง"
 
 msgid "Left"
-msgstr "Left"
-
-msgid "Left Padding"
-msgstr "การเติมพื้นที่ด้านซ้าย"
+msgstr "ซ้าย"
 
 msgid "Left to right"
 msgstr "ซ้ายไปขวา"
 
-msgid "Left to right, bottom to top"
-msgstr "ซ้ายไปขวา, ล่างขึ้นบน"
+msgid "Legal"
+msgstr "ข้อกฎหมาย"
 
-msgid "Left to right, top to bottom"
-msgstr "ซ้ายไปขวา, บนลงล่าง"
+msgid "Length"
+msgstr "Length"
+
+msgid "Letter"
+msgstr "จดหมาย"
+
+msgid "Level"
+msgstr "ระดับ"
+
+msgid "Library"
+msgstr "Library"
 
 msgid "License"
-msgstr "สัญญาอนุญาต"
-
-msgid "Light Aluminum 1"
-msgstr "อะลูมิเนียม 1 อ่อน"
-
-msgid "Light Aluminum 2"
-msgstr "อะลูมิเนียม 2 อ่อน"
-
-msgid "Light Butter"
-msgstr "เหลืองอ่อน"
-
-msgid "Light Chameleon"
-msgstr "เขียวอ่อน"
-
-msgid "Light Chocolate"
-msgstr "น้ำตาลอ่อน"
+msgstr "ใบอนุญาต"
 
 msgid "Light Gray"
-msgstr "เทาอ่อน"
+msgstr "เทาสว่าง"
 
-msgid "Light Orange"
-msgstr "ส้มอ่อน"
+msgid "Line"
+msgstr "#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\nบรรทัด\n#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\nเส้น\n#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\nเส้น\n#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\nเส้น"
 
-msgid "Light Plum"
-msgstr "ม่วงอ่อน"
+msgid "Line spacing"
+msgstr "ระยะห่างบรรทัด"
 
-msgid "Light Scarlet Red"
-msgstr "แดงกำมะหยี่อ่อน"
+msgid "Link"
+msgstr "ลิงก์"
 
-msgid "Light Sky Blue"
-msgstr "ฟ้า"
-
-msgid "Lighter Gray"
-msgstr "เทาจาง"
-
-msgid "List of authors of the program"
-msgstr "รายชื่อผู้เขียนโปรแกรม"
-
-msgid "List of people documenting the program"
-msgstr "รายชื่อผู้จัดทำเอกสารของโปรแกรม"
-
-msgid "List of people who have contributed artwork to the program"
-msgstr "รายชื่อผู้ที่ร่วมสมทบงานศิลป์ให้กับโปรแกรม"
-
-msgid "Literature"
-msgstr "วรรณกรรม"
-
-msgid "Lithium Ion"
-msgstr "ลิเทียมไอออน"
-
-msgid "Lithium Iron Phosphate"
-msgstr "ลิเทียมไอรอนฟอสเฟต"
-
-msgid "Lithium Polymer"
-msgstr "ลิเทียมพอลิเมอร์"
-
-msgid "Lo&cal path:"
-msgstr "เส้นทางในเ&ครื่อง"
-
-msgid "Load additional GTK+ modules"
-msgstr "โหลดมอดูล GTK+ เพิ่มเติม"
-
-msgid "Local interrupts"
-msgstr "การขัดจังหวะในเครื่อง"
+msgid "List"
+msgstr "รายการ"
 
 msgid "Location"
 msgstr "ตำแหน่ง"
 
 msgid "Lock"
-msgstr "ล็อค"
+msgstr "ล็อก, ล็อค"
 
-msgid "Locking failed"
-msgstr "การล็อกล้มเหลว"
-
-msgid "Logic"
+msgid "Logical"
 msgstr "ตรรกะ"
+
+msgid "Login"
+msgstr "เข้าระบบ"
 
 msgid "Logo"
 msgstr "โลโก้"
-
-msgid "Logo Icon Name"
-msgstr "ชื่อไอคอนของโลโก้"
-
-msgid "Long Edge (Standard)"
-msgstr "ขอบด้านยาว (มาตรฐาน)"
-
-msgid "Looking for new updates…"
-msgstr "กำลังค้นหารายการปรับรุ่นใหม่…"
 
 msgid "Low"
 msgstr "ต่ำ"
@@ -3245,592 +1073,331 @@ msgid "MIDI"
 msgstr "MIDI"
 
 msgid "MODE"
-msgstr "โหมด"
-
-msgid "MODULES"
-msgstr "MODULES"
+msgstr "MODE"
 
 msgid "Macedonian"
 msgstr "ภาษามาซิโดเนีย"
 
+msgid "Macro"
+msgstr "แมโคร"
+
+msgid "Mail"
+msgstr "จดหมาย"
+
 msgid "Make all warnings fatal"
 msgstr "ให้ความสำคัญกับคำเตือนประหนึ่งความล้มเหลว"
 
-msgid "Manage Custom Sizes"
-msgstr "จัดการขนาดกระดาษที่กำหนดเอง"
+msgid "Male"
+msgstr "ชาย"
 
-msgid "Manage Custom Sizes…"
-msgstr "จัดการขนาดกระดาษที่กำหนดเอง…"
+msgid "Manual"
+msgstr "Manual"
 
 msgid "Maps"
 msgstr "แผนที่"
 
-msgid "Margins from Printer…"
-msgstr "ขอบกระดาษตามเครื่องพิมพ์…"
+msgid "Mar"
+msgstr "มี.ค."
+
+msgid "Margins"
+msgstr "ระยะขอบ"
 
 msgid "Math"
 msgstr "คณิตศาสตร์"
 
+msgid "Max"
+msgstr "มากที่สุด"
+
 msgid "Maximize"
-msgstr "ขยายแผ่"
+msgstr "ขยายเต็ม"
 
-msgid "Maximum Value"
-msgstr "ค่าสูงสุด"
-
-msgid "Media player"
-msgstr "เครื่องเล่นสื่อ"
-
-msgid "Medical"
-msgstr "การแพทย์"
+msgid "Maximum"
+msgstr "มากที่สุด"
 
 msgid "Medium"
 msgstr "ปานกลาง"
 
-msgid "Medium Gray"
-msgstr "เทาปานกลาง"
+msgid "Memory"
+msgstr "หน่วยความจำ"
 
 msgid "Menu"
 msgstr "เมนู"
 
-msgid "Meta"
-msgstr "Meta"
+msgid "Merge"
+msgstr "ผสาน"
+
+msgid "Merge cells"
+msgstr "ผสานเซลล์"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "Metafile"
+msgstr "Metafile"
+
+msgid "Middle"
+msgstr "กลาง"
 
 msgid "Minimize"
-msgstr "ย่อเก็บ"
-
-msgid "Minimum Value"
-msgstr "ค่าต่ำสุด"
-
-msgid "Minimum child height"
-msgstr "ความสูงต่ำสุดของอ็อบเจกต์ลูก"
-
-msgid "Minimum child width"
-msgstr "ความกว้างต่ำสุดของอ็อบเจกต์ลูก"
-
-msgid "Minimum height of buttons inside the box"
-msgstr "ความสูงต่ำสุดของปุ่มภายในกล่อง"
-
-msgid "Minimum horizontal bar height"
-msgstr "ความสูงต่ำสุดของอ็อบเจกต์ลูก"
-
-msgid "Minimum horizontal bar width"
-msgstr "ความกว้างต่ำสุดของอ็อบเจกต์ลูก"
-
-msgid "Minimum vertical bar height"
-msgstr "ความสูงต่ำสุดของอ็อบเจกต์ลูก"
-
-msgid "Minimum vertical bar width"
-msgstr "ความกว้างต่ำสุดของอ็อบเจกต์ลูก"
-
-msgid "Minimum width of buttons inside the box"
-msgstr "ความกว้างต่ำสุดของปุ่มภายในกล่อง"
+msgstr "ย่อหาย"
 
 msgid "Miscellaneous"
-msgstr "จิปาถะ"
+msgstr "เบ็ดเตล็ด"
 
-msgid "Mixer"
-msgstr "เครื่องมือปรับเสียง"
+msgid "Mode"
+msgstr "โหมด"
 
 msgid "Model"
-msgstr "รุ่น"
+msgstr "Model"
+
+msgid "Moderator"
+msgstr "ผู้ดำเนินการประชุม"
 
 msgid "Modified"
-msgstr "แก้ไขเมื่อ"
+msgstr "แก้ไข"
 
-msgid "MonBrightnessDown"
-msgstr "ลดความสว่างจอ"
+msgid "Modify"
+msgstr "เปลี่ยนแปลง"
 
-msgid "MonBrightnessUp"
-msgstr "เพิ่มความสว่างจอ"
+msgid "Module"
+msgstr "มอดูล"
 
-msgid "Monarch Envelope"
-msgstr "ซอง Monarch"
+msgid "Modules"
+msgstr "มอดูล"
 
 msgid "Monitor"
 msgstr "เฝ้าสังเกต"
 
+msgid "Monitor Resolution"
+msgstr "ความละเอียดของจอภาพ"
+
 msgid "Month"
 msgstr "เดือน"
 
-msgid "Mouse"
-msgstr "เมาส์"
+msgid "More"
+msgstr "เพิ่มเติม"
+
+msgid "More..."
+msgstr "เพิ่มเติม..."
 
 msgid "Move"
-msgstr "ย้าย"
+msgstr "โหมด"
 
-msgid "Move to Another Workspace"
-msgstr "ย้ายไปพื้นที่ทำงานอื่น"
-
-msgid "Move to Workspace Down"
-msgstr "ย้ายไปพื้นที่ทำงานล่าง"
-
-msgid "Move to Workspace Up"
-msgstr "ย้ายไปพื้นที่ทำงานบน"
-
-msgid "Multi_key"
-msgstr "Multi_key"
-
-msgid "Multipress"
-msgstr "กดซ้ำ"
-
-msgid "Music"
-msgstr "ดนตรี"
+msgid "Mute"
+msgstr "เงียบ"
 
 msgid "Muted"
 msgstr "ปิดเสียง"
 
-msgid "My Neighborhood"
-msgstr "เพื่อนบ้านของฉัน"
-
-msgid "NAME"
-msgstr "NAME"
-
 msgid "Name"
 msgstr "ชื่อ"
 
-msgid "Need user intervention"
-msgstr "ต้องการความช่วยเหลือจากผู้ใช้"
-
-msgid "Neither /path nor /pathfile was specified or does not contain a valid path!"
-msgstr "ไม่ได้ระบุทั้ง /path และ /pathfile หรือเส้นทางดังกล่าวไม่ถูกต้อง!"
+msgid "Navigation"
+msgstr "การนำทาง"
 
 msgid "Network"
 msgstr "เครือข่าย"
 
-msgid "Network Settings"
-msgstr "ตั้งค่าเครือข่าย"
-
-msgid "Never"
-msgstr "ไม่เคย"
-
-msgid "New accelerator…"
-msgstr "กำหนดคีย์ด่วนใหม่…"
-
-msgid "New bookmark"
-msgstr "ที่คั่นหน้าใหม่"
-
-msgid "New key generation failed."
-msgstr "สร้างกุญแจใหม่ล้มเหลว"
-
-msgid "New passphrase"
-msgstr "รหัสผา่นใหม่"
-
-msgid "New receiving address"
-msgstr "ที่อยู่ผู้รับใหม่"
-
-msgid "New sending address"
-msgstr "ที่อยู่ผู้ส่งใหม่"
-
 msgid "News"
 msgstr "ข่าว"
 
-msgid "Nickel Cadmium"
-msgstr "นิกเกิลแคดเมียม"
+msgid "Next"
+msgstr "ถัดไป"
 
-msgid "Nickel metal hydride"
-msgstr "นิกเกิลเมทัลไฮไดรด์"
+msgid "Next page"
+msgstr "หน้าถัดไป"
 
 msgid "No"
 msgstr "ไม่"
 
-msgid "No AppStream data found"
-msgstr "ไม่พบข้อมูล AppStream"
-
-msgid "No Application Data Found"
-msgstr "ไม่พบข้อมูลโปรแกรม"
-
-msgid "No Application Found"
-msgstr "ไม่พบโปรแกรม"
-
-msgid "No Network"
-msgstr "ไม่มีเครือข่าย"
-
-msgid "No Software Source Included"
-msgstr "ไม่มีแหล่งซอฟต์แวร์"
-
-msgid "No applications found for “%{string}”"
-msgstr "ไม่พบโปรแกรมสำหรับ “%{string}”"
-
-msgid "No applications found for “%{string}” files"
-msgstr "ไม่พบโปรแกรมสำหรับแฟ้มชนิด “%{string}”"
-
-msgid "No applications found for “%{string}”."
-msgstr "ไม่พบโปรแกรมสำหรับ “%{string}”"
-
-msgid "No applications found."
-msgstr "หาโปรแกรมไม่พบ"
-
-msgid "No data"
-msgstr "ไม่มีข้อมูล"
-
-msgid "No fonts matched your search. You can revise your search and try again."
-msgstr "ไม่มีแบบอักษรที่ตรงกับที่คุณค้นหา คุณสามารถแก้ไขคำค้นของคุณแล้วลองใหม่"
-
-msgid "No item for URI '%{string}' found"
-msgstr "ไม่พบรายการสำหรับ URI '%{string}'"
-
-msgid "No items found"
-msgstr "ไม่พบรายการ"
-
-msgid "No pre-filtering"
-msgstr "ไม่ต้องกรองเบื้องต้น"
-
-msgid "No printer found"
-msgstr "ไม่พบเครื่องพิมพ์"
-
-msgid "No profile available"
-msgstr "ไม่มีโพรไฟล์"
-
-msgid "No recently used resource found with URI `%{string}'"
-msgstr "ไม่พบทรัพยากรที่ใช้ล่าสุดที่มี URI เป็น `%{string}'"
-
-msgid "No registered application with name '%{string}' for item with URI '%{string}' found"
-msgstr "ไม่พบโปรแกรมที่ลงทะเบียนไว้ในชื่อ '%{string}' สำหรับรายการที่มี URI '%{string}'"
-
-msgid "No software installed"
-msgstr "ไม่มีซอฟต์แวร์ที่ติดตั้งไว้"
-
-msgid "No software installed from this source"
-msgstr "ไม่มีซอฟต์แวร์ที่ติดตั้งจากแหล่งนี้"
-
-msgid "No theme index file.\n"
-msgstr "ไม่มีแฟ้มดัชนีของชุดตกแต่ง\n"
-
-msgid "No update description available."
-msgstr "ไม่มีรายละเอียดการปรับรุ่น"
-
-msgid "No updates have been installed on this system."
-msgstr "ไม่มีการติดตั้งรายการปรับรุ่นในระบบนี้"
+msgid "No action"
+msgstr "ไม่มีปฏิบัติการ"
 
 msgid "None"
-msgstr "ไม่มี"
+msgstr "ไม่"
 
-msgid "Norwegian"
-msgstr "ภาษานอร์เวย์"
-
-msgid "Not Now"
-msgstr "ไม่ตอนนี้"
-
-msgid "Not a valid icon cache: %{string}\n"
-msgstr "ไม่ใช่แคชของไอคอนที่ใช้การได้: %{string}\n"
-
-msgid "Not a valid page setup file"
-msgstr "ไม่ใช่แฟ้มค่าตั้งหน้ากระดาษที่ใช้การได้"
+msgid "Normal"
+msgstr "ปกติ"
 
 msgid "Not available"
-msgstr "ไม่มี"
+msgstr "ไม่สามารถใช้งานได้"
 
-msgid "Not enough free memory"
-msgstr "หน่วยความจำที่ว่างไม่พอ"
+msgid "Note"
+msgstr "บันทึกย่อ"
 
-msgid "Nothing is selected for commit!"
-msgstr "ไม่มีรายการที่จะส่งมอบ!"
+msgid "Notes"
+msgstr "บันทึก"
 
-msgid "Num_Lock"
-msgstr "Num_Lock"
+msgid "Number"
+msgstr "ตัวเลข (ไม่มีบริบท)"
 
-msgid "Number of axes in the device"
-msgstr "จำนวนจุดที่จะเติมรอบหัวเรื่อง"
+msgid "Numeric"
+msgstr "Numeric"
 
-msgid "Number of pixels around the content pages."
-msgstr "จำนวนจุดที่จะเติมรอบเนื้อหาของหน้า"
+msgid "OK"
+msgstr "ตกลง"
 
-msgid "Number of pixels around the header."
-msgstr "จำนวนจุดที่จะเติมรอบหัวเรื่อง"
-
-msgid "Numerical Analysis"
-msgstr "การวิเคราะห์เชิงตัวเลข"
-
-msgid "OCR"
-msgstr "เครื่องอ่านอักขระด้วยแสง"
-
-msgid "OFF"
-msgstr "ปิด"
-
-msgid "ON"
-msgstr "เปิด"
-
-msgid "OS Updates"
-msgstr "ปรับรุ่น OS"
-
-msgid "Obey child"
-msgstr "ตามอ็อบเจกต์ลูก"
-
-msgid "Observe power management"
-msgstr "ตรวจสอบการใช้พลังงาน"
-
-msgid "Odd sheets"
-msgstr "หน้าคี่"
+msgid "OR"
+msgstr "OR"
 
 msgid "Office"
-msgstr "สำนักงาน"
+msgstr "ที่ทำงาน"
 
 msgid "Offline"
 msgstr "ออฟไลน์"
 
-msgid "On _hold"
-msgstr "_รอไว้"
-
-msgid "One Sided"
-msgstr "หน้าเดียว"
-
-msgid "One Star"
-msgstr "หนึ่งดาว"
-
-msgid "One week ago"
-msgstr "หนึ่งสัปดาห์ที่แล้ว"
+msgid "Ok"
+msgstr "ตกลง"
 
 msgid "Online"
 msgstr "ต่ออยู่"
 
-msgid "Only on This Workspace"
-msgstr "แสดงบนพื้นที่ทำงานนี้เท่านั้น"
+msgid "Opacity"
+msgstr "ความทึบแสง"
 
-msgid "Only use software sources that you trust."
-msgstr "ใช้แหล่งซอฟต์แวร์ที่คุณเชื่อถือเท่านั้น"
-
-msgid "Op_acity:"
-msgstr "ความ_ทึบแสง:"
-
-msgid "Open '%{string}'"
-msgstr "เปิด '%{string}'"
-
-msgid "Open a local package file"
-msgstr "เปิดแฟ้มแพกเกจในเครื่อง"
-
-msgid "Open image file..."
-msgstr "เปิดไฟล์รูปภาพ..."
-
-msgid "Open in New _Tab"
-msgstr "เปิดในแ_ท็บใหม่"
-
-msgid "Open in New _Window"
-msgstr "เปิดใน_หน้าต่างใหม่"
-
-msgid "Open the contents of the file system"
-msgstr "เปิดดูเนื้อหาของระบบแฟ้ม"
-
-msgid "Open the contents of your desktop in a folder"
-msgstr "เปิดเนื้อหาบนพื้นโต๊ะของคุณในโฟลเดอร์"
-
-msgid "Open the trash"
-msgstr "เปิดถังขยะ"
-
-msgid "Open your personal folder"
-msgstr "เปิดโฟลเดอร์ส่วนตัวของคุณ"
-
-msgid "Opening %{number} Item"
-msgstr "กำลังเปิด %{number} รายการ"
-
-msgid "Opening “%{string}” files."
-msgstr "กำลังเปิดแฟ้ม “%{string}”"
-
-msgid "Opening “%{string}”."
-msgstr "กำลังเปิด “%{string}”"
+msgid "Open"
+msgstr "เปิด"
 
 msgid "Options"
 msgstr "ตัวเลือก"
 
-msgid "Or_ientation:"
-msgstr "แ_นววาง:"
-
 msgid "Orange"
 msgstr "ส้ม"
 
+msgid "Order"
+msgstr "ลำดับ"
+
+msgid "Orientation"
+msgstr "การกำหนดทิศทาง"
+
+msgid "Origin"
+msgstr "Origin"
+
 msgid "Other"
-msgstr "อื่นๆ"
+msgstr "อื่น ๆ"
 
-msgid "Other Applications"
-msgstr "โปรแกรมอื่นๆ"
+msgid "Other..."
+msgstr "อื่นๆ..."
 
-msgid "Other application…"
-msgstr "โปรแกรมอื่น…"
+msgid "Outline"
+msgstr "เค้าโครง"
 
-msgid "Other…"
-msgstr "อื่นๆ…"
+msgid "Overview"
+msgstr "ภาพรวม"
 
-msgid "Out of paper"
-msgstr "กระดาษหมด"
+msgid "Overwrite"
+msgstr "เ~ขียนทับ"
 
-msgid "Output Tray"
-msgstr "ถาดกระดาษออก"
-
-msgid "Output a C header file"
-msgstr "เขียนแฟ้มส่วนหัวภาษาซี"
-
-msgid "Output t_ray:"
-msgstr "ถาดกระดาษ_ออก:"
-
-msgid "Overview page"
-msgstr "หน้าภาพรวม"
-
-msgid "Overwrite an existing cache, even if up to date"
-msgstr "เขียนทับแคชเดิม แม้แคชจะใหม่ล่าสุดแล้วก็ตาม"
-
-msgid "P2P"
-msgstr "P2P"
+msgid "Owner"
+msgstr "เจ้าของ"
 
 msgid "PDA"
 msgstr "PDA"
 
-msgid "PDF"
-msgstr "PDF"
-
-msgid "PDF _Pop directional formatting"
-msgstr "PDF _Pop directional formatting"
-
-msgid "PS/2 keyboard/mouse/touchpad"
-msgstr "แป้นพิมพ์/เมาส์/ทัชแพด PS/2"
-
-msgid "P_ause"
-msgstr "_พัก"
-
-msgid "Pack type"
-msgstr "วิธีบรรจุ"
+msgid "Pack"
+msgstr "บรรจุ"
 
 msgid "Padding"
-msgstr "การเติมพื้นที่"
+msgstr "Padding, ขยายความกว้าง"
 
-msgid "Pag_es:"
-msgstr "_หน้า:"
-
-msgid "Page Increment"
-msgstr "ค่าที่เพิ่มทีละหน้า"
-
-msgid "Page Ordering"
-msgstr "การเรียงหน้า"
-
-msgid "Page Set_up"
-msgstr "ตั้ง_หน้ากระดาษ"
+msgid "Page"
+msgstr "หน้า"
 
 msgid "Page Setup"
-msgstr "ตั้งหน้ากระดาษ"
+msgstr "ตั้งค่าหน้า"
 
-msgid "Page Size"
-msgstr "ขนาดของหน้า"
+msgid "Page break"
+msgstr "แบ่ง~หน้า"
 
-msgid "Page complete"
-msgstr "หน้าเสร็จสมบูรณ์"
+msgid "Page number"
+msgstr "เลขหน้า"
 
-msgid "Page or_dering:"
-msgstr "การเ_รียงหน้า:"
-
-msgid "Page title"
-msgstr "หัวเรื่องของหน้า"
-
-msgid "Page type"
-msgstr "ชนิดของหน้า"
-
-msgid "Page_Down"
-msgstr "Page_Down"
-
-msgid "Page_Up"
-msgstr "Page_Up"
+msgid "Pager"
+msgstr "เพจเจอร์"
 
 msgid "Pages"
 msgstr "หน้า"
 
-msgid "Pages Per Sheet"
-msgstr "จำนวนหน้าต่อแผ่น"
+msgid "Palette"
+msgstr "จานสี"
 
-msgid "Pages per Sheet"
-msgstr "จำนวนหน้าต่อแผ่น"
+msgid "Palettes"
+msgstr "จานสี"
 
-msgid "Pages per _sheet:"
-msgstr "จำนวนหน้าต่อแ_ผ่น:"
+msgid "Paragraph"
+msgstr "ย่อหน้า:"
 
-msgid "Pages per _side:"
-msgstr "จำนวนหน้าต่อห_น้ากระดาษ:"
+msgid "Parameter"
+msgstr "พารามิเตอร์"
 
-msgid "Paper"
-msgstr "กระดาษ"
+msgid "Password"
+msgstr "รหัสผ่าน"
 
-msgid "Paper Margins"
-msgstr "ขอบกระดาษ"
-
-msgid "Paper Size"
-msgstr "ขนาดกระดาษ"
-
-msgid "Paper Source"
-msgstr "แหล่งป้อนกระดาษ"
-
-msgid "Paper Type"
-msgstr "ชนิดกระดาษ"
-
-msgid "Paper _source:"
-msgstr "แหล่ง_ป้อนกระดาษ:"
-
-msgid "Paper _type:"
-msgstr "_ชนิดกระดาษ:"
-
-msgid "Parallel Computing"
-msgstr "การคำนวณแบบขนาน"
-
-msgid "Password:"
-msgstr "รหัสผ่าน:"
+msgid "Passwords do not match"
+msgstr "รหัสผ่านไม่ตรงกัน"
 
 msgid "Paste"
 msgstr "วาง"
 
+msgid "Path"
+msgstr "เส้นทางที่เก็บไฟล์"
+
+msgid "Paths"
+msgstr "เส้นทาง"
+
+msgid "Pattern"
+msgstr "ลวดลาย"
+
 msgid "Pause"
-msgstr "Pause"
+msgstr "หยุดชั่วคราว"
 
 msgid "Paused"
-msgstr "หยุดพัก"
-
-msgid "Paused; Rejecting Jobs"
-msgstr "หยุดพัก; ไม่รับงานพิมพ์"
+msgstr "หยุดชั่วคราว"
 
 msgid "Pending"
 msgstr "รอติดตั้ง"
 
 msgid "Percentage"
-msgstr "เปอร์เซ็นต์"
+msgstr "_ร้อยละ"
 
-msgid "Personal Envelope"
-msgstr "ซองจดหมายส่วนตัว"
+msgid "Period"
+msgstr "งวด"
 
-msgid "Photography"
-msgstr "การถ่ายภาพ"
+msgid "Periodic"
+msgstr "รายคาบ"
 
-msgid "Physics"
-msgstr "ฟิสิกส์"
+msgid "Perspective"
+msgstr "ทัศนมิติหรือเพอร์สเปกทีฟ"
 
-msgid "Pick a Color"
-msgstr "เลือกสี"
+msgid "Pixel"
+msgstr "พิกเซล"
 
-msgid "Pick a Font"
-msgstr "เลือกแบบอักษร"
-
-msgid "Pitch:"
-msgstr "ระดับเสียง:"
+msgid "Place"
+msgstr "ตำแหน่ง"
 
 msgid "Places"
-msgstr "ที่หลักๆ"
+msgstr "ตำแหน่ง"
 
-msgid "Players"
-msgstr "เครื่องมือเล่น"
+msgid "Play"
+msgstr "เล่น"
 
-msgid "Please select a folder below"
-msgstr "กรุณาเลือกโฟลเดอร์ที่ด้านล่างนี้"
+msgid "Plug-in"
+msgstr "~ปลั๊กอิน"
 
-msgid "Please type a file name"
-msgstr "กรุณาป้อนชื่อแฟ้ม"
+msgid "Point"
+msgstr "พ้อยต์"
 
-msgid "Please wait..."
-msgstr "โปรดรอสักครู่..."
-
-msgid "Plum"
-msgstr "ม่วง"
+msgid "Pointer"
+msgstr "ตัวชี้"
 
 msgid "Polish"
 msgstr "ภาษาโปแลนด์"
 
-msgid "Pops up the slider"
-msgstr "ผุดปุ่มรางเลื่อน"
+msgid "Polygon"
+msgstr "รูปหลายเหลี่ยม"
 
-msgid "Popup"
-msgstr "ผุดขึ้น"
+msgid "Polyline"
+msgstr "หลายเส้น"
 
 msgid "Portrait"
 msgstr "แนวตั้ง"
@@ -3838,65 +1405,35 @@ msgstr "แนวตั้ง"
 msgid "Position"
 msgstr "ตำแหน่ง"
 
-msgid "Position on the color wheel."
-msgstr "ตำแหน่งบนวงสี"
-
-msgid "Possible values: 0 (fully transparent) .. 255 (opaque)"
-msgstr "ค่าที่เป็นไป: 0 (โปร่งใสเต็มที่) .. 255 (ทึบแสง)"
-
-msgid "Postfix Envelope"
-msgstr "ซอง Postfix"
-
-msgid "Postscript"
-msgstr "โพสต์สคริปต์"
-
 msgid "Power"
-msgstr "พลังงาน"
+msgstr "ยกกำลัง"
 
-msgid "Power Statistics"
-msgstr "กราฟการใช้พลังงาน"
+msgid "Pr_eview"
+msgstr "แสดงตัวอย่าง"
 
 msgid "Pre_view"
-msgstr "ตัว_อย่าง"
-
-msgid "Pre_vious"
-msgstr "ก่อ_นหน้า"
-
-msgid "Predicted time"
-msgstr "เวลาประเมิน"
-
-msgid "Prediction accuracy"
-msgstr "ความแม่นยำของการประเมิน"
-
-msgid "Prefer local file sources to AppStream"
-msgstr "พยายามใช้แหล่งแฟ้มในเครื่องก่อนใช้ AppStream"
+msgstr "แสดงตัวอย่าง"
 
 msgid "Preferences"
 msgstr "ปรับแต่ง"
 
-msgid "Preparing"
-msgstr "กำลังเตรียมพิมพ์"
-
-msgid "Preparing to print"
-msgstr "กำลังเตรียมพิมพ์"
-
-msgid "Present"
-msgstr "ปรากฏอยู่"
+msgid "Prefix"
+msgstr "คำนำหน้า"
 
 msgid "Presentation"
 msgstr "การนำเสนอ"
 
-msgid "Press"
-msgstr "กด"
+msgid "Preview"
+msgstr "แสดงตัวอย่าง"
 
-msgid "Presses the combobox"
-msgstr "กดกล่องคอมโบ"
+msgid "Previous"
+msgstr "ก่อนหน้า"
 
-msgid "Pri_ority:"
-msgstr "_ลำดับความสำคัญ:"
+msgid "Previous page"
+msgstr "หน้าก่อน"
 
-msgid "Primary storage type"
-msgstr "ชนิดของหน้า"
+msgid "Price"
+msgstr "ราคา"
 
 msgid "Print"
 msgstr "พิมพ์"
@@ -3904,110 +1441,44 @@ msgstr "พิมพ์"
 msgid "Print Document"
 msgstr "พิมพ์เอกสาร"
 
-msgid "Print Pre_view"
-msgstr "_ตัวอย่างก่อนพิมพ์"
-
-msgid "Print at"
-msgstr "พิมพ์เมื่อ"
-
-msgid "Print at time"
-msgstr "พิมพ์เมื่อเวลา"
-
-msgid "Print to File"
-msgstr "พิมพ์ลงแฟ้ม"
-
-msgid "Print to LPR"
-msgstr "พิมพ์ออกทาง LPR"
-
-msgid "Print to Test Printer"
-msgstr "พิมพ์ออกยังเครื่องพิมพ์ทดสอบ"
-
 msgid "Printer"
 msgstr "เครื่องพิมพ์"
-
-msgid "Printer '%{string}' has no toner left."
-msgstr "เครื่องพิมพ์ '%{string}' หมึกหมด"
-
-msgid "Printer '%{string}' is currently offline."
-msgstr "เครื่องพิมพ์ '%{string}' ออฟไลน์อยู่"
-
-msgid "Printer '%{string}' is low on at least one marker supply."
-msgstr "เครื่องพิมพ์ '%{string}' วัสดุพิมพ์บางอย่างเหลือน้อย"
-
-msgid "Printer '%{string}' is low on developer."
-msgstr "เครื่องพิมพ์ '%{string}' ตัว develop เหลือน้อย"
-
-msgid "Printer '%{string}' is low on paper."
-msgstr "เครื่องพิมพ์ '%{string}' เหลือกระดาษน้อย"
-
-msgid "Printer '%{string}' is low on toner."
-msgstr "เครื่องพิมพ์ '%{string}' หมึกเหลือน้อย"
-
-msgid "Printer '%{string}' is out of at least one marker supply."
-msgstr "เครื่องพิมพ์ '%{string}' วัสดุพิมพ์บางอย่างหมด"
-
-msgid "Printer '%{string}' is out of developer."
-msgstr "เครื่องพิมพ์ '%{string}' ตัว develop หมด"
-
-msgid "Printer '%{string}' is out of paper."
-msgstr "เครื่องพิมพ์ '%{string}' กระดาษหมด"
-
-msgid "Printer Default"
-msgstr "ค่าปริยายเครื่องพิมพ์"
-
-msgid "Printer Profile"
-msgstr "โพรไฟล์เครื่องพิมพ์"
-
-msgid "Printer offline"
-msgstr "เครื่องพิมพ์ไม่ได้เชื่อมต่อ"
 
 msgid "Printing"
 msgstr "กำลังพิมพ์"
 
+msgid "Priority"
+msgstr "ลำดับความสำคัญ"
+
+msgid "Privacy Policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
 msgid "Private"
 msgstr "ส่วนตัว"
+
+msgid "Problem"
+msgstr "ปัญหา"
 
 msgid "Processor"
 msgstr "ตัวประมวลผล"
 
-msgid "Processor Wakeups"
-msgstr "การปลุกตัวประมวลผล"
-
-msgid "Processor wakeups per second:"
-msgstr "การปลุกตัวประมวลผลต่อวินาที:"
-
-msgid "Profiling"
-msgstr "เครื่องมือวัดประสิทธิภาพ"
-
 msgid "Program"
 msgstr "โปรแกรม"
 
-msgid "Program class as used by the window manager"
-msgstr "คลาสของโปรแกรมที่ใช้อ้างโดยโปรแกรมจัดการหน้าต่าง"
+msgid "Progress"
+msgstr "ความคืบหน้า"
 
-msgid "Program name"
-msgstr "ชื่อโปรแกรม"
+msgid "Progress Bar"
+msgstr "แถบบอกสถานะก้าวหน้า"
 
-msgid "Program name as used by the window manager"
-msgstr "ชื่อของโปรแกรมที่ใช้เรียกโดยโปรแกรมจัดการหน้าต่าง"
+msgid "Project"
+msgstr "โครงการ"
 
-msgid "Program version"
-msgstr "รุ่นโปรแกรม"
+msgid "Projects"
+msgstr "โครงการ"
 
-msgid "Programs (*.exe)|*.exe|All Files (*.*)|*.*||"
-msgstr "โปรแกรม (*.exe)|*.exe|ทุกไฟล์ (*.*)|*.*||"
-
-msgid "Progress Border"
-msgstr "รุ่นโปรแกรม"
-
-msgid "Progress Fraction"
-msgstr "รุ่นโปรแกรม"
-
-msgid "Project Management"
-msgstr "การจัดการโครงการ"
-
-msgid "Properties for"
-msgstr "คุณสมบัติของ"
+msgid "Properties"
+msgstr "คุณสมบัติ"
 
 msgid "Properties..."
 msgstr "คุณสมบัติ..."
@@ -4015,158 +1486,107 @@ msgstr "คุณสมบัติ..."
 msgid "Property"
 msgstr "คุณสมบัติ"
 
-msgid "Provides visual indication of progress"
-msgstr "แสดงภาพบ่งบอกการอยู่ระหว่างดำเนินการ"
+msgid "Protection"
+msgstr "การปกป้อง"
+
+msgid "Proxy"
+msgstr "พร็อกซี"
+
+msgid "Public"
+msgstr "สาธารณะ"
+
+msgid "Public Key"
+msgstr "คีย์สาธารณะ"
 
 msgid "Publishing"
 msgstr "การพิมพ์"
 
-msgid "Quarto"
-msgstr "Quarto"
+msgid "Quality"
+msgstr "คุณภาพ"
 
-msgid "Question"
-msgstr "คำถาม"
+msgid "Query"
+msgstr "ข้อคำถาม"
 
-msgid "Quit application"
-msgstr "ออกจากโปรแกรม"
+msgid "Quit"
+msgstr "ออก"
 
-msgid "R&eset"
-msgstr "&ตั้งค่าใหม่"
+msgid "RGB"
+msgstr "RGB"
 
-msgid "RA0"
-msgstr "RA0"
+msgid "Radius"
+msgstr "รัศมี"
 
-msgid "RA1"
-msgstr "RA1"
-
-msgid "RA2"
-msgstr "RA2"
-
-msgid "RAM [kB]:"
-msgstr "หน่วยความจำ [kB]:"
-
-msgid "RLE Right-to-left e_mbedding"
-msgstr "RLE Right-to-left e_mbedding"
-
-msgid "RLM _Right-to-left mark"
-msgstr "RLM _Right-to-left mark"
-
-msgid "RLO Right-to-left o_verride"
-msgstr "RLO Right-to-left o_verride"
-
-msgid "ROC 16k"
-msgstr "ROC 16k"
-
-msgid "ROC 8k"
-msgstr "ROC 8k"
-
-msgid "R_ewind"
-msgstr "กรอ_กลับ"
+msgid "Random"
+msgstr "สุ่ม"
 
 msgid "Range"
 msgstr "ช่วง"
 
-msgid "Raster Graphics"
-msgstr "กราฟิกส์แบบแรสเตอร์"
-
 msgid "Rate"
 msgstr "อัตรา"
 
-msgid "Rate:"
-msgstr "อัตราความเร็ว:"
+msgid "Rating"
+msgstr "Rating"
 
 msgid "Ratio"
-msgstr "สัดส่วน"
+msgstr "อัตราส่วน"
 
-msgid "Re&set"
-msgstr "&ตั้งค่าใหม่"
-
-msgid "Recent"
-msgstr "ล่าสุด"
-
-msgid "Recent files"
-msgstr "เอกสารล่าสุด"
+msgid "Ready"
+msgstr "พร้อม"
 
 msgid "Recently Used"
-msgstr "เอกสารล่าสุด"
+msgstr "ใช้ล่าสุด"
 
-msgid "Rechargeable"
-msgstr "ประจุไฟได้"
+msgid "Record"
+msgstr "ระเบียน"
 
-msgid "Recommended Applications"
-msgstr "โปรแกรมแนะนำ"
+msgid "Rectangle"
+msgstr "สี่เหลี่ยม"
 
-msgid "Recommended Audio Applications"
-msgstr "โปรแกรมเสียงที่แนะนำ"
-
-msgid "Recommended Games"
-msgstr "เกมที่แนะนำ"
-
-msgid "Recommended Graphics Applications"
-msgstr "โปรแกรมกราฟิกส์ที่แนะนำ"
-
-msgid "Recommended Office Applications"
-msgstr "โปรแกรมสำนักงานที่แนะนำ"
-
-msgid "Recorders"
-msgstr "เครื่องมืออัด"
+msgid "Red"
+msgstr "แดง"
 
 msgid "Redo"
 msgstr "ทำซ้ำ"
 
-msgid "Refreshed"
-msgstr "ข้อมูลล่าสุด"
+msgid "References"
+msgstr "อ้างอิง"
 
-msgid "Registered U_ser"
-msgstr "ผู้ใ_ช้ลงทะเบียน"
+msgid "Refresh"
+msgstr "แสดงผลใหม่"
 
-msgid "Rejecting Jobs"
-msgstr "ไม่รับงานพิมพ์"
+msgid "Register"
+msgstr "สมัครสมาชิก"
 
-msgid "Related Applications"
-msgstr "โปรแกรมที่เกี่ยวข้อง"
-
-msgid "Remember _forever"
-msgstr "จำรหัสผ่านไว้_ตลอดไป"
-
-msgid "Remember password until you _logout"
-msgstr "_จำรหัสผ่านไว้จนกว่าจะออก"
-
-msgid "Remote Access"
-msgstr "การเข้าถึงระยะไกล"
-
-msgid "Removal of %{string} failed."
-msgstr "ถอดถอน %{string} ไม่สำเร็จ"
+msgid "Rejected"
+msgstr "ถูกปฏิเสธ"
 
 msgid "Remove"
-msgstr "ถอดถอน"
+msgstr "ลบออก"
 
-msgid "Remove Source"
-msgstr "ลบแหล่ง"
+msgid "Rename"
+msgstr "เปลี่ยนชื่อ"
 
-msgid "Removed"
-msgstr "ถอดถอนแล้ว"
+msgid "Repeat"
+msgstr "ซ้ำ"
 
-msgid "Removing"
-msgstr "กำลังถอดถอน"
+msgid "Replace"
+msgstr "แทนที่"
 
-msgid "Removing a source will also remove any software you have installed from it."
-msgstr "การลบแหล่งจะเป็นการลบซอฟต์แวร์ใดๆ ที่คุณได้ติดตั้งจากแหล่งนั้นด้วย"
+msgid "Replace all"
+msgstr "แทนที่ทั้งหมด"
 
-msgid "Removing…"
-msgstr "กำลังถอดถอน…"
+msgid "Replace with"
+msgstr "แทนที่ด้วย"
 
-msgid "Rename/move"
-msgstr "เปลี่ยนชื่อ/ย้าย"
+msgid "Reply"
+msgstr "ตอบ"
 
-msgid "Rename…"
-msgstr "เปลี่ยนชื่อ…"
+msgid "Reports"
+msgstr "รายงาน"
 
-msgid "Repeat new passphrase"
-msgstr "กรุณากรอกรหัสผ่านใหม่อีกครั้งหนึ่ง"
-
-msgid "Rescheduling interrupts"
-msgstr "การขัดจังหวะเพื่อเปลี่ยนแผนเวลาทำงาน"
+msgid "Reset"
+msgstr "ตั้งค่าใหม่"
 
 msgid "Resize"
 msgstr "ปรับขนาด"
@@ -4174,56 +1594,44 @@ msgstr "ปรับขนาด"
 msgid "Resolution"
 msgstr "ความละเอียด"
 
-msgid "Restart & _Install"
-msgstr "เริ่มใหม่และ_ติดตั้ง"
-
 msgid "Restore"
-msgstr "คืนขนาด"
+msgstr "คืนสภาพ"
+
+msgid "Retry"
+msgstr "ลองใหม่"
 
 msgid "Return"
 msgstr "Return"
 
-msgid "Reverse landscape"
-msgstr "แนวนอนกลับด้าน"
-
-msgid "Reverse portrait"
-msgstr "แนวตั้งกลับด้าน"
+msgid "Revert"
+msgstr "แปลงกลับ, กลับค่า, กลับเป็นตรงกันข้าม"
 
 msgid "Review"
-msgstr "บทวิจารณ์"
-
-msgid "Revision Control"
-msgstr "การควบคุมฉบับแก้ไข"
-
-msgid "Revisions"
-msgstr "การแก้ไข"
+msgstr "ติชม"
 
 msgid "Right"
-msgstr "Right"
-
-msgid "Right Padding"
-msgstr "การเติมพื้นที่ด้านขวา"
+msgstr "ขวา"
 
 msgid "Right to left"
 msgstr "ขวามาซ้าย"
 
-msgid "Right to left, bottom to top"
-msgstr "ขวามาซ้าย, ล่างขึ้นบน"
-
-msgid "Right to left, top to bottom"
-msgstr "ขวามาซ้าย, บนลงล่าง"
-
-msgid "Robotics"
-msgstr "วิทยาการหุ่นยนต์"
-
-msgid "Role Playing"
-msgstr "เล่นบท"
-
 msgid "Romanian"
 msgstr "ภาษาโรมาเนีย"
 
+msgid "Rotate"
+msgstr "หมุน"
+
 msgid "Round"
 msgstr "กลม"
+
+msgid "Row"
+msgstr "แถว"
+
+msgid "Rows"
+msgstr "แถว"
+
+msgid "Run"
+msgstr "เรียกทำงาน"
 
 msgid "Russian"
 msgstr "ภาษารัสเซีย"
@@ -4232,139 +1640,49 @@ msgid "S"
 msgstr "S"
 
 msgid "SEARCH"
-msgstr "คำค้น"
-
-msgid "SRA0"
-msgstr "SRA0"
-
-msgid "SRA1"
-msgstr "SRA1"
-
-msgid "SRA2"
-msgstr "SRA2"
+msgstr "SEARCH"
 
 msgid "SVG"
 msgstr "SVG"
 
-msgid "SVN URL"
-msgstr "SVN URL"
-
-msgid "SVN eol-style"
-msgstr "SVN eol-style"
-
-msgid "SVN mime-type"
-msgstr "SVN mime-type"
-
-msgid "SVN short URL"
-msgstr "SVN URL สั้น"
-
-msgid "S_aturation:"
-msgstr "ความส_ด:"
-
-msgid "Sample log message to test the bugtraq: regex strings.\n\nTesting mentions of issues inside a text: Mention issue #55. Mention issues #77, #78.\n\nUpdate issue #101\nFixes issue #202\nResolves issue #88.\nCloses issue #99.\n"
-msgstr "ข้อความตัวอย่างเพื่อทดสอบ bugtraq: regex strings.\n\nทดสอบกล่าวถึงปัญหาในประโยค: กล่าวถึงปัญหา #55. กล่าวถึงปัญหา #77, #78.\n\nปัญหาที่ปรับปรุง #101\nปัญหาที่แก้ไข #202\nปัญหาที่กลับสู่ปกติ #88.\nปัญหาที่ปิด #99.\n"
-
-msgid "Sample text:"
-msgstr "ประโยคตัวอย่าง:"
-
-msgid "Sans 12"
-msgstr "Sans 12"
+msgid "Sample"
+msgstr "ตัวอย่าง"
 
 msgid "Saturation"
-msgstr "ความสด"
+msgstr "ความอิ่มสี"
 
-msgid "Save _As"
-msgstr "บันทึกเป็_น"
+msgid "Save"
+msgstr "บันทึก"
 
-msgid "Save in folder:"
-msgstr "บันทึกในโฟลเดอร์:"
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
 
-msgid "Save to clipboard"
-msgstr "บันทึกลงคลิปบอร์ด"
+msgid "Scale"
+msgstr "มาตราส่วน"
 
-msgid "Saved Data"
-msgstr "ข้อมูลที่บันทึก"
+msgid "Scaling Factor"
+msgstr "สัดส่วนการปรับมาตรา"
 
-msgid "Sc_ale:"
-msgstr "อัตรา_ขยาย:"
+msgid "Scan"
+msgstr "สแกน"
 
-msgid "Scanning"
-msgstr "การสแกน"
+msgid "Scope"
+msgstr "ขอบข่าย"
 
-msgid "Scarlet Red"
-msgstr "แดงกำมะหยี่"
+msgid "Script"
+msgstr "ชุดคำสั่ง"
 
-msgid "Science"
-msgstr "วิทยาศาสตร์"
-
-msgid "Scottish"
-msgstr "ภาษาสก็อต"
-
-msgid "ScreenSaver"
-msgstr "รักษาหน้าจอ"
-
-msgid "Screenshot"
-msgstr "ภาพหน้าจอ"
-
-msgid "Screenshot not available"
-msgstr "ไม่มีภาพหน้าจอ"
-
-msgid "Screenshot not found"
-msgstr "ไม่พบภาพหน้าจอ"
-
-msgid "Screenshot not valid"
-msgstr "ภาพหน้าจอไม่ถูกต้อง"
-
-msgid "Screenshot size not found"
-msgstr "ไม่พบขนาดภาพหน้าจอ"
-
-msgid "Scroll_Lock"
-msgstr "Scroll_Lock"
-
-msgid "Se_lection"
-msgstr "ส่วนที่เ_ลือก"
+msgid "Scrollbars"
+msgstr "แถบเลื่อน"
 
 msgid "Search"
 msgstr "ค้นหา"
 
-msgid "Search font name"
-msgstr "ค้นชื่อแบบอักษร"
-
-msgid "Search for applications"
-msgstr "ค้นหาโปรแกรม"
-
-msgid "Search page"
-msgstr "หน้าค้นหา"
-
-msgid "Search:"
-msgstr "ค้นหา:"
-
-msgid "Secondary"
-msgstr "ชุดรอง"
-
-msgid "Secondary GIcon"
-msgstr "ชุดรอง"
-
-msgid "Secondary icon name"
-msgstr "ชุดรอง"
-
-msgid "Secondary icon tooltip markup"
-msgstr "ชุดรอง"
-
-msgid "Secondary icon tooltip text"
-msgstr "ชุดรอง"
-
-msgid "Secondary pixbuf"
-msgstr "ชุดรอง"
-
-msgid "Secondary stock ID"
-msgstr "ชุดรอง"
-
-msgid "Secret"
-msgstr "ลับ"
+msgid "Section"
+msgstr "เลือก"
 
 msgid "Security"
-msgstr "การรักษาความปลอดภัย"
+msgstr "ความปลอดภัย"
 
 msgid "Select"
 msgstr "เลือก"
@@ -4372,296 +1690,125 @@ msgstr "เลือก"
 msgid "Select All"
 msgstr "เลือกทั้งหมด"
 
-msgid "Select Application"
-msgstr "เลือกโปรแกรม"
-
-msgid "Select Font"
-msgstr "เลือกแบบอักษร"
-
 msgid "Select None"
 msgstr "ไม่เลือก"
 
 msgid "Select _All"
 msgstr "เลือกทั้ง_หมด"
 
-msgid "Select a Color"
-msgstr "เลือกสี"
+msgid "Selection"
+msgstr "สิ่งที่เลือก"
 
-msgid "Select a File"
-msgstr "เลือกแฟ้ม"
+msgid "Send"
+msgstr "ส่ง"
 
-msgid "Select a filename"
-msgstr "เลือกชื่อแฟ้ม"
-
-msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
-msgstr "เลือกสี่ที่ต้องการจากวงแหวน แล้วเลือกความมืดหรือสว่างจากสามเหลี่ยม"
-
-msgid "Select this device at startup"
-msgstr "เลือกอุปกรณ์นี้เมื่อเริ่มโปรแกรม"
-
-msgid "Select which type of documents are shown"
-msgstr "เลือกชนิดของแฟ้มที่จะแสดง"
-
-msgid "Select which types of files are shown"
-msgstr "เลือกชนิดของแฟ้มที่จะแสดง"
-
-msgid "Selected add-ons will be installed with the application."
-msgstr "ส่วนเสริมที่เลือกจะถูกติดตั้งพร้อมกับโปรแกรม"
-
-msgid "Selects the color"
-msgstr "เลือกสี"
-
-msgid "Send Coins"
-msgstr "ส่งเหรียญ"
-
-msgid "Sending data"
-msgstr "กำลังส่งข้อมูล"
-
-msgid "Sensitive"
-msgstr "มีการตอบสนอง"
-
-msgid "Sent transaction"
-msgstr "รายการที่ส่ง"
-
-msgid "Sequencers"
-msgstr "เครื่องเรียบเรียงดนตรี"
-
-msgid "Serial ATA"
-msgstr "Serial ATA"
-
-msgid "Serial number"
-msgstr "เลขลำดับผลิตภัณฑ์"
-
-msgid "Serialized data is malformed"
-msgstr "ข้อมูลที่ serialize มา มีรูปแบบไม่ถูกต้อง"
-
-msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
-msgstr "ข้อมูลที่ serialize มา มีรูปแบบไม่ถูกต้อง เนื้อหาส่วนแรกไม่ได้เป็น GTKTEXTBUFFERCONTENTS-0001"
+msgid "Separator"
+msgstr "ตัวแบ่งคอลัมน์"
 
 msgid "Services"
 msgstr "บริการ"
 
-msgid "Setting up updates…"
-msgstr "กำลังตั้งค่ารายการปรับรุ่น…"
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+msgid "Setup"
+msgstr "ตั้งค่า"
+
+msgid "Shape"
+msgstr "Shape"
+
+msgid "Sharpen"
+msgstr "คมชัด"
+
+msgid "Shell"
+msgstr "เชล"
 
 msgid "Shift"
-msgstr "Shift"
+msgstr "เลื่อน"
 
-msgid "Shooter"
-msgstr "ยิง"
-
-msgid "Short Edge (Flip)"
-msgstr "ขอบด้านสั้น (พลิก)"
-
-msgid "Short label"
-msgstr "ฉลากแบบสั้น"
-
-msgid "Show &All"
-msgstr "แสดง&ทั้งหมด"
-
-msgid "Show &Log"
-msgstr "แสดง&บันทึกเหตุการณ์"
-
-msgid "Show &changes"
-msgstr "แสดงสิ่งที่เ&ปลี่ยนแปลง"
-
-msgid "Show &log"
-msgstr "แสดง&บันทึกเหตุการณ์"
-
-msgid "Show &log..."
-msgstr "แสดง&บันทึกเหตุการณ์..."
+msgid "Show"
+msgstr "แสดง"
 
 msgid "Show All"
 msgstr "แสดงทั้งหมด"
 
-msgid "Show Details"
-msgstr "แสดงรายละเอียด"
-
-msgid "Show GTK+ Options"
-msgstr "แสดงตัวเลือกของ GTK+"
-
-msgid "Show More Buttons"
-msgstr "แสดงปุ่มเพิ่มเติม"
-
-msgid "Show Ove&rview"
-msgstr "แสดง&ภาพรวม"
-
-msgid "Show _Hidden Files"
-msgstr "แสดงแฟ้มซ่อ_น"
-
-msgid "Show _Private Resources"
-msgstr "แสดงทรัพยากร_ส่วนบุคคล"
-
-msgid "Show _Size Column"
-msgstr "แสดงคอลัมน์_ขนาด"
-
-msgid "Show application details"
-msgstr "แสดงรายละเอียดของโปรแกรม"
-
-msgid "Show data points"
-msgstr "แสดงจุดข้อมูล"
-
-msgid "Show extra debugging information"
-msgstr "แสดงข้อมูลดีบั๊กเพิ่มเติม"
-
-msgid "Show general overview of wallet"
-msgstr "แสดงภาพรวมทั่วไปของกระเป๋าเงิน"
-
-msgid "Show profiling information for the service"
-msgstr "แสดงข้อมูลการวัดประสิทธิภาพของบริการ"
-
-msgid "Show verbose debugging information"
-msgstr "แสดงข้อมูลดีบั๊กโดยละเอียด"
-
-msgid "Shows information about TortoiseSVN"
-msgstr "แสดงข้อมูลเกี่ยวกับ TortoiseSVN"
-
-msgid "Si_ze:"
-msgstr "_ขนาด:"
-
-msgid "Sidebar image"
-msgstr "ภาพที่แถบข้าง"
-
-msgid "Sidebar image for the assistant page"
-msgstr "ภาพที่แถบข้างของหน้าเครื่องมือช่วย"
-
 msgid "Simple"
 msgstr "ปกติ"
-
-msgid "Simulation"
-msgstr "จำลอง"
-
-msgid "Six days ago"
-msgstr "หกวันก่อน"
 
 msgid "Size"
 msgstr "ขนาด"
 
-msgid "Size and status"
-msgstr "ขนาดและสถานะ"
-
-msgid "Size of the palette in 8 bit mode"
-msgstr "ขนาดของจานสีในโหมด 8 บิต"
-
-msgid "Skipped"
+msgid "Skip"
 msgstr "ข้าม"
-
-msgid "Skipped missing target"
-msgstr "ข้ามเป้าหมายที่สาบสูญ"
-
-msgid "Sky Blue"
-msgstr "น้ำเงิน"
-
-msgid "Sleep"
-msgstr "หลับ"
 
 msgid "Slovak"
 msgstr "ภาษาสโลวาเกีย"
 
-msgid "Small Photo"
-msgstr "Small Photo"
+msgid "Small"
+msgstr "เล็ก"
 
-msgid "Software"
-msgstr "ซอฟต์แวร์"
+msgid "Smart"
+msgstr "สมาร์ท"
 
-msgid "Software Install"
-msgstr "ติดตั้งซอฟต์แวร์"
+msgid "Smooth"
+msgstr "เรียบ"
 
-msgid "Software Source Identified"
-msgstr "แหล่งซอฟต์แวร์ที่ระบุที่มา"
-
-msgid "Software Source Included"
-msgstr "มีแหล่งซอฟต์แวร์"
-
-msgid "Software Sources"
-msgstr "แหล่งซอฟต์แวร์"
-
-msgid "Software Update Installed"
-msgstr "ติดตั้งรายการปรับรุ่นซอฟต์แวร์แล้ว"
-
-msgid "Software Updates Available"
-msgstr "มีรายการปรับรุ่นซอฟต์แวร์"
-
-msgid "Software Updates Failed"
-msgstr "ปรับรุ่นซอฟต์แวร์ไม่สำเร็จ"
-
-msgid "Software allows you to find and install new applications and system extensions and remove existing installed applications."
-msgstr "\"ซอฟต์แวร์\" ช่วยคุณหาและติดตั้งโปรแกรมและส่วนขยายของระบบเพิ่มเติม และถอดถอนโปรแกรมที่ติดตั้งแล้ว"
-
-msgid "Software is up to date"
-msgstr "ซอฟต์แวร์เป็นรุ่นล่าสุดแล้ว"
-
-msgid "Software lets you install all the software you need, all from one place. See our recommendations, browse the categories, or search for the applications you want."
-msgstr "\"ซอฟต์แวร์\" ช่วยคุณติดตั้งซอฟต์แวร์ใดๆ ที่คุณต้องการได้โดยสั่งจากที่นี่ที่เดียว คุณสามารถดูซอฟต์แวร์แนะนำ ท่องดูหมวดต่างๆ หรือค้นหาโปรแกรมที่คุณต้องการได้"
-
-msgid "Software sources give you access to additional software."
-msgstr "แหล่งซอฟต์แวร์จะเปิดให้คุณเข้าถึงซอฟต์แวร์เพิ่มเติมได้"
-
-msgid "Some of the settings in the dialog conflict"
-msgstr "ค่าตั้งบางค่าในกล่องโต้ตอบขัดแย้งกัน"
-
-msgid "Sorry, I can't understand what you are asking about."
-msgstr "ขออภัย ฉันไม่สามารถเข้าใจสิ่งที่คุณถาม"
-
-msgid "Sorry, there is no free memory to load my brain. Close other activities and try once more."
-msgstr "ขออภัย ไม่มีที่ความจำว่าง ปิดกิจกรรมอื่นและลองอีกครั้ง"
-
-msgid "Sorry, this did not work"
-msgstr "ขออภัย ทำงานล้มเหลว"
+msgid "Sort"
+msgstr "เรียง"
 
 msgid "Source"
-msgstr "แหล่ง"
+msgstr "แหล่งที่มา"
 
-msgid "Source Details"
-msgstr "รายละเอียดแหล่ง"
+msgid "Source Text"
+msgstr "ข้อความต้นฉบับ"
 
-msgid "Source Left:"
-msgstr "แหล่งข้อมูลซ้าย:"
-
-msgid "Source Right:"
-msgstr "แหล่งข้อมูลขวา:"
-
-msgid "Source URL:"
-msgstr "URL แหล่งข้อมูล:"
+msgid "Source code"
+msgstr "Source code"
 
 msgid "Space"
-msgstr "Space"
+msgstr "อวกาศ"
 
 msgid "Spacing"
-msgstr "ช่องว่าง"
+msgstr "ระยะห่าง"
 
 msgid "Spanish"
 msgstr "ภาษาสเปน"
 
-msgid "Speak"
-msgstr "อ่านออกเสียง"
+msgid "Special Characters"
+msgstr "(ตัวอักษรพิเศษ)"
 
-msgid "Specify one or more page ranges,\n e.g. 1-3,7,11"
-msgstr "ระบุช่วงของหน้าตั้งแต่หนึ่งช่วงขึ้นไป\n เช่น 1-3,7,11"
+msgid "Special character"
+msgstr "Special character"
 
-msgid "Specify the time of print,\n e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
-msgstr "ระบุเวลาที่จะพิมพ์\n เช่น 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgid "Speed"
+msgstr "ความเร็ว:"
 
-msgid "Spinner"
-msgstr "ไอคอนหมุน"
+msgid "Spellcheck"
+msgstr "ตรวจตัวสะกด"
 
-msgid "Spirituality"
-msgstr "จิตวิญญาณ"
-
-msgid "Sports"
-msgstr "กีฬา"
+msgid "Split"
+msgstr "แยก"
 
 msgid "Spreadsheet"
 msgstr "ตารางคำนวณ"
 
+msgid "Square"
+msgstr "สี่เหลี่ยมจัตุรัส"
+
 msgid "Standard"
 msgstr "มาตรฐาน"
 
-msgid "Start up mode: either ‘updates’, ‘updated’, ‘installed’ or ‘overview’"
-msgstr "โหมดเริ่มทำงาน: เป็นค่า ‘updates’ (รายการปรับรุ่น), ‘updated’ (รายการปรับรุ่นแล้ว), ‘installed’ (รายการติดตั้งแล้ว) หรือ ‘overview’ (ภาพรวม) อย่างใดอย่างหนึ่ง"
+msgid "Standard deviation"
+msgstr "ส่วนเบี่ยงเบนมาตรฐาน"
+
+msgid "Start"
+msgstr "เริ่มต้น"
+
+msgid "Start Date"
+msgstr "วันที่เริ่มต้น"
 
 msgid "State"
-msgstr "สถานะ"
+msgstr "รัฐ"
 
 msgid "Statistics"
 msgstr "สถิติ"
@@ -4669,44 +1816,44 @@ msgstr "สถิติ"
 msgid "Status"
 msgstr "สถานะ"
 
-msgid "Step Increment"
-msgstr "ค่าที่เพิ่มทีละขั้น"
-
-msgid "Stock Icon"
-msgstr "ไอคอนสำเร็จรูป"
-
 msgid "Stop"
 msgstr "หยุด"
 
-msgid "Strategy"
-msgstr "แผนการ"
+msgid "Strikethrough"
+msgstr "ขีดเส้นทับข้อความ"
 
-msgid "Subversion"
-msgstr "Subversion"
+msgid "String"
+msgstr "สายอักขระ"
 
-msgid "Subversion configuration &file:"
-msgstr "ไ&ฟล์ตั้งค่า Subversion:"
+msgid "Style"
+msgstr "ลักษณะ"
 
-msgid "Subversion reported an error while creating a repository!\nMake sure the folder is empty and not write protected."
-msgstr "Subversion รายงานข้อผิดพลาดในการสร้างคลัง!\nโปรดตรวจสอบว่าโฟลเดอร์ว่างเปล่าและไม่มีการป้องกันการเขียน"
+msgid "Subject"
+msgstr "เรื่อง"
 
-msgid "Subversion server file:"
-msgstr "ไฟล์เซิฟเวอร์ Subversion:"
+msgid "Submit"
+msgstr "ส่ง"
 
-msgid "Super"
-msgstr "Super"
+msgid "Subscript"
+msgstr "ตัวห้อย"
 
-msgid "Super A"
-msgstr "ซูเปอร์ A"
+msgid "Suffix"
+msgstr "ส่วนต่อท้าย"
 
-msgid "Super B"
-msgstr "ซูเปอร์ B"
+msgid "Summary"
+msgstr "ผลรวม"
 
-msgid "Supply"
-msgstr "จ่ายพลังงาน"
+msgid "Sun"
+msgstr "ดวงอาทิตย์"
+
+msgid "Superscript"
+msgstr "ตัวยก"
+
+msgid "Support"
+msgstr "บริการช่วยเหลือ"
 
 msgid "Suspend"
-msgstr "พักเครื่อง"
+msgstr "หยุดชั่วคราว, หยุดทำงานชั่วคราว"
 
 msgid "Swahili"
 msgstr "ภาษาสวาฮีลี"
@@ -4714,398 +1861,62 @@ msgstr "ภาษาสวาฮีลี"
 msgid "Swedish"
 msgstr "ภาษาสวีเดน"
 
-msgid "Switch To Branch / Tag"
-msgstr "เปลี่ยนเป็น Branch / Tag"
-
-msgid "Switch back to parent"
-msgstr "เปลี่ยนกลับไปยังต้นกำเนิด"
-
-msgid "Switched"
-msgstr "เปลี่ยนเรียบร้อย"
-
-msgid "Synchronizing with network..."
-msgstr "กำลังทำข้อมูลให้ตรงกันกับเครือข่าย ..."
-
-msgid "Sys_Req"
-msgstr "Sys_Req"
+msgid "Synchronize"
+msgstr "ประสานเวลา"
 
 msgid "System"
 msgstr "ระบบ"
 
-msgid "System (%{string})"
-msgstr "ระบบ (%{string})"
-
-msgid "System Applications"
-msgstr "โปรแกรมระบบ"
-
-msgid "System policy prevents changes.\nContact your system administrator"
-msgstr "นโยบายของระบบได้ป้องกันการเปลี่ยนแปลงไว้\nกรุณาติดต่อผู้ดูแลระบบของคุณ"
-
-msgid "TV"
-msgstr "โทรทัศน์"
-
-msgid "T_wo-sided:"
-msgstr "พิมพ์_สองหน้า:"
-
 msgid "Tab"
-msgstr "Tab"
+msgstr "ระยะกั้น"
 
-msgid "Tablet"
-msgstr "แท็บเบล็ต"
+msgid "Table"
+msgstr "ตาราง"
 
-msgid "Tabloid"
-msgstr "จุลสาร"
+msgid "Table properties"
+msgstr "คุณสมบัติตาราง"
 
-msgid "Tabs toolbar"
-msgstr "แถบเครื่องมือ"
+msgid "Target"
+msgstr "เป้าหมาย"
 
-msgid "Tag \"%{string}\" already defined"
-msgstr "แท็ก \"%{string}\" ถูกกำหนดไว้แล้ว"
+msgid "Templates"
+msgstr "แม่แบบ"
 
-msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
-msgstr "ไม่มีแท็ก \"%{string}\" ในบัฟเฟอร์ และไม่สามารถสร้างแท็กได้"
+msgid "Terms of Service"
+msgstr "เงื่อนไขการให้บริการ"
 
-msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
-msgstr "แท็ก \"%{string}\" มีลำดับความสำคัญเป็น \"%{string}\" ซึ่งไม่ใช่ค่าที่ใช้ได้"
+msgid "Test"
+msgstr "ทดสอบ"
 
-msgid "Tag \"%{string}\" has not been defined."
-msgstr "แท็ก \"%{string}\" ยังไม่ได้กำหนดไว้"
-
-msgid "Technology"
-msgstr "เทคโนโลยี"
-
-msgid "Telephony"
-msgstr "ระบบโทรศัพท์"
-
-msgid "Telephony Tools"
-msgstr "เครื่องมือระบบโทรศัพท์"
-
-msgid "Terminal Emulator"
-msgstr "เทอร์มินัลเทียม"
-
-msgid "Terminal Pager"
-msgstr "โปรแกรมแบ่งแสดงหน้าข้อมูลบนเทอร์มินัล"
-
-msgid "Test Only"
-msgstr "เพื่อการทดสอบเท่านั้น"
-
-msgid "Test the regex strings"
-msgstr "ทดสอบ regex strings"
+msgid "Text"
+msgstr "ข้อความ"
 
 msgid "Text Editor"
 msgstr "เครื่องมือแก้ไขข้อความ"
 
-msgid "Text Status:"
-msgstr "ข้อความสถานะ:"
-
-msgid "Text status"
-msgstr "ข้อความสถานะ"
-
-msgid "Thai-Lao"
-msgstr "ไทย-ลาว"
-
-msgid "The GtkActionGroup this GtkAction is associated with, or NULL (for internal use)."
-msgstr "GtkActionGroup ที่อ็อบเจกต์ GtkAction นี้เชื่อมโยงอยู่ หรือเป็นค่า NULL (สำหรับใช้เป็นการภายใน)"
-
-msgid "The ID of the last device selected"
-msgstr "ID ของอุปกรณ์ล่าสุดที่ถูกเลือก"
-
-msgid "The MIT License (MIT)"
-msgstr "สัญญาอนุญาต MIT"
-
-msgid "The URL for the link to the website of the program"
-msgstr "URL สำหรับลิงก์ไปยังเว็บไซต์ของโปรแกรม"
-
 msgid "The amount of space between children"
 msgstr "จำนวนช่องว่างระหว่างรายการลูก"
 
-msgid "The color you've chosen."
-msgstr "สีที่คุณเลือก"
+msgid "Theme"
+msgstr "ชุดรูปแบบ, ธีม"
 
-msgid "The color you've chosen. You can drag this color to a palette entry to save it for use in the future."
-msgstr "สีที่เลือกอยู่ คุณสามารถลากสีนี้ไปเก็บใว้ในจานสีเพื่อใช้ในอนาคต"
+msgid "Time format"
+msgstr "รูปแบบเวลา"
 
-msgid "The contents of the buffer"
-msgstr "คำแนะนำเครื่องมือสำหรับการกระทำนี้"
+msgid "Timeout"
+msgstr "หมดเวลา"
 
-msgid "The contents of the tooltip for this tray icon"
-msgstr "คำแนะนำเครื่องมือสำหรับการกระทำนี้"
+msgid "Tiny"
+msgstr "Tiny"
 
-msgid "The contents of the tooltip on the primary icon"
-msgstr "คำแนะนำเครื่องมือสำหรับการกระทำนี้"
-
-msgid "The contents of the tooltip on the secondary icon"
-msgstr "คำแนะนำเครื่องมือสำหรับการกระทำนี้"
-
-msgid "The cover is open on printer '%{string}'."
-msgstr "ฝาเครื่องเปิดอยู่ที่เครื่องพิมพ์ '%{string}'"
-
-msgid "The current color"
-msgstr "สีปัจจุบัน"
-
-msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
-msgstr "ความทึบแสงปัจจุบัน (0 ใส, 65535 ทึบ)"
-
-msgid "The default graph type to show for history"
-msgstr "ชนิดปริยายของกราฟที่จะใช้แสดงประวัติ"
-
-msgid "The default graph type to show for stats"
-msgstr "ชนิดปริยายของกราฟที่จะใช้แสดงสถิติ"
-
-msgid "The default graph type to show in the history window."
-msgstr "ชนิดปริยายของกราฟที่จะแสดงในหน้าต่างประวัติ"
-
-msgid "The default graph type to show in the stats window."
-msgstr "ชนิดปริยายของกราฟที่จะแสดงในหน้าต่างสถิติ"
-
-msgid "The direction the arrow should point"
-msgstr "ทิศทางการชี้ของลูกศร"
-
-msgid "The door is open on printer '%{string}'."
-msgstr "ประตูเปิดอยู่ที่เครื่องพิมพ์ '%{string}'"
-
-msgid "The entered address "%{argument}" is already in the address book."
-msgstr "ป้อนที่อยู่ "%{argument}" ที่มีอยู่แล้วในสมุดที่อยู่"
-
-msgid "The file already exists in “%{string}”.  Replacing it will overwrite its contents."
-msgstr "มีแฟ้มดังกล่าวอยู่แล้วใน “%{string}” หากสั่งแทนที่ก็จะเขียนทับเนื้อหาแฟ้มเดิม"
-
-msgid "The file is too big"
-msgstr "ไฟล์นี้ใหญ่เกินไป"
-
-msgid "The file is too large to open."
-msgstr "ไฟล์นี้ใหญ่เกินกว่าที่จะเปิดได้"
-
-msgid "The folder contents could not be displayed"
-msgstr "ไม่สามารถแสดงเนื้อหาของโฟลเดอร์ได้"
-
-msgid "The folder could not be created"
-msgstr "ไม่สามารถสร้างโฟลเดอร์ได้"
-
-msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
-msgstr "ไม่สามารถสร้างโฟลเดอร์ที่กำหนดได้ เนื่องจากมีแฟ้มชื่อซ้ำกันอยู่ก่อนแล้ว กรุณาลองใช้ชื่ออื่นตั้งชื่อโฟลเดอร์ หรือมิฉะนั้นก็เปลี่ยนชื่อแฟ้มดังกล่าวเสียก่อน"
-
-msgid "The generated cache was invalid.\n"
-msgstr "แคชที่สร้างใช้การไม่ได้\n"
-
-msgid "The human-readable title of this item group"
-msgstr "หัวเรื่องของหน้าเครื่องมือช่วย"
-
-msgid "The identifier of the last device which is used to return focus to the correct device."
-msgstr "ID ของอุปกรณ์ล่าสุดที่ใช้ในการคืนโฟกัสให้กับอุปกรณ์ที่ถูกต้อง"
-
-msgid "The image can not be shown."
-msgstr "ไม่สามารถแสดงรูปนี้ได้"
-
-msgid "The index of the child in the parent"
-msgstr "เลขดัชนีของอ็อบเจกต์ลูกภายในอ็อบเจกต์แม่"
-
-msgid "The index of the page number to show by default"
-msgstr "ดัชนีของเลขหน้าที่จะแสดงโดยปริยาย"
-
-msgid "The index of the page number to show by default which is used to return focus to the correct page."
-msgstr "ดัชนีของเลขหน้าที่จะแสดงโดยปริยาย ซึ่งใช้ในการคืนโฟกัสให้กับหน้าที่ถูกต้อง"
-
-msgid "The item that you selected is not a folder try using a different item."
-msgstr "รายการที่คุณเลือกไม่ใช่โฟลเดอร์ กรุณาเลือกรายการใหม่"
-
-msgid "The label for the link to the website of the program. If this is not set, it defaults to the URL"
-msgstr "ฉลากสำหรับลิงก์ไปยังเว็บไซต์ของโปรแกรม ถ้าไม่กำหนด จะใช้ URL โดยปริยาย"
-
-msgid "The label used for menu items and buttons that activate this action."
-msgstr "ฉลากสำหรับรายการเมนูและปุ่มที่เรียกใช้การกระทำนี้"
-
-msgid "The license of the program"
-msgstr "สัญญาอนุญาตใช้งานของโปรแกรม"
-
-msgid "The license type of the program"
-msgstr "รุ่นของโปรแกรม"
-
-msgid "The maximum duration of time displayed on the x-axis of the history graph."
-msgstr "ค่าช่วงเวลาสูงสุดที่แสดงในแกนนอนของกราฟประวัติ"
-
-msgid "The maximum time displayed for history"
-msgstr "เวลาสูงสุดที่แสดงในประวัติ"
-
-msgid "The maximum value of the adjustment"
-msgstr "ค่าสูงสุดของอ็อบเจกต์ปรับค่า"
-
-msgid "The maximum width of the cell, in characters"
-msgstr "เลขดัชนีของอ็อบเจกต์ลูกภายในอ็อบเจกต์แม่"
-
-msgid "The minimum value of the adjustment"
-msgstr "ค่าต่ำสุดของอ็อบเจกต์ปรับค่า"
-
-msgid "The most probable reason is that a temporary file could not be created."
-msgstr "สาเหตุที่น่าจะเป็นไปได้มากที่สุด คือไม่สามารถสร้างแฟ้มชั่วคราวได้"
-
-msgid "The name of the icon from the icon theme"
-msgstr "ชื่อของไอคอนจากชุดตกแต่งไอคอน"
-
-msgid "The name of the program. If this is not set, it defaults to g_get_application_name()"
-msgstr "ชื่อของโปรแกรม ถ้าไม่กำหนด จะใช้ผลจาก g_get_application_name() โดยปริยาย"
-
-msgid "The name of the selected font"
-msgstr "ชื่อของแบบอักษรที่เลือก"
-
-msgid "The orientation of the orientable"
-msgstr "รุ่นของโปรแกรม"
-
-msgid "The padding to insert at the bottom of the widget."
-msgstr "พื้นที่ที่จะแทรกที่ด้านล่างของวิดเจ็ต"
-
-msgid "The padding to insert at the left of the widget."
-msgstr "พื้นที่ที่จะแทรกที่ด้านซ้ายของวิดเจ็ต"
-
-msgid "The padding to insert at the right of the widget."
-msgstr "พื้นที่ที่จะแทรกที่ด้านขวาของวิดเจ็ต"
-
-msgid "The padding to insert at the top of the widget."
-msgstr "พื้นที่ที่จะแทรกที่ด้านบนของวิดเจ็ต"
-
-msgid "The page increment of the adjustment"
-msgstr "ค่าที่เพิ่มทีละหน้าของอ็อบเจกต์ปรับค่า"
-
-msgid "The page size of the adjustment"
-msgstr "ขนาดของหน้าของอ็อบเจกต์ปรับค่า"
-
-msgid "The passphrase entered for the wallet decryption was incorrect."
-msgstr "ป้อนรหัสผ่านสำหรับการถอดรหัสกระเป๋าเงินไม่ถูกต้อง"
-
-msgid "The previously-selected color, for comparison to the color you're selecting now."
-msgstr "สีที่เลือกไว้ก่อนหน้านี้ เพื่อเปรียบเทียบกับสีที่คุณกำลังเลือกอยู่"
-
-msgid "The previously-selected color, for comparison to the color you're selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
-msgstr "สีเก่าที่เลือกไว้ แสดงไว้เพื่อเทียบกับสีที่จะเลือกใหม่  คุณสามารถลากสีนี้ไปใช้ในจานสีได้ หรือเลือกสีนี้เป็นสีปัจจุบันโดยลากไปยังแถบสีข้างๆ นี้ก็ได้"
-
-msgid "The program was not able to create a connection to the indexer daemon.  Please make sure it is running."
-msgstr "โปรแกรมไม่สามารถเชื่อมต่อไปยังดีมอนผู้ทำดัชนีได้ กรุณาตรวจสอบให้แน่ใจว่าดีมอนทำงานอยู่"
-
-msgid "The selected day (as a number between 1 and 31, or 0 to unselect the currently selected day)"
-msgstr "วันที่เลือก (เป็นเลขระหว่าง 1 และ 31 ตั้งเป็น 0 จะยกเลิกวันที่เลือกไว้)"
-
-msgid "The selected month (as a number between 0 and 11)"
-msgstr "เดือนที่เลือก (เป็นเลขระหว่าง 0 และ 11)"
-
-msgid "The selected year"
-msgstr "ปีที่เลือก"
-
-msgid "The step increment of the adjustment"
-msgstr "ค่าที่เพิ่มทีละขั้นของอ็อบเจกต์ปรับค่า"
-
-msgid "The stock icon displayed in widgets representing this action."
-msgstr "ไอคอนสำเร็จรูปที่แสดงบนวิดเจ็ตที่แทนการกระทำนี้"
-
-msgid "The supplied passphrases do not match."
-msgstr "รหัสผ่านที่คุณกรอกไม่ตรงกัน"
-
-msgid "The system was already up to date."
-msgstr "ระบบเป็นรุ่นใหม่ล่าสุดแล้ว"
-
-msgid "The target has local modifications"
-msgstr "เป้าหมายดังกล่าวมีการแก้ไขภายในเครื่อง"
-
-msgid "The text for the child label"
-msgstr "เลขดัชนีของอ็อบเจกต์ลูกภายในอ็อบเจกต์แม่"
-
-msgid "The title of the assistant page"
-msgstr "หัวเรื่องของหน้าเครื่องมือช่วย"
-
-msgid "The title of this tray icon"
-msgstr "หัวเรื่องของหน้าเครื่องมือช่วย"
-
-msgid "The translation domain used by gettext"
-msgstr "โดเมนคำแปลที่ gettext ใช้"
-
-msgid "The type of the assistant page"
-msgstr "ชนิดของหน้าเครื่องมือช่วย"
-
-msgid "The update couldn’t be installed; this is often a problem with the update itself. Please wait for another update and try again."
-msgstr "แพกเกจปรับรุ่นไม่สามารถติดตั้งได้ ซึ่งมักจะเกิดจากปัญหาของตัวแพกเกจปรับรุ่นเอง กรุณารอการปรับรุ่นครั้งถัดไปแล้วลองใหม่"
-
-msgid "The update was cancelled."
-msgstr "การปรับรุ่นถูกยกเลิก"
-
-msgid "The value of the adjustment"
-msgstr "ค่าของอ็อบเจกต์ปรับค่า"
-
-msgid "The version of the program"
-msgstr "รุ่นของโปรแกรม"
-
-msgid "There is a problem on printer '%{string}'."
-msgstr "มีปัญหากับเครื่องพิมพ์ '%{string}'"
-
-msgid "There is no data to display."
-msgstr "ไม่มีข้อมูลจะแสดง"
-
-msgid "There wasn’t enough disk space. Please free up some space and try again."
-msgstr "เนื้อที่ว่างในดิสก์ไม่เพียงพอ กรุณาคืนเนื้อที่ว่างแล้วลองใหม่"
-
-msgid "There were security issues with the update. Please consult your software provider for more details."
-msgstr "มีปัญหาด้านความปลอดภัยในแพกเกจปรับรุ่น กรุณาสอบถามรายละเอียดเพิ่มเติมจากผู้ให้บริการซอฟต์แวร์ของคุณ"
-
-msgid "This application can only be used when there is an active internet connection."
-msgstr "โปรแกรมนี้สามารถใช้งานได้เมื่อมีการเชื่อมต่ออินเทอร์เน็ตเท่านั้น"
-
-msgid "This application does not include a software source. It will not be updated with new versions."
-msgstr "โปรแกรมนี้ไม่มีแหล่งซอฟต์แวร์ จะไม่มีการปรับรุ่นเป็นรุ่นใหม่"
-
-msgid "This application includes a software source which provides updates, as well as access to other software."
-msgstr "โปรแกรมนี้มีแหล่งซอฟต์แวร์ ซึ่งมีการจัดเตรียมรายการปรับรุ่น และสามารถเข้าถึงซอฟต์แวร์อื่นๆ ได้"
-
-msgid "This operation needs your wallet passphrase to decrypt the wallet."
-msgstr "การดำเนินการนี้ต้องมีรหัสผ่านกระเป๋าเงินของคุณในการถอดรหัสกระเป๋าเงิน"
-
-msgid "This operation needs your wallet passphrase to unlock the wallet."
-msgstr "การดำเนินการนี้ต้องมีรหัสผ่านกระเป๋าเงินของคุณเพื่อปลดล็อคกระเป๋าเงิน"
-
-msgid "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)"
-msgstr "ผลิตภัณฑ์นี้บรรจุซอร์ฟแวร์ซึ่งพัฒนาโดย OpenSSL Project สำหรับ OpenSSL Toolkit (http://www.openssl.org/)"
-
-msgid "This software is already provided by your distribution and should not be replaced."
-msgstr "ซอฟต์แวร์นี้จัดเตรียมโดยชุดจัดแจกของคุณอยู่แล้ว และไม่ควรแทนที่"
-
-msgid "This software source must be enabled to continue installation."
-msgstr "แหล่งซอฟต์แวร์นี้ต้องเปิดใช้ก่อนที่จะติดตั้งต่อไป"
-
-msgid "Three Stars"
-msgstr "สามดาว"
-
-msgid "Three days ago"
-msgstr "สามวันก่อน"
-
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "Tigrigna-Eritrean (EZ+)"
-
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "Tigrigna-Ethiopian (EZ+)"
-
-msgid "Time elapsed"
-msgstr "เวลาที่ผ่านไป"
-
-msgid "Time of print"
-msgstr "เวลาที่จะพิมพ์"
-
-msgid "Time to empty"
-msgstr "เวลาที่จะหมด"
-
-msgid "Time to full"
-msgstr "เวลาที่จะเต็ม"
-
-msgid "Timeouts"
-msgstr "เวลารอ"
+msgid "Title"
+msgstr "หัวข้อ"
 
 msgid "Today"
 msgstr "วันนี้"
 
 msgid "Toggle"
-msgstr "สลับค่า"
-
-msgid "Toggles the cell"
-msgstr "สลับค่าของเซลล์"
-
-msgid "Toggles the switch"
-msgstr "สลับสวิตช์"
+msgstr "สลับ"
 
 msgid "Toolbar"
 msgstr "แถบเครื่องมือ"
@@ -5113,236 +1924,80 @@ msgstr "แถบเครื่องมือ"
 msgid "Toolbar Name"
 msgstr "ชื่อแถบเครื่องมือ"
 
-msgid "Toolbar Options"
-msgstr "ตัวเลือกแถบเครื่องมือ"
-
-msgid "Toolbar internal error. Please contact your application vendor."
-msgstr "แถบเครื่องมือทำงานผิดพลาด โปรดติดต่อผู้ผลิต"
-
 msgid "Toolbars"
 msgstr "แถบเครื่องมือ"
+
+msgid "Toolbox"
+msgstr "กล่องเครื่องมือ"
 
 msgid "Tools"
 msgstr "เครื่องมือ"
 
-msgid "Tools:"
-msgstr "เครื่องมือ:"
-
-msgid "Tooltip"
-msgstr "คำแนะนำเครื่องมือ"
-
-msgid "Top Command"
-msgstr "คำสั่ง Top"
-
-msgid "Top Padding"
-msgstr "การเติมพื้นที่ด้านบน"
-
-msgid "Top Secret"
-msgstr "ลับสุดยอด"
+msgid "Top"
+msgstr "บน"
 
 msgid "Top to bottom"
 msgstr "บนลงล่าง"
 
-msgid "Top to bottom, left to right"
-msgstr "บนลงล่าง, ซ้ายไปขวา"
+msgid "Total"
+msgstr "ยอดรวม"
 
-msgid "Top to bottom, right to left"
-msgstr "บนลงล่าง, ขวามาซ้าย"
+msgid "Tr_ansparency"
+msgstr "ความโปร่งแสง"
 
-msgid "TortoiseBlame"
-msgstr "TortoiseBlame"
+msgid "Transform"
+msgstr "แปลง"
 
-msgid "TortoiseIDiff"
-msgstr "TortoiseIDiff"
+msgid "Transformation"
+msgstr "การแปลง"
 
-msgid "TortoiseIDiff - An image diff tool, part of TortoiseSVN"
-msgstr "TortoiseIDiff - เครื่องมือในการเปรียบเทียบรูป, เป็นส่วนหนึ่งของ TortoiseSVN"
-
-msgid "TortoiseMerge"
-msgstr "TortoiseMerge"
-
-msgid "TortoiseSVN"
-msgstr "TortoiseSVN"
-
-msgid "Total file changes:"
-msgstr "จำนวนไฟล์ที่เปลี่ยนแปลง:"
-
-msgid "TouchpadToggle"
-msgstr "เปิดปิดทัชแพด"
-
-msgid "Translated by"
-msgstr "แปลโดย"
+msgid "Translate"
+msgstr "แปล"
 
 msgid "Translation"
-msgstr "การแปล"
+msgstr "คำแปล"
 
-msgid "Translation Domain"
-msgstr "โดเมนคำแปล"
+msgid "Transparency"
+msgstr "ความโปร่งแสง"
 
-msgid "Translator credits"
-msgstr "เครดิตผู้แปล"
-
-msgid "Transparency of the color."
-msgstr "ความโปร่งแสงของสี"
-
-msgid "Transparent &color..."
-msgstr "ความโปร่งใสและสี ..."
+msgid "Transparent"
+msgstr "โปร่งใส"
 
 msgid "Trash"
 msgstr "ถังขยะ"
 
-msgid "Try using a shorter name."
-msgstr "กรุณาใช้ชื่อที่สั้นกว่านี้"
-
-msgid "Tuners"
-msgstr "เครื่องมือตั้งเสียง"
-
-msgid "Turn off verbose output"
-msgstr "ปิดข้อความละเอียด"
-
-msgid "Turns volume up or down"
-msgstr "เพิ่มหรือหรี่เสียง"
-
-msgid "Two Sided"
-msgstr "สองหน้า"
-
-msgid "Two Stars"
-msgstr "สองดาว"
-
-msgid "Two days ago"
-msgstr "สองวันก่อน"
-
-msgid "Two weeks ago"
-msgstr "สองสัปดาห์ที่แล้ว"
-
 msgid "Type"
 msgstr "ชนิด"
-
-msgid "Type a file name"
-msgstr "ป้อนชื่อแฟ้ม"
-
-msgid "Type name of new folder"
-msgstr "ป้อนชื่อของโฟลเดอร์ใหม่"
-
-msgid "Type something to hear it"
-msgstr "พิมพ์บางสิ่งที่ต้องการฟัง"
-
-msgid "UPS"
-msgstr "UPS"
 
 msgid "URL"
 msgstr "URL"
 
-msgid "URL from Chat"
-msgstr "URL จากการสนทนา"
-
-msgid "URL history"
-msgstr "URL ในอดีต"
-
-msgid "URL:"
-msgstr "URL:"
-
-msgid "US Legal"
-msgstr "US Legal"
-
-msgid "US Legal Extra"
-msgstr "US Legal พิเศษ"
-
-msgid "US Letter"
-msgstr "US Letter"
-
-msgid "US Letter Extra"
-msgstr "US Letter พิเศษ"
-
-msgid "US Letter Plus"
-msgstr "US Letter Plus"
-
-msgid "Unable to Find Requested Software"
-msgstr "ไม่สามารถหาซอฟต์แวร์ที่ร้องขอ"
-
-msgid "Unable to access “%{string}”"
-msgstr "ไม่สามารถเข้าถึง “%{string}” ได้"
-
-msgid "Unable to end process"
-msgstr "ไม่สามารถจบโพรเซสได้"
-
-msgid "Unable to find an item with URI '%{string}'"
-msgstr "ไม่พบรายการที่ URI '%{string}'"
-
-msgid "Unable to poll %{string} for media changes"
-msgstr "ไม่สามารถวนถาม %{string} เพื่อตรวจสอบการเปลี่ยนสื่อได้"
-
-msgid "Unavailable"
-msgstr "ไม่มี"
-
 msgid "Uncheck"
 msgstr "ไม่เลือก"
 
-msgid "Unclassified"
-msgstr "ยังไม่คัดแยก"
+msgid "Underline"
+msgstr "ขีดเส้นใต้"
 
 msgid "Undo"
 msgstr "ทำกลับ"
 
-msgid "Undo %{number} Actions"
-msgstr "ทำกลับ %{number} รายการ"
-
-msgid "Undo 1 Action"
-msgstr "ทำกลับ 1 รายการ"
-
-msgid "Unhandled tag: '%{string}'"
-msgstr "แท็กไม่ถูกดำเนินการ: '%{string}'"
+msgid "Unicode"
+msgstr "ยูนิโค้ด"
 
 msgid "Unknown"
-msgstr "ไม่ทราบ"
+msgstr "ไม่รู้จัก"
 
-msgid "Unknown Application (PID %{number})"
-msgstr "โปรแกรมไม่ทราบชื่อ (PID %{number})"
-
-msgid "Unknown item"
-msgstr "รายการไม่รู้จัก"
-
-msgid "Unknown technology"
-msgstr "ไม่ทราบเทคโนโลยี"
+msgid "Unlink"
+msgstr "ไม่เชื่อมโยง"
 
 msgid "Unlock"
 msgstr "ปลดล็อก"
 
-msgid "Unlock failed"
-msgstr "การปลดล็อกล้มเหลว"
-
-msgid "Unlock wallet"
-msgstr "เปิดกระเป๋าสตางค์"
-
-msgid "Unlocked"
-msgstr "ปลดล็อกแล้ว"
-
-msgid "Unmaximize"
-msgstr "เลิกขยายแผ่"
-
-msgid "Unspecified error"
-msgstr "ข้อผิดพลาดไม่ปรากฏสาเหตุ"
-
-msgid "Unspecified profile"
-msgstr "โพรไฟล์ไม่มีชื่อ"
-
 msgid "Untitled"
 msgstr "ไม่มีชื่อ"
 
-msgid "Untitled filter"
-msgstr "ตัวกรองไม่มีชื่อ"
-
 msgid "Up"
-msgstr "Up"
-
-msgid "Up Path"
-msgstr "เดินขึ้นในพาธ"
-
-msgid "Up one folder"
-msgstr "เลื่อนขึ้นหนึ่งโฟลเดอร์"
-
-msgid "Up to date"
-msgstr "ทันสมัย"
+msgstr "ขึ้น"
 
 msgid "Update"
 msgstr "อัพเดท"
@@ -5350,182 +2005,53 @@ msgstr "อัพเดท"
 msgid "Updated"
 msgstr "อัพเดทแล้ว"
 
-msgid "Updates are automatically managed"
-msgstr "การปรับรุ่นมีการจัดการโดยอัตโนมัติ"
+msgid "User"
+msgstr "ผู้ใช้งาน"
 
-msgid "Updates page"
-msgstr "หน้ารายการปรับรุ่น"
+msgid "User Data"
+msgstr "ข้อมูลผู้ใช้"
 
-msgid "Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;"
-msgstr "ปรับรุ่น;แหล่งซอฟต์แวร์;คลังแพกเกจ;ปรับแต่ง;ติดตั้ง;ถอดถอน;โปรแกรม;ซอฟต์แวร์;แอ็ป;ร้าน;"
-
-msgid "Updating"
-msgstr "การอัพเดท"
-
-msgid "Urgent"
-msgstr "ด่วน"
-
-msgid "Use smoothed line"
-msgstr "ใช้กราฟเส้นเรียบ"
-
-msgid "Use text block from 'mine'\nUse 'mine' text block"
-msgstr "ใช้กลุ่มประโยคจาก 'mine'\nใช้กลุ่มประโยค 'mine'"
-
-msgid "Use text block from 't&heirs' before 'mine'"
-msgstr "ใช้กลุ่มประโยคจาก 't&heirs' ก่อน 'mine'"
-
-msgid "Use text block from 'theirs' before 'mine'\nUse 'theirs' text block then 'mine'"
-msgstr "ใช้กลุ่มประโยคจาก 'theirs' ก่อน 'mine'\nใช้กลุ่มประโยค 'theirs' ตามด้วย 'mine'"
-
-msgid "User cancelled"
-msgstr "ยกเลิกโดยผู้ใช้"
-
-msgid "Username:"
+msgid "Username"
 msgstr "ชื่อผู้ใช้"
 
-msgid "Utilities"
-msgstr "อรรถประโยชน์"
-
-msgid "V"
-msgstr "V"
-
-msgid "Validate existing icon cache"
-msgstr "ตรวจสอบแคชของไอคอนที่มีอยู่"
+msgid "Users"
+msgstr "ผู้ใช้งาน"
 
 msgid "Value"
 msgstr "ค่า"
 
-msgid "Vector Graphics"
-msgstr "กราฟิกส์แบบเวกเตอร์"
+msgid "Variable"
+msgstr "ตัวแปร"
+
+msgid "Variance"
+msgstr "ความแปรปรวน"
 
 msgid "Vendor"
-msgstr "ผู้จำหน่าย"
+msgstr "ผู้ขาย"
 
 msgid "Version"
 msgstr "เวอร์ชั่น"
 
-msgid "Version Information"
-msgstr "ข้อมูลเวอร์ชั่น"
-
-msgid "Versioned"
-msgstr "เวอร์ชั่น"
+msgid "Vertical"
+msgstr "แนวตั้ง"
 
 msgid "Vertical Alignment"
-msgstr "การจัดเรียงตามแนวตั้ง"
-
-msgid "Vertical alignment"
-msgstr "การจัดเรียงตามแนวตั้ง"
-
-msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
-msgstr "ตำแหน่งตามแนวตั้งของการจัดวางอ็อบเจกต์ลูกในพื้นที่ว่างที่มี 0.0 คือเรียงชิดขอบบน 1.0 คือเรียงชิดขอบล่าง"
-
-msgid "Vertical scale"
-msgstr "สัดส่วนตามแนวตั้ง"
-
-msgid "Vertical separation"
-msgstr "สัดส่วนตามแนวตั้ง"
-
-msgid "Very Dark Gray"
-msgstr "เทาดำ"
-
-msgid "Very Light Gray"
-msgstr "เทาขาว"
+msgstr "การปรับแนวในแนวดิ่ง"
 
 msgid "Video"
 msgstr "วีดิทัศน์"
 
-msgid "Video Conference"
-msgstr "ประชุมทางวีดิทัศน์"
-
-msgid "Vietnamese (VIQR)"
-msgstr "เวียดนาม (VIQR)"
-
 msgid "View"
-msgstr "ดู"
-
-msgid "Viewer"
-msgstr "โปรแกรมดูเอกสาร"
+msgstr "มุมมอง"
 
 msgid "Visible"
-msgstr "ปรากฏ"
-
-msgid "Visible when horizontal"
-msgstr "แสดงเมื่ออยู่ในแนวนอน"
-
-msgid "Visible when overflown"
-msgstr "แสดงเมื่อลอยตัว"
-
-msgid "Visible when vertical"
-msgstr "แสดงเมื่ออยู่ในแนตั้ง"
-
-msgid "Visit our website"
-msgstr "เยี่ยมชมเว็บไซต์ของเรา"
-
-msgid "Visit website"
-msgstr "เยี่ยมชมเว็บไซต์"
-
-msgid "Voice"
-msgstr "เสียง"
-
-msgid "Voice chat"
-msgstr "สนทนาด้วยเสียง"
-
-msgid "Voltage"
-msgstr "ศักย์ไฟฟ้า"
+msgstr "มองเห็นได้"
 
 msgid "Volume"
-msgstr "ความดัง"
-
-msgid "Volume Down"
-msgstr "หรี่เสียง"
-
-msgid "Volume Up"
-msgstr "เพิ่มเสียง"
-
-msgid "WARNING:\r\nOnly change these settings if you are absolutely sure what you are doing!\r\nTo set the values to their default, delete the value text."
-msgstr "คำเตือน:\nแก้ไขการตั้งค่าเหล่านี้เมื่อคุณแน่ใจโดยสมบูรณ์ว่ากำลังทำอะไรอยู่เท่านั้น\nลบข้อความทิ้งเพื่อใช้ค่าโดยปริยาย"
-
-msgid "WLAN"
-msgstr "ไร้สาย"
-
-msgid "Wait"
-msgstr "รอ"
-
-msgid "Wait for the script to finish"
-msgstr "รอให้คำสั่งทำงานเสร็จสิ้น"
+msgstr "โวลุม"
 
 msgid "Waiting"
-msgstr "กำลังรอ"
-
-msgid "Waiting to charge"
-msgstr "กำลังรอประจุไฟ"
-
-msgid "Waiting to discharge"
-msgstr "กำลังรอจ่ายไฟ"
-
-msgid "WakeUp"
-msgstr "ตื่น"
-
-msgid "Wakeups"
-msgstr "การปลุก"
-
-msgid "Wallet decryption failed"
-msgstr "ถอดรหัสกระเป๋าเงินล้มเหลว"
-
-msgid "Wallet encrypted"
-msgstr "กระเป๋าสตางค์ถูกเข้ารหัสเรียบร้อยแล้ว"
-
-msgid "Wallet encryption failed"
-msgstr "การเข้ารหัสกระเป๋าสตางค์ผิดพลาด"
-
-msgid "Wallet encryption failed due to an internal error. Your wallet was not encrypted."
-msgstr "กระเป๋าเงินเข้ารหัสล้มเหลวเนื่องจากข้อผิดพลาดภายใน กระเป๋าเงินของคุณไม่ได้เข้ารหัส"
-
-msgid "Wallet unlock failed"
-msgstr "ปลดล็อคกระเป๋าเงินล้มเหลว"
-
-msgid "Want to go offline?"
-msgstr "ต้องการออฟไลน์ใช่หรือไม่?"
+msgstr "รอ"
 
 msgid "Warning"
 msgstr "คำเตื่อน"
@@ -5533,305 +2059,62 @@ msgstr "คำเตื่อน"
 msgid "Warning!"
 msgstr "คำเตือน!"
 
-msgid "Waveform"
-msgstr "รูปแบบของคลื่น"
+msgid "Warnings"
+msgstr "คำเตือน!"
 
-msgid "Web Browser"
-msgstr "เว็บเบราว์เซอร์"
-
-msgid "Web Development"
-msgstr "การพัฒนาเว็บ"
-
-msgid "WebCam"
-msgstr "เว็บแคม"
+msgid "Web Page"
+msgstr "เว็บเพจ"
 
 msgid "Website"
 msgstr "เว็บไซต์"
 
-msgid "Website URL"
-msgstr "URL ของเว็บไซต์"
-
-msgid "Website label"
-msgstr "ชื่อเว็บไซต์"
+msgid "Weight"
+msgstr "นำ้หนัก"
 
 msgid "Welcome"
 msgstr "ยินดีต้อนรับ"
 
-msgid "Welcome to Software"
-msgstr "ยินดีต้อนรับสู่ \"ซอฟต์แวร์\""
-
 msgid "Welsh"
 msgstr "ภาษาเวลส์"
 
-msgid "We’re sorry: the update failed to install. Please wait for another update and try again. If the problem persists, contact your software provider."
-msgstr "ขออภัย: ติดตั้งแพกเกจปรับรุ่นไม่สำเร็จ กรุณารอการปรับรุ่นครั้งถัดไปแล้วลองใหม่ ถ้าปัญหายังคงอยู่ กรุณาติดต่อผู้ให้บริการซอฟต์แวร์ของคุณ"
-
-msgid "When TRUE, empty menu proxies for this action are hidden."
-msgstr "ถ้าเป็น TRUE เมนูที่แทนการกระทำนี้จะถูกซ่อนถ้าว่างเปล่า"
-
-msgid "When TRUE, toolitem proxies for this action are represented in the toolbar overflow menu."
-msgstr "ถ้าเป็น TRUE ชิ้นเครื่องมือที่แทนการกระทำนี้จะปรากฏตัวในแถบเครื่องมือที่ลอยตัว"
-
-msgid "Whether all required fields on the page have been filled out"
-msgstr "ระบุว่าข้อมูลที่จำเป็นทั้งหมดของหน้าได้ถูกเติมเรียบร้อยแล้ว"
-
-msgid "Whether extra space given to the child should be allocated to the child or used as padding"
-msgstr "กำหนดว่าพื้นที่ที่เพิ่มให้กับอ็อบเจกต์ลูกนั้น ควรให้อ็อบเจกต์ลูกขยายตัวจนเต็ม หรือให้ใช้เติมพื้นที่หรือไม่"
-
-msgid "Whether tabs should be shown"
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether the action group is enabled."
-msgstr "กำหนดว่ากลุ่มการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the action group is visible."
-msgstr "กำหนดว่ากลุ่มการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether the action is considered important. When TRUE, toolitem proxies for this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
-msgstr "กำหนดว่าการกระทำนี้ถือว่าสำคัญหรือไม่ ถ้าเป็น TRUE ชิ้นเครื่องมือที่แทนการกระทำนี้จะแสดงข้อความในโหมด GTK_TOOLBAR_BOTH_HORIZ"
-
-msgid "Whether the action is enabled."
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the action is visible."
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether the application has a selection"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the application prefers to have a dark theme."
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the border should be shown"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the child should receive extra space when the parent grows"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรได้พื้นที่เพิ่มตามการขยายขนาดของอ็อบเจกต์แม่หรือไม่"
-
-msgid "Whether the child's tab should fill the allocated area"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the children should all be the same size"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the device has a cursor"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the dialog supports selection"
-msgstr "กำหนดว่ากลุ่มการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the image will always be shown"
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether the invisible character has been set"
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether the item group should receive extra space when the palette grows"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรได้พื้นที่เพิ่มตามการขยายขนาดของอ็อบเจกต์แม่หรือไม่"
-
-msgid "Whether the item should fill the available space"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the item should receive extra space when the group grows"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรได้พื้นที่เพิ่มตามการขยายขนาดของอ็อบเจกต์แม่หรือไม่"
-
-msgid "Whether the item should start a new row"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the label widget should fill all available horizontal space"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the plug is embedded"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the primary icon is activatable"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the primary icon is sensitive"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the secondary icon is activatable"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the secondary icon is sensitive"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the spinner is active"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the status icon is embedded"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the status icon is visible"
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether the tab is reorderable by user action"
-msgstr "กำหนดว่ากลุ่มการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether the toggle action should be active"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a horizontal orientation."
-msgstr "กำหนดว่าชิ้นส่วนแถบเครื่องมือนี้จะแสดงหรือไม่ เมื่อแถบเครื่องมือวางในแนวนอน"
-
-msgid "Whether the toolbar item is visible when the toolbar is in a vertical orientation."
-msgstr "กำหนดว่าชิ้นส่วนแถบเครื่องมือนี้จะแสดงหรือไม่ เมื่อแถบเครื่องมือวางในแนวตั้ง"
-
-msgid "Whether the widget is double buffered"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether there is a visible cursor following device motion"
-msgstr "กำหนดว่าการกระทำนี้ปรากฏให้เห็นหรือไม่"
-
-msgid "Whether this tray icon has a tooltip"
-msgstr "กำหนดว่าการกระทำนี้เปิดใช้หรือไม่"
-
-msgid "Whether to expand the child's tab"
-msgstr "กำหนดว่าจะตัดบรรทัดในการแสดงข้อความสัญญาอนุญาตหรือไม่"
-
-msgid "Whether to wrap the license text."
-msgstr "กำหนดว่าจะตัดบรรทัดในการแสดงข้อความสัญญาอนุญาตหรือไม่"
-
-msgid "Whether visited links should be tracked"
-msgstr "กำหนดว่าอ็อบเจกต์ลูกควรมีขนาดเท่ากันหมดหรือไม่"
-
-msgid "Whether we should show the history data points"
-msgstr "ควรแสดงจุดข้อมูลประวัติหรือไม่"
-
-msgid "Whether we should show the history data points in the statistics window."
-msgstr "ควรแสดงจุดข้อมูลประวัติในหน้าต่างสถิติหรือไม่"
-
-msgid "Whether we should show the stats data points"
-msgstr "ควรแสดงจุดข้อมูลสถิติหรือไม่"
-
-msgid "Whether we should show the stats data points in the statistics window."
-msgstr "ควรแสดงจุดข้อมูลสถิติในหน้าต่างสถิติหรือไม่"
-
-msgid "Whether we should smooth the history data"
-msgstr "ควรเกลี่ยข้อมูลประวัติหรือไม่"
-
-msgid "Whether we should smooth the history data in the graph."
-msgstr "ควรเกลี่ยข้อมูลประวัติในกราฟหรือไม่"
-
-msgid "Whether we should smooth the stats data"
-msgstr "ควรเกลี่ยข้อมูลสถิติหรือไม่"
-
-msgid "Whether we should smooth the stats data in the graph."
-msgstr "ควรเกลี่ยข้อมูลสถิติในกราฟหรือไม่"
-
-msgid "Whisper"
-msgstr "กระซิบ"
+msgid "Wheel"
+msgstr "Wheel วงล้อ"
 
 msgid "White"
 msgstr "ขาว"
 
-msgid "Wide Format"
-msgstr "Wide Format"
-
-msgid "Width of border around the action area"
-msgstr "คำอธิบายอย่างสั้นเกี่ยวกับโปรแกรม"
-
-msgid "Width of border around the content area"
-msgstr "จำนวนจุดที่จะเติมรอบเนื้อหาของหน้า"
-
-msgid "Window Position"
-msgstr "ตำแหน่งหน้าต่าง"
+msgid "Width"
+msgstr "ความกว้าง"
 
 msgid "Windows"
 msgstr "Windows"
 
+msgid "Word"
+msgstr "คำ"
+
 msgid "Word Processor"
-msgstr "โปรแกรมประมวลคำ"
-
-msgid "Working Copy"
-msgstr "สำเนาหน้างาน"
-
-msgid "Wrap license"
-msgstr "ตัดบรรทัดสัญญาอนุญาต"
-
-msgid "X Input Method"
-msgstr "X Input Method"
-
-msgid "X alignment of the child"
-msgstr "การจัดเรียงในแนวแกน X ของอ็อบเจกต์ลูก"
-
-msgid "X display to use"
-msgstr "ดิสเพลย์ของ X ที่จะใช้"
-
-msgid "X spacing"
-msgstr "ช่องไฟ"
-
-msgid "Y alignment of the child"
-msgstr "การจัดเรียงในแนวแกน Y ของอ็อบเจกต์ลูก"
-
-msgid "Y spacing"
-msgstr "ช่องไฟ"
+msgstr "โปรแกรมประมวลผลคำ"
 
 msgid "Year"
 msgstr "ปี"
 
+msgid "Yellow"
+msgstr "เหลือง"
+
 msgid "Yes"
 msgstr "ใช่"
-
-msgid "You already have the latest version installed."
-msgstr "คุณได้ติดตั้งเวอร์ชั่นล่าสุดแล้ว"
-
-msgid "You are in off-line mode, share and invite someone."
-msgstr "คุณอยู่ในโหมดออฟไลน์ แบ่งปันและเชิญชวนบางคน"
-
-msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as 'orange' in this entry."
-msgstr "คุณสามารถป้อนค่าสีฐานสิบหกแบบ HTML (เช่น #FFA500) หรือชื่อสี (เช่น orange) ได้"
-
-msgid "You may only select folders"
-msgstr "คุณสามารถเลือกได้เฉพาะโฟลเดอร์เท่านั้น"
-
-msgid "You must restart your system for the changes to take effect."
-msgstr "คุณต้องเปิดเครื่องใหม่เพื่อให้การเปลี่ยนแสดงผล"
-
-msgid "You need to choose a valid filename."
-msgstr "คุณต้องระบุชื่อแฟ้มที่ถูกต้อง"
-
-msgid "You should enter a text!"
-msgstr "คุณควรระบุข้อความ!"
-
-msgid "You should select an image!"
-msgstr "คุณควรเลือกรูปภาพ!"
-
-msgid "Your version is:"
-msgstr "เวอร์ชั่นของคุณ คือ:"
-
-msgid "Z Shell"
-msgstr "Z Shell"
-
-msgid "ZWJ Zero width _joiner"
-msgstr "ZWJ Zero width _joiner"
-
-msgid "ZWNJ Zero width _non-joiner"
-msgstr "ZWNJ Zero width _non-joiner"
-
-msgid "ZWS _Zero width space"
-msgstr "ZWS _Zero width space"
 
 msgid "Zoom"
 msgstr "ขยาย"
 
-msgid "Zoom &In"
-msgstr "ขยายเ&ข้า"
-
-msgid "Zoom &Out"
-msgstr "ขยาย&ออก"
-
-msgid "Zoom &in\tCtrl-+"
-msgstr "ขยายเ&ข้า»Ctrl-+"
-
 msgid "Zoom 100%"
 msgstr "ขยาย 100%"
 
-msgid "Zoom In\nZoom In"
-msgstr "ขยายเข้า\nขยายเข้า"
+msgid "Zoom In"
+msgstr "ซูมเข้า"
 
-msgid "Zoom Out\nZoom Out"
-msgstr "ขยายออก\nขยายออก"
+msgid "Zoom Out"
+msgstr "ซูมออก"
 
 msgid "Zoom _In"
 msgstr "แสดงขย_าย"
@@ -5845,791 +2128,1805 @@ msgstr "ขยายเข้า"
 msgid "Zoom out"
 msgstr "ขยายออก"
 
-msgid "Zoom to &100%"
-msgstr "ขยาย &100%"
+msgid "a0"
+msgstr "a0"
 
-msgid "Zoom to fit"
-msgstr "ขยายเต็มพื้นที่"
+msgid "a1"
+msgstr "a1"
 
-msgid "Zoom to fit in height"
-msgstr "ขยายตามความสูง"
+msgid "a2"
+msgstr "a2"
 
-msgid "Zoom to fit in width"
-msgstr "ขยายตามความกว้าง"
+msgid "a3"
+msgstr "a3"
 
-msgid "[Default]"
-msgstr "[โดยปริยาย]"
+msgid "a4"
+msgstr "a4"
 
-msgid "[testnet]"
-msgstr "[testnet]"
+msgid "a5"
+msgstr "a5"
 
-msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
-msgstr "\"%{string}\" ไม่สามารถแปลงไปเป็นค่าชนิด \"%{string}\" สำหรับแอตทริบิวต์ \"%{string}\" ได้"
+msgid "a6"
+msgstr "a6"
 
-msgid "\"%{string}\" is not a valid attribute name"
-msgstr "\"%{string}\" ไม่ใช่ชื่อแอตทริบิวต์ที่ใช้ได้"
+msgid "about"
+msgstr "เกี่ยวกับ"
 
-msgid "\"%{string}\" is not a valid attribute type"
-msgstr "\"%{string}\" ไม่ใช่ชนิดแอตทริบิวต์ที่ใช้ได้"
+msgid "accept"
+msgstr "ยอมรับ"
 
-msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
-msgstr "\"%{string}\" ไม่ใช่ค่าที่ใช้ได้สำหรับแอตทริบิวต์ \"%{string}\""
+msgid "accepted"
+msgstr "ถูกยอมรับ"
 
-msgid "_About"
-msgstr "เ_กี่ยวกับ"
+msgid "accessibility"
+msgstr "ความเข้าถึง"
 
-msgid "_Add"
-msgstr "เ_พิ่ม"
+msgid "account"
+msgstr "บั~ญชีผู้ใช้"
 
-msgid "_Add Bookmark"
-msgstr "เ_พิ่มที่คั่นหน้า"
+msgid "action"
+msgstr "การกระทำ"
 
-msgid "_Add to Bookmarks"
-msgstr "เ_พิ่มลงในที่คั่นหน้า"
+msgid "active"
+msgstr "ใช้งานอยู่"
 
-msgid "_Add to Folder…"
-msgstr "เ_พิ่มเข้าโฟลเดอร์…"
+msgid "activity"
+msgstr "กิจกรรม"
 
-msgid "_After:"
-msgstr "ปกหลั_ง:"
-
-msgid "_All"
-msgstr "_ทั้งหมด"
-
-msgid "_All Pages"
-msgstr "ทุ_กหน้า"
-
-msgid "_Anonymous"
-msgstr "_นิรนาม"
-
-msgid "_Apply"
-msgstr "เริ่มใ_ช้"
-
-msgid "_Ascending"
-msgstr "_น้อยไปมาก"
-
-msgid "_Back"
-msgstr "_ถอยกลับ"
-
-msgid "_Billing info:"
-msgstr "ข้อมูล_สรุป:"
-
-msgid "_Blue:"
-msgstr "_น้ำเงิน:"
-
-msgid "_Bold"
-msgstr "ตัวห_นา"
-
-msgid "_Bottom"
-msgstr "ล่า_งสุด"
-
-msgid "_Bottom:"
-msgstr "ล่า_ง:"
-
-msgid "_CD-ROM"
-msgstr "ซีดี_รอม"
-
-msgid "_Cancel"
-msgstr "_ยกเลิก"
-
-msgid "_Center"
-msgstr "_กึ่งกลาง"
-
-msgid "_Check Anyway"
-msgstr "_ตรวจสอบต่อไป"
-
-msgid "_Clear"
-msgstr "_ล้าง"
-
-msgid "_Clear List"
-msgstr "_ล้างรายการ"
-
-msgid "_Close"
-msgstr "ปิ_ด"
-
-msgid "_Color"
-msgstr "_สี"
-
-msgid "_Connect Drive"
-msgstr "เ_ชื่อมต่อไดรว์"
-
-msgid "_Convert"
-msgstr "แปล_ง"
-
-msgid "_Copy"
-msgstr "_คัดลอก"
-
-msgid "_Copy Location"
-msgstr "_คัดลอกตำแหน่ง"
-
-msgid "_Customize"
-msgstr "_กำหนดเอง"
-
-msgid "_Delete"
-msgstr "_ลบ"
-
-msgid "_Descending"
-msgstr "_มากไปน้อย"
-
-msgid "_Detect Media"
-msgstr "_ตรวจหาสื่อ"
-
-msgid "_Discard"
-msgstr "_ละทิ้ง"
-
-msgid "_Disconnect"
-msgstr "เลิ_กเชื่อมต่อ"
-
-msgid "_Disconnect Drive"
-msgstr "เ_ลิกเชื่อมต่อไดรว์"
-
-msgid "_Domain"
-msgstr "โ_ดเมน"
-
-msgid "_Down"
-msgstr "_ลง"
-
-msgid "_Edit"
-msgstr "แ_ก้ไข"
-
-msgid "_Eject"
-msgstr "เ_อาสื่อออก"
-
-msgid "_End Process"
-msgstr "_จบโพรเซส"
-
-msgid "_Execute"
-msgstr "เ_รียกใช้"
-
-msgid "_Family:"
-msgstr "_ตระกูล:"
-
-msgid "_File"
-msgstr "แ_ฟ้ม"
-
-msgid "_Fill"
-msgstr "เ_ต็มกรอบ"
-
-msgid "_Find"
-msgstr "_หา"
-
-msgid "_Find New Applications"
-msgstr "_หาโปรแกรมตัวใหม่"
-
-msgid "_Finish"
-msgstr "เ_สร็จสิ้น"
-
-msgid "_First"
-msgstr "แ_รกสุด"
-
-msgid "_Floppy"
-msgstr "_ฟลอปปี้"
-
-msgid "_Font"
-msgstr "_แบบอักษร"
-
-msgid "_Format for:"
-msgstr "_จัดรูปแบบสำหรับ:"
-
-msgid "_Forward"
-msgstr "กรอไ_ป"
-
-msgid "_Fullscreen"
-msgstr "เ_ต็มจอ"
-
-msgid "_Green:"
-msgstr "เ_ขียว:"
-
-msgid "_Hard Disk"
-msgstr "ฮาร์_ดดิสก์"
-
-msgid "_Height:"
-msgstr "_สูง:"
-
-msgid "_Help"
-msgstr "_วิธีใช้"
-
-msgid "_History"
-msgstr "_ประวัติ"
-
-msgid "_Home"
-msgstr "_บ้าน"
-
-msgid "_Hue:"
-msgstr "ธาตุ_สี:"
-
-msgid "_Index"
-msgstr "_ดัชนี"
-
-msgid "_Information"
-msgstr "_ข้อมูล"
-
-msgid "_Install"
-msgstr "_ติดตั้ง"
-
-msgid "_Installed"
-msgstr "_ติดตั้งอยู่"
-
-msgid "_Installing"
-msgstr "กำลัง_ติดตั้ง"
-
-msgid "_Install…"
-msgstr "_ติดตั้ง…"
-
-msgid "_Italic"
-msgstr "ตัวเ_อียง"
-
-msgid "_Jump to"
-msgstr "_กระโดดไป"
-
-msgid "_Last"
-msgstr "_ท้ายสุด"
-
-msgid "_Launch"
-msgstr "เ_รียกทำงาน"
-
-msgid "_Leave Fullscreen"
-msgstr "เ_ลิกแสดงเต็มจอ"
-
-msgid "_Left"
-msgstr "ชิด_ซ้าย"
-
-msgid "_Left:"
-msgstr "ซ้า_ย:"
-
-msgid "_Let’s Go Shopping"
-msgstr "ไ_ปช็อปกันเลย"
-
-msgid "_Location:"
-msgstr "_ตำแหน่ง:"
-
-msgid "_Lock Drive"
-msgstr "_ล็อคไดรว์"
-
-msgid "_Mount"
-msgstr "เ_มานท์"
-
-msgid "_Move to Folder…"
-msgstr "_ย้ายไปโฟลเดอร์…"
-
-msgid "_Name:"
-msgstr "_ชื่อ:"
-
-msgid "_Network"
-msgstr "เค_รือข่าย"
-
-msgid "_Network Settings"
-msgstr "ตั้งค่าเ_ครือข่าย"
-
-msgid "_New"
-msgstr "ใ_หม่"
-
-msgid "_Next"
-msgstr "_ถัดไป"
-
-msgid "_No"
-msgstr "ไ_ม่"
-
-msgid "_Normal Size"
-msgstr "ขนาด_ปกติ"
-
-msgid "_Now"
-msgstr "เ_ดี๋ยวนี้"
-
-msgid "_OK"
-msgstr "_ตกลง"
-
-msgid "_Only print:"
-msgstr "พิ_มพ์เฉพาะ:"
-
-msgid "_Open"
-msgstr "_เปิด"
-
-msgid "_Open Link"
-msgstr "_เปิดลิงก์"
-
-msgid "_Orientation:"
-msgstr "แ_นววาง:"
-
-msgid "_Output format"
-msgstr "รูปแ_บบผลลัพธ์"
-
-msgid "_POPUP_"
-msgstr "_POPUP_"
-
-msgid "_Palette:"
-msgstr "_จานสี:"
-
-msgid "_Paper size:"
-msgstr "_ขนาดกระดาษ:"
-
-msgid "_Password"
-msgstr "_รหัสผ่าน"
-
-msgid "_Paste"
-msgstr "_แปะ"
-
-msgid "_Play"
-msgstr "เ_ล่น"
-
-msgid "_Power On"
-msgstr "_เปิดทำงาน"
-
-msgid "_Preferences"
-msgstr "_ปรับแต่ง"
-
-msgid "_Preview:"
-msgstr "ตัว_อย่าง:"
-
-msgid "_Print"
-msgstr "_พิมพ์"
-
-msgid "_Properties"
-msgstr "คุณ_สมบัติ"
-
-msgid "_Quit"
-msgstr "_ออก"
-
-msgid "_Record"
-msgstr "_อัด"
-
-msgid "_Red:"
-msgstr "_แดง:"
-
-msgid "_Redo"
-msgstr "_ทำซ้ำ"
-
-msgid "_Refresh"
-msgstr "เ_รียกใหม่"
-
-msgid "_Remove"
-msgstr "_ถอดถอน"
-
-msgid "_Remove From List"
-msgstr "_ลบออกจากรายการ"
-
-msgid "_Remove from Folder"
-msgstr "_ลบออกจากโฟลเดอร์"
-
-msgid "_Removing"
-msgstr "กำลัง_ถอดถอน"
-
-msgid "_Replace"
-msgstr "แ_ทนที่"
-
-msgid "_Reverse"
-msgstr "_จากหลังมาหน้า"
-
-msgid "_Revert"
-msgstr "คืน_กลับ"
-
-msgid "_Right"
-msgstr "ชิด_ขวา"
-
-msgid "_Right:"
-msgstr "_ขวา:"
-
-msgid "_Safely Remove Drive"
-msgstr "_ถอดไดรว์ออกอย่างปลอดภัย"
-
-msgid "_Save"
-msgstr "_บันทึก"
-
-msgid "_Save color here"
-msgstr "_บันทึกสีลงที่นี่"
-
-msgid "_Select"
-msgstr "เ_ลือก"
-
-msgid "_Software Sources"
-msgstr "แ_หล่งซอฟต์แวร์"
-
-msgid "_Spell Check"
-msgstr "ต_รวจตัวสะกด"
-
-msgid "_Start"
-msgstr "เ_ริ่มทำงาน"
-
-msgid "_Start Multi-disk Device"
-msgstr "เ_ริ่มทำงานอุปกรณ์หลายดิสก์"
-
-msgid "_Stop"
-msgstr "_หยุด"
-
-msgid "_Stop Multi-disk Device"
-msgstr "_หยุดทำงานอุปกรณ์หลายดิสก์"
-
-msgid "_Strikethrough"
-msgstr "ขีด_ทับ"
-
-msgid "_Style:"
-msgstr "รูปแ_บบ:"
-
-msgid "_Top"
-msgstr "_บนสุด"
-
-msgid "_Top:"
-msgstr "_บน:"
-
-msgid "_Undelete"
-msgstr "เลิ_กลบ"
-
-msgid "_Underline"
-msgstr "_ขีดเส้นใต้"
-
-msgid "_Undo"
-msgstr "เรี_ยกคืน"
-
-msgid "_Unlock Drive"
-msgstr "_ปลดล็อคไดรว์"
-
-msgid "_Unmount"
-msgstr "เ_ลิกเมานท์"
-
-msgid "_Up"
-msgstr "_ขึ้น"
-
-msgid "_Updates"
-msgstr "_มีรุ่นใหม่"
-
-msgid "_Username"
-msgstr "ชื่_อผู้ใช้"
-
-msgid "_Value:"
-msgstr "ความสว่า_ง:"
-
-msgid "_View All Applications"
-msgstr "ดูโปรแกรม_ทั้งหมด"
-
-msgid "_Visit File"
-msgstr "ไ_ปดูแฟ้ม"
-
-msgid "_Website"
-msgstr "เ_ว็บไซต์"
-
-msgid "_Width:"
-msgstr "_กว้าง:"
-
-msgid "_Yes"
-msgstr "ใ_ช่"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/bitcoin/workspace/src/qt/locale/bitcoin_th_TH.ts by load_ts_file"
-
-msgid "a2 Envelope"
-msgstr "ซอง a2"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "ผู้ใหญ่ลีรู้ทฤษฎีน้ำแข็ง L10n@OpenTLE.org"
-
-msgid "added"
+msgid "add"
 msgstr "เพิ่ม"
 
-msgid "added files"
-msgstr "เพิ่มไฟล์"
+msgid "add..."
+msgstr "เพิ่ม..."
 
-msgid "an unnamed file"
-msgstr "ไฟล์ที่ไม่ได้ตั้งชื่อ"
+msgid "added"
+msgstr "เพิ่มแล้ว"
+
+msgid "address"
+msgstr "ที่อยู่"
+
+msgid "administration"
+msgstr "บริหาร"
+
+msgid "advanced"
+msgstr "ขั้นสูง"
+
+msgid "afrikaans"
+msgstr "ภาษาแอฟริกา"
+
+msgid "after"
+msgstr "ข~วา"
+
+msgid "align"
+msgstr "จัดตำแหน่ง"
+
+msgid "alignment"
+msgstr "การปรับแนว"
+
+msgid "all"
+msgstr "ทั้งหมด"
+
+msgid "alpha"
+msgstr "อัลฟ่า"
+
+msgid "amount"
+msgstr "จำนวน"
+
+msgid "anchor"
+msgstr "สมอยึด"
 
 msgid "and"
 msgstr "และ"
 
-msgid "and support the developers"
-msgstr "และสนับสนุนนักพัฒนา"
+msgid "angle"
+msgstr "มุม"
 
-msgid "asme_f"
-msgstr "asme_f"
+msgid "antialiasing"
+msgstr "แสดงผลไร้รอยหยัก"
 
-msgid "b-plus"
-msgstr "b-plus"
+msgid "appearance"
+msgstr "รูปลักษณ์"
 
-msgid "broadway display type not supported '%{string}'"
-msgstr "ไม่รองรับดิสเพลย์ของบรอดเวย์ชนิด '%{string}'"
+msgid "application"
+msgstr "โปรแกรม"
+
+msgid "arc"
+msgstr "เส้นโค้ง"
+
+msgid "array"
+msgstr "อาเรย์"
+
+msgid "article"
+msgstr "บทความ"
+
+msgid "attribute"
+msgstr "คุณลักษณะ"
+
+msgid "audio"
+msgstr "เสียง"
+
+msgid "authentication"
+msgstr "การยืนยันตัวตน"
+
+msgid "author"
+msgstr "ผู้แต่ง"
+
+msgid "authors"
+msgstr "ผู้แต่ง"
+
+msgid "automatic"
+msgstr "อัตโนมัติ"
+
+msgid "average"
+msgstr "เฉลี่ย"
+
+msgid "axes"
+msgstr "แกน"
+
+msgid "back"
+msgstr "กลับ"
+
+msgid "background"
+msgstr "พื้นหลัง"
+
+msgid "base"
+msgstr "ฐาน"
+
+msgid "before"
+msgstr "ก่อน"
+
+msgid "binary"
+msgstr "ฐานสอง"
+
+msgid "binding"
+msgstr "การประสาน (binding)"
+
+msgid "bitmap"
+msgstr "บิตแมป"
+
+msgid "black"
+msgstr "ดำ"
+
+msgid "blank"
+msgstr "ช่องว่าง"
+
+msgid "blocks"
+msgstr "บล็อค"
+
+msgid "blue"
+msgstr "น้ำเงิน"
+
+msgid "bold"
+msgstr "ตัวหนา"
+
+msgid "bookmarks"
+msgstr "ที่คั่นหน้า"
+
+msgid "border"
+msgstr "เส้นขอบ"
+
+msgid "both"
+msgstr "ทั้งคู่"
+
+msgid "bottom"
+msgstr "ล่าง"
+
+msgid "box"
+msgstr "box กล่อง"
+
+msgid "browse"
+msgstr "เ_รียกดู"
+
+msgid "browse..."
+msgstr "ค้นดู..."
+
+msgid "brush"
+msgstr "แปรง"
+
+msgid "bullet"
+msgstr "รายการสัญลักษณ์"
+
+msgid "button"
+msgstr "ปุ่ม"
 
 msgid "c"
 msgstr "c"
 
-msgid "c5 Envelope"
-msgstr "ซอง c5"
+msgid "calculator"
+msgstr "เครื่องคิดเลข"
 
-msgid "calendar:MY"
-msgstr "calendar:MY"
+msgid "calendar"
+msgstr "ปฏิทิน"
 
-msgid "calendar:week_start:0"
-msgstr "calendar:week_start:0"
+msgid "cancel"
+msgstr "ยกเลิก"
 
-msgid "changes total:"
-msgstr "เปลี่ยนแปลงทั้งหมด:"
+msgid "caption"
+msgstr "ตัวเลือก"
 
-msgid "commits"
-msgstr "ส่งมอบ"
+msgid "categories"
+msgstr "~ประเภท"
 
-msgid "conflicted"
-msgstr "ขัดแย้ง"
+msgid "category"
+msgstr "ประเภท"
 
-msgid "connection:"
-msgstr "การเชื่อมต่อ:"
+msgid "cell"
+msgstr "ช่อง"
 
-msgid "copied:"
+msgid "center"
+msgstr "กึ่งกลาง"
+
+msgid "channel"
+msgstr "ช่อง, แชนเนล"
+
+msgid "chart"
+msgstr "แผนภูมิ"
+
+msgid "chat"
+msgstr "สนทนา"
+
+msgid "check"
+msgstr "ตรวจสอบ"
+
+msgid "circle"
+msgstr "วงกลม"
+
+msgid "city"
+msgstr "เมือง"
+
+msgid "clear"
+msgstr "การล้าง, ล้าง"
+
+msgid "clipboard"
+msgstr "คลิปบอร์ด"
+
+msgid "close"
+msgstr "ปิด"
+
+msgid "color"
+msgstr "สี"
+
+msgid "colors"
+msgstr "สี"
+
+msgid "column"
+msgstr "คอลัมน์"
+
+msgid "command"
+msgstr "คำสั่ง"
+
+msgid "commands"
+msgstr "คำสั่ง"
+
+msgid "comment"
+msgstr "ข้อคิดเห็น"
+
+msgid "comments"
+msgstr "ความเห็น"
+
+msgid "compression"
+msgstr "การบีบอัดข้อมูล"
+
+msgid "computer"
+msgstr "คอมพิวเตอร์"
+
+msgid "concatenate"
+msgstr "เชื่อม"
+
+msgid "condition"
+msgstr "เงื่อนไข"
+
+msgid "confidential"
+msgstr "ลับ, ลับเฉพาะ"
+
+msgid "configuration"
+msgstr "การกำหนดค่า"
+
+msgid "confirm"
+msgstr "รับรอง"
+
+msgid "connect"
+msgstr "กำลังเชื่อมต่อ..."
+
+msgid "connecting..."
+msgstr "กำลังเชื่อมต่อ..."
+
+msgid "constraint"
+msgstr "เงื่อนไขบังคับ"
+
+msgid "content"
+msgstr "เนื้อหา"
+
+msgid "contents"
+msgstr "เนื้อหา"
+
+msgid "context"
+msgstr "เนื้อหา"
+
+msgid "continue"
+msgstr "ทำต่อ"
+
+msgid "control"
+msgstr "ควบคุม"
+
+msgid "copy"
 msgstr "คัดลอก"
 
-msgid "d"
-msgstr "d"
+msgid "copyright"
+msgstr "ลิขสิทธิ์, สงวนลิขสิทธิ์"
+
+msgid "cost"
+msgstr "ต้นทุน"
+
+msgid "count"
+msgstr "นับ"
+
+msgid "country"
+msgstr "ประเทศ"
+
+msgid "create"
+msgstr "สร้าง"
+
+msgid "croatian"
+msgstr "ภาษาโครเอเชีย"
+
+msgid "crop"
+msgstr "ครอบตัด"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "cu_t"
+msgstr "_ตัด"
+
+msgid "cumulative"
+msgstr "สะสม"
+
+msgid "current"
+msgstr "ปัจจุบัน"
+
+msgid "curve"
+msgstr "เส้นโค้ง"
+
+msgid "custom"
+msgstr "กำหนดเอง"
+
+msgid "customize"
+msgstr "ปรับแต่ง"
+
+msgid "cut"
+msgstr "ตัด"
+
+msgid "czech"
+msgstr "ภาษาเช็ก"
+
+msgid "data"
+msgstr "ข้อมูล"
+
+msgid "database"
+msgstr "ฐานข้อมูล"
+
+msgid "databases"
+msgstr "ฐานข้อมูล"
+
+msgid "date"
+msgstr "วันที่"
 
 msgid "day"
 msgstr "เวลา"
 
-msgid "default:LTR"
-msgstr "default:LTR"
+msgid "debug"
+msgstr "แก้จุดบกพร่อง, ดีบัก"
 
-msgid "default:mm"
-msgstr "default:mm"
+msgid "default"
+msgstr "ค่าปริยาย"
+
+msgid "delete"
+msgstr "ลบทิ้ง"
 
 msgid "deleted"
 msgstr "ลบทิ้ง"
 
-msgid "disk [kB]:"
-msgstr "ดิสก์ [kB]:"
+msgid "deleting"
+msgstr "กำลังลบ"
 
-msgid "e"
-msgstr "e"
+msgid "desaturate"
+msgstr "ลดความอิ่มสี"
 
-msgid "edp"
-msgstr "edp"
+msgid "description"
+msgstr "รายละเอียด"
 
-msgid "eol style"
-msgstr "รูปแบบ eol"
+msgid "description..."
+msgstr "รายละเอียด"
 
-msgid "external"
-msgstr "ภายนอก"
+msgid "design"
+msgstr "ออกแบบ"
 
-msgid "eyes changed"
-msgstr "ตาถูกเปลี่ยน"
+msgid "desktop"
+msgstr "พื้นที่ทำงาน, เดสก์ท็อป"
 
-msgid "f"
-msgstr "f"
+msgid "details"
+msgstr "รายละเอียด"
 
-msgid "file external:"
-msgstr "ไฟล์ภายนอก:"
+msgid "device"
+msgstr "อุปกรณ์"
 
-msgid "hagaki (postcard)"
-msgstr "hagaki (ไปรษณียบัตร)"
+msgid "devices"
+msgstr "อุปกรณ์"
 
-msgid "http://tortoisesvn.net"
-msgstr "http://tortoisesvn.net"
+msgid "diagonal"
+msgstr "เส้นทะแยง"
 
-msgid "ignored"
-msgstr "ละเว้น"
+msgid "dialogs"
+msgstr "กล่องโต้ตอบ"
+
+msgid "diamond"
+msgstr "เพชร"
+
+msgid "dictionary"
+msgstr "พจนานุกรม"
+
+msgid "difference"
+msgstr "ผลต่าง"
+
+msgid "dimensions"
+msgstr "มิติ"
+
+msgid "direction"
+msgstr "ทิศทาง"
+
+msgid "disc"
+msgstr "ดิสก์"
+
+msgid "dismiss"
+msgstr "ไปได้, ออกไป, เข้าใจแล้ว, ตกลง, บอกเลิก"
+
+msgid "display"
+msgstr "แสดงผล"
+
+msgid "distribute"
+msgstr "แจกจ่าย, กระจาย, แยกส่วน"
+
+msgid "dock"
+msgstr "ตรึง"
+
+msgid "document"
+msgstr "เอกสาร"
+
+msgid "documents"
+msgstr "เอกสาร"
+
+msgid "dot"
+msgstr "จุด"
+
+msgid "down"
+msgstr "ลง"
+
+msgid "download"
+msgstr "ดาวน์โหลด, ดึงข้อมูล"
+
+msgid "drop"
+msgstr "ทิ้ง"
+
+msgid "duplicate"
+msgstr "ทำำสำเนา"
+
+msgid "duration"
+msgstr "ระยะเวลา"
+
+msgid "dutch"
+msgstr "ภาษาดัชต์"
+
+msgid "e-mail"
+msgstr "อีเมล"
+
+msgid "edit"
+msgstr "แก้ไข"
+
+msgid "edit..."
+msgstr "แก้ไข..."
+
+msgid "education"
+msgstr "การศึกษา"
+
+msgid "effects"
+msgstr "ลูกเล่น"
+
+msgid "email"
+msgstr "อีเมล"
+
+msgid "emoticons"
+msgstr "ไอคอนแสดงอารมณ์"
+
+msgid "empty"
+msgstr "ว่างเปล่า"
+
+msgid "encoding"
+msgstr "รหัสอักขระ, การเข้ารหัสอักขระ, การเข้ารหัส"
+
+msgid "end"
+msgstr "สิ้นสุด"
+
+msgid "engineering"
+msgstr "วิศวกรรมศาสตร์"
+
+msgid "english"
+msgstr "ภาษาอังกฤษ"
+
+msgid "environment"
+msgstr "สภาวะแวดล้อม"
+
+msgid "equation"
+msgstr "สมการ"
+
+msgid "error"
+msgstr "ข้อผิดพลาด"
+
+msgid "errors"
+msgstr "ข้อผิดพลาด"
+
+msgid "esperanto"
+msgstr "ภาษาเอสเปอรันโต"
+
+msgid "event"
+msgstr "เหตุการณ์"
+
+msgid "examples"
+msgstr "ตัวอย่าง"
+
+msgid "executive"
+msgstr "ปฏิบัติ"
+
+msgid "exit"
+msgstr "ออก"
+
+msgid "expand"
+msgstr "ขยาย"
+
+msgid "export"
+msgstr "ส่งออก"
+
+msgid "extension"
+msgstr "ส่วนขยาย"
+
+msgid "extensions"
+msgstr "ส่วนขยาย"
+
+msgid "favorite"
+msgstr "ชื่นชอบ"
+
+msgid "fax"
+msgstr "โทรสาร"
+
+msgid "feb"
+msgstr "ก.พ."
+
+msgid "female"
+msgstr "หญิง"
+
+msgid "field"
+msgstr "เขตข้อมูล"
+
+msgid "file"
+msgstr "ไฟล์"
+
+msgid "filename"
+msgstr "ชื่อไฟล์, ชื่อแฟ้ม"
+
+msgid "files"
+msgstr "ไฟล์"
+
+msgid "fill"
+msgstr "เติม"
+
+msgid "filter"
+msgstr "ตัวกรอง"
+
+msgid "filters"
+msgstr "ตัวกรอง"
+
+msgid "finance"
+msgstr "การเงิน"
+
+msgid "find"
+msgstr "ค้นหา"
+
+msgid "finished"
+msgstr "เสร็จสิ้น"
+
+msgid "finnish"
+msgstr "ภาษาฟินแลนด์"
+
+msgid "fixed"
+msgstr "คงที่"
+
+msgid "flip"
+msgstr "พลิก"
+
+msgid "float"
+msgstr "float ลอย"
+
+msgid "flowchart"
+msgstr "แผนผังลำดับงาน"
+
+msgid "folder"
+msgstr "โฟลเดอร์"
+
+msgid "font"
+msgstr "แบบอักษร"
+
+msgid "fonts"
+msgstr "แบบอักษร"
+
+msgid "footer"
+msgstr "ท้ายกระดาษ"
+
+msgid "foreground"
+msgstr "พื้นหน้า, ทำงานเบื้องหน้า"
+
+msgid "form"
+msgstr "รูป"
+
+msgid "format"
+msgstr "รูปแบบ"
+
+msgid "formats"
+msgstr "รูปแบบ"
+
+msgid "formula"
+msgstr "สูตร"
+
+msgid "forward"
+msgstr "ไปข้างหน้า"
+
+msgid "fraction"
+msgstr "เศษส่วน"
+
+msgid "frame"
+msgstr "กรอบ"
+
+msgid "french"
+msgstr "ภาษาฝรั่งเศส"
+
+msgid "frequency"
+msgstr "ความถี่"
+
+msgid "gamma"
+msgstr "แกมม่า"
+
+msgid "general"
+msgstr "ทั่วไป"
+
+msgid "german"
+msgstr "ภาษาเยอรมัน"
+
+msgid "gradient"
+msgstr "ไล่ระดับสี"
+
+msgid "graphics"
+msgstr "รูป"
+
+msgid "grayscale"
+msgstr "สเกลสีเทา"
+
+msgid "greek"
+msgstr "ภาษากรีก"
+
+msgid "green"
+msgstr "เขียว"
+
+msgid "grid"
+msgstr "เส้นแนว"
+
+msgid "group"
+msgstr "จัดกลุ่ม"
+
+msgid "groups"
+msgstr "กลุ่ม"
+
+msgid "guides"
+msgstr "เส้นนำ"
+
+msgid "header"
+msgstr "ส่วนหัว"
+
+msgid "headers"
+msgstr "หัวกระดาษ"
+
+msgid "heading"
+msgstr "ส่วนหัว"
+
+msgid "headings"
+msgstr "หัวข้อ"
+
+msgid "height"
+msgstr "ความสูง"
+
+msgid "help"
+msgstr "ช่วยเหลือ"
+
+msgid "hide"
+msgstr "ซ่อน"
+
+msgid "high"
+msgstr "สูง"
+
+msgid "hindi"
+msgstr "ภาษาฮินดี"
+
+msgid "histogram"
+msgstr "แผนภูมิแท่ง, ฮิสโตแกรม"
+
+msgid "history"
+msgstr "ประวัติศาสตร์"
+
+msgid "home"
+msgstr "ปุ่ม home"
+
+msgid "horizontal"
+msgstr "แนวนอน"
+
+msgid "hue"
+msgstr "ธาตุสี"
+
+msgid "hungarian"
+msgstr "ภาษาฮังการี"
+
+msgid "icelandic"
+msgstr "ภาษาไอซ์แลนด์"
+
+msgid "icon"
+msgstr "สัญรูป"
+
+msgid "image"
+msgstr "ภาพ"
+
+msgid "images"
+msgstr "รูปภาพ"
+
+msgid "import"
+msgstr "นำเข้า"
 
 msgid "inch"
 msgstr "นิ้ว"
 
-msgid "incomplete"
-msgstr "ไม่สมบูรณ์"
+msgid "inches"
+msgstr "นิ้ว"
 
-msgid "it is already deleted."
-msgstr "มันได้ถูกลบทิ้งไปแล้ว"
+msgid "indent"
+msgstr "ระยะเยื้อง"
 
-msgid "jis exec"
-msgstr "jis exec"
+msgid "index"
+msgstr "ดัชนี"
 
-msgid "juuro-ku-kai"
-msgstr "juuro-ku-kai"
+msgid "information"
+msgstr "ข้อสนเทศ"
 
-msgid "kahu Envelope"
-msgstr "ซอง kahu"
+msgid "input"
+msgstr "ป้อนค่า"
 
-msgid "kaku2 Envelope"
-msgstr "ซอง kahu2"
+msgid "insert"
+msgstr "แทรก"
+
+msgid "install"
+msgstr "ติดตั้ง"
+
+msgid "instructions"
+msgstr "instructions"
+
+msgid "interaction"
+msgstr "ปฏิสัมพันธ์"
+
+msgid "interface"
+msgstr "อินเทอร์เฟซ"
+
+msgid "internet"
+msgstr "อินเทอร์เน็ต"
+
+msgid "interval"
+msgstr "ช่วง"
+
+msgid "invalid"
+msgstr "ใช้ไม่ได้, เสีย"
+
+msgid "invert"
+msgstr "สลับ"
+
+msgid "italian"
+msgstr "ภาษาอิตาลี"
+
+msgid "italic"
+msgstr "เอียง"
+
+msgid "jan"
+msgstr "ม.ค."
+
+msgid "job"
+msgstr "job, งาน"
+
+msgid "justify"
+msgstr "ชิดขอบ"
+
+msgid "keyboard"
+msgstr "แป้นพิมพ์"
+
+msgid "keywords"
+msgstr "คำสำคัญ"
 
 msgid "label"
-msgstr "ฉลาก"
+msgstr "ป้ายกำกับ"
 
-msgid "last read:"
-msgstr "อ่านล่าสุด:"
+msgid "landscape"
+msgstr "แนวนอน"
 
-msgid "last update:"
-msgstr "อัพเดทล่าสุด:"
+msgid "language"
+msgstr "ภาษา"
 
-msgid "merged"
+msgid "languages"
+msgstr "ภาษา"
+
+msgid "large"
+msgstr "ใหญ่"
+
+msgid "latin"
+msgstr "ภาษาละติน"
+
+msgid "layer"
+msgstr "ชั้น"
+
+msgid "layout"
+msgstr "เค้าโครง"
+
+msgid "left"
+msgstr "ซ้าย"
+
+msgid "legal"
+msgstr "ข้อกฎหมาย"
+
+msgid "length"
+msgstr "length"
+
+msgid "letter"
+msgstr "จดหมาย"
+
+msgid "level"
+msgstr "ระดับ"
+
+msgid "library"
+msgstr "library"
+
+msgid "license"
+msgstr "ใบอนุญาต"
+
+msgid "line"
+msgstr "#-#-#-#-#  utlui.po (package version)  #-#-#-#-#\nบรรทัด\n#-#-#-#-#  ui.po (package version)  #-#-#-#-#\nเส้น\n#-#-#-#-#  svdraw.po (package version)  #-#-#-#-#\nเส้น\n#-#-#-#-#  tbxctrls.po (package version)  #-#-#-#-#\nเส้น"
+
+msgid "link"
+msgstr "ลิงก์"
+
+msgid "list"
+msgstr "รายการ"
+
+msgid "location"
+msgstr "ตำแหน่ง"
+
+msgid "lock"
+msgstr "ล็อก, ล็อค"
+
+msgid "logical"
+msgstr "ตรรกะ"
+
+msgid "login"
+msgstr "เข้าระบบ"
+
+msgid "logo"
+msgstr "โลโก้"
+
+msgid "low"
+msgstr "ต่ำ"
+
+msgid "macedonian"
+msgstr "ภาษามาซิโดเนีย"
+
+msgid "macro"
+msgstr "แมโคร"
+
+msgid "mail"
+msgstr "จดหมาย"
+
+msgid "male"
+msgstr "ชาย"
+
+msgid "manual"
+msgstr "manual"
+
+msgid "maps"
+msgstr "แผนที่"
+
+msgid "mar"
+msgstr "มี.ค."
+
+msgid "margins"
+msgstr "ระยะขอบ"
+
+msgid "math"
+msgstr "คณิตศาสตร์"
+
+msgid "max"
+msgstr "มากที่สุด"
+
+msgid "maximize"
+msgstr "ขยายเต็ม"
+
+msgid "maximum"
+msgstr "มากที่สุด"
+
+msgid "medium"
+msgstr "ปานกลาง"
+
+msgid "memory"
+msgstr "หน่วยความจำ"
+
+msgid "menu"
+msgstr "เมนู"
+
+msgid "merge"
 msgstr "ผสาน"
 
-msgid "merges total:"
-msgstr "จำนวนที่ผสาน"
+msgid "message"
+msgstr "ข้อความ"
 
-msgid "missing"
-msgstr "หาย"
+msgid "metafile"
+msgstr "metafile"
 
-msgid "missing / deleted / replaced"
-msgstr "หาย / ลบทิ้ง / แทนที่"
+msgid "middle"
+msgstr "กลาง"
+
+msgid "minimize"
+msgstr "ย่อหาย"
+
+msgid "miscellaneous"
+msgstr "เบ็ดเตล็ด"
 
 msgid "mm"
 msgstr "มม."
 
+msgid "mode"
+msgstr "โหมด"
+
+msgid "model"
+msgstr "model"
+
+msgid "moderator"
+msgstr "ผู้ดำเนินการประชุม"
+
 msgid "modified"
 msgstr "แก้ไข"
 
-msgid "modified / copied"
-msgstr "แก้ไข / คัดลอก"
+msgid "modify"
+msgstr "เปลี่ยนแปลง"
+
+msgid "module"
+msgstr "มอดูล"
+
+msgid "modules"
+msgstr "มอดูล"
+
+msgid "monitor"
+msgstr "เฝ้าสังเกต"
 
 msgid "month"
 msgstr "เดือน"
 
-msgid "mouth changed"
-msgstr "ปากถูกเปลี่ยน"
+msgid "more"
+msgstr "เพิ่มเติม"
+
+msgid "more..."
+msgstr "เพิ่มเติม..."
+
+msgid "move"
+msgstr "โหมด"
+
+msgid "mute"
+msgstr "เงียบ"
+
+msgid "muted"
+msgstr "ปิดเสียง"
+
+msgid "name"
+msgstr "ชื่อ"
+
+msgid "navigation"
+msgstr "การนำทาง"
+
+msgid "network"
+msgstr "เครือข่าย"
+
+msgid "news"
+msgstr "ข่าว"
+
+msgid "next"
+msgstr "ถัดไป"
 
 msgid "no"
 msgstr "ไม่"
 
-msgid "no description for this command is available"
-msgstr "ไม่มีรายละเอียดสำหรับคำสั่งนี้"
+msgid "none"
+msgstr "ไม่มี"
 
 msgid "normal"
 msgstr "ปกติ"
 
+msgid "note"
+msgstr "บันทึกย่อ"
+
+msgid "notes"
+msgstr "บันทึก"
+
+msgid "number"
+msgstr "ตัวเลข (ไม่มีบริบท)"
+
+msgid "numeric"
+msgstr "numeric"
+
+msgid "office"
+msgstr "ที่ทำงาน"
+
 msgid "offline"
 msgstr "ออฟไลน์"
 
-msgid "on the website"
-msgstr "ที่เว็บไซต์"
+msgid "ok"
+msgstr "ตกลง"
 
 msgid "online"
-msgstr "ออนไลน์"
+msgstr "ต่ออยู่"
+
+msgid "opacity"
+msgstr "ความทึบแสง"
+
+msgid "open"
+msgstr "เปิด"
+
+msgid "options"
+msgstr "ตัวเลือก"
 
 msgid "or"
 msgstr "หรือ"
 
-msgid "oufuku (reply postcard)"
-msgstr "oufuku (ไปรษณียบัตรตอบ)"
+msgid "orange"
+msgstr "ส้ม"
+
+msgid "order"
+msgstr "ลำดับ"
+
+msgid "orientation"
+msgstr "การกำหนดทิศทาง"
+
+msgid "origin"
+msgstr "origin"
+
+msgid "other"
+msgstr "อื่น ๆ"
+
+msgid "other..."
+msgstr "อื่นๆ..."
+
+msgid "outline"
+msgstr "เค้าโครง"
 
 msgid "output"
-msgstr "output"
+msgstr "ผลลัพธ์"
 
-msgid "pa-kai"
-msgstr "pa-kai"
+msgid "overview"
+msgstr "ภาพรวม"
+
+msgid "overwrite"
+msgstr "เ~ขียนทับ"
+
+msgid "owner"
+msgstr "เจ้าของ"
+
+msgid "pack"
+msgstr "บรรจุ"
+
+msgid "padding"
+msgstr "padding, ขยายความกว้าง"
+
+msgid "page"
+msgstr "หน้า"
+
+msgid "pager"
+msgstr "เพจเจอร์"
+
+msgid "pages"
+msgstr "หน้า"
+
+msgid "palette"
+msgstr "จานสี"
+
+msgid "palettes"
+msgstr "จานสี"
+
+msgid "paragraph"
+msgstr "ย่อหน้า:"
+
+msgid "parameter"
+msgstr "พารามิเตอร์"
+
+msgid "password"
+msgstr "รหัสผ่าน"
+
+msgid "paste"
+msgstr "วาง"
+
+msgid "path"
+msgstr "เส้นทางที่เก็บไฟล์"
+
+msgid "paths"
+msgstr "เส้นทาง"
+
+msgid "pattern"
+msgstr "ลวดลาย"
+
+msgid "pause"
+msgstr "หยุดชั่วคราว"
 
 msgid "paused"
-msgstr "หยุดพัก"
+msgstr "หยุดชั่วคราว"
 
-msgid "pitch adjusted"
-msgstr "ระดับเสียงถูกปรับแล้ว"
+msgid "pending"
+msgstr "รอติดตั้ง"
+
+msgid "percentage"
+msgstr "_ร้อยละ"
+
+msgid "period"
+msgstr "งวด"
+
+msgid "periodic"
+msgstr "รายคาบ"
+
+msgid "perspective"
+msgstr "ทัศนมิติหรือเพอร์สเปกทีฟ"
+
+msgid "pixel"
+msgstr "พิกเซล"
 
 msgid "pixels"
 msgstr "พิกเซล"
 
-msgid "prc 16k"
-msgstr "prc 16k"
+msgid "place"
+msgstr "ตำแหน่ง"
 
-msgid "prc 32k"
-msgstr "prc 32k"
+msgid "places"
+msgstr "ตำแหน่ง"
 
-msgid "prc1 Envelope"
-msgstr "ซอง prc1"
+msgid "play"
+msgstr "เล่น"
 
-msgid "prc10 Envelope"
-msgstr "ซอง prc10"
+msgid "plug-in"
+msgstr "~ปลั๊กอิน"
 
-msgid "prc2 Envelope"
-msgstr "ซอง prc2"
+msgid "point"
+msgstr "จุด"
 
-msgid "prc3 Envelope"
-msgstr "ซอง prc3"
+msgid "pointer"
+msgstr "ตัวชี้"
 
-msgid "prc4 Envelope"
-msgstr "ซอง prc4"
+msgid "points"
+msgstr "พอยนต์"
 
-msgid "prc5 Envelope"
-msgstr "ซอง prc5"
+msgid "polish"
+msgstr "ภาษาโปแลนด์"
 
-msgid "prc6 Envelope"
-msgstr "ซอง prc6"
+msgid "polygon"
+msgstr "รูปหลายเหลี่ยม"
 
-msgid "prc7 Envelope"
-msgstr "ซอง prc7"
+msgid "polyline"
+msgstr "หลายเส้น"
 
-msgid "prc8 Envelope"
-msgstr "ซอง prc8"
+msgid "portrait"
+msgstr "แนวตั้ง"
 
-msgid "prc9 Envelope"
-msgstr "ซอง prc9"
+msgid "position"
+msgstr "ตำแหน่ง"
 
-msgid "printer offline"
-msgstr "เครื่องพิมพ์ไม่ได้เชื่อมต่อ"
+msgid "power"
+msgstr "ยกกำลัง"
 
-msgid "processing job"
-msgstr "กำลังประมวลงานพิมพ์"
+msgid "pr_eview"
+msgstr "แสดงตัวอย่าง"
 
-msgid "rate adjusted"
-msgstr "อัตราความเร็วถูกปรับแล้ว"
+msgid "pre_view"
+msgstr "แสดงตัวอย่าง"
 
-msgid "readonly"
-msgstr "อ่านอย่างเดียว"
+msgid "preferences"
+msgstr "ปรับแต่ง"
 
-msgid "ready to print"
-msgstr "พร้อมที่จะพิมพ์"
+msgid "prefix"
+msgstr "คำนำหน้า"
 
-msgid "replaced"
+msgid "presentation"
+msgstr "การนำเสนอ"
+
+msgid "preview"
+msgstr "แสดงตัวอย่าง"
+
+msgid "previous"
+msgstr "ก่อนหน้า"
+
+msgid "price"
+msgstr "ราคา"
+
+msgid "print"
+msgstr "พิมพ์"
+
+msgid "printer"
+msgstr "เครื่องพิมพ์"
+
+msgid "printing"
+msgstr "กำลังพิมพ์"
+
+msgid "priority"
+msgstr "ลำดับความสำคัญ"
+
+msgid "private"
+msgstr "ส่วนตัว"
+
+msgid "problem"
+msgstr "ปัญหา"
+
+msgid "processor"
+msgstr "ตัวประมวลผล"
+
+msgid "program"
+msgstr "โปรแกรม"
+
+msgid "progress"
+msgstr "ความคืบหน้า"
+
+msgid "project"
+msgstr "โครงการ"
+
+msgid "projects"
+msgstr "โครงการ"
+
+msgid "properties"
+msgstr "คุณสมบัติ"
+
+msgid "properties..."
+msgstr "คุณสมบัติ..."
+
+msgid "property"
+msgstr "คุณสมบัติ"
+
+msgid "protection"
+msgstr "การปกป้อง"
+
+msgid "proxy"
+msgstr "พร็อกซี"
+
+msgid "public"
+msgstr "สาธารณะ"
+
+msgid "publishing"
+msgstr "การพิมพ์"
+
+msgid "quality"
+msgstr "คุณภาพ"
+
+msgid "query"
+msgstr "ข้อคำถาม"
+
+msgid "quit"
+msgstr "ออก"
+
+msgid "radius"
+msgstr "รัศมี"
+
+msgid "random"
+msgstr "สุ่ม"
+
+msgid "range"
+msgstr "ช่วง"
+
+msgid "rate"
+msgstr "อัตรา"
+
+msgid "rating"
+msgstr "rating"
+
+msgid "ratio"
+msgstr "อัตราส่วน"
+
+msgid "ready"
+msgstr "พร้อม"
+
+msgid "record"
+msgstr "ระเบียน"
+
+msgid "rectangle"
+msgstr "สี่เหลี่ยม"
+
+msgid "red"
+msgstr "แดง"
+
+msgid "redo"
+msgstr "ทำซ้ำ"
+
+msgid "references"
+msgstr "อ้างอิง"
+
+msgid "refresh"
+msgstr "แสดงผลใหม่"
+
+msgid "register"
+msgstr "สมัครสมาชิก"
+
+msgid "rejected"
+msgstr "ถูกปฏิเสธ"
+
+msgid "remove"
+msgstr "ลบออก"
+
+msgid "rename"
+msgstr "เปลี่ยนชื่อ"
+
+msgid "repeat"
+msgstr "ซ้ำ"
+
+msgid "replace"
 msgstr "แทนที่"
 
-msgid "revisions:"
-msgstr "การปรับปรุง:"
+msgid "reply"
+msgstr "ตอบ"
 
-msgid "svn:eol-style"
-msgstr "svn:eol-style"
+msgid "reports"
+msgstr "รายงาน"
 
-msgid "svn:eol-style\r\nOne of 'native', 'LF', 'CR', 'CRLF'."
-msgstr "svn:eol-style\n'native', 'LF', 'CR', 'CRLF' อย่างใดอย่างหนึ่ง"
+msgid "reset"
+msgstr "ตั้งค่าใหม่"
 
-msgid "svn:executable"
-msgstr "svn:executable"
+msgid "resize"
+msgstr "ปรับขนาด"
 
-msgid "svn:externals"
-msgstr "svn:externals"
+msgid "resolution"
+msgstr "ความละเอียด"
 
-msgid "svn:ignore\r\nA newline separated list of file patterns to ignore."
-msgstr "svn:ignore\nแต่ละบรรทัดแบ่งแยกรูปแบบไฟล์ที่ละเว้น"
+msgid "restore"
+msgstr "คืนสภาพ"
 
-msgid "svn:keywords"
-msgstr "svn:keywords"
+msgid "retry"
+msgstr "ลองใหม่"
 
-msgid "svn:mime-type"
-msgstr "svn:mime-type"
+msgid "return"
+msgstr "return"
 
-msgid "svn:needs-lock"
-msgstr "svn:needs-lock"
+msgid "revert"
+msgstr "แปลงกลับ, กลับค่า, กลับเป็นตรงกันข้าม"
 
-msgid "the operating system"
-msgstr "ระบบปฏิบัติการ"
+msgid "review"
+msgstr "ติชม"
 
-msgid "this website"
-msgstr "เว็บไซต์นี้"
+msgid "right"
+msgstr "ขวา"
+
+msgid "romanian"
+msgstr "ภาษาโรมาเนีย"
+
+msgid "rotate"
+msgstr "หมุน"
+
+msgid "round"
+msgstr "รอบ"
+
+msgid "row"
+msgstr "แถว"
+
+msgid "rows"
+msgstr "แถว"
+
+msgid "run"
+msgstr "เรียกทำงาน"
+
+msgid "russian"
+msgstr "ภาษารัสเซีย"
+
+msgid "s"
+msgstr "s"
+
+msgid "sample"
+msgstr "ตัวอย่าง"
+
+msgid "saturation"
+msgstr "ความอิ่มสี"
+
+msgid "save"
+msgstr "บันทึก"
+
+msgid "scale"
+msgstr "มาตราส่วน"
+
+msgid "scan"
+msgstr "สแกน"
+
+msgid "scope"
+msgstr "ขอบข่าย"
+
+msgid "script"
+msgstr "ชุดคำสั่ง"
+
+msgid "scrollbars"
+msgstr "แถบเลื่อน"
+
+msgid "search"
+msgstr "ค้นหา"
+
+msgid "section"
+msgstr "เลือก"
+
+msgid "security"
+msgstr "ความปลอดภัย"
+
+msgid "select"
+msgstr "เลือก"
+
+msgid "selection"
+msgstr "สิ่งที่เลือก"
+
+msgid "send"
+msgstr "ส่ง"
+
+msgid "separator"
+msgstr "ตัวแบ่งคอลัมน์"
+
+msgid "services"
+msgstr "บริการ"
+
+msgid "settings"
+msgstr "การตั้งค่า"
+
+msgid "setup"
+msgstr "ตั้งค่า"
+
+msgid "shape"
+msgstr "shape"
+
+msgid "sharpen"
+msgstr "คมชัด"
+
+msgid "shell"
+msgstr "เชล"
+
+msgid "shift"
+msgstr "เลื่อน"
+
+msgid "show"
+msgstr "แสดง"
+
+msgid "simple"
+msgstr "ปกติ"
+
+msgid "size"
+msgstr "ขนาด"
+
+msgid "skip"
+msgstr "ข้าม"
+
+msgid "slovak"
+msgstr "ภาษาสโลวาเกีย"
+
+msgid "small"
+msgstr "เล็ก"
+
+msgid "smart"
+msgstr "สมาร์ท"
+
+msgid "smooth"
+msgstr "เรียบ"
+
+msgid "sort"
+msgstr "เรียง"
+
+msgid "source"
+msgstr "แหล่งที่มา"
+
+msgid "space"
+msgstr "อวกาศ"
+
+msgid "spacing"
+msgstr "ระยะห่าง"
+
+msgid "spanish"
+msgstr "ภาษาสเปน"
+
+msgid "speed"
+msgstr "ความเร็ว:"
+
+msgid "spellcheck"
+msgstr "ตรวจตัวสะกด"
+
+msgid "split"
+msgstr "แยก"
+
+msgid "spreadsheet"
+msgstr "ตารางคำนวณ"
+
+msgid "square"
+msgstr "สี่เหลี่ยมจัตุรัส"
+
+msgid "standard"
+msgstr "มาตรฐาน"
+
+msgid "start"
+msgstr "เริ่มต้น"
+
+msgid "state"
+msgstr "รัฐ"
+
+msgid "statistics"
+msgstr "สถิติ"
+
+msgid "status"
+msgstr "สถานะ"
+
+msgid "stop"
+msgstr "หยุด"
+
+msgid "strikethrough"
+msgstr "ขีดเส้นทับข้อความ"
+
+msgid "string"
+msgstr "สายอักขระ"
+
+msgid "style"
+msgstr "ลักษณะ"
+
+msgid "subject"
+msgstr "เรื่อง"
+
+msgid "submit"
+msgstr "ส่ง"
+
+msgid "subscript"
+msgstr "ตัวห้อย"
+
+msgid "suffix"
+msgstr "ส่วนต่อท้าย"
+
+msgid "summary"
+msgstr "ผลรวม"
+
+msgid "sun"
+msgstr "ดวงอาทิตย์"
+
+msgid "superscript"
+msgstr "ตัวยก"
+
+msgid "support"
+msgstr "บริการช่วยเหลือ"
+
+msgid "suspend"
+msgstr "หยุดชั่วคราว, หยุดทำงานชั่วคราว"
+
+msgid "swahili"
+msgstr "ภาษาสวาฮีลี"
+
+msgid "swedish"
+msgstr "ภาษาสวีเดน"
+
+msgid "synchronize"
+msgstr "ประสานเวลา"
+
+msgid "system"
+msgstr "ระบบ"
+
+msgid "tab"
+msgstr "ระยะกั้น"
+
+msgid "table"
+msgstr "ตาราง"
+
+msgid "target"
+msgstr "เป้าหมาย"
+
+msgid "templates"
+msgstr "แม่แบบ"
+
+msgid "test"
+msgstr "ทดสอบ"
+
+msgid "text"
+msgstr "ข้อความ"
+
+msgid "theme"
+msgstr "ชุดรูปแบบ, ธีม"
+
+msgid "timeout"
+msgstr "หมดเวลา"
+
+msgid "tiny"
+msgstr "tiny"
+
+msgid "title"
+msgstr "หัวข้อ"
+
+msgid "today"
+msgstr "วันนี้"
+
+msgid "toggle"
+msgstr "สลับ"
+
+msgid "toolbar"
+msgstr "แถบเครื่องมือ"
+
+msgid "toolbars"
+msgstr "แถบเครื่องมือ"
+
+msgid "toolbox"
+msgstr "กล่องเครื่องมือ"
+
+msgid "tools"
+msgstr "เครื่องมือ"
+
+msgid "top"
+msgstr "บน"
+
+msgid "total"
+msgstr "ยอดรวม"
+
+msgid "tr_ansparency"
+msgstr "ความโปร่งแสง"
+
+msgid "transform"
+msgstr "แปลง"
+
+msgid "transformation"
+msgstr "การแปลง"
+
+msgid "translate"
+msgstr "แปล"
+
+msgid "translation"
+msgstr "คำแปล"
 
 msgid "translator-credits"
 msgstr "Akom Chotiphantawanon"
 
+msgid "transparency"
+msgstr "ความโปร่งแสง"
+
+msgid "transparent"
+msgstr "โปร่งใส"
+
+msgid "trash"
+msgstr "ถังขยะ"
+
+msgid "type"
+msgstr "ชนิด"
+
+msgid "uncheck"
+msgstr "ไม่เลือก"
+
+msgid "underline"
+msgstr "ขีดเส้นใต้"
+
+msgid "undo"
+msgstr "ทำกลับ"
+
+msgid "unicode"
+msgstr "ยูนิโค้ด"
+
 msgid "unknown"
-msgstr "ไม่ทราบ"
+msgstr "ไม่รู้จัก"
 
-msgid "uuid x6&4:"
-msgstr "uuid x6&4:"
+msgid "unlink"
+msgstr "ไม่เชื่อมโยง"
 
-msgid "values are different"
-msgstr "ค่าดังกล่าวต่างกัน"
+msgid "unlock"
+msgstr "ปลดล็อก"
 
-msgid "week"
-msgstr "สัปดาห์"
+msgid "untitled"
+msgstr "ไม่มีชื่อ"
 
-msgid "words [uncompressed]:"
-msgstr "คำ [ไม่บีบอัด]"
+msgid "up"
+msgstr "ขึ้น"
+
+msgid "update"
+msgstr "อัพเดท"
+
+msgid "updated"
+msgstr "อัพเดทแล้ว"
+
+msgid "user"
+msgstr "ผู้ใช้งาน"
+
+msgid "username"
+msgstr "ชื่อผู้ใช้"
+
+msgid "users"
+msgstr "ผู้ใช้งาน"
+
+msgid "value"
+msgstr "ค่า"
+
+msgid "variable"
+msgstr "ตัวแปร"
+
+msgid "variance"
+msgstr "ความแปรปรวน"
+
+msgid "vendor"
+msgstr "ผู้ขาย"
+
+msgid "version"
+msgstr "เวอร์ชั่น"
+
+msgid "vertical"
+msgstr "แนวตั้ง"
+
+msgid "video"
+msgstr "วีดิทัศน์"
+
+msgid "view"
+msgstr "มุมมอง"
+
+msgid "visible"
+msgstr "มองเห็นได้"
+
+msgid "volume"
+msgstr "โวลุม"
+
+msgid "waiting"
+msgstr "รอ"
+
+msgid "warning"
+msgstr "คำเตื่อน"
+
+msgid "warning!"
+msgstr "คำเตือน!"
+
+msgid "warnings"
+msgstr "คำเตือน!"
+
+msgid "website"
+msgstr "เว็บไซต์"
+
+msgid "weight"
+msgstr "นำ้หนัก"
+
+msgid "welcome"
+msgstr "ยินดีต้อนรับ"
+
+msgid "welsh"
+msgstr "ภาษาเวลส์"
+
+msgid "wheel"
+msgstr "wheel วงล้อ"
+
+msgid "white"
+msgstr "ขาว"
+
+msgid "width"
+msgstr "ความกว้าง"
+
+msgid "windows"
+msgstr "windows"
+
+msgid "word"
+msgstr "คำ"
 
 msgid "year"
 msgstr "ปี"
 
+msgid "yellow"
+msgstr "เหลือง"
+
 msgid "yes"
 msgstr "ตกลง"
 
-msgid "you4 Envelope"
-msgstr "ซอง you4"
+msgid "zoom"
+msgstr "ขยาย"
 
-msgid "{BugTraq}"
-msgstr "{BugTraq}"
+msgid "…"
+msgstr "…"

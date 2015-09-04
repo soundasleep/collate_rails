@@ -1,8 +1,0 @@
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/bzflag/workspace/data/l10n/bzflag_xx.po by load_po_file"
-
-msgid "translator"
-msgstr "Translator Name"
-
-msgid "xx"
-msgstr "Translation Base"

@@ -1,0 +1,56 @@
+msgid "Error"
+msgstr "Eror"
+
+msgid "Help"
+msgstr "Tulong"
+
+msgid "Name"
+msgstr "Pangalan"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Options"
+msgstr "Aksyon"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Search"
+msgstr "Hanapin"
+
+msgid "User"
+msgstr "Mga User"
+
+msgid "Version"
+msgstr "Versyon"
+
+msgid "Warning"
+msgstr "Umaga"
+
+msgid "error"
+msgstr "eror"
+
+msgid "help"
+msgstr "tulong"
+
+msgid "name"
+msgstr "pangalan"
+
+msgid "options"
+msgstr "aksyon"
+
+msgid "password"
+msgstr "password"
+
+msgid "search"
+msgstr "hanapin"
+
+msgid "user"
+msgstr "mga user"
+
+msgid "version"
+msgstr "versyon"
+
+msgid "warning"
+msgstr "umaga"

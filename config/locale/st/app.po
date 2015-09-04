@@ -1,2 +1,113 @@
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/speak/workspace/po/st.po by load_po_file"
+msgid "Accepted"
+msgstr "Amohela"
+
+msgid "Comment"
+msgstr "Dikarabelo"
+
+msgid "Comments"
+msgstr "Dikarabelo"
+
+msgid "Description"
+msgstr "Tlhalosetso"
+
+msgid "Description..."
+msgstr "Tlhalosetso"
+
+msgid "E-mail"
+msgstr "Imeile"
+
+msgid "Language"
+msgstr "Puo"
+
+msgid "Languages"
+msgstr "Dipuo"
+
+msgid "Location"
+msgstr "Bodulo"
+
+msgid "Name"
+msgstr "Lebitso"
+
+msgid "Options"
+msgstr "Kgetho"
+
+msgid "Password"
+msgstr "Phasewete"
+
+msgid "Project"
+msgstr "Diprojeke"
+
+msgid "Projects"
+msgstr "Diprojeke"
+
+msgid "Rejected"
+msgstr "Hana"
+
+msgid "Search"
+msgstr "Etsa search"
+
+msgid "Source Text"
+msgstr "Mongolo wa Mohlodi"
+
+msgid "Special Characters"
+msgstr "(ditlhaku tse kgethehileng)"
+
+msgid "Title"
+msgstr "Sehlooho"
+
+msgid "User"
+msgstr "Basebedisi"
+
+msgid "accepted"
+msgstr "amohela"
+
+msgid "comment"
+msgstr "dikarabelo"
+
+msgid "comments"
+msgstr "dikarabelo"
+
+msgid "description"
+msgstr "tlhalosetso"
+
+msgid "description..."
+msgstr "tlhalosetso"
+
+msgid "e-mail"
+msgstr "imeile"
+
+msgid "language"
+msgstr "puo"
+
+msgid "languages"
+msgstr "dipuo"
+
+msgid "location"
+msgstr "bodulo"
+
+msgid "name"
+msgstr "lebitso"
+
+msgid "options"
+msgstr "kgetho"
+
+msgid "password"
+msgstr "phasewete"
+
+msgid "project"
+msgstr "diprojeke"
+
+msgid "projects"
+msgstr "diprojeke"
+
+msgid "rejected"
+msgstr "hana"
+
+msgid "search"
+msgstr "etsa search"
+
+msgid "title"
+msgstr "sehlooho"
+
+msgid "user"
+msgstr "basebedisi"

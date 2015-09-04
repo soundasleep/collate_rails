@@ -1,0 +1,89 @@
+msgid "Accepted"
+msgstr "Tanganedza"
+
+msgid "Description"
+msgstr "Thaluso"
+
+msgid "Description..."
+msgstr "Thaluso"
+
+msgid "E-mail"
+msgstr "Emeili"
+
+msgid "Language"
+msgstr "Nyambo"
+
+msgid "Languages"
+msgstr "Nyambo"
+
+msgid "Name"
+msgstr "Dzina"
+
+msgid "Options"
+msgstr "U Nanga"
+
+msgid "Password"
+msgstr "Phasiwede"
+
+msgid "Project"
+msgstr "Thandela"
+
+msgid "Projects"
+msgstr "Thandela"
+
+msgid "Rejected"
+msgstr "Hana"
+
+msgid "Search"
+msgstr "Toda"
+
+msgid "Title"
+msgstr "Ṱhoho"
+
+msgid "User"
+msgstr "Vhashumisi"
+
+msgid "accepted"
+msgstr "tanganedza"
+
+msgid "description"
+msgstr "thaluso"
+
+msgid "description..."
+msgstr "thaluso"
+
+msgid "e-mail"
+msgstr "emeili"
+
+msgid "language"
+msgstr "nyambo"
+
+msgid "languages"
+msgstr "nyambo"
+
+msgid "name"
+msgstr "dzina"
+
+msgid "options"
+msgstr "u nanga"
+
+msgid "password"
+msgstr "phasiwede"
+
+msgid "project"
+msgstr "thandela"
+
+msgid "projects"
+msgstr "thandela"
+
+msgid "rejected"
+msgstr "hana"
+
+msgid "search"
+msgstr "toda"
+
+msgid "title"
+msgstr "Ṱhoho"
+
+msgid "user"
+msgstr "vhashumisi"

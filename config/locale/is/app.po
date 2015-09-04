@@ -1,5 +1,5 @@
-msgid "# authors shown individually:"
-msgstr "# höfundar sýndir hver í sínu lagi:"
+msgid "#"
+msgstr "#"
 
 msgid "#10 Envelope"
 msgstr "#10 umslag"
@@ -10,338 +10,149 @@ msgstr "#11 umslag"
 msgid "#12 Envelope"
 msgstr "#12 umslag"
 
-msgid "#14 Envelope"
-msgstr "#14 umslag"
-
 msgid "#9 Envelope"
 msgstr "#9 umslag"
 
-msgid "%{string} already exists in the bookmarks list"
-msgstr "%{string} er þegar til í bókamerkjalistanum"
-
-msgid "%{string} does not exist in the bookmarks list"
-msgstr "%{string} er ekki til í bókamerkjalistanum"
-
-msgid "%{string}: error launching application: %{string}\n"
-msgstr "%{string}: villa við að ræsa forrit: %{string}\n"
-
-msgid "%{string}: missing application name"
-msgstr "%{string}: vantar heiti forrits"
-
-msgid "&..."
-msgstr "&..."
-
-msgid "&Activate"
-msgstr "&Virkja"
-
-msgid "&Add"
-msgstr "&Bæta við"
-
-msgid "&Add >>"
-msgstr "&Bæta við >>"
-
-msgid "&Add or Remove Buttons"
-msgstr "&Bæta við eða Eyða takkar"
-
-msgid "&Add..."
-msgstr "&Bæta við..."
-
-msgid "&Advanced..."
-msgstr "&Ítarlegt..."
-
-msgid "&Apply property recursively"
-msgstr "&Stilla eiginleika á endurkvæman hátt"
-
-msgid "&Arguments:"
-msgstr "&Viðföng"
-
-msgid "&Manually edit property"
-msgstr "&Breyta eiginleika handvirkt"
+msgid "("
+msgstr "("
 
 msgid "(None)"
-msgstr "(Ekkert)"
+msgstr "(ekkert)"
 
-msgid "(property change only)"
-msgstr "(einvörðungu breyting á eiginleika)"
+msgid "(empty)"
+msgstr "Autt"
 
-msgid "10 minutes"
-msgstr "mínúta"
+msgid "(none)"
+msgstr "(enginn)"
 
-msgid "10×11"
-msgstr "10×11"
+msgid ")"
+msgstr ")"
 
-msgid "10×13"
-msgstr "10×13"
+msgid "+"
+msgstr "+"
 
-msgid "10×14"
-msgstr "10×14"
+msgid ","
+msgstr ","
 
-msgid "10×15"
-msgstr "10×15"
+msgid "-"
+msgstr "-"
 
-msgid "11×12"
-msgstr "11×12"
+msgid "..."
+msgstr "..."
 
-msgid "11×15"
-msgstr "11×15"
+msgid "/"
+msgstr "/"
 
-msgid "12×19"
-msgstr "12×19"
+msgid "1"
+msgstr "1"
 
-msgid "2 hours"
-msgstr "klukkustund"
+msgid "16"
+msgstr "16"
 
-msgid "2000"
-msgstr "2000"
+msgid "2"
+msgstr "2"
 
-msgid "5×7"
-msgstr "5×7"
+msgid "24"
+msgstr "24"
 
-msgid "6 hours"
-msgstr "klukkustund"
+msgid "3"
+msgstr "3"
 
-msgid "6×9 Envelope"
-msgstr "6x9 umslag"
+msgid "32"
+msgstr "32"
 
-msgid "7×9 Envelope"
-msgstr "7x9 umslag"
+msgid "4"
+msgstr "4"
 
-msgid "8×10 Envelope"
-msgstr "8×10 umslag"
+msgid "40"
+msgstr "40"
 
-msgid "9×11 Envelope"
-msgstr "9×11 umslag"
+msgid "6"
+msgstr "6"
 
-msgid "9×12 Envelope"
-msgstr "9×12 umslag"
+msgid "8"
+msgstr "8"
 
 msgid ";"
 msgstr ";"
 
+msgid "?"
+msgstr "?"
+
 msgid "A"
 msgstr "A"
-
-msgid "A file named “%{string}” already exists.  Do you want to replace it?"
-msgstr "Það er þegar til skrá sem heitir „“%{string}“. Viltu skipta henni út?"
-
-msgid "A file with that name already exists"
-msgstr "Skrá með sama heiti er þegar til"
-
-msgid "A folder cannot be called “..”"
-msgstr "Mappa má ekki heita “..”"
-
-msgid "A folder cannot be called “.”"
-msgstr "Mappa má ekki heita “.”"
-
-msgid "A folder with that name already exists"
-msgstr "Mappa með sama heiti er þegar til"
-
-msgid "A logo for the about box. If this is not set, it defaults to gtk_window_get_default_icon_list()"
-msgstr "Merkið sem birtist í upplýsingum forritsins. Ef engin mynd er valin þá notast gtk_window_get_default_icon_list() hennar í stað"
-
-msgid "A tooltip for this action."
-msgstr "Vísbending fyrir þessa aðgerð."
 
 msgid "A0"
 msgstr "A0"
 
-msgid "A0×2"
-msgstr "A0×2"
-
-msgid "A0×3"
-msgstr "A0×3"
-
 msgid "A1"
 msgstr "A1"
-
-msgid "A10"
-msgstr "A10"
-
-msgid "A1×3"
-msgstr "A1×3"
-
-msgid "A1×4"
-msgstr "A1×4"
 
 msgid "A2"
 msgstr "A2"
 
-msgid "A2×3"
-msgstr "A2×3"
-
-msgid "A2×4"
-msgstr "A2×4"
-
-msgid "A2×5"
-msgstr "A2×5"
-
 msgid "A3"
 msgstr "A3"
-
-msgid "A3 Extra"
-msgstr "A3 Extra"
-
-msgid "A3×3"
-msgstr "A3×3"
-
-msgid "A3×4"
-msgstr "A3×4"
-
-msgid "A3×5"
-msgstr "A3×5"
-
-msgid "A3×6"
-msgstr "A3×6"
-
-msgid "A3×7"
-msgstr "A3×7"
 
 msgid "A4"
 msgstr "A4"
 
-msgid "A4 Extra"
-msgstr "A4 Extra"
-
-msgid "A4 Tab"
-msgstr "A4 Tab"
-
-msgid "A4×3"
-msgstr "A4×3"
-
-msgid "A4×4"
-msgstr "A4×4"
-
-msgid "A4×5"
-msgstr "A4×5"
-
-msgid "A4×6"
-msgstr "A4×6"
-
-msgid "A4×7"
-msgstr "A4×7"
-
-msgid "A4×8"
-msgstr "A4×8"
-
-msgid "A4×9"
-msgstr "A4×9"
-
 msgid "A5"
 msgstr "A5"
-
-msgid "A5 Extra"
-msgstr "A5 Extra"
 
 msgid "A6"
 msgstr "A6"
 
-msgid "A7"
-msgstr "A7"
+msgid "ASCII"
+msgstr "ASCII"
 
-msgid "A8"
-msgstr "A8"
+msgid "AUTHOR"
+msgstr "HÖFUNDUR"
 
-msgid "A9"
-msgstr "A9"
-
-msgid "AC adapter"
-msgstr "Veituspenna aftengd"
-
-msgid "AC adapters"
-msgstr "Veituspenna aftengd"
-
-msgid "APPLICATION [URI…] — launch an APPLICATION with URI."
-msgstr "FORRIT [URI…] — ræsa FORRIT með URI-slóð."
-
-msgid "A_t:"
-msgstr "Klukkan:"
+msgid "Abbreviation"
+msgstr "Stytting"
 
 msgid "About"
-msgstr "Um hugbúnaðinn"
+msgstr "Um"
 
-msgid "Accelerator Closure"
-msgstr "Loka flýtilykli"
+msgid "Accept"
+msgstr "�iggja"
 
-msgid "Accelerator Widget"
-msgstr "Græja flýtilykils"
-
-msgid "Accelerator key"
-msgstr "Flýtilykill"
-
-msgid "Accelerator keycode"
-msgstr "Kóði flýtilykils"
-
-msgid "Accelerator modifiers"
-msgstr "Breytilyklar flýtilykla"
-
-msgid "Accept focus"
-msgstr "Taka við virkni"
-
-msgid "Accepting Jobs"
-msgstr "Tek við prentverkum"
-
-msgid "Accessible description"
-msgstr "Lýsing í aðgengi"
-
-msgid "Accessible name"
-msgstr "Heiti í aðgengi"
-
-msgid "Accessible role"
-msgstr "Hlutverk í aðgengi"
+msgid "Accepted"
+msgstr "Samþykkt"
 
 msgid "Action"
 msgstr "Aðgerð"
 
 msgid "Actions"
-msgstr "Aðgerðir"
-
-msgid "Activate"
-msgstr "Virkja"
-
-msgid "Activates the cell"
-msgstr "Virkjar reitinn"
-
-msgid "Activates the color"
-msgstr "Virkjar litinn"
-
-msgid "Activates the entry"
-msgstr "Virkjar færsluna"
-
-msgid "Activates the expander"
-msgstr "Virkjar útvíkkarann"
+msgstr "Aðgerð"
 
 msgid "Active"
 msgstr "Virkt"
 
-msgid "Active window"
-msgstr "Virkur gluggi"
+msgid "Add"
+msgstr "Bæta við"
 
-msgid "Add Cover Page"
-msgstr "Bæta við kápu"
-
-msgid "Add a class"
-msgstr "Bæta við klasa"
+msgid "Addition"
+msgstr "Bæta við"
 
 msgid "Address"
-msgstr "Vistfang"
-
-msgid "Adds a new property"
-msgstr "Bætir við nýjum eiginleika"
+msgstr "Slóð"
 
 msgid "Adjustment"
 msgstr "Aðlögun"
 
-msgid "Adjusts the volume"
-msgstr "Aðlagar hljóðstyrk"
-
 msgid "Advanced"
-msgstr "Ítarlegra"
+msgstr "Nánar"
 
-msgid "Affects"
-msgstr "Hefur áhrif á"
+msgid "Advanced Settings"
+msgstr "Frekari stillingar"
+
+msgid "Advanced Settings..."
+msgstr "Gefnar stillingar"
 
 msgid "After"
-msgstr "Eftir"
+msgstr "Á eftir"
 
 msgid "Align"
 msgstr "Jafna"
@@ -349,668 +160,305 @@ msgstr "Jafna"
 msgid "Alignment"
 msgstr "Jöfnun"
 
+msgid "All"
+msgstr "Allt"
+
 msgid "All Files"
+msgstr "Allar skrár"
+
+msgid "All files"
 msgstr "Allar skrár"
 
 msgid "All sheets"
 msgstr "Öll blöð"
 
-msgid "Allocated size"
-msgstr "Úthlutuð stærð"
-
 msgid "Alpha"
-msgstr "Alfa gegnsæi"
-
-msgid "Alt"
-msgstr "Alt"
-
-msgid "Aluminum 1"
-msgstr "Ál 1"
-
-msgid "Aluminum 2"
-msgstr "Ál 2"
+msgstr "Alfa"
 
 msgid "Always"
 msgstr "Alltaf"
 
-msgid "Amharic (EZ+)"
-msgstr "Amharískt (EZ+)"
+msgid "Amount"
+msgstr "Magn"
 
-msgid "Amount of blue light in the color."
-msgstr "Magn bláa litsins."
-
-msgid "Amount of green light in the color."
-msgstr "Magn græna litsins."
-
-msgid "Amount of red light in the color."
-msgstr "Magn rauða litsins."
+msgid "Anchor"
+msgstr "Festipunktur"
 
 msgid "Angle"
 msgstr "Horn"
 
-msgid "Animated"
-msgstr "Með hreyfingu"
-
 msgid "Animation"
-msgstr "Hreyfing"
-
-msgid "Animations"
 msgstr "Hreyfingar"
 
-msgid "Anonymous tag found and tags can not be created."
-msgstr "Nafnlaust merki fannst og ekki er hægt að búa til merki."
+msgid "Animations"
+msgstr "Hreyfimyndir"
 
-msgid "Any Printer"
-msgstr "Einhver prentari"
+msgid "Annotation"
+msgstr "Athugasemdir"
 
-msgid "Appearance of the shadow surrounding the arrow"
-msgstr "Útlit skuggans sem er utanum píluna"
+msgid "Appearance"
+msgstr "Útlit"
 
 msgid "Application"
 msgstr "Forrit"
 
-msgid "Application menu"
-msgstr "Forritavalmynd"
-
-msgid "Arch A"
-msgstr "Arch A"
-
-msgid "Arch B"
-msgstr "Arch B"
-
-msgid "Arch C"
-msgstr "Arch C"
-
-msgid "Arch D"
-msgstr "Arch D"
-
-msgid "Arch E"
-msgstr "Arch E"
+msgid "Apply"
+msgstr "Setja"
 
 msgid "Area"
-msgstr "Svæði"
+msgstr "Flötur"
 
-msgid "Arrow direction"
-msgstr "Átt pílu"
+msgid "Arrow"
+msgstr "Ör"
 
-msgid "Arrow shadow"
-msgstr "Skuggi pílu"
+msgid "Arrow keys"
+msgstr "Örvatakkar"
 
-msgid "Artistic License 2.0"
-msgstr "Artistic License 2.0"
-
-msgid "Artists"
-msgstr "Listamenn"
-
-msgid "Artwork by"
-msgstr "Myndir eftir"
-
-msgid "Aspect ratio if obey_child is FALSE"
-msgstr "Hlutfall ef obey_child er FALSE"
+msgid "Assign"
+msgstr "Úthluta"
 
 msgid "Attribute"
-msgstr "Eigindi"
-
-msgid "Attribute mapping"
-msgstr "Vörpun eiginda"
+msgstr "Eiginleiki"
 
 msgid "Attributes"
 msgstr "Eigindi"
 
-msgid "AudioLowerVolume"
-msgstr "AudioLowerVolume"
-
-msgid "AudioMedia"
-msgstr "AudioMedia"
-
-msgid "AudioMicMute"
-msgstr "AudioMicMute"
-
-msgid "AudioMute"
-msgstr "AudioMute"
-
-msgid "AudioNext"
-msgstr "AudioNext"
-
-msgid "AudioPause"
-msgstr "AudioPause"
-
-msgid "AudioPlay"
-msgstr "AudioPlay"
-
-msgid "AudioPrev"
-msgstr "AudioPrev"
-
-msgid "AudioRaiseVolume"
-msgstr "AudioRaiseVolume"
-
-msgid "AudioRecord"
-msgstr "AudioRecord"
-
-msgid "AudioRewind"
-msgstr "AudioRewind"
-
-msgid "AudioStop"
-msgstr "AudioStop"
-
 msgid "Authentication"
 msgstr "Auðkenning"
 
-msgid "Authentication is required to get attributes of a job"
-msgstr "Auðkenningar er krafist til að sækja upplýsingar um þetta verk"
-
-msgid "Authentication is required to get attributes of a printer"
-msgstr "Auðkenningar er krafist til að sækja upplýsingar prentara"
-
-msgid "Authentication is required to get attributes of job “%{string}”"
-msgstr "Auðkenningar er krafist til að sækja upplýsingar um verkið '%{string}'"
-
-msgid "Authentication is required to print document “%{string}”"
-msgstr "Auðkenningar er krafist til að prenta skjalið \"%{string}\""
-
-msgid "Authentication is required to print this document"
-msgstr "Auðkenningar er krafist til að prenta þetta skjal"
+msgid "Author"
+msgstr "Höfundur"
 
 msgid "Authors"
-msgstr "Höfundar"
+msgstr "Lei�beinandi"
 
-msgid "Auto Select"
-msgstr "Velja sjálfvirkt"
+msgid "Auto"
+msgstr "Sjálfvirkt"
 
-msgid "Auto render"
-msgstr "Myndgera sjálfvirkt"
+msgid "Automatic"
+msgstr "Sjálfvirkt"
 
-msgid "B0"
-msgstr "B0"
+msgid "Automatic pre_view"
+msgstr "Sjálf_virk forskoðun"
 
-msgid "B1"
-msgstr "B1"
+msgid "Average"
+msgstr "Meðaltal"
 
-msgid "B10"
-msgstr "B10"
+msgid "Axes"
+msgstr "Ásar"
 
-msgid "B2"
-msgstr "B2"
-
-msgid "B3"
-msgstr "B3"
-
-msgid "B4"
-msgstr "B4"
-
-msgid "B5"
-msgstr "B5"
-
-msgid "B5 Extra"
-msgstr "B5 Extra"
-
-msgid "B6"
-msgstr "B6"
-
-msgid "B6/C4"
-msgstr "B6/C4"
-
-msgid "B7"
-msgstr "B7"
-
-msgid "B8"
-msgstr "B8"
-
-msgid "B9"
-msgstr "B9"
-
-msgid "BSD 2-Clause License"
-msgstr "BSD 2-Clause notkunarleyfi"
+msgid "B"
+msgstr "B"
 
 msgid "Back"
 msgstr "Til baka"
 
-msgid "BackSpace"
-msgstr "Backspace"
-
-msgid "Backend"
-msgstr "Bakendi"
-
-msgid "Backend does not support window scaling"
-msgstr "Bakendi styður ekki gluggakvörðun"
+msgid "Background"
+msgstr "Bakgrunnur"
 
 msgid "Background color"
 msgstr "Bakgrunnslitur"
 
-msgid "Background color as RGBA"
-msgstr "Bakgrunnslitur sem RGBA"
-
-msgid "Background color as a GdkColor"
-msgstr "Bakgrunnslitur sem GdkColor"
-
-msgid "Background color as a GdkRGBA"
-msgstr "Bakgrunnslitur sem GdkRGBA"
-
-msgid "Background color as a string"
-msgstr "Bakgrunnslitur sem strengur"
-
-msgid "Background color name"
-msgstr "Nafn bakgrunnslitar"
-
-msgid "Backslash"
-msgstr "Öfugt skástrik"
-
-msgid "Battery"
-msgstr "Rafhlaða"
-
-msgid "Be_fore:"
-msgstr "_Fyrir:"
+msgid "Beep"
+msgstr "Bíp"
 
 msgid "Before"
-msgstr "Fyrir"
+msgstr "Á undan"
 
-msgid "Begin"
-msgstr "Byrja"
-
-msgid "Best _Fit"
-msgstr "_Passar best"
-
-msgid "Billing Info"
-msgstr "Greiðsluupplýsingar"
-
-msgid "Binding:"
-msgstr "Binding:"
+msgid "Binding"
+msgstr "Tenging"
 
 msgid "Black"
-msgstr "Svart"
+msgstr "Svartur"
 
-msgid "Blocking on issue"
-msgstr "Stöðvað vegna"
+msgid "Black & white"
+msgstr "Svarthvítt"
+
+msgid "Blank"
+msgstr "Tómt"
+
+msgid "Blue"
+msgstr "Blár"
+
+msgid "Bold"
+msgstr "Feitletrað"
 
 msgid "Bookmarks"
 msgstr "Bókamerki"
 
-msgid "Border width"
-msgstr "Breidd jaðars"
-
 msgid "Both"
-msgstr "Bæði"
+msgstr "Báðar"
 
-msgid "Bottom attachment"
-msgstr "Neðsta viðhengi"
+msgid "Bottom left"
+msgstr "Neðri vinstrijaðar"
 
-msgid "Bottom to top"
-msgstr "Neðan og upp"
+msgid "Box"
+msgstr "Kassi"
 
-msgid "Bottom to top, left to right"
-msgstr "Neðan og upp, vinstri til hægri"
+msgid "Brackets"
+msgstr "Svigar"
 
-msgid "Bottom to top, right to left"
-msgstr "Neðan og upp, hægri til vinstri"
+msgid "Brightness"
+msgstr "Birta"
 
-msgid "Bourne Again Shell"
-msgstr "Bourne Again skelin"
+msgid "Brown"
+msgstr "Brúnn"
 
-msgid "Bourne Shell"
-msgstr "Bourne skelin"
+msgid "Browse"
+msgstr "Vafra"
 
-msgid "Brightness of the color."
-msgstr "Birtustig litsins."
+msgid "Browse..."
+msgstr "Velja..."
 
-msgid "Broadway"
-msgstr "Broadway"
-
-msgid "Browse Network"
-msgstr "Flakka um net"
-
-msgid "Browse the contents of the network"
-msgstr "Skoða efni á netkerfinu"
+msgid "Brush"
+msgstr "Bursti"
 
 msgid "Bubble"
-msgstr "Bóla"
+msgstr "Blaðra"
 
-msgid "Buffer"
-msgstr "Biðminni"
+msgid "CMYK"
+msgstr "CMYK"
 
-msgid "Buildable ID"
-msgstr "Byggjanlegt auðkenni"
-
-msgid "Butter"
-msgstr "Smjör"
-
-msgid "Button spacing"
-msgstr "Bil milli hnappa"
-
-msgid "C0"
-msgstr "C0"
-
-msgid "C1"
-msgstr "C1"
-
-msgid "C10"
-msgstr "C10"
-
-msgid "C2"
-msgstr "C2"
-
-msgid "C3"
-msgstr "C3"
-
-msgid "C4"
-msgstr "C4"
-
-msgid "C5"
-msgstr "C5"
-
-msgid "C6"
-msgstr "C6"
-
-msgid "C6/C5"
-msgstr "C6/C5"
-
-msgid "C7"
-msgstr "C7"
-
-msgid "C7/C6"
-msgstr "C7/C6"
-
-msgid "C8"
-msgstr "C8"
-
-msgid "C9"
-msgstr "C9"
-
-msgid "CLASS"
-msgstr "FLOKKUR"
-
-msgid "COLORS"
-msgstr "LITIR"
-
-msgid "CSS"
-msgstr "CSS"
-
-msgid "CSS nodes"
-msgstr "CSS liðir"
-
-msgid "C_ollate"
-msgstr "_Raða saman"
-
-msgid "C_onnect"
-msgstr "Te_ngjast"
-
-msgid "C_redits"
-msgstr "F_ramlög"
-
-msgid "C_urrent Page"
-msgstr "_Þessa blaðsíðu"
-
-msgid "Cache file created successfully.\n"
-msgstr "Það tókst að búa til skyndiminnisskrá.\n"
+msgid "C_enter"
+msgstr "_Miðja"
 
 msgid "Cancel"
 msgstr "Hætta við"
 
-msgid "Cannot change to folder because it is not local"
-msgstr "Get ekki skipt yfir í möppu þar sem hún er ekki staðvær"
+msgid "Cancelled"
+msgstr "H�tta vi�"
 
-msgid "Cannot create a file under %{string} as it is not a folder"
-msgstr "Get ekki búið til skrá undir %{string} vegna þess að þetta er ekki mappa"
+msgid "Caption"
+msgstr "Skýring"
 
-msgid "Cannot create file as the filename is too long"
-msgstr "Gat ekki búið til skrá þar sem skráarheitið er of langt"
+msgid "Category"
+msgstr "Flokkur"
 
-msgid "Cannot kill process with PID %{number}. Operation is not implemented."
-msgstr "Get ekki slökkt á ferli með PID %{number}. Aðgerð er ekki studd."
-
-msgid "Capacity"
-msgstr "Rýmd:"
-
-msgid "Caps Lock is on"
-msgstr "Caps Lock er á"
-
-msgid "Capture"
-msgstr "Upptaka"
-
-msgid "Cedilla"
-msgstr "Cedilla"
+msgid "Center"
+msgstr "Miðjað"
 
 msgid "Centered"
 msgstr "Miðjað"
 
-msgid "Chameleon"
-msgstr "Kamelljón"
+msgid "Checkerboard"
+msgstr "Köflótt"
 
-msgid "Changes are applied instantly and globally, for the whole application."
-msgstr "Breytingar eru framkvæmdar samstundis og víðvært, fyrir allt forritið."
+msgid "Circle"
+msgstr "Hringur"
 
-msgid "Changes are applied instantly, only for this selected widget."
-msgstr "Breytingar eru framkvæmdar samstundis, aðeins fyrir valda viðmótshlutann."
+msgid "City"
+msgstr "Borg/Sveitarfélag"
 
-msgid "Charged"
-msgstr "Rafhlaða hlaðin"
-
-msgid "Child"
-msgstr "Afkomandi"
-
-msgid "Child Properties"
-msgstr "Afleiðueiginleikar"
-
-msgid "Child Visible"
-msgstr "Afleiða sýnileg"
-
-msgid "Chocolate"
-msgstr "Súkkulaði"
-
-msgid "Choukei 2 Envelope"
-msgstr "Choukei 2 umslag"
-
-msgid "Choukei 3 Envelope"
-msgstr "Choukei 3 umslag"
-
-msgid "Choukei 4 Envelope"
-msgstr "Choukei 4 umslag"
-
-msgid "Choukei 40 Envelope"
-msgstr "Choukei 40 umslag"
-
-msgid "Class name"
-msgstr "Heiti klasa"
-
-msgid "Classes"
-msgstr "Flokkar"
-
-msgid "Classified"
-msgstr "Leynilegt"
-
-msgid "Clear log"
-msgstr "Hreinsa annál"
-
-msgid "Click"
-msgstr "Smella"
+msgid "Clear"
+msgstr "Sedrus"
 
 msgid "Click the eyedropper, then click a color anywhere on your screen to select that color."
 msgstr "Smelltu á dropateljarann, síðan á lit hvar sem er á skjánum til að velja hann."
 
-msgid "Click this palette entry to make it the current color. To change this entry, drag a color swatch here or right-click it and select “Save color here.”"
-msgstr "Smelltu á litaspjaldsfærslu til að gera hana að núverandi lit. Til að breyta færslunni, dragðu þá lit af virka litaspjaldinu hingað eða hægrismelltu á spjaldið og veldu „Vista lit hér.“"
-
-msgid "Clickable"
-msgstr "Ásmellanlegt"
-
-msgid "Clicks the button"
-msgstr "Smellir á hnappinn"
-
-msgid "Clicks the menuitem"
-msgstr "Smellir á valmyndarfærsluna"
-
 msgid "Close"
 msgstr "Loka"
 
-msgid "Co_nnect"
-msgstr "Te_ngjast"
-
-msgid "Collect Statistics"
-msgstr "Safna tölfræði"
+msgid "Collect"
+msgstr "Safna"
 
 msgid "Color"
 msgstr "Litur"
 
-msgid "Color Name"
-msgstr "Nafn litar"
-
-msgid "Color Plane"
-msgstr "Litflötur"
+msgid "Color Mode"
+msgstr "Litahamur"
 
 msgid "Color Selection"
 msgstr "Litaval"
 
-msgid "Color Wheel"
-msgstr "Litahjól"
-
-msgid "Color _name:"
-msgstr "Nafn _litar:"
-
-msgid "Color management unavailable"
-msgstr "Litastýring ekki tiltæk"
-
-msgid "Color of visited links"
-msgstr "Litur á heimsóttum tenglum"
-
 msgid "Color scheme"
 msgstr "Litastef"
 
-msgid "Column Spacing"
-msgstr "Bil milli dálka"
+msgid "Colors"
+msgstr "Litir"
 
 msgid "Column spacing"
 msgstr "Bil milli dálka"
 
-msgid "Column:"
-msgstr "Dálkur:"
-
 msgid "Columns"
 msgstr "Dálkar"
 
-msgid "Command Line"
-msgstr "Skipanalína"
+msgid "Combine"
+msgstr "Sameina"
 
-msgid "Comments about the program"
-msgstr "Athugasemdir um forritið"
+msgid "Command"
+msgstr "/_Hj�lp/_Skipanir"
 
-msgid "Comments string"
-msgstr "Athugasemdastrengur"
+msgid "Commands"
+msgstr "Skipanir"
 
-msgid "Completion"
-msgstr "Klárun"
+msgid "Comment"
+msgstr "Athugasemd"
 
-msgid "Composited"
-msgstr "Skjásamsett"
+msgid "Comments"
+msgstr "Athugasemdir"
 
-msgid "Computer"
-msgstr "Tölva"
+msgid "Compression"
+msgstr "Þjöppun"
 
 msgid "Confidential"
 msgstr "Trúnaðarmál"
 
-msgid "Connect As"
-msgstr "Tengjast sem"
+msgid "Confirm"
+msgstr "Staðfesta"
+
+msgid "Connect"
+msgstr "Tengjast"
 
 msgid "Connect to Server"
-msgstr "Tengjast þjóni"
+msgstr "Tengjast miðlara"
 
-msgid "Connect to a network server address"
-msgstr "Tengjast við vistfang netþjóns"
-
-msgid "Connected"
-msgstr "Tengt"
-
-msgid "Content area border"
-msgstr "Rammi um innihaldssvæðið"
+msgid "Constant"
+msgstr "Fasti"
 
 msgid "Content type"
-msgstr "Tegund efnis"
+msgstr "Efnistegund"
+
+msgid "Contents"
+msgstr "Tengjast"
 
 msgid "Context"
 msgstr "Samhengi"
 
-msgid "Convert to PS level 1"
-msgstr "Breyta í PS-stig 1"
+msgid "Continue"
+msgstr "Halda hreyfingu áfram"
 
-msgid "Convert to PS level 2"
-msgstr "Breyta í PS-stig 2"
+msgid "Contrast"
+msgstr "Skerpa"
 
-msgid "Copie_s:"
-msgstr "Ein_tök:"
+msgid "Controls"
+msgstr "Stjórntæki"
 
-msgid "Copies"
-msgstr "Eintök"
+msgid "Copy"
+msgstr "Afrita"
 
-msgid "Copy URL"
-msgstr "Afrita slóð"
-
-msgid "Copy _Link Address"
-msgstr "A_frita vistfang tengils"
-
-msgid "Copy _Location"
-msgstr "Afrita _staðsetningu"
-
-msgid "Copyright information for the program"
-msgstr "Upplýsingar um höfundarétt  forrits"
-
-msgid "Copyright string"
-msgstr "Höfundaréttarstrengur"
-
-msgid "Could not clear list"
-msgstr "Gat ekki hreinsað lista"
-
-msgid "Could not read the contents of the folder"
-msgstr "Gat ekki lesið innihald möppunnar"
-
-msgid "Could not remove item"
-msgstr "Gat ekki fjarlægt atriði"
-
-msgid "Could not rename %{string} back to %{string}: %{string}.\n"
-msgstr "Gat ekki breytt nafninu á %{string} aftur í %{string}: %{string}.\n"
-
-msgid "Could not rename %{string} to %{string}: %{string}, removing %{string} then.\n"
-msgstr "Gat ekki breytt nafninu á %{string} í %{string}: %{string}, fjarlægi þá %{string}.\n"
-
-msgid "Could not rename %{string} to %{string}: %{string}\n"
-msgstr "Gat ekki breytt nafninu á %{string} í %{string}: %{string}\n"
-
-msgid "Could not select file"
-msgstr "Gat ekki valið skrá"
-
-msgid "Could not send the search request"
-msgstr "Gat ekki sent leitarbeiðni"
-
-msgid "Could not show link"
-msgstr "Gat ekki sýnt tengil"
-
-msgid "Could not start the search process"
-msgstr "Gat ekki byrjað að leita"
+msgid "Cosine"
+msgstr "Kósínus"
 
 msgid "Count"
 msgstr "Fjöldi"
 
-msgid "Create _Folder"
-msgstr "Búa til _möppu"
+msgid "Country"
+msgstr "Land"
 
-msgid "Create a custom color"
-msgstr "Búa til sérsniðinn lit"
+msgid "Create"
+msgstr "Búa til leik"
 
 msgid "Created by"
 msgstr "Búið til af"
 
-msgid "Creates a widget in which the contents of the cell can be edited"
-msgstr "Býr til skjágræju þar sem hægt er að breyta innihaldi reitsins"
-
-msgid "Creating AppInfo from id not supported on non unix operating systems"
-msgstr "Að búa til AppInfo út frá id er ekki stutt á stýrikerfum sem ekki eru unix"
-
 msgid "Credits"
-msgstr "Framlög"
+msgstr "Þakkarorð"
 
-msgid "Credits to the translators. This string should be marked as translatable"
-msgstr "Þakkir til þýðanda. Þessi strengur ætti að vera merktur sem þýðanlegur"
+msgid "Crop"
+msgstr "Utansníða"
 
-msgid "Ctrl"
-msgstr "Ctrl"
+msgid "Crop Image"
+msgstr "Skera utan af mynd"
 
 msgid "Cu_t"
 msgstr "_Klippa"
@@ -1018,113 +466,59 @@ msgstr "_Klippa"
 msgid "Cumulative"
 msgstr "Uppsöfnun"
 
-msgid "Cumulative 1"
-msgstr "Uppsöfnun 1"
-
-msgid "Cumulative 2"
-msgstr "Uppsöfnun 2"
-
-msgid "Current Color"
-msgstr "Núverandi litur"
-
-msgid "Current Page"
-msgstr "Núverandi síða"
-
-msgid "Cursor"
-msgstr "Músarbendill"
-
-msgid "Cursor Blink"
-msgstr "Bendill blikkar"
-
-msgid "Cursor Blink Time"
-msgstr "Blikktíðni bendils"
+msgid "Currency"
+msgstr "Gjaldmiðill"
 
 msgid "Cursor Position"
 msgstr "Staðsetning bendils"
 
-msgid "Cursor Size"
-msgstr "Stærð bendils"
-
-msgid "Cursor Theme"
-msgstr "Bendilþema"
-
-msgid "Cursor Visible"
-msgstr "Bendill sýnilegur"
-
-msgid "Cursor position"
-msgstr "Staða bendils"
-
-msgid "Cursor type"
-msgstr "Tegund músarbendils"
+msgid "Curve"
+msgstr "Boglína"
 
 msgid "Custom"
-msgstr "Sérsniðið"
-
-msgid "Custom License"
-msgstr "Sérsniðið notkunarleyfi"
+msgstr "Nánari skilgreiningar"
 
 msgid "Custom color"
 msgstr "Sérsniðinn litur"
 
-msgid "Custom size"
-msgstr "Sérsniðin stærð"
-
 msgid "Customize"
 msgstr "Sérsníða"
 
-msgid "Customizes the color"
-msgstr "Sérsníður litinn"
+msgid "Cut"
+msgstr "Klippa"
 
-msgid "Cyrillic (Transliterated)"
-msgstr "Kýrílískt (umritað)"
+msgid "Cyan"
+msgstr "Blágrænt"
 
-msgid "DISPLAY"
-msgstr "SKJÁR"
+msgid "Cylinder"
+msgstr "Sívalningur"
+
+msgid "Czech"
+msgstr "Beyki"
 
 msgid "DL Envelope"
 msgstr "DL umslag"
 
-msgid "Dai-pa-kai"
-msgstr "Dai-pa-kai"
+msgid "Danish"
+msgstr "Danska"
 
-msgid "Dark Aluminum 1"
-msgstr "Dökkt ál 1"
-
-msgid "Dark Aluminum 2"
-msgstr "Dökkt ál 2"
-
-msgid "Dark Butter"
-msgstr "Dökkt smjör"
-
-msgid "Dark Chameleon"
-msgstr "Dökkt kameljón"
-
-msgid "Dark Chocolate"
-msgstr "Dökkt súkkulaði"
-
-msgid "Dark Gray"
-msgstr "Dökkgrátt"
-
-msgid "Dark Orange"
-msgstr "Dökkappelsínugult"
-
-msgid "Dark Plum"
-msgstr "Dökk plóma"
-
-msgid "Dark Scarlet Red"
-msgstr "Dökkskarlatsrautt"
-
-msgid "Dark Sky Blue"
-msgstr "Dökkhiminblátt"
-
-msgid "Dark Variant"
-msgstr "Dökkt tilbrigði"
-
-msgid "Darker Gray"
-msgstr "Dekkra grátt"
+msgid "Dashed"
+msgstr "Strikað"
 
 msgid "Data"
 msgstr "Gögn"
+
+msgid "Database"
+msgstr "Dags:"
+
+msgid "Databases"
+msgstr "Dags:"
+
+msgid "Date"
+msgstr "Líma"
+
+msgid "Date format"
+msgstr "Dagsetningasnið"
 
 msgid "Day"
 msgstr "Dagur"
@@ -1132,56 +526,41 @@ msgstr "Dagur"
 msgid "Decrease Indent"
 msgstr "Minnka inndrátt"
 
-msgid "Decreases the volume"
-msgstr "Lækkar styrk hljóðs"
-
 msgid "Default"
 msgstr "Sjálfgefið"
 
-msgid "Default Application"
-msgstr "Sjálfgefið forrit"
+msgid "Defaults"
+msgstr "Sjálfgefið"
 
-msgid "Default Display"
-msgstr "Sjálfgefinn skjár"
-
-msgid "Default Height"
-msgstr "Sjálfgefin hæð"
-
-msgid "Default Widget"
-msgstr "Sjálfgefin skjágræja"
-
-msgid "Default Width"
-msgstr "Sjálfgefin breidd"
-
-msgid "Defined At"
-msgstr "Skilgreint í"
+msgid "Delay"
+msgstr "Seinkun"
 
 msgid "Delete"
-msgstr "Eyða"
+msgstr "Eyða skrá"
 
-msgid "Desktop"
-msgstr "Skjáborð"
+msgid "Delete layer"
+msgstr "Eyða lagi"
+
+msgid "Depth"
+msgstr "D�pt"
+
+msgid "Desaturate"
+msgstr "Afmettun"
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "Description..."
+msgstr "Lýsing..."
+
+msgid "Design"
+msgstr "Uppgj�f"
 
 msgid "Detail"
 msgstr "Nánar"
 
-msgid "Device History"
-msgstr "Aflsaga"
-
-msgid "Device ID"
-msgstr "Auðkenni tækis"
-
-msgid "Device Information"
-msgstr "Aflupplýsingar"
-
-msgid "Device identifier"
-msgstr "Auðkenni fyrir tæki"
-
-msgid "Device name"
-msgstr "Heiti tækis"
-
-msgid "Device type"
-msgstr "Tegund tækis"
+msgid "Details"
+msgstr "Smáatriði"
 
 msgid "Devices"
 msgstr "Tæki"
@@ -1189,572 +568,341 @@ msgstr "Tæki"
 msgid "Dialog"
 msgstr "Samskiptagluggi"
 
-msgid "Dialog is locked.\nClick to make changes"
-msgstr "Glugginn er læstur.\nSmelltu til að gera breytingar"
+msgid "Dialogs"
+msgstr "Samskiptagluggar"
 
-msgid "Dialog is unlocked.\nClick to prevent further changes"
-msgstr "Glugginn er ólæstur.\nSmelltu til að hindra frekari breytingar"
+msgid "Diamond"
+msgstr "Tígul"
+
+msgid "Difference"
+msgstr "Dismunur"
 
 msgid "Digits"
 msgstr "Tölustafir"
 
+msgid "Dimensions"
+msgstr "Stærð"
+
 msgid "Direction"
 msgstr "Stefna"
 
-msgid "Disable this custom CSS"
-msgstr "Gera þetta sérsniðna CSS óvirkt"
+msgid "Directional"
+msgstr "Stefna"
 
 msgid "Disabled"
 msgstr "Óvirkt"
 
-msgid "Dismiss"
-msgstr "Hafna"
-
-msgid "Dismisses the slider"
-msgstr "Hafnar sleðanum"
+msgid "Disc"
+msgstr "Diskur"
 
 msgid "Display"
-msgstr "Skjár"
+msgstr "S�n"
 
-msgid "Display of this cursor"
-msgstr "Útlit á þessum músarbendli"
+msgid "Dissolve"
+msgstr "Leysa upp"
 
-msgid "Do use the Wintab API [default]"
-msgstr "Nota Wintab API [sjálfgefið]"
+msgid "Distribute"
+msgstr "Dreifing"
 
-msgid "Do you want to use GTK+ Inspector?"
-msgstr "Viltu nota GTK+ Inspector?"
+msgid "Dock"
+msgstr "Á spjaldið"
 
-msgid "Documented by"
-msgstr "Skjalað af"
+msgid "Documents"
+msgstr "Skjöl"
 
-msgid "Documenters"
-msgstr "Höfundar hjápargagna"
+msgid "Done"
+msgstr "Lokið"
 
-msgid "Domain:"
-msgstr "Lén:"
-
-msgid "Don't batch GDI requests"
-msgstr "Ekki magnvinna GDI beiðnir"
-
-msgid "Don't check for the existence of index.theme"
-msgstr "Ekki athuga hvort index.theme er til"
-
-msgid "Don't include image data in the cache"
-msgstr "Ekki setja myndagögn í skyndiminni"
-
-msgid "Don't show this message again"
-msgstr "Ekki sýna þessi skilaboð aftur"
-
-msgid "Don't use the Wintab API for tablet support"
-msgstr "Ekki nota Wintab API fyrir spjaldtölvustuðning"
-
-msgid "Dormant"
-msgstr "Dormandi"
-
-msgid "Double Click Time"
-msgstr "Tvísmellitími"
+msgid "Double spaces"
+msgstr "Tvöföld bil"
 
 msgid "Down"
 msgstr "Niður"
 
-msgid "Down Path"
-msgstr "Slóð niður"
+msgid "Downloads"
+msgstr "Niðurhöl"
 
-msgid "Draw"
-msgstr "Teikna"
-
-msgid "Duplicate object ID '%{string}' on line %{number} (previously on line %{number})"
-msgstr "Tvítekið auðkenni '%{string}'-hlutar á línu %{number} (áður á línu %{number})"
+msgid "E-mail"
+msgstr "Tölvupóstfang"
 
 msgid "Edit"
-msgstr "Breyta"
+msgstr "S�sl"
+
+msgid "Edit Scenario"
+msgstr "Kortagerðarstillingar"
 
 msgid "Editable"
 msgstr "Breytanlegt"
 
-msgid "Editing"
-msgstr "Breytingar"
-
-msgid "Embed GhostScript fonts only"
-msgstr "Ígræða GhostScript letur"
-
-msgid "Embedded"
-msgstr "Ívafið"
+msgid "Emboss"
+msgstr "Upphleypt"
 
 msgid "Empty"
-msgstr "Tómt"
-
-msgid "Enable Animations"
-msgstr "Virkja hreyfingar"
-
-msgid "Enable Event Sounds"
-msgstr "Virkja hljóð við atburði"
-
-msgid "Enable Search"
-msgstr "Virkja leit"
-
-msgid "Enable statistics with GOBJECT_DEBUG=instance-count"
-msgstr "Virkja tölfræði með GOBJECT_DEBUG=instance-count"
+msgstr "Autt"
 
 msgid "Enabled"
 msgstr "Virkt"
 
 msgid "End"
-msgstr "Enda"
+msgstr "Endar"
 
-msgid "Enter Location"
-msgstr "Settu inn staðsetningu:"
+msgid "Environment"
+msgstr "Umhverfi"
 
 msgid "Error"
 msgstr "Villa"
 
-msgid "Error creating print preview"
-msgstr "Villa við að búa til forskoðun fyrir prentun"
+msgid "Error opening file"
+msgstr "Villa við opnum skráar"
 
-msgid "Error from StartDoc"
-msgstr "Villa frá StartDoc"
-
-msgid "Error launching preview"
-msgstr "Villa við að ræsa forskoðun"
-
-msgid "Error parsing commandline options: %{string}\n"
-msgstr "Villa við þáttun skipanalínu: %{string}\n"
+msgid "Errors"
+msgstr "Villur"
 
 msgid "Escape"
 msgstr "Escape"
 
-msgid "European edp"
-msgstr "Evrópskt edp"
-
-msgid "Even sheets"
-msgstr "Slétttölublöð"
+msgid "Event"
+msgstr "Atburður"
 
 msgid "Events"
 msgstr "Atburðir"
 
 msgid "Executive"
-msgstr "Executive"
+msgstr "Formlegt (Executive)"
+
+msgid "Exit"
+msgstr "Hætta"
 
 msgid "Expand"
-msgstr "Stækka"
-
-msgid "Expand or contract"
-msgstr "Þenja eða draga saman"
+msgstr "Þenja út"
 
 msgid "Expanded"
-msgstr "Útliðað"
+msgstr "Útvíkkað"
 
-msgid "Expands or contracts the row in the tree view containing this cell"
-msgstr "Flettir úr eða dregur saman röðina í greinasýn sem inniheldur þennan reit"
+msgid "Exponential"
+msgstr "Veldisfall"
 
-msgid "FLAGS"
-msgstr "FLÖGG"
+msgid "Export"
+msgstr "Flytja út"
 
-msgid "Failed to load icon"
-msgstr "Tókst ekki að hlaða inn táknmynd"
+msgid "Extensions"
+msgstr "Viðbætur"
 
-msgid "Failed to open file %{string} : %{string}\n"
-msgstr "Mistókst að opna skrá %{string}: %{string}\n"
+msgid "F5"
+msgstr "5"
 
-msgid "Failed to rewrite header\n"
-msgstr "Mistókst að  endurskrifa haus\n"
+msgid "Factor"
+msgstr "Stuðull"
 
-msgid "Failed to start GNOME Software"
-msgstr "Mistókst að ræsa GNOME hugbúnað"
-
-msgid "Failed to write cache file: %{string}\n"
-msgstr "Mistókst að skrifa í skyndiminnisskrá: %{string}\n"
-
-msgid "Failed to write folder index\n"
-msgstr "Mistókst að skrifa möppuyfirlit\n"
-
-msgid "Failed to write hash table\n"
-msgstr "Mistókst að búa til tætitöflu\n"
-
-msgid "Failed to write header\n"
-msgstr "Mistókst að skrifa haus\n"
-
-msgid "Fallback"
-msgstr "Varaleið"
-
-msgid "Fan-Fold European"
-msgstr "FanFold evrópskt"
-
-msgid "Fan-Fold German Legal"
-msgstr "FanFold þýskt löggilt"
-
-msgid "Fan-Fold US"
-msgstr "FanFold bandarískt"
+msgid "Fast"
+msgstr "Hratt"
 
 msgid "File"
 msgstr "Skrá"
 
-msgid "File System"
-msgstr "Skráakerfi"
+msgid "File Exists"
+msgstr "Skrá er þegar til"
 
-msgid "File System Root"
-msgstr "Rót skráakerfisins"
+msgid "File Name"
+msgstr "Skráarnafn"
 
-msgid "File not found: %{string}\n"
-msgstr "Skrá fannst ekki: %{string}\n"
+msgid "File Type"
+msgstr "Skráar tegund"
 
-msgid "Filename"
-msgstr "Skráarheiti"
+msgid "File not found."
+msgstr "Engar upplýsingar um tímabil fundust."
 
 msgid "Files"
 msgstr "Skrár"
 
 msgid "Fill"
-msgstr "Fylla"
+msgstr "Fylling"
 
-msgid "Fill Level"
-msgstr "Uppfyllistig"
+msgid "Fill Color"
+msgstr "Fyllilitur"
+
+msgid "Filled"
+msgstr "Fyllt"
 
 msgid "Filter"
-msgstr "Sía"
+msgstr "Skrá:"
 
-msgid "Find and _Replace"
-msgstr "Finna og _skipta út"
+msgid "Filters"
+msgstr "Síur"
 
 msgid "Finished"
 msgstr "Lokið"
 
-msgid "Finished with error"
-msgstr "Kláraði með villu"
+msgid "First"
+msgstr "Fyrsta"
 
-msgid "Finishing"
-msgstr "Klára"
+msgid "Fixed"
+msgstr "Fast"
 
-msgid "Fixed Size"
-msgstr "Föst stærð"
+msgid "Flat"
+msgstr "Flatlendi"
 
-msgid "Fixed Width"
-msgstr "Jafnbreitt"
+msgid "Flip"
+msgstr "Fletta"
 
-msgid "Focus Widget"
-msgstr "Viðmótshluti (widget) fær virkni"
+msgid "Flip vertically"
+msgstr "Spegla lóðrétt"
 
-msgid "Folder Name"
-msgstr "Heiti möppu"
+msgid "Flower"
+msgstr "hægður"
 
-msgid "Folder names cannot contain “/”"
-msgstr "Möppunöfn mega ekki innihalda \"/\""
-
-msgid "Folio"
-msgstr "Folio"
-
-msgid "Folio sp"
-msgstr "Folio sp"
-
-msgid "Follow State"
-msgstr "Fylgja stöðu"
+msgid "Folder"
+msgstr "Mappa"
 
 msgid "Font"
 msgstr "Letur"
 
-msgid "Font Family"
-msgstr "Leturtegund"
-
 msgid "Font Name"
-msgstr "Heiti leturs"
+msgstr "Heiti leturgerðar"
 
 msgid "Font Selection"
 msgstr "Leturval"
 
-msgid "Font description"
-msgstr "Lýsing leturs"
-
-msgid "Font description as a PangoFontDescription struct"
-msgstr "Lýsing leturs sem PangoFontDescription strúktúr"
-
-msgid "Font description as a string, e.g. \"Sans Italic 12\""
-msgstr "Lýsing leturs í strengjaformi, t.d. \"Sans Italic 12\""
-
-msgid "Font family"
-msgstr "Leturgerð"
-
-msgid "Font family set"
-msgstr "Leturgerðarsett"
-
-msgid "Font name"
-msgstr "Heiti leturs"
-
-msgid "Font options"
-msgstr "Stilla leturgerð"
-
-msgid "Font points"
-msgstr "Leturpunktar"
-
-msgid "Font resolution"
-msgstr "Upplausn leturgerðar"
-
-msgid "Font scale"
-msgstr "Leturkvarði"
-
-msgid "Font scale set"
-msgstr "Leturkvarðasett"
-
 msgid "Font size"
 msgstr "Leturstærð"
-
-msgid "Font size in points"
-msgstr "Stærð leturs í punktum"
-
-msgid "Font size set"
-msgstr "Leturstærðarsett"
-
-msgid "Font stretch"
-msgstr "Teyging leturs"
-
-msgid "Font stretch set"
-msgstr "Leturteygingasett"
-
-msgid "Font style"
-msgstr "Leturstíll"
-
-msgid "Font style set"
-msgstr "Leturstílasett"
-
-msgid "Font variant"
-msgstr "Leturafbrigði"
-
-msgid "Font variant set"
-msgstr "Leturtilbrigðasett"
 
 msgid "Font weight"
 msgstr "Þyngd leturs"
 
-msgid "Font weight set"
-msgstr "Leturþyngdarsett"
+msgid "Fonts"
+msgstr "Letur"
 
-msgid "For portable documents"
-msgstr "Fyrir færanleg skjöl (portable)"
-
-msgid "Force aspect ratio to match that of the frame's child"
-msgstr "Festa hlutföll eftir ramma barnsins"
+msgid "Force"
+msgstr "Framfylgja"
 
 msgid "Foreground color"
 msgstr "Forgrunnslitur"
 
-msgid "Foreground color as RGBA"
-msgstr "Forgrunnslitur sem RGBA"
-
-msgid "Foreground color as a GdkColor"
-msgstr "Forgrunnslitur sem GdkColor"
-
-msgid "Foreground color as a GdkRGBA"
-msgstr "Forgrunnslitur sem GdkRGBA"
-
-msgid "Foreground color as a string"
-msgstr "Forgrunnslitur sem strengur"
-
-msgid "Foreground color name"
-msgstr "Nafn forgrunnslitar"
-
-msgid "Forget association"
-msgstr "Gleyma skráatengslum"
-
-msgid "Forget password _immediately"
-msgstr "Gleyma lykilorði _strax"
+msgid "Forest"
+msgstr "Skógur"
 
 msgid "Forward"
 msgstr "Áfram"
 
 msgid "Fraction"
-msgstr "Hluti"
+msgstr "Tugabrot"
 
-msgid "Frame count"
-msgstr "Rammafjöldi"
+msgid "French"
+msgstr "Franska"
 
-msgid "Frame rate"
-msgstr "Rammatíðni"
+msgid "Full screen"
+msgstr "Setja á Fullan skjá"
 
-msgid "Full Volume"
-msgstr "Fullur hljóðstyrkur"
+msgid "Function"
+msgstr "Fall"
 
-msgid "GDK Backend"
-msgstr "GDK bakendi"
+msgid "Functions"
+msgstr "Föll"
 
-msgid "GDK debugging flags to set"
-msgstr "GDK aflúsunarflögg sem þú vilt nota"
-
-msgid "GDK debugging flags to unset"
-msgstr "GDK aflúsunarflögg sem þú vilt fjarlægja"
-
-msgid "GIcon"
-msgstr "GIcon"
-
-msgid "GL Rendering"
-msgstr "GL myndgerð"
-
-msgid "GL Vendor"
-msgstr "GL framleiðandi"
-
-msgid "GL Version"
-msgstr "GL útgáfa"
-
-msgid "GL rendering is disabled"
-msgstr "GL myndgerð er óvirk"
-
-msgid "GL support disabled via GDK_DEBUG"
-msgstr "GL stuðningur gerður óvirkur með GDK_DEBUG"
-
-msgid "GNU General Public License, version 2 only"
-msgstr "GNU General Public notkunarskilmálar, einungis útgáfa 2"
-
-msgid "GNU General Public License, version 2 or later"
-msgstr "GNU General Public notkunarskilmálar, útgáfa 2 eða síðar"
-
-msgid "GNU General Public License, version 3 only"
-msgstr "GNU General Public notkunarskilmálar, einungis útgáfa 3"
-
-msgid "GNU General Public License, version 3 or later"
-msgstr "GNU General Public notkunarskilmálar, útgáfa 3 eða síðar"
-
-msgid "GNU Lesser General Public License, version 2.1 only"
-msgstr "GNU Lesser General Public notkunarskilmálar, einungis útgáfa 2.1"
-
-msgid "GNU Lesser General Public License, version 2.1 or later"
-msgstr "GNU Lesser General Public notkunarskilmálar, útgáfa 2.1 eða síðar"
-
-msgid "GNU Lesser General Public License, version 3 only"
-msgstr "GNU Lesser General Public notkunarskilmálar, einungis útgáfa 3"
-
-msgid "GNU Lesser General Public License, version 3 or later"
-msgstr "GNU Lesser General Public notkunarskilmálar, útgáfa 3 eða síðar"
-
-msgid "GTK+ Options"
-msgstr "GTK+ valkostir"
-
-msgid "GTK+ Theme"
-msgstr "GTK+ þema"
-
-msgid "GTK+ Version"
-msgstr "GTK+ útgáfa"
-
-msgid "GTK+ debugging flags to set"
-msgstr "Setja GTK+ aflúsunarrofa"
-
-msgid "GTK+ debugging flags to unset"
-msgstr "Fjarlægja GTK+ aflúsunarrofa"
+msgid "Gamma"
+msgstr "Litaleiðrétting"
 
 msgid "General"
 msgstr "Almennt"
 
-msgid "Generating data"
-msgstr "Bý til gögn"
+msgid "General Options"
+msgstr "Almennir valkostir"
 
-msgid "Gestures"
-msgstr "Bendingar"
+msgid "Generic"
+msgstr "Almennar skipanir"
 
-msgid "Getting printer information failed"
-msgstr "Það tókst ekki að sækja upplýsingar um prentarann"
+msgid "German"
+msgstr "��ska"
 
-msgid "Getting printer information…"
-msgstr "Sæki upplýsingar um prentara…"
+msgid "Gold"
+msgstr "Gull"
 
-msgid "GhostScript pre-filtering"
-msgstr "Ghostscript forsíun"
+msgid "Gradient"
+msgstr "Litblöndun"
 
-msgid "Government Legal"
-msgstr "Government löggilt"
+msgid "Gradients"
+msgstr "Stiglar"
 
-msgid "Government Letter"
-msgstr "Government bréfsefni"
+msgid "Gray"
+msgstr "Grár"
 
-msgid "Gravity"
-msgstr "Þungamiðja"
+msgid "Grayscale"
+msgstr "Grátóna"
+
+msgid "Green"
+msgstr "Grænn"
+
+msgid "Grey"
+msgstr "Grátt"
+
+msgid "Grid"
+msgstr "Hnitanet"
 
 msgid "Group"
 msgstr "Hópur"
 
-msgid "Group Name"
-msgstr "Heiti hóps"
+msgid "Guides"
+msgstr "Stoðlínur"
 
 msgid "H"
 msgstr "H"
 
+msgid "HTML table"
+msgstr "HTML-tafla"
+
 msgid "Heading"
 msgstr "Fyrirsögn"
+
+msgid "Heart"
+msgstr "Hjarta"
 
 msgid "Height"
 msgstr "Hæð"
 
-msgid "Hibernate"
-msgstr "Leggja í dvala"
+msgid "Help"
+msgstr "Hjálp"
 
 msgid "Hide Others"
-msgstr "Fela annað"
-
-msgid "Hide if empty"
-msgstr "Fela ef autt"
+msgstr "Fela aðra"
 
 msgid "Hierarchy"
 msgstr "Stigskipun"
 
 msgid "High"
-msgstr "Hár"
+msgstr "lj�s"
 
 msgid "History"
 msgstr "Aflsaga"
 
-msgid "Hold the job until it is explicitly released"
-msgstr "Bíða með verkið þangað til því er sleppt"
-
 msgid "Home"
-msgstr "Heimasvæði"
-
-msgid "Homogeneous"
-msgstr "Öll eins"
+msgstr "Heim"
 
 msgid "Horizontal"
 msgstr "Lárétt"
 
 msgid "Horizontal Alignment"
-msgstr "Lárétt staðsetning"
+msgstr "Lárétt jöfnun"
 
-msgid "Horizontal Offset"
-msgstr "Lárétt hliðrun"
-
-msgid "Horizontal Padding"
-msgstr "Lárétt spássía"
-
-msgid "Horizontal alignment"
-msgstr "Lárett viðfang"
-
-msgid "Horizontal position of child in available space. 0.0 is left aligned, 1.0 is right aligned"
-msgstr "Lárétt staðsettning barns í tiltæku plássi. 0.0 er lengst til vinstri, 1.0 er lengst til hægri"
-
-msgid "Horizontal scale"
-msgstr "Lárétt skölun"
-
-msgid "Horizontally homogeneous"
-msgstr "Lárett viðfang"
+msgid "Horizontally"
+msgstr "Lárétt"
 
 msgid "Hue"
 msgstr "Litblær H"
 
-msgid "Hyper"
-msgstr "Hyper"
+msgid "Human"
+msgstr "Manneskja"
 
 msgid "ID"
-msgstr "Auðkenni (ID)"
+msgstr "Auðkenni"
 
-msgid "IPA"
-msgstr "IPA"
+msgid "I_ntensity"
+msgstr "Styr_kur"
 
 msgid "Icon"
 msgstr "Táknmynd"
 
-msgid "Icon Name"
-msgstr "Heiti táknmyndar"
-
 msgid "Icon Size"
 msgstr "Stærð táknmynda"
-
-msgid "Icon Theme"
-msgstr "Táknmyndaþema"
 
 msgid "Icon name"
 msgstr "Heiti táknmyndar"
@@ -1765,368 +913,146 @@ msgstr "Táknmyndasett"
 msgid "Icon size"
 msgstr "Táknmyndastærð"
 
-msgid "Iconic"
-msgstr "Tákngert"
-
 msgid "Icons"
 msgstr "Táknmyndir"
-
-msgid "If TRUE, the child appears in a secondary group of children, suitable for, e.g., help buttons"
-msgstr "Ef TRUE þá birtast börnin í aukahóp sem hentar til dæmis hjálparhnöppum"
-
-msgid "If available horizontal space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "Ef lárétt pláss fyrir barnið er meira en þörf er á, hversu mikið af því á að nota. 0.0 er ekkert og 1.0 er allt."
-
-msgid "If available vertical space is bigger than needed for the child, how much of it to use for the child. 0.0 means none, 1.0 means all"
-msgstr "Ef lóðrétt pláss fyrir barnið er meira en þörf er á, hversu mikið af því á að nota. 0.0 er ekkert og 1.0 er allt."
-
-msgid "Ignore hidden"
-msgstr "Hunsa falið"
 
 msgid "Image"
 msgstr "Mynd"
 
-msgid "Image Quality"
-msgstr "Myndgæði"
+msgid "Image Size"
+msgstr "Stærð myndar"
 
-msgid "Include image data in the cache"
-msgstr "Hafa myndagögn með í skyndiminni"
+msgid "Image size"
+msgstr "Stærð myndar"
+
+msgid "Images"
+msgstr "Myndir"
+
+msgid "Import Options"
+msgstr "Innflutningsvalkostir"
+
+msgid "Include"
+msgstr "Innihald"
 
 msgid "Increase Indent"
 msgstr "Auka inndrátt"
 
-msgid "Increases the volume"
-msgstr "Hækkar styrk hljóðs"
-
 msgid "Indent"
 msgstr "Inndráttur"
 
-msgid "Index 3×5"
-msgstr "Index 3x5"
-
-msgid "Index 4×6 (postcard)"
-msgstr "Index 4x6 (póstkort)"
-
-msgid "Index 4×6 ext"
-msgstr "Index 4x6 ext"
-
-msgid "Index 5×8"
-msgstr "Index 5x8"
+msgid "Info"
+msgstr "Upplýsingar"
 
 msgid "Information"
 msgstr "Upplýsingar"
 
-msgid "Inherit"
-msgstr "Erfa"
-
-msgid "Initial state"
-msgstr "Upphafleg staða"
-
 msgid "Initial value"
 msgstr "Upphafsgildi"
-
-msgid "Initialized empty"
-msgstr "Bjó til tóma"
-
-msgid "Input source"
-msgstr "Inntaksgjafi"
 
 msgid "Insert"
 msgstr "Setja inn"
 
-msgid "Intensity of the color."
-msgstr "Styrkur litsins."
+msgid "Insert Point"
+msgstr "Setja inn punkt"
 
-msgid "Inuktitut (Transliterated)"
-msgstr "Inukitut (umritað)"
+msgid "Integer"
+msgstr "Heiltala"
 
-msgid "Invalid"
-msgstr "Ógilt"
+msgid "Intersection"
+msgstr "Skurðflötur"
 
-msgid "Invalid URI"
-msgstr "Ógild slóð"
+msgid "Introduction"
+msgstr "Inngangur"
 
-msgid "Invalid argument to CreateDC"
-msgstr "Ógild breyta í CreateDC"
-
-msgid "Invalid argument to PrintDlgEx"
-msgstr "Ógild breyta í PrintDlgEx"
-
-msgid "Invalid file name"
-msgstr "Ógilt skráarheiti"
-
-msgid "Invalid handle to PrintDlgEx"
-msgstr "Ógild hald í PrintDlgEx"
-
-msgid "Invalid pointer to PrintDlgEx"
-msgstr "Ógild ábending (pointer) í PrintDlgEx"
-
-msgid "Invalid size %{string}\n"
-msgstr "Ógild stærð: %{string}\n"
-
-msgid "Invalid type function on line %{number}: '%{string}'"
-msgstr "Ógilt tegundarfall í línu %{number}: ‚%{string}‘"
-
-msgid "Inverted"
-msgstr "Viðsnúið"
+msgid "Invert"
+msgstr "Umhverfa"
 
 msgid "Invisible"
 msgstr "Ósýnilegt"
 
-msgid "Invite Envelope"
-msgstr "Boðkortsumslag"
+msgid "Italian"
+msgstr "�talska"
 
-msgid "Invoice"
-msgstr "Reikningur"
+msgid "Italic"
+msgstr "Skáletrað"
 
-msgid "Is Toplevel"
-msgstr "Er efstastigs"
+msgid "Iterations"
+msgstr "Ítranir"
 
-msgid "Italian Envelope"
-msgstr "Ítalskt umslag"
+msgid "Japanese"
+msgstr "Japanska"
 
-msgid "JB0"
-msgstr "JB0"
+msgid "Keyboard"
+msgstr "Lyklaborð"
 
-msgid "JB1"
-msgstr "JB1"
+msgid "Keys"
+msgstr "Lyklar"
 
-msgid "JB10"
-msgstr "JB10"
+msgid "Keywords"
+msgstr "Lykilorð"
 
-msgid "JB2"
-msgstr "JB2"
-
-msgid "JB3"
-msgstr "JB3"
-
-msgid "JB4"
-msgstr "JB4"
-
-msgid "JB5"
-msgstr "JB5"
-
-msgid "JB6"
-msgstr "JB6"
-
-msgid "JB7"
-msgstr "JB7"
-
-msgid "JB8"
-msgstr "JB8"
-
-msgid "JB9"
-msgstr "JB9"
-
-msgid "Job"
-msgstr "Verk"
-
-msgid "Job Count"
-msgstr "Fjöldi verka"
-
-msgid "Job Details"
-msgstr "Upplýsingar um verk"
-
-msgid "Job Name"
-msgstr "Heiti verks"
-
-msgid "Job Priority"
-msgstr "Forgangur verks"
-
-msgid "Justification"
-msgstr "Hliðjöfnun"
-
-msgid "KP_Begin"
-msgstr "KP_Begin"
-
-msgid "KP_Delete"
-msgstr "KP_Delete"
-
-msgid "KP_Down"
-msgstr "KP_Down"
-
-msgid "KP_End"
-msgstr "KP_End"
-
-msgid "KP_Enter"
-msgstr "KP_Enter"
-
-msgid "KP_Home"
-msgstr "KP_Home"
-
-msgid "KP_Insert"
-msgstr "KP_Insert"
-
-msgid "KP_Left"
-msgstr "KP_Left"
-
-msgid "KP_Next"
-msgstr "KP_Next"
-
-msgid "KP_Page_Down"
-msgstr "KP_Page_Down"
-
-msgid "KP_Page_Up"
-msgstr "KP_Page_Up"
-
-msgid "KP_Prior"
-msgstr "KP_Prior"
-
-msgid "KP_Right"
-msgstr "KP_Right"
-
-msgid "KP_Space"
-msgstr "KP_Space"
-
-msgid "KP_Tab"
-msgstr "KP_Tab"
-
-msgid "KP_Up"
-msgstr "KP_Up"
-
-msgid "KbdBrightnessDown"
-msgstr "KbdBrightnessDown"
-
-msgid "KbdBrightnessUp"
-msgstr "KbdBrightnessUp"
-
-msgid "LRE Left-to-right _embedding"
-msgstr "LRE Vintri til hægri _innfelling"
-
-msgid "LRM _Left-to-right mark"
-msgstr "LRM _vinstr til hægri merki"
-
-msgid "LRO Left-to-right _override"
-msgstr "LRO _Hnika hægri-til-vinstri"
+msgid "Knight"
+msgstr "Riddari"
 
 msgid "Label"
-msgstr "Merki"
-
-msgid "Label widget"
-msgstr "Viðmótshluti skýringa"
+msgstr "Heiti"
 
 msgid "Landscape"
-msgstr "Lárétt"
+msgstr "Langsnið"
 
 msgid "Language"
 msgstr "Tungumál"
 
-msgid "Laptop batteries"
-msgstr "Fartölvurafhlaða"
+msgid "Languages"
+msgstr "Tungumál"
 
-msgid "Laptop battery"
-msgstr "Fartölvurafhlaða"
+msgid "Large"
+msgstr "Stór"
 
-msgid "Large Photo"
-msgstr "Stór ljósmynd"
+msgid "Layer"
+msgstr "Lag"
 
-msgid "Launch specified application by its desktop file info\noptionally passing list of URIs as arguments."
-msgstr "Keyra tiltekið forrit með upplýsingum úr desktop-skrá\nmögulega með lista af slóðum sem viðföng."
-
-msgid "Launch1"
-msgstr "Ræsa1"
+msgid "Layers"
+msgstr "Spilarar:"
 
 msgid "Layout"
 msgstr "Framsetning"
 
-msgid "Lead acid"
-msgstr "Blýsýra"
-
 msgid "Left"
 msgstr "Vinstri"
-
-msgid "Left Margin"
-msgstr "Vinstri spássía"
-
-msgid "Left attachment"
-msgstr "Vinstra viðhengi"
 
 msgid "Left margin"
 msgstr "Vinstri spássía"
 
-msgid "Left to right"
-msgstr "Frá vinstri til hægri"
+msgid "Legal"
+msgstr "Lögfræðileg atriði"
 
-msgid "Left to right, bottom to top"
-msgstr "Vinstri til hægri, neðan og upp"
-
-msgid "Left to right, top to bottom"
-msgstr "Vinstri til hægri, ofan og niður"
-
-msgid "Left-to-Right"
-msgstr "Vinstri-til-hægri"
-
-msgid "Letter Spacing"
-msgstr "Stafabil"
-
-msgid "Letter spacing set"
-msgstr "Bil milli hnappa"
+msgid "Levels"
+msgstr "Stig"
 
 msgid "License"
-msgstr "Notkunarleyfi"
+msgstr "Leyfi"
 
-msgid "License Type"
-msgstr "Tegund notkunarleyfis"
-
-msgid "Light Aluminum 1"
-msgstr "Ljóst ál 1"
-
-msgid "Light Aluminum 2"
-msgstr "Ljóst ál 2"
-
-msgid "Light Butter"
-msgstr "Ljóst smjör"
-
-msgid "Light Chameleon"
-msgstr "Ljóst kameljón"
-
-msgid "Light Chocolate"
-msgstr "Ljóst súkkulaði"
+msgid "Light"
+msgstr "Létt"
 
 msgid "Light Gray"
-msgstr "Ljósgrátt"
-
-msgid "Light Orange"
-msgstr "Ljósappelsínugult"
-
-msgid "Light Plum"
-msgstr "Ljós plóma"
-
-msgid "Light Scarlet Red"
-msgstr "Ljósskarlatsrautt"
-
-msgid "Light Sky Blue"
-msgstr "Ljóshiminblátt"
-
-msgid "Lighter Gray"
-msgstr "Ljósara grátt"
+msgstr "Ljósgrár"
 
 msgid "Limit"
 msgstr "Takmörk"
 
-msgid "Line wrap"
-msgstr "Línuskrið"
+msgid "Line"
+msgstr "Lína"
 
-msgid "List of authors of the program"
-msgstr "Listi yfir þá sem standa að forritinu"
+msgid "Line spacing"
+msgstr "Línubil"
 
-msgid "List of people documenting the program"
-msgstr "Listi yfir fólk sem vann að hjálpargögnum fyrir þetta forrit"
+msgid "Linear"
+msgstr "Línulegt"
 
-msgid "List of people who have contributed artwork to the program"
-msgstr "Þeir sem unnu að því að myndskreyta forritið"
-
-msgid "Lithium Ion"
-msgstr "Litínjón"
-
-msgid "Lithium Iron Phosphate"
-msgstr "Litínjón"
-
-msgid "Lithium Polymer"
-msgstr "Litínjón"
-
-msgid "Load additional GTK+ modules"
-msgstr "Hlaða inn viðbótar GTK+ forritseiningum"
+msgid "Load"
+msgstr "Hlaða"
 
 msgid "Location"
 msgstr "Staðsetning"
@@ -2134,413 +1060,266 @@ msgstr "Staðsetning"
 msgid "Lock"
 msgstr "Læsa"
 
-msgid "Lock Text"
-msgstr "Læsa texta"
+msgid "Logarithmic"
+msgstr "Lógaritmískt"
 
 msgid "Logo"
-msgstr "Merki"
+msgstr "Logo"
 
-msgid "Logo Icon Name"
-msgstr "Heiti merkimyndar"
+msgid "Long"
+msgstr "Löng"
 
-msgid "Long Edge (Standard)"
-msgstr "Langhlið (venjulegt)"
+msgid "Loop"
+msgstr "Loop"
 
 msgid "Low"
 msgstr "Lítill"
 
-msgid "MODULES"
-msgstr "FORRITSEININGAR"
+msgid "Luminance"
+msgstr "Birtustig"
 
-msgid "Mac OS X Quartz"
-msgstr "Mac OS X Quartz"
+msgid "MIDI"
+msgstr "MIDI"
 
-msgid "Magnifier"
-msgstr "Skjástækkun"
-
-msgid "Major"
-msgstr "Aðal"
-
-msgid "Major version number"
-msgstr "Aðalútgáfunúmer"
+msgid "Magenta"
+msgstr "Blárautt"
 
 msgid "Make all warnings fatal"
 msgstr "Túlka allar aðvaranir sem banvænar"
 
-msgid "Manage Custom Sizes"
-msgstr "Sýsla með sérsniðnar stærðir"
+msgid "Male"
+msgstr "Kastali"
 
-msgid "Manage Custom Sizes…"
-msgstr "Sýsla með sérsniðnar stærðir…"
+msgid "Manual"
+msgstr "Handvirkt"
 
-msgid "Manually enter a location"
-msgstr "Settu handvirkt inn staðsetningu"
+msgid "Marble"
+msgstr "Marmari"
 
-msgid "Mapped"
-msgstr "Varpað"
+msgid "March"
+msgstr "Leit"
 
 msgid "Margin"
 msgstr "Spássía"
-
-msgid "Margins from Printer…"
-msgstr "Spássíur prentara…"
-
-msgid "Marked up text to render"
-msgstr "Merktur texti til að myndgera"
 
 msgid "Markup"
 msgstr "Merking"
 
 msgid "Maximize"
-msgstr "Hámarka"
+msgstr "Stækka"
 
 msgid "Maximum Value"
 msgstr "Hæsta gildi"
 
+msgid "Mean"
+msgstr "��ska"
+
+msgid "Median"
+msgstr "Miðgildi"
+
 msgid "Medium"
 msgstr "Miðlungs"
 
-msgid "Medium Gray"
-msgstr "Miðlungsgrátt"
-
-msgid "Medium Photo"
-msgstr "Miðlungs ljósmynd"
-
 msgid "Menu"
-msgstr "Valmynd"
+msgstr "Aðalval"
 
 msgid "Menu name"
-msgstr "Heiti valmyndar"
+msgstr "Valmyndar nafn"
 
-msgid "Menubar"
-msgstr "Valmyndaslá"
-
-msgid "Meta"
-msgstr "Meta"
+msgid "Message"
+msgstr "Skilaboð"
 
 msgid "Minimize"
-msgstr "Lágmarka"
+msgstr "Minnka"
 
 msgid "Minimum Value"
 msgstr "Minnsta gildi"
 
-msgid "Minimum child height"
-msgstr "Lágmarks hæð barns"
-
-msgid "Minimum child width"
-msgstr "Lágmarks breydd barns"
-
-msgid "Minimum height of buttons inside the box"
-msgstr "Lágmarks hæð hnappa innan rammans"
-
-msgid "Minimum width of buttons inside the box"
-msgstr "Lágmarks breydd hnappa innan rammans"
-
-msgid "Minor"
-msgstr "Undir"
-
-msgid "Minor version number"
-msgstr "Undirútgáfunúmer"
-
 msgid "Miscellaneous"
 msgstr "Ýmislegt"
-
-msgid "Modal"
-msgstr "Formlegt"
 
 msgid "Mode"
 msgstr "Hamur"
 
 msgid "Model"
-msgstr "Gerð:"
-
-msgid "Model:"
-msgstr "Gerð:"
+msgstr "Módel"
 
 msgid "Modified"
 msgstr "Breytt"
 
-msgid "MonBrightnessDown"
-msgstr "MonBrightnessDown"
+msgid "Modify..."
+msgstr "Breyta..."
 
-msgid "MonBrightnessUp"
-msgstr "MonBrightnessUp"
+msgid "Module"
+msgstr "Eining"
 
-msgid "Monarch Envelope"
-msgstr "Monarch umslag"
+msgid "Modules"
+msgstr "Einingar"
 
-msgid "Monitor"
-msgstr "Skjár"
-
-msgid "Monospace"
-msgstr "Jafnbreitt"
+msgid "Monitor Resolution"
+msgstr "Skjáupplausn"
 
 msgid "Month"
 msgstr "Mánuður"
 
-msgid "Mount and open “%{string}”"
-msgstr "Tengja og opna \"%{string}\""
+msgid "More..."
+msgstr "Meira..."
 
-msgid "Multi_key"
-msgstr "Samsetningarly_kill"
+msgid "Mosaic"
+msgstr "Mósaík"
 
-msgid "Multipress"
-msgstr "Multipress"
+msgid "Mouse Pointer"
+msgstr "Músarbendill"
 
-msgid "Muted"
-msgstr "Þaggað"
+msgid "Move"
+msgstr "Færa"
+
+msgid "Move Down"
+msgstr "Færa niður"
+
+msgid "Move Up"
+msgstr "Færa upp"
+
+msgid "Music"
+msgstr "Tónlist"
+
+msgid "Mute"
+msgstr "Hunsa"
 
 msgid "NAME"
 msgstr "NAFN"
 
 msgid "Name"
-msgstr "Heiti"
+msgstr "Nafn"
 
-msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
-msgstr "Heiti leturgerðar, dæmi: Sans, Helvetica, Times, Monospace"
+msgid "Navigation"
+msgstr "Rötun"
 
-msgid "Name:"
-msgstr "Heiti:"
-
-msgid "Need user intervention"
-msgstr "Notandinn þarf að skerast í leikinn"
+msgid "Neon"
+msgstr "Neon"
 
 msgid "Network"
 msgstr "Netkerfi"
 
-msgid "New Row"
-msgstr "Ný röð"
+msgid "New Folder"
+msgstr "Ný mappa"
 
-msgid "New accelerator…"
-msgstr "Nýr flýtilykill…"
+msgid "New Template"
+msgstr "Nýtt sniðmát"
 
-msgid "New bookmark"
-msgstr "Nýtt bókamerki"
+msgid "Next"
+msgstr "Næsta"
 
-msgid "New class"
-msgstr "Nýr klasi"
+msgid "Next month"
+msgstr "Í næsta mánuði"
 
-msgid "No GL implementation is available"
-msgstr "Engin GL-uppsetning tiltæk"
+msgid "Next page"
+msgstr "Næsta hlið"
 
-msgid "No applications found for “%{string}”"
-msgstr "Engin forrit fundust fyrir \"%{string}\""
+msgid "No"
+msgstr "Nei"
 
-msgid "No applications found for “%{string}” files"
-msgstr "Engin forrit fundust fyrir \"%{string}\" skrár"
+msgid "No action"
+msgstr "Engin aðgerð"
 
-msgid "No applications found for “%{string}”."
-msgstr "Engin forrit fundust fyrir \"%{string}\"."
+msgid "No compression"
+msgstr "Engin þjöppun"
 
-msgid "No applications found."
-msgstr "Engin forrit fundust."
-
-msgid "No fonts matched your search. You can revise your search and try again."
-msgstr "Ekkert letur samsvaraði leitinni. Þú getur endurskoðað leitarstrenginn og reynt aftur."
-
-msgid "No item for URI '%{string}' found"
-msgstr "Enginn hlutur fannst fyrir slóðina ‚%{string}‘"
-
-msgid "No items found"
-msgstr "Engin atriði fundust"
-
-msgid "No pre-filtering"
-msgstr "Engin forsíun"
-
-msgid "No printer found"
-msgstr "Fann enga prentara"
-
-msgid "No profile available"
-msgstr "Ekkert snið tiltækt"
-
-msgid "No recently used resource found with URI '%{string}'"
-msgstr "Engin nýnotuð tilföng fundust með slóðinni '%{string}‘"
-
-msgid "No registered application with name '%{string}' for item with URI '%{string}' found"
-msgstr "Ekkert skráð forrit fannst, með heitinu '%{string}' fyrir slóðina '%{string}'"
-
-msgid "No theme index file.\n"
-msgstr "Engin þemayfirlitsskrá.\n"
+msgid "No sound"
+msgstr "Ekkert hljóð"
 
 msgid "None"
-msgstr "Ekkert"
+msgstr "Engar"
 
-msgid "Not a valid icon cache: %{string}\n"
-msgstr "Ekki gilt táknmyndaskyndiminni: %{string}\n"
-
-msgid "Not a valid page setup file"
-msgstr "Ekki gild síðuuppsetningarskrá"
+msgid "Normal"
+msgstr "Venjulegt"
 
 msgid "Not available"
 msgstr "Ekki tiltækt"
 
-msgid "Not enough free memory"
-msgstr "Ekki nógu mikið laust minni"
-
-msgid "Not settable at runtime.\nUse GDK_GL=always or GDK_GL=disable instead"
-msgstr "Ekki stillanlegt í upphafi keyrslu.\nNota GDK_GL=always eða GDK_GL=disable í staðinn"
-
-msgid "Num_Lock"
-msgstr "Talna_Lás"
-
-msgid "Number of Pages"
-msgstr "Fjöldi síðna"
-
-msgid "Number of columns"
-msgstr "Fjöldi dálka"
-
-msgid "Number of columns to display"
-msgstr "Fjöldi dálka sem á að birta"
+msgid "Nothing"
+msgstr "Ekkert"
 
 msgid "Number of lines"
 msgstr "Fjöldi lína"
 
+msgid "Numbering"
+msgstr "Tölusetning"
+
+msgid "Numbers"
+msgstr "Tölur"
+
 msgid "Numeric"
-msgstr "Tölulegt"
+msgstr "Tölur"
 
-msgid "OFF"
-msgstr "AF"
-
-msgid "ON"
-msgstr "Á"
-
-msgid "Obey child"
-msgstr "Hlýða barni"
+msgid "OK"
+msgstr "Allt í lagi"
 
 msgid "Object"
 msgstr "Hlutur"
 
-msgid "Object Hierarchy"
-msgstr "Stigskipun hluta"
-
 msgid "Objects"
 msgstr "Hlutir"
 
-msgid "Odd sheets"
-msgstr "Oddatölublöð"
+msgid "Observers"
+msgstr "Áhorfendur"
 
 msgid "Offline"
-msgstr "Ótengt"
+msgstr "Ótengdur"
 
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr "Lyfta textanum yfir grunnlínu (eða undir grunnlínu ef ris er neikvætt)"
+msgid "Offset"
+msgstr "Hliðrun"
 
-msgid "Oficio"
-msgstr "Oficio"
+msgid "Op_tions"
+msgstr "_Valkostir"
 
-msgid "On _hold"
-msgstr "Á _bið"
+msgid "Open"
+msgstr "Opna"
 
-msgid "One Sided"
-msgstr "Einhliða"
+msgid "Open File"
+msgstr "Opna skrá"
 
-msgid "Online"
-msgstr "Tengt"
+msgid "Opponent"
+msgstr "Andstæðingur"
 
-msgid "Op_acity:"
-msgstr "Óg_egnsæi:"
-
-msgid "Open '%{string}'"
-msgstr "Opna '%{string}'"
-
-msgid "Open in New _Tab"
-msgstr "Opna í nýjum _flipa"
-
-msgid "Open in New _Window"
-msgstr "Opna í nýjum _glugga"
-
-msgid "Open the contents of the file system"
-msgstr "Opna innihald skráakerfisins"
-
-msgid "Open the contents of your desktop in a folder"
-msgstr "Opna innihald skjáborðsins í möppu"
-
-msgid "Open the trash"
-msgstr "Opna ruslið"
-
-msgid "Open your personal folder"
-msgstr "Opna einkamöppuna þína"
-
-msgid "OpenGL context creation failed"
-msgstr "Mistókst að búa til OpenGL umhverfi"
-
-msgid "Opening %{number} Item"
-msgstr "Opna %{number} hlut"
-
-msgid "Opening %{number} Items"
-msgstr "Opna %{number} hluti"
-
-msgid "Opening “%{string}” files."
-msgstr "Opna \"%{string}\" skrár."
-
-msgid "Opening “%{string}”."
-msgstr "Opna “%{string}”."
-
-msgid "Or_ientation:"
-msgstr "Snún_ingur:"
+msgid "Options"
+msgstr "Aðgerð"
 
 msgid "Orange"
-msgstr "Appelsínugult"
+msgstr "Appelsínugulur"
 
 msgid "Orientation"
 msgstr "Stefna"
 
-msgid "Other Applications"
-msgstr "Önnur forrit"
+msgid "Original"
+msgstr "Upprunalegt"
 
-msgid "Other application…"
-msgstr "Annað forrit…"
+msgid "Other"
+msgstr "Annað"
 
 msgid "Other…"
 msgstr "Annað…"
 
-msgid "Out of paper"
-msgstr "Pappír búinn"
+msgid "Output"
+msgstr "Úttak"
 
-msgid "Output Tray"
-msgstr "Úttaksbakki"
-
-msgid "Output a C header file"
-msgstr "Gefa út C-haus skrá"
-
-msgid "Output t_ray:"
-msgstr "Frálags_bakki:"
-
-msgid "Output to this directory instead of cwd"
-msgstr "Setja úttak í þessa möppu í stað cwd"
-
-msgid "Overwrite an existing cache, even if up to date"
-msgstr "Skrifa yfir skyndiminni, jafnvel þó það sé ekki úrelt"
-
-msgid "Overwrite mode"
-msgstr "Yfirskrifunarhamur"
-
-msgid "PDA"
-msgstr "Lófatölva"
-
-msgid "PDAs"
-msgstr "Lófatölva"
+msgid "Overlap"
+msgstr "Skarast"
 
 msgid "PDF"
 msgstr "PDF"
 
-msgid "PDF _Pop directional formatting"
-msgstr "PDF Hopp _stefnuformun"
+msgid "PNG"
+msgstr "PNG"
 
-msgid "P_ause"
-msgstr "_Bíða"
+msgid "PNG image"
+msgstr "PNG mynd"
 
-msgid "Padding"
-msgstr "Millibil"
-
-msgid "Pag_es:"
-msgstr "_Blaðsíður:"
+msgid "P_aper"
+msgstr "P_appír"
 
 msgid "Page"
 msgstr "Síða"
-
-msgid "Page Ordering"
-msgstr "Síðuröð"
 
 msgid "Page Set_up"
 msgstr "_Uppsetning síðu"
@@ -2548,167 +1327,122 @@ msgstr "_Uppsetning síðu"
 msgid "Page Setup"
 msgstr "Uppsetning síðu"
 
-msgid "Page Size"
-msgstr "Blaðsíðustærð"
-
-msgid "Page or_dering:"
-msgstr "_Röð blaðsíðna:"
-
-msgid "Page title"
-msgstr "Titill síðu"
-
-msgid "Page_Down"
-msgstr "Síða_niður"
-
-msgid "Page_Up"
-msgstr "Síða_upp"
-
 msgid "Pages"
 msgstr "Síður"
 
-msgid "Pages Per Sheet"
-msgstr "Síður á örk"
-
-msgid "Pages per Sheet"
-msgstr "Síður á blað"
-
-msgid "Pages per _sheet:"
-msgstr "Síður á hvert _blað"
-
-msgid "Pages per _side:"
-msgstr "Blaðsíður á hverja _hlið:"
+msgid "Palettes"
+msgstr "Litatöflur"
 
 msgid "Paper"
 msgstr "Pappír"
 
-msgid "Paper Margins"
-msgstr "Spássía blaðsins"
+msgid "Parameters"
+msgstr "Færibreytur"
 
-msgid "Paper Size"
-msgstr "Pappírsstærð"
+msgid "Password"
+msgstr "Lykilorð"
 
-msgid "Paper Source"
-msgstr "Uppruni pappírs"
-
-msgid "Paper Type"
-msgstr "Tegund pappírs"
-
-msgid "Paper _source:"
-msgstr "Uppruni _pappírs:"
-
-msgid "Paper _type:"
-msgstr "Pappírs_tegund:"
-
-msgid "Parameter Type"
-msgstr "Tegund viðfangs"
-
-msgid "Parent"
-msgstr "Yfirgluggi"
-
-msgid "Password:"
-msgstr "Lykilorð:"
+msgid "Paste"
+msgstr "Líma"
 
 msgid "Path"
 msgstr "Slóð"
+
+msgid "Paths"
+msgstr "Slóðir"
 
 msgid "Pattern"
 msgstr "Mynstur"
 
 msgid "Pause"
-msgstr "Pause"
+msgstr "Bíða"
 
 msgid "Paused"
 msgstr "Í bið"
 
-msgid "Paused Printer"
-msgstr "Prentari í bið"
+msgid "Perspective"
+msgstr "Sjónarhorn"
 
-msgid "Paused; Rejecting Jobs"
-msgstr "Í bið; tekur ekki við verkum"
-
-msgid "Permission"
-msgstr "Heimildir"
-
-msgid "Personal Envelope"
-msgstr "Persónulegt umslag"
-
-msgid "Photo L"
-msgstr "Photo L"
+msgid "Phong"
+msgstr "Phong-skygging"
 
 msgid "Pick a Color"
 msgstr "Veldu lit"
 
-msgid "Pick a Font"
-msgstr "Veldu leturgerð"
+msgid "Pixels"
+msgstr "Dílar"
 
-msgid "Pixbuf Object"
-msgstr "Pixbuf hlutur"
+msgid "Placeholders"
+msgstr "Ígildisbreytur"
 
-msgid "Pixbuf column"
-msgstr "Pixbuf dálkur"
-
-msgid "Pixels Above Lines"
-msgstr "Mynddílar fyrir ofan línur"
-
-msgid "Pixels Below Lines"
-msgstr "Mynddílar fyrir neðan línur"
-
-msgid "Pixels Inside Wrap"
-msgstr "Mynddílar í flettingu"
-
-msgid "Plum"
-msgstr "Plóma"
-
-msgid "Pops up the slider"
-msgstr "Sprettir upp sleðanum"
-
-msgid "Popup"
-msgstr "Sprettgluggi"
-
-msgid "Portrait"
-msgstr "Lóðrétt"
-
-msgid "Position"
+msgid "Placement"
 msgstr "Staðsetning"
 
-msgid "Position on the color wheel."
-msgstr "Staðsetning á litahjólinu."
+msgid "Plain Text"
+msgstr "Fura"
 
-msgid "Postfix Envelope"
-msgstr "Postfix umslag"
+msgid "Play"
+msgstr "Spila"
 
-msgid "Postscript"
-msgstr "Postscript"
+msgid "Player"
+msgstr "Prager"
+
+msgid "Plug-In"
+msgstr "Viðbótarforrit"
+
+msgid "Plural"
+msgstr "Fleirtala"
+
+msgid "Point"
+msgstr "Punktar"
+
+msgid "Pointer"
+msgstr "Bendill"
+
+msgid "Points"
+msgstr "Punktar"
+
+msgid "Polygon"
+msgstr "Marghyrningur"
+
+msgid "Portrait"
+msgstr "Skammsnið"
+
+msgid "Position"
+msgstr "Sta�a"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Posterize"
+msgstr "Þrykk"
+
+msgid "Power"
+msgstr "Veldi"
+
+msgid "Pr_eview"
+msgstr "Forskoð_un"
 
 msgid "Pre_view"
-msgstr "_Forskoða"
-
-msgid "Pre_vious"
-msgstr "_Fyrra"
+msgstr "_Forskoðun"
 
 msgid "Preferences"
-msgstr "Kjörstillingar"
+msgstr "Stillingar"
 
 msgid "Prefix"
 msgstr "Forskeyti"
 
-msgid "Preparing"
-msgstr "Undirbý"
+msgid "Pressure"
+msgstr "Þrýstingur"
 
-msgid "Preparing to print"
-msgstr "Undirbý prentun"
+msgid "Preview"
+msgstr "Forskoða"
 
-msgid "Press"
-msgstr "Ýttu"
+msgid "Previous"
+msgstr "Fyrri"
 
-msgid "Presses the combobox"
-msgstr "Ýtir á fjölvalsreitinn"
-
-msgid "Preview text"
-msgstr "Forskoða texta"
-
-msgid "Pri_ority:"
-msgstr "F_organgur:"
+msgid "Previous page"
+msgstr "Fyrri eining"
 
 msgid "Print"
 msgstr "Prenta"
@@ -2716,86 +1450,26 @@ msgstr "Prenta"
 msgid "Print Document"
 msgstr "Prenta skjal"
 
-msgid "Print Pre_view"
-msgstr "Forskoðun _prentunar"
-
-msgid "Print at"
-msgstr "Prenta"
-
-msgid "Print at time"
-msgstr "Prenta á tíma"
-
-msgid "Print to File"
-msgstr "Prenta í skrá"
-
-msgid "Print to LPR"
-msgstr "Prenta með LPR"
-
-msgid "Print to Test Printer"
-msgstr "Prenta til að prófa prentara"
-
 msgid "Printer"
 msgstr "Prentari"
-
-msgid "Printer Default"
-msgstr "Sjálfgefin stilling prentara"
-
-msgid "Printer ID"
-msgstr "Auðkenni prentara"
-
-msgid "Printer Profile"
-msgstr "Snið fyrir prentara"
-
-msgid "Printer offline"
-msgstr "Prentari er aftengdur"
-
-msgid "Printer “%{string}” has no toner left."
-msgstr "Prentarinn '%{string}' hefur klárað prentduftið."
-
-msgid "Printer “%{string}” is currently offline."
-msgstr "Prentarinn ‚%{string}‘ er ótengdur."
-
-msgid "Printer “%{string}” is low on at least one marker supply."
-msgstr "Prentarinn ‚%{string}‘ er að fara að klára einn lit."
-
-msgid "Printer “%{string}” is low on developer."
-msgstr "Prentarinn ‚%{string}‘ er að verða búinn með framköllunarvökvann."
-
-msgid "Printer “%{string}” is low on paper."
-msgstr "Prentarinn '%{string}' er að verða pappírslaus."
-
-msgid "Printer “%{string}” is low on toner."
-msgstr "Prentarinn '%{string}' er að verða búinn með prentduft."
-
-msgid "Printer “%{string}” is out of at least one marker supply."
-msgstr "Prentarinn ‚%{string}‘ er búinn að klára að minnsta kosti einn lit."
-
-msgid "Printer “%{string}” is out of developer."
-msgstr "Prentarinn ‚%{string}‘ er búinn með framköllunarvökvann."
-
-msgid "Printer “%{string}” is out of paper."
-msgstr "Prentarinn '%{string}' er pappírslaus."
 
 msgid "Printing"
 msgstr "Prentun"
 
-msgid "Processor"
-msgstr "Lélegt"
+msgid "Privacy Policy"
+msgstr "Persónuvernd"
 
-msgid "Product ID"
-msgstr "Vörunúmer"
+msgid "Profile"
+msgstr "Hliðarmynd"
 
-msgid "Program class as used by the window manager"
-msgstr "Flokkur forrits eins og það er notað af gluggastjóranum"
+msgid "Progress"
+msgstr "Framvinda"
 
-msgid "Program name"
-msgstr "Heiti forrits"
+msgid "Project"
+msgstr "Verkefni"
 
-msgid "Program name as used by the window manager"
-msgstr "Heiti forrits eins og það er notað af gluggastjóranum"
-
-msgid "Program version"
-msgstr "Útgáfa forrits"
+msgid "Projects"
+msgstr "Verkefni"
 
 msgid "Properties"
 msgstr "Eiginleikar"
@@ -2803,149 +1477,104 @@ msgstr "Eiginleikar"
 msgid "Property"
 msgstr "Eiginleiki"
 
-msgid "Provides visual indication of progress"
-msgstr "Sýnir myndræna vísbendingu um framvindu"
-
-msgid "Pulse"
-msgstr "Púlsa"
+msgid "Purple"
+msgstr "Fjólublár"
 
 msgid "Purpose"
 msgstr "Tilgangur"
 
-msgid "Quarto"
-msgstr "Quarto"
+msgid "Quality"
+msgstr "Gæði"
 
-msgid "Question"
-msgstr "Spurning"
+msgid "Quit"
+msgstr "Hætta"
 
-msgid "RA0"
-msgstr "RA0"
+msgid "RGB"
+msgstr "RGB"
 
-msgid "RA1"
-msgstr "RA1"
+msgid "Radial"
+msgstr "Geisla"
 
-msgid "RA2"
-msgstr "RA2"
+msgid "Radius"
+msgstr "Radíus"
 
-msgid "RA3"
-msgstr "RA3"
-
-msgid "RA4"
-msgstr "RA4"
-
-msgid "RGBA visual"
-msgstr "Sjónrænt RGBA"
-
-msgid "RLE Right-to-left e_mbedding"
-msgstr "RLE Hægri til vinstri i_nnfelling"
-
-msgid "RLM _Right-to-left mark"
-msgstr "RLM _Hægri til vinstri merki"
-
-msgid "RLO Right-to-left o_verride"
-msgstr "RLO H_nika vinstri-til-vinstri"
-
-msgid "ROC 16k"
-msgstr "ROC 16k"
-
-msgid "ROC 8k"
-msgstr "ROC 8k"
-
-msgid "R_ewind"
-msgstr "_Spóla til baka"
+msgid "Random"
+msgstr "Slembi"
 
 msgid "Range"
-msgstr "Prentsvið"
+msgstr "Skotmál"
 
-msgid "Ratio"
-msgstr "Hlutfall"
+msgid "Rate"
+msgstr "Vaxtaprósenta"
+
+msgid "Ready"
+msgstr "Tilbúinn"
 
 msgid "Recent"
 msgstr "Nýlegt"
 
-msgid "Recent files"
-msgstr "Nýlegar skrár"
+msgid "Recently Used"
+msgstr "Nýlega notað"
 
-msgid "Recommended Applications"
-msgstr "Forrit sem eru mælt með"
+msgid "Rectangle"
+msgstr "Rétthyrningur"
 
-msgid "Recording"
-msgstr "Upptaka"
+msgid "Red"
+msgstr "Rauður"
 
-msgid "Reference count"
-msgstr "Fjöldi tilvísana"
+msgid "Redo"
+msgstr "Endurkalla"
 
-msgid "Registered U_ser"
-msgstr "_Skráður notandi"
+msgid "Refresh"
+msgstr "Glæða skjá"
 
-msgid "Reinitialized existing"
-msgstr "Endurgerði"
+msgid "Reject"
+msgstr "Hafna"
 
-msgid "Rejecting Jobs"
-msgstr "Hafna verkum"
-
-msgid "Related Applications"
-msgstr "Tengd forritum"
-
-msgid "Remember _forever"
-msgstr "Muna að _eilífu"
-
-msgid "Remember password until you _logout"
-msgstr "_Muna lykilorð þangað til þú skráir þig út"
+msgid "Rejected"
+msgstr "Hafnað"
 
 msgid "Remove"
 msgstr "Fjarlægja"
 
-msgid "Rename…"
-msgstr "Endurnefna…"
+msgid "Rename Layer"
+msgstr "Endurnefna lag"
 
-msgid "Rendering Mode"
-msgstr "Myndgerðarhamur"
+msgid "Rendering"
+msgstr "M�la"
 
-msgid "Reorderable"
-msgstr "Endurraðanlegt"
+msgid "Repeat"
+msgstr "Endurtaka"
 
-msgid "Resizable"
-msgstr "Breytanleg stærð"
+msgid "Replace"
+msgstr "Skipta út"
+
+msgid "Reports"
+msgstr "Skýrslur"
+
+msgid "Reset"
+msgstr "Endurræsa"
 
 msgid "Resize"
-msgstr "Breyta stærð"
+msgstr "Endurstækka kort"
 
 msgid "Resolution"
 msgstr "Upplausn"
 
-msgid "Resource"
-msgstr "Tilfang"
-
-msgid "Resources"
-msgstr "Tilföng"
-
 msgid "Restore"
 msgstr "Endurheimta"
 
-msgid "Restore defaults for this widget"
-msgstr "Endurheimta sjálfgefið fyrir þennan viðmótshluta"
-
 msgid "Return"
-msgstr "Enter"
+msgstr "Til baka"
 
-msgid "Reverse landscape"
-msgstr "Öfugt lárétt"
+msgid "Reverse"
+msgstr "Snúa við"
 
-msgid "Reverse portrait"
-msgstr "Öfugt lóðrétt"
+msgid "Review"
+msgstr "Endurskoða"
 
 msgid "Right"
-msgstr "Hægri"
-
-msgid "Right Justified"
-msgstr "Hægrijafnað"
-
-msgid "Right Margin"
-msgstr "Hægri spássía"
-
-msgid "Right attachment"
-msgstr "Hægra viðhengi"
+msgstr "Lengd:"
 
 msgid "Right margin"
 msgstr "Hægri spássía"
@@ -2953,623 +1582,335 @@ msgstr "Hægri spássía"
 msgid "Right to left"
 msgstr "Frá hægri til vinstri"
 
-msgid "Right to left, bottom to top"
-msgstr "Hægri til vinstri, neðan og upp"
+msgid "Rotate"
+msgstr "Snúa"
 
-msgid "Right to left, top to bottom"
-msgstr "Hægri til vinstri, ofan og niður"
+msgid "Rotation"
+msgstr "Snúningur"
 
-msgid "Right-to-Left"
-msgstr "Hægri-til-vinstri"
-
-msgid "Rise"
-msgstr "Ris"
-
-msgid "Rise set"
-msgstr "Ris-sett"
-
-msgid "Role"
-msgstr "Hlutverk"
-
-msgid "Row Spacing"
-msgstr "Bil milli raða"
-
-msgid "Row spacing"
-msgstr "Bil milli raða"
+msgid "Round"
+msgstr "R�nna�ar"
 
 msgid "Rows"
 msgstr "Raðir"
 
+msgid "Russian"
+msgstr "Uppgj�f"
+
 msgid "S"
 msgstr "S"
-
-msgid "SRA0"
-msgstr "SRA0"
-
-msgid "SRA1"
-msgstr "SRA1"
-
-msgid "SRA2"
-msgstr "SRA2"
-
-msgid "SRA3"
-msgstr "SRA3"
-
-msgid "SRA4"
-msgstr "SRA4"
 
 msgid "SVG"
 msgstr "SVG"
 
-msgid "S_aturation:"
-msgstr "_Mettun:"
+msgid "SVG image"
+msgstr "SVG mynd"
 
-msgid "Sans 12"
-msgstr "Sans 12"
+msgid "Sans"
+msgstr "Sans"
 
 msgid "Saturation"
-msgstr "Litmettun S"
+msgstr "Litmettun"
 
-msgid "Save _As"
-msgstr "Vist_a sem"
+msgid "Save"
+msgstr "Vista"
 
-msgid "Save the current CSS"
-msgstr "Vista núverandi CSS"
+msgid "Save As"
+msgstr "Vista"
 
-msgid "Saving CSS failed"
-msgstr "Tókst ekki að vista CSS"
+msgid "Save Game"
+msgstr "Vista leik"
 
-msgid "Sc_ale:"
-msgstr "_Kvarði:"
+msgid "Save _As..."
+msgstr "_Vista sem..."
 
-msgid "Scale factor"
-msgstr "Kvörðunargildi"
+msgid "Saved"
+msgstr "Vistað"
 
-msgid "Scarlet Red"
-msgstr "Skarlatsrautt"
+msgid "Scale"
+msgstr "Kvarði"
+
+msgid "Scaling"
+msgstr "Skölun"
+
+msgid "Scenario"
+msgstr "Ljúka atburðarás"
+
+msgid "Scenarios"
+msgstr "Atburðarásir"
 
 msgid "Screen"
 msgstr "Skjár"
 
-msgid "ScreenSaver"
-msgstr "Skjáhvíla"
+msgid "Screenshot"
+msgstr "Skjáskot"
 
-msgid "Scroll_Lock"
-msgstr "Scroll_Lock"
-
-msgid "Se_lection"
-msgstr "_Valið"
+msgid "Screenshots..."
+msgstr "Skjáskot"
 
 msgid "Search"
-msgstr "Leita"
-
-msgid "Search Column"
-msgstr "Leitardálkur"
-
-msgid "Search font name"
-msgstr "Leita í heiti leturs"
-
-msgid "Search mode"
-msgstr "Leitarhamur"
-
-msgid "Secondary"
-msgstr "Auka"
-
-msgid "Secondary Text"
-msgstr "Aukatexti"
-
-msgid "Secret"
-msgstr "Leyndarmál"
-
-msgid "See 'git help COMMAND' for more information on a specific command."
-msgstr "Sjá 'git help SKIPUN' til að sjá hjálp fyrir tiltekna skipun."
+msgstr "Leit"
 
 msgid "Select"
 msgstr "Velja"
 
-msgid "Select Application"
-msgstr "Veldu forrit"
+msgid "Select All"
+msgstr "Velja allt"
 
-msgid "Select Font"
-msgstr "Veldu letur"
+msgid "Select None"
+msgstr "Velja ekkert"
+
+msgid "Select Scenario"
+msgstr "Fjarlæg atburðarás"
+
+msgid "Select Source"
+msgstr "Veldu uppruna"
+
+msgid "Select Theme"
+msgstr "Veldu þema"
 
 msgid "Select _All"
 msgstr "Velja _Allt"
 
-msgid "Select a Color"
-msgstr "Veldu lit"
+msgid "Selection"
+msgstr "Val"
 
-msgid "Select a File"
-msgstr "Veldu skrá"
-
-msgid "Select a filename"
-msgstr "Veldu skráarheiti"
-
-msgid "Select an Object"
-msgstr "Veldu hlut"
-
-msgid "Select the color you want from the outer ring. Select the darkness or lightness of that color using the inner triangle."
-msgstr "Veldu litinn sem þú vilt úr ytri hringnum. Veldu birtu litarins með því að nota innri þríhyrninginn."
-
-msgid "Select which type of documents are shown"
-msgstr "Veldu hvaða skjalategundir eru sýnilegar"
-
-msgid "Select which types of files are shown"
-msgstr "Veldu hvaða skráategundir á að sýna"
-
-msgid "Selection Bound"
-msgstr "Valrammi bendils"
-
-msgid "Selection mode"
-msgstr "Valhamur"
-
-msgid "Selector"
-msgstr "Veljari"
-
-msgid "Selects the color"
-msgstr "Velur litinn"
-
-msgid "Self"
-msgstr "Sjálf"
-
-msgid "Self 1"
-msgstr "Sjálf 1"
-
-msgid "Self 2"
-msgstr "Sjálf 2"
-
-msgid "Sending data"
-msgstr "Sendi gögn"
-
-msgid "Sensitive"
-msgstr "Næmt"
-
-msgid "Serialized data is malformed"
-msgstr "Seríalíseruð gögn eru gölluð"
-
-msgid "Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
-msgstr "Seríalíseruð gögn eru gölluð. Fyrsti hlutinn er ekki GTKTEXTBUFFERCONTENTS-0001"
+msgid "Send"
+msgstr "Sandur"
 
 msgid "Services"
 msgstr "Þjónustur"
 
-msgid "Setting is hardcoded by GTK_TEST_TOUCHSCREEN"
-msgstr "Stilling er harðkóðuð með GTK_TEST_TOUCHSCREEN"
-
-msgid "Setting:"
-msgstr "Stilling:"
+msgid "Set Password"
+msgstr "Setja lykilorð"
 
 msgid "Settings"
 msgstr "Stillingar"
 
-msgid "Shadow type"
-msgstr "Skuggagerð"
+msgid "Shadow"
+msgstr "Skuggi"
+
+msgid "Shadows"
+msgstr "Skuggar"
+
+msgid "Shape"
+msgstr "Lögun"
+
+msgid "Sharpen"
+msgstr "Skerpa"
 
 msgid "Shift"
-msgstr "Shift"
+msgstr "Skipti"
 
-msgid "Short Edge (Flip)"
-msgstr "Styttri brún (snúið)"
+msgid "Shortcut"
+msgstr "Flýtilykill"
+
+msgid "Show"
+msgstr "Sýna"
 
 msgid "Show All"
-msgstr "Birta allt"
+msgstr "Sýna allt"
 
 msgid "Show Details"
-msgstr "Sýna ítarlegri upplýsingar"
+msgstr "Sýna nánar"
 
-msgid "Show GTK+ Options"
-msgstr "Birta GTK+ valkosti"
+msgid "Show grid"
+msgstr "Sýna útlínur reita"
 
-msgid "Show Icons"
-msgstr "Birta táknmyndir"
-
-msgid "Show Tooltips"
-msgstr "Sýna vísbendingar verkfæra"
-
-msgid "Show _Hidden Files"
-msgstr "Sýna _faldar skrár"
-
-msgid "Show _Private Resources"
-msgstr "Sýna _einkatilföng"
-
-msgid "Show _Size Column"
-msgstr "Sýna dálk fyrir _stærð"
-
-msgid "Show all Objects"
-msgstr "Sýna alla hluti"
-
-msgid "Show all Resources"
-msgstr "Birta öll tilföng"
-
-msgid "Show data"
-msgstr "Sýna gögn"
-
-msgid "Show extra debugging information"
-msgstr "Sýna auknar villuleitarupplýsingar"
-
-msgid "Show size"
-msgstr "Sýna stærð"
-
-msgid "Show the 'Input Methods' menu"
-msgstr "Sýna valmynd fyrir inntaksaðferðir"
+msgid "Show labels"
+msgstr "Birta fljótandi örnefni"
 
 msgid "Shrink"
 msgstr "Minnka"
 
-msgid "Si_ze:"
-msgstr "S_tærð:"
-
-msgid "Signals"
-msgstr "Merki"
-
-msgid "Similar"
-msgstr "Áþekkt"
-
 msgid "Simple"
 msgstr "Einfalt"
 
-msgid "Simulate touchscreen"
-msgstr "Herma eftir snertiskjá"
+msgid "Sine"
+msgstr "Sínus"
+
+msgid "Singular"
+msgstr "Eintala"
 
 msgid "Size"
 msgstr "Stærð"
 
-msgid "Size Groups"
-msgstr "Stærðarhópar"
+msgid "Skip"
+msgstr "Sleppa"
 
-msgid "Size of the palette in 8 bit mode"
-msgstr "Stærð litaspjalds í 8 bita ham"
+msgid "Slow"
+msgstr "Hægð"
 
-msgid "Size:"
-msgstr "Stærð:"
+msgid "Small"
+msgstr "Lítil"
 
-msgid "Sizing"
-msgstr "Stærðir"
+msgid "Smooth"
+msgstr "Sl�tt"
 
-msgid "Skip pager"
-msgstr "Skip pager"
+msgid "Snap to Grid"
+msgstr "Grípa í hnitanet"
 
-msgid "Skip taskbar"
-msgstr "Skip taskbar"
+msgid "Snap to grid"
+msgstr "Jafna við hnitanet"
 
-msgid "Sky Blue"
-msgstr "Himinblátt"
-
-msgid "Sleep"
-msgstr "Svæfa"
-
-msgid "Small Photo"
-msgstr "Lítil mynd"
-
-msgid "Software GL"
-msgstr "GL með hugbúnaði"
-
-msgid "Some of the settings in the dialog conflict"
-msgstr "Einhverjar stillingarnar í glugganum rekast á hvora aðra"
-
-msgid "Sort _Folders before Files"
-msgstr "Raða _möppum á undan skrám"
-
-msgid "Sort indicator"
-msgstr "Röðunarvísir"
+msgid "Solid"
+msgstr "Gegnheilt"
 
 msgid "Sort order"
 msgstr "Röðunarátt"
 
-msgid "Source:"
-msgstr "Uppruni:"
+msgid "Sound"
+msgstr "Hlj��"
+
+msgid "Source"
+msgstr "Uppruni"
+
+msgid "Source Text"
+msgstr "Frumtexti"
+
+msgid "Source code"
+msgstr "Kóði"
 
 msgid "Space"
-msgstr "Bilslá"
-
-msgid "Spacing"
 msgstr "Bil"
 
-msgid "Spacing between buttons"
-msgstr "Bil milli hnappa"
+msgid "Spacing"
+msgstr "Millibil"
 
-msgid "Specify one or more page ranges,\n e.g. 1–3, 7, 11"
-msgstr "Tilgreindu eina eða fleiri blaðsíður,\n t.d. 1-3, 7, 11"
+msgid "Spanish"
+msgstr "Danska"
 
-msgid "Specify the time of print,\n e.g. 15∶30, 2∶35 pm, 14∶15∶20, 11∶46∶30 am, 4 pm"
-msgstr "Tilgreindu hvenær á að prenta,\n t.d. 15:30, 2:35 eh, 14:15:20, 11:46:30 fh, 4 eh"
+msgid "Special"
+msgstr "Sérstakt"
+
+msgid "Special Characters"
+msgstr "Sérstakir stafir"
+
+msgid "Specular"
+msgstr "Speglandi"
+
+msgid "Speed"
+msgstr "Hraði"
+
+msgid "Sphere"
+msgstr "Kúla"
+
+msgid "Spherical"
+msgstr "Kúlulaga"
+
+msgid "Spider"
+msgstr "Kónguló"
 
 msgid "Spinner"
-msgstr "Snerill"
+msgstr "Snúningsreitur"
+
+msgid "Split"
+msgstr "Kljúfa"
+
+msgid "Square"
+msgstr "Ferhyrnt"
+
+msgid "Squares"
+msgstr "Ferningar"
 
 msgid "Stack"
-msgstr "Stafli"
+msgstr "Stafla"
 
 msgid "Standard"
-msgstr "Staðlað"
-
-msgid "Standard cursor type"
-msgstr "Hefðbundin tegund músarbendils"
+msgstr "Venjulegt"
 
 msgid "State"
 msgstr "Staða"
 
 msgid "Statistics"
-msgstr "Tölfræði"
+msgstr "Yfirlit"
 
 msgid "Status"
-msgstr "Staða"
+msgstr "Staða:"
 
-msgid "Stock ID"
-msgstr "Lagerauðkenni (ID)"
+msgid "Stop"
+msgstr "Stoppa"
 
 msgid "Strikethrough"
-msgstr "Gegnumstrikun"
+msgstr "Yfirstrikun"
 
-msgid "Strikethrough set"
-msgstr "Yfirstrikunarsett"
+msgid "Strong"
+msgstr "Styrkur"
 
 msgid "Style"
 msgstr "Stíll"
 
-msgid "Style Classes"
-msgstr "Stílflokkar"
-
-msgid "Style Properties"
-msgstr "Stíleiginleikar"
-
-msgid "Style of bevel around the toolbar"
-msgstr "Stíll rammans utanum tækjastikuna"
-
-msgid "Style of underline for this text"
-msgstr "Stíll undirstrikunar fyrir þennan texta"
+msgid "Submissions"
+msgstr "Sent inn"
 
 msgid "Subtitle"
 msgstr "Undirtexti"
 
-msgid "Super"
-msgstr "Super (WIN)"
+msgid "Subtract"
+msgstr "Draga frá"
 
-msgid "Super A"
-msgstr "Super A"
+msgid "Suggest"
+msgstr "Stinga uppá"
 
-msgid "Super B"
-msgstr "Super B"
+msgid "Suggestion"
+msgstr "Tillögur"
+
+msgid "Suggestions"
+msgstr "Tillögur"
+
+msgid "Summary"
+msgstr "Samantekt"
 
 msgid "Surface"
 msgstr "Yfirborð"
 
-msgid "Suspend"
-msgstr "Hvíla"
-
-msgid "Sys_Req"
-msgstr "Sys_Req"
+msgid "Symbol"
+msgstr "Tákn"
 
 msgid "System"
-msgstr "Kerfis"
+msgstr "Kerfi"
 
-msgid "System (%{string})"
-msgstr "Kerfi (%{string})"
-
-msgid "System policy prevents changes.\nContact your system administrator"
-msgstr "Kerfispólitík kemur í veg fyrir breytingar.\nHafðu sambandi við kerfisstjórann"
-
-msgid "TEST: A C test string"
-msgstr "TILRAUN: C tilraunastrengur"
-
-msgid "TEST: A Perl test string"
-msgstr "TILRAUN: Perl tilraunastrengur"
-
-msgid "TEST: A Shell test $variable"
-msgstr "TILRAUN: Skeljartilraunastrengur með breytunni $variable"
-
-msgid "TEST: A Shell test string"
-msgstr "TILRAUN: Skeljartilraunastrengur"
-
-msgid "TEST: Hello World!"
-msgstr "TILRAUN: Halló Heimur!"
-
-msgid "TEST: Old English Runes"
-msgstr "TILRAUN: ᚻᛖ ᚳᚹᚫᚦ ᚦᚫᛏ ᚻᛖ ᛒᚢᛞᛖ ᚩᚾ ᚦᚫᛗ ᛚᚪᚾᛞᛖ ᚾᚩᚱᚦᚹᛖᚪᚱᛞᚢᛗ ᚹᛁᚦ ᚦᚪ ᚹᛖᛥᚫ"
-
-msgid "TEST: ‘single’ and “double” quotes"
-msgstr "TILRAUN: ‚einfaldar‘ og „tvöfaldar“ gæsalappir"
-
-msgid "T_wo-sided:"
-msgstr "_Tvíhliðað:"
+msgid "TIFF image"
+msgstr "TIFF mynd"
 
 msgid "Tab"
-msgstr "Tab"
+msgstr "Innskotsmerki"
 
 msgid "Tabloid"
-msgstr "Dagblaðaform"
+msgstr "Dagblaðssnið (Tabloid)"
 
 msgid "Tabs"
-msgstr "Flipar"
-
-msgid "Tag \"%{string}\" already defined"
-msgstr "Merkið „%{string}“ er þegar skilgreint"
-
-msgid "Tag \"%{string}\" does not exist in buffer and tags can not be created."
-msgstr "Merkið „%{string}“ fannst ekki í biðminni og ekki er því hægt að búa til merki."
-
-msgid "Tag \"%{string}\" has invalid priority \"%{string}\""
-msgstr "Merkið „%{string}“ hefur ógildan forgang „%{string}“"
-
-msgid "Tag \"%{string}\" has not been defined."
-msgstr "Merkið „%{string}“ hefur ekki verið skilgreint."
-
-msgid "Tag name"
-msgstr "Heiti merkis"
+msgstr "Inndráttarmerki"
 
 msgid "Target"
 msgstr "Útkoma"
 
-msgid "Terminal Pager"
-msgstr "Skjáhermiflettir"
+msgid "Te_xt"
+msgstr "Te_xti"
+
+msgid "Templates"
+msgstr "Sniðmát"
+
+msgid "Term"
+msgstr "Orð"
 
 msgid "Text"
 msgstr "Texti"
 
-msgid "Text Column"
-msgstr "Textadálkur"
-
 msgid "Text Direction"
 msgstr "Textastefna"
 
-msgid "Text column"
-msgstr "Textadálkur"
-
 msgid "Text direction"
-msgstr "Textastefna"
+msgstr "Átt texta"
+
+msgid "Text file"
+msgstr "Textaskrá"
 
 msgid "Text length"
 msgstr "Lengd texta"
 
-msgid "Text to render"
-msgstr "Texti til myndgerðar"
-
-msgid "Thai-Lao"
-msgstr "Tæ-Laó"
-
-msgid "The GL context"
-msgstr "GL samhengið"
-
-msgid "The MIT License (MIT)"
-msgstr "MIT notkunarleyfi (MIT)"
-
-msgid "The URL for the link to the website of the program"
-msgstr "Vefslóð til að heimsækja heimasíðu forritsins"
-
-msgid "The amount of space between children"
-msgstr "Bil milli barna"
-
-msgid "The amount of space between two consecutive columns"
-msgstr "Stærð bils milli tveggja dálka"
-
-msgid "The amount of space between two consecutive rows"
-msgstr "Stærð bils milli tveggja raða"
-
-msgid "The closure to be monitored for accelerator changes"
-msgstr "Atburðurinn sem bíða á eftir þegar breyting verður á stöðu flýtilykils"
-
-msgid "The color you’ve chosen."
-msgstr "Liturinn sem þú hefur valið."
-
-msgid "The color you’ve chosen. You can drag this color to a palette entry to save it for use in the future."
-msgstr "Liturinn sem þú hefur valið. Þú getur dregið hann inn á litaspjaldið svo þú getir notað hann í framtíðinni."
-
-msgid "The column number to attach the left side of the child to"
-msgstr "Númer dálksins sem hengja á við vinstri hlið barnssins"
-
-msgid "The cover is open on printer “%{string}”."
-msgstr "Lokið er opið á prentaranum '%{string}'."
-
-msgid "The default display for GDK"
-msgstr "Sjálfgefinn skjár fyrir GDK"
-
-msgid "The direction the arrow should point"
-msgstr "Áttin sem pílan á að benda í"
-
-msgid "The door is open on printer “%{string}”."
-msgstr "Hurðin er opin á prentaranum '%{string}'."
-
-msgid "The file already exists in “%{string}”.  Replacing it will overwrite its contents."
-msgstr "Þess skrá er þegar til í „“%{string}“”. Verði henni skipt út verður skrifað yfir innihaldið."
-
-msgid "The folder contents could not be displayed"
-msgstr "Gat ekki birt innihald möppunnar"
-
-msgid "The folder could not be created"
-msgstr "Það tókst ekki að búa til möppu"
-
-msgid "The folder could not be created, as a file with the same name already exists.  Try using a different name for the folder, or rename the file first."
-msgstr "Ekki tókst að búa til möppu, þar sem skrá með sama nafni er þegar til. Reyndu að nota annað nafn fyrir möppuna eða endurnefndu skrána fyrst."
-
-msgid "The generated cache was invalid.\n"
-msgstr "Útbúið skyndiminni er ógilt.\n"
-
-msgid "The icon"
-msgstr "Táknmyndin"
-
-msgid "The item that you selected is not a folder try using a different item."
-msgstr "Atriðið sem þú valdir er ekki mappa, reyndu að velja eitthvað annað."
-
-msgid "The label for the link to the website of the program"
-msgstr "Skýring fyrir tengil á heimasíðu forritsins"
-
-msgid "The license of the program"
-msgstr "Notkunarleyfi þessa forrits"
-
-msgid "The license type of the program"
-msgstr "Notkunarleyfi þessa forrits"
-
-msgid "The maximum duration of time displayed on the x-axis of the history graph."
-msgstr "Stærsta tímabil sem sýnt er á x-ás grafsins."
-
-msgid "The maximum time displayed for history"
-msgstr "Mesti tími sem sýndur eru á grafinu"
-
-msgid "The monitor the menu will be popped up on"
-msgstr "Skjárinn sem valmyndin mun birtast á"
-
-msgid "The most probable reason is that a temporary file could not be created."
-msgstr "Sennilega tókst ekki að búa til bráðabirgðaskrá."
-
-msgid "The name of the menu to open"
-msgstr "Þetta er heitið á valmyndinni sem á að opna"
-
-msgid "The name of the submenu"
-msgstr "Skráin sem nú er valin"
-
-msgid "The name of the visible submenu"
-msgstr "Skráin sem nú er valin"
-
-msgid "The number of columns in the table"
-msgstr "Fjöldi dálka í töflunni"
-
-msgid "The number of rows in the table"
-msgstr "Fjöldi raða í töflunni"
-
-msgid "The pixbuf to render"
-msgstr "pixbuf sem á að myndgera"
-
-msgid "The previously-selected color, for comparison to the color you’re selecting now."
-msgstr "Áður valinn litur, til samanburðar við þann sem þú ert að velja núna."
-
-msgid "The previously-selected color, for comparison to the color you’re selecting now. You can drag this color to a palette entry, or select this color as current by dragging it to the other color swatch alongside."
-msgstr "Áður valinn litur, til samanburðar við litinn sem þú ert að velja núna. Þú getur dregið þennan lit inn á litaspjaldið, eða valið hann sem virkan með því að draga hann inn á litaspjald virkra lita."
-
-msgid "The program was not able to create a connection to the indexer daemon. Please make sure it is running."
-msgstr "Forritið gat ekki tengst atriðaskráarpúkanum. Vertu viss um að hann sé í gangi."
-
-msgid "The role of this button"
-msgstr "Hlutverk þessa hnapps"
-
-msgid "The row number to attach the bottom of the child to"
-msgstr "Númer raðarinnar sem hengja á við neðstu brún barnsins"
-
-msgid "The row number to attach the top of a child widget to"
-msgstr "Númer raðarinnar sem hengja á við efstu brún barnsins"
-
-msgid "The selected color"
-msgstr "Valinn litur"
-
-msgid "The selection mode"
-msgstr "Valhamurinn"
-
-msgid "The text"
-msgstr "Textinn"
-
-msgid "The text of the label"
-msgstr "Texti á skýringu"
-
-msgid "The version of the program"
-msgstr "Útgáfunúmer forrits"
-
-msgid "The widget to be monitored for accelerator changes"
-msgstr "Græjan sem fylgjast á með vegna flýtilykla"
-
-msgid "The width used for each item"
-msgstr "Breidd notuð fyrir hvert atriði"
-
-msgid "The window gravity of the window"
-msgstr "Þungamiðja gluggans"
+msgid "The file already exists. Do you want to overwrite it?"
+msgstr "Skráin er nú þegar til staðar. Viltu yfirskrifa hana?"
 
 msgid "Theme"
 msgstr "Þema"
@@ -3577,20 +1918,14 @@ msgstr "Þema"
 msgid "Theme Name"
 msgstr "Heiti þema"
 
-msgid "Theme is hardcoded by GTK_THEME"
-msgstr "Þema er harðkóðað með GTK_THEME"
+msgid "Themes"
+msgstr "Þemu"
 
-msgid "There is a problem on printer “%{string}”."
-msgstr "Það er vandamál með prentarann ‚%{string}‘."
+msgid "Tile"
+msgstr "Flísaleggja"
 
-msgid "Tigrigna-Eritrean (EZ+)"
-msgstr "Tigrigna-Erítrískt (EZ+)"
-
-msgid "Tigrigna-Ethiopian (EZ+)"
-msgstr "Tigrigna-Eþíópískt (EZ+)"
-
-msgid "Time of print"
-msgstr "Tími prentunar"
+msgid "Tiny"
+msgstr "Pínulítið"
 
 msgid "Title"
 msgstr "Titill"
@@ -3598,482 +1933,191 @@ msgstr "Titill"
 msgid "Toggle"
 msgstr "Víxla"
 
-msgid "Toggles the cell"
-msgstr "Víxlar reitnum"
+msgid "Toolbox"
+msgstr "Tækjaslá"
 
-msgid "Toggles the switch"
-msgstr "Víxlar rofanum"
+msgid "Tools"
+msgstr "Verkfæri"
 
-msgid "Toolbar Icon Size"
-msgstr "Stærð smátáknmynda á verkfærastiku"
-
-msgid "Toolbar Style"
-msgstr "Stíll verkfærastiku"
-
-msgid "Toolbar style"
-msgstr "Stíll verkfærastiku"
-
-msgid "Tooltip"
-msgstr "Vísbending"
-
-msgid "Tooltip Text"
-msgstr "Texti á vísbendingum"
-
-msgid "Top Command"
-msgstr "Top skipun"
-
-msgid "Top Secret"
-msgstr "Algjört leyndarmál"
-
-msgid "Top attachment"
-msgstr "Efsta viðhengi"
+msgid "Top left"
+msgstr "Efri vinstrijaðar"
 
 msgid "Top to bottom"
 msgstr "Ofan og niður"
 
-msgid "Top to bottom, left to right"
-msgstr "Ofan og niður, vinstri til hægri"
+msgid "Total"
+msgstr "Samtals"
 
-msgid "Top to bottom, right to left"
-msgstr "Ofan og niður, hægri til vinstri"
+msgid "Tr_ansparency"
+msgstr "_Gegnsæi"
 
-msgid "TouchpadToggle"
-msgstr "SnertiplattiVíxla"
+msgid "Transform"
+msgstr "Ummynda"
 
-msgid "Translated by"
-msgstr "Þýtt af"
+msgid "Transformation"
+msgstr "Umbreyting"
 
 msgid "Translator credits"
-msgstr "Sveinn í Felli, sv1@fellsnet.is"
+msgstr "Þakkir til þýðanda"
 
-msgid "Transparency of the color."
-msgstr "Gegnsæi litarins."
+msgid "Transparency"
+msgstr "Gegnsæi"
 
-msgid "Trash"
-msgstr "Rusl"
+msgid "Transparent"
+msgstr "Gegnsætt"
 
-msgid "Try using a shorter name."
-msgstr "Reyndu að nota styttra heiti."
-
-msgid "Turn off verbose output"
-msgstr "Slökkva á nákvæmu úttaki"
-
-msgid "Turns volume up or down"
-msgstr "Hækkar eða lækkar hljóðstyrk"
-
-msgid "Two Sided"
-msgstr "Tvíhliða"
+msgid "Tutorial"
+msgstr "Sýnikennsla"
 
 msgid "Type"
 msgstr "Tegund"
 
-msgid "Type name of new folder"
-msgstr "Settu inn nafn nýrrar möppu"
-
-msgid "Type:"
-msgstr "Tegund:"
-
-msgid "UPS"
-msgstr "UPS búnaður"
-
-msgid "UPSs"
-msgstr "UPS búnaður"
-
 msgid "URI"
 msgstr "Slóð (URI)"
 
-msgid "US Legal"
-msgstr "US löggilt"
-
-msgid "US Legal Extra"
-msgstr "US löggilt Extra"
-
-msgid "US Letter"
-msgstr "US bréfsefni"
-
-msgid "US Letter Extra"
-msgstr "US bréfsefni Extra"
-
-msgid "US Letter Plus"
-msgstr "US bréfsefni Plus"
-
-msgid "Unable to access “%{string}”"
-msgstr "Gat ekki tengst “%{string}”"
-
-msgid "Unable to create a GL context"
-msgstr "Gat ekki búið til GL-umhverfi"
-
-msgid "Unable to eject “%{string}”"
-msgstr "Ekki tókst að spýta út \"%{string}\""
-
-msgid "Unable to end process"
-msgstr "Tókst ekki að ljúka ferli"
-
-msgid "Unable to find an item with URI '%{string}'"
-msgstr "Fann ekki neitt með slóðinni '%{string}'"
-
-msgid "Unable to poll “%{string}” for media changes"
-msgstr "Ekki náðist að kanna \"%{string}\" til að sjá breytingar á miðlum"
-
-msgid "Unable to start “%{string}”"
-msgstr "Get ekki ræst \"%{string}\""
-
-msgid "Unable to stop “%{string}”"
-msgstr "Get ekki stöðvað \"%{string}\""
-
-msgid "Unable to unmount “%{string}”"
-msgstr "Get ekki aftengt \"%{string}\""
-
-msgid "Unavailable"
-msgstr "Ófáanlegt"
-
-msgid "Unclassified"
-msgstr "Óflokkað"
+msgid "URL"
+msgstr "Vefslóð"
 
 msgid "Underline"
-msgstr "Undirstrikun"
+msgstr "Undirstrikað"
 
-msgid "Underline RGBA"
-msgstr "Undirstrika RGBA"
+msgid "Undo"
+msgstr "Afturkalla"
 
-msgid "Underline set"
-msgstr "Undirstrikunarsett"
+msgid "Uniform"
+msgstr "Einsleitt"
 
 msgid "Unit"
 msgstr "Eining"
 
+msgid "Units"
+msgstr "Einingar"
+
 msgid "Unknown"
 msgstr "Óþekkt"
 
-msgid "Unknown Application (PID %{number})"
-msgstr "Óþekkt forrit (PID %{number})"
-
-msgid "Unknown item"
-msgstr "Óþekkt atriði"
-
-msgid "Unknown technology"
-msgstr "Óþekktur tími"
-
-msgid "Unlock"
-msgstr "Aflæsa"
-
-msgid "Unlock Text"
-msgstr "Aflæsa texta"
-
-msgid "Unnamed section"
-msgstr "Nafnlaus hluti"
-
-msgid "Unspecified error"
-msgstr "Óskilgreind villa"
-
-msgid "Unspecified profile"
-msgstr "Óskilgreint litasnið"
-
-msgid "Untitled filter"
-msgstr "Ónefnd sía"
+msgid "Untitled"
+msgstr "Ónefnt"
 
 msgid "Up"
 msgstr "Upp"
 
-msgid "Up Path"
-msgstr "Slóð upp"
+msgid "Update All"
+msgstr "Uppfæra allt"
 
-msgid "Urgent"
-msgstr "Áríðandi"
+msgid "User"
+msgstr "Notandi"
 
-msgid "Use font in label"
-msgstr "Nota letur á skýringu"
+msgid "User Interface"
+msgstr "Notandaviðmót"
 
-msgid "Use underline"
-msgstr "Undirstrikað"
+msgid "User Settings"
+msgstr "Notendastillingar"
 
-msgid "Username:"
-msgstr "Notandanafn:"
+msgid "User defined"
+msgstr "eigin stillingar"
 
-msgid "V"
-msgstr "V"
+msgid "User defined settings"
+msgstr "Eigin stillingar"
 
-msgid "Validate existing icon cache"
-msgstr "Gera táknmyndaskyndiminnið gilt"
+msgid "Username"
+msgstr "Notandanafn"
+
+msgid "V_alue"
+msgstr "G_ildi"
 
 msgid "Value"
 msgstr "Gildi"
 
-msgid "Vendor ID"
-msgstr "Auðkenni framleiðanda"
+msgid "Version"
+msgstr "Útgáfa"
 
 msgid "Vertical"
 msgstr "Lóðrétt"
 
 msgid "Vertical Alignment"
-msgstr "Lóðrétt staðsetning"
-
-msgid "Vertical Offset"
-msgstr "Lóðrétt hliðrun"
-
-msgid "Vertical Padding"
-msgstr "Lóðrétt spássía"
+msgstr "Lóðrétt jöfnun"
 
 msgid "Vertical alignment"
 msgstr "Lóðrétt viðfang"
 
-msgid "Vertical position of child in available space. 0.0 is top aligned, 1.0 is bottom aligned"
-msgstr "Lóðrétt staðsettning barns í tiltæku plássi. 0.0 er efst, 1.0 er neðst"
+msgid "Vertically"
+msgstr "Lóðrétt"
 
-msgid "Vertical scale"
-msgstr "Lóðrétt skölun"
-
-msgid "Vertically homogeneous"
-msgstr "Öll eins"
-
-msgid "Very Dark Gray"
-msgstr "Mjög dökkgrátt"
-
-msgid "Very Light Gray"
-msgstr "Mjög ljósgrátt"
-
-msgid "Vietnamese (VIQR)"
-msgstr "Víetnamskt (VIQR)"
-
-msgid "Visibility"
-msgstr "Sýnileiki"
+msgid "View"
+msgstr "Skoða"
 
 msgid "Visible"
 msgstr "Sýnilegt"
 
-msgid "Visited"
-msgstr "Heimsótt"
-
-msgid "Visited Link Color"
-msgstr "Litur heimsótts tengils"
-
 msgid "Visual"
-msgstr "Sjónrænt"
+msgstr "Myndrænt"
 
 msgid "Volume"
-msgstr "Hljóðstyrkur"
-
-msgid "Volume Down"
-msgstr "Lækka hljóðstyrk"
-
-msgid "Volume Up"
-msgstr "Hækka hljóðstyrk"
-
-msgid "WLAN"
-msgstr "WLAN"
+msgstr "Bindi"
 
 msgid "Waiting"
-msgstr "Bíð"
-
-msgid "WakeUp"
-msgstr "VekjaUpp"
+msgstr "Bið"
 
 msgid "Warning"
-msgstr "Aðvörun"
+msgstr "Viðvörun:"
 
-msgid "WebCam"
-msgstr "Vefmyndavél"
+msgid "Weak"
+msgstr "Veikburði"
 
 msgid "Website"
 msgstr "Vefsvæði"
 
-msgid "Website URL"
-msgstr "Vefslóð heimasíðu"
+msgid "Weight"
+msgstr "Þykkt"
 
-msgid "Website label"
-msgstr "Skýring heimasíðu"
+msgid "Welcome"
+msgstr "Velkomin(n)"
 
-msgid "When needed"
-msgstr "Þegar þarf"
-
-msgid "Whether a depth buffer is allocated"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether a stencil buffer is allocated"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether font fallback is enabled."
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether the GtkGLArea renders on each redraw"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether the child should receive extra space when the parent grows"
-msgstr "Hvort barnið fái meira pláss þegar foreldrið stækkar"
-
-msgid "Whether the children should all be the same size"
-msgstr "Hvort börnin skuli öll vera af sömu stærð"
-
-msgid "Whether the menu is a parent"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether the paned should have a prominent handle"
-msgstr "Hvort barnið fái meira pláss þegar foreldrið stækkar"
-
-msgid "Whether the widget is part of a composite widget"
-msgstr "Hvort græjan er hluti af flóknari græju"
-
-msgid "Whether the widget is visible"
-msgstr "Hvort þessi viðmótshluti er sýnilegur"
-
-msgid "Whether the window is maximized"
-msgstr "Hvort glugginn er hámarkaður"
-
-msgid "Whether this tag affects font fallback"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether this tag affects letter spacing"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether this tag affects strikethrough"
-msgstr "Hvort þetta merki hafi áhrif á yfirstrikun"
-
-msgid "Whether this tag affects strikethrough color"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether this tag affects the font family"
-msgstr "Hvort þetta merki hafi áhrif á leturgerðina"
-
-msgid "Whether this tag affects the font size"
-msgstr "Hvort þetta merki hafi áhrif á stærð leturs"
-
-msgid "Whether this tag affects the font stretch"
-msgstr "Hvort þetta merki hafi áhrif á teygingu leturs"
-
-msgid "Whether this tag affects the font style"
-msgstr "Hvort þetta merki hafi áhrif á leturstílinn"
-
-msgid "Whether this tag affects the font variant"
-msgstr "Hvort þetta merki hafi áhrif á leturtilbrigðið"
-
-msgid "Whether this tag affects the font weight"
-msgstr "Hvort þetta merkihafi áhrif á feitletrun/þyngd leturs"
-
-msgid "Whether this tag affects the rise"
-msgstr "Hvort þetta merki hafi áhrif á ris leturs"
-
-msgid "Whether this tag affects underlining"
-msgstr "Hvort þetta merki hafi áhrif á undirstrikun"
-
-msgid "Whether this tag affects underlining color"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether this tag scales the font size by a factor"
-msgstr "Hvort þetta merki hafi áhrif á kvörðun leturs"
-
-msgid "Whether to allow multiple files to be selected"
-msgstr "Stillir hvort velja má margar skrár"
-
-msgid "Whether to center the contents"
-msgstr "Hvort miðja eigi innihaldið"
-
-msgid "Whether to prefer the icon over text"
-msgstr "Hvort velja eigi táknmynd fremur en texta"
-
-msgid "Whether to strike through the text"
-msgstr "Hvort það eigi að yfirstrika textan"
+msgid "Wheel"
+msgstr "Hjól"
 
 msgid "White"
-msgstr "Hvítt"
-
-msgid "Wide Format"
-msgstr "Breiðform"
-
-msgid "Wide Photo"
-msgstr "Breið ljósmynd"
-
-msgid "Widget"
-msgstr "Viðmótshluti (widget)"
+msgstr "Hvítur"
 
 msgid "Width"
 msgstr "Breidd"
 
-msgid "Width for each item"
-msgstr "Breidd notuð fyrir hvert atriði"
-
-msgid "Width of border around the main dialog area"
-msgstr "Þykkt rammans um aðal svæði gluggans"
-
 msgid "Window"
-msgstr "Gluggi"
+msgstr "Gluggar"
 
-msgid "Window Position"
-msgstr "Staðsetning glugga"
+msgid "Wood"
+msgstr "Viður"
 
-msgid "Window Title"
-msgstr "Gluggatitill"
-
-msgid "Window Type"
-msgstr "Tegund glugga"
-
-msgid "Window scaling"
-msgstr "Gluggakvörðun"
-
-msgid "Windows IME"
-msgstr "Windows IME"
+msgid "Words"
+msgstr "Orð"
 
 msgid "Wrap"
 msgstr "Textaskrið"
 
-msgid "Wrap Mode"
-msgstr "Flettihamur"
+msgid "X"
+msgstr "X"
 
-msgid "X Input Method"
-msgstr "X inntaksaðferð"
-
-msgid "X alignment of the child"
-msgstr "Staðsetning barnsins á X ásnum"
-
-msgid "X display"
-msgstr "X-skjár"
-
-msgid "X display to use"
-msgstr "X skjár til að nota"
-
-msgid "X position"
-msgstr "X staðsetning"
-
-msgid "XSettings"
-msgstr "XSettings"
-
-msgid "Y alignment of the child"
-msgstr "Staðsetning barnsins á Y ásnum"
-
-msgid "Y position"
-msgstr "Y staðsetning"
+msgid "Y"
+msgstr "Y"
 
 msgid "Year"
 msgstr "Ár"
 
+msgid "Yellow"
+msgstr "Gulur"
+
 msgid "Yes"
 msgstr "Já"
 
-msgid "You can enter an HTML-style hexadecimal color value, or simply a color name such as “orange” in this entry."
-msgstr "Hægt er að slá inn litagildi á formi sextándakerfis, eða með því að skrifa einfalt nafn á lit eins og ‚orange‘."
+msgid "Zoom"
+msgstr "Aðdráttur"
 
-msgid "You can temporarily disable this custom CSS by clicking on the “Pause” button above."
-msgstr "Þú getur gert þetta sérsniðna CSS tímabundið óvirkt með því að smella á \"Bíða\" hnappinn hér fyrir ofan."
+msgid "Zoom In"
+msgstr "Þysja inn"
 
-msgid "You can type here any CSS rule recognized by GTK+."
-msgstr "Þú getur skrifað hér hverja þá CSS reglu sem GTK+ þekkir."
-
-msgid "You may only select folders"
-msgstr "Þú getur aðeins valið möppur"
-
-msgid "You need to choose a valid filename."
-msgstr "Þú verður að velja gilt skráarheiti."
-
-msgid "Z Shell"
-msgstr "Z skelin"
-
-msgid "ZWJ Zero width _joiner"
-msgstr "ZW_J Núllbreiddar tengi"
-
-msgid "ZWNJ Zero width _non-joiner"
-msgstr "ZWNJ Núllbreiddar _ekki-tengi"
-
-msgid "ZWS _Zero width space"
-msgstr "ZWS _Núllbreiddar bil"
+msgid "Zoom Out"
+msgstr "Þysja út"
 
 msgid "Zoom _In"
 msgstr "Renna _að"
@@ -4081,500 +2125,896 @@ msgstr "Renna _að"
 msgid "Zoom _Out"
 msgstr "Renna _frá"
 
-msgid "\"%{string}\" could not be converted to a value of type \"%{string}\" for attribute \"%{string}\""
-msgstr "Það tókst ekki að breyta „%{string}“ í gildi af tegundinni „%{string}“ fyrir eigindið „%{string}“"
+msgid "Zoom in"
+msgstr "Þysja inn"
 
-msgid "\"%{string}\" is not a valid attribute name"
-msgstr "„%{string}“ er ekki gilt nafn á eigindi"
+msgid "Zoom out"
+msgstr "Þysja út"
 
-msgid "\"%{string}\" is not a valid attribute type"
-msgstr "„%{string}“ er ekki gilt eigindi"
+msgid "a"
+msgstr "a"
 
-msgid "\"%{string}\" is not a valid value for attribute \"%{string}\""
-msgstr "„%{string}“ er ekki mögulegt gildi fyrir eigindið „%{string}“"
+msgid "a0"
+msgstr "a0"
 
-msgid "_About"
-msgstr "_Um hugbúnaðinn"
+msgid "a1"
+msgstr "a1"
 
-msgid "_Add"
-msgstr "Bæt_a við"
+msgid "a2"
+msgstr "a2"
 
-msgid "_Add Bookmark"
-msgstr "Bæt_a við bókamerki"
+msgid "a3"
+msgstr "a3"
 
-msgid "_Add to Bookmarks"
-msgstr "_Bæta við sem bókamerki"
+msgid "a4"
+msgstr "a4"
 
-msgid "_After:"
-msgstr "_Eftir:"
+msgid "a5"
+msgstr "a5"
 
-msgid "_All Pages"
-msgstr "_Allar blaðsíður"
+msgid "a6"
+msgstr "a6"
 
-msgid "_Anonymous"
-msgstr "N_afnlaus"
+msgid "abbreviation"
+msgstr "stytting"
 
-msgid "_Apply"
-msgstr "Virkj_a"
+msgid "about"
+msgstr "um"
 
-msgid "_Ascending"
-msgstr "_Hækkandi"
+msgid "accept"
+msgstr "�iggja"
 
-msgid "_Back"
-msgstr "_Til baka"
+msgid "accepted"
+msgstr "samþykkt"
 
-msgid "_Billing info:"
-msgstr "_Greiðsluupplýsingar:"
+msgid "action"
+msgstr "aðgerð"
 
-msgid "_Blue:"
-msgstr "_Blátt:"
+msgid "actions"
+msgstr "aðgerð"
 
-msgid "_Bold"
-msgstr "_Feitletrað"
+msgid "active"
+msgstr "virkt"
 
-msgid "_Bottom"
-msgstr "_Neðst"
+msgid "add"
+msgstr "bæta við"
 
-msgid "_Bottom:"
-msgstr "_Niðri:"
+msgid "addition"
+msgstr "bæta við"
 
-msgid "_CD-ROM"
-msgstr "_CD-ROM"
+msgid "address"
+msgstr "slóð"
 
-msgid "_Cancel"
-msgstr "_Hætta við"
+msgid "adjustment"
+msgstr "aðlögun"
 
-msgid "_Center"
-msgstr "_Miðja"
+msgid "advanced"
+msgstr "nánar"
 
-msgid "_Clear"
-msgstr "_Hreinsa"
+msgid "after"
+msgstr "Á eftir"
 
-msgid "_Clear List"
-msgstr "_Hreinsa lista"
+msgid "align"
+msgstr "jafna"
 
-msgid "_Close"
-msgstr "_Loka"
+msgid "alignment"
+msgstr "jöfnun"
 
-msgid "_Color"
-msgstr "L_itur"
+msgid "all"
+msgstr "allt"
 
-msgid "_Connect Drive"
-msgstr "_Tengja drif"
+msgid "alpha"
+msgstr "alfa"
 
-msgid "_Convert"
-msgstr "_Umbreyta"
+msgid "always"
+msgstr "alltaf"
 
-msgid "_Copy"
-msgstr "_Afrita"
+msgid "amount"
+msgstr "magn"
 
-msgid "_Copy Location"
-msgstr "_Afrita staðsetningu"
+msgid "anchor"
+msgstr "festipunktur"
 
-msgid "_Create"
-msgstr "_Búa til"
+msgid "and"
+msgstr "og"
 
-msgid "_Customize"
-msgstr "_Sérsníða"
+msgid "angle"
+msgstr "horn"
 
-msgid "_Delete"
-msgstr "_Eyða"
+msgid "animation"
+msgstr "hreyfingar"
 
-msgid "_Descending"
-msgstr "_Lækkandi"
+msgid "animations"
+msgstr "hreyfimyndir"
 
-msgid "_Detect Media"
-msgstr "_Finna miðla"
+msgid "annotation"
+msgstr "athugasemdir"
 
-msgid "_Discard"
-msgstr "_Henda"
+msgid "appearance"
+msgstr "Útlit"
 
-msgid "_Disconnect"
-msgstr "_Aftengjast"
+msgid "application"
+msgstr "forrit"
 
-msgid "_Disconnect Drive"
-msgstr "Aftengja _drif"
+msgid "apply"
+msgstr "setja"
 
-msgid "_Domain"
-msgstr "_Lén"
+msgid "area"
+msgstr "flötur"
 
-msgid "_Down"
-msgstr "_Niður"
+msgid "arrow"
+msgstr "Ör"
 
-msgid "_Edit"
-msgstr "Br_eyta"
+msgid "assign"
+msgstr "Úthluta"
 
-msgid "_Eject"
-msgstr "_Spýta út"
+msgid "attribute"
+msgstr "eiginleiki"
 
-msgid "_End Process"
-msgstr "_Ljúka ferli"
+msgid "attributes"
+msgstr "eigindi"
 
-msgid "_Execute"
-msgstr "_Keyra"
+msgid "authentication"
+msgstr "auðkenning"
 
-msgid "_Family:"
-msgstr "_Fjölskylda:"
+msgid "author"
+msgstr "höfundur"
 
-msgid "_File"
-msgstr "_Skrá"
+msgid "authors"
+msgstr "lei�beinandi"
 
-msgid "_Fill"
-msgstr "_Fylla"
+msgid "auto"
+msgstr "sjálfvirkt"
 
-msgid "_Find"
-msgstr "_Finna"
+msgid "automatic"
+msgstr "sjálfvirkt"
 
-msgid "_Find New Applications"
-msgstr "_Finna ný forrit"
+msgid "average"
+msgstr "meðaltal"
 
-msgid "_Finish"
-msgstr "_Ljúka"
+msgid "axes"
+msgstr "Ásar"
 
-msgid "_First"
-msgstr "_Fyrsta"
+msgid "b"
+msgstr "b"
 
-msgid "_Floppy"
-msgstr "_Disklingur"
+msgid "back"
+msgstr "til baka"
 
-msgid "_Font"
-msgstr "L_etur"
+msgid "background"
+msgstr "bakgrunnur"
 
-msgid "_Format for:"
-msgstr "_Sníða fyrir:"
+msgid "beep"
+msgstr "bíp"
 
-msgid "_Forward"
-msgstr "_Áfram"
+msgid "before"
+msgstr "Á undan"
 
-msgid "_Fullscreen"
-msgstr "_Heilskjár"
+msgid "binding"
+msgstr "tenging"
 
-msgid "_Green:"
-msgstr "_Grænt:"
+msgid "black"
+msgstr "svart"
 
-msgid "_Hard Disk"
-msgstr "_Harður diskur"
+msgid "blank"
+msgstr "tómt"
 
-msgid "_Height:"
-msgstr "_Hæð:"
+msgid "blue"
+msgstr "blátt"
 
-msgid "_Help"
-msgstr "H_jálp"
+msgid "bold"
+msgstr "feitletrað"
 
-msgid "_Home"
-msgstr "_Heim"
+msgid "bookmarks"
+msgstr "bókamerki"
 
-msgid "_Hue:"
-msgstr "_Litblær:"
+msgid "both"
+msgstr "báðar"
 
-msgid "_Index"
-msgstr "Atr_iðaskrá"
+msgid "box"
+msgstr "kassi"
 
-msgid "_Information"
-msgstr "_Upplýsingar"
+msgid "brackets"
+msgstr "svigar"
 
-msgid "_Italic"
-msgstr "_Skáletrað"
+msgid "brightness"
+msgstr "birta"
 
-msgid "_Jump to"
-msgstr "_Hoppa í"
+msgid "brown"
+msgstr "brúnn"
 
-msgid "_Last"
-msgstr "_Síðasta"
+msgid "browse"
+msgstr "vafra"
 
-msgid "_Leave Fullscreen"
-msgstr "_Hætta í heilskjá"
+msgid "browse..."
+msgstr "velja..."
 
-msgid "_Left"
-msgstr "_Vinstri"
+msgid "brush"
+msgstr "bursti"
 
-msgid "_Left:"
-msgstr "_Vinstri:"
+msgid "bubble"
+msgstr "blaðra"
 
-msgid "_License"
-msgstr "_Notandaleyfi"
+msgid "c_enter"
+msgstr "_miðja"
 
-msgid "_Lock Drive"
-msgstr "_Læsa drifi"
+msgid "cancel"
+msgstr "hætta við"
 
-msgid "_Mount"
-msgstr "_Tengja"
+msgid "cancelled"
+msgstr "h�tta vi�"
 
-msgid "_Name:"
-msgstr "_Nafn:"
+msgid "caption"
+msgstr "skýring"
 
-msgid "_Network"
-msgstr "_Netkerfi"
+msgid "category"
+msgstr "flokkur"
 
-msgid "_New"
-msgstr "_Nýtt"
+msgid "center"
+msgstr "miðjað"
 
-msgid "_Next"
-msgstr "_Næsta"
+msgid "centered"
+msgstr "miðjað"
 
-msgid "_No"
-msgstr "_Nei"
+msgid "checkerboard"
+msgstr "köflótt"
 
-msgid "_Normal Size"
-msgstr "_Venjuleg stærð"
+msgid "circle"
+msgstr "hringur"
 
-msgid "_Now"
-msgstr "_Núna"
+msgid "city"
+msgstr "borg/sveitarfélag"
 
-msgid "_OK"
-msgstr "Í _lagi"
+msgid "clear"
+msgstr "sedrus"
 
-msgid "_Only print:"
-msgstr "Prenta _bara:"
+msgid "close"
+msgstr "loka"
 
-msgid "_Open"
-msgstr "_Opna"
+msgid "collect"
+msgstr "safna"
 
-msgid "_Open Link"
-msgstr "_Opna tengil"
+msgid "color"
+msgstr "litur"
 
-msgid "_Open With File Manager"
-msgstr "_Opna með skráastjóra"
+msgid "colors"
+msgstr "litir"
 
-msgid "_Orientation:"
-msgstr "_Snúningur:"
+msgid "columns"
+msgstr "dálkar"
 
-msgid "_Output format"
-msgstr "Útta_kssnið"
+msgid "combine"
+msgstr "sameina"
 
-msgid "_Palette:"
-msgstr "_Litaspjald:"
+msgid "command"
+msgstr "/_hj�lp/_skipanir"
 
-msgid "_Paper size:"
-msgstr "_Pappírsstærð:"
+msgid "commands"
+msgstr "skipanir"
 
-msgid "_Password"
-msgstr "_Lykilorð"
+msgid "comment"
+msgstr "athugasemd"
 
-msgid "_Paste"
-msgstr "_Líma"
+msgid "comments"
+msgstr "athugasemdir"
 
-msgid "_Play"
-msgstr "S_pila"
+msgid "compression"
+msgstr "Þjöppun"
 
-msgid "_Power On"
-msgstr "_Kveikja"
+msgid "confidential"
+msgstr "trúnaðarmál"
 
-msgid "_Preferences"
-msgstr "_Kjörstillingar"
+msgid "confirm"
+msgstr "staðfesta"
 
-msgid "_Preview:"
-msgstr "_Forsýn:"
+msgid "connect"
+msgstr "tengjast"
 
-msgid "_Print"
-msgstr "_Prenta"
+msgid "constant"
+msgstr "fasti"
 
-msgid "_Properties"
-msgstr "_Eiginleikar"
+msgid "contents"
+msgstr "tengjast"
 
-msgid "_Quit"
-msgstr "_Hætta"
+msgid "context"
+msgstr "samhengi"
 
-msgid "_Record"
-msgstr "_Upptaka"
+msgid "continue"
+msgstr "halda hreyfingu áfram"
 
-msgid "_Red:"
-msgstr "_Rautt:"
+msgid "contrast"
+msgstr "skerpa"
 
-msgid "_Redo"
-msgstr "_Endurtaka"
+msgid "controls"
+msgstr "stjórntæki"
 
-msgid "_Refresh"
-msgstr "Endu_rlesa"
+msgid "copy"
+msgstr "afrita"
 
-msgid "_Remember password"
-msgstr "_Muna lykilorð"
+msgid "cosine"
+msgstr "kósínus"
 
-msgid "_Remove"
-msgstr "_Fjarlægja"
+msgid "count"
+msgstr "fjöldi"
 
-msgid "_Remove From List"
-msgstr "_Fjarlægja af lista"
+msgid "country"
+msgstr "land"
 
-msgid "_Replace"
-msgstr "_Skipta út"
+msgid "create"
+msgstr "búa til leik"
 
-msgid "_Reverse"
-msgstr "_Snúa við"
+msgid "credits"
+msgstr "Þakkarorð"
 
-msgid "_Revert"
-msgstr "F_rumstilla"
+msgid "crop"
+msgstr "utansníða"
 
-msgid "_Right"
-msgstr "_Hægri"
+msgid "cu_t"
+msgstr "_klippa"
 
-msgid "_Right:"
-msgstr "_Hægri"
+msgid "cumulative"
+msgstr "uppsöfnun"
 
-msgid "_Safely Remove Drive"
-msgstr "_Fjarlægja drif á öruggan máta"
+msgid "currency"
+msgstr "gjaldmiðill"
 
-msgid "_Save"
-msgstr "Vi_sta"
+msgid "curve"
+msgstr "boglína"
 
-msgid "_Save color here"
-msgstr "_Vista lit hér"
+msgid "custom"
+msgstr "nánari skilgreiningar"
 
-msgid "_Select"
-msgstr "_Velja"
+msgid "customize"
+msgstr "sérsníða"
 
-msgid "_Spell Check"
-msgstr "_Stafsetningarleiðrétting"
+msgid "cut"
+msgstr "klippa"
 
-msgid "_Start"
-msgstr "_Ræsa"
+msgid "cyan"
+msgstr "blágrænt"
 
-msgid "_Start Multi-disk Device"
-msgstr "Ræ_sa margdiskatæki"
+msgid "cylinder"
+msgstr "sívalningur"
 
-msgid "_Stop"
-msgstr "_Stöðva"
-
-msgid "_Stop Multi-disk Device"
-msgstr "_Stöðva margdiskatæki"
-
-msgid "_Strikethrough"
-msgstr "_Strika í gegnum"
-
-msgid "_Style:"
-msgstr "_Stíll:"
-
-msgid "_Top"
-msgstr "_Efst"
-
-msgid "_Top:"
-msgstr "_Uppi:"
-
-msgid "_Undelete"
-msgstr "_Afturkalla eyðingu"
-
-msgid "_Underline"
-msgstr "_Undirstrika"
-
-msgid "_Undo"
-msgstr "_Afturkalla"
-
-msgid "_Unlock Drive"
-msgstr "_Aflæsa drifi"
-
-msgid "_Unmount"
-msgstr "_Aftengja"
-
-msgid "_Up"
-msgstr "_Upp"
-
-msgid "_Username"
-msgstr "_Notandanafn"
-
-msgid "_Value:"
-msgstr "_Gildi:"
-
-msgid "_View All Applications"
-msgstr "S_koða öll forrit"
-
-msgid "_Visit File"
-msgstr "S_koða skrá"
-
-msgid "_Width:"
-msgstr "_Breidd:"
-
-msgid "_Yes"
-msgstr "_Já"
-
-msgid "_comment"
-msgstr "loaded from /Users/jevon/workspace/collate/sources/tortoise_svn/workspace/is/TortoiseUI.po by load_po_file"
-
-msgid "a2 Envelope"
-msgstr "a2 umslag"
-
-msgid "abcdefghijk ABCDEFGHIJK"
-msgstr "abcdefghijk áéýúíóþæðö ABCDEFGHIJK ÁÉÝÚÍÓÞÆÐÖ"
-
-msgid "asme_f"
-msgstr "asme_f"
-
-msgid "b-plus"
-msgstr "b-plús"
-
-msgid "bidirectional"
-msgstr "tvíátta"
-
-msgid "bidirectional, inverted"
-msgstr "tvíátta, viðsnúið"
-
-msgid "c"
-msgstr "c"
-
-msgid "c5 Envelope"
-msgstr "c5 umslag"
-
-msgid "calendar:MY"
-msgstr "calendar:MY"
-
-msgid "calendar:week_start:0"
-msgstr "calendar:week_start:1"
+msgid "czech"
+msgstr "beyki"
 
 msgid "d"
 msgstr "d"
 
+msgid "danish"
+msgstr "danska"
+
+msgid "dashed"
+msgstr "strikað"
+
+msgid "data"
+msgstr "gögn"
+
+msgid "database"
+msgstr "dags:"
+
+msgid "databases"
+msgstr "dags:"
+
+msgid "date"
+msgstr "líma"
+
+msgid "day"
+msgstr "dagur"
+
+msgid "default"
+msgstr "sjálfgefið"
+
 msgid "default:LTR"
 msgstr "default:LTR"
 
-msgid "default:mm"
-msgstr "default:mm"
+msgid "defaults"
+msgstr "sjálfgefið"
 
-msgid "e"
-msgstr "e"
+msgid "degrees"
+msgstr "gráður"
 
-msgid "edp"
-msgstr "edp"
+msgid "delay"
+msgstr "seinkun"
 
-msgid "f"
-msgstr "f"
+msgid "delete"
+msgstr "eyða skrá"
 
-msgid "hagaki (postcard)"
-msgstr "hagaki (póstkort)"
+msgid "depth"
+msgstr "d�pt"
+
+msgid "desaturate"
+msgstr "afmettun"
+
+msgid "description"
+msgstr "lýsing"
+
+msgid "description..."
+msgstr "lýsing..."
+
+msgid "design"
+msgstr "uppgj�f"
+
+msgid "detail"
+msgstr "nánar"
+
+msgid "details"
+msgstr "smáatriði"
+
+msgid "devices"
+msgstr "tæki"
+
+msgid "dialog"
+msgstr "samskiptagluggi"
+
+msgid "dialogs"
+msgstr "samskiptagluggar"
+
+msgid "diamond"
+msgstr "tígul"
+
+msgid "difference"
+msgstr "dismunur"
+
+msgid "digits"
+msgstr "tölustafir"
+
+msgid "dimensions"
+msgstr "stærð"
+
+msgid "direction"
+msgstr "stefna"
+
+msgid "directional"
+msgstr "stefna"
+
+msgid "disabled"
+msgstr "Óvirkt"
+
+msgid "disc"
+msgstr "diskur"
+
+msgid "display"
+msgstr "s�n"
+
+msgid "dissolve"
+msgstr "leysa upp"
+
+msgid "distribute"
+msgstr "dreifing"
+
+msgid "dock"
+msgstr "Á spjaldið"
+
+msgid "documents"
+msgstr "skjöl"
+
+msgid "done"
+msgstr "lokið"
+
+msgid "down"
+msgstr "niður"
+
+msgid "downloads"
+msgstr "niðurhöl"
+
+msgid "e-mail"
+msgstr "tölvupóstfang"
+
+msgid "edit"
+msgstr "s�sl"
+
+msgid "editable"
+msgstr "breytanlegt"
+
+msgid "emboss"
+msgstr "upphleypt"
+
+msgid "empty"
+msgstr "autt"
+
+msgid "enabled"
+msgstr "virkt"
+
+msgid "end"
+msgstr "endar"
+
+msgid "environment"
+msgstr "umhverfi"
+
+msgid "error"
+msgstr "villa"
+
+msgid "errors"
+msgstr "villur"
+
+msgid "escape"
+msgstr "escape"
+
+msgid "event"
+msgstr "atburður"
+
+msgid "events"
+msgstr "atburðir"
+
+msgid "executive"
+msgstr "formlegt (executive)"
+
+msgid "exit"
+msgstr "hætta"
+
+msgid "expand"
+msgstr "Þenja út"
+
+msgid "expanded"
+msgstr "Útvíkkað"
+
+msgid "exponential"
+msgstr "veldisfall"
+
+msgid "export"
+msgstr "flytja út"
+
+msgid "extensions"
+msgstr "viðbætur"
+
+msgid "f5"
+msgstr "5"
+
+msgid "factor"
+msgstr "stuðull"
+
+msgid "fast"
+msgstr "hratt"
+
+msgid "file"
+msgstr "skrá"
+
+msgid "files"
+msgstr "skrár"
+
+msgid "fill"
+msgstr "fylling"
+
+msgid "filled"
+msgstr "fyllt"
+
+msgid "filter"
+msgstr "skrá:"
+
+msgid "filters"
+msgstr "síur"
+
+msgid "finished"
+msgstr "lokið"
+
+msgid "first"
+msgstr "fyrsta"
+
+msgid "fixed"
+msgstr "fast"
+
+msgid "flat"
+msgstr "flatlendi"
+
+msgid "flip"
+msgstr "fletta"
+
+msgid "flower"
+msgstr "hægður"
+
+msgid "folder"
+msgstr "mappa"
+
+msgid "font"
+msgstr "letur"
+
+msgid "fonts"
+msgstr "letur"
+
+msgid "force"
+msgstr "framfylgja"
+
+msgid "forest"
+msgstr "skógur"
+
+msgid "forward"
+msgstr "Áfram"
+
+msgid "fraction"
+msgstr "tugabrot"
+
+msgid "french"
+msgstr "franska"
+
+msgid "function"
+msgstr "fall"
+
+msgid "functions"
+msgstr "föll"
+
+msgid "gamma"
+msgstr "litaleiðrétting"
+
+msgid "general"
+msgstr "almennt"
+
+msgid "generic"
+msgstr "almennar skipanir"
+
+msgid "german"
+msgstr "��ska"
+
+msgid "gold"
+msgstr "gull"
+
+msgid "gradient"
+msgstr "litblöndun"
+
+msgid "gradients"
+msgstr "stiglar"
+
+msgid "gray"
+msgstr "grár"
+
+msgid "grayscale"
+msgstr "grátóna"
+
+msgid "green"
+msgstr "grænt"
+
+msgid "grey"
+msgstr "grátt"
+
+msgid "grid"
+msgstr "hnitanet"
+
+msgid "group"
+msgstr "hópur"
+
+msgid "guides"
+msgstr "stoðlínur"
+
+msgid "h"
+msgstr "h"
+
+msgid "heading"
+msgstr "fyrirsögn"
+
+msgid "heart"
+msgstr "hjarta"
 
 msgid "height"
 msgstr "hæð"
 
+msgid "help"
+msgstr "hjálp"
+
+msgid "hierarchy"
+msgstr "stigskipun"
+
+msgid "high"
+msgstr "lj�s"
+
+msgid "history"
+msgstr "aflsaga"
+
+msgid "home"
+msgstr "heim"
+
+msgid "horizontal"
+msgstr "lárétt"
+
+msgid "horizontally"
+msgstr "lárétt"
+
+msgid "hue"
+msgstr "litblær h"
+
+msgid "human"
+msgstr "manneskja"
+
+msgid "i_ntensity"
+msgstr "styr_kur"
+
+msgid "icon"
+msgstr "táknmynd"
+
+msgid "icons"
+msgstr "táknmyndir"
+
+msgid "image"
+msgstr "mynd"
+
+msgid "images"
+msgstr "myndir"
+
 msgid "inch"
+msgstr "tomma"
+
+msgid "inches"
 msgstr "tommur"
 
-msgid "inverted"
-msgstr "viðsnúið"
+msgid "include"
+msgstr "innihald"
 
-msgid "jis exec"
-msgstr "jis exec"
+msgid "indent"
+msgstr "inndráttur"
 
-msgid "juuro-ku-kai"
-msgstr "juuro-ku-kai"
+msgid "infinite"
+msgstr "óendanlegt"
 
-msgid "kahu Envelope"
-msgstr "kahu umslag"
+msgid "info"
+msgstr "upplýsingar"
 
-msgid "kaku2 Envelope"
-msgstr "kaku2 umslag"
+msgid "information"
+msgstr "upplýsingar"
 
-msgid "kaku3 Envelope"
-msgstr "kaku2 umslag"
+msgid "insert"
+msgstr "setja inn"
 
-msgid "kaku4 Envelope"
-msgstr "kaku2 umslag"
+msgid "integer"
+msgstr "heiltala"
 
-msgid "kaku5 Envelope"
-msgstr "kaku2 umslag"
+msgid "intersection"
+msgstr "skurðflötur"
 
-msgid "kaku7 Envelope"
-msgstr "kaku2 umslag"
+msgid "introduction"
+msgstr "inngangur"
 
-msgid "kaku8 Envelope"
-msgstr "kaku2 umslag"
+msgid "invert"
+msgstr "umhverfa"
+
+msgid "invisible"
+msgstr "Ósýnilegt"
+
+msgid "italian"
+msgstr "�talska"
+
+msgid "italic"
+msgstr "skáletrað"
+
+msgid "iterations"
+msgstr "Ítranir"
+
+msgid "japanese"
+msgstr "japanska"
+
+msgid "keyboard"
+msgstr "lyklaborð"
+
+msgid "keys"
+msgstr "lyklar"
+
+msgid "keywords"
+msgstr "lykilorð"
+
+msgid "knight"
+msgstr "riddari"
+
+msgid "label"
+msgstr "heiti"
+
+msgid "landscape"
+msgstr "langsnið"
+
+msgid "language"
+msgstr "tungumál"
+
+msgid "languages"
+msgstr "tungumál"
+
+msgid "large"
+msgstr "stór"
+
+msgid "layer"
+msgstr "lag"
+
+msgid "layers"
+msgstr "spilarar:"
+
+msgid "layout"
+msgstr "framsetning"
+
+msgid "left"
+msgstr "vinstri"
+
+msgid "legal"
+msgstr "lögfræðileg atriði"
+
+msgid "levels"
+msgstr "stig"
+
+msgid "license"
+msgstr "leyfi"
+
+msgid "light"
+msgstr "lj�s"
+
+msgid "limit"
+msgstr "takmörk"
+
+msgid "line"
+msgstr "lína"
+
+msgid "linear"
+msgstr "línulegt"
+
+msgid "load"
+msgstr "hlaða"
+
+msgid "location"
+msgstr "staðsetning"
+
+msgid "lock"
+msgstr "læsa"
+
+msgid "logarithmic"
+msgstr "lógaritmískt"
+
+msgid "logo"
+msgstr "logo"
+
+msgid "long"
+msgstr "löng"
+
+msgid "loop"
+msgstr "loop"
+
+msgid "low"
+msgstr "lítill"
+
+msgid "luminance"
+msgstr "birtustig"
+
+msgid "m"
+msgstr "m"
+
+msgid "magenta"
+msgstr "blárautt"
+
+msgid "male"
+msgstr "kastali"
+
+msgid "manual"
+msgstr "handvirkt"
+
+msgid "marble"
+msgstr "marmari"
+
+msgid "march"
+msgstr "leit"
+
+msgid "margin"
+msgstr "spássía"
+
+msgid "markup"
+msgstr "merking"
+
+msgid "maximize"
+msgstr "stækka"
+
+msgid "mean"
+msgstr "��ska"
+
+msgid "median"
+msgstr "miðgildi"
+
+msgid "medium"
+msgstr "miðlungs"
+
+msgid "menu"
+msgstr "aðalval"
+
+msgid "message"
+msgstr "skilaboð"
+
+msgid "minimize"
+msgstr "minnka"
+
+msgid "miscellaneous"
+msgstr "Ýmislegt"
 
 msgid "mm"
 msgstr "mm"
@@ -4582,98 +3022,758 @@ msgstr "mm"
 msgid "mode"
 msgstr "hamur"
 
-msgid "oufuku (reply postcard)"
-msgstr "oufuku (svarpóstkort)"
+msgid "model"
+msgstr "módel"
+
+msgid "modified"
+msgstr "breytt"
+
+msgid "modify..."
+msgstr "breyta..."
+
+msgid "module"
+msgstr "eining"
+
+msgid "modules"
+msgstr "einingar"
+
+msgid "month"
+msgstr "mánuður"
+
+msgid "more..."
+msgstr "meira..."
+
+msgid "mosaic"
+msgstr "mósaík"
+
+msgid "move"
+msgstr "færa"
+
+msgid "music"
+msgstr "tónlist"
+
+msgid "mute"
+msgstr "hunsa"
+
+msgid "name"
+msgstr "nafn"
+
+msgid "navigation"
+msgstr "rötun"
+
+msgid "neon"
+msgstr "neon"
+
+msgid "network"
+msgstr "netkerfi"
+
+msgid "next"
+msgstr "næsta"
+
+msgid "no"
+msgstr "nei"
+
+msgid "none"
+msgstr "ekkert"
+
+msgid "normal"
+msgstr "venjulegt"
+
+msgid "nothing"
+msgstr "ekkert"
+
+msgid "numbering"
+msgstr "tölusetning"
+
+msgid "numbers"
+msgstr "tölur"
+
+msgid "numeric"
+msgstr "tölur"
+
+msgid "object"
+msgstr "hlutur"
+
+msgid "objects"
+msgstr "hlutir"
+
+msgid "observers"
+msgstr "Áhorfendur"
+
+msgid "offline"
+msgstr "Ótengdur"
+
+msgid "offset"
+msgstr "hliðrun"
+
+msgid "op_tions"
+msgstr "_valkostir"
+
+msgid "open"
+msgstr "opna"
+
+msgid "opponent"
+msgstr "andstæðingur"
+
+msgid "options"
+msgstr "aðgerð"
+
+msgid "or"
+msgstr "eða"
+
+msgid "orange"
+msgstr "appelsínugulur"
+
+msgid "orientation"
+msgstr "stefna"
+
+msgid "original"
+msgstr "upprunalegt"
+
+msgid "other"
+msgstr "annað"
+
+msgid "other…"
+msgstr "annað…"
 
 msgid "output"
-msgstr "úttak"
+msgstr "frálag"
 
-msgid "pa-kai"
-msgstr "pa-kai"
+msgid "overlap"
+msgstr "skarast"
+
+msgid "p_aper"
+msgstr "p_appír"
+
+msgid "page"
+msgstr "síða"
+
+msgid "pages"
+msgstr "síður"
+
+msgid "palettes"
+msgstr "litatöflur"
+
+msgid "paper"
+msgstr "pappír"
+
+msgid "parameters"
+msgstr "færibreytur"
+
+msgid "password"
+msgstr "lykilorð"
+
+msgid "paste"
+msgstr "líma"
+
+msgid "path"
+msgstr "slóð"
+
+msgid "paths"
+msgstr "slóðir"
+
+msgid "pattern"
+msgstr "mynstur"
+
+msgid "pause"
+msgstr "bíða"
 
 msgid "paused"
-msgstr "bíð"
+msgstr "Í bið"
 
-msgid "prc 16k"
-msgstr "prc 16k"
+msgid "perspective"
+msgstr "sjónarhorn"
 
-msgid "prc 32k"
-msgstr "prc 32k"
+msgid "phong"
+msgstr "phong-skygging"
 
-msgid "prc1 Envelope"
-msgstr "prc1 umslag"
+msgid "pixel"
+msgstr "mynddíll"
 
-msgid "prc10 Envelope"
-msgstr "prc10 umslag"
+msgid "pixels"
+msgstr "mynddílar"
 
-msgid "prc2 Envelope"
-msgstr "prc2 umslag"
+msgid "placeholders"
+msgstr "Ígildisbreytur"
 
-msgid "prc3 Envelope"
-msgstr "prc3 umslag"
+msgid "placement"
+msgstr "staðsetning"
 
-msgid "prc4 Envelope"
-msgstr "prc4 umslag"
+msgid "play"
+msgstr "spila"
 
-msgid "prc5 Envelope"
-msgstr "prc5 umslag"
+msgid "player"
+msgstr "prager"
 
-msgid "prc6 Envelope"
-msgstr "prc6 umslag"
+msgid "plural"
+msgstr "fleirtala"
 
-msgid "prc7 Envelope"
-msgstr "prc7 umslag"
+msgid "point"
+msgstr "punktur"
 
-msgid "prc8 Envelope"
-msgstr "prc8 umslag"
+msgid "pointer"
+msgstr "bendill"
 
-msgid "prc9 Envelope"
-msgstr "prc9 umslag"
+msgid "points"
+msgstr "punktar"
 
-msgid "printer offline"
-msgstr "prentari aftengdur"
+msgid "polygon"
+msgstr "marghyrningur"
 
-msgid "processing job"
-msgstr "er að vinna"
+msgid "portrait"
+msgstr "skammsnið"
 
-msgid "ready to print"
-msgstr "tilbúið að prenta"
+msgid "position"
+msgstr "Sta�a"
+
+msgid "posterize"
+msgstr "Þrykk"
+
+msgid "power"
+msgstr "veldi"
+
+msgid "pr_eview"
+msgstr "forskoð_un"
+
+msgid "pre_view"
+msgstr "_forskoðun"
+
+msgid "preferences"
+msgstr "stillingar"
+
+msgid "prefix"
+msgstr "forskeyti"
+
+msgid "pressure"
+msgstr "Þrýstingur"
+
+msgid "preview"
+msgstr "forskoða"
+
+msgid "previous"
+msgstr "fyrri"
+
+msgid "print"
+msgstr "prenta"
+
+msgid "printer"
+msgstr "prentari"
+
+msgid "printing"
+msgstr "prentun"
+
+msgid "profile"
+msgstr "hliðarmynd"
+
+msgid "progress"
+msgstr "framvinda"
+
+msgid "project"
+msgstr "verkefni"
+
+msgid "projects"
+msgstr "verkefni"
+
+msgid "properties"
+msgstr "eiginleikar"
+
+msgid "property"
+msgstr "eiginleiki"
+
+msgid "purple"
+msgstr "fjólublár"
+
+msgid "purpose"
+msgstr "tilgangur"
+
+msgid "quality"
+msgstr "gæði"
+
+msgid "quit"
+msgstr "hætta"
+
+msgid "radial"
+msgstr "geisla"
+
+msgid "radius"
+msgstr "radíus"
+
+msgid "random"
+msgstr "slembi"
+
+msgid "range"
+msgstr "skotmál"
+
+msgid "rate"
+msgstr "vaxtaprósenta"
+
+msgid "ready"
+msgstr "tilbúinn"
+
+msgid "recent"
+msgstr "nýlegt"
+
+msgid "rectangle"
+msgstr "rétthyrningur"
+
+msgid "red"
+msgstr "rautt"
+
+msgid "redo"
+msgstr "endurkalla"
+
+msgid "refresh"
+msgstr "glæða skjá"
+
+msgid "reject"
+msgstr "hafna"
+
+msgid "rejected"
+msgstr "hafnað"
+
+msgid "remove"
+msgstr "fjarlægja"
+
+msgid "rendering"
+msgstr "m�la"
+
+msgid "repeat"
+msgstr "endurtaka"
+
+msgid "replace"
+msgstr "skipta út"
+
+msgid "reports"
+msgstr "skýrslur"
+
+msgid "reset"
+msgstr "endurræsa"
 
 msgid "resize"
-msgstr "breyta stærð"
+msgstr "endurstækka kort"
 
-msgid "shared"
-msgstr "sameiginlega"
+msgid "resolution"
+msgstr "upplausn"
+
+msgid "restore"
+msgstr "endurheimta"
+
+msgid "return"
+msgstr "til baka"
+
+msgid "reverse"
+msgstr "snúa við"
+
+msgid "review"
+msgstr "endurskoða"
+
+msgid "right"
+msgstr "lengd:"
+
+msgid "rotate"
+msgstr "snúa"
+
+msgid "rotation"
+msgstr "snúningur"
+
+msgid "round"
+msgstr "rúnnað"
+
+msgid "rows"
+msgstr "raðir"
+
+msgid "russian"
+msgstr "uppgj�f"
+
+msgid "s"
+msgstr "s"
+
+msgid "sans"
+msgstr "sans"
+
+msgid "saturation"
+msgstr "litmettun"
+
+msgid "save"
+msgstr "vista"
+
+msgid "saved"
+msgstr "vistað"
+
+msgid "scale"
+msgstr "kvarði"
+
+msgid "scaling"
+msgstr "skölun"
+
+msgid "scenario"
+msgstr "ljúka atburðarás"
+
+msgid "scenarios"
+msgstr "atburðarásir"
+
+msgid "screen"
+msgstr "skjár"
+
+msgid "screenshot"
+msgstr "skjáskot"
+
+msgid "screenshots..."
+msgstr "skjáskot"
+
+msgid "search"
+msgstr "leit"
+
+msgid "select"
+msgstr "velja"
+
+msgid "selection"
+msgstr "val"
+
+msgid "send"
+msgstr "sandur"
+
+msgid "services"
+msgstr "Þjónustur"
+
+msgid "settings"
+msgstr "stillingar"
+
+msgid "shadow"
+msgstr "skuggi"
+
+msgid "shadows"
+msgstr "skuggar"
+
+msgid "shape"
+msgstr "lögun"
+
+msgid "sharpen"
+msgstr "skerpa"
+
+msgid "shift"
+msgstr "skipti"
+
+msgid "shortcut"
+msgstr "flýtilykill"
+
+msgid "show"
+msgstr "sýna"
+
+msgid "shrink"
+msgstr "minnka"
+
+msgid "simple"
+msgstr "einfalt"
+
+msgid "sine"
+msgstr "sínus"
+
+msgid "singular"
+msgstr "eintala"
+
+msgid "size"
+msgstr "stærð"
+
+msgid "skip"
+msgstr "sleppa"
+
+msgid "slow"
+msgstr "hægð"
+
+msgid "small"
+msgstr "lítil"
+
+msgid "smooth"
+msgstr "sl�tt"
+
+msgid "solid"
+msgstr "gegnheilt"
+
+msgid "sound"
+msgstr "hlj��"
+
+msgid "source"
+msgstr "uppruni"
+
+msgid "space"
+msgstr "bil"
+
+msgid "spacing"
+msgstr "millibil"
+
+msgid "spanish"
+msgstr "danska"
+
+msgid "special"
+msgstr "sérstakt"
+
+msgid "specular"
+msgstr "speglandi"
+
+msgid "speed"
+msgstr "hraði"
+
+msgid "sphere"
+msgstr "kúla"
+
+msgid "spherical"
+msgstr "kúlulaga"
+
+msgid "spider"
+msgstr "kónguló"
+
+msgid "spinner"
+msgstr "snúningsreitur"
+
+msgid "split"
+msgstr "kljúfa"
+
+msgid "square"
+msgstr "ferhyrnt"
+
+msgid "squares"
+msgstr "ferningar"
+
+msgid "stack"
+msgstr "stafla"
+
+msgid "standard"
+msgstr "venjulegt"
+
+msgid "state"
+msgstr "staða"
+
+msgid "statistics"
+msgstr "yfirlit"
+
+msgid "status"
+msgstr "staða:"
+
+msgid "stop"
+msgstr "stoppa"
+
+msgid "strikethrough"
+msgstr "yfirstrikun"
+
+msgid "strong"
+msgstr "styrkur"
+
+msgid "style"
+msgstr "stíll"
+
+msgid "submissions"
+msgstr "sent inn"
+
+msgid "subtitle"
+msgstr "undirtexti"
+
+msgid "subtract"
+msgstr "draga frá"
+
+msgid "suggest"
+msgstr "stinga uppá"
+
+msgid "suggestion"
+msgstr "tillögur"
+
+msgid "suggestions"
+msgstr "tillögur"
+
+msgid "summary"
+msgstr "samantekt"
 
 msgid "surface"
 msgstr "yfirborð"
 
+msgid "symbol"
+msgstr "tákn"
+
+msgid "system"
+msgstr "kerfi"
+
+msgid "tab"
+msgstr "innskotsmerki"
+
+msgid "tabloid"
+msgstr "dagblaðssnið (tabloid)"
+
+msgid "tabs"
+msgstr "inndráttarmerki"
+
+msgid "target"
+msgstr "Útkoma"
+
+msgid "te_xt"
+msgstr "te_xti"
+
+msgid "templates"
+msgstr "sniðmát"
+
+msgid "term"
+msgstr "orð"
+
+msgid "text"
+msgstr "texti"
+
+msgid "theme"
+msgstr "Þema"
+
+msgid "themes"
+msgstr "Þemu"
+
+msgid "tile"
+msgstr "flísaleggja"
+
+msgid "tiny"
+msgstr "pínulítið"
+
+msgid "title"
+msgstr "titill"
+
+msgid "toggle"
+msgstr "víxla"
+
+msgid "toolbox"
+msgstr "tækjaslá"
+
+msgid "tools"
+msgstr "verkfæri"
+
+msgid "total"
+msgstr "samtals"
+
+msgid "tr_ansparency"
+msgstr "_gegnsæi"
+
+msgid "transform"
+msgstr "ummynda"
+
+msgid "transformation"
+msgstr "umbreyting"
+
+msgid "transparency"
+msgstr "gegnsæi"
+
+msgid "transparent"
+msgstr "gegnsætt"
+
+msgid "tutorial"
+msgstr "sýnikennsla"
+
+msgid "type"
+msgstr "tegund"
+
+msgid "underline"
+msgstr "undirstrikað"
+
+msgid "undo"
+msgstr "afturkalla"
+
+msgid "uniform"
+msgstr "einsleitt"
+
+msgid "unit"
+msgstr "eining"
+
+msgid "units"
+msgstr "einingar"
+
 msgid "unknown"
 msgstr "óþekkt"
 
-msgid "uuid x6&4:"
-msgstr "uuid x6&4:"
+msgid "untitled"
+msgstr "Ónefnt"
+
+msgid "up"
+msgstr "upp"
+
+msgid "user"
+msgstr "notandi"
+
+msgid "username"
+msgstr "notandanafn"
+
+msgid "v_alue"
+msgstr "g_ildi"
+
+msgid "value"
+msgstr "gildi"
+
+msgid "version"
+msgstr "Útgáfa"
+
+msgid "vertical"
+msgstr "lóðrétt"
+
+msgid "vertically"
+msgstr "lóðrétt"
+
+msgid "view"
+msgstr "skoða"
 
 msgid "visible"
 msgstr "sýnilegt"
 
-msgid "week"
-msgstr "vika"
+msgid "visual"
+msgstr "myndrænt"
+
+msgid "volume"
+msgstr "bindi"
+
+msgid "waiting"
+msgstr "bið"
+
+msgid "warning"
+msgstr "viðvörun:"
+
+msgid "weak"
+msgstr "veikburði"
+
+msgid "website"
+msgstr "vefsvæði"
+
+msgid "weight"
+msgstr "Þykkt"
+
+msgid "welcome"
+msgstr "velkomin(n)"
+
+msgid "wheel"
+msgstr "hjól"
+
+msgid "white"
+msgstr "hvítur"
 
 msgid "width"
 msgstr "breidd"
 
-msgid "words [uncompressed]:"
-msgstr "orð [óþjöppuð]:"
+msgid "window"
+msgstr "gluggar"
+
+msgid "wood"
+msgstr "viður"
+
+msgid "words"
+msgstr "orð"
+
+msgid "wrap"
+msgstr "textaskrið"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"
 
 msgid "year"
 msgstr "ár"
 
+msgid "yellow"
+msgstr "gult"
+
 msgid "yes"
 msgstr "já"
 
-msgid "you4 Envelope"
-msgstr "you4 umslag"
-
-msgid "you6 Envelope"
-msgstr "you6 umslag"
+msgid "zoom"
+msgstr "aðdráttur"
