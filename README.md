@@ -50,6 +50,17 @@ Now you can update your views as necessary:
   =t("%{words} in the dictionary", words: p_(Dictionary.count, "word"))
 ```
 
+`t()` will try to make some intelligent guesses if it can't find the exact string:
+
+```
+  t("key:") ~= t("key") + ":"
+  t("key!") ~= t("key") + "!"
+  t("key?") ~= t("key") + "?"
+
+  t("Key") ~= t("key").capitalize
+  t("key") ~= t("key").downcase
+```
+
 ## TODO
 
 1. How to filter this data set to only get the strings used in your application

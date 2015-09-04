@@ -12,8 +12,53 @@ module FastGettext
 
     # override the default i18n t() to make more sense
     # so we don't need to do _("arg") % {args} everywhere
+    # also allows for smarter failure captures with strings
+    # that might not be present
     def t(string, *args)
-      _(string) % args
+      template = FastGettext.cached_find(string)
+
+      [":", "!", "?"].each do |c|
+        if !template && string[-1] == c
+          template = FastGettext.cached_find(string[0...(string.length - 1)])
+          template += c if template
+        end
+      end
+
+      # try lowercase
+      if !template
+        if string.capitalize == string
+          if !template
+            template = FastGettext.cached_find(string.downcase)
+            template = template.capitalize if template
+          end
+        end
+      end
+
+      # try capitalize
+      if !template
+        if string.downcase == string
+          if !template
+            template = FastGettext.cached_find(string.capitalize)
+            template = template.downcase if template
+          end
+        end
+      end
+
+      # try using '%{argument}' instead
+      ["argument", "string", "number", "value"].each do |key|
+        if !template && args && args[0] && args[0].keys.length > 0
+          new_key = string.gsub('%{' + args.first.keys.first.to_s + '}', '%{' + key + '}')
+          template = FastGettext.cached_find(new_key)
+          args[0][key.to_sym] = args.first.values.first
+        end
+      end
+
+      # nope, couldn't find anything
+      if !template
+        template = string
+      end
+
+      template % args
     end
   end
 end
